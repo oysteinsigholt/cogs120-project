@@ -8,8 +8,8 @@
     "test": "npm run test:eslint && npm run test:stylelint",
     "test:eslint": "eslint gulpfile.js app.js routes/**/*.js",
     "fix:eslint": "eslint --fix gulpfile.js app.js routes/**/*.js",
-	"test:stylelint": "stylelint scss/**/*.scss",
-	"fix:stylelint": "stylelint scss/**/*.scss --fix"
+	"test:stylelint": "stylelint sass/**/*.scss",
+	"fix:stylelint": "stylelint sass/**/*.scss --fix"
   },
   "repository": {
     "type": "git",
