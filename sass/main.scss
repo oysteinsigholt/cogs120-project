@@ -1,3 +1,19 @@
+.top-nav {
+  height: 110px;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.brand-logo {
+  font-size: 36px;
+}
+
 body {
-  background: red;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
 }
