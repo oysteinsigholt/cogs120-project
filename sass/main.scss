@@ -1,3 +1,6 @@
+@import 'variables.scss';
+@import '../node_modules/materialize-css/sass/materialize.scss';
+
 .top-nav {
   height: 110px;
   -webkit-box-shadow: none;
@@ -5,8 +8,20 @@
 }
 
 .brand-logo {
-  font-size: 36px;
+	margin-top: 25px;
+	font-size: 36px;
 }
+
+.container {
+	margin-top: 25px;
+}
+
+.chips {
+	.input {
+		width: 140px !important;
+	}
+}
+
 
 body {
   display: flex;
@@ -16,4 +31,34 @@ body {
 
 main {
   flex: 1 0 auto;
+}
+
+#ucsd-quarter {
+	li {
+		width: 33%;
+	}
+}
+
+#logo-highlight {
+	color: $secondary-color;
+}
+
+#class-search {
+	margin-top: 25px;
+}
+
+#homepage-info {
+	float: left;
+}
+
+#homepage-next {
+	float: right;
+}
+
+#homepage-logo {
+	z-index: -1;
+	position: absolute;
+  	top: 66%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
 }
