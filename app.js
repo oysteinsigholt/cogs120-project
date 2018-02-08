@@ -13,23 +13,15 @@ const hbs = handlebars.create({
       if (arg1.indexOf(arg2) !== -1) return options.fn(this);
       return '';
     },
-    ifHasDay: (short, timeslots, options) => {
-      let hasDay = false;
-      timeslots.forEach((timeslot) => {
-        if (timeslot.days.indexOf(short) !== -1) {
-          hasDay = true;
-        }
-      });
-      if (hasDay) {
-        return options.fn(this);
-      }
-
-      return '';
-    },
   },
 });
 
-app.use(require('connect-livereload')());
+const env = process.env.NODE_ENV || 'dev';
+
+if (env === 'dev') {
+  // eslint-disable-next-line global-require
+  app.use(require('connect-livereload')());
+}
 
 app.set('views', path.join(__dirname, 'views'));
 app.engine('hbs', hbs.engine);

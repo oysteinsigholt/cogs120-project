@@ -4,7 +4,7 @@
   "description": "Project for CSE 170/COGS 120",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "NODE_ENV=production node app.js",
     "postinstall": "gulp build",
     "dev": "gulp dev",
     "test": "npm run test:eslint && npm run test:stylelint",
