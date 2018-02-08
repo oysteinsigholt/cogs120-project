@@ -8,8 +8,8 @@
     "test": "npm run test:eslint && npm run test:stylelint",
     "test:eslint": "eslint gulpfile.js app.js routes/**/*.js",
     "fix:eslint": "eslint --fix gulpfile.js app.js routes/**/*.js",
-	"test:stylelint": "stylelint sass/**/*.scss",
-	"fix:stylelint": "stylelint sass/**/*.scss --fix"
+    "test:stylelint": "stylelint sass/**/*.scss",
+    "fix:stylelint": "stylelint sass/**/*.scss --fix"
   },
   "repository": {
     "type": "git",
@@ -30,6 +30,7 @@
     "gulp-nodemon": "^2.2.1",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^3.1.0",
+    "materialize-css": "^1.0.0-alpha.3",
     "stylelint": "^8.4.0",
     "stylelint-config-standard": "^18.0.0",
     "stylelint-order": "^0.8.0",

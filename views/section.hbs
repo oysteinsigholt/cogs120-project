@@ -1,0 +1,70 @@
+<!doctype html>
+
+<html>
+<head>
+	<title>IxD Project</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link rel="stylesheet" href="style/style.css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+	<nav class="top-nav">
+    <div class="nav-wrapper">
+			<ul class="left">
+        <li><a href="/"><i class="material-icons">keyboard_arrow_left</i></a></li>
+      </ul>
+      <span class="brand-logo course-name">{{ code }}: {{ name }}</span>
+    </div>
+  </nav>
+	<main>
+		{{#each days}}
+			{{#ifHasDay short @root.timeslots}}
+				<div class="container">
+					<h5>{{ ../name }}</h5>
+				</div>
+				<div class="event-row">
+				{{#each @root.timeslots}}
+					{{#ifContains days ../../short}}
+				        <div class="event card-panel teal">
+									<div class="card-content white-text">
+			              <p class="event-details event-time">{{ ../time }}</p>
+			              <h5 class="event-title">Lecture</h5>
+										<p class="event-details event-location">{{ ../building }} {{ ../room }}</p>
+										<p class="event-details">{{ ../instructor }}</p>
+										<div class="switch">
+											<label class="event-toggle">
+												<input type="checkbox">
+												<span class="lever"></span>
+											</label>
+										</div>
+			            </div>
+				        </div>
+
+					{{/ifContains}}
+				{{/each}}
+	    </div>
+			{{/ifHasDay}}
+		{{/each}}
+	</main>
+	<footer>
+		<button class="btn btn-large waves-effect waves-light" id="section-next" type="submit" name="action">Next
+			<i class="material-icons right">send</i>
+		</button>
+		<button class="btn btn-large waves-effect waves-light" id="section-custom" type="submit" name="action">Add Event
+			<i class="material-icons right">event</i>
+		</button>
+	</footer>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+	<script src="./script/script.js"></script>
+</body>
+</html>
