@@ -2,7 +2,6 @@
 /* eslint-env jquery */
 
 $(document).ready(() => {
-  console.log("Document ready");
   $('.chips-autocomplete').material_chip({
     placeholder: 'Add a course ',
     secondaryPlaceholder: 'Add another course ',
@@ -22,6 +21,11 @@ $(document).ready(() => {
     e.preventDefault();
   });
 
+  $('#skeleton-next').click((e) => {
+    window.location.href = '/skeleton/section.html';
+    e.preventDefault();
+  });
+
   $('#section-next').click((e) => {
     window.location.href = '/skeleton/calendar.html';
     e.preventDefault();
@@ -29,6 +33,11 @@ $(document).ready(() => {
 
   $('#section-custom').click((e) => {
     window.location.href = '/skeleton/custom.html';
+    e.preventDefault();
+  });
+
+  $('#nav-back').click((e) => {
+    window.history.back();
     e.preventDefault();
   });
 });

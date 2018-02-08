@@ -37,32 +37,27 @@
 			<center><h5>Customize Schedule</h5></center>
 		</div>
 		{{#each days}}
-			{{#ifHasDay short @root.timeslots}}
-				<div class="container">
-					<h5>{{ ../name }}</h5>
-				</div>
-				<div class="event-row">
-				{{#each @root.timeslots}}
-					{{#ifContains days ../../short}}
-				        <div class="event card-panel teal">
-									<div class="card-content white-text">
-			              <p class="event-details event-time">{{ ../time }}</p>
-			              <h5 class="event-title">Lecture</h5>
-										<p class="event-details event-location">{{ ../building }} {{ ../room }}</p>
-										<p class="event-details">{{ ../instructor }}</p>
-										<div class="switch">
-											<label class="event-toggle">
-												<input type="checkbox">
-												<span class="lever"></span>
-											</label>
-										</div>
-			            </div>
-				        </div>
-
-					{{/ifContains}}
+			<div class="container">
+				<h5>{{ name }}</h5>
+			</div>
+			<div class="event-row">
+				{{#each events}}
+	        <div class="event card-panel teal">
+						<div class="card-content white-text">
+	            <p class="event-details event-time">{{ time }} <span class="event-details event-section">{{ section }}</span></p>
+	            <h5 class="event-title">{{ type }}</h5>
+							<p class="event-details event-location">{{ building }} {{ room }}</p>
+							<p class="event-details">{{ instructor }}</p>
+							<div class="switch">
+								<label class="event-toggle">
+									<input type="checkbox"{{#if checked }} checked{{/if}}>
+									<span class="lever"></span>
+								</label>
+							</div>
+	          </div>
+	        </div>
 				{{/each}}
-	    </div>
-			{{/ifHasDay}}
+    	</div>
 		{{/each}}
 	</main>
 	<footer>

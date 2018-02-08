@@ -6480,7 +6480,7 @@ input[type=range].focused:focus:not(.active)::-ms-thumb {
   display: flex; }
   .event-row .event {
     width: 300px;
-    min-width: 300;
+    min-width: 300px;
     margin: 12px;
     position: relative; }
     .event-row .event .event-title {
@@ -6492,6 +6492,8 @@ input[type=range].focused:focus:not(.active)::-ms-thumb {
       position: absolute;
       right: 12px;
       bottom: 28px; }
+    .event-row .event .event-section {
+      float: right; }
 
 #ucsd-quarter li {
   width: 33%; }
