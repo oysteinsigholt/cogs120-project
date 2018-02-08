@@ -20,4 +20,14 @@ $(document).ready(() => {
     window.location.href = '/section';
     e.preventDefault();
   });
+
+  $('#section-next').click((e) => {
+    window.location.href = '/skeleton/calendar.html';
+    e.preventDefault();
+  });
+
+  $('#section-custom').click((e) => {
+    window.location.href = '/skeleton/custom.html';
+    e.preventDefault();
+  });
 });
