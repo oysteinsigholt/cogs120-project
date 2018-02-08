@@ -27,22 +27,22 @@
     "eslint": "^4.9.0",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.7.0",
+    "stylelint": "^8.4.0",
+    "stylelint-config-standard": "^18.0.0",
+    "stylelint-order": "^0.8.0",
+    "stylelint-scss": "^2.2.0",
+  },
+  "dependencies": {
+    "connect-livereload": "^0.6.0",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.1.0",
     "gulp-livereload": "^3.8.1",
     "gulp-nodemon": "^2.2.1",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^3.1.0",
     "materialize-css": "^1.0.0-alpha.3",
-    "stylelint": "^8.4.0",
-    "stylelint-config-standard": "^18.0.0",
-    "stylelint-order": "^0.8.0",
-    "stylelint-scss": "^2.2.0",
-    "tiny-lr": "^1.1.0"
-  },
-  "dependencies": {
-    "connect-livereload": "^0.6.0",
-    "express": "^4.16.2",
-    "express-handlebars": "^3.0.0",
-    "gulp": "^3.9.1"
+    "tiny-lr": "^1.1.0,
   }
 }
