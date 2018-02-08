@@ -33,21 +33,21 @@ footer {
   flex-direction: row-reverse;
   justify-content: space-between;
   width: 100%;
-}
 
-.course-name {
-  font-size: 24px !important;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-  max-width: calc(100% - 54px * 2);
-}
+  &.footer-vertical {
+    flex-direction: column;
 
-.section-select {
-  display: flex;
-  justify-content: center;
+    .btn-wide {
+      margin: 6px 0;
 
-  label {
-    margin: 12px;
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
   }
+}
+
+.grayscale {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
 }
