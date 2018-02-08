@@ -2,6 +2,7 @@
 /* eslint-env jquery */
 
 $(document).ready(() => {
+  console.log("Document ready");
   $('.chips-autocomplete').material_chip({
     placeholder: 'Add a course ',
     secondaryPlaceholder: 'Add another course ',

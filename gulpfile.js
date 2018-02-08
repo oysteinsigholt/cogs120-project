@@ -29,3 +29,4 @@ gulp.task('watch', () => {
 });
 
 gulp.task('dev', ['sass', 'watch']);
+gulp.task('build', ['sass']);

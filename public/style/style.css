@@ -6480,7 +6480,7 @@ input[type=range].focused:focus:not(.active)::-ms-thumb {
   display: flex; }
   .event-row .event {
     width: 300px;
-    min-width: 300px;
+    min-width: 300;
     margin: 12px;
     position: relative; }
     .event-row .event .event-title {
@@ -6537,3 +6537,9 @@ footer {
   text-overflow: ellipsis;
   white-space: nowrap;
   max-width: calc(100% - 54px * 2); }
+
+.section-select {
+  display: flex;
+  justify-content: center; }
+  .section-select label {
+    margin: 12px; }

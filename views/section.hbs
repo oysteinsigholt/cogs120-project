@@ -26,6 +26,16 @@
     </div>
   </nav>
 	<main>
+		<div class="container">
+			<center><h5>Select Your Section</h5></center>
+			<div class="section-select">
+	      <label for="section-A"><input type="checkbox" class="filled-in" id="section-A" checked="checked" /><span>A</span></label>
+				<label for="section-B"><input type="checkbox" class="filled-in" id="section-B" /><span>B</span></label>
+	    </div>
+		</div>
+		<div class="container">
+			<center><h5>Customize Schedule</h5></center>
+		</div>
 		{{#each days}}
 			{{#ifHasDay short @root.timeslots}}
 				<div class="container">
@@ -65,6 +75,6 @@
 	</footer>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
-	<script src="./script/script.js"></script>
+	<script src="/script/script.js"></script>
 </body>
 </html>

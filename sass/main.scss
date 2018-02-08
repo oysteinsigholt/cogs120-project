@@ -42,3 +42,12 @@ footer {
   white-space: nowrap;
   max-width: calc(100% - 54px * 2);
 }
+
+.section-select {
+  display: flex;
+  justify-content: center;
+
+  label {
+    margin: 12px;
+  }
+}
