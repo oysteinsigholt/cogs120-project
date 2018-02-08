@@ -1,5 +1,6 @@
 @import 'utils/main';
 @import 'vendors/main';
+@import 'components/main';
 @import 'pages/main';
 
 .top-nav {
@@ -21,34 +22,23 @@ body {
 
 main {
   flex: 1 0 auto;
+  padding-bottom: 64px;
 }
 
-#ucsd-quarter {
-  li {
-    width: 33%;
-  }
+footer {
+  position: fixed;
+  bottom: 0;
+  padding: 12px;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  width: 100%;
 }
 
-#logo-highlight {
-  color: $secondary-color;
-}
-
-#class-search {
-  margin-top: 25px;
-}
-
-#homepage-info {
-  float: left;
-}
-
-#homepage-next {
-  float: right;
-}
-
-#homepage-logo {
-  z-index: -1;
-  position: absolute;
-  top: 66%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+.course-name {
+  font-size: 24px !important;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: calc(100% - 54px * 2);
 }

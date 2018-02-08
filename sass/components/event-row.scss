@@ -1,0 +1,26 @@
+.event-row {
+  overflow-x: scroll;
+  display: flex;
+
+  .event {
+    width: 300px;
+    min-width: 300px;
+    margin: 12px;
+    position: relative;
+
+    .event-title {
+      margin-top: 0;
+    }
+
+    .event-details {
+      margin: 0;
+      opacity: 0.87;
+    }
+
+    .event-toggle {
+      position: absolute;
+      right: 12px;
+      bottom: 28px;
+    }
+  }
+}

@@ -6475,6 +6475,37 @@ input[type=range].focused:focus:not(.active)::-ms-thumb {
     text-align: center;
     margin-top: 1.2rem; } }
 
+.event-row {
+  overflow-x: scroll;
+  display: flex; }
+  .event-row .event {
+    width: 300px;
+    min-width: 300px;
+    margin: 12px;
+    position: relative; }
+    .event-row .event .event-title {
+      margin-top: 0; }
+    .event-row .event .event-details {
+      margin: 0;
+      opacity: 0.87; }
+    .event-row .event .event-toggle {
+      position: absolute;
+      right: 12px;
+      bottom: 28px; }
+
+#ucsd-quarter li {
+  width: 33%; }
+
+#class-search {
+  margin-top: 25px; }
+
+#homepage-logo {
+  z-index: -1;
+  position: absolute;
+  top: 66%;
+  left: 50%;
+  transform: translate(-50%, -50%); }
+
 .top-nav {
   -webkit-box-shadow: none;
   box-shadow: none; }
@@ -6488,26 +6519,21 @@ body {
   flex-direction: column; }
 
 main {
-  flex: 1 0 auto; }
+  flex: 1 0 auto;
+  padding-bottom: 64px; }
 
-#ucsd-quarter li {
-  width: 33%; }
+footer {
+  position: fixed;
+  bottom: 0;
+  padding: 12px;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  width: 100%; }
 
-#logo-highlight {
-  color: #ff9800; }
-
-#class-search {
-  margin-top: 25px; }
-
-#homepage-info {
-  float: left; }
-
-#homepage-next {
-  float: right; }
-
-#homepage-logo {
-  z-index: -1;
-  position: absolute;
-  top: 66%;
-  left: 50%;
-  transform: translate(-50%, -50%); }
+.course-name {
+  font-size: 24px !important;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: calc(100% - 54px * 2); }

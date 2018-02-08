@@ -15,4 +15,9 @@ $(document).ready(() => {
       minLength: 1,
     },
   });
+
+  $('#homepage-next').click((e) => {
+    window.location.href = '/section';
+    e.preventDefault();
+  });
 });
