@@ -1,0 +1,47 @@
+{
+  "code": "MUS 95E",
+  "name": "Chamber Orchestra",
+  "department": "MUS",
+  "id": "95E",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921924",
+      "type": "ST",
+      "section": "A00",
+      "days": "Tu",
+      "time": "6:30p-9:20p",
+      "building": "CPMC",
+      "room": "136",
+      "instructor": "Kline, Matthew John",
+      "start_time": "18:30",
+      "end_time": "21:20"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "921924",
+        "type": "ST",
+        "section": "A00",
+        "days": "Tu",
+        "time": "6:30p-9:20p",
+        "building": "CPMC",
+        "room": "136",
+        "instructor": "Kline, Matthew John",
+        "start_time": "18:30",
+        "end_time": "21:20"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

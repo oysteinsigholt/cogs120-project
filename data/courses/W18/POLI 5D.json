@@ -1,0 +1,196 @@
+{
+  "code": "POLI 5D",
+  "name": "Data Analytics/Social Sciences",
+  "department": "POLI",
+  "id": "5D",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MW",
+      "time": "12:00p-12:50p",
+      "building": "SOLIS",
+      "room": "104",
+      "instructor": "Xu, Yiqing",
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925267",
+      "type": "LA",
+      "section": "A01",
+      "days": "F",
+      "time": "11:00a-11:50a",
+      "building": "ECON",
+      "room": "100",
+      "instructor": "Xu, Yiqing",
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925268",
+      "type": "LA",
+      "section": "A02",
+      "days": "F",
+      "time": "12:00p-12:50p",
+      "building": "ECON",
+      "room": "100",
+      "instructor": "Xu, Yiqing",
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925269",
+      "type": "LA",
+      "section": "A03",
+      "days": "Th",
+      "time": "4:00p-4:50p",
+      "building": "SEQUO",
+      "room": "142",
+      "instructor": "Xu, Yiqing",
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925270",
+      "type": "LA",
+      "section": "A04",
+      "days": "Th",
+      "time": "5:00p-5:50p",
+      "building": "SEQUO",
+      "room": "142",
+      "instructor": "Xu, Yiqing",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "12:00p-12:50p",
+        "building": "SOLIS",
+        "room": "104",
+        "instructor": "Xu, Yiqing",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "12:00p-12:50p",
+        "building": "SOLIS",
+        "room": "104",
+        "instructor": "Xu, Yiqing",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "925269",
+        "type": "LA",
+        "section": "A03",
+        "days": "Th",
+        "time": "4:00p-4:50p",
+        "building": "SEQUO",
+        "room": "142",
+        "instructor": "Xu, Yiqing",
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925270",
+        "type": "LA",
+        "section": "A04",
+        "days": "Th",
+        "time": "5:00p-5:50p",
+        "building": "SEQUO",
+        "room": "142",
+        "instructor": "Xu, Yiqing",
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "925267",
+        "type": "LA",
+        "section": "A01",
+        "days": "F",
+        "time": "11:00a-11:50a",
+        "building": "ECON",
+        "room": "100",
+        "instructor": "Xu, Yiqing",
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925268",
+        "type": "LA",
+        "section": "A02",
+        "days": "F",
+        "time": "12:00p-12:50p",
+        "building": "ECON",
+        "room": "100",
+        "instructor": "Xu, Yiqing",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

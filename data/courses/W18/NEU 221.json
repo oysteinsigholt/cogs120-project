@@ -1,0 +1,72 @@
+{
+  "code": "NEU 221",
+  "name": "Advanced Topics/Neuroscience",
+  "department": "NEU",
+  "id": "221",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Kristan, William B."
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922198",
+      "type": "SE",
+      "section": "A01",
+      "days": "Tu",
+      "time": "2:00p-3:50p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Kristan, William B.",
+      "start_time": "14:00",
+      "end_time": "15:50"
+    }
+  ],
+  "notes": [
+    "CNCB small conf room"
+  ],
+  "events_single": [],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Kristan, William B."
+    }
+  ],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "922198",
+        "type": "SE",
+        "section": "A01",
+        "days": "Tu",
+        "time": "2:00p-3:50p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Kristan, William B.",
+        "start_time": "14:00",
+        "end_time": "15:50"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

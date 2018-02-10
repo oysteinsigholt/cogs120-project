@@ -1,0 +1,261 @@
+{
+  "code": "ECE 35",
+  "name": "Introduction to Analog Design",
+  "department": "ECE",
+  "id": "35",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "8:00a-8:50a",
+      "building": "CENTR",
+      "room": "214",
+      "instructor": "Ford, Joseph Earl",
+      "start_time": "8:00",
+      "end_time": "8:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A01",
+      "days": "F",
+      "time": "5:00p-5:50p",
+      "building": "CENTR",
+      "room": "214",
+      "instructor": "Ford, Joseph Earl",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924995",
+      "type": "LA",
+      "section": "A50",
+      "days": "M",
+      "time": "12:00p-3:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Ford, Joseph Earl",
+      "start_time": "12:00",
+      "end_time": "15:00"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924996",
+      "type": "LA",
+      "section": "A51",
+      "days": "M",
+      "time": "3:30p-6:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Ford, Joseph Earl",
+      "start_time": "15:30",
+      "end_time": "18:30"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924997",
+      "type": "LA",
+      "section": "A52",
+      "days": "Tu",
+      "time": "7:00p-10:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Ford, Joseph Earl",
+      "start_time": "19:00",
+      "end_time": "22:00"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924998",
+      "type": "LA",
+      "section": "A53",
+      "days": "W",
+      "time": "3:30p-6:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Ford, Joseph Earl",
+      "start_time": "15:30",
+      "end_time": "18:30"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924999",
+      "type": "LA",
+      "section": "A54",
+      "days": "W",
+      "time": "7:00p-10:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Ford, Joseph Earl",
+      "start_time": "19:00",
+      "end_time": "22:00"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "CENTR",
+        "room": "214",
+        "instructor": "Ford, Joseph Earl",
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924995",
+        "type": "LA",
+        "section": "A50",
+        "days": "M",
+        "time": "12:00p-3:00p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Ford, Joseph Earl",
+        "start_time": "12:00",
+        "end_time": "15:00"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924996",
+        "type": "LA",
+        "section": "A51",
+        "days": "M",
+        "time": "3:30p-6:30p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Ford, Joseph Earl",
+        "start_time": "15:30",
+        "end_time": "18:30"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "924997",
+        "type": "LA",
+        "section": "A52",
+        "days": "Tu",
+        "time": "7:00p-10:00p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Ford, Joseph Earl",
+        "start_time": "19:00",
+        "end_time": "22:00"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "CENTR",
+        "room": "214",
+        "instructor": "Ford, Joseph Earl",
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924998",
+        "type": "LA",
+        "section": "A53",
+        "days": "W",
+        "time": "3:30p-6:30p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Ford, Joseph Earl",
+        "start_time": "15:30",
+        "end_time": "18:30"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924999",
+        "type": "LA",
+        "section": "A54",
+        "days": "W",
+        "time": "7:00p-10:00p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Ford, Joseph Earl",
+        "start_time": "19:00",
+        "end_time": "22:00"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "CENTR",
+        "room": "214",
+        "instructor": "Ford, Joseph Earl",
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A01",
+        "days": "F",
+        "time": "5:00p-5:50p",
+        "building": "CENTR",
+        "room": "214",
+        "instructor": "Ford, Joseph Earl",
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

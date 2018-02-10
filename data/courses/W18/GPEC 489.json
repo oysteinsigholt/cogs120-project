@@ -1,0 +1,61 @@
+{
+  "code": "GPEC 489",
+  "name": "Non-Market Valuation",
+  "department": "GPEC",
+  "id": "489",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921697",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "5:00p-6:20p",
+      "building": "RBC",
+      "room": "3202",
+      "instructor": "Carson, Richard T",
+      "start_time": "17:00",
+      "end_time": "18:20"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "921697",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "RBC",
+        "room": "3202",
+        "instructor": "Carson, Richard T",
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "921697",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "RBC",
+        "room": "3202",
+        "instructor": "Carson, Richard T",
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

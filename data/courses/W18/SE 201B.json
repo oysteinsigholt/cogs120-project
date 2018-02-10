@@ -1,0 +1,173 @@
+{
+  "code": "SE 201B",
+  "name": "Nonlinear Structural Analysis",
+  "department": "SE",
+  "id": "201B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "923056",
+      "type": "LE",
+      "section": "A00",
+      "days": "M",
+      "time": "3:00p-3:50p",
+      "building": "PCYNH",
+      "room": "120",
+      "instructor": "Conte, Joel P",
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "11:00a-12:20p",
+      "building": "PCYNH",
+      "room": "121",
+      "instructor": "",
+      "start_time": "11:00",
+      "end_time": "12:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "PB",
+      "section": "01/17/2018",
+      "days": "W",
+      "time": "4:00p-4:50p",
+      "building": "SEQUO",
+      "room": "147",
+      "instructor": "",
+      "date": "2018-01-17T08:00:00.000Z",
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "01/17/2018",
+      "days": "W",
+      "time": "5:00p-5:50p",
+      "building": "SEQUO",
+      "room": "147",
+      "instructor": "",
+      "date": "2018-01-17T08:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "PB",
+      "section": "01/17/2018",
+      "days": "W",
+      "time": "4:00p-4:50p",
+      "building": "SEQUO",
+      "room": "147",
+      "instructor": "",
+      "date": "2018-01-17T08:00:00.000Z",
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "01/17/2018",
+      "days": "W",
+      "time": "5:00p-5:50p",
+      "building": "SEQUO",
+      "room": "147",
+      "instructor": "",
+      "date": "2018-01-17T08:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "923056",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "3:00p-3:50p",
+        "building": "PCYNH",
+        "room": "120",
+        "instructor": "Conte, Joel P",
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": false,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "PCYNH",
+        "room": "121",
+        "instructor": "",
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": false,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "PCYNH",
+        "room": "121",
+        "instructor": "",
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "code": "TDGR 244",
+  "name": "New Plays Workshop",
+  "department": "TDGR",
+  "id": "244",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920403",
+      "type": "LA",
+      "section": "A00",
+      "days": "Th",
+      "time": "2:00p-4:50p",
+      "building": "GH",
+      "room": "144",
+      "instructor": "Iizuka, Naomi Hisako",
+      "start_time": "14:00",
+      "end_time": "16:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "920403",
+        "type": "LA",
+        "section": "A00",
+        "days": "Th",
+        "time": "2:00p-4:50p",
+        "building": "GH",
+        "room": "144",
+        "instructor": "Iizuka, Naomi Hisako",
+        "start_time": "14:00",
+        "end_time": "16:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

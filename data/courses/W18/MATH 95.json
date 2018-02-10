@@ -1,0 +1,76 @@
+{
+  "code": "MATH 95",
+  "name": "Introduction to Teaching Math",
+  "department": "MATH",
+  "id": "95",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "927086",
+      "type": "LE",
+      "section": "A00",
+      "days": "Tu",
+      "time": "1:30p-3:20p",
+      "building": "APM",
+      "room": "B412",
+      "instructor": "Harel, Guershon",
+      "start_time": "13:30",
+      "end_time": "15:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/24/2018",
+      "days": "S",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-24T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/24/2018",
+      "days": "S",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-24T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "927086",
+        "type": "LE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "1:30p-3:20p",
+        "building": "APM",
+        "room": "B412",
+        "instructor": "Harel, Guershon",
+        "start_time": "13:30",
+        "end_time": "15:20"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

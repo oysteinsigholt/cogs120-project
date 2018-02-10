@@ -1,0 +1,90 @@
+{
+  "code": "MGT 166",
+  "name": "Corp Social Responsibility",
+  "department": "MGT",
+  "id": "166",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "929957",
+      "type": "LE",
+      "section": "C00",
+      "days": "TuTh",
+      "time": "11:00a-12:20p",
+      "building": "OTRSN",
+      "room": "1S113",
+      "instructor": "Moran, Cathleen L.",
+      "start_time": "11:00",
+      "end_time": "12:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "929957",
+        "type": "LE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "OTRSN",
+        "room": "1S113",
+        "instructor": "Moran, Cathleen L.",
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "929957",
+        "type": "LE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "OTRSN",
+        "room": "1S113",
+        "instructor": "Moran, Cathleen L.",
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

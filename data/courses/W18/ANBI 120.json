@@ -1,0 +1,76 @@
+{
+  "code": "ANBI 120",
+  "name": "Ethical Dilemmas in Bio Anthro",
+  "department": "ANBI",
+  "id": "120",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "923499",
+      "type": "LE",
+      "section": "A00",
+      "days": "Tu",
+      "time": "9:00a-11:50a",
+      "building": "SSB",
+      "room": "105",
+      "instructor": "Schoeninger, Margaret J",
+      "start_time": "9:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "923499",
+        "type": "LE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "9:00a-11:50a",
+        "building": "SSB",
+        "room": "105",
+        "instructor": "Schoeninger, Margaret J",
+        "start_time": "9:00",
+        "end_time": "11:50"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "code": "ANTH 281B",
+  "name": "Introductory Seminar",
+  "department": "ANTH",
+  "id": "281B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "923540",
+      "type": "SE",
+      "section": "A00",
+      "days": "Th",
+      "time": "11:00a-12:50p",
+      "building": "SSB",
+      "room": "269",
+      "instructor": "Parish, Steven Martin",
+      "start_time": "11:00",
+      "end_time": "12:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "923540",
+        "type": "SE",
+        "section": "A00",
+        "days": "Th",
+        "time": "11:00a-12:50p",
+        "building": "SSB",
+        "room": "269",
+        "instructor": "Parish, Steven Martin",
+        "start_time": "11:00",
+        "end_time": "12:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "code": "PSYC 153",
+  "name": "Psychology of Emotion",
+  "department": "PSYC",
+  "id": "153",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "924630",
+      "type": "LE",
+      "section": "A00",
+      "days": "Tu",
+      "time": "6:00p-8:50p",
+      "building": "SOLIS",
+      "room": "107",
+      "instructor": "Hunt, Matthew James",
+      "start_time": "18:00",
+      "end_time": "20:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "924630",
+        "type": "LE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "6:00p-8:50p",
+        "building": "SOLIS",
+        "room": "107",
+        "instructor": "Hunt, Matthew James",
+        "start_time": "18:00",
+        "end_time": "20:50"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

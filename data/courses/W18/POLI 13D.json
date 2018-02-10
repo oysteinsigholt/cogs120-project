@@ -1,0 +1,260 @@
+{
+  "code": "POLI 13D",
+  "name": "Power and Justice",
+  "department": "POLI",
+  "id": "13D",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MW",
+      "time": "9:00a-9:50a",
+      "building": "LEDDN",
+      "room": "AUD",
+      "instructor": "Forman, Fonna",
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925279",
+      "type": "DI",
+      "section": "A01",
+      "days": "Cancelled",
+      "time": "Cancelled",
+      "building": "Cancelled",
+      "room": "Cancelled",
+      "instructor": "Cancelled",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925280",
+      "type": "DI",
+      "section": "A02",
+      "days": "W",
+      "time": "10:00a-10:50a",
+      "building": "MANDE",
+      "room": "B-104",
+      "instructor": "Forman, Fonna",
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925281",
+      "type": "DI",
+      "section": "A03",
+      "days": "W",
+      "time": "11:00a-11:50a",
+      "building": "SOLIS",
+      "room": "110",
+      "instructor": "Forman, Fonna",
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925282",
+      "type": "DI",
+      "section": "A04",
+      "days": "F",
+      "time": "2:00p-2:50p",
+      "building": "TM102",
+      "room": "1",
+      "instructor": "Forman, Fonna",
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925283",
+      "type": "DI",
+      "section": "A06",
+      "days": "F",
+      "time": "3:00p-3:50p",
+      "building": "TM102",
+      "room": "1",
+      "instructor": "Forman, Fonna",
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925284",
+      "type": "DI",
+      "section": "A07",
+      "days": "F",
+      "time": "10:00a-10:50a",
+      "building": "SOLIS",
+      "room": "109",
+      "instructor": "Forman, Fonna",
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "933547",
+      "type": "DI",
+      "section": "A08",
+      "days": "F",
+      "time": "9:00a-9:50a",
+      "building": "CENTR",
+      "room": "217A",
+      "instructor": "Forman, Fonna",
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "9:00a-9:50a",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructor": "Forman, Fonna",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "9:00a-9:50a",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructor": "Forman, Fonna",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925280",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "10:00a-10:50a",
+        "building": "MANDE",
+        "room": "B-104",
+        "instructor": "Forman, Fonna",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925281",
+        "type": "DI",
+        "section": "A03",
+        "days": "W",
+        "time": "11:00a-11:50a",
+        "building": "SOLIS",
+        "room": "110",
+        "instructor": "Forman, Fonna",
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "925282",
+        "type": "DI",
+        "section": "A04",
+        "days": "F",
+        "time": "2:00p-2:50p",
+        "building": "TM102",
+        "room": "1",
+        "instructor": "Forman, Fonna",
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925283",
+        "type": "DI",
+        "section": "A06",
+        "days": "F",
+        "time": "3:00p-3:50p",
+        "building": "TM102",
+        "room": "1",
+        "instructor": "Forman, Fonna",
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925284",
+        "type": "DI",
+        "section": "A07",
+        "days": "F",
+        "time": "10:00a-10:50a",
+        "building": "SOLIS",
+        "room": "109",
+        "instructor": "Forman, Fonna",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "933547",
+        "type": "DI",
+        "section": "A08",
+        "days": "F",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "217A",
+        "instructor": "Forman, Fonna",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

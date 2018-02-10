@@ -1,0 +1,145 @@
+{
+  "code": "LTKO 2B",
+  "name": "Intermediate Korean: Second Yr",
+  "department": "LTKO",
+  "id": "2B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "MWF",
+      "time": "4:00p-4:50p",
+      "building": "CENTR",
+      "room": "203",
+      "instructor": "Lee, Jeyseon",
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920119",
+      "type": "DI",
+      "section": "B01",
+      "days": "TuTh",
+      "time": "4:00p-4:50p",
+      "building": "CENTR",
+      "room": "203",
+      "instructor": "Lee, Jeyseon",
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructor": "Lee, Jeyseon",
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "920119",
+        "type": "DI",
+        "section": "B01",
+        "days": "TuTh",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructor": "Lee, Jeyseon",
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructor": "Lee, Jeyseon",
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "920119",
+        "type": "DI",
+        "section": "B01",
+        "days": "TuTh",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructor": "Lee, Jeyseon",
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructor": "Lee, Jeyseon",
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

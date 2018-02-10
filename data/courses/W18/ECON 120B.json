@@ -1,0 +1,143 @@
+{
+  "code": "ECON 120B",
+  "name": "Econometrics B",
+  "department": "ECON",
+  "id": "120B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "TuTh",
+      "time": "9:30a-10:50a",
+      "building": "PETER",
+      "room": "110",
+      "instructor": "Dahl, Gordon B.",
+      "start_time": "9:30",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924090",
+      "type": "DI",
+      "section": "B01",
+      "days": "F",
+      "time": "3:00p-3:50p",
+      "building": "SOLIS",
+      "room": "104",
+      "instructor": "Dahl, Gordon B.",
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924091",
+      "type": "DI",
+      "section": "B02",
+      "days": "F",
+      "time": "4:00p-4:50p",
+      "building": "SOLIS",
+      "room": "104",
+      "instructor": "Dahl, Gordon B.",
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "PETER",
+        "room": "110",
+        "instructor": "Dahl, Gordon B.",
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "PETER",
+        "room": "110",
+        "instructor": "Dahl, Gordon B.",
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "924090",
+        "type": "DI",
+        "section": "B01",
+        "days": "F",
+        "time": "3:00p-3:50p",
+        "building": "SOLIS",
+        "room": "104",
+        "instructor": "Dahl, Gordon B.",
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924091",
+        "type": "DI",
+        "section": "B02",
+        "days": "F",
+        "time": "4:00p-4:50p",
+        "building": "SOLIS",
+        "room": "104",
+        "instructor": "Dahl, Gordon B.",
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "code": "ECON 120BH",
+  "name": "Honors Econometrics B",
+  "department": "ECON",
+  "id": "120BH",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "924092",
+      "type": "LE",
+      "section": "A00",
+      "days": "Th",
+      "time": "2:00p-2:50p",
+      "building": "SEQUO",
+      "room": "244",
+      "instructor": "Dahl, Gordon B.",
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "924092",
+        "type": "LE",
+        "section": "A00",
+        "days": "Th",
+        "time": "2:00p-2:50p",
+        "building": "SEQUO",
+        "room": "244",
+        "instructor": "Dahl, Gordon B.",
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "code": "SIO 180",
+  "name": "Communicating Science/Inf Aud",
+  "department": "SIO",
+  "id": "180",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "W",
+      "time": "1:00p-3:50p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Paulenich, Cari Lynn",
+      "start_time": "13:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921080",
+      "type": "LA",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Paulenich, Cari Lynn"
+    }
+  ],
+  "notes": [
+    "SIO 180 will meet at the Birch Aquarium in the West\n classroom"
+  ],
+  "events_single": [],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "921080",
+      "type": "LA",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Paulenich, Cari Lynn"
+    }
+  ],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "W",
+        "time": "1:00p-3:50p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Paulenich, Cari Lynn",
+        "start_time": "13:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "code": "GPPS 428",
+  "name": "Pol Energy/Enviro Regulation",
+  "department": "GPPS",
+  "id": "428",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921724",
+      "type": "LE",
+      "section": "A00",
+      "days": "MW",
+      "time": "3:30p-4:50p",
+      "building": "RBC",
+      "room": "3201",
+      "instructor": "Victor, David Gardiner",
+      "start_time": "15:30",
+      "end_time": "16:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "921724",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "3:30p-4:50p",
+        "building": "RBC",
+        "room": "3201",
+        "instructor": "Victor, David Gardiner",
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "921724",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "3:30p-4:50p",
+        "building": "RBC",
+        "room": "3201",
+        "instructor": "Victor, David Gardiner",
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

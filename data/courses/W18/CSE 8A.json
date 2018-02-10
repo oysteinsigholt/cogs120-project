@@ -1,0 +1,235 @@
+{
+  "code": "CSE 8A",
+  "name": "Intro/Computer Sci: Java (I)",
+  "department": "CSE",
+  "id": "8A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "MWF",
+      "time": "9:00a-9:50a",
+      "building": "CENTR",
+      "room": "119",
+      "instructor": "Alvarado, Christine J.",
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "B01",
+      "days": "Tu",
+      "time": "8:00p-8:50p",
+      "building": "CENTR",
+      "room": "115",
+      "instructor": "Alvarado, Christine J.",
+      "start_time": "20:00",
+      "end_time": "20:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "B02",
+      "days": "Tu",
+      "time": "8:00p-8:50p",
+      "building": "WLH",
+      "room": "2204",
+      "instructor": "Alvarado, Christine J.",
+      "start_time": "20:00",
+      "end_time": "20:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927412",
+      "type": "LA",
+      "section": "B50",
+      "days": "W",
+      "time": "11:00a-11:50a",
+      "building": "EBU3B",
+      "room": "B230",
+      "instructor": "Alvarado, Christine J.",
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927413",
+      "type": "LA",
+      "section": "B51",
+      "days": "W",
+      "time": "1:00p-1:50p",
+      "building": "EBU3B",
+      "room": "B230",
+      "instructor": "Alvarado, Christine J.",
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927414",
+      "type": "LA",
+      "section": "B52",
+      "days": "W",
+      "time": "3:00p-3:50p",
+      "building": "EBU3B",
+      "room": "B230",
+      "instructor": "Alvarado, Christine J.",
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/17/2018",
+      "days": "S",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-17T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/17/2018",
+      "days": "S",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-17T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "119",
+        "instructor": "Alvarado, Christine J.",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "B01",
+        "days": "Tu",
+        "time": "8:00p-8:50p",
+        "building": "CENTR",
+        "room": "115",
+        "instructor": "Alvarado, Christine J.",
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "B02",
+        "days": "Tu",
+        "time": "8:00p-8:50p",
+        "building": "WLH",
+        "room": "2204",
+        "instructor": "Alvarado, Christine J.",
+        "start_time": "20:00",
+        "end_time": "20:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "119",
+        "instructor": "Alvarado, Christine J.",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "927412",
+        "type": "LA",
+        "section": "B50",
+        "days": "W",
+        "time": "11:00a-11:50a",
+        "building": "EBU3B",
+        "room": "B230",
+        "instructor": "Alvarado, Christine J.",
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "927413",
+        "type": "LA",
+        "section": "B51",
+        "days": "W",
+        "time": "1:00p-1:50p",
+        "building": "EBU3B",
+        "room": "B230",
+        "instructor": "Alvarado, Christine J.",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "927414",
+        "type": "LA",
+        "section": "B52",
+        "days": "W",
+        "time": "3:00p-3:50p",
+        "building": "EBU3B",
+        "room": "B230",
+        "instructor": "Alvarado, Christine J.",
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "119",
+        "instructor": "Alvarado, Christine J.",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

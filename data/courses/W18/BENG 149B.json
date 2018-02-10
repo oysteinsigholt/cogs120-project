@@ -1,0 +1,73 @@
+{
+  "code": "BENG 149B",
+  "name": "Design Implmntn Vascular BENG",
+  "department": "BENG",
+  "id": "149B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "923322",
+      "type": "LE",
+      "section": "A00",
+      "days": "F",
+      "time": "2:00p-2:50p",
+      "building": "PFBH",
+      "room": "226",
+      "instructor": "Wheeler, Bruce Christopher",
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "A01",
+      "days": "F",
+      "time": "3:00p-6:50p",
+      "building": "PFBH",
+      "room": "108",
+      "instructor": "Wheeler, Bruce Christopher",
+      "start_time": "15:00",
+      "end_time": "18:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "923322",
+        "type": "LE",
+        "section": "A00",
+        "days": "F",
+        "time": "2:00p-2:50p",
+        "building": "PFBH",
+        "room": "226",
+        "instructor": "Wheeler, Bruce Christopher",
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A01",
+        "days": "F",
+        "time": "3:00p-6:50p",
+        "building": "PFBH",
+        "room": "108",
+        "instructor": "Wheeler, Bruce Christopher",
+        "start_time": "15:00",
+        "end_time": "18:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

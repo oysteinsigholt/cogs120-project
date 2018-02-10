@@ -1,0 +1,47 @@
+{
+  "code": "HILD 2B",
+  "name": "United States History",
+  "department": "HILD",
+  "id": "2B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "924533",
+      "type": "DI",
+      "section": "A06",
+      "days": "F",
+      "time": "1:00p-1:50p",
+      "building": "APM",
+      "room": "2301",
+      "instructor": "Klein, Rachel",
+      "start_time": "13:00",
+      "end_time": "13:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "924533",
+        "type": "DI",
+        "section": "A06",
+        "days": "F",
+        "time": "1:00p-1:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructor": "Klein, Rachel",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

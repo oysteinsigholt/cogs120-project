@@ -1,0 +1,47 @@
+{
+  "code": "LIGN 282",
+  "name": "Bio & Env in Lang Acquisition",
+  "department": "LIGN",
+  "id": "282",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "928982",
+      "type": "LE",
+      "section": "A00",
+      "days": "W",
+      "time": "3:00p-5:50p",
+      "building": "APM",
+      "room": "4301",
+      "instructor": "Mayberry, Rachel",
+      "start_time": "15:00",
+      "end_time": "17:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "928982",
+        "type": "LE",
+        "section": "A00",
+        "days": "W",
+        "time": "3:00p-5:50p",
+        "building": "APM",
+        "room": "4301",
+        "instructor": "Mayberry, Rachel",
+        "start_time": "15:00",
+        "end_time": "17:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

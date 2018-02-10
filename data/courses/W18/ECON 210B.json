@@ -1,0 +1,90 @@
+{
+  "code": "ECON 210B",
+  "name": "Macroeconomics B",
+  "department": "ECON",
+  "id": "210B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "924126",
+      "type": "LE",
+      "section": "A00",
+      "days": "MW",
+      "time": "12:00p-1:20p",
+      "building": "ECON",
+      "room": "300",
+      "instructor": "Porzio, Tommaso",
+      "start_time": "12:00",
+      "end_time": "13:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "924126",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "12:00p-1:20p",
+        "building": "ECON",
+        "room": "300",
+        "instructor": "Porzio, Tommaso",
+        "start_time": "12:00",
+        "end_time": "13:20"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "924126",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "12:00p-1:20p",
+        "building": "ECON",
+        "room": "300",
+        "instructor": "Porzio, Tommaso",
+        "start_time": "12:00",
+        "end_time": "13:20"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

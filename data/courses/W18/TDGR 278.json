@@ -1,0 +1,47 @@
+{
+  "code": "TDGR 278",
+  "name": "Spec Topics in Theatre Design",
+  "department": "TDGR",
+  "id": "278",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920418",
+      "type": "ST",
+      "section": "B00",
+      "days": "F",
+      "time": "11:00a-1:50p",
+      "building": "GH",
+      "room": "111",
+      "instructor": "Patrick, Ian Thomas",
+      "start_time": "11:00",
+      "end_time": "13:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "920418",
+        "type": "ST",
+        "section": "B00",
+        "days": "F",
+        "time": "11:00a-1:50p",
+        "building": "GH",
+        "room": "111",
+        "instructor": "Patrick, Ian Thomas",
+        "start_time": "11:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

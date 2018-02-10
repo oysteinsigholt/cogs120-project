@@ -1,0 +1,76 @@
+{
+  "code": "VIS 131",
+  "name": "Special Projects in Media",
+  "department": "VIS",
+  "id": "131",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "922784",
+      "type": "LE",
+      "section": "A00",
+      "days": "Th",
+      "time": "6:30p-9:20p",
+      "building": "MANDE",
+      "room": "B-206",
+      "instructor": "Cho, Erica",
+      "start_time": "18:30",
+      "end_time": "21:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "922784",
+        "type": "LE",
+        "section": "A00",
+        "days": "Th",
+        "time": "6:30p-9:20p",
+        "building": "MANDE",
+        "room": "B-206",
+        "instructor": "Cho, Erica",
+        "start_time": "18:30",
+        "end_time": "21:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

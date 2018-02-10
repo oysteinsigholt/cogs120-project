@@ -1,0 +1,90 @@
+{
+  "code": "VIS 126AN",
+  "name": "PreColumbian Art/Anc Mex&C Amr",
+  "department": "VIS",
+  "id": "126AN",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "922776",
+      "type": "LE",
+      "section": "A00",
+      "days": "MW",
+      "time": "12:00p-1:20p",
+      "building": "SME",
+      "room": "149",
+      "instructor": "Newsome, Elizabeth Ann",
+      "start_time": "12:00",
+      "end_time": "13:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "922776",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "12:00p-1:20p",
+        "building": "SME",
+        "room": "149",
+        "instructor": "Newsome, Elizabeth Ann",
+        "start_time": "12:00",
+        "end_time": "13:20"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "922776",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "12:00p-1:20p",
+        "building": "SME",
+        "room": "149",
+        "instructor": "Newsome, Elizabeth Ann",
+        "start_time": "12:00",
+        "end_time": "13:20"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

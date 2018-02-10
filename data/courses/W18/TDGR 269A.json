@@ -1,0 +1,47 @@
+{
+  "code": "TDGR 269A",
+  "name": "Photoshop I",
+  "department": "TDGR",
+  "id": "269A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920412",
+      "type": "LA",
+      "section": "A00",
+      "days": "W",
+      "time": "1:00p-3:50p",
+      "building": "GH",
+      "room": "18B",
+      "instructor": "Petrovich, Victoria A.",
+      "start_time": "13:00",
+      "end_time": "15:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "920412",
+        "type": "LA",
+        "section": "A00",
+        "days": "W",
+        "time": "1:00p-3:50p",
+        "building": "GH",
+        "room": "18B",
+        "instructor": "Petrovich, Victoria A.",
+        "start_time": "13:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

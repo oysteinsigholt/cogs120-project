@@ -1,0 +1,47 @@
+{
+  "code": "MATH 295",
+  "name": "Special Topics in Mathematics",
+  "department": "MATH",
+  "id": "295",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "927327",
+      "type": "LE",
+      "section": "A00",
+      "days": "Th",
+      "time": "4:00p-5:50p",
+      "building": "APM",
+      "room": "6402",
+      "instructor": "Bejenaru, Ioan",
+      "start_time": "16:00",
+      "end_time": "17:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "927327",
+        "type": "LE",
+        "section": "A00",
+        "days": "Th",
+        "time": "4:00p-5:50p",
+        "building": "APM",
+        "room": "6402",
+        "instructor": "Bejenaru, Ioan",
+        "start_time": "16:00",
+        "end_time": "17:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

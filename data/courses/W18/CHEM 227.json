@@ -1,0 +1,47 @@
+{
+  "code": "CHEM 227",
+  "name": "Seminar/Inorganic Chemistry",
+  "department": "CHEM",
+  "id": "227",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "926593",
+      "type": "SE",
+      "section": "A00",
+      "days": "F",
+      "time": "11:00a-12:20p",
+      "building": "PACIF",
+      "room": "4500",
+      "instructor": "Schimpf, Alina M",
+      "start_time": "11:00",
+      "end_time": "12:20"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "926593",
+        "type": "SE",
+        "section": "A00",
+        "days": "F",
+        "time": "11:00a-12:20p",
+        "building": "PACIF",
+        "room": "4500",
+        "instructor": "Schimpf, Alina M",
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

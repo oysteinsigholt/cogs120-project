@@ -1,0 +1,47 @@
+{
+  "code": "SOCI 87",
+  "name": "Freshman Seminar",
+  "department": "SOCI",
+  "id": "87",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "923183",
+      "type": "SE",
+      "section": "A00",
+      "days": "W",
+      "time": "11:00a-12:50p",
+      "building": "ERCA",
+      "room": "201",
+      "instructor": "Evans, Ivan T",
+      "start_time": "11:00",
+      "end_time": "12:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "923183",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "11:00a-12:50p",
+        "building": "ERCA",
+        "room": "201",
+        "instructor": "Evans, Ivan T",
+        "start_time": "11:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

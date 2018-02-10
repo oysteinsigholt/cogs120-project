@@ -1,0 +1,143 @@
+{
+  "code": "ECON 171",
+  "name": "Decisions Under Uncertainty",
+  "department": "ECON",
+  "id": "171",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "5:00p-6:20p",
+      "building": "CENTR",
+      "room": "101",
+      "instructor": "Levkoff, Steven B.",
+      "start_time": "17:00",
+      "end_time": "18:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924107",
+      "type": "DI",
+      "section": "A01",
+      "days": "W",
+      "time": "7:00p-7:50p",
+      "building": "PCYNH",
+      "room": "106",
+      "instructor": "Levkoff, Steven B.",
+      "start_time": "19:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924108",
+      "type": "DI",
+      "section": "A02",
+      "days": "W",
+      "time": "8:00p-8:50p",
+      "building": "PCYNH",
+      "room": "106",
+      "instructor": "Levkoff, Steven B.",
+      "start_time": "20:00",
+      "end_time": "20:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "CENTR",
+        "room": "101",
+        "instructor": "Levkoff, Steven B.",
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "924107",
+        "type": "DI",
+        "section": "A01",
+        "days": "W",
+        "time": "7:00p-7:50p",
+        "building": "PCYNH",
+        "room": "106",
+        "instructor": "Levkoff, Steven B.",
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924108",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "8:00p-8:50p",
+        "building": "PCYNH",
+        "room": "106",
+        "instructor": "Levkoff, Steven B.",
+        "start_time": "20:00",
+        "end_time": "20:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "CENTR",
+        "room": "101",
+        "instructor": "Levkoff, Steven B.",
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

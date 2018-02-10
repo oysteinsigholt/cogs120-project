@@ -1,0 +1,145 @@
+{
+  "code": "MUS 101B",
+  "name": "Music Theory and Practice II",
+  "department": "MUS",
+  "id": "101B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "9:00a-9:50a",
+      "building": "CPMC",
+      "room": "264",
+      "instructor": "Karis, Aleck",
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "928099",
+      "type": "DI",
+      "section": "A01",
+      "days": "TuTh",
+      "time": "9:30a-10:50a",
+      "building": "CPMC",
+      "room": "264",
+      "instructor": "Karis, Aleck",
+      "start_time": "9:30",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CPMC",
+        "room": "264",
+        "instructor": "Karis, Aleck",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "928099",
+        "type": "DI",
+        "section": "A01",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CPMC",
+        "room": "264",
+        "instructor": "Karis, Aleck",
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CPMC",
+        "room": "264",
+        "instructor": "Karis, Aleck",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "928099",
+        "type": "DI",
+        "section": "A01",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CPMC",
+        "room": "264",
+        "instructor": "Karis, Aleck",
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CPMC",
+        "room": "264",
+        "instructor": "Karis, Aleck",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

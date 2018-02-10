@@ -1,0 +1,49 @@
+{
+  "code": "MUS 43",
+  "name": "Department Seminar",
+  "department": "MUS",
+  "id": "43",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921802",
+      "type": "SE",
+      "section": "A00",
+      "days": "M",
+      "time": "11:00a-11:50a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Borgo, David Garcia",
+      "start_time": "11:00",
+      "end_time": "11:50"
+    }
+  ],
+  "notes": [
+    "Class meetin with 143 in CPMC 127."
+  ],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "921802",
+        "type": "SE",
+        "section": "A00",
+        "days": "M",
+        "time": "11:00a-11:50a",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Borgo, David Garcia",
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

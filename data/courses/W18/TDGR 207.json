@@ -1,0 +1,47 @@
+{
+  "code": "TDGR 207",
+  "name": "Production Seminar",
+  "department": "TDGR",
+  "id": "207",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920384",
+      "type": "ST",
+      "section": "A00",
+      "days": "Th",
+      "time": "9:00a-10:50a",
+      "building": "GH",
+      "room": "144",
+      "instructor": "Means, Charles E.",
+      "start_time": "9:00",
+      "end_time": "10:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "920384",
+        "type": "ST",
+        "section": "A00",
+        "days": "Th",
+        "time": "9:00a-10:50a",
+        "building": "GH",
+        "room": "144",
+        "instructor": "Means, Charles E.",
+        "start_time": "9:00",
+        "end_time": "10:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "code": "COGS 14B",
+  "name": "Intro. to Statistical Analysis",
+  "department": "COGS",
+  "id": "14B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "8:00a-8:50a",
+      "building": "PETER",
+      "room": "110",
+      "instructor": "Hoffman, Drew Ellen",
+      "start_time": "8:00",
+      "end_time": "8:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925540",
+      "type": "LA",
+      "section": "A01",
+      "days": "W",
+      "time": "12:00p-12:50p",
+      "building": "CSB",
+      "room": "005",
+      "instructor": "Hoffman, Drew Ellen",
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925541",
+      "type": "LA",
+      "section": "A02",
+      "days": "F",
+      "time": "10:00a-10:50a",
+      "building": "CSB",
+      "room": "005",
+      "instructor": "Hoffman, Drew Ellen",
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925542",
+      "type": "LA",
+      "section": "A03",
+      "days": "M",
+      "time": "1:00p-1:50p",
+      "building": "PCYNH",
+      "room": "120",
+      "instructor": "Hoffman, Drew Ellen",
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925543",
+      "type": "LA",
+      "section": "A04",
+      "days": "M",
+      "time": "2:00p-2:50p",
+      "building": "PCYNH",
+      "room": "120",
+      "instructor": "Hoffman, Drew Ellen",
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "PETER",
+        "room": "110",
+        "instructor": "Hoffman, Drew Ellen",
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925542",
+        "type": "LA",
+        "section": "A03",
+        "days": "M",
+        "time": "1:00p-1:50p",
+        "building": "PCYNH",
+        "room": "120",
+        "instructor": "Hoffman, Drew Ellen",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925543",
+        "type": "LA",
+        "section": "A04",
+        "days": "M",
+        "time": "2:00p-2:50p",
+        "building": "PCYNH",
+        "room": "120",
+        "instructor": "Hoffman, Drew Ellen",
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "PETER",
+        "room": "110",
+        "instructor": "Hoffman, Drew Ellen",
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925540",
+        "type": "LA",
+        "section": "A01",
+        "days": "W",
+        "time": "12:00p-12:50p",
+        "building": "CSB",
+        "room": "005",
+        "instructor": "Hoffman, Drew Ellen",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "PETER",
+        "room": "110",
+        "instructor": "Hoffman, Drew Ellen",
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925541",
+        "type": "LA",
+        "section": "A02",
+        "days": "F",
+        "time": "10:00a-10:50a",
+        "building": "CSB",
+        "room": "005",
+        "instructor": "Hoffman, Drew Ellen",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

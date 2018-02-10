@@ -1,0 +1,207 @@
+{
+  "code": "SE 140A",
+  "name": "Prof. Issues/Design - Civil I",
+  "department": "SE",
+  "id": "140A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "10:00a-10:50a",
+      "building": "SOLIS",
+      "room": "104",
+      "instructor": "Uang, Chia-Ming",
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923014",
+      "type": "LA",
+      "section": "A01",
+      "days": "Tu",
+      "time": "11:00a-12:50p",
+      "building": "SME",
+      "room": "145",
+      "instructor": "Uang, Chia-Ming",
+      "start_time": "11:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923015",
+      "type": "LA",
+      "section": "A02",
+      "days": "Tu",
+      "time": "1:00p-2:50p",
+      "building": "SME",
+      "room": "145",
+      "instructor": "Uang, Chia-Ming",
+      "start_time": "13:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923016",
+      "type": "LA",
+      "section": "A03",
+      "days": "W",
+      "time": "1:00p-2:50p",
+      "building": "SME",
+      "room": "145",
+      "instructor": "Uang, Chia-Ming",
+      "start_time": "13:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923017",
+      "type": "LA",
+      "section": "A04",
+      "days": "Th",
+      "time": "11:00a-12:50p",
+      "building": "SME",
+      "room": "145",
+      "instructor": "Uang, Chia-Ming",
+      "start_time": "11:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923018",
+      "type": "LA",
+      "section": "A05",
+      "days": "Th",
+      "time": "1:00p-2:50p",
+      "building": "SME",
+      "room": "145",
+      "instructor": "Uang, Chia-Ming",
+      "start_time": "13:00",
+      "end_time": "14:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "SOLIS",
+        "room": "104",
+        "instructor": "Uang, Chia-Ming",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "923014",
+        "type": "LA",
+        "section": "A01",
+        "days": "Tu",
+        "time": "11:00a-12:50p",
+        "building": "SME",
+        "room": "145",
+        "instructor": "Uang, Chia-Ming",
+        "start_time": "11:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "923015",
+        "type": "LA",
+        "section": "A02",
+        "days": "Tu",
+        "time": "1:00p-2:50p",
+        "building": "SME",
+        "room": "145",
+        "instructor": "Uang, Chia-Ming",
+        "start_time": "13:00",
+        "end_time": "14:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "SOLIS",
+        "room": "104",
+        "instructor": "Uang, Chia-Ming",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "923016",
+        "type": "LA",
+        "section": "A03",
+        "days": "W",
+        "time": "1:00p-2:50p",
+        "building": "SME",
+        "room": "145",
+        "instructor": "Uang, Chia-Ming",
+        "start_time": "13:00",
+        "end_time": "14:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "923017",
+        "type": "LA",
+        "section": "A04",
+        "days": "Th",
+        "time": "11:00a-12:50p",
+        "building": "SME",
+        "room": "145",
+        "instructor": "Uang, Chia-Ming",
+        "start_time": "11:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "923018",
+        "type": "LA",
+        "section": "A05",
+        "days": "Th",
+        "time": "1:00p-2:50p",
+        "building": "SME",
+        "room": "145",
+        "instructor": "Uang, Chia-Ming",
+        "start_time": "13:00",
+        "end_time": "14:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "SOLIS",
+        "room": "104",
+        "instructor": "Uang, Chia-Ming",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

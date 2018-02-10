@@ -1,0 +1,192 @@
+{
+  "code": "BIBC 103",
+  "name": "Biochemical Techniques",
+  "department": "BIBC",
+  "id": "103",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "D00",
+      "days": "MWF",
+      "time": "9:00a-9:50a",
+      "building": "WLH",
+      "room": "2205",
+      "instructor": "Mohan, Swarna",
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925847",
+      "type": "LA",
+      "section": "D01",
+      "days": "WF",
+      "time": "10:00a-1:50p",
+      "building": "BONN",
+      "room": "1309",
+      "instructor": "Mohan, Swarna",
+      "start_time": "10:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925848",
+      "type": "LA",
+      "section": "D02",
+      "days": "WF",
+      "time": "10:00a-1:50p",
+      "building": "BONN",
+      "room": "1329",
+      "instructor": "Mohan, Swarna",
+      "start_time": "10:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925849",
+      "type": "LA",
+      "section": "D03",
+      "days": "WF",
+      "time": "10:00a-1:50p",
+      "building": "BONN",
+      "room": "1413",
+      "instructor": "Mohan, Swarna",
+      "start_time": "10:00",
+      "end_time": "13:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "WLH",
+        "room": "2205",
+        "instructor": "Mohan, Swarna",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "WLH",
+        "room": "2205",
+        "instructor": "Mohan, Swarna",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925847",
+        "type": "LA",
+        "section": "D01",
+        "days": "WF",
+        "time": "10:00a-1:50p",
+        "building": "BONN",
+        "room": "1309",
+        "instructor": "Mohan, Swarna",
+        "start_time": "10:00",
+        "end_time": "13:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925848",
+        "type": "LA",
+        "section": "D02",
+        "days": "WF",
+        "time": "10:00a-1:50p",
+        "building": "BONN",
+        "room": "1329",
+        "instructor": "Mohan, Swarna",
+        "start_time": "10:00",
+        "end_time": "13:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925849",
+        "type": "LA",
+        "section": "D03",
+        "days": "WF",
+        "time": "10:00a-1:50p",
+        "building": "BONN",
+        "room": "1413",
+        "instructor": "Mohan, Swarna",
+        "start_time": "10:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "WLH",
+        "room": "2205",
+        "instructor": "Mohan, Swarna",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925847",
+        "type": "LA",
+        "section": "D01",
+        "days": "WF",
+        "time": "10:00a-1:50p",
+        "building": "BONN",
+        "room": "1309",
+        "instructor": "Mohan, Swarna",
+        "start_time": "10:00",
+        "end_time": "13:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925848",
+        "type": "LA",
+        "section": "D02",
+        "days": "WF",
+        "time": "10:00a-1:50p",
+        "building": "BONN",
+        "room": "1329",
+        "instructor": "Mohan, Swarna",
+        "start_time": "10:00",
+        "end_time": "13:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925849",
+        "type": "LA",
+        "section": "D03",
+        "days": "WF",
+        "time": "10:00a-1:50p",
+        "building": "BONN",
+        "room": "1413",
+        "instructor": "Mohan, Swarna",
+        "start_time": "10:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

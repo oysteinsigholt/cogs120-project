@@ -1,0 +1,275 @@
+{
+  "code": "ECE 102",
+  "name": "Intro/Active Circuit Design",
+  "department": "ECE",
+  "id": "102",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "925023",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "11:00a-12:20p",
+      "building": "SOLIS",
+      "room": "104",
+      "instructor": "Maralani, Ayden",
+      "start_time": "11:00",
+      "end_time": "12:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "4:00p-4:50p",
+      "building": "PETER",
+      "room": "104",
+      "instructor": "Maralani, Ayden",
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A02",
+      "days": "F",
+      "time": "6:00p-6:50p",
+      "building": "PETER",
+      "room": "104",
+      "instructor": "Maralani, Ayden",
+      "start_time": "18:00",
+      "end_time": "18:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "A50",
+      "days": "M",
+      "time": "3:30p-6:30p",
+      "building": "WLH",
+      "room": "2212",
+      "instructor": "Maralani, Ayden",
+      "start_time": "15:30",
+      "end_time": "18:30"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "A51",
+      "days": "Tu",
+      "time": "7:00p-10:00p",
+      "building": "WLH",
+      "room": "2212",
+      "instructor": "Maralani, Ayden",
+      "start_time": "19:00",
+      "end_time": "22:00"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "A52",
+      "days": "W",
+      "time": "7:00p-10:00p",
+      "building": "WLH",
+      "room": "2212",
+      "instructor": "Maralani, Ayden",
+      "start_time": "19:00",
+      "end_time": "22:00"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "A53",
+      "days": "Th",
+      "time": "12:00p-3:00p",
+      "building": "WLH",
+      "room": "2212",
+      "instructor": "Maralani, Ayden",
+      "start_time": "12:00",
+      "end_time": "15:00"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "A54",
+      "days": "F",
+      "time": "3:30p-6:30p",
+      "building": "WLH",
+      "room": "2212",
+      "instructor": "Maralani, Ayden",
+      "start_time": "15:30",
+      "end_time": "18:30"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "4:00p-4:50p",
+        "building": "PETER",
+        "room": "104",
+        "instructor": "Maralani, Ayden",
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A50",
+        "days": "M",
+        "time": "3:30p-6:30p",
+        "building": "WLH",
+        "room": "2212",
+        "instructor": "Maralani, Ayden",
+        "start_time": "15:30",
+        "end_time": "18:30"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "925023",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "SOLIS",
+        "room": "104",
+        "instructor": "Maralani, Ayden",
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A51",
+        "days": "Tu",
+        "time": "7:00p-10:00p",
+        "building": "WLH",
+        "room": "2212",
+        "instructor": "Maralani, Ayden",
+        "start_time": "19:00",
+        "end_time": "22:00"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A52",
+        "days": "W",
+        "time": "7:00p-10:00p",
+        "building": "WLH",
+        "room": "2212",
+        "instructor": "Maralani, Ayden",
+        "start_time": "19:00",
+        "end_time": "22:00"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "925023",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "SOLIS",
+        "room": "104",
+        "instructor": "Maralani, Ayden",
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A53",
+        "days": "Th",
+        "time": "12:00p-3:00p",
+        "building": "WLH",
+        "room": "2212",
+        "instructor": "Maralani, Ayden",
+        "start_time": "12:00",
+        "end_time": "15:00"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A02",
+        "days": "F",
+        "time": "6:00p-6:50p",
+        "building": "PETER",
+        "room": "104",
+        "instructor": "Maralani, Ayden",
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A54",
+        "days": "F",
+        "time": "3:30p-6:30p",
+        "building": "WLH",
+        "room": "2212",
+        "instructor": "Maralani, Ayden",
+        "start_time": "15:30",
+        "end_time": "18:30"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

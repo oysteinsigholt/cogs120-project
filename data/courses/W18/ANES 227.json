@@ -1,0 +1,49 @@
+{
+  "code": "ANES 227",
+  "name": "Intro Clinical Pain Management",
+  "department": "ANES",
+  "id": "227",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930437",
+      "type": "CL",
+      "section": "A00",
+      "days": "Th",
+      "time": "1:00p-5:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Ahadian, Farshad",
+      "start_time": "13:00",
+      "end_time": "17:00"
+    }
+  ],
+  "notes": [
+    "Location: ECOB 2-024"
+  ],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "930437",
+        "type": "CL",
+        "section": "A00",
+        "days": "Th",
+        "time": "1:00p-5:00p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Ahadian, Farshad",
+        "start_time": "13:00",
+        "end_time": "17:00"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

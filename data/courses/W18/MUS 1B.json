@@ -1,0 +1,251 @@
+{
+  "code": "MUS 1B",
+  "name": "Fundamentals of Music B",
+  "department": "MUS",
+  "id": "1B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "9:30a-10:50a",
+      "building": "CPMC",
+      "room": "136",
+      "instructor": "Moellenberg, Todd Michael",
+      "start_time": "9:30",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921907",
+      "type": "LA",
+      "section": "A01",
+      "days": "MW",
+      "time": "9:00a-9:50a",
+      "building": "CPMC",
+      "room": "265",
+      "instructor": "Moellenberg, Todd Michael",
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921908",
+      "type": "LA",
+      "section": "A02",
+      "days": "MW",
+      "time": "10:00a-10:50a",
+      "building": "WLH",
+      "room": "2154",
+      "instructor": "Moellenberg, Todd Michael",
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921909",
+      "type": "LA",
+      "section": "A03",
+      "days": "WF",
+      "time": "10:00a-10:50a",
+      "building": "CPMC",
+      "room": "265",
+      "instructor": "Moellenberg, Todd Michael",
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921910",
+      "type": "LA",
+      "section": "A04",
+      "days": "WF",
+      "time": "11:00a-11:50a",
+      "building": "CPMC",
+      "room": "127",
+      "instructor": "Moellenberg, Todd Michael",
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [
+    "Sections will not meet before first main lecture."
+  ],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "921907",
+        "type": "LA",
+        "section": "A01",
+        "days": "MW",
+        "time": "9:00a-9:50a",
+        "building": "CPMC",
+        "room": "265",
+        "instructor": "Moellenberg, Todd Michael",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "921908",
+        "type": "LA",
+        "section": "A02",
+        "days": "MW",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2154",
+        "instructor": "Moellenberg, Todd Michael",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CPMC",
+        "room": "136",
+        "instructor": "Moellenberg, Todd Michael",
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "921907",
+        "type": "LA",
+        "section": "A01",
+        "days": "MW",
+        "time": "9:00a-9:50a",
+        "building": "CPMC",
+        "room": "265",
+        "instructor": "Moellenberg, Todd Michael",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "921908",
+        "type": "LA",
+        "section": "A02",
+        "days": "MW",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2154",
+        "instructor": "Moellenberg, Todd Michael",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "921909",
+        "type": "LA",
+        "section": "A03",
+        "days": "WF",
+        "time": "10:00a-10:50a",
+        "building": "CPMC",
+        "room": "265",
+        "instructor": "Moellenberg, Todd Michael",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "921910",
+        "type": "LA",
+        "section": "A04",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "CPMC",
+        "room": "127",
+        "instructor": "Moellenberg, Todd Michael",
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CPMC",
+        "room": "136",
+        "instructor": "Moellenberg, Todd Michael",
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "921909",
+        "type": "LA",
+        "section": "A03",
+        "days": "WF",
+        "time": "10:00a-10:50a",
+        "building": "CPMC",
+        "room": "265",
+        "instructor": "Moellenberg, Todd Michael",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "921910",
+        "type": "LA",
+        "section": "A04",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "CPMC",
+        "room": "127",
+        "instructor": "Moellenberg, Todd Michael",
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

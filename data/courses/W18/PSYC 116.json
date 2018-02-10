@@ -1,0 +1,70 @@
+{
+  "code": "PSYC 116",
+  "name": "Lab/Clinical Psyc Research",
+  "department": "PSYC",
+  "id": "116",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "W",
+      "time": "3:00p-4:50p",
+      "building": "MCGIL",
+      "room": "1350",
+      "instructor": "Winward, Jennifer Laven",
+      "start_time": "15:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924621",
+      "type": "LA",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Winward, Jennifer Laven"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "924621",
+      "type": "LA",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Winward, Jennifer Laven"
+    }
+  ],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "W",
+        "time": "3:00p-4:50p",
+        "building": "MCGIL",
+        "room": "1350",
+        "instructor": "Winward, Jennifer Laven",
+        "start_time": "15:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

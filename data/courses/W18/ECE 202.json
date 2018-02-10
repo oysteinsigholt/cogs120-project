@@ -1,0 +1,84 @@
+{
+  "code": "ECE 202",
+  "name": "Medical Devices and Interfaces",
+  "department": "ECE",
+  "id": "202",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "933308",
+      "type": "LE",
+      "section": "B00",
+      "days": "TuTh",
+      "time": "12:30p-1:50p",
+      "building": "EBU1",
+      "room": "2315",
+      "instructor": "Kuzum, Duygu",
+      "start_time": "12:30",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "B01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Kuzum, Duygu"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "B01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Kuzum, Duygu"
+    }
+  ],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "933308",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "EBU1",
+        "room": "2315",
+        "instructor": "Kuzum, Duygu",
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "933308",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "EBU1",
+        "room": "2315",
+        "instructor": "Kuzum, Duygu",
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

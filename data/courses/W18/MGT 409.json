@@ -1,0 +1,76 @@
+{
+  "code": "MGT 409",
+  "name": "Organizational Strategy",
+  "department": "MGT",
+  "id": "409",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930382",
+      "type": "LE",
+      "section": "C00",
+      "days": "F",
+      "time": "8:00a-2:00p",
+      "building": "OTRSN",
+      "room": "1E107",
+      "instructor": "Schkade, David A.",
+      "start_time": "8:00",
+      "end_time": "14:00"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-11:00a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "11:00"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-11:00a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "11:00"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "930382",
+        "type": "LE",
+        "section": "C00",
+        "days": "F",
+        "time": "8:00a-2:00p",
+        "building": "OTRSN",
+        "room": "1E107",
+        "instructor": "Schkade, David A.",
+        "start_time": "8:00",
+        "end_time": "14:00"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

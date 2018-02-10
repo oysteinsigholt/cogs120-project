@@ -1,0 +1,269 @@
+{
+  "code": "MATH 11",
+  "name": "Calculus-Based Prob & Stats",
+  "department": "MATH",
+  "id": "11",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "TuTh",
+      "time": "2:00p-3:20p",
+      "building": "PCYNH",
+      "room": "106",
+      "instructor": "Aamari, Eddie",
+      "start_time": "14:00",
+      "end_time": "15:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926852",
+      "type": "DI",
+      "section": "B01",
+      "days": "Tu",
+      "time": "8:00a-8:50a",
+      "building": "APM",
+      "room": "2301",
+      "instructor": "Aamari, Eddie",
+      "start_time": "8:00",
+      "end_time": "8:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926853",
+      "type": "DI",
+      "section": "B02",
+      "days": "Tu",
+      "time": "9:00a-9:50a",
+      "building": "APM",
+      "room": "2301",
+      "instructor": "Aamari, Eddie",
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926854",
+      "type": "DI",
+      "section": "B03",
+      "days": "Tu",
+      "time": "10:00a-10:50a",
+      "building": "APM",
+      "room": "2301",
+      "instructor": "Aamari, Eddie",
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926855",
+      "type": "DI",
+      "section": "B04",
+      "days": "Tu",
+      "time": "11:00a-11:50a",
+      "building": "APM",
+      "room": "2301",
+      "instructor": "Aamari, Eddie",
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926856",
+      "type": "DI",
+      "section": "B05",
+      "days": "Tu",
+      "time": "12:00p-12:50p",
+      "building": "APM",
+      "room": "2301",
+      "instructor": "Aamari, Eddie",
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926857",
+      "type": "DI",
+      "section": "B06",
+      "days": "Tu",
+      "time": "1:00p-1:50p",
+      "building": "APM",
+      "room": "2301",
+      "instructor": "Aamari, Eddie",
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "B50",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Aamari, Eddie"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "B50",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Aamari, Eddie"
+    }
+  ],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "PCYNH",
+        "room": "106",
+        "instructor": "Aamari, Eddie",
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926852",
+        "type": "DI",
+        "section": "B01",
+        "days": "Tu",
+        "time": "8:00a-8:50a",
+        "building": "APM",
+        "room": "2301",
+        "instructor": "Aamari, Eddie",
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926853",
+        "type": "DI",
+        "section": "B02",
+        "days": "Tu",
+        "time": "9:00a-9:50a",
+        "building": "APM",
+        "room": "2301",
+        "instructor": "Aamari, Eddie",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926854",
+        "type": "DI",
+        "section": "B03",
+        "days": "Tu",
+        "time": "10:00a-10:50a",
+        "building": "APM",
+        "room": "2301",
+        "instructor": "Aamari, Eddie",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926855",
+        "type": "DI",
+        "section": "B04",
+        "days": "Tu",
+        "time": "11:00a-11:50a",
+        "building": "APM",
+        "room": "2301",
+        "instructor": "Aamari, Eddie",
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926856",
+        "type": "DI",
+        "section": "B05",
+        "days": "Tu",
+        "time": "12:00p-12:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructor": "Aamari, Eddie",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926857",
+        "type": "DI",
+        "section": "B06",
+        "days": "Tu",
+        "time": "1:00p-1:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructor": "Aamari, Eddie",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "PCYNH",
+        "room": "106",
+        "instructor": "Aamari, Eddie",
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

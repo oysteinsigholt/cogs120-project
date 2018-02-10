@@ -1,0 +1,47 @@
+{
+  "code": "HIGR 217B",
+  "name": "Schlrshp/China Han-Song Dynsty",
+  "department": "HIGR",
+  "id": "217B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "924562",
+      "type": "SE",
+      "section": "A00",
+      "days": "W",
+      "time": "9:00a-11:50a",
+      "building": "HSS",
+      "room": "4025",
+      "instructor": "Schneewind, Sarah",
+      "start_time": "9:00",
+      "end_time": "11:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "924562",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "9:00a-11:50a",
+        "building": "HSS",
+        "room": "4025",
+        "instructor": "Schneewind, Sarah",
+        "start_time": "9:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

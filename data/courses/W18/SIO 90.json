@@ -1,0 +1,47 @@
+{
+  "code": "SIO 90",
+  "name": "Undergraduate Seminar",
+  "department": "SIO",
+  "id": "90",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "929969",
+      "type": "SE",
+      "section": "A00",
+      "days": "W",
+      "time": "11:00a-11:50a",
+      "building": "ECKRT",
+      "room": "227",
+      "instructor": "Guazzo, Regina Anne",
+      "start_time": "11:00",
+      "end_time": "11:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "929969",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "11:00a-11:50a",
+        "building": "ECKRT",
+        "room": "227",
+        "instructor": "Guazzo, Regina Anne",
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "code": "ECE 125A",
+  "name": "Intro to Power Electronics I",
+  "department": "ECE",
+  "id": "125A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "925056",
+      "type": "LA",
+      "section": "A50",
+      "days": "M",
+      "time": "4:00p-6:50p",
+      "building": "WLH",
+      "room": "2213B",
+      "instructor": "Esmaili, Gholamreza",
+      "start_time": "16:00",
+      "end_time": "18:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925057",
+      "type": "LA",
+      "section": "A51",
+      "days": "M",
+      "time": "7:00p-10:00p",
+      "building": "WLH",
+      "room": "2213B",
+      "instructor": "Esmaili, Gholamreza",
+      "start_time": "19:00",
+      "end_time": "22:00"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925058",
+      "type": "LA",
+      "section": "A52",
+      "days": "W",
+      "time": "4:00p-6:50p",
+      "building": "WLH",
+      "room": "2213B",
+      "instructor": "Esmaili, Gholamreza",
+      "start_time": "16:00",
+      "end_time": "18:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925059",
+      "type": "LA",
+      "section": "A53",
+      "days": "W",
+      "time": "7:00p-10:00p",
+      "building": "WLH",
+      "room": "2213B",
+      "instructor": "Esmaili, Gholamreza",
+      "start_time": "19:00",
+      "end_time": "22:00"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "925056",
+        "type": "LA",
+        "section": "A50",
+        "days": "M",
+        "time": "4:00p-6:50p",
+        "building": "WLH",
+        "room": "2213B",
+        "instructor": "Esmaili, Gholamreza",
+        "start_time": "16:00",
+        "end_time": "18:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925057",
+        "type": "LA",
+        "section": "A51",
+        "days": "M",
+        "time": "7:00p-10:00p",
+        "building": "WLH",
+        "room": "2213B",
+        "instructor": "Esmaili, Gholamreza",
+        "start_time": "19:00",
+        "end_time": "22:00"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "925058",
+        "type": "LA",
+        "section": "A52",
+        "days": "W",
+        "time": "4:00p-6:50p",
+        "building": "WLH",
+        "room": "2213B",
+        "instructor": "Esmaili, Gholamreza",
+        "start_time": "16:00",
+        "end_time": "18:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925059",
+        "type": "LA",
+        "section": "A53",
+        "days": "W",
+        "time": "7:00p-10:00p",
+        "building": "WLH",
+        "room": "2213B",
+        "instructor": "Esmaili, Gholamreza",
+        "start_time": "19:00",
+        "end_time": "22:00"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

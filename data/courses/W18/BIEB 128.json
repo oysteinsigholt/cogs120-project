@@ -1,0 +1,208 @@
+{
+  "code": "BIEB 128",
+  "name": "Insect Diversity",
+  "department": "BIEB",
+  "id": "128",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "9:00a-9:50a",
+      "building": "CSB",
+      "room": "002",
+      "instructor": "Holway, David A.",
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925911",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "11:00a-11:50a",
+      "building": "CENTR",
+      "room": "220",
+      "instructor": "Holway, David A.",
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925912",
+      "type": "DI",
+      "section": "A02",
+      "days": "M",
+      "time": "4:00p-4:50p",
+      "building": "HSS",
+      "room": "1305",
+      "instructor": "Holway, David A.",
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925913",
+      "type": "DI",
+      "section": "A03",
+      "days": "W",
+      "time": "8:00a-8:50a",
+      "building": "CENTR",
+      "room": "205",
+      "instructor": "Holway, David A.",
+      "start_time": "8:00",
+      "end_time": "8:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925914",
+      "type": "DI",
+      "section": "A04",
+      "days": "F",
+      "time": "3:00p-3:50p",
+      "building": "HSS",
+      "room": "1305",
+      "instructor": "Holway, David A.",
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CSB",
+        "room": "002",
+        "instructor": "Holway, David A.",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925911",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "220",
+        "instructor": "Holway, David A.",
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925912",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "1305",
+        "instructor": "Holway, David A.",
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CSB",
+        "room": "002",
+        "instructor": "Holway, David A.",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925913",
+        "type": "DI",
+        "section": "A03",
+        "days": "W",
+        "time": "8:00a-8:50a",
+        "building": "CENTR",
+        "room": "205",
+        "instructor": "Holway, David A.",
+        "start_time": "8:00",
+        "end_time": "8:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CSB",
+        "room": "002",
+        "instructor": "Holway, David A.",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925914",
+        "type": "DI",
+        "section": "A04",
+        "days": "F",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "1305",
+        "instructor": "Holway, David A.",
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

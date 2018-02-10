@@ -1,0 +1,47 @@
+{
+  "code": "ECE 100",
+  "name": "Linear Electronic Systems",
+  "department": "ECE",
+  "id": "100",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "925019",
+      "type": "LA",
+      "section": "A04",
+      "days": "F",
+      "time": "12:00p-3:00p",
+      "building": "WLH",
+      "room": "2213A",
+      "instructor": "Kante, Boubacar",
+      "start_time": "12:00",
+      "end_time": "15:00"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "925019",
+        "type": "LA",
+        "section": "A04",
+        "days": "F",
+        "time": "12:00p-3:00p",
+        "building": "WLH",
+        "room": "2213A",
+        "instructor": "Kante, Boubacar",
+        "start_time": "12:00",
+        "end_time": "15:00"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

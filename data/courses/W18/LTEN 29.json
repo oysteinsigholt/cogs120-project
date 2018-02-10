@@ -1,0 +1,209 @@
+{
+  "code": "LTEN 29",
+  "name": "Intro/Chicano/Latino Lit.",
+  "department": "LTEN",
+  "id": "29",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "1:00p-1:50p",
+      "building": "HSS",
+      "room": "1330",
+      "instructor": "Sanchez, Rosaura",
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924348",
+      "type": "DI",
+      "section": "A01",
+      "days": "Th",
+      "time": "11:00a-11:50a",
+      "building": "SEQUO",
+      "room": "148",
+      "instructor": "Sanchez, Rosaura",
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924349",
+      "type": "DI",
+      "section": "A02",
+      "days": "Th",
+      "time": "12:00p-12:50p",
+      "building": "SEQUO",
+      "room": "148",
+      "instructor": "Sanchez, Rosaura",
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924350",
+      "type": "DI",
+      "section": "A03",
+      "days": "F",
+      "time": "11:00a-11:50a",
+      "building": "WLH",
+      "room": "2209",
+      "instructor": "Sanchez, Rosaura",
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924351",
+      "type": "DI",
+      "section": "A04",
+      "days": "F",
+      "time": "12:00p-12:50p",
+      "building": "WLH",
+      "room": "2209",
+      "instructor": "Sanchez, Rosaura",
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "HSS",
+        "room": "1330",
+        "instructor": "Sanchez, Rosaura",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "HSS",
+        "room": "1330",
+        "instructor": "Sanchez, Rosaura",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "924348",
+        "type": "DI",
+        "section": "A01",
+        "days": "Th",
+        "time": "11:00a-11:50a",
+        "building": "SEQUO",
+        "room": "148",
+        "instructor": "Sanchez, Rosaura",
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924349",
+        "type": "DI",
+        "section": "A02",
+        "days": "Th",
+        "time": "12:00p-12:50p",
+        "building": "SEQUO",
+        "room": "148",
+        "instructor": "Sanchez, Rosaura",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "HSS",
+        "room": "1330",
+        "instructor": "Sanchez, Rosaura",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924350",
+        "type": "DI",
+        "section": "A03",
+        "days": "F",
+        "time": "11:00a-11:50a",
+        "building": "WLH",
+        "room": "2209",
+        "instructor": "Sanchez, Rosaura",
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924351",
+        "type": "DI",
+        "section": "A04",
+        "days": "F",
+        "time": "12:00p-12:50p",
+        "building": "WLH",
+        "room": "2209",
+        "instructor": "Sanchez, Rosaura",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

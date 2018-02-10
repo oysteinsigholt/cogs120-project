@@ -1,0 +1,47 @@
+{
+  "code": "LTEN 22",
+  "name": "Intro/Lit/Brtish Is:1660-1832",
+  "department": "LTEN",
+  "id": "22",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "924343",
+      "type": "DI",
+      "section": "A02",
+      "days": "W",
+      "time": "12:00p-12:50p",
+      "building": "WLH",
+      "room": "2209",
+      "instructor": "Nicolazzo, Sarah E.",
+      "start_time": "12:00",
+      "end_time": "12:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "924343",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "12:00p-12:50p",
+        "building": "WLH",
+        "room": "2209",
+        "instructor": "Nicolazzo, Sarah E.",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

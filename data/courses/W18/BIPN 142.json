@@ -1,0 +1,196 @@
+{
+  "code": "BIPN 142",
+  "name": "Systems Neurobiology",
+  "department": "BIPN",
+  "id": "142",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "9:30a-10:50a",
+      "building": "SOLIS",
+      "room": "104",
+      "instructor": "Wang, Jing",
+      "start_time": "9:30",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926231",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "5:00p-5:50p",
+      "building": "YORK",
+      "room": "3000A",
+      "instructor": "Wang, Jing",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926232",
+      "type": "DI",
+      "section": "A02",
+      "days": "M",
+      "time": "6:00p-6:50p",
+      "building": "YORK",
+      "room": "3000A",
+      "instructor": "Wang, Jing",
+      "start_time": "18:00",
+      "end_time": "18:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926234",
+      "type": "DI",
+      "section": "A04",
+      "days": "Tu",
+      "time": "8:00a-8:50a",
+      "building": "HSS",
+      "room": "1305",
+      "instructor": "Wang, Jing",
+      "start_time": "8:00",
+      "end_time": "8:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926235",
+      "type": "DI",
+      "section": "A05",
+      "days": "W",
+      "time": "8:00a-8:50a",
+      "building": "HSS",
+      "room": "1305",
+      "instructor": "Wang, Jing",
+      "start_time": "8:00",
+      "end_time": "8:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "926231",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "5:00p-5:50p",
+        "building": "YORK",
+        "room": "3000A",
+        "instructor": "Wang, Jing",
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926232",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "6:00p-6:50p",
+        "building": "YORK",
+        "room": "3000A",
+        "instructor": "Wang, Jing",
+        "start_time": "18:00",
+        "end_time": "18:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "SOLIS",
+        "room": "104",
+        "instructor": "Wang, Jing",
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926234",
+        "type": "DI",
+        "section": "A04",
+        "days": "Tu",
+        "time": "8:00a-8:50a",
+        "building": "HSS",
+        "room": "1305",
+        "instructor": "Wang, Jing",
+        "start_time": "8:00",
+        "end_time": "8:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "926235",
+        "type": "DI",
+        "section": "A05",
+        "days": "W",
+        "time": "8:00a-8:50a",
+        "building": "HSS",
+        "room": "1305",
+        "instructor": "Wang, Jing",
+        "start_time": "8:00",
+        "end_time": "8:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "SOLIS",
+        "room": "104",
+        "instructor": "Wang, Jing",
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

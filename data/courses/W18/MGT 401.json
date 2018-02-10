@@ -1,0 +1,47 @@
+{
+  "code": "MGT 401",
+  "name": "Professional Seminar",
+  "department": "MGT",
+  "id": "401",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930533",
+      "type": "SE",
+      "section": "B00",
+      "days": "F",
+      "time": "6:15p-7:15p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Amir, On",
+      "start_time": "18:15",
+      "end_time": "19:15"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "930533",
+        "type": "SE",
+        "section": "B00",
+        "days": "F",
+        "time": "6:15p-7:15p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Amir, On",
+        "start_time": "18:15",
+        "end_time": "19:15"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

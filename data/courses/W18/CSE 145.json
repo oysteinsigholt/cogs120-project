@@ -1,0 +1,84 @@
+{
+  "code": "CSE 145",
+  "name": "Embedded System Design Project",
+  "department": "CSE",
+  "id": "145",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MW",
+      "time": "2:00p-3:20p",
+      "building": "EBU3B",
+      "room": "2154",
+      "instructor": "Kastner, Ryan Charles",
+      "start_time": "14:00",
+      "end_time": "15:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "929929",
+      "type": "LA",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Kastner, Ryan Charles"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "929929",
+      "type": "LA",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Kastner, Ryan Charles"
+    }
+  ],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "EBU3B",
+        "room": "2154",
+        "instructor": "Kastner, Ryan Charles",
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "EBU3B",
+        "room": "2154",
+        "instructor": "Kastner, Ryan Charles",
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "code": "MATH 121A",
+  "name": "Found of Teachg/Learng Math I",
+  "department": "MATH",
+  "id": "121A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "9:30a-10:50a",
+      "building": "SOLIS",
+      "room": "111",
+      "instructor": "Stevens, Laura Jeanne",
+      "start_time": "9:30",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927148",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "4:00p-4:50p",
+      "building": "APM",
+      "room": "B412",
+      "instructor": "Stevens, Laura Jeanne",
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "927148",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "4:00p-4:50p",
+        "building": "APM",
+        "room": "B412",
+        "instructor": "Stevens, Laura Jeanne",
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "SOLIS",
+        "room": "111",
+        "instructor": "Stevens, Laura Jeanne",
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "SOLIS",
+        "room": "111",
+        "instructor": "Stevens, Laura Jeanne",
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "code": "TDGR 230",
+  "name": "Process III: Actors' Studio",
+  "department": "TDGR",
+  "id": "230",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920398",
+      "type": "LA",
+      "section": "B00",
+      "days": "W",
+      "time": "10:00a-12:50p",
+      "building": "GH",
+      "room": "155",
+      "instructor": "Chang, Jennifer M.",
+      "start_time": "10:00",
+      "end_time": "12:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "920398",
+        "type": "LA",
+        "section": "B00",
+        "days": "W",
+        "time": "10:00a-12:50p",
+        "building": "GH",
+        "room": "155",
+        "instructor": "Chang, Jennifer M.",
+        "start_time": "10:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

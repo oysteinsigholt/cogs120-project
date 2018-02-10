@@ -1,0 +1,61 @@
+{
+  "code": "WCWP 10A",
+  "name": "The Writing Course A",
+  "department": "WCWP",
+  "id": "10A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920323",
+      "type": "SE",
+      "section": "019",
+      "days": "TuTh",
+      "time": "12:30p-1:50p",
+      "building": "CENTR",
+      "room": "224B",
+      "instructor": "Gagnon, Jeffrey C",
+      "start_time": "12:30",
+      "end_time": "13:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "920323",
+        "type": "SE",
+        "section": "019",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "224B",
+        "instructor": "Gagnon, Jeffrey C",
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "920323",
+        "type": "SE",
+        "section": "019",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "224B",
+        "instructor": "Gagnon, Jeffrey C",
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

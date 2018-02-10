@@ -1,0 +1,61 @@
+{
+  "code": "TDMV 110",
+  "name": "Intermediate Ballet",
+  "department": "TDMV",
+  "id": "110",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920460",
+      "type": "ST",
+      "section": "A00",
+      "days": "MW",
+      "time": "12:00p-1:50p",
+      "building": "DANCE",
+      "room": "1",
+      "instructor": "Smith, Alison D",
+      "start_time": "12:00",
+      "end_time": "13:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "920460",
+        "type": "ST",
+        "section": "A00",
+        "days": "MW",
+        "time": "12:00p-1:50p",
+        "building": "DANCE",
+        "room": "1",
+        "instructor": "Smith, Alison D",
+        "start_time": "12:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "920460",
+        "type": "ST",
+        "section": "A00",
+        "days": "MW",
+        "time": "12:00p-1:50p",
+        "building": "DANCE",
+        "room": "1",
+        "instructor": "Smith, Alison D",
+        "start_time": "12:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

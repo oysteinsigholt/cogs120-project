@@ -1,0 +1,157 @@
+{
+  "code": "MATH 142A",
+  "name": "Introduction to Analysis I",
+  "department": "MATH",
+  "id": "142A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "MWF",
+      "time": "8:00a-8:50a",
+      "building": "PETER",
+      "room": "103",
+      "instructor": "Sterbenz, Jacob",
+      "start_time": "8:00",
+      "end_time": "8:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "934565",
+      "type": "DI",
+      "section": "B01",
+      "days": "Th",
+      "time": "8:00a-8:50a",
+      "building": "APM",
+      "room": "B402A",
+      "instructor": "Sterbenz, Jacob",
+      "start_time": "8:00",
+      "end_time": "8:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "934571",
+      "type": "DI",
+      "section": "B02",
+      "days": "Th",
+      "time": "10:00a-10:50a",
+      "building": "APM",
+      "room": "5402",
+      "instructor": "Sterbenz, Jacob",
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "PETER",
+        "room": "103",
+        "instructor": "Sterbenz, Jacob",
+        "start_time": "8:00",
+        "end_time": "8:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "PETER",
+        "room": "103",
+        "instructor": "Sterbenz, Jacob",
+        "start_time": "8:00",
+        "end_time": "8:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "934565",
+        "type": "DI",
+        "section": "B01",
+        "days": "Th",
+        "time": "8:00a-8:50a",
+        "building": "APM",
+        "room": "B402A",
+        "instructor": "Sterbenz, Jacob",
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "934571",
+        "type": "DI",
+        "section": "B02",
+        "days": "Th",
+        "time": "10:00a-10:50a",
+        "building": "APM",
+        "room": "5402",
+        "instructor": "Sterbenz, Jacob",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "PETER",
+        "room": "103",
+        "instructor": "Sterbenz, Jacob",
+        "start_time": "8:00",
+        "end_time": "8:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

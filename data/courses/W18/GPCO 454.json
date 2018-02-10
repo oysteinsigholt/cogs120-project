@@ -1,0 +1,73 @@
+{
+  "code": "GPCO 454",
+  "name": "Quantitative Methods II",
+  "department": "GPCO",
+  "id": "454",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930804",
+      "type": "DI",
+      "section": "B02",
+      "days": "F",
+      "time": "9:30a-10:50a",
+      "building": "RBC",
+      "room": "3202",
+      "instructor": "Burney, Jennifer A.",
+      "start_time": "9:30",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930809",
+      "type": "DI",
+      "section": "B03",
+      "days": "F",
+      "time": "9:30a-10:50a",
+      "building": "RBC",
+      "room": "AUD",
+      "instructor": "Burney, Jennifer A.",
+      "start_time": "9:30",
+      "end_time": "10:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "930804",
+        "type": "DI",
+        "section": "B02",
+        "days": "F",
+        "time": "9:30a-10:50a",
+        "building": "RBC",
+        "room": "3202",
+        "instructor": "Burney, Jennifer A.",
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "930809",
+        "type": "DI",
+        "section": "B03",
+        "days": "F",
+        "time": "9:30a-10:50a",
+        "building": "RBC",
+        "room": "AUD",
+        "instructor": "Burney, Jennifer A.",
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "code": "TDGR 223B",
+  "name": "Movement for Theatre II",
+  "department": "TDGR",
+  "id": "223B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920394",
+      "type": "ST",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "11:00a-12:50p",
+      "building": "GH",
+      "room": "23",
+      "instructor": "Means, Charles E.",
+      "start_time": "11:00",
+      "end_time": "12:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "920394",
+        "type": "ST",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:50p",
+        "building": "GH",
+        "room": "23",
+        "instructor": "Means, Charles E.",
+        "start_time": "11:00",
+        "end_time": "12:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "920394",
+        "type": "ST",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:50p",
+        "building": "GH",
+        "room": "23",
+        "instructor": "Means, Charles E.",
+        "start_time": "11:00",
+        "end_time": "12:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

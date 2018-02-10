@@ -1,0 +1,47 @@
+{
+  "code": "HIGR 208",
+  "name": "Grad. Professional Development",
+  "department": "HIGR",
+  "id": "208",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "924557",
+      "type": "SE",
+      "section": "A00",
+      "days": "Th",
+      "time": "9:30a-12:20p",
+      "building": "HSS",
+      "room": "6008",
+      "instructor": "Alvarez, Luis A",
+      "start_time": "9:30",
+      "end_time": "12:20"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "924557",
+        "type": "SE",
+        "section": "A00",
+        "days": "Th",
+        "time": "9:30a-12:20p",
+        "building": "HSS",
+        "room": "6008",
+        "instructor": "Alvarez, Luis A",
+        "start_time": "9:30",
+        "end_time": "12:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

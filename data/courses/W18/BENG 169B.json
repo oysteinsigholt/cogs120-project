@@ -1,0 +1,73 @@
+{
+  "code": "BENG 169B",
+  "name": "Design Implmntatn Tissue Engin",
+  "department": "BENG",
+  "id": "169B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "923334",
+      "type": "LE",
+      "section": "A00",
+      "days": "M",
+      "time": "9:00a-9:50a",
+      "building": "PFBH",
+      "room": "226",
+      "instructor": "Wheeler, Bruce Christopher",
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "A01",
+      "days": "M",
+      "time": "10:00a-1:50p",
+      "building": "PFBH",
+      "room": "108",
+      "instructor": "Wheeler, Bruce Christopher",
+      "start_time": "10:00",
+      "end_time": "13:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "923334",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "9:00a-9:50a",
+        "building": "PFBH",
+        "room": "226",
+        "instructor": "Wheeler, Bruce Christopher",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A01",
+        "days": "M",
+        "time": "10:00a-1:50p",
+        "building": "PFBH",
+        "room": "108",
+        "instructor": "Wheeler, Bruce Christopher",
+        "start_time": "10:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

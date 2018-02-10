@@ -1,0 +1,47 @@
+{
+  "code": "MUS 5",
+  "name": "Sound in Time",
+  "department": "MUS",
+  "id": "5",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921767",
+      "type": "LA",
+      "section": "A06",
+      "days": "F",
+      "time": "10:00a-10:50a",
+      "building": "WLH",
+      "room": "2155",
+      "instructor": "Thorpe, Suzanne",
+      "start_time": "10:00",
+      "end_time": "10:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "921767",
+        "type": "LA",
+        "section": "A06",
+        "days": "F",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2155",
+        "instructor": "Thorpe, Suzanne",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

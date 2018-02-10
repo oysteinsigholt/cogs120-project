@@ -1,0 +1,47 @@
+{
+  "code": "NANO 200",
+  "name": "Grad Sem./Chemical Engineering",
+  "department": "NANO",
+  "id": "200",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "926745",
+      "type": "SE",
+      "section": "A00",
+      "days": "W",
+      "time": "11:00a-11:50a",
+      "building": "SME",
+      "room": "248",
+      "instructor": "Talbot, Jan B",
+      "start_time": "11:00",
+      "end_time": "11:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "926745",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "11:00a-11:50a",
+        "building": "SME",
+        "room": "248",
+        "instructor": "Talbot, Jan B",
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

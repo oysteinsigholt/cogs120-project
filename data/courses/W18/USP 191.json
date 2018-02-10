@@ -1,0 +1,76 @@
+{
+  "code": "USP 191",
+  "name": "GIS for Urban & Community Plan",
+  "department": "USP",
+  "id": "191",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "922180",
+      "type": "LE",
+      "section": "A00",
+      "days": "M",
+      "time": "12:00p-2:50p",
+      "building": "SSB",
+      "room": "102",
+      "instructor": "Wartell, Julie Dara",
+      "start_time": "12:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "922180",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "12:00p-2:50p",
+        "building": "SSB",
+        "room": "102",
+        "instructor": "Wartell, Julie Dara",
+        "start_time": "12:00",
+        "end_time": "14:50"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

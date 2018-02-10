@@ -1,0 +1,87 @@
+{
+  "code": "PHYS 164",
+  "name": "Observational Astrophysics Lab",
+  "department": "PHYS",
+  "id": "164",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "11:00a-12:20p",
+      "building": "SERF",
+      "room": "383",
+      "instructor": "Wright, Shelley Adams",
+      "start_time": "11:00",
+      "end_time": "12:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923777",
+      "type": "LA",
+      "section": "A01",
+      "days": "Tu",
+      "time": "5:00p-5:50p",
+      "building": "MYR-A",
+      "room": "4623",
+      "instructor": "Wright, Shelley Adams",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "SERF",
+        "room": "383",
+        "instructor": "Wright, Shelley Adams",
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "923777",
+        "type": "LA",
+        "section": "A01",
+        "days": "Tu",
+        "time": "5:00p-5:50p",
+        "building": "MYR-A",
+        "room": "4623",
+        "instructor": "Wright, Shelley Adams",
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "SERF",
+        "room": "383",
+        "instructor": "Wright, Shelley Adams",
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

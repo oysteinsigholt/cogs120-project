@@ -1,0 +1,47 @@
+{
+  "code": "ETHN 100H",
+  "name": "Honors Research Design",
+  "department": "ETHN",
+  "id": "100H",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "922675",
+      "type": "SE",
+      "section": "A00",
+      "days": "W",
+      "time": "10:00a-11:50a",
+      "building": "SSB",
+      "room": "253",
+      "instructor": "Streeby, Shelley",
+      "start_time": "10:00",
+      "end_time": "11:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "922675",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "10:00a-11:50a",
+        "building": "SSB",
+        "room": "253",
+        "instructor": "Streeby, Shelley",
+        "start_time": "10:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

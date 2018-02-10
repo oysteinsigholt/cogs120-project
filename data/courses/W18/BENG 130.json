@@ -1,0 +1,249 @@
+{
+  "code": "BENG 130",
+  "name": "Biotech Thermodynamics & Kinet",
+  "department": "BENG",
+  "id": "130",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "923308",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "9:30a-10:50a",
+      "building": "LEDDN",
+      "room": "AUD",
+      "instructor": "Huang, Xiaohua",
+      "start_time": "9:30",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "F",
+      "time": "5:00p-5:50p",
+      "building": "WLH",
+      "room": "2005",
+      "instructor": "",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "12:00p-12:50p",
+      "building": "WLH",
+      "room": "2115",
+      "instructor": "Huang, Xiaohua",
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A02",
+      "days": "W",
+      "time": "1:00p-1:50p",
+      "building": "WLH",
+      "room": "2114",
+      "instructor": "Huang, Xiaohua",
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A03",
+      "days": "F",
+      "time": "9:00a-9:50a",
+      "building": "WLH",
+      "room": "2114",
+      "instructor": "Huang, Xiaohua",
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A04",
+      "days": "F",
+      "time": "2:00p-2:50p",
+      "building": "WLH",
+      "room": "2206",
+      "instructor": "Huang, Xiaohua",
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A05",
+      "days": "F",
+      "time": "3:00p-3:50p",
+      "building": "WLH",
+      "room": "2206",
+      "instructor": "Huang, Xiaohua",
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "12:00p-12:50p",
+        "building": "WLH",
+        "room": "2115",
+        "instructor": "Huang, Xiaohua",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "923308",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructor": "Huang, Xiaohua",
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "1:00p-1:50p",
+        "building": "WLH",
+        "room": "2114",
+        "instructor": "Huang, Xiaohua",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "923308",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructor": "Huang, Xiaohua",
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": false,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "F",
+        "time": "5:00p-5:50p",
+        "building": "WLH",
+        "room": "2005",
+        "instructor": "",
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A03",
+        "days": "F",
+        "time": "9:00a-9:50a",
+        "building": "WLH",
+        "room": "2114",
+        "instructor": "Huang, Xiaohua",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A04",
+        "days": "F",
+        "time": "2:00p-2:50p",
+        "building": "WLH",
+        "room": "2206",
+        "instructor": "Huang, Xiaohua",
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A05",
+        "days": "F",
+        "time": "3:00p-3:50p",
+        "building": "WLH",
+        "room": "2206",
+        "instructor": "Huang, Xiaohua",
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

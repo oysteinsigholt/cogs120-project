@@ -1,0 +1,313 @@
+{
+  "code": "COMM 10",
+  "name": "Introduction to Communication",
+  "department": "COMM",
+  "id": "10",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "2:00p-2:50p",
+      "building": "LEDDN",
+      "room": "AUD",
+      "instructor": "Boateng, Boatema",
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924150",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "12:00p-12:50p",
+      "building": "CENTR",
+      "room": "217A",
+      "instructor": "Boateng, Boatema",
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924151",
+      "type": "DI",
+      "section": "A02",
+      "days": "M",
+      "time": "1:00p-1:50p",
+      "building": "CENTR",
+      "room": "217A",
+      "instructor": "Boateng, Boatema",
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924152",
+      "type": "DI",
+      "section": "A03",
+      "days": "Tu",
+      "time": "9:00a-9:50a",
+      "building": "SOLIS",
+      "room": "109",
+      "instructor": "Boateng, Boatema",
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924153",
+      "type": "DI",
+      "section": "A04",
+      "days": "Tu",
+      "time": "10:00a-10:50a",
+      "building": "SOLIS",
+      "room": "109",
+      "instructor": "Boateng, Boatema",
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924154",
+      "type": "DI",
+      "section": "A05",
+      "days": "W",
+      "time": "3:00p-3:50p",
+      "building": "HSS",
+      "room": "2152",
+      "instructor": "Boateng, Boatema",
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924155",
+      "type": "DI",
+      "section": "A06",
+      "days": "W",
+      "time": "4:00p-4:50p",
+      "building": "HSS",
+      "room": "2152",
+      "instructor": "Boateng, Boatema",
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924156",
+      "type": "DI",
+      "section": "A07",
+      "days": "F",
+      "time": "1:00p-1:50p",
+      "building": "YORK",
+      "room": "3000A",
+      "instructor": "Boateng, Boatema",
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924157",
+      "type": "DI",
+      "section": "A08",
+      "days": "W",
+      "time": "10:00a-10:50a",
+      "building": "HSS",
+      "room": "2154",
+      "instructor": "Boateng, Boatema",
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructor": "Boateng, Boatema",
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924150",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructor": "Boateng, Boatema",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924151",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructor": "Boateng, Boatema",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "924152",
+        "type": "DI",
+        "section": "A03",
+        "days": "Tu",
+        "time": "9:00a-9:50a",
+        "building": "SOLIS",
+        "room": "109",
+        "instructor": "Boateng, Boatema",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924153",
+        "type": "DI",
+        "section": "A04",
+        "days": "Tu",
+        "time": "10:00a-10:50a",
+        "building": "SOLIS",
+        "room": "109",
+        "instructor": "Boateng, Boatema",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructor": "Boateng, Boatema",
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924154",
+        "type": "DI",
+        "section": "A05",
+        "days": "W",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "2152",
+        "instructor": "Boateng, Boatema",
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924155",
+        "type": "DI",
+        "section": "A06",
+        "days": "W",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "2152",
+        "instructor": "Boateng, Boatema",
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924157",
+        "type": "DI",
+        "section": "A08",
+        "days": "W",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "2154",
+        "instructor": "Boateng, Boatema",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructor": "Boateng, Boatema",
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924156",
+        "type": "DI",
+        "section": "A07",
+        "days": "F",
+        "time": "1:00p-1:50p",
+        "building": "YORK",
+        "room": "3000A",
+        "instructor": "Boateng, Boatema",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

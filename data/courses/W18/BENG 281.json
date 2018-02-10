@@ -1,0 +1,47 @@
+{
+  "code": "BENG 281",
+  "name": "Seminar in Bioengineering",
+  "department": "BENG",
+  "id": "281",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "923394",
+      "type": "SE",
+      "section": "A00",
+      "days": "F",
+      "time": "2:00p-2:50p",
+      "building": "PFBH",
+      "room": "191",
+      "instructor": "Subramaniam, Shankar",
+      "start_time": "14:00",
+      "end_time": "14:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "923394",
+        "type": "SE",
+        "section": "A00",
+        "days": "F",
+        "time": "2:00p-2:50p",
+        "building": "PFBH",
+        "room": "191",
+        "instructor": "Subramaniam, Shankar",
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "code": "BIEB 194",
+  "name": "Adv Topics-EBE",
+  "department": "BIEB",
+  "id": "194",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "925952",
+      "type": "SE",
+      "section": "A00",
+      "days": "W",
+      "time": "10:00a-11:20a",
+      "building": "YORK",
+      "room": "3010",
+      "instructor": "Roy, Kaustuv",
+      "start_time": "10:00",
+      "end_time": "11:20"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "925952",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "10:00a-11:20a",
+        "building": "YORK",
+        "room": "3010",
+        "instructor": "Roy, Kaustuv",
+        "start_time": "10:00",
+        "end_time": "11:20"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "code": "SIO 187",
+  "name": "Stat Methods in Marine Biology",
+  "department": "SIO",
+  "id": "187",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "2:30p-3:50p",
+      "building": "ECKRT",
+      "room": "227",
+      "instructor": "Sandin, Stuart Adrian",
+      "start_time": "14:30",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921085",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "11:00a-12:15p",
+      "building": "ECKRT",
+      "room": "225",
+      "instructor": "Sandin, Stuart Adrian",
+      "start_time": "11:00",
+      "end_time": "12:15"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921086",
+      "type": "DI",
+      "section": "A02",
+      "days": "W",
+      "time": "11:00a-12:15p",
+      "building": "ECKRT",
+      "room": "225",
+      "instructor": "Sandin, Stuart Adrian",
+      "start_time": "11:00",
+      "end_time": "12:15"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "921085",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "11:00a-12:15p",
+        "building": "ECKRT",
+        "room": "225",
+        "instructor": "Sandin, Stuart Adrian",
+        "start_time": "11:00",
+        "end_time": "12:15"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:30p-3:50p",
+        "building": "ECKRT",
+        "room": "227",
+        "instructor": "Sandin, Stuart Adrian",
+        "start_time": "14:30",
+        "end_time": "15:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "921086",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "11:00a-12:15p",
+        "building": "ECKRT",
+        "room": "225",
+        "instructor": "Sandin, Stuart Adrian",
+        "start_time": "11:00",
+        "end_time": "12:15"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:30p-3:50p",
+        "building": "ECKRT",
+        "room": "227",
+        "instructor": "Sandin, Stuart Adrian",
+        "start_time": "14:30",
+        "end_time": "15:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

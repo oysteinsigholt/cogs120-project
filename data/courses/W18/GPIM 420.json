@@ -1,0 +1,61 @@
+{
+  "code": "GPIM 420",
+  "name": "Marketing",
+  "department": "GPIM",
+  "id": "420",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921717",
+      "type": "LE",
+      "section": "A00",
+      "days": "MW",
+      "time": "9:30a-10:50a",
+      "building": "RBC",
+      "room": "GARDN",
+      "instructor": "Karmarkar, Uma R",
+      "start_time": "9:30",
+      "end_time": "10:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "921717",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "RBC",
+        "room": "GARDN",
+        "instructor": "Karmarkar, Uma R",
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "921717",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "RBC",
+        "room": "GARDN",
+        "instructor": "Karmarkar, Uma R",
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

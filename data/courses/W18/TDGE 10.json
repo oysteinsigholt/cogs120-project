@@ -1,0 +1,47 @@
+{
+  "code": "TDGE 10",
+  "name": "Theatre and Film",
+  "department": "TDGE",
+  "id": "10",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "922688",
+      "type": "LE",
+      "section": "A00",
+      "days": "Th",
+      "time": "6:30p-9:20p",
+      "building": "CENTR",
+      "room": "105",
+      "instructor": "Havis, Allan",
+      "start_time": "18:30",
+      "end_time": "21:20"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "922688",
+        "type": "LE",
+        "section": "A00",
+        "days": "Th",
+        "time": "6:30p-9:20p",
+        "building": "CENTR",
+        "room": "105",
+        "instructor": "Havis, Allan",
+        "start_time": "18:30",
+        "end_time": "21:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "code": "OPTH 250",
+  "name": "Introduction to Ophthalmology",
+  "department": "OPTH",
+  "id": "250",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930457",
+      "type": "LE",
+      "section": "A00",
+      "days": "Th",
+      "time": "3:00p-4:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Staff",
+      "start_time": "15:00",
+      "end_time": "16:30"
+    }
+  ],
+  "notes": [
+    "Location: MET 205"
+  ],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "930457",
+        "type": "LE",
+        "section": "A00",
+        "days": "Th",
+        "time": "3:00p-4:30p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Staff",
+        "start_time": "15:00",
+        "end_time": "16:30"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

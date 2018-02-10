@@ -1,0 +1,73 @@
+{
+  "code": "VIS 11",
+  "name": "Introduction to Visual Arts",
+  "department": "VIS",
+  "id": "11",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "931819",
+      "type": "ST",
+      "section": "A09",
+      "days": "Tu",
+      "time": "12:30p-3:20p",
+      "building": "MANDE",
+      "room": "B115A",
+      "instructor": "Cartwright, Lisa",
+      "start_time": "12:30",
+      "end_time": "15:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "931820",
+      "type": "ST",
+      "section": "A10",
+      "days": "Tu",
+      "time": "3:30p-6:20p",
+      "building": "MANDE",
+      "room": "B115A",
+      "instructor": "Cartwright, Lisa",
+      "start_time": "15:30",
+      "end_time": "18:20"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "931819",
+        "type": "ST",
+        "section": "A09",
+        "days": "Tu",
+        "time": "12:30p-3:20p",
+        "building": "MANDE",
+        "room": "B115A",
+        "instructor": "Cartwright, Lisa",
+        "start_time": "12:30",
+        "end_time": "15:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "931820",
+        "type": "ST",
+        "section": "A10",
+        "days": "Tu",
+        "time": "3:30p-6:20p",
+        "building": "MANDE",
+        "room": "B115A",
+        "instructor": "Cartwright, Lisa",
+        "start_time": "15:30",
+        "end_time": "18:20"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

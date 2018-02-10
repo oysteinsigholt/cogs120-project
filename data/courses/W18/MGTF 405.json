@@ -1,0 +1,76 @@
+{
+  "code": "MGTF 405",
+  "name": "Business Forecasting",
+  "department": "MGTF",
+  "id": "405",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930393",
+      "type": "LE",
+      "section": "B00",
+      "days": "M",
+      "time": "1:00p-4:00p",
+      "building": "WFH",
+      "room": "4N128",
+      "instructor": "Timmermann, Allan",
+      "start_time": "13:00",
+      "end_time": "16:00"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "1:00p-4:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "13:00",
+      "end_time": "16:00"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "1:00p-4:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "13:00",
+      "end_time": "16:00"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "930393",
+        "type": "LE",
+        "section": "B00",
+        "days": "M",
+        "time": "1:00p-4:00p",
+        "building": "WFH",
+        "room": "4N128",
+        "instructor": "Timmermann, Allan",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

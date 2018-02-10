@@ -1,0 +1,70 @@
+{
+  "code": "EDS 39",
+  "name": "Prac/Sci&MathTeching/Learning",
+  "department": "EDS",
+  "id": "39",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "SE",
+      "section": "A00",
+      "days": "Th",
+      "time": "3:00p-4:50p",
+      "building": "PCYNH",
+      "room": "304",
+      "instructor": "Heinzman, Erica M.",
+      "start_time": "15:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922463",
+      "type": "PR",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Heinzman, Erica M."
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "922463",
+      "type": "PR",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Heinzman, Erica M."
+    }
+  ],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "SE",
+        "section": "A00",
+        "days": "Th",
+        "time": "3:00p-4:50p",
+        "building": "PCYNH",
+        "room": "304",
+        "instructor": "Heinzman, Erica M.",
+        "start_time": "15:00",
+        "end_time": "16:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

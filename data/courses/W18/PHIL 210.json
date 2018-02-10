@@ -1,0 +1,47 @@
+{
+  "code": "PHIL 210",
+  "name": "Greek Philosophy",
+  "department": "PHIL",
+  "id": "210",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "924843",
+      "type": "SE",
+      "section": "A00",
+      "days": "W",
+      "time": "4:00p-6:50p",
+      "building": "HSS",
+      "room": "7077",
+      "instructor": "Johnson, Monte",
+      "start_time": "16:00",
+      "end_time": "18:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "924843",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "4:00p-6:50p",
+        "building": "HSS",
+        "room": "7077",
+        "instructor": "Johnson, Monte",
+        "start_time": "16:00",
+        "end_time": "18:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

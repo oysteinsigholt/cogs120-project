@@ -1,0 +1,49 @@
+{
+  "code": "SIO 87",
+  "name": "Freshman Seminar",
+  "department": "SIO",
+  "id": "87",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "927888",
+      "type": "SE",
+      "section": "B00",
+      "days": "Tu",
+      "time": "9:00a-10:50a",
+      "building": "YORK",
+      "room": "3030",
+      "instructor": "Cook, Geoffrey W",
+      "start_time": "9:00",
+      "end_time": "10:50"
+    }
+  ],
+  "notes": [
+    "Will meet weeks 1-5."
+  ],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "927888",
+        "type": "SE",
+        "section": "B00",
+        "days": "Tu",
+        "time": "9:00a-10:50a",
+        "building": "YORK",
+        "room": "3030",
+        "instructor": "Cook, Geoffrey W",
+        "start_time": "9:00",
+        "end_time": "10:50"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "code": "ECE 154B",
+  "name": "Communications Systems II",
+  "department": "ECE",
+  "id": "154B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MW",
+      "time": "7:30a-8:50a",
+      "building": "WLH",
+      "room": "2208",
+      "instructor": "Milstein, Laurence B.",
+      "start_time": "7:30",
+      "end_time": "8:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925066",
+      "type": "DI",
+      "section": "A01",
+      "days": "F",
+      "time": "8:00a-8:50a",
+      "building": "HSS",
+      "room": "2154",
+      "instructor": "Milstein, Laurence B.",
+      "start_time": "8:00",
+      "end_time": "8:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "7:30a-8:50a",
+        "building": "WLH",
+        "room": "2208",
+        "instructor": "Milstein, Laurence B.",
+        "start_time": "7:30",
+        "end_time": "8:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "7:30a-8:50a",
+        "building": "WLH",
+        "room": "2208",
+        "instructor": "Milstein, Laurence B.",
+        "start_time": "7:30",
+        "end_time": "8:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "925066",
+        "type": "DI",
+        "section": "A01",
+        "days": "F",
+        "time": "8:00a-8:50a",
+        "building": "HSS",
+        "room": "2154",
+        "instructor": "Milstein, Laurence B.",
+        "start_time": "8:00",
+        "end_time": "8:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

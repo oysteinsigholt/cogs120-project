@@ -1,0 +1,129 @@
+{
+  "code": "SIO 120",
+  "name": "Introduction to Mineralogy",
+  "department": "SIO",
+  "id": "120",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921057",
+      "type": "LE",
+      "section": "A00",
+      "days": "MW",
+      "time": "1:00p-2:20p",
+      "building": "VAUGN",
+      "room": "147",
+      "instructor": "Cook, Geoffrey W",
+      "start_time": "13:00",
+      "end_time": "14:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "A01",
+      "days": "MW",
+      "time": "2:30p-3:50p",
+      "building": "VAUGN",
+      "room": "147",
+      "instructor": "Cook, Geoffrey W",
+      "start_time": "14:30",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "921057",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "1:00p-2:20p",
+        "building": "VAUGN",
+        "room": "147",
+        "instructor": "Cook, Geoffrey W",
+        "start_time": "13:00",
+        "end_time": "14:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A01",
+        "days": "MW",
+        "time": "2:30p-3:50p",
+        "building": "VAUGN",
+        "room": "147",
+        "instructor": "Cook, Geoffrey W",
+        "start_time": "14:30",
+        "end_time": "15:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "921057",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "1:00p-2:20p",
+        "building": "VAUGN",
+        "room": "147",
+        "instructor": "Cook, Geoffrey W",
+        "start_time": "13:00",
+        "end_time": "14:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A01",
+        "days": "MW",
+        "time": "2:30p-3:50p",
+        "building": "VAUGN",
+        "room": "147",
+        "instructor": "Cook, Geoffrey W",
+        "start_time": "14:30",
+        "end_time": "15:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

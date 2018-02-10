@@ -1,0 +1,129 @@
+{
+  "code": "COMM 102M",
+  "name": "MMPP: Studio/TV",
+  "department": "COMM",
+  "id": "102M",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "Tu",
+      "time": "1:00p-3:50p",
+      "building": "MCC",
+      "room": "140",
+      "instructor": "Ahn, Patricia Jeehyun",
+      "start_time": "13:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924183",
+      "type": "ST",
+      "section": "A01",
+      "days": "Th",
+      "time": "9:30a-12:20p",
+      "building": "MCC",
+      "room": "140",
+      "instructor": "Ahn, Patricia Jeehyun",
+      "start_time": "9:30",
+      "end_time": "12:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924184",
+      "type": "ST",
+      "section": "A02",
+      "days": "Th",
+      "time": "2:00p-4:50p",
+      "building": "MCC",
+      "room": "140",
+      "instructor": "Ahn, Patricia Jeehyun",
+      "start_time": "14:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/24/2018",
+      "days": "S",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-24T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/24/2018",
+      "days": "S",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-24T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "1:00p-3:50p",
+        "building": "MCC",
+        "room": "140",
+        "instructor": "Ahn, Patricia Jeehyun",
+        "start_time": "13:00",
+        "end_time": "15:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "924183",
+        "type": "ST",
+        "section": "A01",
+        "days": "Th",
+        "time": "9:30a-12:20p",
+        "building": "MCC",
+        "room": "140",
+        "instructor": "Ahn, Patricia Jeehyun",
+        "start_time": "9:30",
+        "end_time": "12:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924184",
+        "type": "ST",
+        "section": "A02",
+        "days": "Th",
+        "time": "2:00p-4:50p",
+        "building": "MCC",
+        "room": "140",
+        "instructor": "Ahn, Patricia Jeehyun",
+        "start_time": "14:00",
+        "end_time": "16:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

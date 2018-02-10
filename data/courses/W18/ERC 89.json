@@ -1,0 +1,70 @@
+{
+  "code": "ERC 89",
+  "name": "Practicum in Math Tutoring",
+  "department": "ERC",
+  "id": "89",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "933044",
+      "type": "SE",
+      "section": "A00",
+      "days": "M",
+      "time": "4:00p-5:50p",
+      "building": "ASANT",
+      "room": "123B",
+      "instructor": "Evans, Ivan T",
+      "start_time": "16:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "FW",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Evans, Ivan T"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "FW",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Evans, Ivan T"
+    }
+  ],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "933044",
+        "type": "SE",
+        "section": "A00",
+        "days": "M",
+        "time": "4:00p-5:50p",
+        "building": "ASANT",
+        "room": "123B",
+        "instructor": "Evans, Ivan T",
+        "start_time": "16:00",
+        "end_time": "17:50"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

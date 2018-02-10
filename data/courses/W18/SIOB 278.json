@@ -1,0 +1,47 @@
+{
+  "code": "SIOB 278",
+  "name": "Seminar in Ocean Biosciences",
+  "department": "SIOB",
+  "id": "278",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930429",
+      "type": "SE",
+      "section": "C00",
+      "days": "F",
+      "time": "2:00p-4:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Franks, Peter",
+      "start_time": "14:00",
+      "end_time": "16:00"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "930429",
+        "type": "SE",
+        "section": "C00",
+        "days": "F",
+        "time": "2:00p-4:00p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Franks, Peter",
+        "start_time": "14:00",
+        "end_time": "16:00"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

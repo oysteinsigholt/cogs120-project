@@ -1,0 +1,209 @@
+{
+  "code": "ECE 30",
+  "name": "Intro to Computer Engineering",
+  "department": "ECE",
+  "id": "30",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "10:00a-10:50a",
+      "building": "PETER",
+      "room": "104",
+      "instructor": "Eldon, John",
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "8:00a-8:50a",
+      "building": "PETER",
+      "room": "104",
+      "instructor": "Eldon, John",
+      "start_time": "8:00",
+      "end_time": "8:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924990",
+      "type": "LA",
+      "section": "A50",
+      "days": "M",
+      "time": "7:00p-10:00p",
+      "building": "WLH",
+      "room": "2114",
+      "instructor": "Eldon, John",
+      "start_time": "19:00",
+      "end_time": "22:00"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924991",
+      "type": "LA",
+      "section": "A51",
+      "days": "Tu",
+      "time": "7:00p-10:00p",
+      "building": "WLH",
+      "room": "2114",
+      "instructor": "Eldon, John",
+      "start_time": "19:00",
+      "end_time": "22:00"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924992",
+      "type": "LA",
+      "section": "A52",
+      "days": "W",
+      "time": "7:00p-10:00p",
+      "building": "WLH",
+      "room": "2114",
+      "instructor": "Eldon, John",
+      "start_time": "19:00",
+      "end_time": "22:00"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "PETER",
+        "room": "104",
+        "instructor": "Eldon, John",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "8:00a-8:50a",
+        "building": "PETER",
+        "room": "104",
+        "instructor": "Eldon, John",
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924990",
+        "type": "LA",
+        "section": "A50",
+        "days": "M",
+        "time": "7:00p-10:00p",
+        "building": "WLH",
+        "room": "2114",
+        "instructor": "Eldon, John",
+        "start_time": "19:00",
+        "end_time": "22:00"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "924991",
+        "type": "LA",
+        "section": "A51",
+        "days": "Tu",
+        "time": "7:00p-10:00p",
+        "building": "WLH",
+        "room": "2114",
+        "instructor": "Eldon, John",
+        "start_time": "19:00",
+        "end_time": "22:00"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "PETER",
+        "room": "104",
+        "instructor": "Eldon, John",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924992",
+        "type": "LA",
+        "section": "A52",
+        "days": "W",
+        "time": "7:00p-10:00p",
+        "building": "WLH",
+        "room": "2114",
+        "instructor": "Eldon, John",
+        "start_time": "19:00",
+        "end_time": "22:00"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "PETER",
+        "room": "104",
+        "instructor": "Eldon, John",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

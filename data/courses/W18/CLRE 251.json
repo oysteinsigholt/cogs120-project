@@ -1,0 +1,76 @@
+{
+  "code": "CLRE 251",
+  "name": "Epidemiology I",
+  "department": "CLRE",
+  "id": "251",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "929388",
+      "type": "LE",
+      "section": "A00",
+      "days": "W",
+      "time": "4:00p-6:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Araneta, Maria Rosario Gorrez",
+      "start_time": "16:00",
+      "end_time": "18:00"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "929388",
+        "type": "LE",
+        "section": "A00",
+        "days": "W",
+        "time": "4:00p-6:00p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Araneta, Maria Rosario Gorrez",
+        "start_time": "16:00",
+        "end_time": "18:00"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "code": "TDMV 1",
+  "name": "Beginning Ballet",
+  "department": "TDMV",
+  "id": "1",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920453",
+      "type": "ST",
+      "section": "A00",
+      "days": "MW",
+      "time": "8:30a-9:50a",
+      "building": "DANCE",
+      "room": "1",
+      "instructor": "Weinberg, Sadie",
+      "start_time": "8:30",
+      "end_time": "9:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "920453",
+        "type": "ST",
+        "section": "A00",
+        "days": "MW",
+        "time": "8:30a-9:50a",
+        "building": "DANCE",
+        "room": "1",
+        "instructor": "Weinberg, Sadie",
+        "start_time": "8:30",
+        "end_time": "9:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "920453",
+        "type": "ST",
+        "section": "A00",
+        "days": "MW",
+        "time": "8:30a-9:50a",
+        "building": "DANCE",
+        "room": "1",
+        "instructor": "Weinberg, Sadie",
+        "start_time": "8:30",
+        "end_time": "9:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

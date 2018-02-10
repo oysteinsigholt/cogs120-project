@@ -1,0 +1,61 @@
+{
+  "code": "SOCI 165",
+  "name": "Predicting the Future",
+  "department": "SOCI",
+  "id": "165",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "929335",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "11:00a-12:20p",
+      "building": "SOLIS",
+      "room": "110",
+      "instructor": "Rona-Tas, Akos",
+      "start_time": "11:00",
+      "end_time": "12:20"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "929335",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "SOLIS",
+        "room": "110",
+        "instructor": "Rona-Tas, Akos",
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "929335",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "SOLIS",
+        "room": "110",
+        "instructor": "Rona-Tas, Akos",
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

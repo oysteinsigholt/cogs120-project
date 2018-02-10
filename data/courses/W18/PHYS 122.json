@@ -1,0 +1,100 @@
+{
+  "code": "PHYS 122",
+  "name": "Experimental Techniques",
+  "department": "PHYS",
+  "id": "122",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "9:30a-10:50a",
+      "building": "MYR-A",
+      "room": "3544",
+      "instructor": "Smith, Douglas E",
+      "start_time": "9:30",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923765",
+      "type": "LA",
+      "section": "A01",
+      "days": "TuTh",
+      "time": "11:00a-12:50p",
+      "building": "MYR-A",
+      "room": "3544",
+      "instructor": "Smith, Douglas E",
+      "start_time": "11:00",
+      "end_time": "12:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "MYR-A",
+        "room": "3544",
+        "instructor": "Smith, Douglas E",
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "923765",
+        "type": "LA",
+        "section": "A01",
+        "days": "TuTh",
+        "time": "11:00a-12:50p",
+        "building": "MYR-A",
+        "room": "3544",
+        "instructor": "Smith, Douglas E",
+        "start_time": "11:00",
+        "end_time": "12:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "MYR-A",
+        "room": "3544",
+        "instructor": "Smith, Douglas E",
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "923765",
+        "type": "LA",
+        "section": "A01",
+        "days": "TuTh",
+        "time": "11:00a-12:50p",
+        "building": "MYR-A",
+        "room": "3544",
+        "instructor": "Smith, Douglas E",
+        "start_time": "11:00",
+        "end_time": "12:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

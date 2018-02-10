@@ -1,0 +1,47 @@
+{
+  "code": "MUS 2BK",
+  "name": "Basic Keyboard",
+  "department": "MUS",
+  "id": "2BK",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921917",
+      "type": "LA",
+      "section": "C00",
+      "days": "Th",
+      "time": "11:00a-11:50a",
+      "building": "CPMC",
+      "room": "166",
+      "instructor": "Ohnishi, Takae",
+      "start_time": "11:00",
+      "end_time": "11:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "921917",
+        "type": "LA",
+        "section": "C00",
+        "days": "Th",
+        "time": "11:00a-11:50a",
+        "building": "CPMC",
+        "room": "166",
+        "instructor": "Ohnishi, Takae",
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "code": "MUS 4",
+  "name": "Introduction to Western Music",
+  "department": "MUS",
+  "id": "4",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "Th",
+      "time": "7:00p-9:50p",
+      "building": "WLH",
+      "room": "2005",
+      "instructor": "Nestor, Ryan Douglas",
+      "start_time": "19:00",
+      "end_time": "21:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921755",
+      "type": "LA",
+      "section": "A01",
+      "days": "M",
+      "time": "10:00a-10:50a",
+      "building": "CPMC",
+      "room": "264",
+      "instructor": "Nestor, Ryan Douglas",
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921756",
+      "type": "LA",
+      "section": "A02",
+      "days": "M",
+      "time": "11:00a-11:50a",
+      "building": "CPMC",
+      "room": "264",
+      "instructor": "Nestor, Ryan Douglas",
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921757",
+      "type": "LA",
+      "section": "A03",
+      "days": "W",
+      "time": "10:00a-10:50a",
+      "building": "CPMC",
+      "room": "367",
+      "instructor": "Nestor, Ryan Douglas",
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921758",
+      "type": "LA",
+      "section": "A04",
+      "days": "W",
+      "time": "11:00a-11:50a",
+      "building": "CPMC",
+      "room": "367",
+      "instructor": "Nestor, Ryan Douglas",
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921759",
+      "type": "LA",
+      "section": "A05",
+      "days": "W",
+      "time": "12:00p-12:50p",
+      "building": "CPMC",
+      "room": "367",
+      "instructor": "Nestor, Ryan Douglas",
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921760",
+      "type": "LA",
+      "section": "A06",
+      "days": "W",
+      "time": "1:00p-1:50p",
+      "building": "CPMC",
+      "room": "367",
+      "instructor": "Nestor, Ryan Douglas",
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "928326",
+      "type": "LA",
+      "section": "A07",
+      "days": "F",
+      "time": "11:00a-11:50a",
+      "building": "CPMC",
+      "room": "265",
+      "instructor": "Nestor, Ryan Douglas",
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "928327",
+      "type": "LA",
+      "section": "A08",
+      "days": "F",
+      "time": "12:00p-12:50p",
+      "building": "CPMC",
+      "room": "265",
+      "instructor": "Nestor, Ryan Douglas",
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "921755",
+        "type": "LA",
+        "section": "A01",
+        "days": "M",
+        "time": "10:00a-10:50a",
+        "building": "CPMC",
+        "room": "264",
+        "instructor": "Nestor, Ryan Douglas",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "921756",
+        "type": "LA",
+        "section": "A02",
+        "days": "M",
+        "time": "11:00a-11:50a",
+        "building": "CPMC",
+        "room": "264",
+        "instructor": "Nestor, Ryan Douglas",
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "921757",
+        "type": "LA",
+        "section": "A03",
+        "days": "W",
+        "time": "10:00a-10:50a",
+        "building": "CPMC",
+        "room": "367",
+        "instructor": "Nestor, Ryan Douglas",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "921758",
+        "type": "LA",
+        "section": "A04",
+        "days": "W",
+        "time": "11:00a-11:50a",
+        "building": "CPMC",
+        "room": "367",
+        "instructor": "Nestor, Ryan Douglas",
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "921759",
+        "type": "LA",
+        "section": "A05",
+        "days": "W",
+        "time": "12:00p-12:50p",
+        "building": "CPMC",
+        "room": "367",
+        "instructor": "Nestor, Ryan Douglas",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "921760",
+        "type": "LA",
+        "section": "A06",
+        "days": "W",
+        "time": "1:00p-1:50p",
+        "building": "CPMC",
+        "room": "367",
+        "instructor": "Nestor, Ryan Douglas",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "Th",
+        "time": "7:00p-9:50p",
+        "building": "WLH",
+        "room": "2005",
+        "instructor": "Nestor, Ryan Douglas",
+        "start_time": "19:00",
+        "end_time": "21:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "928326",
+        "type": "LA",
+        "section": "A07",
+        "days": "F",
+        "time": "11:00a-11:50a",
+        "building": "CPMC",
+        "room": "265",
+        "instructor": "Nestor, Ryan Douglas",
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "928327",
+        "type": "LA",
+        "section": "A08",
+        "days": "F",
+        "time": "12:00p-12:50p",
+        "building": "CPMC",
+        "room": "265",
+        "instructor": "Nestor, Ryan Douglas",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

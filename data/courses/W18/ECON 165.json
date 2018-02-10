@@ -1,0 +1,118 @@
+{
+  "code": "ECON 165",
+  "name": "Middle East Economics",
+  "department": "ECON",
+  "id": "165",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "924105",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "2:00p-3:20p",
+      "building": "SOLIS",
+      "room": "104",
+      "instructor": "Rauch, James E",
+      "start_time": "14:00",
+      "end_time": "15:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/13/2018",
+      "days": "Tu",
+      "time": "8:00p-9:50p",
+      "building": "CENTR",
+      "room": "109",
+      "instructor": "",
+      "date": "2018-02-13T08:00:00.000Z",
+      "start_time": "20:00",
+      "end_time": "21:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/13/2018",
+      "days": "Tu",
+      "time": "8:00p-9:50p",
+      "building": "CENTR",
+      "room": "109",
+      "instructor": "",
+      "date": "2018-02-13T08:00:00.000Z",
+      "start_time": "20:00",
+      "end_time": "21:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "924105",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "SOLIS",
+        "room": "104",
+        "instructor": "Rauch, James E",
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "924105",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "SOLIS",
+        "room": "104",
+        "instructor": "Rauch, James E",
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

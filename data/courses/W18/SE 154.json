@@ -1,0 +1,118 @@
+{
+  "code": "SE 154",
+  "name": "Design of Timber Structures",
+  "department": "SE",
+  "id": "154",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "923024",
+      "type": "LE",
+      "section": "A00",
+      "days": "MW",
+      "time": "7:30p-9:20p",
+      "building": "PCYNH",
+      "room": "109",
+      "instructor": "McDonald, James Alan",
+      "start_time": "19:30",
+      "end_time": "21:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/10/2018",
+      "days": "S",
+      "time": "5:00p-7:50p",
+      "building": "CENTR",
+      "room": "105",
+      "instructor": "",
+      "date": "2018-02-10T08:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/10/2018",
+      "days": "S",
+      "time": "5:00p-7:50p",
+      "building": "CENTR",
+      "room": "105",
+      "instructor": "",
+      "date": "2018-02-10T08:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "923024",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "7:30p-9:20p",
+        "building": "PCYNH",
+        "room": "109",
+        "instructor": "McDonald, James Alan",
+        "start_time": "19:30",
+        "end_time": "21:20"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "923024",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "7:30p-9:20p",
+        "building": "PCYNH",
+        "room": "109",
+        "instructor": "McDonald, James Alan",
+        "start_time": "19:30",
+        "end_time": "21:20"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

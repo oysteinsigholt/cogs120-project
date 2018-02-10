@@ -1,0 +1,47 @@
+{
+  "code": "BIPN 100",
+  "name": "Human Physiology I",
+  "department": "BIPN",
+  "id": "100",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "926183",
+      "type": "DI",
+      "section": "B08",
+      "days": "F",
+      "time": "3:00p-3:50p",
+      "building": "CENTR",
+      "room": "207",
+      "instructor": "Fortes, P. A. George",
+      "start_time": "15:00",
+      "end_time": "15:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "926183",
+        "type": "DI",
+        "section": "B08",
+        "days": "F",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "207",
+        "instructor": "Fortes, P. A. George",
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

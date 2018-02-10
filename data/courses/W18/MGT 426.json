@@ -1,0 +1,76 @@
+{
+  "code": "MGT 426",
+  "name": "Creating a High-Perf Workplace",
+  "department": "MGT",
+  "id": "426",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930391",
+      "type": "LE",
+      "section": "A00",
+      "days": "M",
+      "time": "9:30a-12:30p",
+      "building": "OTRSN",
+      "room": "1E106",
+      "instructor": "Timmermann, Allan",
+      "start_time": "9:30",
+      "end_time": "12:30"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "9:30a-12:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "9:30",
+      "end_time": "12:30"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "9:30a-12:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "9:30",
+      "end_time": "12:30"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "930391",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "9:30a-12:30p",
+        "building": "OTRSN",
+        "room": "1E106",
+        "instructor": "Timmermann, Allan",
+        "start_time": "9:30",
+        "end_time": "12:30"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

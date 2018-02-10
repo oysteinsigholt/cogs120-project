@@ -1,0 +1,62 @@
+{
+  "code": "MGT 407",
+  "name": "Marketing",
+  "department": "MGT",
+  "id": "407",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930375",
+      "type": "LE",
+      "section": "C00",
+      "days": "S",
+      "time": "10:30a-4:30p",
+      "building": "OTRSN",
+      "room": "1E107",
+      "instructor": "Paharia, Neeru",
+      "start_time": "10:30",
+      "end_time": "16:30"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/24/2018",
+      "days": "S",
+      "time": "10:30a-1:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-24T07:00:00.000Z",
+      "start_time": "10:30",
+      "end_time": "13:30"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/24/2018",
+      "days": "S",
+      "time": "10:30a-1:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-24T07:00:00.000Z",
+      "start_time": "10:30",
+      "end_time": "13:30"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

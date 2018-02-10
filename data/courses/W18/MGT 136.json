@@ -1,0 +1,76 @@
+{
+  "code": "MGT 136",
+  "name": "Advanced Accounting",
+  "department": "MGT",
+  "id": "136",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "922586",
+      "type": "LE",
+      "section": "A00",
+      "days": "Th",
+      "time": "5:00p-7:50p",
+      "building": "SOLIS",
+      "room": "104",
+      "instructor": "Lindenberger, Wade Douglas",
+      "start_time": "17:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "922586",
+        "type": "LE",
+        "section": "A00",
+        "days": "Th",
+        "time": "5:00p-7:50p",
+        "building": "SOLIS",
+        "room": "104",
+        "instructor": "Lindenberger, Wade Douglas",
+        "start_time": "17:00",
+        "end_time": "19:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

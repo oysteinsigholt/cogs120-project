@@ -1,0 +1,47 @@
+{
+  "code": "NANO 100L",
+  "name": "Physical Prop.of Materials Lab",
+  "department": "NANO",
+  "id": "100L",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "926732",
+      "type": "LA",
+      "section": "A00",
+      "days": "F",
+      "time": "9:00a-11:50a",
+      "building": "SME",
+      "room": "313",
+      "instructor": "Cubukcu, Ertugrul",
+      "start_time": "9:00",
+      "end_time": "11:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "926732",
+        "type": "LA",
+        "section": "A00",
+        "days": "F",
+        "time": "9:00a-11:50a",
+        "building": "SME",
+        "room": "313",
+        "instructor": "Cubukcu, Ertugrul",
+        "start_time": "9:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

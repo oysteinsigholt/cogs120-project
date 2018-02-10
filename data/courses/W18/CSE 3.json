@@ -1,0 +1,236 @@
+{
+  "code": "CSE 3",
+  "name": "Fluency/Information Technology",
+  "department": "CSE",
+  "id": "3",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "12:00p-12:50p",
+      "building": "CENTR",
+      "room": "105",
+      "instructor": "Marx, Susan S",
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A01",
+      "days": "Tu",
+      "time": "8:00p-8:50p",
+      "building": "CENTR",
+      "room": "214",
+      "instructor": "Marx, Susan S",
+      "start_time": "20:00",
+      "end_time": "20:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927396",
+      "type": "LA",
+      "section": "A50",
+      "days": "W",
+      "time": "9:00a-10:50a",
+      "building": "EBU3B",
+      "room": "B270",
+      "instructor": "Marx, Susan S",
+      "start_time": "9:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927397",
+      "type": "LA",
+      "section": "A51",
+      "days": "Tu",
+      "time": "12:00p-1:50p",
+      "building": "EBU3B",
+      "room": "B270",
+      "instructor": "Marx, Susan S",
+      "start_time": "12:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927398",
+      "type": "LA",
+      "section": "A52",
+      "days": "Th",
+      "time": "2:00p-3:50p",
+      "building": "EBU3B",
+      "room": "B270",
+      "instructor": "Marx, Susan S",
+      "start_time": "14:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927399",
+      "type": "LA",
+      "section": "A53",
+      "days": "Tu",
+      "time": "2:00p-3:50p",
+      "building": "EBU3B",
+      "room": "B270",
+      "instructor": "Marx, Susan S",
+      "start_time": "14:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "105",
+        "instructor": "Marx, Susan S",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A01",
+        "days": "Tu",
+        "time": "8:00p-8:50p",
+        "building": "CENTR",
+        "room": "214",
+        "instructor": "Marx, Susan S",
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "927397",
+        "type": "LA",
+        "section": "A51",
+        "days": "Tu",
+        "time": "12:00p-1:50p",
+        "building": "EBU3B",
+        "room": "B270",
+        "instructor": "Marx, Susan S",
+        "start_time": "12:00",
+        "end_time": "13:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "927399",
+        "type": "LA",
+        "section": "A53",
+        "days": "Tu",
+        "time": "2:00p-3:50p",
+        "building": "EBU3B",
+        "room": "B270",
+        "instructor": "Marx, Susan S",
+        "start_time": "14:00",
+        "end_time": "15:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "105",
+        "instructor": "Marx, Susan S",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "927396",
+        "type": "LA",
+        "section": "A50",
+        "days": "W",
+        "time": "9:00a-10:50a",
+        "building": "EBU3B",
+        "room": "B270",
+        "instructor": "Marx, Susan S",
+        "start_time": "9:00",
+        "end_time": "10:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "927398",
+        "type": "LA",
+        "section": "A52",
+        "days": "Th",
+        "time": "2:00p-3:50p",
+        "building": "EBU3B",
+        "room": "B270",
+        "instructor": "Marx, Susan S",
+        "start_time": "14:00",
+        "end_time": "15:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "105",
+        "instructor": "Marx, Susan S",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

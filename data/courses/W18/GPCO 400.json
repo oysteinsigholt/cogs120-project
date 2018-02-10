@@ -1,0 +1,90 @@
+{
+  "code": "GPCO 400",
+  "name": "Policy Making Processes",
+  "department": "GPCO",
+  "id": "400",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921689",
+      "type": "LE",
+      "section": "A00",
+      "days": "MW",
+      "time": "11:00a-12:20p",
+      "building": "RBC",
+      "room": "AUD",
+      "instructor": "Victor, David Gardiner",
+      "start_time": "11:00",
+      "end_time": "12:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "921689",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "11:00a-12:20p",
+        "building": "RBC",
+        "room": "AUD",
+        "instructor": "Victor, David Gardiner",
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "921689",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "11:00a-12:20p",
+        "building": "RBC",
+        "room": "AUD",
+        "instructor": "Victor, David Gardiner",
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

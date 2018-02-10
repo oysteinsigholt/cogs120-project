@@ -1,0 +1,47 @@
+{
+  "code": "LIGN 200",
+  "name": "Research Forum",
+  "department": "LIGN",
+  "id": "200",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "922292",
+      "type": "SE",
+      "section": "A00",
+      "days": "M",
+      "time": "2:00p-3:50p",
+      "building": "APM",
+      "room": "4301",
+      "instructor": "Wittenberg, Eva H",
+      "start_time": "14:00",
+      "end_time": "15:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "922292",
+        "type": "SE",
+        "section": "A00",
+        "days": "M",
+        "time": "2:00p-3:50p",
+        "building": "APM",
+        "room": "4301",
+        "instructor": "Wittenberg, Eva H",
+        "start_time": "14:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

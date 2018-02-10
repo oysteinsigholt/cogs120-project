@@ -1,0 +1,47 @@
+{
+  "code": "TDGE 87",
+  "name": "Freshman Seminar",
+  "department": "TDGE",
+  "id": "87",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920377",
+      "type": "SE",
+      "section": "B00",
+      "days": "W",
+      "time": "2:00p-3:50p",
+      "building": "GH",
+      "room": "320",
+      "instructor": "Rincon, Patricia A.",
+      "start_time": "14:00",
+      "end_time": "15:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "920377",
+        "type": "SE",
+        "section": "B00",
+        "days": "W",
+        "time": "2:00p-3:50p",
+        "building": "GH",
+        "room": "320",
+        "instructor": "Rincon, Patricia A.",
+        "start_time": "14:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

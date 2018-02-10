@@ -1,0 +1,90 @@
+{
+  "code": "ECE 134",
+  "name": "Electrnc Materls Sci/Integ Cir",
+  "department": "ECE",
+  "id": "134",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "925060",
+      "type": "LE",
+      "section": "A00",
+      "days": "MW",
+      "time": "5:00p-6:20p",
+      "building": "EBU1",
+      "room": "2315",
+      "instructor": "Ng, Tse Nga",
+      "start_time": "17:00",
+      "end_time": "18:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "925060",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "EBU1",
+        "room": "2315",
+        "instructor": "Ng, Tse Nga",
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "925060",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "EBU1",
+        "room": "2315",
+        "instructor": "Ng, Tse Nga",
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

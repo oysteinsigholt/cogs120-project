@@ -1,0 +1,174 @@
+{
+  "code": "MGT 4",
+  "name": "Financial Accounting",
+  "department": "MGT",
+  "id": "4",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "922562",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "6:30p-7:50p",
+      "building": "CENTR",
+      "room": "101",
+      "instructor": "Levkoff, Steven B.",
+      "start_time": "18:30",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "01/31/2018",
+      "days": "W",
+      "time": "8:00p-9:50p",
+      "building": "CENTR",
+      "room": "101",
+      "instructor": "",
+      "date": "2018-01-31T08:00:00.000Z",
+      "start_time": "20:00",
+      "end_time": "21:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/21/2018",
+      "days": "W",
+      "time": "5:30p-6:50p",
+      "building": "SOLIS",
+      "room": "107",
+      "instructor": "",
+      "date": "2018-02-21T08:00:00.000Z",
+      "start_time": "17:30",
+      "end_time": "18:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/28/2018",
+      "days": "W",
+      "time": "8:00p-9:20p",
+      "building": "CENTR",
+      "room": "101",
+      "instructor": "",
+      "date": "2018-02-28T08:00:00.000Z",
+      "start_time": "20:00",
+      "end_time": "21:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "01/31/2018",
+      "days": "W",
+      "time": "8:00p-9:50p",
+      "building": "CENTR",
+      "room": "101",
+      "instructor": "",
+      "date": "2018-01-31T08:00:00.000Z",
+      "start_time": "20:00",
+      "end_time": "21:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/21/2018",
+      "days": "W",
+      "time": "5:30p-6:50p",
+      "building": "SOLIS",
+      "room": "107",
+      "instructor": "",
+      "date": "2018-02-21T08:00:00.000Z",
+      "start_time": "17:30",
+      "end_time": "18:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/28/2018",
+      "days": "W",
+      "time": "8:00p-9:20p",
+      "building": "CENTR",
+      "room": "101",
+      "instructor": "",
+      "date": "2018-02-28T08:00:00.000Z",
+      "start_time": "20:00",
+      "end_time": "21:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "922562",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "6:30p-7:50p",
+        "building": "CENTR",
+        "room": "101",
+        "instructor": "Levkoff, Steven B.",
+        "start_time": "18:30",
+        "end_time": "19:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "922562",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "6:30p-7:50p",
+        "building": "CENTR",
+        "room": "101",
+        "instructor": "Levkoff, Steven B.",
+        "start_time": "18:30",
+        "end_time": "19:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

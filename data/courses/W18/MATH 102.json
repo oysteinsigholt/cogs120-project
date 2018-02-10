@@ -1,0 +1,241 @@
+{
+  "code": "MATH 102",
+  "name": "Applied Linear Algebra",
+  "department": "MATH",
+  "id": "102",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "MWF",
+      "time": "1:00p-1:50p",
+      "building": "PETER",
+      "room": "103",
+      "instructor": "Strahl, Perry Robert",
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927100",
+      "type": "DI",
+      "section": "B01",
+      "days": "Tu",
+      "time": "8:00a-8:50a",
+      "building": "APM",
+      "room": "2402",
+      "instructor": "Strahl, Perry Robert",
+      "start_time": "8:00",
+      "end_time": "8:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927101",
+      "type": "DI",
+      "section": "B02",
+      "days": "Tu",
+      "time": "9:00a-9:50a",
+      "building": "APM",
+      "room": "2402",
+      "instructor": "Strahl, Perry Robert",
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "01/27/2018",
+      "days": "S",
+      "time": "9:00a-10:50a",
+      "building": "PETER",
+      "room": "103",
+      "instructor": "",
+      "date": "2018-01-27T08:00:00.000Z",
+      "start_time": "9:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/26/2018",
+      "days": "M",
+      "time": "5:00p-7:20p",
+      "building": "YORK",
+      "room": "4080A",
+      "instructor": "",
+      "date": "2018-02-26T08:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "19:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "03/16/2018",
+      "days": "F",
+      "time": "5:00p-7:20p",
+      "building": "YORK",
+      "room": "4080A",
+      "instructor": "",
+      "date": "2018-03-16T07:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "19:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "01/27/2018",
+      "days": "S",
+      "time": "9:00a-10:50a",
+      "building": "PETER",
+      "room": "103",
+      "instructor": "",
+      "date": "2018-01-27T08:00:00.000Z",
+      "start_time": "9:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/26/2018",
+      "days": "M",
+      "time": "5:00p-7:20p",
+      "building": "YORK",
+      "room": "4080A",
+      "instructor": "",
+      "date": "2018-02-26T08:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "19:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "03/16/2018",
+      "days": "F",
+      "time": "5:00p-7:20p",
+      "building": "YORK",
+      "room": "4080A",
+      "instructor": "",
+      "date": "2018-03-16T07:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "19:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "PETER",
+        "room": "103",
+        "instructor": "Strahl, Perry Robert",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "927100",
+        "type": "DI",
+        "section": "B01",
+        "days": "Tu",
+        "time": "8:00a-8:50a",
+        "building": "APM",
+        "room": "2402",
+        "instructor": "Strahl, Perry Robert",
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "927101",
+        "type": "DI",
+        "section": "B02",
+        "days": "Tu",
+        "time": "9:00a-9:50a",
+        "building": "APM",
+        "room": "2402",
+        "instructor": "Strahl, Perry Robert",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "PETER",
+        "room": "103",
+        "instructor": "Strahl, Perry Robert",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "PETER",
+        "room": "103",
+        "instructor": "Strahl, Perry Robert",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

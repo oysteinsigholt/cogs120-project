@@ -1,0 +1,115 @@
+{
+  "code": "BIOM 262",
+  "name": "Quantitative Methods/Genetics",
+  "department": "BIOM",
+  "id": "262",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930556",
+      "type": "LE",
+      "section": "B00",
+      "days": "TuTh",
+      "time": "9:00a-12:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Yeo, Eugene Wei-Ming",
+      "start_time": "9:00",
+      "end_time": "12:00"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "PR",
+      "section": "B01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Yeo, Eugene Wei-Ming"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [
+    "Location: SCRM, 1013"
+  ],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "PR",
+      "section": "B01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Yeo, Eugene Wei-Ming"
+    }
+  ],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "930556",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "9:00a-12:00p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Yeo, Eugene Wei-Ming",
+        "start_time": "9:00",
+        "end_time": "12:00"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "930556",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "9:00a-12:00p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Yeo, Eugene Wei-Ming",
+        "start_time": "9:00",
+        "end_time": "12:00"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

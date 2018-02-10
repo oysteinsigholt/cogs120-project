@@ -1,0 +1,47 @@
+{
+  "code": "BILD 87",
+  "name": "Freshman Seminar",
+  "department": "BILD",
+  "id": "87",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "926047",
+      "type": "SE",
+      "section": "B00",
+      "days": "Th",
+      "time": "1:00p-1:50p",
+      "building": "BIO",
+      "room": "1103",
+      "instructor": "Saier, Milton H.",
+      "start_time": "13:00",
+      "end_time": "13:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "926047",
+        "type": "SE",
+        "section": "B00",
+        "days": "Th",
+        "time": "1:00p-1:50p",
+        "building": "BIO",
+        "room": "1103",
+        "instructor": "Saier, Milton H.",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

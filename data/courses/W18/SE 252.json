@@ -1,0 +1,47 @@
+{
+  "code": "SE 252",
+  "name": "Experimental Mechanics & NDE",
+  "department": "SE",
+  "id": "252",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "923066",
+      "type": "LE",
+      "section": "A00",
+      "days": "W",
+      "time": "5:00p-7:20p",
+      "building": "MANDE",
+      "room": "B-146",
+      "instructor": "Lanza Di Scalea, Francesco",
+      "start_time": "17:00",
+      "end_time": "19:20"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "923066",
+        "type": "LE",
+        "section": "A00",
+        "days": "W",
+        "time": "5:00p-7:20p",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructor": "Lanza Di Scalea, Francesco",
+        "start_time": "17:00",
+        "end_time": "19:20"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

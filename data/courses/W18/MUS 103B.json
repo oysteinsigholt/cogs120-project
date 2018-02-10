@@ -1,0 +1,76 @@
+{
+  "code": "MUS 103B",
+  "name": "Seminar in Composition II",
+  "department": "MUS",
+  "id": "103B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921933",
+      "type": "SE",
+      "section": "A00",
+      "days": "W",
+      "time": "2:00p-4:50p",
+      "building": "CPMC",
+      "room": "265",
+      "instructor": "Steiger, Rand",
+      "start_time": "14:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "921933",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "2:00p-4:50p",
+        "building": "CPMC",
+        "room": "265",
+        "instructor": "Steiger, Rand",
+        "start_time": "14:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

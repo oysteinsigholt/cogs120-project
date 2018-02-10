@@ -1,0 +1,76 @@
+{
+  "code": "MGT 103",
+  "name": "Product Marketing & Management",
+  "department": "MGT",
+  "id": "103",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "929951",
+      "type": "LE",
+      "section": "G00",
+      "days": "W",
+      "time": "11:00a-1:50p",
+      "building": "OTRSN",
+      "room": "1S113",
+      "instructor": "Prosser, Elise K",
+      "start_time": "11:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "929951",
+        "type": "LE",
+        "section": "G00",
+        "days": "W",
+        "time": "11:00a-1:50p",
+        "building": "OTRSN",
+        "room": "1S113",
+        "instructor": "Prosser, Elise K",
+        "start_time": "11:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

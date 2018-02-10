@@ -1,0 +1,78 @@
+{
+  "code": "SOCI 189",
+  "name": "Spec Top/Comp-Hist Sociology",
+  "department": "SOCI",
+  "id": "189",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "929339",
+      "type": "LE",
+      "section": "A00",
+      "days": "Tu",
+      "time": "9:00a-11:50a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Thorpe, Charles Robert",
+      "start_time": "9:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [
+    "Class location SSB 101\n The Russian Revolution, the Soviet Union and Marxist\n Theory"
+  ],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "929339",
+        "type": "LE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "9:00a-11:50a",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Thorpe, Charles Robert",
+        "start_time": "9:00",
+        "end_time": "11:50"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

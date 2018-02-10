@@ -1,0 +1,76 @@
+{
+  "code": "HIEU 171",
+  "name": "Topic/Twentieth Century Europe",
+  "department": "HIEU",
+  "id": "171",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "924554",
+      "type": "SE",
+      "section": "A00",
+      "days": "Tu",
+      "time": "3:30p-6:20p",
+      "building": "HSS",
+      "room": "6008",
+      "instructor": "Neuheiser, Joerg",
+      "start_time": "15:30",
+      "end_time": "18:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "924554",
+        "type": "SE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "3:30p-6:20p",
+        "building": "HSS",
+        "room": "6008",
+        "instructor": "Neuheiser, Joerg",
+        "start_time": "15:30",
+        "end_time": "18:20"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

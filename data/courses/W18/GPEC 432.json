@@ -1,0 +1,61 @@
+{
+  "code": "GPEC 432",
+  "name": "Immigration/ImmigrationPolicy",
+  "department": "GPEC",
+  "id": "432",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921694",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "2:00p-3:20p",
+      "building": "RBC",
+      "room": "1328",
+      "instructor": "Khanna, Gaurav",
+      "start_time": "14:00",
+      "end_time": "15:20"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "921694",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "RBC",
+        "room": "1328",
+        "instructor": "Khanna, Gaurav",
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "921694",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "RBC",
+        "room": "1328",
+        "instructor": "Khanna, Gaurav",
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

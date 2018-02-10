@@ -1,0 +1,353 @@
+{
+  "code": "MAE 156A",
+  "name": "Fund. Prin./Mechanical Desgn I",
+  "department": "MAE",
+  "id": "156A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "TuTh",
+      "time": "3:30p-4:50p",
+      "building": "EBU2",
+      "room": "105",
+      "instructor": "Tustaniwskyj, Jerry I",
+      "start_time": "15:30",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922914",
+      "type": "LA",
+      "section": "B01",
+      "days": "M",
+      "time": "12:30p-3:20p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Tustaniwskyj, Jerry I",
+      "start_time": "12:30",
+      "end_time": "15:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922915",
+      "type": "LA",
+      "section": "B02",
+      "days": "Tu",
+      "time": "8:00a-10:50a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Tustaniwskyj, Jerry I",
+      "start_time": "8:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922916",
+      "type": "LA",
+      "section": "B03",
+      "days": "Tu",
+      "time": "12:30p-3:20p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Tustaniwskyj, Jerry I",
+      "start_time": "12:30",
+      "end_time": "15:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922917",
+      "type": "LA",
+      "section": "B04",
+      "days": "W",
+      "time": "8:00a-10:50a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Tustaniwskyj, Jerry I",
+      "start_time": "8:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922918",
+      "type": "LA",
+      "section": "B05",
+      "days": "W",
+      "time": "12:30p-3:20p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Tustaniwskyj, Jerry I",
+      "start_time": "12:30",
+      "end_time": "15:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922919",
+      "type": "LA",
+      "section": "B06",
+      "days": "Th",
+      "time": "8:00a-10:50a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Tustaniwskyj, Jerry I",
+      "start_time": "8:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922920",
+      "type": "LA",
+      "section": "B07",
+      "days": "Th",
+      "time": "12:30p-3:20p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Tustaniwskyj, Jerry I",
+      "start_time": "12:30",
+      "end_time": "15:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922921",
+      "type": "LA",
+      "section": "B08",
+      "days": "F",
+      "time": "8:00a-10:50a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Tustaniwskyj, Jerry I",
+      "start_time": "8:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922922",
+      "type": "LA",
+      "section": "B09",
+      "days": "F",
+      "time": "12:30p-3:20p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Tustaniwskyj, Jerry I",
+      "start_time": "12:30",
+      "end_time": "15:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "933144",
+      "type": "LA",
+      "section": "B10",
+      "days": "Tu",
+      "time": "5:00p-7:50p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Tustaniwskyj, Jerry I",
+      "start_time": "17:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "922914",
+        "type": "LA",
+        "section": "B01",
+        "days": "M",
+        "time": "12:30p-3:20p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Tustaniwskyj, Jerry I",
+        "start_time": "12:30",
+        "end_time": "15:20"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "EBU2",
+        "room": "105",
+        "instructor": "Tustaniwskyj, Jerry I",
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "922915",
+        "type": "LA",
+        "section": "B02",
+        "days": "Tu",
+        "time": "8:00a-10:50a",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Tustaniwskyj, Jerry I",
+        "start_time": "8:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "922916",
+        "type": "LA",
+        "section": "B03",
+        "days": "Tu",
+        "time": "12:30p-3:20p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Tustaniwskyj, Jerry I",
+        "start_time": "12:30",
+        "end_time": "15:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "933144",
+        "type": "LA",
+        "section": "B10",
+        "days": "Tu",
+        "time": "5:00p-7:50p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Tustaniwskyj, Jerry I",
+        "start_time": "17:00",
+        "end_time": "19:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "922917",
+        "type": "LA",
+        "section": "B04",
+        "days": "W",
+        "time": "8:00a-10:50a",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Tustaniwskyj, Jerry I",
+        "start_time": "8:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "922918",
+        "type": "LA",
+        "section": "B05",
+        "days": "W",
+        "time": "12:30p-3:20p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Tustaniwskyj, Jerry I",
+        "start_time": "12:30",
+        "end_time": "15:20"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "EBU2",
+        "room": "105",
+        "instructor": "Tustaniwskyj, Jerry I",
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "922919",
+        "type": "LA",
+        "section": "B06",
+        "days": "Th",
+        "time": "8:00a-10:50a",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Tustaniwskyj, Jerry I",
+        "start_time": "8:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "922920",
+        "type": "LA",
+        "section": "B07",
+        "days": "Th",
+        "time": "12:30p-3:20p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Tustaniwskyj, Jerry I",
+        "start_time": "12:30",
+        "end_time": "15:20"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "922921",
+        "type": "LA",
+        "section": "B08",
+        "days": "F",
+        "time": "8:00a-10:50a",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Tustaniwskyj, Jerry I",
+        "start_time": "8:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "922922",
+        "type": "LA",
+        "section": "B09",
+        "days": "F",
+        "time": "12:30p-3:20p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Tustaniwskyj, Jerry I",
+        "start_time": "12:30",
+        "end_time": "15:20"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

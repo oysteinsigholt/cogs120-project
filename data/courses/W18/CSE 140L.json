@@ -1,0 +1,125 @@
+{
+  "code": "CSE 140L",
+  "name": "Digital Systems Laboratory",
+  "department": "CSE",
+  "id": "140L",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "F",
+      "time": "5:00p-5:50p",
+      "building": "SOLIS",
+      "room": "107",
+      "instructor": "Chu, Isaac Y",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927521",
+      "type": "DI",
+      "section": "B01",
+      "days": "F",
+      "time": "6:00p-6:50p",
+      "building": "SOLIS",
+      "room": "107",
+      "instructor": "Chu, Isaac Y",
+      "start_time": "18:00",
+      "end_time": "18:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "B50",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Chu, Isaac Y"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "B50",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Chu, Isaac Y"
+    }
+  ],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "F",
+        "time": "5:00p-5:50p",
+        "building": "SOLIS",
+        "room": "107",
+        "instructor": "Chu, Isaac Y",
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "927521",
+        "type": "DI",
+        "section": "B01",
+        "days": "F",
+        "time": "6:00p-6:50p",
+        "building": "SOLIS",
+        "room": "107",
+        "instructor": "Chu, Isaac Y",
+        "start_time": "18:00",
+        "end_time": "18:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

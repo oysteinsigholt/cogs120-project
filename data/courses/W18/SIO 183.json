@@ -1,0 +1,100 @@
+{
+  "code": "SIO 183",
+  "name": "Phycology: Marine Plant Biolgy",
+  "department": "SIO",
+  "id": "183",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MW",
+      "time": "12:30p-1:20p",
+      "building": "HUBBS",
+      "room": "3300",
+      "instructor": "Smith, Jennifer",
+      "start_time": "12:30",
+      "end_time": "13:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921082",
+      "type": "LA",
+      "section": "A01",
+      "days": "MW",
+      "time": "1:30p-5:30p",
+      "building": "HUBBS",
+      "room": "3300",
+      "instructor": "Smith, Jennifer",
+      "start_time": "13:30",
+      "end_time": "17:30"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "12:30p-1:20p",
+        "building": "HUBBS",
+        "room": "3300",
+        "instructor": "Smith, Jennifer",
+        "start_time": "12:30",
+        "end_time": "13:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "921082",
+        "type": "LA",
+        "section": "A01",
+        "days": "MW",
+        "time": "1:30p-5:30p",
+        "building": "HUBBS",
+        "room": "3300",
+        "instructor": "Smith, Jennifer",
+        "start_time": "13:30",
+        "end_time": "17:30"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "12:30p-1:20p",
+        "building": "HUBBS",
+        "room": "3300",
+        "instructor": "Smith, Jennifer",
+        "start_time": "12:30",
+        "end_time": "13:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "921082",
+        "type": "LA",
+        "section": "A01",
+        "days": "MW",
+        "time": "1:30p-5:30p",
+        "building": "HUBBS",
+        "room": "3300",
+        "instructor": "Smith, Jennifer",
+        "start_time": "13:30",
+        "end_time": "17:30"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

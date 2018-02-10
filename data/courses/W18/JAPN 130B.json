@@ -1,0 +1,143 @@
+{
+  "code": "JAPN 130B",
+  "name": "Third Year Japanese II",
+  "department": "JAPN",
+  "id": "130B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921021",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "12:30p-1:50p",
+      "building": "YORK",
+      "room": "3050B",
+      "instructor": "Sato, Kyoko",
+      "start_time": "12:30",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "TU",
+      "section": "A01",
+      "days": "F",
+      "time": "11:00a-11:50a",
+      "building": "CENTR",
+      "room": "208",
+      "instructor": "",
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "TU",
+      "section": "A02",
+      "days": "F",
+      "time": "12:00p-12:50p",
+      "building": "CENTR",
+      "room": "208",
+      "instructor": "",
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "921021",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "YORK",
+        "room": "3050B",
+        "instructor": "Sato, Kyoko",
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "921021",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "YORK",
+        "room": "3050B",
+        "instructor": "Sato, Kyoko",
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "A01",
+        "days": "F",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "208",
+        "instructor": "",
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "A02",
+        "days": "F",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "208",
+        "instructor": "",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

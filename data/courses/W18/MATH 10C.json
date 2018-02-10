@@ -1,0 +1,261 @@
+{
+  "code": "MATH 10C",
+  "name": "Calculus III",
+  "department": "MATH",
+  "id": "10C",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "MWF",
+      "time": "12:00p-12:50p",
+      "building": "CENTR",
+      "room": "115",
+      "instructor": "Lamel, Bernhard R",
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926837",
+      "type": "DI",
+      "section": "B01",
+      "days": "Th",
+      "time": "8:00a-8:50a",
+      "building": "APM",
+      "room": "5402",
+      "instructor": "Lamel, Bernhard R",
+      "start_time": "8:00",
+      "end_time": "8:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926838",
+      "type": "DI",
+      "section": "B02",
+      "days": "Th",
+      "time": "9:00a-9:50a",
+      "building": "APM",
+      "room": "5402",
+      "instructor": "Lamel, Bernhard R",
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926839",
+      "type": "DI",
+      "section": "B03",
+      "days": "Th",
+      "time": "6:00p-6:50p",
+      "building": "HSS",
+      "room": "1315",
+      "instructor": "Lamel, Bernhard R",
+      "start_time": "18:00",
+      "end_time": "18:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926840",
+      "type": "DI",
+      "section": "B04",
+      "days": "Th",
+      "time": "7:00p-7:50p",
+      "building": "HSS",
+      "room": "1315",
+      "instructor": "Lamel, Bernhard R",
+      "start_time": "19:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926841",
+      "type": "DI",
+      "section": "B05",
+      "days": "Th",
+      "time": "8:00p-8:50p",
+      "building": "HSS",
+      "room": "1315",
+      "instructor": "Lamel, Bernhard R",
+      "start_time": "20:00",
+      "end_time": "20:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926842",
+      "type": "DI",
+      "section": "B06",
+      "days": "Th",
+      "time": "9:00p-9:50p",
+      "building": "HSS",
+      "room": "1315",
+      "instructor": "Lamel, Bernhard R",
+      "start_time": "21:00",
+      "end_time": "21:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "115",
+        "instructor": "Lamel, Bernhard R",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "115",
+        "instructor": "Lamel, Bernhard R",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "926837",
+        "type": "DI",
+        "section": "B01",
+        "days": "Th",
+        "time": "8:00a-8:50a",
+        "building": "APM",
+        "room": "5402",
+        "instructor": "Lamel, Bernhard R",
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926838",
+        "type": "DI",
+        "section": "B02",
+        "days": "Th",
+        "time": "9:00a-9:50a",
+        "building": "APM",
+        "room": "5402",
+        "instructor": "Lamel, Bernhard R",
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926839",
+        "type": "DI",
+        "section": "B03",
+        "days": "Th",
+        "time": "6:00p-6:50p",
+        "building": "HSS",
+        "room": "1315",
+        "instructor": "Lamel, Bernhard R",
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926840",
+        "type": "DI",
+        "section": "B04",
+        "days": "Th",
+        "time": "7:00p-7:50p",
+        "building": "HSS",
+        "room": "1315",
+        "instructor": "Lamel, Bernhard R",
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926841",
+        "type": "DI",
+        "section": "B05",
+        "days": "Th",
+        "time": "8:00p-8:50p",
+        "building": "HSS",
+        "room": "1315",
+        "instructor": "Lamel, Bernhard R",
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926842",
+        "type": "DI",
+        "section": "B06",
+        "days": "Th",
+        "time": "9:00p-9:50p",
+        "building": "HSS",
+        "room": "1315",
+        "instructor": "Lamel, Bernhard R",
+        "start_time": "21:00",
+        "end_time": "21:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "115",
+        "instructor": "Lamel, Bernhard R",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

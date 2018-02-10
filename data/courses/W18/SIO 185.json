@@ -1,0 +1,90 @@
+{
+  "code": "SIO 185",
+  "name": "Marine Microbiology Laboratory",
+  "department": "SIO",
+  "id": "185",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921083",
+      "type": "LA",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "1:00p-5:00p",
+      "building": "HUBBS",
+      "room": "3300",
+      "instructor": "Brahamsha, Bianca M.",
+      "start_time": "13:00",
+      "end_time": "17:00"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/24/2018",
+      "days": "S",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-24T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/24/2018",
+      "days": "S",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-24T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "921083",
+        "type": "LA",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "1:00p-5:00p",
+        "building": "HUBBS",
+        "room": "3300",
+        "instructor": "Brahamsha, Bianca M.",
+        "start_time": "13:00",
+        "end_time": "17:00"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "921083",
+        "type": "LA",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "1:00p-5:00p",
+        "building": "HUBBS",
+        "room": "3300",
+        "instructor": "Brahamsha, Bianca M.",
+        "start_time": "13:00",
+        "end_time": "17:00"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

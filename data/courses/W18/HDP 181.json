@@ -1,0 +1,114 @@
+{
+  "code": "HDP 181",
+  "name": "Exper Proj/Human Dev. Research",
+  "department": "HDP",
+  "id": "181",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MF",
+      "time": "1:00p-1:50p",
+      "building": "SOLIS",
+      "room": "109",
+      "instructor": "Ark, Wendy S",
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "W",
+      "time": "1:00p-1:50p",
+      "building": "APM",
+      "room": "3402",
+      "instructor": "",
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922448",
+      "type": "LA",
+      "section": "A01",
+      "days": "W",
+      "time": "12:00p-12:50p",
+      "building": "APM",
+      "room": "3402",
+      "instructor": "Ark, Wendy S",
+      "start_time": "12:00",
+      "end_time": "12:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MF",
+        "time": "1:00p-1:50p",
+        "building": "SOLIS",
+        "room": "109",
+        "instructor": "Ark, Wendy S",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": false,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "W",
+        "time": "1:00p-1:50p",
+        "building": "APM",
+        "room": "3402",
+        "instructor": "",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "922448",
+        "type": "LA",
+        "section": "A01",
+        "days": "W",
+        "time": "12:00p-12:50p",
+        "building": "APM",
+        "room": "3402",
+        "instructor": "Ark, Wendy S",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MF",
+        "time": "1:00p-1:50p",
+        "building": "SOLIS",
+        "room": "109",
+        "instructor": "Ark, Wendy S",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "code": "HIUS 288",
+  "name": "Topics in Culture & Politics",
+  "department": "HIUS",
+  "id": "288",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "924584",
+      "type": "SE",
+      "section": "A00",
+      "days": "Th",
+      "time": "12:30p-3:20p",
+      "building": "HSS",
+      "room": "6008",
+      "instructor": "Klein, Rachel",
+      "start_time": "12:30",
+      "end_time": "15:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "924584",
+        "type": "SE",
+        "section": "A00",
+        "days": "Th",
+        "time": "12:30p-3:20p",
+        "building": "HSS",
+        "room": "6008",
+        "instructor": "Klein, Rachel",
+        "start_time": "12:30",
+        "end_time": "15:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

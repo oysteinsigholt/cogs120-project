@@ -1,0 +1,234 @@
+{
+  "code": "HILD 30",
+  "name": "History of Public Health",
+  "department": "HILD",
+  "id": "30",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "12:00p-12:50p",
+      "building": "WLH",
+      "room": "2005",
+      "instructor": "Edington, Claire Ellen",
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924521",
+      "type": "DI",
+      "section": "A01",
+      "days": "W",
+      "time": "1:00p-1:50p",
+      "building": "WLH",
+      "room": "2206",
+      "instructor": "Edington, Claire Ellen",
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924522",
+      "type": "DI",
+      "section": "A02",
+      "days": "W",
+      "time": "2:00p-2:50p",
+      "building": "WLH",
+      "room": "2113",
+      "instructor": "Edington, Claire Ellen",
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924523",
+      "type": "DI",
+      "section": "A03",
+      "days": "Cancelled",
+      "time": "Cancelled",
+      "building": "Cancelled",
+      "room": "Cancelled",
+      "instructor": "Cancelled",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924524",
+      "type": "DI",
+      "section": "A04",
+      "days": "Cancelled",
+      "time": "Cancelled",
+      "building": "Cancelled",
+      "room": "Cancelled",
+      "instructor": "Cancelled",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924525",
+      "type": "DI",
+      "section": "A05",
+      "days": "F",
+      "time": "10:00a-10:50a",
+      "building": "APM",
+      "room": "2301",
+      "instructor": "Edington, Claire Ellen",
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924526",
+      "type": "DI",
+      "section": "A06",
+      "days": "F",
+      "time": "11:00a-11:50a",
+      "building": "APM",
+      "room": "2301",
+      "instructor": "Edington, Claire Ellen",
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "WLH",
+        "room": "2005",
+        "instructor": "Edington, Claire Ellen",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "WLH",
+        "room": "2005",
+        "instructor": "Edington, Claire Ellen",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924521",
+        "type": "DI",
+        "section": "A01",
+        "days": "W",
+        "time": "1:00p-1:50p",
+        "building": "WLH",
+        "room": "2206",
+        "instructor": "Edington, Claire Ellen",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924522",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "2:00p-2:50p",
+        "building": "WLH",
+        "room": "2113",
+        "instructor": "Edington, Claire Ellen",
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "WLH",
+        "room": "2005",
+        "instructor": "Edington, Claire Ellen",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924525",
+        "type": "DI",
+        "section": "A05",
+        "days": "F",
+        "time": "10:00a-10:50a",
+        "building": "APM",
+        "room": "2301",
+        "instructor": "Edington, Claire Ellen",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924526",
+        "type": "DI",
+        "section": "A06",
+        "days": "F",
+        "time": "11:00a-11:50a",
+        "building": "APM",
+        "room": "2301",
+        "instructor": "Edington, Claire Ellen",
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "code": "HILA 262",
+  "name": "Special Topics/Latin Amer Hist",
+  "department": "HILA",
+  "id": "262",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930319",
+      "type": "SE",
+      "section": "B00",
+      "days": "M",
+      "time": "1:00p-3:50p",
+      "building": "HSS",
+      "room": "6008",
+      "instructor": "Cowan, Benjamin A",
+      "start_time": "13:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "930319",
+        "type": "SE",
+        "section": "B00",
+        "days": "M",
+        "time": "1:00p-3:50p",
+        "building": "HSS",
+        "room": "6008",
+        "instructor": "Cowan, Benjamin A",
+        "start_time": "13:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

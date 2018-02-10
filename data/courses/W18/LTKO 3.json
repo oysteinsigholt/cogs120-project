@@ -1,0 +1,118 @@
+{
+  "code": "LTKO 3",
+  "name": "Advanced Korean/Third Year",
+  "department": "LTKO",
+  "id": "3",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920120",
+      "type": "DI",
+      "section": "A00",
+      "days": "MTuWTh",
+      "time": "5:00p-5:50p",
+      "building": "LIT",
+      "room": "455",
+      "instructor": "Lee, Jeyseon",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "920120",
+        "type": "DI",
+        "section": "A00",
+        "days": "MTuWTh",
+        "time": "5:00p-5:50p",
+        "building": "LIT",
+        "room": "455",
+        "instructor": "Lee, Jeyseon",
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "920120",
+        "type": "DI",
+        "section": "A00",
+        "days": "MTuWTh",
+        "time": "5:00p-5:50p",
+        "building": "LIT",
+        "room": "455",
+        "instructor": "Lee, Jeyseon",
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "920120",
+        "type": "DI",
+        "section": "A00",
+        "days": "MTuWTh",
+        "time": "5:00p-5:50p",
+        "building": "LIT",
+        "room": "455",
+        "instructor": "Lee, Jeyseon",
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "920120",
+        "type": "DI",
+        "section": "A00",
+        "days": "MTuWTh",
+        "time": "5:00p-5:50p",
+        "building": "LIT",
+        "room": "455",
+        "instructor": "Lee, Jeyseon",
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

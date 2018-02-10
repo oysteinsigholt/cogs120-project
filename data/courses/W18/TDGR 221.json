@@ -1,0 +1,47 @@
+{
+  "code": "TDGR 221",
+  "name": "Grad Studio: Contemp Movement",
+  "department": "TDGR",
+  "id": "221",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920392",
+      "type": "ST",
+      "section": "A00",
+      "days": "F",
+      "time": "9:00a-11:50a",
+      "building": "DANCE",
+      "room": "2",
+      "instructor": "Peterson, Mary M",
+      "start_time": "9:00",
+      "end_time": "11:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "920392",
+        "type": "ST",
+        "section": "A00",
+        "days": "F",
+        "time": "9:00a-11:50a",
+        "building": "DANCE",
+        "room": "2",
+        "instructor": "Peterson, Mary M",
+        "start_time": "9:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

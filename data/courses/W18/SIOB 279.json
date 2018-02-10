@@ -1,0 +1,76 @@
+{
+  "code": "SIOB 279",
+  "name": "Ecology Seminar/BO",
+  "department": "SIOB",
+  "id": "279",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921958",
+      "type": "SE",
+      "section": "A00",
+      "days": "W",
+      "time": "12:15p-1:15p",
+      "building": "HUBBS",
+      "room": "4500",
+      "instructor": "Ballance, Lisa Taylor",
+      "start_time": "12:15",
+      "end_time": "13:15"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "921958",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "12:15p-1:15p",
+        "building": "HUBBS",
+        "room": "4500",
+        "instructor": "Ballance, Lisa Taylor",
+        "start_time": "12:15",
+        "end_time": "13:15"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

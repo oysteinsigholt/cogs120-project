@@ -1,0 +1,47 @@
+{
+  "code": "HIGR 275B",
+  "name": "Res Sem Mod Middle Eastrn Hist",
+  "department": "HIGR",
+  "id": "275B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "924564",
+      "type": "SE",
+      "section": "A00",
+      "days": "W",
+      "time": "9:00a-11:50a",
+      "building": "HSS",
+      "room": "6008",
+      "instructor": "Kayali, Hasan",
+      "start_time": "9:00",
+      "end_time": "11:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "924564",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "9:00a-11:50a",
+        "building": "HSS",
+        "room": "6008",
+        "instructor": "Kayali, Hasan",
+        "start_time": "9:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

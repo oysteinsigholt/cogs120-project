@@ -1,0 +1,49 @@
+{
+  "code": "BISP 195",
+  "name": "Instructional Apprentice: Biol",
+  "department": "BISP",
+  "id": "195",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "926252",
+      "type": "PR",
+      "section": "003",
+      "days": "W",
+      "time": "4:00p-5:20p",
+      "building": "PACIF",
+      "room": "3500",
+      "instructor": "Lo, Stanley Malvin Ming-Hi",
+      "start_time": "16:00",
+      "end_time": "17:20"
+    }
+  ],
+  "notes": [
+    "BISP 195 003 will meet the first five weeks of the\n quarter on January 10, 17, 24, 31 and February 7."
+  ],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "926252",
+        "type": "PR",
+        "section": "003",
+        "days": "W",
+        "time": "4:00p-5:20p",
+        "building": "PACIF",
+        "room": "3500",
+        "instructor": "Lo, Stanley Malvin Ming-Hi",
+        "start_time": "16:00",
+        "end_time": "17:20"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

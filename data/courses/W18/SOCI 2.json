@@ -1,0 +1,261 @@
+{
+  "code": "SOCI 2",
+  "name": "The Study of Society",
+  "department": "SOCI",
+  "id": "2",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "1:00p-1:50p",
+      "building": "CENTR",
+      "room": "115",
+      "instructor": "Raudenbush, Danielle",
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923162",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "3:00p-3:50p",
+      "building": "SSB",
+      "room": "101",
+      "instructor": "Raudenbush, Danielle",
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923163",
+      "type": "DI",
+      "section": "A02",
+      "days": "M",
+      "time": "4:00p-4:50p",
+      "building": "SSB",
+      "room": "101",
+      "instructor": "Raudenbush, Danielle",
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923164",
+      "type": "DI",
+      "section": "A03",
+      "days": "Tu",
+      "time": "2:00p-2:50p",
+      "building": "SSB",
+      "room": "101",
+      "instructor": "Raudenbush, Danielle",
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923165",
+      "type": "DI",
+      "section": "A04",
+      "days": "Tu",
+      "time": "3:00p-3:50p",
+      "building": "SSB",
+      "room": "101",
+      "instructor": "Raudenbush, Danielle",
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923166",
+      "type": "DI",
+      "section": "A05",
+      "days": "F",
+      "time": "3:00p-3:50p",
+      "building": "SSB",
+      "room": "101",
+      "instructor": "Raudenbush, Danielle",
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923167",
+      "type": "DI",
+      "section": "A06",
+      "days": "F",
+      "time": "4:00p-4:50p",
+      "building": "SSB",
+      "room": "101",
+      "instructor": "Raudenbush, Danielle",
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "115",
+        "instructor": "Raudenbush, Danielle",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "923162",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "3:00p-3:50p",
+        "building": "SSB",
+        "room": "101",
+        "instructor": "Raudenbush, Danielle",
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "923163",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "4:00p-4:50p",
+        "building": "SSB",
+        "room": "101",
+        "instructor": "Raudenbush, Danielle",
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "923164",
+        "type": "DI",
+        "section": "A03",
+        "days": "Tu",
+        "time": "2:00p-2:50p",
+        "building": "SSB",
+        "room": "101",
+        "instructor": "Raudenbush, Danielle",
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "923165",
+        "type": "DI",
+        "section": "A04",
+        "days": "Tu",
+        "time": "3:00p-3:50p",
+        "building": "SSB",
+        "room": "101",
+        "instructor": "Raudenbush, Danielle",
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "115",
+        "instructor": "Raudenbush, Danielle",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "115",
+        "instructor": "Raudenbush, Danielle",
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "923166",
+        "type": "DI",
+        "section": "A05",
+        "days": "F",
+        "time": "3:00p-3:50p",
+        "building": "SSB",
+        "room": "101",
+        "instructor": "Raudenbush, Danielle",
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "923167",
+        "type": "DI",
+        "section": "A06",
+        "days": "F",
+        "time": "4:00p-4:50p",
+        "building": "SSB",
+        "room": "101",
+        "instructor": "Raudenbush, Danielle",
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

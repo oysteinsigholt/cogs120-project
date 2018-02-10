@@ -1,0 +1,47 @@
+{
+  "code": "ENG 10",
+  "name": "Fundamentals/Engineering Appln",
+  "department": "ENG",
+  "id": "10",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "929946",
+      "type": "LE",
+      "section": "B00",
+      "days": "Th",
+      "time": "4:00p-5:50p",
+      "building": "SME",
+      "room": "303",
+      "instructor": "Choi, Seongcheol",
+      "start_time": "16:00",
+      "end_time": "17:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "929946",
+        "type": "LE",
+        "section": "B00",
+        "days": "Th",
+        "time": "4:00p-5:50p",
+        "building": "SME",
+        "room": "303",
+        "instructor": "Choi, Seongcheol",
+        "start_time": "16:00",
+        "end_time": "17:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

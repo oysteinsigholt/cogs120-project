@@ -1,0 +1,73 @@
+{
+  "code": "BENG 147B",
+  "name": "Design Implmntatn Neural Engin",
+  "department": "BENG",
+  "id": "147B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "923318",
+      "type": "LE",
+      "section": "A00",
+      "days": "Tu",
+      "time": "11:00a-11:50a",
+      "building": "PFBH",
+      "room": "226",
+      "instructor": "Wheeler, Bruce Christopher",
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "A01",
+      "days": "Tu",
+      "time": "12:00p-12:50p",
+      "building": "PFBH",
+      "room": "108",
+      "instructor": "Wheeler, Bruce Christopher",
+      "start_time": "12:00",
+      "end_time": "12:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "923318",
+        "type": "LE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "11:00a-11:50a",
+        "building": "PFBH",
+        "room": "226",
+        "instructor": "Wheeler, Bruce Christopher",
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A01",
+        "days": "Tu",
+        "time": "12:00p-12:50p",
+        "building": "PFBH",
+        "room": "108",
+        "instructor": "Wheeler, Bruce Christopher",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

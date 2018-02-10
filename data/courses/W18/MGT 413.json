@@ -1,0 +1,89 @@
+{
+  "code": "MGT 413",
+  "name": "Opertns, Info Sys,& Data Anlys",
+  "department": "MGT",
+  "id": "413",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930389",
+      "type": "LE",
+      "section": "C00",
+      "days": "F",
+      "time": "2:30p-5:30p",
+      "building": "OTRSN",
+      "room": "1E107",
+      "instructor": "Shin, Hyo Duk",
+      "start_time": "14:30",
+      "end_time": "17:30"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "LE",
+      "section": "C00",
+      "days": "S",
+      "time": "8:00a-10:00a",
+      "building": "OTRSN",
+      "room": "1E107",
+      "instructor": "",
+      "start_time": "8:00",
+      "end_time": "10:00"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/24/2018",
+      "days": "S",
+      "time": "2:30p-5:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-24T07:00:00.000Z",
+      "start_time": "14:30",
+      "end_time": "17:30"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/24/2018",
+      "days": "S",
+      "time": "2:30p-5:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-24T07:00:00.000Z",
+      "start_time": "14:30",
+      "end_time": "17:30"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "930389",
+        "type": "LE",
+        "section": "C00",
+        "days": "F",
+        "time": "2:30p-5:30p",
+        "building": "OTRSN",
+        "room": "1E107",
+        "instructor": "Shin, Hyo Duk",
+        "start_time": "14:30",
+        "end_time": "17:30"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

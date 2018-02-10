@@ -1,0 +1,47 @@
+{
+  "code": "PHYS 1BL",
+  "name": "Electricity & Magnetism Lab",
+  "department": "PHYS",
+  "id": "1BL",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "932658",
+      "type": "LA",
+      "section": "039",
+      "days": "F",
+      "time": "5:00p-6:50p",
+      "building": "MAYER",
+      "room": "2130",
+      "instructor": "Yagil, Avi",
+      "start_time": "17:00",
+      "end_time": "18:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "932658",
+        "type": "LA",
+        "section": "039",
+        "days": "F",
+        "time": "5:00p-6:50p",
+        "building": "MAYER",
+        "room": "2130",
+        "instructor": "Yagil, Avi",
+        "start_time": "17:00",
+        "end_time": "18:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

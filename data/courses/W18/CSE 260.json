@@ -1,0 +1,88 @@
+{
+  "code": "CSE 260",
+  "name": "Parallel Computation",
+  "department": "CSE",
+  "id": "260",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "TuTh",
+      "time": "5:00p-6:20p",
+      "building": "CENTR",
+      "room": "212",
+      "instructor": "Chin, Bryan W.",
+      "start_time": "17:00",
+      "end_time": "18:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930481",
+      "type": "DI",
+      "section": "B01",
+      "days": "F",
+      "time": "6:00p-6:50p",
+      "building": "HSS",
+      "room": "1330",
+      "instructor": "Chin, Bryan W.",
+      "start_time": "18:00",
+      "end_time": "18:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "CENTR",
+        "room": "212",
+        "instructor": "Chin, Bryan W.",
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "CENTR",
+        "room": "212",
+        "instructor": "Chin, Bryan W.",
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "930481",
+        "type": "DI",
+        "section": "B01",
+        "days": "F",
+        "time": "6:00p-6:50p",
+        "building": "HSS",
+        "room": "1330",
+        "instructor": "Chin, Bryan W.",
+        "start_time": "18:00",
+        "end_time": "18:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": "GPEC 451",
+  "name": "Economic Development",
+  "department": "GPEC",
+  "id": "451",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921695",
+      "type": "LE",
+      "section": "A00",
+      "days": "MW",
+      "time": "2:00p-3:20p",
+      "building": "RBC",
+      "room": "3203",
+      "instructor": "McIntosh, Craig",
+      "start_time": "14:00",
+      "end_time": "15:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "921695",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "RBC",
+        "room": "3203",
+        "instructor": "McIntosh, Craig",
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "921695",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "RBC",
+        "room": "3203",
+        "instructor": "McIntosh, Craig",
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

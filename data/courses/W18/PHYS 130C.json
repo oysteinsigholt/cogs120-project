@@ -1,0 +1,130 @@
+{
+  "code": "PHYS 130C",
+  "name": "Quantum Physics III",
+  "department": "PHYS",
+  "id": "130C",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "10:00a-10:50a",
+      "building": "MYR-A",
+      "room": "2623",
+      "instructor": "Branson, James G",
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923767",
+      "type": "DI",
+      "section": "A01",
+      "days": "F",
+      "time": "11:00a-11:50a",
+      "building": "MYR-A",
+      "room": "2623",
+      "instructor": "Branson, James G",
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "MYR-A",
+        "room": "2623",
+        "instructor": "Branson, James G",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "MYR-A",
+        "room": "2623",
+        "instructor": "Branson, James G",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "MYR-A",
+        "room": "2623",
+        "instructor": "Branson, James G",
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "923767",
+        "type": "DI",
+        "section": "A01",
+        "days": "F",
+        "time": "11:00a-11:50a",
+        "building": "MYR-A",
+        "room": "2623",
+        "instructor": "Branson, James G",
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

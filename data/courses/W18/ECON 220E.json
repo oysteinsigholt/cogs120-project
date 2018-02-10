@@ -1,0 +1,76 @@
+{
+  "code": "ECON 220E",
+  "name": "Econometrics E",
+  "department": "ECON",
+  "id": "220E",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "924129",
+      "type": "LE",
+      "section": "A00",
+      "days": "M",
+      "time": "8:00a-10:50a",
+      "building": "ECON",
+      "room": "200",
+      "instructor": "Wuthrich, Kaspar",
+      "start_time": "8:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "924129",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "8:00a-10:50a",
+        "building": "ECON",
+        "room": "200",
+        "instructor": "Wuthrich, Kaspar",
+        "start_time": "8:00",
+        "end_time": "10:50"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

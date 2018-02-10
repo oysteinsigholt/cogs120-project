@@ -1,0 +1,170 @@
+{
+  "code": "BENG 112A",
+  "name": "Tissue Biomechanics",
+  "department": "BENG",
+  "id": "112A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "11:00a-12:20p",
+      "building": "WLH",
+      "room": "2205",
+      "instructor": "Omens, Jeffrey Howard",
+      "start_time": "11:00",
+      "end_time": "12:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "W",
+      "time": "3:00p-3:50p",
+      "building": "PETER",
+      "room": "102",
+      "instructor": "",
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923292",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "2:00p-2:50p",
+      "building": "CENTR",
+      "room": "217B",
+      "instructor": "Omens, Jeffrey Howard",
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923293",
+      "type": "DI",
+      "section": "A02",
+      "days": "W",
+      "time": "3:00p-3:50p",
+      "building": "WLH",
+      "room": "2112",
+      "instructor": "Omens, Jeffrey Howard",
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "923292",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "217B",
+        "instructor": "Omens, Jeffrey Howard",
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "WLH",
+        "room": "2205",
+        "instructor": "Omens, Jeffrey Howard",
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": false,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "W",
+        "time": "3:00p-3:50p",
+        "building": "PETER",
+        "room": "102",
+        "instructor": "",
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "923293",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "3:00p-3:50p",
+        "building": "WLH",
+        "room": "2112",
+        "instructor": "Omens, Jeffrey Howard",
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "WLH",
+        "room": "2205",
+        "instructor": "Omens, Jeffrey Howard",
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

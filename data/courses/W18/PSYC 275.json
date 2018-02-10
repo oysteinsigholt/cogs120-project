@@ -1,0 +1,47 @@
+{
+  "code": "PSYC 275",
+  "name": "Current Directions/Cog Psyc",
+  "department": "PSYC",
+  "id": "275",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "924689",
+      "type": "SE",
+      "section": "A00",
+      "days": "F",
+      "time": "12:00p-12:50p",
+      "building": "MNDLR",
+      "room": "3545",
+      "instructor": "Rickard, Timothy C.",
+      "start_time": "12:00",
+      "end_time": "12:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "924689",
+        "type": "SE",
+        "section": "A00",
+        "days": "F",
+        "time": "12:00p-12:50p",
+        "building": "MNDLR",
+        "room": "3545",
+        "instructor": "Rickard, Timothy C.",
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "code": "VIS 41",
+  "name": "Design Communication",
+  "department": "VIS",
+  "id": "41",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "Tu",
+      "time": "5:00p-6:50p",
+      "building": "WLH",
+      "room": "2005",
+      "instructor": "Almeida, Jane",
+      "start_time": "17:00",
+      "end_time": "18:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922747",
+      "type": "LA",
+      "section": "A01",
+      "days": "Tu",
+      "time": "9:30a-12:20p",
+      "building": "MANDE",
+      "room": "B-206",
+      "instructor": "Almeida, Jane",
+      "start_time": "9:30",
+      "end_time": "12:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922748",
+      "type": "LA",
+      "section": "A02",
+      "days": "W",
+      "time": "8:00a-10:50a",
+      "building": "VAF",
+      "room": "228",
+      "instructor": "Almeida, Jane",
+      "start_time": "8:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922749",
+      "type": "LA",
+      "section": "A03",
+      "days": "Tu",
+      "time": "12:30p-3:20p",
+      "building": "VAF",
+      "room": "228",
+      "instructor": "Almeida, Jane",
+      "start_time": "12:30",
+      "end_time": "15:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922750",
+      "type": "LA",
+      "section": "A04",
+      "days": "Th",
+      "time": "9:30a-12:20p",
+      "building": "VAF",
+      "room": "228",
+      "instructor": "Almeida, Jane",
+      "start_time": "9:30",
+      "end_time": "12:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922751",
+      "type": "LA",
+      "section": "A05",
+      "days": "Th",
+      "time": "9:30a-12:20p",
+      "building": "MANDE",
+      "room": "B-206",
+      "instructor": "Almeida, Jane",
+      "start_time": "9:30",
+      "end_time": "12:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922752",
+      "type": "LA",
+      "section": "A06",
+      "days": "F",
+      "time": "9:00a-11:50a",
+      "building": "VAF",
+      "room": "228",
+      "instructor": "Almeida, Jane",
+      "start_time": "9:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "5:00p-6:50p",
+        "building": "WLH",
+        "room": "2005",
+        "instructor": "Almeida, Jane",
+        "start_time": "17:00",
+        "end_time": "18:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "922747",
+        "type": "LA",
+        "section": "A01",
+        "days": "Tu",
+        "time": "9:30a-12:20p",
+        "building": "MANDE",
+        "room": "B-206",
+        "instructor": "Almeida, Jane",
+        "start_time": "9:30",
+        "end_time": "12:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "922749",
+        "type": "LA",
+        "section": "A03",
+        "days": "Tu",
+        "time": "12:30p-3:20p",
+        "building": "VAF",
+        "room": "228",
+        "instructor": "Almeida, Jane",
+        "start_time": "12:30",
+        "end_time": "15:20"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "922748",
+        "type": "LA",
+        "section": "A02",
+        "days": "W",
+        "time": "8:00a-10:50a",
+        "building": "VAF",
+        "room": "228",
+        "instructor": "Almeida, Jane",
+        "start_time": "8:00",
+        "end_time": "10:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "922750",
+        "type": "LA",
+        "section": "A04",
+        "days": "Th",
+        "time": "9:30a-12:20p",
+        "building": "VAF",
+        "room": "228",
+        "instructor": "Almeida, Jane",
+        "start_time": "9:30",
+        "end_time": "12:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "922751",
+        "type": "LA",
+        "section": "A05",
+        "days": "Th",
+        "time": "9:30a-12:20p",
+        "building": "MANDE",
+        "room": "B-206",
+        "instructor": "Almeida, Jane",
+        "start_time": "9:30",
+        "end_time": "12:20"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "922752",
+        "type": "LA",
+        "section": "A06",
+        "days": "F",
+        "time": "9:00a-11:50a",
+        "building": "VAF",
+        "room": "228",
+        "instructor": "Almeida, Jane",
+        "start_time": "9:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}
