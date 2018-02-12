@@ -1,0 +1,53 @@
+{
+  "code": "MGTF 416",
+  "name": "Professional Seminars Finance",
+  "department": "MGTF",
+  "id": "416",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930369",
+      "type": "LE",
+      "section": "A00",
+      "days": "Th",
+      "time": "3:30p-4:30p",
+      "building": "WFH",
+      "room": "1N108",
+      "instructor": "Melvin, Michael T.",
+      "instructors": [
+        "Melvin, Michael T."
+      ],
+      "start_time": "15:30",
+      "end_time": "16:30"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "930369",
+        "type": "LE",
+        "section": "A00",
+        "days": "Th",
+        "time": "3:30p-4:30p",
+        "building": "WFH",
+        "room": "1N108",
+        "instructor": "Melvin, Michael T.",
+        "instructors": [
+          "Melvin, Michael T."
+        ],
+        "start_time": "15:30",
+        "end_time": "16:30"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

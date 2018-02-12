@@ -1,0 +1,94 @@
+{
+  "code": "EDS 369A",
+  "name": "Mlt Sub(Elem) Stdnt Tch Prc I",
+  "department": "EDS",
+  "id": "369A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "SE",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Bresser, Bernard George & Scharton, Susan Michelle & Whiteside, Linda Sue & Allen, Bobbie M & Pappas, Elizabeth",
+      "instructors": [
+        "Bresser, Bernard George",
+        "Scharton, Susan Michelle",
+        "Whiteside, Linda Sue",
+        "Allen, Bobbie M",
+        "Pappas, Elizabeth"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922550",
+      "type": "PR",
+      "section": "A01",
+      "days": "M",
+      "time": "5:00p-7:50p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Bresser, Bernard George & Scharton, Susan Michelle & Pappas, Elizabeth",
+      "instructors": [
+        "Bresser, Bernard George",
+        "Scharton, Susan Michelle",
+        "Pappas, Elizabeth"
+      ],
+      "start_time": "17:00",
+      "end_time": "19:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "SE",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Bresser, Bernard George & Scharton, Susan Michelle & Whiteside, Linda Sue & Allen, Bobbie M & Pappas, Elizabeth",
+      "instructors": [
+        "Bresser, Bernard George",
+        "Scharton, Susan Michelle",
+        "Whiteside, Linda Sue",
+        "Allen, Bobbie M",
+        "Pappas, Elizabeth"
+      ]
+    }
+  ],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "922550",
+        "type": "PR",
+        "section": "A01",
+        "days": "M",
+        "time": "5:00p-7:50p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Bresser, Bernard George & Scharton, Susan Michelle & Pappas, Elizabeth",
+        "instructors": [
+          "Bresser, Bernard George",
+          "Scharton, Susan Michelle",
+          "Pappas, Elizabeth"
+        ],
+        "start_time": "17:00",
+        "end_time": "19:50"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

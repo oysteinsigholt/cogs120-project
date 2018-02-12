@@ -1,0 +1,53 @@
+{
+  "code": "ICAM 160A",
+  "name": "Senior Projct/Computing Arts I",
+  "department": "ICAM",
+  "id": "160A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921742",
+      "type": "SE",
+      "section": "B00",
+      "days": "Th",
+      "time": "3:30p-6:20p",
+      "building": "VAF",
+      "room": "228",
+      "instructor": "Yoldas, Pinar",
+      "instructors": [
+        "Yoldas, Pinar"
+      ],
+      "start_time": "15:30",
+      "end_time": "18:20"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "921742",
+        "type": "SE",
+        "section": "B00",
+        "days": "Th",
+        "time": "3:30p-6:20p",
+        "building": "VAF",
+        "room": "228",
+        "instructor": "Yoldas, Pinar",
+        "instructors": [
+          "Yoldas, Pinar"
+        ],
+        "start_time": "15:30",
+        "end_time": "18:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

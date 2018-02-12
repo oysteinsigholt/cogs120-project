@@ -1,0 +1,216 @@
+{
+  "code": "JAPN 20B",
+  "name": "Second Yr Japanese II",
+  "department": "JAPN",
+  "id": "20B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "928767",
+      "type": "LE",
+      "section": "E00",
+      "days": "TuTh",
+      "time": "6:30p-7:50p",
+      "building": "MANDE",
+      "room": "B-104",
+      "instructor": "Maruyama, Rie",
+      "instructors": [
+        "Maruyama, Rie"
+      ],
+      "start_time": "18:30",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "TU",
+      "section": "E01",
+      "days": "MWF",
+      "time": "3:00p-3:50p",
+      "building": "HSS",
+      "room": "3086",
+      "instructor": "",
+      "instructors": [],
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "TU",
+      "section": "E02",
+      "days": "MWF",
+      "time": "4:00p-4:50p",
+      "building": "HSS",
+      "room": "3086",
+      "instructor": "",
+      "instructors": [],
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "E01",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "3086",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "E02",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "3086",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "928767",
+        "type": "LE",
+        "section": "E00",
+        "days": "TuTh",
+        "time": "6:30p-7:50p",
+        "building": "MANDE",
+        "room": "B-104",
+        "instructor": "Maruyama, Rie",
+        "instructors": [
+          "Maruyama, Rie"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "E01",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "3086",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "E02",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "3086",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "928767",
+        "type": "LE",
+        "section": "E00",
+        "days": "TuTh",
+        "time": "6:30p-7:50p",
+        "building": "MANDE",
+        "room": "B-104",
+        "instructor": "Maruyama, Rie",
+        "instructors": [
+          "Maruyama, Rie"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "E01",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "3086",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "E02",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "3086",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "code": "ETHN 163F",
+  "name": "Playing Indian:Native Am Cinem",
+  "department": "ETHN",
+  "id": "163F",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "922677",
+      "type": "LE",
+      "section": "A00",
+      "days": "W",
+      "time": "6:30p-9:20p",
+      "building": "WLH",
+      "room": "2005",
+      "instructor": "Burelle, Julie Sara Veronique",
+      "instructors": [
+        "Burelle, Julie Sara Veronique"
+      ],
+      "start_time": "18:30",
+      "end_time": "21:20"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "922677",
+        "type": "LE",
+        "section": "A00",
+        "days": "W",
+        "time": "6:30p-9:20p",
+        "building": "WLH",
+        "room": "2005",
+        "instructor": "Burelle, Julie Sara Veronique",
+        "instructors": [
+          "Burelle, Julie Sara Veronique"
+        ],
+        "start_time": "18:30",
+        "end_time": "21:20"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "code": "JAPN 10B",
+  "name": "First Year Japanese II",
+  "department": "JAPN",
+  "id": "10B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "928751",
+      "type": "LE",
+      "section": "N00",
+      "days": "TuTh",
+      "time": "5:00p-6:20p",
+      "building": "SEQUO",
+      "room": "147",
+      "instructor": "Kamioka, Sachiko",
+      "instructors": [
+        "Kamioka, Sachiko"
+      ],
+      "start_time": "17:00",
+      "end_time": "18:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "TU",
+      "section": "N01",
+      "days": "MWF",
+      "time": "4:00p-4:50p",
+      "building": "MCGIL",
+      "room": "2330",
+      "instructor": "",
+      "instructors": [],
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "TU",
+      "section": "N02",
+      "days": "MWF",
+      "time": "5:00p-5:50p",
+      "building": "MCGIL",
+      "room": "2315",
+      "instructor": "",
+      "instructors": [],
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "N01",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "MCGIL",
+        "room": "2330",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "N02",
+        "days": "MWF",
+        "time": "5:00p-5:50p",
+        "building": "MCGIL",
+        "room": "2315",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "928751",
+        "type": "LE",
+        "section": "N00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "SEQUO",
+        "room": "147",
+        "instructor": "Kamioka, Sachiko",
+        "instructors": [
+          "Kamioka, Sachiko"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "N01",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "MCGIL",
+        "room": "2330",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "N02",
+        "days": "MWF",
+        "time": "5:00p-5:50p",
+        "building": "MCGIL",
+        "room": "2315",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "928751",
+        "type": "LE",
+        "section": "N00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "SEQUO",
+        "room": "147",
+        "instructor": "Kamioka, Sachiko",
+        "instructors": [
+          "Kamioka, Sachiko"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "N01",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "MCGIL",
+        "room": "2330",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "N02",
+        "days": "MWF",
+        "time": "5:00p-5:50p",
+        "building": "MCGIL",
+        "room": "2315",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "code": "BICD 110",
+  "name": "Cell Biology",
+  "department": "BICD",
+  "id": "110",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "TuTh",
+      "time": "12:30p-1:50p",
+      "building": "CENTR",
+      "room": "119",
+      "instructor": "Villa Rodriguez, Elizabeth",
+      "instructors": [
+        "Villa Rodriguez, Elizabeth"
+      ],
+      "start_time": "12:30",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925893",
+      "type": "DI",
+      "section": "B01",
+      "days": "M",
+      "time": "8:00a-8:50a",
+      "building": "YORK",
+      "room": "3000A",
+      "instructor": "Villa Rodriguez, Elizabeth",
+      "instructors": [
+        "Villa Rodriguez, Elizabeth"
+      ],
+      "start_time": "8:00",
+      "end_time": "8:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925894",
+      "type": "DI",
+      "section": "B02",
+      "days": "M",
+      "time": "9:00a-9:50a",
+      "building": "YORK",
+      "room": "3000A",
+      "instructor": "Villa Rodriguez, Elizabeth",
+      "instructors": [
+        "Villa Rodriguez, Elizabeth"
+      ],
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925895",
+      "type": "DI",
+      "section": "B03",
+      "days": "W",
+      "time": "6:00p-6:50p",
+      "building": "HSS",
+      "room": "2150",
+      "instructor": "Villa Rodriguez, Elizabeth",
+      "instructors": [
+        "Villa Rodriguez, Elizabeth"
+      ],
+      "start_time": "18:00",
+      "end_time": "18:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925896",
+      "type": "DI",
+      "section": "B04",
+      "days": "W",
+      "time": "7:00p-7:50p",
+      "building": "HSS",
+      "room": "2150",
+      "instructor": "Villa Rodriguez, Elizabeth",
+      "instructors": [
+        "Villa Rodriguez, Elizabeth"
+      ],
+      "start_time": "19:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925898",
+      "type": "DI",
+      "section": "B06",
+      "days": "Th",
+      "time": "8:00a-8:50a",
+      "building": "HSS",
+      "room": "1305",
+      "instructor": "Villa Rodriguez, Elizabeth",
+      "instructors": [
+        "Villa Rodriguez, Elizabeth"
+      ],
+      "start_time": "8:00",
+      "end_time": "8:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925899",
+      "type": "DI",
+      "section": "B07",
+      "days": "Th",
+      "time": "5:00p-5:50p",
+      "building": "HSS",
+      "room": "2150",
+      "instructor": "Villa Rodriguez, Elizabeth",
+      "instructors": [
+        "Villa Rodriguez, Elizabeth"
+      ],
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/03/2018",
+      "days": "S",
+      "time": "10:00a-12:50p",
+      "building": "CENTR",
+      "room": "115",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-02-03T08:00:00.000Z",
+      "start_time": "10:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/03/2018",
+      "days": "S",
+      "time": "10:00a-12:50p",
+      "building": "CENTR",
+      "room": "115",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-02-03T08:00:00.000Z",
+      "start_time": "10:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "925893",
+        "type": "DI",
+        "section": "B01",
+        "days": "M",
+        "time": "8:00a-8:50a",
+        "building": "YORK",
+        "room": "3000A",
+        "instructor": "Villa Rodriguez, Elizabeth",
+        "instructors": [
+          "Villa Rodriguez, Elizabeth"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925894",
+        "type": "DI",
+        "section": "B02",
+        "days": "M",
+        "time": "9:00a-9:50a",
+        "building": "YORK",
+        "room": "3000A",
+        "instructor": "Villa Rodriguez, Elizabeth",
+        "instructors": [
+          "Villa Rodriguez, Elizabeth"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "119",
+        "instructor": "Villa Rodriguez, Elizabeth",
+        "instructors": [
+          "Villa Rodriguez, Elizabeth"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "925895",
+        "type": "DI",
+        "section": "B03",
+        "days": "W",
+        "time": "6:00p-6:50p",
+        "building": "HSS",
+        "room": "2150",
+        "instructor": "Villa Rodriguez, Elizabeth",
+        "instructors": [
+          "Villa Rodriguez, Elizabeth"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925896",
+        "type": "DI",
+        "section": "B04",
+        "days": "W",
+        "time": "7:00p-7:50p",
+        "building": "HSS",
+        "room": "2150",
+        "instructor": "Villa Rodriguez, Elizabeth",
+        "instructors": [
+          "Villa Rodriguez, Elizabeth"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "119",
+        "instructor": "Villa Rodriguez, Elizabeth",
+        "instructors": [
+          "Villa Rodriguez, Elizabeth"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925898",
+        "type": "DI",
+        "section": "B06",
+        "days": "Th",
+        "time": "8:00a-8:50a",
+        "building": "HSS",
+        "room": "1305",
+        "instructor": "Villa Rodriguez, Elizabeth",
+        "instructors": [
+          "Villa Rodriguez, Elizabeth"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925899",
+        "type": "DI",
+        "section": "B07",
+        "days": "Th",
+        "time": "5:00p-5:50p",
+        "building": "HSS",
+        "room": "2150",
+        "instructor": "Villa Rodriguez, Elizabeth",
+        "instructors": [
+          "Villa Rodriguez, Elizabeth"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

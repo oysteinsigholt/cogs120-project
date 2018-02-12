@@ -1,0 +1,101 @@
+{
+  "code": "MAE 281A",
+  "name": "Nonlinear Systems",
+  "department": "MAE",
+  "id": "281A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "922949",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "8:00a-9:20a",
+      "building": "PCYNH",
+      "room": "121",
+      "instructor": "Krstic, Miroslav",
+      "instructors": [
+        "Krstic, Miroslav"
+      ],
+      "start_time": "8:00",
+      "end_time": "9:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "922949",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "PCYNH",
+        "room": "121",
+        "instructor": "Krstic, Miroslav",
+        "instructors": [
+          "Krstic, Miroslav"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "922949",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "PCYNH",
+        "room": "121",
+        "instructor": "Krstic, Miroslav",
+        "instructors": [
+          "Krstic, Miroslav"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

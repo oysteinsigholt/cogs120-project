@@ -1,0 +1,70 @@
+{
+  "code": "WCWP 100",
+  "name": "Academic Writing",
+  "department": "WCWP",
+  "id": "100",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920304",
+      "type": "LE",
+      "section": "G00",
+      "days": "TuTh",
+      "time": "2:00p-3:20p",
+      "building": "SSB",
+      "room": "106",
+      "instructor": "Young, Mark T",
+      "instructors": [
+        "Young, Mark T"
+      ],
+      "start_time": "14:00",
+      "end_time": "15:20"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "920304",
+        "type": "LE",
+        "section": "G00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "SSB",
+        "room": "106",
+        "instructor": "Young, Mark T",
+        "instructors": [
+          "Young, Mark T"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "920304",
+        "type": "LE",
+        "section": "G00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "SSB",
+        "room": "106",
+        "instructor": "Young, Mark T",
+        "instructors": [
+          "Young, Mark T"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

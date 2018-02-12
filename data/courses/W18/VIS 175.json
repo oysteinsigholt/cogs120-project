@@ -1,0 +1,101 @@
+{
+  "code": "VIS 175",
+  "name": "Editing - Theory & Production",
+  "department": "VIS",
+  "id": "175",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "922809",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "9:30a-12:20p",
+      "building": "MCC",
+      "room": "221",
+      "instructor": "Tonies, Joshua Vanjaymes",
+      "instructors": [
+        "Tonies, Joshua Vanjaymes"
+      ],
+      "start_time": "9:30",
+      "end_time": "12:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "922809",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-12:20p",
+        "building": "MCC",
+        "room": "221",
+        "instructor": "Tonies, Joshua Vanjaymes",
+        "instructors": [
+          "Tonies, Joshua Vanjaymes"
+        ],
+        "start_time": "9:30",
+        "end_time": "12:20"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "922809",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-12:20p",
+        "building": "MCC",
+        "room": "221",
+        "instructor": "Tonies, Joshua Vanjaymes",
+        "instructors": [
+          "Tonies, Joshua Vanjaymes"
+        ],
+        "start_time": "9:30",
+        "end_time": "12:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

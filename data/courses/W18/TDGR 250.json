@@ -1,0 +1,53 @@
+{
+  "code": "TDGR 250",
+  "name": "Playwriting Seminar",
+  "department": "TDGR",
+  "id": "250",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920407",
+      "type": "SE",
+      "section": "A00",
+      "days": "M",
+      "time": "10:00a-11:50a",
+      "building": "GH",
+      "room": "144",
+      "instructor": "Havis, Allan",
+      "instructors": [
+        "Havis, Allan"
+      ],
+      "start_time": "10:00",
+      "end_time": "11:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "920407",
+        "type": "SE",
+        "section": "A00",
+        "days": "M",
+        "time": "10:00a-11:50a",
+        "building": "GH",
+        "room": "144",
+        "instructor": "Havis, Allan",
+        "instructors": [
+          "Havis, Allan"
+        ],
+        "start_time": "10:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

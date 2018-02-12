@@ -1,0 +1,53 @@
+{
+  "code": "COGS 220",
+  "name": "Information Visualization",
+  "department": "COGS",
+  "id": "220",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930221",
+      "type": "SE",
+      "section": "A00",
+      "days": "W",
+      "time": "9:00a-11:50a",
+      "building": "CSB",
+      "room": "003",
+      "instructor": "Hollan, James D.",
+      "instructors": [
+        "Hollan, James D."
+      ],
+      "start_time": "9:00",
+      "end_time": "11:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "930221",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "9:00a-11:50a",
+        "building": "CSB",
+        "room": "003",
+        "instructor": "Hollan, James D.",
+        "instructors": [
+          "Hollan, James D."
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

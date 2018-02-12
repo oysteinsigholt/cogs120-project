@@ -1,0 +1,53 @@
+{
+  "code": "WCWP 500",
+  "name": "Apprentice Teaching in WCWP",
+  "department": "WCWP",
+  "id": "500",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920349",
+      "type": "SE",
+      "section": "A00",
+      "days": "Tu",
+      "time": "5:00p-7:50p",
+      "building": "EBU3B",
+      "room": "1117",
+      "instructor": "Gagnon, Jeffrey C",
+      "instructors": [
+        "Gagnon, Jeffrey C"
+      ],
+      "start_time": "17:00",
+      "end_time": "19:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "920349",
+        "type": "SE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "5:00p-7:50p",
+        "building": "EBU3B",
+        "room": "1117",
+        "instructor": "Gagnon, Jeffrey C",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "17:00",
+        "end_time": "19:50"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

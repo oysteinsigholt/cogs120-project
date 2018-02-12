@@ -1,0 +1,110 @@
+{
+  "code": "CAT 124",
+  "name": "Sixth College Practicum",
+  "department": "CAT",
+  "id": "124",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "SE",
+      "section": "A00",
+      "days": "Th",
+      "time": "1:00p-2:50p",
+      "building": "PCYNH",
+      "room": "240",
+      "instructor": "Godino, Job Gideon",
+      "instructors": [
+        "Godino, Job Gideon"
+      ],
+      "start_time": "13:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920932",
+      "type": "PR",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Godino, Job Gideon",
+      "instructors": [
+        "Godino, Job Gideon"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920933",
+      "type": "PR",
+      "section": "A02",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Godino, Job Gideon",
+      "instructors": [
+        "Godino, Job Gideon"
+      ]
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "920932",
+      "type": "PR",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Godino, Job Gideon",
+      "instructors": [
+        "Godino, Job Gideon"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920933",
+      "type": "PR",
+      "section": "A02",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Godino, Job Gideon",
+      "instructors": [
+        "Godino, Job Gideon"
+      ]
+    }
+  ],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "SE",
+        "section": "A00",
+        "days": "Th",
+        "time": "1:00p-2:50p",
+        "building": "PCYNH",
+        "room": "240",
+        "instructor": "Godino, Job Gideon",
+        "instructors": [
+          "Godino, Job Gideon"
+        ],
+        "start_time": "13:00",
+        "end_time": "14:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

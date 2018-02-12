@@ -1,0 +1,55 @@
+{
+  "code": "AWP 500",
+  "name": "Apprentice Teaching in the AWP",
+  "department": "AWP",
+  "id": "500",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "928896",
+      "type": "PR",
+      "section": "A00",
+      "days": "M",
+      "time": "12:30p-1:50p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Gocsik, Karen Marie",
+      "instructors": [
+        "Gocsik, Karen Marie"
+      ],
+      "start_time": "12:30",
+      "end_time": "13:50"
+    }
+  ],
+  "notes": [
+    "Location: Lit 245"
+  ],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "928896",
+        "type": "PR",
+        "section": "A00",
+        "days": "M",
+        "time": "12:30p-1:50p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Gocsik, Karen Marie",
+        "instructors": [
+          "Gocsik, Karen Marie"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

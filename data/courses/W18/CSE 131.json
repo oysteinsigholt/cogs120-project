@@ -1,0 +1,179 @@
+{
+  "code": "CSE 131",
+  "name": "Compiler Construction",
+  "department": "CSE",
+  "id": "131",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "927507",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "3:00p-3:50p",
+      "building": "CENTR",
+      "room": "119",
+      "instructor": "Jhala, Ranjit",
+      "instructors": [
+        "Jhala, Ranjit"
+      ],
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "8:00p-8:50p",
+      "building": "CENTR",
+      "room": "119",
+      "instructor": "Jhala, Ranjit",
+      "instructors": [
+        "Jhala, Ranjit"
+      ],
+      "start_time": "20:00",
+      "end_time": "20:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "A50",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Jhala, Ranjit",
+      "instructors": [
+        "Jhala, Ranjit"
+      ]
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "A50",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Jhala, Ranjit",
+      "instructors": [
+        "Jhala, Ranjit"
+      ]
+    }
+  ],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "927507",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "119",
+        "instructor": "Jhala, Ranjit",
+        "instructors": [
+          "Jhala, Ranjit"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "8:00p-8:50p",
+        "building": "CENTR",
+        "room": "119",
+        "instructor": "Jhala, Ranjit",
+        "instructors": [
+          "Jhala, Ranjit"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "927507",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "119",
+        "instructor": "Jhala, Ranjit",
+        "instructors": [
+          "Jhala, Ranjit"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "927507",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "119",
+        "instructor": "Jhala, Ranjit",
+        "instructors": [
+          "Jhala, Ranjit"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

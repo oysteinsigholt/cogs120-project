@@ -1,0 +1,53 @@
+{
+  "code": "FILM 87",
+  "name": "Film Studies Freshman Seminar",
+  "department": "FILM",
+  "id": "87",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "927877",
+      "type": "SE",
+      "section": "E00",
+      "days": "Th",
+      "time": "4:00p-4:50p",
+      "building": "MCC",
+      "room": "221",
+      "instructor": "Rahimi, Babak",
+      "instructors": [
+        "Rahimi, Babak"
+      ],
+      "start_time": "16:00",
+      "end_time": "16:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "927877",
+        "type": "SE",
+        "section": "E00",
+        "days": "Th",
+        "time": "4:00p-4:50p",
+        "building": "MCC",
+        "room": "221",
+        "instructor": "Rahimi, Babak",
+        "instructors": [
+          "Rahimi, Babak"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

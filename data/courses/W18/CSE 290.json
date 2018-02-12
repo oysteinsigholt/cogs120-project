@@ -1,0 +1,53 @@
+{
+  "code": "CSE 290",
+  "name": "Sem/Computer Sci & Engineering",
+  "department": "CSE",
+  "id": "290",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "935702",
+      "type": "SE",
+      "section": "H00",
+      "days": "W",
+      "time": "10:00a-11:20a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Gymrek, Melissa Ann",
+      "instructors": [
+        "Gymrek, Melissa Ann"
+      ],
+      "start_time": "10:00",
+      "end_time": "11:20"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "935702",
+        "type": "SE",
+        "section": "H00",
+        "days": "W",
+        "time": "10:00a-11:20a",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Gymrek, Melissa Ann",
+        "instructors": [
+          "Gymrek, Melissa Ann"
+        ],
+        "start_time": "10:00",
+        "end_time": "11:20"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

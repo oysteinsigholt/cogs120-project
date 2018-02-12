@@ -1,0 +1,55 @@
+{
+  "code": "MED 239",
+  "name": "Hlth Frontier/Tijuana Elective",
+  "department": "MED",
+  "id": "239",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930446",
+      "type": "LE",
+      "section": "A00",
+      "days": "M",
+      "time": "1:00p-2:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Burgos, Jose L. & Ojeda, Victoria D.",
+      "instructors": [
+        "Burgos, Jose L.",
+        "Ojeda, Victoria D."
+      ],
+      "start_time": "13:00",
+      "end_time": "14:00"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "930446",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "1:00p-2:00p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Burgos, Jose L. & Ojeda, Victoria D.",
+        "instructors": [
+          "Burgos, Jose L.",
+          "Ojeda, Victoria D."
+        ],
+        "start_time": "13:00",
+        "end_time": "14:00"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

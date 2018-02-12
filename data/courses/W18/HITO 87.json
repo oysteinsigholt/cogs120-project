@@ -1,0 +1,55 @@
+{
+  "code": "HITO 87",
+  "name": "Freshman Seminar",
+  "department": "HITO",
+  "id": "87",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "929193",
+      "type": "SE",
+      "section": "B00",
+      "days": "W",
+      "time": "3:00p-3:50p",
+      "building": "HSS",
+      "room": "6008",
+      "instructor": "Murillo, Dana V.",
+      "instructors": [
+        "Murillo, Dana V."
+      ],
+      "start_time": "15:00",
+      "end_time": "15:50"
+    }
+  ],
+  "notes": [
+    "Meeting Dates: Week 1-8"
+  ],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "929193",
+        "type": "SE",
+        "section": "B00",
+        "days": "W",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "6008",
+        "instructor": "Murillo, Dana V.",
+        "instructors": [
+          "Murillo, Dana V."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

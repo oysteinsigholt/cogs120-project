@@ -1,0 +1,85 @@
+{
+  "code": "BENG 179B",
+  "name": "Design Implmnt Bioinstrumntatn",
+  "department": "BENG",
+  "id": "179B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "923336",
+      "type": "LE",
+      "section": "A00",
+      "days": "M",
+      "time": "3:00p-3:50p",
+      "building": "PFBH",
+      "room": "226",
+      "instructor": "Wheeler, Bruce Christopher",
+      "instructors": [
+        "Wheeler, Bruce Christopher"
+      ],
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "A01",
+      "days": "M",
+      "time": "4:00p-4:50p",
+      "building": "PFBH",
+      "room": "108",
+      "instructor": "Wheeler, Bruce Christopher",
+      "instructors": [
+        "Wheeler, Bruce Christopher"
+      ],
+      "start_time": "16:00",
+      "end_time": "16:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "923336",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "3:00p-3:50p",
+        "building": "PFBH",
+        "room": "226",
+        "instructor": "Wheeler, Bruce Christopher",
+        "instructors": [
+          "Wheeler, Bruce Christopher"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A01",
+        "days": "M",
+        "time": "4:00p-4:50p",
+        "building": "PFBH",
+        "room": "108",
+        "instructor": "Wheeler, Bruce Christopher",
+        "instructors": [
+          "Wheeler, Bruce Christopher"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

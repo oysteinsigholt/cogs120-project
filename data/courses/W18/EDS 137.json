@@ -1,0 +1,87 @@
+{
+  "code": "EDS 137",
+  "name": "Intro/Discipl/Specific Teachng",
+  "department": "EDS",
+  "id": "137",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "Tu",
+      "time": "3:30p-5:20p",
+      "building": "PCYNH",
+      "room": "302",
+      "instructor": "Whiteside, Linda Sue",
+      "instructors": [
+        "Whiteside, Linda Sue"
+      ],
+      "start_time": "15:30",
+      "end_time": "17:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922495",
+      "type": "DI",
+      "section": "A01",
+      "days": "Tu",
+      "time": "5:30p-6:20p",
+      "building": "PCYNH",
+      "room": "302",
+      "instructor": "Whiteside, Linda Sue",
+      "instructors": [
+        "Whiteside, Linda Sue"
+      ],
+      "start_time": "17:30",
+      "end_time": "18:20"
+    }
+  ],
+  "notes": [
+    "Artsbridge: Arts in Schools"
+  ],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "3:30p-5:20p",
+        "building": "PCYNH",
+        "room": "302",
+        "instructor": "Whiteside, Linda Sue",
+        "instructors": [
+          "Whiteside, Linda Sue"
+        ],
+        "start_time": "15:30",
+        "end_time": "17:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "922495",
+        "type": "DI",
+        "section": "A01",
+        "days": "Tu",
+        "time": "5:30p-6:20p",
+        "building": "PCYNH",
+        "room": "302",
+        "instructor": "Whiteside, Linda Sue",
+        "instructors": [
+          "Whiteside, Linda Sue"
+        ],
+        "start_time": "17:30",
+        "end_time": "18:20"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

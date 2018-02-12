@@ -1,0 +1,101 @@
+{
+  "code": "BGGN 238A",
+  "name": "Integrative Microbiology I",
+  "department": "BGGN",
+  "id": "238A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930399",
+      "type": "LE",
+      "section": "B00",
+      "days": "MW",
+      "time": "3:30p-4:50p",
+      "building": "NSB",
+      "room": "4211",
+      "instructor": "Pogliano, Joseph",
+      "instructors": [
+        "Pogliano, Joseph"
+      ],
+      "start_time": "15:30",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "930399",
+        "type": "LE",
+        "section": "B00",
+        "days": "MW",
+        "time": "3:30p-4:50p",
+        "building": "NSB",
+        "room": "4211",
+        "instructor": "Pogliano, Joseph",
+        "instructors": [
+          "Pogliano, Joseph"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "930399",
+        "type": "LE",
+        "section": "B00",
+        "days": "MW",
+        "time": "3:30p-4:50p",
+        "building": "NSB",
+        "room": "4211",
+        "instructor": "Pogliano, Joseph",
+        "instructors": [
+          "Pogliano, Joseph"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

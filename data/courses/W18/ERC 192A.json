@@ -1,0 +1,53 @@
+{
+  "code": "ERC 192A",
+  "name": "Global Service Prep Seminar",
+  "department": "ERC",
+  "id": "192A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "929044",
+      "type": "LE",
+      "section": "A00",
+      "days": "M",
+      "time": "3:00p-5:00p",
+      "building": "ASANT",
+      "room": "123C",
+      "instructor": "Evans, Ivan T",
+      "instructors": [
+        "Evans, Ivan T"
+      ],
+      "start_time": "15:00",
+      "end_time": "17:00"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "929044",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "3:00p-5:00p",
+        "building": "ASANT",
+        "room": "123C",
+        "instructor": "Evans, Ivan T",
+        "instructors": [
+          "Evans, Ivan T"
+        ],
+        "start_time": "15:00",
+        "end_time": "17:00"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

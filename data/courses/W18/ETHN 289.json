@@ -1,0 +1,84 @@
+{
+  "code": "ETHN 289",
+  "name": "Topics/Ethnic Studies Research",
+  "department": "ETHN",
+  "id": "289",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "922645",
+      "type": "SE",
+      "section": "A00",
+      "days": "W",
+      "time": "11:00a-1:50p",
+      "building": "SSB",
+      "room": "103",
+      "instructor": "Marez, Curtis F.",
+      "instructors": [
+        "Marez, Curtis F."
+      ],
+      "start_time": "11:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "922645",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "11:00a-1:50p",
+        "building": "SSB",
+        "room": "103",
+        "instructor": "Marez, Curtis F.",
+        "instructors": [
+          "Marez, Curtis F."
+        ],
+        "start_time": "11:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

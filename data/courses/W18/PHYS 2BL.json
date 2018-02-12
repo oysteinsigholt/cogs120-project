@@ -1,0 +1,184 @@
+{
+  "code": "PHYS 2BL",
+  "name": "Physics Laboratory-Mechanics",
+  "department": "PHYS",
+  "id": "2BL",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "M",
+      "time": "3:00p-3:50p",
+      "building": "YORK",
+      "room": "2622",
+      "instructor": "Butov, Leonid",
+      "instructors": [
+        "Butov, Leonid"
+      ],
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923717",
+      "type": "LA",
+      "section": "A01",
+      "days": "Tu",
+      "time": "9:00a-11:50a",
+      "building": "MYR-A",
+      "room": "2722",
+      "instructor": "Butov, Leonid",
+      "instructors": [
+        "Butov, Leonid"
+      ],
+      "start_time": "9:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923718",
+      "type": "LA",
+      "section": "A02",
+      "days": "W",
+      "time": "9:00a-11:50a",
+      "building": "MYR-A",
+      "room": "2722",
+      "instructor": "Butov, Leonid",
+      "instructors": [
+        "Butov, Leonid"
+      ],
+      "start_time": "9:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923719",
+      "type": "LA",
+      "section": "A03",
+      "days": "Th",
+      "time": "9:00a-11:50a",
+      "building": "MYR-A",
+      "room": "2722",
+      "instructor": "Butov, Leonid",
+      "instructors": [
+        "Butov, Leonid"
+      ],
+      "start_time": "9:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930507",
+      "type": "LA",
+      "section": "A04",
+      "days": "Tu",
+      "time": "12:00p-2:50p",
+      "building": "MYR-A",
+      "room": "2722",
+      "instructor": "Butov, Leonid",
+      "instructors": [
+        "Butov, Leonid"
+      ],
+      "start_time": "12:00",
+      "end_time": "14:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "3:00p-3:50p",
+        "building": "YORK",
+        "room": "2622",
+        "instructor": "Butov, Leonid",
+        "instructors": [
+          "Butov, Leonid"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "923717",
+        "type": "LA",
+        "section": "A01",
+        "days": "Tu",
+        "time": "9:00a-11:50a",
+        "building": "MYR-A",
+        "room": "2722",
+        "instructor": "Butov, Leonid",
+        "instructors": [
+          "Butov, Leonid"
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "930507",
+        "type": "LA",
+        "section": "A04",
+        "days": "Tu",
+        "time": "12:00p-2:50p",
+        "building": "MYR-A",
+        "room": "2722",
+        "instructor": "Butov, Leonid",
+        "instructors": [
+          "Butov, Leonid"
+        ],
+        "start_time": "12:00",
+        "end_time": "14:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "923718",
+        "type": "LA",
+        "section": "A02",
+        "days": "W",
+        "time": "9:00a-11:50a",
+        "building": "MYR-A",
+        "room": "2722",
+        "instructor": "Butov, Leonid",
+        "instructors": [
+          "Butov, Leonid"
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "923719",
+        "type": "LA",
+        "section": "A03",
+        "days": "Th",
+        "time": "9:00a-11:50a",
+        "building": "MYR-A",
+        "room": "2722",
+        "instructor": "Butov, Leonid",
+        "instructors": [
+          "Butov, Leonid"
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

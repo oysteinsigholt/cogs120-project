@@ -1,0 +1,53 @@
+{
+  "code": "HIUS 181",
+  "name": "Topics in 20th Century U.S.",
+  "department": "HIUS",
+  "id": "181",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930005",
+      "type": "SE",
+      "section": "B00",
+      "days": "F",
+      "time": "10:00a-12:50p",
+      "building": "HSS",
+      "room": "6008",
+      "instructor": "Kwak, Nancy",
+      "instructors": [
+        "Kwak, Nancy"
+      ],
+      "start_time": "10:00",
+      "end_time": "12:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "930005",
+        "type": "SE",
+        "section": "B00",
+        "days": "F",
+        "time": "10:00a-12:50p",
+        "building": "HSS",
+        "room": "6008",
+        "instructor": "Kwak, Nancy",
+        "instructors": [
+          "Kwak, Nancy"
+        ],
+        "start_time": "10:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "code": "MATH 152",
+  "name": "Applicable Math and Computing",
+  "department": "MATH",
+  "id": "152",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "9:30a-10:50a",
+      "building": "CENTR",
+      "room": "109",
+      "instructor": "Cloninger, Alexander",
+      "instructors": [
+        "Cloninger, Alexander"
+      ],
+      "start_time": "9:30",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927173",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "4:00p-4:50p",
+      "building": "APM",
+      "room": "5402",
+      "instructor": "Cloninger, Alexander",
+      "instructors": [
+        "Cloninger, Alexander"
+      ],
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927174",
+      "type": "DI",
+      "section": "A02",
+      "days": "M",
+      "time": "5:00p-5:50p",
+      "building": "APM",
+      "room": "5402",
+      "instructor": "Cloninger, Alexander",
+      "instructors": [
+        "Cloninger, Alexander"
+      ],
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927175",
+      "type": "DI",
+      "section": "A03",
+      "days": "M",
+      "time": "6:00p-6:50p",
+      "building": "APM",
+      "room": "5402",
+      "instructor": "Cloninger, Alexander",
+      "instructors": [
+        "Cloninger, Alexander"
+      ],
+      "start_time": "18:00",
+      "end_time": "18:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927176",
+      "type": "DI",
+      "section": "A04",
+      "days": "Cancelled",
+      "time": "Cancelled",
+      "building": "Cancelled",
+      "room": "Cancelled",
+      "instructor": "Cancelled",
+      "instructors": [
+        "Cancelled"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "927173",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "4:00p-4:50p",
+        "building": "APM",
+        "room": "5402",
+        "instructor": "Cloninger, Alexander",
+        "instructors": [
+          "Cloninger, Alexander"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "927174",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "5:00p-5:50p",
+        "building": "APM",
+        "room": "5402",
+        "instructor": "Cloninger, Alexander",
+        "instructors": [
+          "Cloninger, Alexander"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "927175",
+        "type": "DI",
+        "section": "A03",
+        "days": "M",
+        "time": "6:00p-6:50p",
+        "building": "APM",
+        "room": "5402",
+        "instructor": "Cloninger, Alexander",
+        "instructors": [
+          "Cloninger, Alexander"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CENTR",
+        "room": "109",
+        "instructor": "Cloninger, Alexander",
+        "instructors": [
+          "Cloninger, Alexander"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CENTR",
+        "room": "109",
+        "instructor": "Cloninger, Alexander",
+        "instructors": [
+          "Cloninger, Alexander"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

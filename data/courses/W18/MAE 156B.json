@@ -1,0 +1,130 @@
+{
+  "code": "MAE 156B",
+  "name": "Fund. Prin/Mechanical Desgn II",
+  "department": "MAE",
+  "id": "156B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "5:30p-7:20p",
+      "building": "EBU2",
+      "room": "584",
+      "instructor": "Tustaniwskyj, Jerry I",
+      "instructors": [
+        "Tustaniwskyj, Jerry I"
+      ],
+      "start_time": "17:30",
+      "end_time": "19:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922924",
+      "type": "LA",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Tustaniwskyj, Jerry I",
+      "instructors": [
+        "Tustaniwskyj, Jerry I"
+      ]
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "922924",
+      "type": "LA",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Tustaniwskyj, Jerry I",
+      "instructors": [
+        "Tustaniwskyj, Jerry I"
+      ]
+    }
+  ],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "5:30p-7:20p",
+        "building": "EBU2",
+        "room": "584",
+        "instructor": "Tustaniwskyj, Jerry I",
+        "instructors": [
+          "Tustaniwskyj, Jerry I"
+        ],
+        "start_time": "17:30",
+        "end_time": "19:20"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "5:30p-7:20p",
+        "building": "EBU2",
+        "room": "584",
+        "instructor": "Tustaniwskyj, Jerry I",
+        "instructors": [
+          "Tustaniwskyj, Jerry I"
+        ],
+        "start_time": "17:30",
+        "end_time": "19:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

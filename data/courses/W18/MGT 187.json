@@ -1,0 +1,144 @@
+{
+  "code": "MGT 187",
+  "name": "New Venture Finance",
+  "department": "MGT",
+  "id": "187",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "929961",
+      "type": "LE",
+      "section": "B00",
+      "days": "M",
+      "time": "6:30p-9:20p",
+      "building": "WFH",
+      "room": "1N108",
+      "instructor": "Dunn, Louis Jean",
+      "instructors": [
+        "Dunn, Louis Jean"
+      ],
+      "start_time": "18:30",
+      "end_time": "21:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MU",
+      "section": "01/20/2018",
+      "days": "S",
+      "time": "1:00p-3:50p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-01-20T08:00:00.000Z",
+      "start_time": "13:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MU",
+      "section": "02/23/2018",
+      "days": "F",
+      "time": "1:00p-3:50p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-02-23T08:00:00.000Z",
+      "start_time": "13:00",
+      "end_time": "15:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MU",
+      "section": "01/20/2018",
+      "days": "S",
+      "time": "1:00p-3:50p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-01-20T08:00:00.000Z",
+      "start_time": "13:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MU",
+      "section": "02/23/2018",
+      "days": "F",
+      "time": "1:00p-3:50p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-02-23T08:00:00.000Z",
+      "start_time": "13:00",
+      "end_time": "15:50"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "929961",
+        "type": "LE",
+        "section": "B00",
+        "days": "M",
+        "time": "6:30p-9:20p",
+        "building": "WFH",
+        "room": "1N108",
+        "instructor": "Dunn, Louis Jean",
+        "instructors": [
+          "Dunn, Louis Jean"
+        ],
+        "start_time": "18:30",
+        "end_time": "21:20"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

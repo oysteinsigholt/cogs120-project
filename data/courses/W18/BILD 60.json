@@ -1,0 +1,167 @@
+{
+  "code": "BILD 60",
+  "name": "DEI in Relation to Human Bio",
+  "department": "BILD",
+  "id": "60",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "9:30a-10:50a",
+      "building": "MANDE",
+      "room": "B-150",
+      "instructor": "Macagno, Eduardo R.",
+      "instructors": [
+        "Macagno, Eduardo R."
+      ],
+      "start_time": "9:30",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926044",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "3:00p-3:50p",
+      "building": "CENTR",
+      "room": "220",
+      "instructor": "Macagno, Eduardo R.",
+      "instructors": [
+        "Macagno, Eduardo R."
+      ],
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926045",
+      "type": "DI",
+      "section": "A02",
+      "days": "W",
+      "time": "7:00p-7:50p",
+      "building": "CENTR",
+      "room": "220",
+      "instructor": "Macagno, Eduardo R.",
+      "instructors": [
+        "Macagno, Eduardo R."
+      ],
+      "start_time": "19:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "926044",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "220",
+        "instructor": "Macagno, Eduardo R.",
+        "instructors": [
+          "Macagno, Eduardo R."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "MANDE",
+        "room": "B-150",
+        "instructor": "Macagno, Eduardo R.",
+        "instructors": [
+          "Macagno, Eduardo R."
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "926045",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "7:00p-7:50p",
+        "building": "CENTR",
+        "room": "220",
+        "instructor": "Macagno, Eduardo R.",
+        "instructors": [
+          "Macagno, Eduardo R."
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "MANDE",
+        "room": "B-150",
+        "instructor": "Macagno, Eduardo R.",
+        "instructors": [
+          "Macagno, Eduardo R."
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

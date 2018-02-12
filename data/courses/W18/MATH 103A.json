@@ -1,0 +1,183 @@
+{
+  "code": "MATH 103A",
+  "name": "Modern Algebra I",
+  "department": "MATH",
+  "id": "103A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "D00",
+      "days": "MWF",
+      "time": "10:00a-10:50a",
+      "building": "WLH",
+      "room": "2111",
+      "instructor": "Stapleton, David John",
+      "instructors": [
+        "Stapleton, David John"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "933108",
+      "type": "DI",
+      "section": "D01",
+      "days": "Th",
+      "time": "7:00p-7:50p",
+      "building": "WLH",
+      "room": "2209",
+      "instructor": "Stapleton, David John",
+      "instructors": [
+        "Stapleton, David John"
+      ],
+      "start_time": "19:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "933109",
+      "type": "DI",
+      "section": "D02",
+      "days": "Th",
+      "time": "8:00p-8:50p",
+      "building": "WLH",
+      "room": "2209",
+      "instructor": "Stapleton, David John",
+      "instructors": [
+        "Stapleton, David John"
+      ],
+      "start_time": "20:00",
+      "end_time": "20:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2111",
+        "instructor": "Stapleton, David John",
+        "instructors": [
+          "Stapleton, David John"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2111",
+        "instructor": "Stapleton, David John",
+        "instructors": [
+          "Stapleton, David John"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "933108",
+        "type": "DI",
+        "section": "D01",
+        "days": "Th",
+        "time": "7:00p-7:50p",
+        "building": "WLH",
+        "room": "2209",
+        "instructor": "Stapleton, David John",
+        "instructors": [
+          "Stapleton, David John"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "933109",
+        "type": "DI",
+        "section": "D02",
+        "days": "Th",
+        "time": "8:00p-8:50p",
+        "building": "WLH",
+        "room": "2209",
+        "instructor": "Stapleton, David John",
+        "instructors": [
+          "Stapleton, David John"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2111",
+        "instructor": "Stapleton, David John",
+        "instructors": [
+          "Stapleton, David John"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

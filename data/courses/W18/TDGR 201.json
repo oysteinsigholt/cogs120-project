@@ -1,0 +1,70 @@
+{
+  "code": "TDGR 201",
+  "name": "Stage Combat",
+  "department": "TDGR",
+  "id": "201",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920380",
+      "type": "ST",
+      "section": "A00",
+      "days": "MW",
+      "time": "10:00a-11:50a",
+      "building": "GH",
+      "room": "23",
+      "instructor": "Newcomb, James",
+      "instructors": [
+        "Newcomb, James"
+      ],
+      "start_time": "10:00",
+      "end_time": "11:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "920380",
+        "type": "ST",
+        "section": "A00",
+        "days": "MW",
+        "time": "10:00a-11:50a",
+        "building": "GH",
+        "room": "23",
+        "instructor": "Newcomb, James",
+        "instructors": [
+          "Newcomb, James"
+        ],
+        "start_time": "10:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "920380",
+        "type": "ST",
+        "section": "A00",
+        "days": "MW",
+        "time": "10:00a-11:50a",
+        "building": "GH",
+        "room": "23",
+        "instructor": "Newcomb, James",
+        "instructors": [
+          "Newcomb, James"
+        ],
+        "start_time": "10:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

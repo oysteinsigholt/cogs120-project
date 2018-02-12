@@ -1,0 +1,88 @@
+{
+  "code": "MGTF 413",
+  "name": "Computational Finance Methods",
+  "department": "MGTF",
+  "id": "413",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930345",
+      "type": "LE",
+      "section": "A00",
+      "days": "W",
+      "time": "1:00p-4:00p",
+      "building": "WFH",
+      "room": "4N128",
+      "instructor": "Bradic, Jelena & Holst, Michael J & Williams, Ruth J",
+      "instructors": [
+        "Bradic, Jelena",
+        "Holst, Michael J",
+        "Williams, Ruth J"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "1:00p-4:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "13:00",
+      "end_time": "16:00"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "1:00p-4:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "13:00",
+      "end_time": "16:00"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "930345",
+        "type": "LE",
+        "section": "A00",
+        "days": "W",
+        "time": "1:00p-4:00p",
+        "building": "WFH",
+        "room": "4N128",
+        "instructor": "Bradic, Jelena & Holst, Michael J & Williams, Ruth J",
+        "instructors": [
+          "Bradic, Jelena",
+          "Holst, Michael J",
+          "Williams, Ruth J"
+        ],
+        "start_time": "13:00",
+        "end_time": "16:00"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

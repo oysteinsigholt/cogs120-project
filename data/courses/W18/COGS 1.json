@@ -1,0 +1,342 @@
+{
+  "code": "COGS 1",
+  "name": "Introduction to Cognitive Sci",
+  "department": "COGS",
+  "id": "1",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "10:00a-10:50a",
+      "building": "PRICE",
+      "room": "THTRE",
+      "instructor": "Boyle, Mary E. T.",
+      "instructors": [
+        "Boyle, Mary E. T."
+      ],
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925517",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "12:00p-12:50p",
+      "building": "PCYNH",
+      "room": "121",
+      "instructor": "Boyle, Mary E. T.",
+      "instructors": [
+        "Boyle, Mary E. T."
+      ],
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925518",
+      "type": "DI",
+      "section": "A02",
+      "days": "M",
+      "time": "4:00p-4:50p",
+      "building": "PCYNH",
+      "room": "121",
+      "instructor": "Boyle, Mary E. T.",
+      "instructors": [
+        "Boyle, Mary E. T."
+      ],
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925519",
+      "type": "DI",
+      "section": "A03",
+      "days": "W",
+      "time": "12:00p-12:50p",
+      "building": "PCYNH",
+      "room": "121",
+      "instructor": "Boyle, Mary E. T.",
+      "instructors": [
+        "Boyle, Mary E. T."
+      ],
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925520",
+      "type": "DI",
+      "section": "A04",
+      "days": "W",
+      "time": "2:00p-2:50p",
+      "building": "PCYNH",
+      "room": "121",
+      "instructor": "Boyle, Mary E. T.",
+      "instructors": [
+        "Boyle, Mary E. T."
+      ],
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925521",
+      "type": "DI",
+      "section": "A05",
+      "days": "F",
+      "time": "11:00a-11:50a",
+      "building": "PCYNH",
+      "room": "121",
+      "instructor": "Boyle, Mary E. T.",
+      "instructors": [
+        "Boyle, Mary E. T."
+      ],
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925522",
+      "type": "DI",
+      "section": "A06",
+      "days": "F",
+      "time": "12:00p-12:50p",
+      "building": "PCYNH",
+      "room": "121",
+      "instructor": "Boyle, Mary E. T.",
+      "instructors": [
+        "Boyle, Mary E. T."
+      ],
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925523",
+      "type": "DI",
+      "section": "A07",
+      "days": "F",
+      "time": "2:00p-2:50p",
+      "building": "PCYNH",
+      "room": "121",
+      "instructor": "Boyle, Mary E. T.",
+      "instructors": [
+        "Boyle, Mary E. T."
+      ],
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "PRICE",
+        "room": "THTRE",
+        "instructor": "Boyle, Mary E. T.",
+        "instructors": [
+          "Boyle, Mary E. T."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925517",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "12:00p-12:50p",
+        "building": "PCYNH",
+        "room": "121",
+        "instructor": "Boyle, Mary E. T.",
+        "instructors": [
+          "Boyle, Mary E. T."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925518",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "4:00p-4:50p",
+        "building": "PCYNH",
+        "room": "121",
+        "instructor": "Boyle, Mary E. T.",
+        "instructors": [
+          "Boyle, Mary E. T."
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "PRICE",
+        "room": "THTRE",
+        "instructor": "Boyle, Mary E. T.",
+        "instructors": [
+          "Boyle, Mary E. T."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925519",
+        "type": "DI",
+        "section": "A03",
+        "days": "W",
+        "time": "12:00p-12:50p",
+        "building": "PCYNH",
+        "room": "121",
+        "instructor": "Boyle, Mary E. T.",
+        "instructors": [
+          "Boyle, Mary E. T."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925520",
+        "type": "DI",
+        "section": "A04",
+        "days": "W",
+        "time": "2:00p-2:50p",
+        "building": "PCYNH",
+        "room": "121",
+        "instructor": "Boyle, Mary E. T.",
+        "instructors": [
+          "Boyle, Mary E. T."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "PRICE",
+        "room": "THTRE",
+        "instructor": "Boyle, Mary E. T.",
+        "instructors": [
+          "Boyle, Mary E. T."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925521",
+        "type": "DI",
+        "section": "A05",
+        "days": "F",
+        "time": "11:00a-11:50a",
+        "building": "PCYNH",
+        "room": "121",
+        "instructor": "Boyle, Mary E. T.",
+        "instructors": [
+          "Boyle, Mary E. T."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925522",
+        "type": "DI",
+        "section": "A06",
+        "days": "F",
+        "time": "12:00p-12:50p",
+        "building": "PCYNH",
+        "room": "121",
+        "instructor": "Boyle, Mary E. T.",
+        "instructors": [
+          "Boyle, Mary E. T."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925523",
+        "type": "DI",
+        "section": "A07",
+        "days": "F",
+        "time": "2:00p-2:50p",
+        "building": "PCYNH",
+        "room": "121",
+        "instructor": "Boyle, Mary E. T.",
+        "instructors": [
+          "Boyle, Mary E. T."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

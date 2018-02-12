@@ -1,0 +1,84 @@
+{
+  "code": "SIO 139",
+  "name": "Current Research in Marine Bio",
+  "department": "SIO",
+  "id": "139",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921070",
+      "type": "SE",
+      "section": "A00",
+      "days": "M",
+      "time": "11:00a-12:20p",
+      "building": "ECKRT",
+      "room": "227",
+      "instructor": "Palenik, Brian",
+      "instructors": [
+        "Palenik, Brian"
+      ],
+      "start_time": "11:00",
+      "end_time": "12:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "921070",
+        "type": "SE",
+        "section": "A00",
+        "days": "M",
+        "time": "11:00a-12:20p",
+        "building": "ECKRT",
+        "room": "227",
+        "instructor": "Palenik, Brian",
+        "instructors": [
+          "Palenik, Brian"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

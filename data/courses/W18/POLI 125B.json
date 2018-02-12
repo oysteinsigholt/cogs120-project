@@ -1,0 +1,101 @@
+{
+  "code": "POLI 125B",
+  "name": "Politics of Food/Global Econ.",
+  "department": "POLI",
+  "id": "125B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "925309",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "12:30p-1:50p",
+      "building": "CENTR",
+      "room": "216",
+      "instructor": "Naoi, Megumi",
+      "instructors": [
+        "Naoi, Megumi"
+      ],
+      "start_time": "12:30",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "925309",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "216",
+        "instructor": "Naoi, Megumi",
+        "instructors": [
+          "Naoi, Megumi"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "925309",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "216",
+        "instructor": "Naoi, Megumi",
+        "instructors": [
+          "Naoi, Megumi"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

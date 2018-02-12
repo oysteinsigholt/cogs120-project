@@ -1,0 +1,343 @@
+{
+  "code": "CHEM 143B",
+  "name": "Organic Chemistry Lab II",
+  "department": "CHEM",
+  "id": "143B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "6:30p-7:50p",
+      "building": "YORK",
+      "room": "2622",
+      "instructor": "Ternansky, Robert J.",
+      "instructors": [
+        "Ternansky, Robert J."
+      ],
+      "start_time": "18:30",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926570",
+      "type": "LA",
+      "section": "A01",
+      "days": "MW",
+      "time": "9:00a-11:50a",
+      "building": "NSB",
+      "room": "1311",
+      "instructor": "Ternansky, Robert J.",
+      "instructors": [
+        "Ternansky, Robert J."
+      ],
+      "start_time": "9:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926571",
+      "type": "LA",
+      "section": "A02",
+      "days": "MW",
+      "time": "10:00a-12:50p",
+      "building": "NSB",
+      "room": "1319",
+      "instructor": "Ternansky, Robert J.",
+      "instructors": [
+        "Ternansky, Robert J."
+      ],
+      "start_time": "10:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926572",
+      "type": "LA",
+      "section": "A03",
+      "days": "MW",
+      "time": "12:10p-3:00p",
+      "building": "NSB",
+      "room": "1311",
+      "instructor": "Ternansky, Robert J.",
+      "instructors": [
+        "Ternansky, Robert J."
+      ],
+      "start_time": "12:10",
+      "end_time": "15:00"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926573",
+      "type": "LA",
+      "section": "A04",
+      "days": "TuTh",
+      "time": "9:00a-11:50a",
+      "building": "NSB",
+      "room": "1319",
+      "instructor": "Ternansky, Robert J.",
+      "instructors": [
+        "Ternansky, Robert J."
+      ],
+      "start_time": "9:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926574",
+      "type": "LA",
+      "section": "A05",
+      "days": "TuTh",
+      "time": "10:00a-12:50p",
+      "building": "NSB",
+      "room": "1311",
+      "instructor": "Ternansky, Robert J.",
+      "instructors": [
+        "Ternansky, Robert J."
+      ],
+      "start_time": "10:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "926570",
+        "type": "LA",
+        "section": "A01",
+        "days": "MW",
+        "time": "9:00a-11:50a",
+        "building": "NSB",
+        "room": "1311",
+        "instructor": "Ternansky, Robert J.",
+        "instructors": [
+          "Ternansky, Robert J."
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926571",
+        "type": "LA",
+        "section": "A02",
+        "days": "MW",
+        "time": "10:00a-12:50p",
+        "building": "NSB",
+        "room": "1319",
+        "instructor": "Ternansky, Robert J.",
+        "instructors": [
+          "Ternansky, Robert J."
+        ],
+        "start_time": "10:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926572",
+        "type": "LA",
+        "section": "A03",
+        "days": "MW",
+        "time": "12:10p-3:00p",
+        "building": "NSB",
+        "room": "1311",
+        "instructor": "Ternansky, Robert J.",
+        "instructors": [
+          "Ternansky, Robert J."
+        ],
+        "start_time": "12:10",
+        "end_time": "15:00"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "6:30p-7:50p",
+        "building": "YORK",
+        "room": "2622",
+        "instructor": "Ternansky, Robert J.",
+        "instructors": [
+          "Ternansky, Robert J."
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926573",
+        "type": "LA",
+        "section": "A04",
+        "days": "TuTh",
+        "time": "9:00a-11:50a",
+        "building": "NSB",
+        "room": "1319",
+        "instructor": "Ternansky, Robert J.",
+        "instructors": [
+          "Ternansky, Robert J."
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926574",
+        "type": "LA",
+        "section": "A05",
+        "days": "TuTh",
+        "time": "10:00a-12:50p",
+        "building": "NSB",
+        "room": "1311",
+        "instructor": "Ternansky, Robert J.",
+        "instructors": [
+          "Ternansky, Robert J."
+        ],
+        "start_time": "10:00",
+        "end_time": "12:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "926570",
+        "type": "LA",
+        "section": "A01",
+        "days": "MW",
+        "time": "9:00a-11:50a",
+        "building": "NSB",
+        "room": "1311",
+        "instructor": "Ternansky, Robert J.",
+        "instructors": [
+          "Ternansky, Robert J."
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926571",
+        "type": "LA",
+        "section": "A02",
+        "days": "MW",
+        "time": "10:00a-12:50p",
+        "building": "NSB",
+        "room": "1319",
+        "instructor": "Ternansky, Robert J.",
+        "instructors": [
+          "Ternansky, Robert J."
+        ],
+        "start_time": "10:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926572",
+        "type": "LA",
+        "section": "A03",
+        "days": "MW",
+        "time": "12:10p-3:00p",
+        "building": "NSB",
+        "room": "1311",
+        "instructor": "Ternansky, Robert J.",
+        "instructors": [
+          "Ternansky, Robert J."
+        ],
+        "start_time": "12:10",
+        "end_time": "15:00"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "6:30p-7:50p",
+        "building": "YORK",
+        "room": "2622",
+        "instructor": "Ternansky, Robert J.",
+        "instructors": [
+          "Ternansky, Robert J."
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926573",
+        "type": "LA",
+        "section": "A04",
+        "days": "TuTh",
+        "time": "9:00a-11:50a",
+        "building": "NSB",
+        "room": "1319",
+        "instructor": "Ternansky, Robert J.",
+        "instructors": [
+          "Ternansky, Robert J."
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926574",
+        "type": "LA",
+        "section": "A05",
+        "days": "TuTh",
+        "time": "10:00a-12:50p",
+        "building": "NSB",
+        "room": "1311",
+        "instructor": "Ternansky, Robert J.",
+        "instructors": [
+          "Ternansky, Robert J."
+        ],
+        "start_time": "10:00",
+        "end_time": "12:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

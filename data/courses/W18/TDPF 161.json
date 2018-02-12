@@ -1,0 +1,55 @@
+{
+  "code": "TDPF 161",
+  "name": "Studies/Perform-Winter Product",
+  "department": "TDPF",
+  "id": "161",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920475",
+      "type": "ST",
+      "section": "A00",
+      "days": "F",
+      "time": "12:00p-1:50p",
+      "building": "DANCE",
+      "room": "3",
+      "instructor": "Snaith, Yolande & Smith, Alison D",
+      "instructors": [
+        "Snaith, Yolande",
+        "Smith, Alison D"
+      ],
+      "start_time": "12:00",
+      "end_time": "13:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "920475",
+        "type": "ST",
+        "section": "A00",
+        "days": "F",
+        "time": "12:00p-1:50p",
+        "building": "DANCE",
+        "room": "3",
+        "instructor": "Snaith, Yolande & Smith, Alison D",
+        "instructors": [
+          "Snaith, Yolande",
+          "Smith, Alison D"
+        ],
+        "start_time": "12:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

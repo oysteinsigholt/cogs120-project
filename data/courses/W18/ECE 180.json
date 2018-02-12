@@ -1,0 +1,101 @@
+{
+  "code": "ECE 180",
+  "name": "Topics in ECE",
+  "department": "ECE",
+  "id": "180",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930032",
+      "type": "LE",
+      "section": "F00",
+      "days": "TuTh",
+      "time": "5:00p-6:20p",
+      "building": "MANDE",
+      "room": "B-210",
+      "instructor": "Unpingco, Jose H.",
+      "instructors": [
+        "Unpingco, Jose H."
+      ],
+      "start_time": "17:00",
+      "end_time": "18:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "930032",
+        "type": "LE",
+        "section": "F00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "MANDE",
+        "room": "B-210",
+        "instructor": "Unpingco, Jose H.",
+        "instructors": [
+          "Unpingco, Jose H."
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "930032",
+        "type": "LE",
+        "section": "F00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "MANDE",
+        "room": "B-210",
+        "instructor": "Unpingco, Jose H.",
+        "instructors": [
+          "Unpingco, Jose H."
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

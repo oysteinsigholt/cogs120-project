@@ -1,0 +1,53 @@
+{
+  "code": "EDS 240B",
+  "name": "Resrch/ASL-English Bilingul Ed",
+  "department": "EDS",
+  "id": "240B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "922518",
+      "type": "LE",
+      "section": "A00",
+      "days": "W",
+      "time": "9:00a-11:50a",
+      "building": "PCYNH",
+      "room": "348",
+      "instructor": "Allen, Bobbie M",
+      "instructors": [
+        "Allen, Bobbie M"
+      ],
+      "start_time": "9:00",
+      "end_time": "11:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "922518",
+        "type": "LE",
+        "section": "A00",
+        "days": "W",
+        "time": "9:00a-11:50a",
+        "building": "PCYNH",
+        "room": "348",
+        "instructor": "Allen, Bobbie M",
+        "instructors": [
+          "Allen, Bobbie M"
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

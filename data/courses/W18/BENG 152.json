@@ -1,0 +1,182 @@
+{
+  "code": "BENG 152",
+  "name": "BioSystems Engineering Lab",
+  "department": "BENG",
+  "id": "152",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "M",
+      "time": "3:00p-3:50p",
+      "building": "WLH",
+      "room": "2112",
+      "instructor": "Wheeler, Bruce Christopher",
+      "instructors": [
+        "Wheeler, Bruce Christopher"
+      ],
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A01",
+      "days": "F",
+      "time": "11:00a-11:50a",
+      "building": "WLH",
+      "room": "2114",
+      "instructor": "Wheeler, Bruce Christopher",
+      "instructors": [
+        "Wheeler, Bruce Christopher"
+      ],
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923326",
+      "type": "LA",
+      "section": "A50",
+      "days": "W",
+      "time": "9:30a-1:30p",
+      "building": "PFBH",
+      "room": "108",
+      "instructor": "Wheeler, Bruce Christopher",
+      "instructors": [
+        "Wheeler, Bruce Christopher"
+      ],
+      "start_time": "9:30",
+      "end_time": "13:30"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923327",
+      "type": "LA",
+      "section": "A51",
+      "days": "W",
+      "time": "2:00p-6:00p",
+      "building": "PFBH",
+      "room": "108",
+      "instructor": "Wheeler, Bruce Christopher",
+      "instructors": [
+        "Wheeler, Bruce Christopher"
+      ],
+      "start_time": "14:00",
+      "end_time": "18:00"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "3:00p-3:50p",
+        "building": "WLH",
+        "room": "2112",
+        "instructor": "Wheeler, Bruce Christopher",
+        "instructors": [
+          "Wheeler, Bruce Christopher"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "923326",
+        "type": "LA",
+        "section": "A50",
+        "days": "W",
+        "time": "9:30a-1:30p",
+        "building": "PFBH",
+        "room": "108",
+        "instructor": "Wheeler, Bruce Christopher",
+        "instructors": [
+          "Wheeler, Bruce Christopher"
+        ],
+        "start_time": "9:30",
+        "end_time": "13:30"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "923327",
+        "type": "LA",
+        "section": "A51",
+        "days": "W",
+        "time": "2:00p-6:00p",
+        "building": "PFBH",
+        "room": "108",
+        "instructor": "Wheeler, Bruce Christopher",
+        "instructors": [
+          "Wheeler, Bruce Christopher"
+        ],
+        "start_time": "14:00",
+        "end_time": "18:00"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A01",
+        "days": "F",
+        "time": "11:00a-11:50a",
+        "building": "WLH",
+        "room": "2114",
+        "instructor": "Wheeler, Bruce Christopher",
+        "instructors": [
+          "Wheeler, Bruce Christopher"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

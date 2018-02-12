@@ -1,0 +1,82 @@
+{
+  "code": "COGS 252",
+  "name": "Cognitive Science/Mathematics",
+  "department": "COGS",
+  "id": "252",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "M",
+      "time": "12:00p-2:50p",
+      "building": "CSB",
+      "room": "003",
+      "instructor": "Nunez, Rafael E",
+      "instructors": [
+        "Nunez, Rafael E"
+      ],
+      "start_time": "12:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925659",
+      "type": "DI",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Nunez, Rafael E",
+      "instructors": [
+        "Nunez, Rafael E"
+      ]
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "925659",
+      "type": "DI",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Nunez, Rafael E",
+      "instructors": [
+        "Nunez, Rafael E"
+      ]
+    }
+  ],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "12:00p-2:50p",
+        "building": "CSB",
+        "room": "003",
+        "instructor": "Nunez, Rafael E",
+        "instructors": [
+          "Nunez, Rafael E"
+        ],
+        "start_time": "12:00",
+        "end_time": "14:50"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

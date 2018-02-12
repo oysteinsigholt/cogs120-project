@@ -1,0 +1,53 @@
+{
+  "code": "CSE 219",
+  "name": "Design at Large",
+  "department": "CSE",
+  "id": "219",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "927553",
+      "type": "SE",
+      "section": "A00",
+      "days": "W",
+      "time": "4:00p-5:50p",
+      "building": "EBU3B",
+      "room": "1202",
+      "instructor": "Hollan, James D.",
+      "instructors": [
+        "Hollan, James D."
+      ],
+      "start_time": "16:00",
+      "end_time": "17:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "927553",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "4:00p-5:50p",
+        "building": "EBU3B",
+        "room": "1202",
+        "instructor": "Hollan, James D.",
+        "instructors": [
+          "Hollan, James D."
+        ],
+        "start_time": "16:00",
+        "end_time": "17:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

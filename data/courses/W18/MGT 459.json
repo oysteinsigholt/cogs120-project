@@ -1,0 +1,84 @@
+{
+  "code": "MGT 459",
+  "name": "Topics in Innovation",
+  "department": "MGT",
+  "id": "459",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930639",
+      "type": "LE",
+      "section": "D00",
+      "days": "Tu",
+      "time": "9:30a-12:50p",
+      "building": "WFH",
+      "room": "3N129",
+      "instructor": "Gneezy, Ayelet",
+      "instructors": [
+        "Gneezy, Ayelet"
+      ],
+      "start_time": "9:30",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "9:30a-12:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "9:30",
+      "end_time": "12:30"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "9:30a-12:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "9:30",
+      "end_time": "12:30"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "930639",
+        "type": "LE",
+        "section": "D00",
+        "days": "Tu",
+        "time": "9:30a-12:50p",
+        "building": "WFH",
+        "room": "3N129",
+        "instructor": "Gneezy, Ayelet",
+        "instructors": [
+          "Gneezy, Ayelet"
+        ],
+        "start_time": "9:30",
+        "end_time": "12:50"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

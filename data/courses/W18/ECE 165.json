@@ -1,0 +1,264 @@
+{
+  "code": "ECE 165",
+  "name": "Digtl Integrated Circuit Desgn",
+  "department": "ECE",
+  "id": "165",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "5:00p-6:20p",
+      "building": "CENTR",
+      "room": "216",
+      "instructor": "Mercier, Patrick Philip",
+      "instructors": [
+        "Mercier, Patrick Philip"
+      ],
+      "start_time": "17:00",
+      "end_time": "18:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "1:00p-1:50p",
+      "building": "CSB",
+      "room": "002",
+      "instructor": "Mercier, Patrick Philip",
+      "instructors": [
+        "Mercier, Patrick Philip"
+      ],
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925076",
+      "type": "LA",
+      "section": "A50",
+      "days": "M",
+      "time": "2:00p-3:00p",
+      "building": "EBU1",
+      "room": "4307",
+      "instructor": "Mercier, Patrick Philip",
+      "instructors": [
+        "Mercier, Patrick Philip"
+      ],
+      "start_time": "14:00",
+      "end_time": "15:00"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925077",
+      "type": "LA",
+      "section": "A51",
+      "days": "Tu",
+      "time": "2:00p-3:00p",
+      "building": "EBU1",
+      "room": "4307",
+      "instructor": "Mercier, Patrick Philip",
+      "instructors": [
+        "Mercier, Patrick Philip"
+      ],
+      "start_time": "14:00",
+      "end_time": "15:00"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925078",
+      "type": "LA",
+      "section": "A52",
+      "days": "W",
+      "time": "4:00p-5:00p",
+      "building": "EBU1",
+      "room": "4307",
+      "instructor": "Mercier, Patrick Philip",
+      "instructors": [
+        "Mercier, Patrick Philip"
+      ],
+      "start_time": "16:00",
+      "end_time": "17:00"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930034",
+      "type": "LA",
+      "section": "A53",
+      "days": "F",
+      "time": "3:00p-4:00p",
+      "building": "EBU1",
+      "room": "4307",
+      "instructor": "Mercier, Patrick Philip",
+      "instructors": [
+        "Mercier, Patrick Philip"
+      ],
+      "start_time": "15:00",
+      "end_time": "16:00"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "1:00p-1:50p",
+        "building": "CSB",
+        "room": "002",
+        "instructor": "Mercier, Patrick Philip",
+        "instructors": [
+          "Mercier, Patrick Philip"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925076",
+        "type": "LA",
+        "section": "A50",
+        "days": "M",
+        "time": "2:00p-3:00p",
+        "building": "EBU1",
+        "room": "4307",
+        "instructor": "Mercier, Patrick Philip",
+        "instructors": [
+          "Mercier, Patrick Philip"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:00"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "CENTR",
+        "room": "216",
+        "instructor": "Mercier, Patrick Philip",
+        "instructors": [
+          "Mercier, Patrick Philip"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925077",
+        "type": "LA",
+        "section": "A51",
+        "days": "Tu",
+        "time": "2:00p-3:00p",
+        "building": "EBU1",
+        "room": "4307",
+        "instructor": "Mercier, Patrick Philip",
+        "instructors": [
+          "Mercier, Patrick Philip"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:00"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "925078",
+        "type": "LA",
+        "section": "A52",
+        "days": "W",
+        "time": "4:00p-5:00p",
+        "building": "EBU1",
+        "room": "4307",
+        "instructor": "Mercier, Patrick Philip",
+        "instructors": [
+          "Mercier, Patrick Philip"
+        ],
+        "start_time": "16:00",
+        "end_time": "17:00"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "CENTR",
+        "room": "216",
+        "instructor": "Mercier, Patrick Philip",
+        "instructors": [
+          "Mercier, Patrick Philip"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "930034",
+        "type": "LA",
+        "section": "A53",
+        "days": "F",
+        "time": "3:00p-4:00p",
+        "building": "EBU1",
+        "room": "4307",
+        "instructor": "Mercier, Patrick Philip",
+        "instructors": [
+          "Mercier, Patrick Philip"
+        ],
+        "start_time": "15:00",
+        "end_time": "16:00"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

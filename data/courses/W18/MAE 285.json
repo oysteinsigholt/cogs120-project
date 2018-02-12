@@ -1,0 +1,84 @@
+{
+  "code": "MAE 285",
+  "name": "Micro/Nanoacoustofluidic Dvcs",
+  "department": "MAE",
+  "id": "285",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930087",
+      "type": "LE",
+      "section": "A00",
+      "days": "M",
+      "time": "9:00a-11:50a",
+      "building": "EBU2",
+      "room": "105",
+      "instructor": "Friend, James Robert",
+      "instructors": [
+        "Friend, James Robert"
+      ],
+      "start_time": "9:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "930087",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "9:00a-11:50a",
+        "building": "EBU2",
+        "room": "105",
+        "instructor": "Friend, James Robert",
+        "instructors": [
+          "Friend, James Robert"
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

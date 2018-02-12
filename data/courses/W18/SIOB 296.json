@@ -1,0 +1,86 @@
+{
+  "code": "SIOB 296",
+  "name": "Special Topics/Ocean Bio",
+  "department": "SIOB",
+  "id": "296",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921967",
+      "type": "SE",
+      "section": "C00",
+      "days": "Tu",
+      "time": "2:00p-5:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Archer, Frederick Ivan",
+      "instructors": [
+        "Archer, Frederick Ivan"
+      ],
+      "start_time": "14:00",
+      "end_time": "17:00"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [
+    "Students should register for S/U only.Class will\n be held in Sea Cave, First floor ofthe Eckart\n Building."
+  ],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "921967",
+        "type": "SE",
+        "section": "C00",
+        "days": "Tu",
+        "time": "2:00p-5:00p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Archer, Frederick Ivan",
+        "instructors": [
+          "Archer, Frederick Ivan"
+        ],
+        "start_time": "14:00",
+        "end_time": "17:00"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "code": "TMC 20",
+  "name": "Thurgood Marshall Col Hnrs Sem",
+  "department": "TMC",
+  "id": "20",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "933052",
+      "type": "SE",
+      "section": "C00",
+      "days": "Tu",
+      "time": "7:00p-7:50p",
+      "building": "TMCA",
+      "room": "127",
+      "instructor": "Hunefeldt, Christine",
+      "instructors": [
+        "Hunefeldt, Christine"
+      ],
+      "start_time": "19:00",
+      "end_time": "19:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "933052",
+        "type": "SE",
+        "section": "C00",
+        "days": "Tu",
+        "time": "7:00p-7:50p",
+        "building": "TMCA",
+        "room": "127",
+        "instructor": "Hunefeldt, Christine",
+        "instructors": [
+          "Hunefeldt, Christine"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

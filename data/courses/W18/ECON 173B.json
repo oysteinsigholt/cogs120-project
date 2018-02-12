@@ -1,0 +1,165 @@
+{
+  "code": "ECON 173B",
+  "name": "Corporate Finance",
+  "department": "ECON",
+  "id": "173B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "2:00p-3:20p",
+      "building": "CENTR",
+      "room": "212",
+      "instructor": "Ramey, Garey",
+      "instructors": [
+        "Ramey, Garey"
+      ],
+      "start_time": "14:00",
+      "end_time": "15:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924119",
+      "type": "DI",
+      "section": "A01",
+      "days": "Th",
+      "time": "8:00p-8:50p",
+      "building": "WLH",
+      "room": "2204",
+      "instructor": "Ramey, Garey",
+      "instructors": [
+        "Ramey, Garey"
+      ],
+      "start_time": "20:00",
+      "end_time": "20:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924120",
+      "type": "DI",
+      "section": "A02",
+      "days": "Th",
+      "time": "9:00p-9:50p",
+      "building": "WLH",
+      "room": "2204",
+      "instructor": "Ramey, Garey",
+      "instructors": [
+        "Ramey, Garey"
+      ],
+      "start_time": "21:00",
+      "end_time": "21:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "212",
+        "instructor": "Ramey, Garey",
+        "instructors": [
+          "Ramey, Garey"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "212",
+        "instructor": "Ramey, Garey",
+        "instructors": [
+          "Ramey, Garey"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924119",
+        "type": "DI",
+        "section": "A01",
+        "days": "Th",
+        "time": "8:00p-8:50p",
+        "building": "WLH",
+        "room": "2204",
+        "instructor": "Ramey, Garey",
+        "instructors": [
+          "Ramey, Garey"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924120",
+        "type": "DI",
+        "section": "A02",
+        "days": "Th",
+        "time": "9:00p-9:50p",
+        "building": "WLH",
+        "room": "2204",
+        "instructor": "Ramey, Garey",
+        "instructors": [
+          "Ramey, Garey"
+        ],
+        "start_time": "21:00",
+        "end_time": "21:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "code": "CHIN 20BD",
+  "name": "Second Yr Chinese-Dialect SpII",
+  "department": "CHIN",
+  "id": "20BD",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "2:00p-3:20p",
+      "building": "CENTR",
+      "room": "207",
+      "instructor": "Wang, Xiao",
+      "instructors": [
+        "Wang, Xiao"
+      ],
+      "start_time": "14:00",
+      "end_time": "15:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920642",
+      "type": "TU",
+      "section": "A01",
+      "days": "MW",
+      "time": "10:00a-10:50a",
+      "building": "CENTR",
+      "room": "202",
+      "instructor": "Wang, Xiao",
+      "instructors": [
+        "Wang, Xiao"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920643",
+      "type": "TU",
+      "section": "A02",
+      "days": "MW",
+      "time": "11:00a-11:50a",
+      "building": "CENTR",
+      "room": "224A",
+      "instructor": "Wang, Xiao",
+      "instructors": [
+        "Wang, Xiao"
+      ],
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920644",
+      "type": "TU",
+      "section": "A03",
+      "days": "MW",
+      "time": "2:00p-2:50p",
+      "building": "MCGIL",
+      "room": "2342",
+      "instructor": "Wang, Xiao",
+      "instructors": [
+        "Wang, Xiao"
+      ],
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "920642",
+        "type": "TU",
+        "section": "A01",
+        "days": "MW",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "202",
+        "instructor": "Wang, Xiao",
+        "instructors": [
+          "Wang, Xiao"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920643",
+        "type": "TU",
+        "section": "A02",
+        "days": "MW",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "224A",
+        "instructor": "Wang, Xiao",
+        "instructors": [
+          "Wang, Xiao"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920644",
+        "type": "TU",
+        "section": "A03",
+        "days": "MW",
+        "time": "2:00p-2:50p",
+        "building": "MCGIL",
+        "room": "2342",
+        "instructor": "Wang, Xiao",
+        "instructors": [
+          "Wang, Xiao"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "207",
+        "instructor": "Wang, Xiao",
+        "instructors": [
+          "Wang, Xiao"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "920642",
+        "type": "TU",
+        "section": "A01",
+        "days": "MW",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "202",
+        "instructor": "Wang, Xiao",
+        "instructors": [
+          "Wang, Xiao"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920643",
+        "type": "TU",
+        "section": "A02",
+        "days": "MW",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "224A",
+        "instructor": "Wang, Xiao",
+        "instructors": [
+          "Wang, Xiao"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920644",
+        "type": "TU",
+        "section": "A03",
+        "days": "MW",
+        "time": "2:00p-2:50p",
+        "building": "MCGIL",
+        "room": "2342",
+        "instructor": "Wang, Xiao",
+        "instructors": [
+          "Wang, Xiao"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "207",
+        "instructor": "Wang, Xiao",
+        "instructors": [
+          "Wang, Xiao"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

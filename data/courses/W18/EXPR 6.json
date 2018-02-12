@@ -1,0 +1,49 @@
+{
+  "code": "EXPR 6",
+  "name": "New Mexico Exchange Program",
+  "department": "EXPR",
+  "id": "6",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920574",
+      "type": "IN",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Staff",
+      "instructors": [
+        "Staff"
+      ]
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "920574",
+      "type": "IN",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Staff",
+      "instructors": [
+        "Staff"
+      ]
+    }
+  ],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

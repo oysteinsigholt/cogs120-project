@@ -1,0 +1,84 @@
+{
+  "code": "USP 141A",
+  "name": "Life Course Scholars Research",
+  "department": "USP",
+  "id": "141A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "922173",
+      "type": "LE",
+      "section": "A00",
+      "days": "W",
+      "time": "9:00a-11:50a",
+      "building": "SSB",
+      "room": "102",
+      "instructor": "Bussell, Mirle Rabinowitz",
+      "instructors": [
+        "Bussell, Mirle Rabinowitz"
+      ],
+      "start_time": "9:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "922173",
+        "type": "LE",
+        "section": "A00",
+        "days": "W",
+        "time": "9:00a-11:50a",
+        "building": "SSB",
+        "room": "102",
+        "instructor": "Bussell, Mirle Rabinowitz",
+        "instructors": [
+          "Bussell, Mirle Rabinowitz"
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

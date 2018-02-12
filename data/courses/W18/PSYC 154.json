@@ -1,0 +1,84 @@
+{
+  "code": "PSYC 154",
+  "name": "Behavior Modification",
+  "department": "PSYC",
+  "id": "154",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "924631",
+      "type": "LE",
+      "section": "A00",
+      "days": "W",
+      "time": "6:00p-8:50p",
+      "building": "CENTR",
+      "room": "115",
+      "instructor": "Winward, Jennifer Laven",
+      "instructors": [
+        "Winward, Jennifer Laven"
+      ],
+      "start_time": "18:00",
+      "end_time": "20:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "924631",
+        "type": "LE",
+        "section": "A00",
+        "days": "W",
+        "time": "6:00p-8:50p",
+        "building": "CENTR",
+        "room": "115",
+        "instructor": "Winward, Jennifer Laven",
+        "instructors": [
+          "Winward, Jennifer Laven"
+        ],
+        "start_time": "18:00",
+        "end_time": "20:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

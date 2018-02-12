@@ -1,0 +1,150 @@
+{
+  "code": "MATH 190",
+  "name": "Introduction to Topology",
+  "department": "MATH",
+  "id": "190",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "11:00a-11:50a",
+      "building": "CENTR",
+      "room": "222",
+      "instructor": "Rhoades, Brendon Patrick",
+      "instructors": [
+        "Rhoades, Brendon Patrick"
+      ],
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927266",
+      "type": "DI",
+      "section": "A01",
+      "days": "W",
+      "time": "7:00p-7:50p",
+      "building": "APM",
+      "room": "B412",
+      "instructor": "Rhoades, Brendon Patrick",
+      "instructors": [
+        "Rhoades, Brendon Patrick"
+      ],
+      "start_time": "19:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "222",
+        "instructor": "Rhoades, Brendon Patrick",
+        "instructors": [
+          "Rhoades, Brendon Patrick"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "222",
+        "instructor": "Rhoades, Brendon Patrick",
+        "instructors": [
+          "Rhoades, Brendon Patrick"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "927266",
+        "type": "DI",
+        "section": "A01",
+        "days": "W",
+        "time": "7:00p-7:50p",
+        "building": "APM",
+        "room": "B412",
+        "instructor": "Rhoades, Brendon Patrick",
+        "instructors": [
+          "Rhoades, Brendon Patrick"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "222",
+        "instructor": "Rhoades, Brendon Patrick",
+        "instructors": [
+          "Rhoades, Brendon Patrick"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

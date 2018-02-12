@@ -1,0 +1,53 @@
+{
+  "code": "BENG 187C",
+  "name": "BENG Design Proj:Implemntation",
+  "department": "BENG",
+  "id": "187C",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "923344",
+      "type": "LE",
+      "section": "A00",
+      "days": "W",
+      "time": "10:00a-10:50a",
+      "building": "CENTR",
+      "room": "113",
+      "instructor": "Wheeler, Bruce Christopher",
+      "instructors": [
+        "Wheeler, Bruce Christopher"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "923344",
+        "type": "LE",
+        "section": "A00",
+        "days": "W",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "113",
+        "instructor": "Wheeler, Bruce Christopher",
+        "instructors": [
+          "Wheeler, Bruce Christopher"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

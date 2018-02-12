@@ -1,0 +1,120 @@
+{
+  "code": "SIO 113",
+  "name": "Intro to Computationl Erth Sci",
+  "department": "SIO",
+  "id": "113",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "1:00p-1:50p",
+      "building": "ECKRT",
+      "room": "225",
+      "instructor": "Tauxe, Lisa",
+      "instructors": [
+        "Tauxe, Lisa"
+      ],
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "929160",
+      "type": "LA",
+      "section": "A01",
+      "days": "Tu",
+      "time": "10:00a-10:50a",
+      "building": "ECKRT",
+      "room": "225",
+      "instructor": "Tauxe, Lisa",
+      "instructors": [
+        "Tauxe, Lisa"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "ECKRT",
+        "room": "225",
+        "instructor": "Tauxe, Lisa",
+        "instructors": [
+          "Tauxe, Lisa"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "929160",
+        "type": "LA",
+        "section": "A01",
+        "days": "Tu",
+        "time": "10:00a-10:50a",
+        "building": "ECKRT",
+        "room": "225",
+        "instructor": "Tauxe, Lisa",
+        "instructors": [
+          "Tauxe, Lisa"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "ECKRT",
+        "room": "225",
+        "instructor": "Tauxe, Lisa",
+        "instructors": [
+          "Tauxe, Lisa"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "ECKRT",
+        "room": "225",
+        "instructor": "Tauxe, Lisa",
+        "instructors": [
+          "Tauxe, Lisa"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "code": "NANO 4",
+  "name": "Experience NanoEngineering",
+  "department": "NANO",
+  "id": "4",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "D00",
+      "days": "Th",
+      "time": "4:00p-4:50p",
+      "building": "SME",
+      "room": "302",
+      "instructor": "Xu, Sheng",
+      "instructors": [
+        "Xu, Sheng"
+      ],
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926730",
+      "type": "LA",
+      "section": "D01",
+      "days": "Th",
+      "time": "5:00p-6:50p",
+      "building": "SME",
+      "room": "302",
+      "instructor": "Xu, Sheng",
+      "instructors": [
+        "Xu, Sheng"
+      ],
+      "start_time": "17:00",
+      "end_time": "18:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "Th",
+        "time": "4:00p-4:50p",
+        "building": "SME",
+        "room": "302",
+        "instructor": "Xu, Sheng",
+        "instructors": [
+          "Xu, Sheng"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926730",
+        "type": "LA",
+        "section": "D01",
+        "days": "Th",
+        "time": "5:00p-6:50p",
+        "building": "SME",
+        "room": "302",
+        "instructor": "Xu, Sheng",
+        "instructors": [
+          "Xu, Sheng"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

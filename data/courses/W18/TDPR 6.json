@@ -1,0 +1,53 @@
+{
+  "code": "TDPR 6",
+  "name": "Theatre Practicum",
+  "department": "TDPR",
+  "id": "6",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920481",
+      "type": "PR",
+      "section": "A02",
+      "days": "F",
+      "time": "2:30p-4:20p",
+      "building": "MWEIS",
+      "room": "THEA",
+      "instructor": "Guirguis, Mark C",
+      "instructors": [
+        "Guirguis, Mark C"
+      ],
+      "start_time": "14:30",
+      "end_time": "16:20"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "920481",
+        "type": "PR",
+        "section": "A02",
+        "days": "F",
+        "time": "2:30p-4:20p",
+        "building": "MWEIS",
+        "room": "THEA",
+        "instructor": "Guirguis, Mark C",
+        "instructors": [
+          "Guirguis, Mark C"
+        ],
+        "start_time": "14:30",
+        "end_time": "16:20"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

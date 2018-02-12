@@ -1,0 +1,53 @@
+{
+  "code": "MUS 95G",
+  "name": "Gospel Choir",
+  "department": "MUS",
+  "id": "95G",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921926",
+      "type": "ST",
+      "section": "B00",
+      "days": "Th",
+      "time": "6:30p-9:20p",
+      "building": "WLH",
+      "room": "2001",
+      "instructor": "Anderson, Kenneth",
+      "instructors": [
+        "Anderson, Kenneth"
+      ],
+      "start_time": "18:30",
+      "end_time": "21:20"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "921926",
+        "type": "ST",
+        "section": "B00",
+        "days": "Th",
+        "time": "6:30p-9:20p",
+        "building": "WLH",
+        "room": "2001",
+        "instructor": "Anderson, Kenneth",
+        "instructors": [
+          "Anderson, Kenneth"
+        ],
+        "start_time": "18:30",
+        "end_time": "21:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

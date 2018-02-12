@@ -1,0 +1,194 @@
+{
+  "code": "BENG 140A",
+  "name": "Bioengineering Physiology",
+  "department": "BENG",
+  "id": "140A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "C00",
+      "days": "MW",
+      "time": "8:00a-9:20a",
+      "building": "PFBH",
+      "room": "161",
+      "instructor": "Sparks, Steven Ray",
+      "instructors": [
+        "Sparks, Steven Ray"
+      ],
+      "start_time": "8:00",
+      "end_time": "9:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "LE",
+      "section": "C00",
+      "days": "M",
+      "time": "2:00p-2:50p",
+      "building": "WLH",
+      "room": "2113",
+      "instructor": "",
+      "instructors": [],
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930571",
+      "type": "DI",
+      "section": "C01",
+      "days": "M",
+      "time": "4:00p-4:50p",
+      "building": "MCGIL",
+      "room": "2315",
+      "instructor": "Sparks, Steven Ray",
+      "instructors": [
+        "Sparks, Steven Ray"
+      ],
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930572",
+      "type": "DI",
+      "section": "C02",
+      "days": "F",
+      "time": "1:00p-1:50p",
+      "building": "SSB",
+      "room": "106",
+      "instructor": "Sparks, Steven Ray",
+      "instructors": [
+        "Sparks, Steven Ray"
+      ],
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MW",
+        "time": "8:00a-9:20a",
+        "building": "PFBH",
+        "room": "161",
+        "instructor": "Sparks, Steven Ray",
+        "instructors": [
+          "Sparks, Steven Ray"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      {
+        "sectxt": false,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "M",
+        "time": "2:00p-2:50p",
+        "building": "WLH",
+        "room": "2113",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "930571",
+        "type": "DI",
+        "section": "C01",
+        "days": "M",
+        "time": "4:00p-4:50p",
+        "building": "MCGIL",
+        "room": "2315",
+        "instructor": "Sparks, Steven Ray",
+        "instructors": [
+          "Sparks, Steven Ray"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MW",
+        "time": "8:00a-9:20a",
+        "building": "PFBH",
+        "room": "161",
+        "instructor": "Sparks, Steven Ray",
+        "instructors": [
+          "Sparks, Steven Ray"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "930572",
+        "type": "DI",
+        "section": "C02",
+        "days": "F",
+        "time": "1:00p-1:50p",
+        "building": "SSB",
+        "room": "106",
+        "instructor": "Sparks, Steven Ray",
+        "instructors": [
+          "Sparks, Steven Ray"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

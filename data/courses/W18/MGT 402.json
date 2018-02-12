@@ -1,0 +1,53 @@
+{
+  "code": "MGT 402",
+  "name": "Management Communications",
+  "department": "MGT",
+  "id": "402",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930380",
+      "type": "LE",
+      "section": "A00",
+      "days": "M",
+      "time": "6:30p-9:30p",
+      "building": "OTRSN",
+      "room": "3E109",
+      "instructor": "Salovey, Todd",
+      "instructors": [
+        "Salovey, Todd"
+      ],
+      "start_time": "18:30",
+      "end_time": "21:30"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "930380",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "6:30p-9:30p",
+        "building": "OTRSN",
+        "room": "3E109",
+        "instructor": "Salovey, Todd",
+        "instructors": [
+          "Salovey, Todd"
+        ],
+        "start_time": "18:30",
+        "end_time": "21:30"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "code": "BIMM 118",
+  "name": "Pharmacology",
+  "department": "BIMM",
+  "id": "118",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "8:00a-9:20a",
+      "building": "SOLIS",
+      "room": "104",
+      "instructor": "David, Michael",
+      "instructors": [
+        "David, Michael"
+      ],
+      "start_time": "8:00",
+      "end_time": "9:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926116",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "10:00a-10:50a",
+      "building": "HSS",
+      "room": "2150",
+      "instructor": "David, Michael",
+      "instructors": [
+        "David, Michael"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926117",
+      "type": "DI",
+      "section": "A02",
+      "days": "Tu",
+      "time": "1:00p-1:50p",
+      "building": "HSS",
+      "room": "1305",
+      "instructor": "David, Michael",
+      "instructors": [
+        "David, Michael"
+      ],
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926118",
+      "type": "DI",
+      "section": "A03",
+      "days": "W",
+      "time": "7:00p-7:50p",
+      "building": "HSS",
+      "room": "2154",
+      "instructor": "David, Michael",
+      "instructors": [
+        "David, Michael"
+      ],
+      "start_time": "19:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926119",
+      "type": "DI",
+      "section": "A04",
+      "days": "Th",
+      "time": "5:00p-5:50p",
+      "building": "CENTR",
+      "room": "220",
+      "instructor": "David, Michael",
+      "instructors": [
+        "David, Michael"
+      ],
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926120",
+      "type": "DI",
+      "section": "A05",
+      "days": "F",
+      "time": "8:00a-8:50a",
+      "building": "CENTR",
+      "room": "201",
+      "instructor": "David, Michael",
+      "instructors": [
+        "David, Michael"
+      ],
+      "start_time": "8:00",
+      "end_time": "8:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "926116",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "2150",
+        "instructor": "David, Michael",
+        "instructors": [
+          "David, Michael"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "SOLIS",
+        "room": "104",
+        "instructor": "David, Michael",
+        "instructors": [
+          "David, Michael"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926117",
+        "type": "DI",
+        "section": "A02",
+        "days": "Tu",
+        "time": "1:00p-1:50p",
+        "building": "HSS",
+        "room": "1305",
+        "instructor": "David, Michael",
+        "instructors": [
+          "David, Michael"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "926118",
+        "type": "DI",
+        "section": "A03",
+        "days": "W",
+        "time": "7:00p-7:50p",
+        "building": "HSS",
+        "room": "2154",
+        "instructor": "David, Michael",
+        "instructors": [
+          "David, Michael"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "SOLIS",
+        "room": "104",
+        "instructor": "David, Michael",
+        "instructors": [
+          "David, Michael"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926119",
+        "type": "DI",
+        "section": "A04",
+        "days": "Th",
+        "time": "5:00p-5:50p",
+        "building": "CENTR",
+        "room": "220",
+        "instructor": "David, Michael",
+        "instructors": [
+          "David, Michael"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "926120",
+        "type": "DI",
+        "section": "A05",
+        "days": "F",
+        "time": "8:00a-8:50a",
+        "building": "CENTR",
+        "room": "201",
+        "instructor": "David, Michael",
+        "instructors": [
+          "David, Michael"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

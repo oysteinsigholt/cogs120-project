@@ -1,0 +1,134 @@
+{
+  "code": "COGS 118D",
+  "name": "Stats/Behavioral Data Analysis",
+  "department": "COGS",
+  "id": "118D",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "2:00p-3:20p",
+      "building": "CSB",
+      "room": "003",
+      "instructor": "Yu, Angela J.",
+      "instructors": [
+        "Yu, Angela J."
+      ],
+      "start_time": "14:00",
+      "end_time": "15:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "929311",
+      "type": "DI",
+      "section": "A01",
+      "days": "F",
+      "time": "1:00p-1:50p",
+      "building": "CSB",
+      "room": "003",
+      "instructor": "Yu, Angela J.",
+      "instructors": [
+        "Yu, Angela J."
+      ],
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "CSB",
+        "room": "003",
+        "instructor": "Yu, Angela J.",
+        "instructors": [
+          "Yu, Angela J."
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "CSB",
+        "room": "003",
+        "instructor": "Yu, Angela J.",
+        "instructors": [
+          "Yu, Angela J."
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "929311",
+        "type": "DI",
+        "section": "A01",
+        "days": "F",
+        "time": "1:00p-1:50p",
+        "building": "CSB",
+        "room": "003",
+        "instructor": "Yu, Angela J.",
+        "instructors": [
+          "Yu, Angela J."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

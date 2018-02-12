@@ -1,0 +1,212 @@
+{
+  "code": "MATH 4C",
+  "name": "Pre-calculus for Sci & Engn",
+  "department": "MATH",
+  "id": "4C",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "2:00p-2:50p",
+      "building": "PETER",
+      "room": "102",
+      "instructor": "Ciotti, Benjamin",
+      "instructors": [
+        "Ciotti, Benjamin"
+      ],
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "Tu",
+      "time": "8:00p-8:50p",
+      "building": "WLH",
+      "room": "2111",
+      "instructor": "",
+      "instructors": [],
+      "start_time": "20:00",
+      "end_time": "20:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926784",
+      "type": "DI",
+      "section": "A01",
+      "days": "Th",
+      "time": "8:00p-8:50p",
+      "building": "HSS",
+      "room": "2150",
+      "instructor": "Ciotti, Benjamin",
+      "instructors": [
+        "Ciotti, Benjamin"
+      ],
+      "start_time": "20:00",
+      "end_time": "20:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926785",
+      "type": "DI",
+      "section": "A02",
+      "days": "Th",
+      "time": "9:00p-9:50p",
+      "building": "HSS",
+      "room": "2150",
+      "instructor": "Ciotti, Benjamin",
+      "instructors": [
+        "Ciotti, Benjamin"
+      ],
+      "start_time": "21:00",
+      "end_time": "21:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "PETER",
+        "room": "102",
+        "instructor": "Ciotti, Benjamin",
+        "instructors": [
+          "Ciotti, Benjamin"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": false,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "8:00p-8:50p",
+        "building": "WLH",
+        "room": "2111",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "PETER",
+        "room": "102",
+        "instructor": "Ciotti, Benjamin",
+        "instructors": [
+          "Ciotti, Benjamin"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "926784",
+        "type": "DI",
+        "section": "A01",
+        "days": "Th",
+        "time": "8:00p-8:50p",
+        "building": "HSS",
+        "room": "2150",
+        "instructor": "Ciotti, Benjamin",
+        "instructors": [
+          "Ciotti, Benjamin"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926785",
+        "type": "DI",
+        "section": "A02",
+        "days": "Th",
+        "time": "9:00p-9:50p",
+        "building": "HSS",
+        "room": "2150",
+        "instructor": "Ciotti, Benjamin",
+        "instructors": [
+          "Ciotti, Benjamin"
+        ],
+        "start_time": "21:00",
+        "end_time": "21:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "PETER",
+        "room": "102",
+        "instructor": "Ciotti, Benjamin",
+        "instructors": [
+          "Ciotti, Benjamin"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

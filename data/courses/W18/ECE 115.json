@@ -1,0 +1,86 @@
+{
+  "code": "ECE 115",
+  "name": "Fast Prototyping",
+  "department": "ECE",
+  "id": "115",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "Tu",
+      "time": "2:00p-4:50p",
+      "building": "EBU1",
+      "room": "B538",
+      "instructor": "Das, Nikhil Ranjan",
+      "instructors": [
+        "Das, Nikhil Ranjan"
+      ],
+      "start_time": "14:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925046",
+      "type": "LA",
+      "section": "A01",
+      "days": "Th",
+      "time": "2:00p-4:50p",
+      "building": "EBU1",
+      "room": "B538",
+      "instructor": "Das, Nikhil Ranjan",
+      "instructors": [
+        "Das, Nikhil Ranjan"
+      ],
+      "start_time": "14:00",
+      "end_time": "16:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "2:00p-4:50p",
+        "building": "EBU1",
+        "room": "B538",
+        "instructor": "Das, Nikhil Ranjan",
+        "instructors": [
+          "Das, Nikhil Ranjan"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "925046",
+        "type": "LA",
+        "section": "A01",
+        "days": "Th",
+        "time": "2:00p-4:50p",
+        "building": "EBU1",
+        "room": "B538",
+        "instructor": "Das, Nikhil Ranjan",
+        "instructors": [
+          "Das, Nikhil Ranjan"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

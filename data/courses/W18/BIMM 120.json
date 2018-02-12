@@ -1,0 +1,85 @@
+{
+  "code": "BIMM 120",
+  "name": "Microbiology",
+  "department": "BIMM",
+  "id": "120",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "926132",
+      "type": "DI",
+      "section": "A11",
+      "days": "F",
+      "time": "5:00p-5:50p",
+      "building": "CENTR",
+      "room": "218",
+      "instructor": "Allen, Eric",
+      "instructors": [
+        "Allen, Eric"
+      ],
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "931804",
+      "type": "DI",
+      "section": "A12",
+      "days": "F",
+      "time": "9:00a-9:50a",
+      "building": "CENTR",
+      "room": "218",
+      "instructor": "Allen, Eric",
+      "instructors": [
+        "Allen, Eric"
+      ],
+      "start_time": "9:00",
+      "end_time": "9:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "926132",
+        "type": "DI",
+        "section": "A11",
+        "days": "F",
+        "time": "5:00p-5:50p",
+        "building": "CENTR",
+        "room": "218",
+        "instructor": "Allen, Eric",
+        "instructors": [
+          "Allen, Eric"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "931804",
+        "type": "DI",
+        "section": "A12",
+        "days": "F",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "218",
+        "instructor": "Allen, Eric",
+        "instructors": [
+          "Allen, Eric"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "code": "LTGM 2B",
+  "name": "Intermediate German II",
+  "department": "LTGM",
+  "id": "2B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "9:00a-9:50a",
+      "building": "CENTR",
+      "room": "205",
+      "instructor": "Fischer-Grunski, Eva K",
+      "instructors": [
+        "Fischer-Grunski, Eva K"
+      ],
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920101",
+      "type": "DI",
+      "section": "A01",
+      "days": "Th",
+      "time": "8:30a-9:20a",
+      "building": "LIT",
+      "room": "455",
+      "instructor": "Fischer-Grunski, Eva K",
+      "instructors": [
+        "Fischer-Grunski, Eva K"
+      ],
+      "start_time": "8:30",
+      "end_time": "9:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "205",
+        "instructor": "Fischer-Grunski, Eva K",
+        "instructors": [
+          "Fischer-Grunski, Eva K"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "205",
+        "instructor": "Fischer-Grunski, Eva K",
+        "instructors": [
+          "Fischer-Grunski, Eva K"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "920101",
+        "type": "DI",
+        "section": "A01",
+        "days": "Th",
+        "time": "8:30a-9:20a",
+        "building": "LIT",
+        "room": "455",
+        "instructor": "Fischer-Grunski, Eva K",
+        "instructors": [
+          "Fischer-Grunski, Eva K"
+        ],
+        "start_time": "8:30",
+        "end_time": "9:20"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "205",
+        "instructor": "Fischer-Grunski, Eva K",
+        "instructors": [
+          "Fischer-Grunski, Eva K"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "code": "WES 268B",
+  "name": "Digtl Comm Sys II",
+  "department": "WES",
+  "id": "268B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "F",
+      "time": "9:00a-4:30p",
+      "building": "EBU3B",
+      "room": "4140",
+      "instructor": "Papen, George C.",
+      "instructors": [
+        "Papen, George C."
+      ],
+      "start_time": "9:00",
+      "end_time": "16:30"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "919438",
+      "type": "LA",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Papen, George C.",
+      "instructors": [
+        "Papen, George C."
+      ]
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "919438",
+      "type": "LA",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Papen, George C.",
+      "instructors": [
+        "Papen, George C."
+      ]
+    }
+  ],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "F",
+        "time": "9:00a-4:30p",
+        "building": "EBU3B",
+        "room": "4140",
+        "instructor": "Papen, George C.",
+        "instructors": [
+          "Papen, George C."
+        ],
+        "start_time": "9:00",
+        "end_time": "16:30"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

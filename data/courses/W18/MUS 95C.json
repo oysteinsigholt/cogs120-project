@@ -1,0 +1,70 @@
+{
+  "code": "MUS 95C",
+  "name": "Concert Choir",
+  "department": "MUS",
+  "id": "95C",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921922",
+      "type": "ST",
+      "section": "B00",
+      "days": "TuTh",
+      "time": "3:30p-4:50p",
+      "building": "CPMC",
+      "room": "265",
+      "instructor": "Larson, Philip Clarion",
+      "instructors": [
+        "Larson, Philip Clarion"
+      ],
+      "start_time": "15:30",
+      "end_time": "16:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "921922",
+        "type": "ST",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "CPMC",
+        "room": "265",
+        "instructor": "Larson, Philip Clarion",
+        "instructors": [
+          "Larson, Philip Clarion"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "921922",
+        "type": "ST",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "CPMC",
+        "room": "265",
+        "instructor": "Larson, Philip Clarion",
+        "instructors": [
+          "Larson, Philip Clarion"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

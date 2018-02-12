@@ -1,0 +1,496 @@
+{
+  "code": "BIBC 102",
+  "name": "Metabolic Biochemistry",
+  "department": "BIBC",
+  "id": "102",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "MWF",
+      "time": "4:00p-4:50p",
+      "building": "SOLIS",
+      "room": "107",
+      "instructor": "Zhao, Yunde",
+      "instructors": [
+        "Zhao, Yunde"
+      ],
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925824",
+      "type": "DI",
+      "section": "B01",
+      "days": "M",
+      "time": "8:00a-8:50a",
+      "building": "CENTR",
+      "room": "203",
+      "instructor": "Zhao, Yunde",
+      "instructors": [
+        "Zhao, Yunde"
+      ],
+      "start_time": "8:00",
+      "end_time": "8:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925825",
+      "type": "DI",
+      "section": "B02",
+      "days": "M",
+      "time": "3:00p-3:50p",
+      "building": "HSS",
+      "room": "1315",
+      "instructor": "Zhao, Yunde",
+      "instructors": [
+        "Zhao, Yunde"
+      ],
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925826",
+      "type": "DI",
+      "section": "B03",
+      "days": "M",
+      "time": "7:00p-7:50p",
+      "building": "YORK",
+      "room": "3000A",
+      "instructor": "Zhao, Yunde",
+      "instructors": [
+        "Zhao, Yunde"
+      ],
+      "start_time": "19:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925827",
+      "type": "DI",
+      "section": "B04",
+      "days": "M",
+      "time": "8:00p-8:50p",
+      "building": "YORK",
+      "room": "3000A",
+      "instructor": "Zhao, Yunde",
+      "instructors": [
+        "Zhao, Yunde"
+      ],
+      "start_time": "20:00",
+      "end_time": "20:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925828",
+      "type": "DI",
+      "section": "B05",
+      "days": "W",
+      "time": "10:00a-10:50a",
+      "building": "APM",
+      "room": "2301",
+      "instructor": "Zhao, Yunde",
+      "instructors": [
+        "Zhao, Yunde"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925829",
+      "type": "DI",
+      "section": "B06",
+      "days": "W",
+      "time": "5:00p-5:50p",
+      "building": "CENTR",
+      "room": "217A",
+      "instructor": "Zhao, Yunde",
+      "instructors": [
+        "Zhao, Yunde"
+      ],
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925830",
+      "type": "DI",
+      "section": "B07",
+      "days": "W",
+      "time": "6:00p-6:50p",
+      "building": "CENTR",
+      "room": "217A",
+      "instructor": "Zhao, Yunde",
+      "instructors": [
+        "Zhao, Yunde"
+      ],
+      "start_time": "18:00",
+      "end_time": "18:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925831",
+      "type": "DI",
+      "section": "B08",
+      "days": "F",
+      "time": "8:00a-8:50a",
+      "building": "HSS",
+      "room": "1315",
+      "instructor": "Zhao, Yunde",
+      "instructors": [
+        "Zhao, Yunde"
+      ],
+      "start_time": "8:00",
+      "end_time": "8:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925832",
+      "type": "DI",
+      "section": "B09",
+      "days": "F",
+      "time": "3:00p-3:50p",
+      "building": "HSS",
+      "room": "2154",
+      "instructor": "Zhao, Yunde",
+      "instructors": [
+        "Zhao, Yunde"
+      ],
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "01/26/2018",
+      "days": "F",
+      "time": "6:00p-7:50p",
+      "building": "CENTR",
+      "room": "101",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-01-26T08:00:00.000Z",
+      "start_time": "18:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/23/2018",
+      "days": "F",
+      "time": "6:00p-7:50p",
+      "building": "CENTR",
+      "room": "101",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-02-23T08:00:00.000Z",
+      "start_time": "18:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "03/16/2018",
+      "days": "F",
+      "time": "6:00p-7:50p",
+      "building": "CENTR",
+      "room": "101",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-16T07:00:00.000Z",
+      "start_time": "18:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "01/26/2018",
+      "days": "F",
+      "time": "6:00p-7:50p",
+      "building": "CENTR",
+      "room": "101",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-01-26T08:00:00.000Z",
+      "start_time": "18:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/23/2018",
+      "days": "F",
+      "time": "6:00p-7:50p",
+      "building": "CENTR",
+      "room": "101",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-02-23T08:00:00.000Z",
+      "start_time": "18:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "03/16/2018",
+      "days": "F",
+      "time": "6:00p-7:50p",
+      "building": "CENTR",
+      "room": "101",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-16T07:00:00.000Z",
+      "start_time": "18:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "SOLIS",
+        "room": "107",
+        "instructor": "Zhao, Yunde",
+        "instructors": [
+          "Zhao, Yunde"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925824",
+        "type": "DI",
+        "section": "B01",
+        "days": "M",
+        "time": "8:00a-8:50a",
+        "building": "CENTR",
+        "room": "203",
+        "instructor": "Zhao, Yunde",
+        "instructors": [
+          "Zhao, Yunde"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925825",
+        "type": "DI",
+        "section": "B02",
+        "days": "M",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "1315",
+        "instructor": "Zhao, Yunde",
+        "instructors": [
+          "Zhao, Yunde"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925826",
+        "type": "DI",
+        "section": "B03",
+        "days": "M",
+        "time": "7:00p-7:50p",
+        "building": "YORK",
+        "room": "3000A",
+        "instructor": "Zhao, Yunde",
+        "instructors": [
+          "Zhao, Yunde"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925827",
+        "type": "DI",
+        "section": "B04",
+        "days": "M",
+        "time": "8:00p-8:50p",
+        "building": "YORK",
+        "room": "3000A",
+        "instructor": "Zhao, Yunde",
+        "instructors": [
+          "Zhao, Yunde"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "SOLIS",
+        "room": "107",
+        "instructor": "Zhao, Yunde",
+        "instructors": [
+          "Zhao, Yunde"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925828",
+        "type": "DI",
+        "section": "B05",
+        "days": "W",
+        "time": "10:00a-10:50a",
+        "building": "APM",
+        "room": "2301",
+        "instructor": "Zhao, Yunde",
+        "instructors": [
+          "Zhao, Yunde"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925829",
+        "type": "DI",
+        "section": "B06",
+        "days": "W",
+        "time": "5:00p-5:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructor": "Zhao, Yunde",
+        "instructors": [
+          "Zhao, Yunde"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925830",
+        "type": "DI",
+        "section": "B07",
+        "days": "W",
+        "time": "6:00p-6:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructor": "Zhao, Yunde",
+        "instructors": [
+          "Zhao, Yunde"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "SOLIS",
+        "room": "107",
+        "instructor": "Zhao, Yunde",
+        "instructors": [
+          "Zhao, Yunde"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925831",
+        "type": "DI",
+        "section": "B08",
+        "days": "F",
+        "time": "8:00a-8:50a",
+        "building": "HSS",
+        "room": "1315",
+        "instructor": "Zhao, Yunde",
+        "instructors": [
+          "Zhao, Yunde"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925832",
+        "type": "DI",
+        "section": "B09",
+        "days": "F",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "2154",
+        "instructor": "Zhao, Yunde",
+        "instructors": [
+          "Zhao, Yunde"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

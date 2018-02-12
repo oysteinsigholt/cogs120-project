@@ -1,0 +1,89 @@
+{
+  "code": "ESYS 102",
+  "name": "The Solid and Fluid Earth",
+  "department": "ESYS",
+  "id": "102",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921687",
+      "type": "DI",
+      "section": "A03",
+      "days": "W",
+      "time": "2:00p-2:50p",
+      "building": "YORK",
+      "room": "3000A",
+      "instructor": "Russell, Lynn M. & Minster, Jean Bernard H.",
+      "instructors": [
+        "Russell, Lynn M.",
+        "Minster, Jean Bernard H."
+      ],
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921688",
+      "type": "DI",
+      "section": "A04",
+      "days": "W",
+      "time": "3:00p-3:50p",
+      "building": "YORK",
+      "room": "3000A",
+      "instructor": "Russell, Lynn M. & Minster, Jean Bernard H.",
+      "instructors": [
+        "Russell, Lynn M.",
+        "Minster, Jean Bernard H."
+      ],
+      "start_time": "15:00",
+      "end_time": "15:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "921687",
+        "type": "DI",
+        "section": "A03",
+        "days": "W",
+        "time": "2:00p-2:50p",
+        "building": "YORK",
+        "room": "3000A",
+        "instructor": "Russell, Lynn M. & Minster, Jean Bernard H.",
+        "instructors": [
+          "Russell, Lynn M.",
+          "Minster, Jean Bernard H."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "921688",
+        "type": "DI",
+        "section": "A04",
+        "days": "W",
+        "time": "3:00p-3:50p",
+        "building": "YORK",
+        "room": "3000A",
+        "instructor": "Russell, Lynn M. & Minster, Jean Bernard H.",
+        "instructors": [
+          "Russell, Lynn M.",
+          "Minster, Jean Bernard H."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

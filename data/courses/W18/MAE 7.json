@@ -1,0 +1,85 @@
+{
+  "code": "MAE 7",
+  "name": "Spatial Visualization",
+  "department": "MAE",
+  "id": "7",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "W",
+      "time": "9:00a-9:50a",
+      "building": "SME",
+      "room": "306",
+      "instructor": "Delson, Nathan Joseph",
+      "instructors": [
+        "Delson, Nathan Joseph"
+      ],
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930700",
+      "type": "LA",
+      "section": "B01",
+      "days": "W",
+      "time": "10:00a-11:50a",
+      "building": "SME",
+      "room": "306",
+      "instructor": "Delson, Nathan Joseph",
+      "instructors": [
+        "Delson, Nathan Joseph"
+      ],
+      "start_time": "10:00",
+      "end_time": "11:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "W",
+        "time": "9:00a-9:50a",
+        "building": "SME",
+        "room": "306",
+        "instructor": "Delson, Nathan Joseph",
+        "instructors": [
+          "Delson, Nathan Joseph"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "930700",
+        "type": "LA",
+        "section": "B01",
+        "days": "W",
+        "time": "10:00a-11:50a",
+        "building": "SME",
+        "room": "306",
+        "instructor": "Delson, Nathan Joseph",
+        "instructors": [
+          "Delson, Nathan Joseph"
+        ],
+        "start_time": "10:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

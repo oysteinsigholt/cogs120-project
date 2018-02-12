@@ -1,0 +1,146 @@
+{
+  "code": "MAE 142",
+  "name": "Dynmcs&Control/Aerospace Vehic",
+  "department": "MAE",
+  "id": "142",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "922836",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "4:00p-4:50p",
+      "building": "CSB",
+      "room": "001",
+      "instructor": "Anderson, Mark Ronald",
+      "instructors": [
+        "Anderson, Mark Ronald"
+      ],
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "M",
+      "time": "7:00p-7:50p",
+      "building": "CSB",
+      "room": "002",
+      "instructor": "",
+      "instructors": [],
+      "start_time": "19:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "922836",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "CSB",
+        "room": "001",
+        "instructor": "Anderson, Mark Ronald",
+        "instructors": [
+          "Anderson, Mark Ronald"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": false,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "7:00p-7:50p",
+        "building": "CSB",
+        "room": "002",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "922836",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "CSB",
+        "room": "001",
+        "instructor": "Anderson, Mark Ronald",
+        "instructors": [
+          "Anderson, Mark Ronald"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "922836",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "CSB",
+        "room": "001",
+        "instructor": "Anderson, Mark Ronald",
+        "instructors": [
+          "Anderson, Mark Ronald"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

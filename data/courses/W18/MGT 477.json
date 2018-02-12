@@ -1,0 +1,98 @@
+{
+  "code": "MGT 477",
+  "name": "Consumer Behavior",
+  "department": "MGT",
+  "id": "477",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930366",
+      "type": "LE",
+      "section": "B00",
+      "days": "F",
+      "time": "2:30p-5:30p",
+      "building": "OTRSN",
+      "room": "1E106",
+      "instructor": "Liu, Wei",
+      "instructors": [
+        "Liu, Wei"
+      ],
+      "start_time": "14:30",
+      "end_time": "17:30"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "S",
+      "time": "8:00a-10:00a",
+      "building": "OTRSN",
+      "room": "1E106",
+      "instructor": "",
+      "instructors": [],
+      "start_time": "8:00",
+      "end_time": "10:00"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/24/2018",
+      "days": "S",
+      "time": "2:30p-5:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-24T07:00:00.000Z",
+      "start_time": "14:30",
+      "end_time": "17:30"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/24/2018",
+      "days": "S",
+      "time": "2:30p-5:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-24T07:00:00.000Z",
+      "start_time": "14:30",
+      "end_time": "17:30"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "930366",
+        "type": "LE",
+        "section": "B00",
+        "days": "F",
+        "time": "2:30p-5:30p",
+        "building": "OTRSN",
+        "room": "1E106",
+        "instructor": "Liu, Wei",
+        "instructors": [
+          "Liu, Wei"
+        ],
+        "start_time": "14:30",
+        "end_time": "17:30"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

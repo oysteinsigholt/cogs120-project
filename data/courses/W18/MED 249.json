@@ -1,0 +1,55 @@
+{
+  "code": "MED 249",
+  "name": "Understd Applic Meditation-Med",
+  "department": "MED",
+  "id": "249",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930450",
+      "type": "LE",
+      "section": "A00",
+      "days": "Tu",
+      "time": "5:00p-6:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Lee, Daniel & Sitapati, Amy",
+      "instructors": [
+        "Lee, Daniel",
+        "Sitapati, Amy"
+      ],
+      "start_time": "17:00",
+      "end_time": "18:30"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "930450",
+        "type": "LE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "5:00p-6:30p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Lee, Daniel & Sitapati, Amy",
+        "instructors": [
+          "Lee, Daniel",
+          "Sitapati, Amy"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:30"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

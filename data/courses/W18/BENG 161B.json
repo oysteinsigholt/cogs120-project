@@ -1,0 +1,187 @@
+{
+  "code": "BENG 161B",
+  "name": "Biochemical Engineering",
+  "department": "BENG",
+  "id": "161B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930634",
+      "type": "LE",
+      "section": "B00",
+      "days": "TuTh",
+      "time": "3:30p-4:50p",
+      "building": "MANDE",
+      "room": "B-104",
+      "instructor": "Lewis, Nathan E",
+      "instructors": [
+        "Lewis, Nathan E"
+      ],
+      "start_time": "15:30",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "F",
+      "time": "2:00p-2:50p",
+      "building": "SOLIS",
+      "room": "110",
+      "instructor": "",
+      "instructors": [],
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "B01",
+      "days": "M",
+      "time": "4:00p-4:50p",
+      "building": "MANDE",
+      "room": "B-152",
+      "instructor": "",
+      "instructors": [],
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "B02",
+      "days": "F",
+      "time": "9:00a-9:50a",
+      "building": "MANDE",
+      "room": "B-152",
+      "instructor": "",
+      "instructors": [],
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "B01",
+        "days": "M",
+        "time": "4:00p-4:50p",
+        "building": "MANDE",
+        "room": "B-152",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "930634",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "MANDE",
+        "room": "B-104",
+        "instructor": "Lewis, Nathan E",
+        "instructors": [
+          "Lewis, Nathan E"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "930634",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "MANDE",
+        "room": "B-104",
+        "instructor": "Lewis, Nathan E",
+        "instructors": [
+          "Lewis, Nathan E"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": false,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "F",
+        "time": "2:00p-2:50p",
+        "building": "SOLIS",
+        "room": "110",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "B02",
+        "days": "F",
+        "time": "9:00a-9:50a",
+        "building": "MANDE",
+        "room": "B-152",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

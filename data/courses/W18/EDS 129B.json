@@ -1,0 +1,85 @@
+{
+  "code": "EDS 129B",
+  "name": "Intro/Teach&Learn (Secondary)",
+  "department": "EDS",
+  "id": "129B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "SE",
+      "section": "A00",
+      "days": "M",
+      "time": "5:00p-6:50p",
+      "building": "CENTR",
+      "room": "222",
+      "instructor": "Black, Alison Michelle",
+      "instructors": [
+        "Black, Alison Michelle"
+      ],
+      "start_time": "17:00",
+      "end_time": "18:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922486",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "7:00p-7:50p",
+      "building": "CENTR",
+      "room": "222",
+      "instructor": "Black, Alison Michelle",
+      "instructors": [
+        "Black, Alison Michelle"
+      ],
+      "start_time": "19:00",
+      "end_time": "19:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "SE",
+        "section": "A00",
+        "days": "M",
+        "time": "5:00p-6:50p",
+        "building": "CENTR",
+        "room": "222",
+        "instructor": "Black, Alison Michelle",
+        "instructors": [
+          "Black, Alison Michelle"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "922486",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "7:00p-7:50p",
+        "building": "CENTR",
+        "room": "222",
+        "instructor": "Black, Alison Michelle",
+        "instructors": [
+          "Black, Alison Michelle"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

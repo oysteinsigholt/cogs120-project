@@ -1,0 +1,101 @@
+{
+  "code": "MATH 203B",
+  "name": "Algebraic Geometry II",
+  "department": "MATH",
+  "id": "203B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "927282",
+      "type": "LE",
+      "section": "A00",
+      "days": "WF",
+      "time": "10:00a-11:20a",
+      "building": "APM",
+      "room": "B412",
+      "instructor": "Oprea, Dragos N.",
+      "instructors": [
+        "Oprea, Dragos N."
+      ],
+      "start_time": "10:00",
+      "end_time": "11:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "927282",
+        "type": "LE",
+        "section": "A00",
+        "days": "WF",
+        "time": "10:00a-11:20a",
+        "building": "APM",
+        "room": "B412",
+        "instructor": "Oprea, Dragos N.",
+        "instructors": [
+          "Oprea, Dragos N."
+        ],
+        "start_time": "10:00",
+        "end_time": "11:20"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "927282",
+        "type": "LE",
+        "section": "A00",
+        "days": "WF",
+        "time": "10:00a-11:20a",
+        "building": "APM",
+        "room": "B412",
+        "instructor": "Oprea, Dragos N.",
+        "instructors": [
+          "Oprea, Dragos N."
+        ],
+        "start_time": "10:00",
+        "end_time": "11:20"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

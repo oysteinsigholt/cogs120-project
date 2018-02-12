@@ -1,0 +1,128 @@
+{
+  "code": "MAE 150",
+  "name": "Computer-Aided Analysis&Design",
+  "department": "MAE",
+  "id": "150",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "922838",
+      "type": "LE",
+      "section": "A00",
+      "days": "M",
+      "time": "4:00p-4:50p",
+      "building": "WLH",
+      "room": "2111",
+      "instructor": "Gravish, Nicholas G",
+      "instructors": [
+        "Gravish, Nicholas G"
+      ],
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "11:00a-12:20p",
+      "building": "CENTR",
+      "room": "222",
+      "instructor": "",
+      "instructors": [],
+      "start_time": "11:00",
+      "end_time": "12:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "922838",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "4:00p-4:50p",
+        "building": "WLH",
+        "room": "2111",
+        "instructor": "Gravish, Nicholas G",
+        "instructors": [
+          "Gravish, Nicholas G"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": false,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "CENTR",
+        "room": "222",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": false,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "CENTR",
+        "room": "222",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

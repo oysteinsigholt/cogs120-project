@@ -1,0 +1,53 @@
+{
+  "code": "MUS 95D",
+  "name": "Symphonic Chorus",
+  "department": "MUS",
+  "id": "95D",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921923",
+      "type": "ST",
+      "section": "A00",
+      "days": "W",
+      "time": "7:00p-9:50p",
+      "building": "CPMC",
+      "room": "127",
+      "instructor": "Schick, Steven",
+      "instructors": [
+        "Schick, Steven"
+      ],
+      "start_time": "19:00",
+      "end_time": "21:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "921923",
+        "type": "ST",
+        "section": "A00",
+        "days": "W",
+        "time": "7:00p-9:50p",
+        "building": "CPMC",
+        "room": "127",
+        "instructor": "Schick, Steven",
+        "instructors": [
+          "Schick, Steven"
+        ],
+        "start_time": "19:00",
+        "end_time": "21:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

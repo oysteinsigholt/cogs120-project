@@ -1,0 +1,53 @@
+{
+  "code": "VIS 149",
+  "name": "Contemporary Computer Topics",
+  "department": "VIS",
+  "id": "149",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "922795",
+      "type": "SE",
+      "section": "A00",
+      "days": "Th",
+      "time": "12:30p-3:20p",
+      "building": "VAF",
+      "room": "228",
+      "instructor": "Stalbaum, Brett",
+      "instructors": [
+        "Stalbaum, Brett"
+      ],
+      "start_time": "12:30",
+      "end_time": "15:20"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "922795",
+        "type": "SE",
+        "section": "A00",
+        "days": "Th",
+        "time": "12:30p-3:20p",
+        "building": "VAF",
+        "room": "228",
+        "instructor": "Stalbaum, Brett",
+        "instructors": [
+          "Stalbaum, Brett"
+        ],
+        "start_time": "12:30",
+        "end_time": "15:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

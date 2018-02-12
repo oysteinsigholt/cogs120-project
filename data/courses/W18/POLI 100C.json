@@ -1,0 +1,118 @@
+{
+  "code": "POLI 100C",
+  "name": "American Political Parties",
+  "department": "POLI",
+  "id": "100C",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "925294",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "2:00p-2:50p",
+      "building": "CENTR",
+      "room": "214",
+      "instructor": "Galderisi, Peter",
+      "instructors": [
+        "Galderisi, Peter"
+      ],
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "925294",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "214",
+        "instructor": "Galderisi, Peter",
+        "instructors": [
+          "Galderisi, Peter"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "925294",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "214",
+        "instructor": "Galderisi, Peter",
+        "instructors": [
+          "Galderisi, Peter"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "925294",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "214",
+        "instructor": "Galderisi, Peter",
+        "instructors": [
+          "Galderisi, Peter"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

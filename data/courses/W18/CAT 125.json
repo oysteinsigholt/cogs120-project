@@ -1,0 +1,630 @@
+{
+  "code": "CAT 125",
+  "name": "Public Rhetoric & Pract Commun",
+  "department": "CAT",
+  "id": "125",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "Tu",
+      "time": "5:00p-6:50p",
+      "building": "PCYNH",
+      "room": "106",
+      "instructor": "Smith, Ashley Elizabeth",
+      "instructors": [
+        "Smith, Ashley Elizabeth"
+      ],
+      "start_time": "17:00",
+      "end_time": "18:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920935",
+      "type": "DI",
+      "section": "A01",
+      "days": "TuTh",
+      "time": "9:00a-9:50a",
+      "building": "CENTR",
+      "room": "206",
+      "instructor": "Smith, Ashley Elizabeth",
+      "instructors": [
+        "Smith, Ashley Elizabeth"
+      ],
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920936",
+      "type": "DI",
+      "section": "A02",
+      "days": "TuTh",
+      "time": "10:00a-10:50a",
+      "building": "CENTR",
+      "room": "206",
+      "instructor": "Smith, Ashley Elizabeth",
+      "instructors": [
+        "Smith, Ashley Elizabeth"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920937",
+      "type": "DI",
+      "section": "A03",
+      "days": "TuTh",
+      "time": "11:00a-11:50a",
+      "building": "CENTR",
+      "room": "206",
+      "instructor": "Smith, Ashley Elizabeth",
+      "instructors": [
+        "Smith, Ashley Elizabeth"
+      ],
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920938",
+      "type": "DI",
+      "section": "A04",
+      "days": "TuTh",
+      "time": "12:00p-12:50p",
+      "building": "CENTR",
+      "room": "206",
+      "instructor": "Smith, Ashley Elizabeth",
+      "instructors": [
+        "Smith, Ashley Elizabeth"
+      ],
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920939",
+      "type": "DI",
+      "section": "A05",
+      "days": "TuTh",
+      "time": "1:00p-1:50p",
+      "building": "CENTR",
+      "room": "206",
+      "instructor": "Smith, Ashley Elizabeth",
+      "instructors": [
+        "Smith, Ashley Elizabeth"
+      ],
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920940",
+      "type": "DI",
+      "section": "A06",
+      "days": "TuTh",
+      "time": "2:00p-2:50p",
+      "building": "CENTR",
+      "room": "206",
+      "instructor": "Smith, Ashley Elizabeth",
+      "instructors": [
+        "Smith, Ashley Elizabeth"
+      ],
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920941",
+      "type": "DI",
+      "section": "A07",
+      "days": "TuTh",
+      "time": "3:00p-3:50p",
+      "building": "CENTR",
+      "room": "206",
+      "instructor": "Smith, Ashley Elizabeth",
+      "instructors": [
+        "Smith, Ashley Elizabeth"
+      ],
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920942",
+      "type": "DI",
+      "section": "A08",
+      "days": "TuTh",
+      "time": "4:00p-4:50p",
+      "building": "CENTR",
+      "room": "206",
+      "instructor": "Smith, Ashley Elizabeth",
+      "instructors": [
+        "Smith, Ashley Elizabeth"
+      ],
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920943",
+      "type": "DI",
+      "section": "A09",
+      "days": "TuTh",
+      "time": "4:00p-4:50p",
+      "building": "HSS",
+      "room": "1106A",
+      "instructor": "Smith, Ashley Elizabeth",
+      "instructors": [
+        "Smith, Ashley Elizabeth"
+      ],
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920944",
+      "type": "DI",
+      "section": "A10",
+      "days": "TuTh",
+      "time": "7:00p-7:50p",
+      "building": "CENTR",
+      "room": "206",
+      "instructor": "Smith, Ashley Elizabeth",
+      "instructors": [
+        "Smith, Ashley Elizabeth"
+      ],
+      "start_time": "19:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920945",
+      "type": "DI",
+      "section": "A11",
+      "days": "TuTh",
+      "time": "7:00p-7:50p",
+      "building": "CENTR",
+      "room": "204",
+      "instructor": "Smith, Ashley Elizabeth",
+      "instructors": [
+        "Smith, Ashley Elizabeth"
+      ],
+      "start_time": "19:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920946",
+      "type": "DI",
+      "section": "A12",
+      "days": "TuTh",
+      "time": "8:00p-8:50p",
+      "building": "CENTR",
+      "room": "206",
+      "instructor": "Smith, Ashley Elizabeth",
+      "instructors": [
+        "Smith, Ashley Elizabeth"
+      ],
+      "start_time": "20:00",
+      "end_time": "20:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "5:00p-6:50p",
+        "building": "PCYNH",
+        "room": "106",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920935",
+        "type": "DI",
+        "section": "A01",
+        "days": "TuTh",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "206",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920936",
+        "type": "DI",
+        "section": "A02",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "206",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920937",
+        "type": "DI",
+        "section": "A03",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "206",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920938",
+        "type": "DI",
+        "section": "A04",
+        "days": "TuTh",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "206",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920939",
+        "type": "DI",
+        "section": "A05",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "206",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920940",
+        "type": "DI",
+        "section": "A06",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "206",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920941",
+        "type": "DI",
+        "section": "A07",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "206",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920942",
+        "type": "DI",
+        "section": "A08",
+        "days": "TuTh",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "206",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920943",
+        "type": "DI",
+        "section": "A09",
+        "days": "TuTh",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "1106A",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920944",
+        "type": "DI",
+        "section": "A10",
+        "days": "TuTh",
+        "time": "7:00p-7:50p",
+        "building": "CENTR",
+        "room": "206",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920945",
+        "type": "DI",
+        "section": "A11",
+        "days": "TuTh",
+        "time": "7:00p-7:50p",
+        "building": "CENTR",
+        "room": "204",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920946",
+        "type": "DI",
+        "section": "A12",
+        "days": "TuTh",
+        "time": "8:00p-8:50p",
+        "building": "CENTR",
+        "room": "206",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "920935",
+        "type": "DI",
+        "section": "A01",
+        "days": "TuTh",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "206",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920936",
+        "type": "DI",
+        "section": "A02",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "206",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920937",
+        "type": "DI",
+        "section": "A03",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "206",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920938",
+        "type": "DI",
+        "section": "A04",
+        "days": "TuTh",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "206",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920939",
+        "type": "DI",
+        "section": "A05",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "206",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920940",
+        "type": "DI",
+        "section": "A06",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "206",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920941",
+        "type": "DI",
+        "section": "A07",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "206",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920942",
+        "type": "DI",
+        "section": "A08",
+        "days": "TuTh",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "206",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920943",
+        "type": "DI",
+        "section": "A09",
+        "days": "TuTh",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "1106A",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920944",
+        "type": "DI",
+        "section": "A10",
+        "days": "TuTh",
+        "time": "7:00p-7:50p",
+        "building": "CENTR",
+        "room": "206",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920945",
+        "type": "DI",
+        "section": "A11",
+        "days": "TuTh",
+        "time": "7:00p-7:50p",
+        "building": "CENTR",
+        "room": "204",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920946",
+        "type": "DI",
+        "section": "A12",
+        "days": "TuTh",
+        "time": "8:00p-8:50p",
+        "building": "CENTR",
+        "room": "206",
+        "instructor": "Smith, Ashley Elizabeth",
+        "instructors": [
+          "Smith, Ashley Elizabeth"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

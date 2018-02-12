@@ -1,0 +1,55 @@
+{
+  "code": "DERM 280",
+  "name": "Pathophysiology of the Skin",
+  "department": "DERM",
+  "id": "280",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930440",
+      "type": "LE",
+      "section": "A00",
+      "days": "Th",
+      "time": "3:00p-5:00p",
+      "building": "MET",
+      "room": "215",
+      "instructor": "Schneider, Jeremy Adam & Orme, Charisse Marie",
+      "instructors": [
+        "Schneider, Jeremy Adam",
+        "Orme, Charisse Marie"
+      ],
+      "start_time": "15:00",
+      "end_time": "17:00"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "930440",
+        "type": "LE",
+        "section": "A00",
+        "days": "Th",
+        "time": "3:00p-5:00p",
+        "building": "MET",
+        "room": "215",
+        "instructor": "Schneider, Jeremy Adam & Orme, Charisse Marie",
+        "instructors": [
+          "Schneider, Jeremy Adam",
+          "Orme, Charisse Marie"
+        ],
+        "start_time": "15:00",
+        "end_time": "17:00"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "code": "PHYS 252",
+  "name": "Plasma Physics Seminar",
+  "department": "PHYS",
+  "id": "252",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "923818",
+      "type": "SE",
+      "section": "A00",
+      "days": "Tu",
+      "time": "4:00p-4:50p",
+      "building": "SERF",
+      "room": "383",
+      "instructor": "Diamond, Patrick H",
+      "instructors": [
+        "Diamond, Patrick H"
+      ],
+      "start_time": "16:00",
+      "end_time": "16:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "923818",
+        "type": "SE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "4:00p-4:50p",
+        "building": "SERF",
+        "room": "383",
+        "instructor": "Diamond, Patrick H",
+        "instructors": [
+          "Diamond, Patrick H"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

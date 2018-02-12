@@ -1,0 +1,144 @@
+{
+  "code": "MGT 153",
+  "name": "Business Analytics",
+  "department": "MGT",
+  "id": "153",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "929996",
+      "type": "LE",
+      "section": "A00",
+      "days": "M",
+      "time": "5:00p-7:50p",
+      "building": "OTRSN",
+      "room": "1S113",
+      "instructor": "Perols, Johan Lars",
+      "instructors": [
+        "Perols, Johan Lars"
+      ],
+      "start_time": "17:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MU",
+      "section": "01/12/2018",
+      "days": "F",
+      "time": "9:00a-11:50a",
+      "building": "OTRSN",
+      "room": "1S113",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-01-12T08:00:00.000Z",
+      "start_time": "9:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MU",
+      "section": "02/16/2018",
+      "days": "F",
+      "time": "9:00a-11:50a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-02-16T08:00:00.000Z",
+      "start_time": "9:00",
+      "end_time": "11:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MU",
+      "section": "01/12/2018",
+      "days": "F",
+      "time": "9:00a-11:50a",
+      "building": "OTRSN",
+      "room": "1S113",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-01-12T08:00:00.000Z",
+      "start_time": "9:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MU",
+      "section": "02/16/2018",
+      "days": "F",
+      "time": "9:00a-11:50a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-02-16T08:00:00.000Z",
+      "start_time": "9:00",
+      "end_time": "11:50"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "929996",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "5:00p-7:50p",
+        "building": "OTRSN",
+        "room": "1S113",
+        "instructor": "Perols, Johan Lars",
+        "instructors": [
+          "Perols, Johan Lars"
+        ],
+        "start_time": "17:00",
+        "end_time": "19:50"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

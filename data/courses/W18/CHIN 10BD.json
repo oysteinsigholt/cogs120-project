@@ -1,0 +1,261 @@
+{
+  "code": "CHIN 10BD",
+  "name": "First Yr Chinese/Dialect Sp II",
+  "department": "CHIN",
+  "id": "10BD",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "TuTh",
+      "time": "11:00a-12:20p",
+      "building": "CENTR",
+      "room": "207",
+      "instructor": "Chen, Pei-Chia",
+      "instructors": [
+        "Chen, Pei-Chia"
+      ],
+      "start_time": "11:00",
+      "end_time": "12:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920618",
+      "type": "TU",
+      "section": "B01",
+      "days": "MWF",
+      "time": "10:00a-10:50a",
+      "building": "SOLIS",
+      "room": "111",
+      "instructor": "Chen, Pei-Chia",
+      "instructors": [
+        "Chen, Pei-Chia"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920619",
+      "type": "TU",
+      "section": "B02",
+      "days": "MWF",
+      "time": "12:00p-12:50p",
+      "building": "MANDE",
+      "room": "B-153",
+      "instructor": "Chen, Pei-Chia",
+      "instructors": [
+        "Chen, Pei-Chia"
+      ],
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "B50",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Chen, Pei-Chia",
+      "instructors": [
+        "Chen, Pei-Chia"
+      ]
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "B50",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Chen, Pei-Chia",
+      "instructors": [
+        "Chen, Pei-Chia"
+      ]
+    }
+  ],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "920618",
+        "type": "TU",
+        "section": "B01",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "SOLIS",
+        "room": "111",
+        "instructor": "Chen, Pei-Chia",
+        "instructors": [
+          "Chen, Pei-Chia"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920619",
+        "type": "TU",
+        "section": "B02",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructor": "Chen, Pei-Chia",
+        "instructors": [
+          "Chen, Pei-Chia"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "CENTR",
+        "room": "207",
+        "instructor": "Chen, Pei-Chia",
+        "instructors": [
+          "Chen, Pei-Chia"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "920618",
+        "type": "TU",
+        "section": "B01",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "SOLIS",
+        "room": "111",
+        "instructor": "Chen, Pei-Chia",
+        "instructors": [
+          "Chen, Pei-Chia"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920619",
+        "type": "TU",
+        "section": "B02",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructor": "Chen, Pei-Chia",
+        "instructors": [
+          "Chen, Pei-Chia"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "CENTR",
+        "room": "207",
+        "instructor": "Chen, Pei-Chia",
+        "instructors": [
+          "Chen, Pei-Chia"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "920618",
+        "type": "TU",
+        "section": "B01",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "SOLIS",
+        "room": "111",
+        "instructor": "Chen, Pei-Chia",
+        "instructors": [
+          "Chen, Pei-Chia"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920619",
+        "type": "TU",
+        "section": "B02",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructor": "Chen, Pei-Chia",
+        "instructors": [
+          "Chen, Pei-Chia"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

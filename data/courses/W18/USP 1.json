@@ -1,0 +1,231 @@
+{
+  "code": "USP 1",
+  "name": "History/US Urban Communities",
+  "department": "USP",
+  "id": "1",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "11:00a-12:20p",
+      "building": "CSB",
+      "room": "001",
+      "instructor": "Kwak, Nancy",
+      "instructors": [
+        "Kwak, Nancy"
+      ],
+      "start_time": "11:00",
+      "end_time": "12:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922166",
+      "type": "DI",
+      "section": "A01",
+      "days": "W",
+      "time": "12:00p-12:50p",
+      "building": "SSB",
+      "room": "102",
+      "instructor": "Kwak, Nancy",
+      "instructors": [
+        "Kwak, Nancy"
+      ],
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922167",
+      "type": "DI",
+      "section": "A02",
+      "days": "W",
+      "time": "1:00p-1:50p",
+      "building": "SSB",
+      "room": "102",
+      "instructor": "Kwak, Nancy",
+      "instructors": [
+        "Kwak, Nancy"
+      ],
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922168",
+      "type": "DI",
+      "section": "A03",
+      "days": "M",
+      "time": "10:00a-10:50a",
+      "building": "SSB",
+      "room": "102",
+      "instructor": "Kwak, Nancy",
+      "instructors": [
+        "Kwak, Nancy"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922169",
+      "type": "DI",
+      "section": "A04",
+      "days": "M",
+      "time": "11:00a-11:50a",
+      "building": "SSB",
+      "room": "102",
+      "instructor": "Kwak, Nancy",
+      "instructors": [
+        "Kwak, Nancy"
+      ],
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "922168",
+        "type": "DI",
+        "section": "A03",
+        "days": "M",
+        "time": "10:00a-10:50a",
+        "building": "SSB",
+        "room": "102",
+        "instructor": "Kwak, Nancy",
+        "instructors": [
+          "Kwak, Nancy"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "922169",
+        "type": "DI",
+        "section": "A04",
+        "days": "M",
+        "time": "11:00a-11:50a",
+        "building": "SSB",
+        "room": "102",
+        "instructor": "Kwak, Nancy",
+        "instructors": [
+          "Kwak, Nancy"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "CSB",
+        "room": "001",
+        "instructor": "Kwak, Nancy",
+        "instructors": [
+          "Kwak, Nancy"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "922166",
+        "type": "DI",
+        "section": "A01",
+        "days": "W",
+        "time": "12:00p-12:50p",
+        "building": "SSB",
+        "room": "102",
+        "instructor": "Kwak, Nancy",
+        "instructors": [
+          "Kwak, Nancy"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "922167",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "1:00p-1:50p",
+        "building": "SSB",
+        "room": "102",
+        "instructor": "Kwak, Nancy",
+        "instructors": [
+          "Kwak, Nancy"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "CSB",
+        "room": "001",
+        "instructor": "Kwak, Nancy",
+        "instructors": [
+          "Kwak, Nancy"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

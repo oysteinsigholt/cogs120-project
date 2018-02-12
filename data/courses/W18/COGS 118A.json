@@ -1,0 +1,200 @@
+{
+  "code": "COGS 118A",
+  "name": "Intro to Machine Learning I",
+  "department": "COGS",
+  "id": "118A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "11:00a-12:20p",
+      "building": "MANDE",
+      "room": "B-210",
+      "instructor": "Tu, Zhuowen",
+      "instructors": [
+        "Tu, Zhuowen"
+      ],
+      "start_time": "11:00",
+      "end_time": "12:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925578",
+      "type": "LA",
+      "section": "A01",
+      "days": "M",
+      "time": "9:00a-9:50a",
+      "building": "PCYNH",
+      "room": "120",
+      "instructor": "Tu, Zhuowen",
+      "instructors": [
+        "Tu, Zhuowen"
+      ],
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925579",
+      "type": "LA",
+      "section": "A02",
+      "days": "W",
+      "time": "11:00a-11:50a",
+      "building": "SEQUO",
+      "room": "148",
+      "instructor": "Tu, Zhuowen",
+      "instructors": [
+        "Tu, Zhuowen"
+      ],
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925580",
+      "type": "LA",
+      "section": "A03",
+      "days": "F",
+      "time": "2:00p-2:50p",
+      "building": "CSB",
+      "room": "003",
+      "instructor": "Tu, Zhuowen",
+      "instructors": [
+        "Tu, Zhuowen"
+      ],
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "925578",
+        "type": "LA",
+        "section": "A01",
+        "days": "M",
+        "time": "9:00a-9:50a",
+        "building": "PCYNH",
+        "room": "120",
+        "instructor": "Tu, Zhuowen",
+        "instructors": [
+          "Tu, Zhuowen"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "MANDE",
+        "room": "B-210",
+        "instructor": "Tu, Zhuowen",
+        "instructors": [
+          "Tu, Zhuowen"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "925579",
+        "type": "LA",
+        "section": "A02",
+        "days": "W",
+        "time": "11:00a-11:50a",
+        "building": "SEQUO",
+        "room": "148",
+        "instructor": "Tu, Zhuowen",
+        "instructors": [
+          "Tu, Zhuowen"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "MANDE",
+        "room": "B-210",
+        "instructor": "Tu, Zhuowen",
+        "instructors": [
+          "Tu, Zhuowen"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "925580",
+        "type": "LA",
+        "section": "A03",
+        "days": "F",
+        "time": "2:00p-2:50p",
+        "building": "CSB",
+        "room": "003",
+        "instructor": "Tu, Zhuowen",
+        "instructors": [
+          "Tu, Zhuowen"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

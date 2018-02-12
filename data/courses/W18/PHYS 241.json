@@ -1,0 +1,102 @@
+{
+  "code": "PHYS 241",
+  "name": "Comp Phys I:Prob Models & Simu",
+  "department": "PHYS",
+  "id": "241",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "923814",
+      "type": "LE",
+      "section": "A00",
+      "days": "MW",
+      "time": "11:00a-12:20p",
+      "building": "MYR-A",
+      "room": "4623",
+      "instructor": "Kuti, Julius",
+      "instructors": [
+        "Kuti, Julius"
+      ],
+      "start_time": "11:00",
+      "end_time": "12:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "A01",
+      "days": "M",
+      "time": "2:00p-4:50p",
+      "building": "MYR-A",
+      "room": "4623",
+      "instructor": "Kuti, Julius",
+      "instructors": [
+        "Kuti, Julius"
+      ],
+      "start_time": "14:00",
+      "end_time": "16:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "923814",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "11:00a-12:20p",
+        "building": "MYR-A",
+        "room": "4623",
+        "instructor": "Kuti, Julius",
+        "instructors": [
+          "Kuti, Julius"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A01",
+        "days": "M",
+        "time": "2:00p-4:50p",
+        "building": "MYR-A",
+        "room": "4623",
+        "instructor": "Kuti, Julius",
+        "instructors": [
+          "Kuti, Julius"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "923814",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "11:00a-12:20p",
+        "building": "MYR-A",
+        "room": "4623",
+        "instructor": "Kuti, Julius",
+        "instructors": [
+          "Kuti, Julius"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

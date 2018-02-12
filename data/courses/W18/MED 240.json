@@ -1,0 +1,53 @@
+{
+  "code": "MED 240",
+  "name": "Careers in Medicine",
+  "department": "MED",
+  "id": "240",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930447",
+      "type": "LE",
+      "section": "A00",
+      "days": "Th",
+      "time": "1:00p-3:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Ly, Binh T.",
+      "instructors": [
+        "Ly, Binh T."
+      ],
+      "start_time": "13:00",
+      "end_time": "15:00"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "930447",
+        "type": "LE",
+        "section": "A00",
+        "days": "Th",
+        "time": "1:00p-3:00p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Ly, Binh T.",
+        "instructors": [
+          "Ly, Binh T."
+        ],
+        "start_time": "13:00",
+        "end_time": "15:00"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "code": "GPGN 490",
+  "name": "Special Topics Course",
+  "department": "GPGN",
+  "id": "490",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "929054",
+      "type": "LE",
+      "section": "F00",
+      "days": "Tu",
+      "time": "6:30p-9:20p",
+      "building": "RBC",
+      "room": "3202",
+      "instructor": "Cheung, TaiMing",
+      "instructors": [
+        "Cheung, TaiMing"
+      ],
+      "start_time": "18:30",
+      "end_time": "21:20"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "929054",
+        "type": "LE",
+        "section": "F00",
+        "days": "Tu",
+        "time": "6:30p-9:20p",
+        "building": "RBC",
+        "room": "3202",
+        "instructor": "Cheung, TaiMing",
+        "instructors": [
+          "Cheung, TaiMing"
+        ],
+        "start_time": "18:30",
+        "end_time": "21:20"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

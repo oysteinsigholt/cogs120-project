@@ -1,0 +1,53 @@
+{
+  "code": "MCWP 500",
+  "name": "Apprentice Teaching in MCWP",
+  "department": "MCWP",
+  "id": "500",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920567",
+      "type": "SE",
+      "section": "A00",
+      "days": "Tu",
+      "time": "5:00p-6:20p",
+      "building": "HSS",
+      "room": "2346A",
+      "instructor": "Wastal, Carrie King",
+      "instructors": [
+        "Wastal, Carrie King"
+      ],
+      "start_time": "17:00",
+      "end_time": "18:20"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "920567",
+        "type": "SE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "5:00p-6:20p",
+        "building": "HSS",
+        "room": "2346A",
+        "instructor": "Wastal, Carrie King",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

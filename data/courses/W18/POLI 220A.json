@@ -1,0 +1,53 @@
+{
+  "code": "POLI 220A",
+  "name": "Comparat.Politics/State & Soc.",
+  "department": "POLI",
+  "id": "220A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930671",
+      "type": "SE",
+      "section": "B00",
+      "days": "F",
+      "time": "9:00a-11:50a",
+      "building": "SSB",
+      "room": "104",
+      "instructor": "Adida, Claire",
+      "instructors": [
+        "Adida, Claire"
+      ],
+      "start_time": "9:00",
+      "end_time": "11:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "930671",
+        "type": "SE",
+        "section": "B00",
+        "days": "F",
+        "time": "9:00a-11:50a",
+        "building": "SSB",
+        "room": "104",
+        "instructor": "Adida, Claire",
+        "instructors": [
+          "Adida, Claire"
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

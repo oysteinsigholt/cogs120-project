@@ -1,0 +1,55 @@
+{
+  "code": "EDS 87",
+  "name": "Freshman Seminar",
+  "department": "EDS",
+  "id": "87",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "927869",
+      "type": "SE",
+      "section": "B00",
+      "days": "Th",
+      "time": "4:00p-5:50p",
+      "building": "PCYNH",
+      "room": "440",
+      "instructor": "Simon, Elizabeth A",
+      "instructors": [
+        "Simon, Elizabeth A"
+      ],
+      "start_time": "16:00",
+      "end_time": "17:50"
+    }
+  ],
+  "notes": [
+    "Dates: Jan 11, Jan 18, Feb 1, Feb 8"
+  ],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "927869",
+        "type": "SE",
+        "section": "B00",
+        "days": "Th",
+        "time": "4:00p-5:50p",
+        "building": "PCYNH",
+        "room": "440",
+        "instructor": "Simon, Elizabeth A",
+        "instructors": [
+          "Simon, Elizabeth A"
+        ],
+        "start_time": "16:00",
+        "end_time": "17:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

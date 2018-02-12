@@ -1,0 +1,53 @@
+{
+  "code": "MGT 414A",
+  "name": "Lab to Market Workshop I",
+  "department": "MGT",
+  "id": "414A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930364",
+      "type": "LE",
+      "section": "C00",
+      "days": "W",
+      "time": "2:00p-5:00p",
+      "building": "OTRSN",
+      "room": "1E106",
+      "instructor": "King, Kimberly Davis",
+      "instructors": [
+        "King, Kimberly Davis"
+      ],
+      "start_time": "14:00",
+      "end_time": "17:00"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "930364",
+        "type": "LE",
+        "section": "C00",
+        "days": "W",
+        "time": "2:00p-5:00p",
+        "building": "OTRSN",
+        "room": "1E106",
+        "instructor": "King, Kimberly Davis",
+        "instructors": [
+          "King, Kimberly Davis"
+        ],
+        "start_time": "14:00",
+        "end_time": "17:00"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

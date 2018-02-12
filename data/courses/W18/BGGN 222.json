@@ -1,0 +1,101 @@
+{
+  "code": "BGGN 222",
+  "name": "Graduate Cell Biology",
+  "department": "BGGN",
+  "id": "222",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "WF",
+      "time": "9:00a-11:50a",
+      "building": "PACIF",
+      "room": "3500",
+      "instructor": "Hampton, Randolph Y.",
+      "instructors": [
+        "Hampton, Randolph Y."
+      ],
+      "start_time": "9:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930330",
+      "type": "DI",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Hampton, Randolph Y.",
+      "instructors": [
+        "Hampton, Randolph Y."
+      ]
+    }
+  ],
+  "notes": [
+    "Priority enrollment in BGGN 222 is given to Biology PhD\n students."
+  ],
+  "events_single": [],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "930330",
+      "type": "DI",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Hampton, Randolph Y.",
+      "instructors": [
+        "Hampton, Randolph Y."
+      ]
+    }
+  ],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "WF",
+        "time": "9:00a-11:50a",
+        "building": "PACIF",
+        "room": "3500",
+        "instructor": "Hampton, Randolph Y.",
+        "instructors": [
+          "Hampton, Randolph Y."
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "WF",
+        "time": "9:00a-11:50a",
+        "building": "PACIF",
+        "room": "3500",
+        "instructor": "Hampton, Randolph Y.",
+        "instructors": [
+          "Hampton, Randolph Y."
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

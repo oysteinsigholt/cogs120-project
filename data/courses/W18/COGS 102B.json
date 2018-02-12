@@ -1,0 +1,231 @@
+{
+  "code": "COGS 102B",
+  "name": "Cognitive Ethnography",
+  "department": "COGS",
+  "id": "102B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "3:30p-4:50p",
+      "building": "PCYNH",
+      "room": "109",
+      "instructor": "Scott, Taylor Jackson",
+      "instructors": [
+        "Scott, Taylor Jackson"
+      ],
+      "start_time": "15:30",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925558",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "4:00p-4:50p",
+      "building": "YORK",
+      "room": "4080A",
+      "instructor": "Scott, Taylor Jackson",
+      "instructors": [
+        "Scott, Taylor Jackson"
+      ],
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925559",
+      "type": "DI",
+      "section": "A02",
+      "days": "M",
+      "time": "6:00p-6:50p",
+      "building": "CSB",
+      "room": "005",
+      "instructor": "Scott, Taylor Jackson",
+      "instructors": [
+        "Scott, Taylor Jackson"
+      ],
+      "start_time": "18:00",
+      "end_time": "18:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925560",
+      "type": "DI",
+      "section": "A03",
+      "days": "W",
+      "time": "11:00a-11:50a",
+      "building": "YORK",
+      "room": "4080A",
+      "instructor": "Scott, Taylor Jackson",
+      "instructors": [
+        "Scott, Taylor Jackson"
+      ],
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930628",
+      "type": "DI",
+      "section": "A04",
+      "days": "M",
+      "time": "1:00p-1:50p",
+      "building": "HSS",
+      "room": "2154",
+      "instructor": "Scott, Taylor Jackson",
+      "instructors": [
+        "Scott, Taylor Jackson"
+      ],
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "925558",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "4:00p-4:50p",
+        "building": "YORK",
+        "room": "4080A",
+        "instructor": "Scott, Taylor Jackson",
+        "instructors": [
+          "Scott, Taylor Jackson"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "925559",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "6:00p-6:50p",
+        "building": "CSB",
+        "room": "005",
+        "instructor": "Scott, Taylor Jackson",
+        "instructors": [
+          "Scott, Taylor Jackson"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "930628",
+        "type": "DI",
+        "section": "A04",
+        "days": "M",
+        "time": "1:00p-1:50p",
+        "building": "HSS",
+        "room": "2154",
+        "instructor": "Scott, Taylor Jackson",
+        "instructors": [
+          "Scott, Taylor Jackson"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "PCYNH",
+        "room": "109",
+        "instructor": "Scott, Taylor Jackson",
+        "instructors": [
+          "Scott, Taylor Jackson"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "925560",
+        "type": "DI",
+        "section": "A03",
+        "days": "W",
+        "time": "11:00a-11:50a",
+        "building": "YORK",
+        "room": "4080A",
+        "instructor": "Scott, Taylor Jackson",
+        "instructors": [
+          "Scott, Taylor Jackson"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "PCYNH",
+        "room": "109",
+        "instructor": "Scott, Taylor Jackson",
+        "instructors": [
+          "Scott, Taylor Jackson"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

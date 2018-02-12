@@ -1,0 +1,277 @@
+{
+  "code": "BILD 4",
+  "name": "Introductory Biology Lab",
+  "department": "BILD",
+  "id": "4",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "Th",
+      "time": "8:00a-9:20a",
+      "building": "PCYNH",
+      "room": "106",
+      "instructor": "Reuther, Keefe",
+      "instructors": [
+        "Reuther, Keefe"
+      ],
+      "start_time": "8:00",
+      "end_time": "9:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926030",
+      "type": "LA",
+      "section": "B01",
+      "days": "Th",
+      "time": "9:30a-12:20p",
+      "building": "YORK",
+      "room": "4124",
+      "instructor": "Reuther, Keefe",
+      "instructors": [
+        "Reuther, Keefe"
+      ],
+      "start_time": "9:30",
+      "end_time": "12:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926031",
+      "type": "LA",
+      "section": "B02",
+      "days": "Th",
+      "time": "1:00p-3:50p",
+      "building": "YORK",
+      "room": "4124",
+      "instructor": "Reuther, Keefe",
+      "instructors": [
+        "Reuther, Keefe"
+      ],
+      "start_time": "13:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926032",
+      "type": "LA",
+      "section": "B03",
+      "days": "Th",
+      "time": "4:30p-7:20p",
+      "building": "YORK",
+      "room": "4124",
+      "instructor": "Reuther, Keefe",
+      "instructors": [
+        "Reuther, Keefe"
+      ],
+      "start_time": "16:30",
+      "end_time": "19:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926033",
+      "type": "LA",
+      "section": "B04",
+      "days": "F",
+      "time": "9:00a-11:50a",
+      "building": "YORK",
+      "room": "4124",
+      "instructor": "Reuther, Keefe",
+      "instructors": [
+        "Reuther, Keefe"
+      ],
+      "start_time": "9:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926034",
+      "type": "LA",
+      "section": "B05",
+      "days": "F",
+      "time": "12:30p-3:20p",
+      "building": "YORK",
+      "room": "4124",
+      "instructor": "Reuther, Keefe",
+      "instructors": [
+        "Reuther, Keefe"
+      ],
+      "start_time": "12:30",
+      "end_time": "15:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926035",
+      "type": "LA",
+      "section": "B06",
+      "days": "F",
+      "time": "4:00p-6:50p",
+      "building": "YORK",
+      "room": "4124",
+      "instructor": "Reuther, Keefe",
+      "instructors": [
+        "Reuther, Keefe"
+      ],
+      "start_time": "16:00",
+      "end_time": "18:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "Th",
+        "time": "8:00a-9:20a",
+        "building": "PCYNH",
+        "room": "106",
+        "instructor": "Reuther, Keefe",
+        "instructors": [
+          "Reuther, Keefe"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926030",
+        "type": "LA",
+        "section": "B01",
+        "days": "Th",
+        "time": "9:30a-12:20p",
+        "building": "YORK",
+        "room": "4124",
+        "instructor": "Reuther, Keefe",
+        "instructors": [
+          "Reuther, Keefe"
+        ],
+        "start_time": "9:30",
+        "end_time": "12:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926031",
+        "type": "LA",
+        "section": "B02",
+        "days": "Th",
+        "time": "1:00p-3:50p",
+        "building": "YORK",
+        "room": "4124",
+        "instructor": "Reuther, Keefe",
+        "instructors": [
+          "Reuther, Keefe"
+        ],
+        "start_time": "13:00",
+        "end_time": "15:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926032",
+        "type": "LA",
+        "section": "B03",
+        "days": "Th",
+        "time": "4:30p-7:20p",
+        "building": "YORK",
+        "room": "4124",
+        "instructor": "Reuther, Keefe",
+        "instructors": [
+          "Reuther, Keefe"
+        ],
+        "start_time": "16:30",
+        "end_time": "19:20"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "926033",
+        "type": "LA",
+        "section": "B04",
+        "days": "F",
+        "time": "9:00a-11:50a",
+        "building": "YORK",
+        "room": "4124",
+        "instructor": "Reuther, Keefe",
+        "instructors": [
+          "Reuther, Keefe"
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926034",
+        "type": "LA",
+        "section": "B05",
+        "days": "F",
+        "time": "12:30p-3:20p",
+        "building": "YORK",
+        "room": "4124",
+        "instructor": "Reuther, Keefe",
+        "instructors": [
+          "Reuther, Keefe"
+        ],
+        "start_time": "12:30",
+        "end_time": "15:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926035",
+        "type": "LA",
+        "section": "B06",
+        "days": "F",
+        "time": "4:00p-6:50p",
+        "building": "YORK",
+        "room": "4124",
+        "instructor": "Reuther, Keefe",
+        "instructors": [
+          "Reuther, Keefe"
+        ],
+        "start_time": "16:00",
+        "end_time": "18:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

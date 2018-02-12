@@ -1,0 +1,53 @@
+{
+  "code": "MGTF 417",
+  "name": "Professional Communications",
+  "department": "MGTF",
+  "id": "417",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930386",
+      "type": "LE",
+      "section": "D00",
+      "days": "Th",
+      "time": "5:00p-7:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Schmidt, Robert P",
+      "instructors": [
+        "Schmidt, Robert P"
+      ],
+      "start_time": "17:00",
+      "end_time": "19:00"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "930386",
+        "type": "LE",
+        "section": "D00",
+        "days": "Th",
+        "time": "5:00p-7:00p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Schmidt, Robert P",
+        "instructors": [
+          "Schmidt, Robert P"
+        ],
+        "start_time": "17:00",
+        "end_time": "19:00"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

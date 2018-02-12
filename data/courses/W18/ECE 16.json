@@ -1,0 +1,134 @@
+{
+  "code": "ECE 16",
+  "name": "Rapid Hardware & Software Dsn",
+  "department": "ECE",
+  "id": "16",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "TuTh",
+      "time": "5:00p-6:20p",
+      "building": "SME",
+      "room": "306",
+      "instructor": "Khoshabeh, Ramsin",
+      "instructors": [
+        "Khoshabeh, Ramsin"
+      ],
+      "start_time": "17:00",
+      "end_time": "18:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "933115",
+      "type": "LA",
+      "section": "B01",
+      "days": "F",
+      "time": "3:00p-6:00p",
+      "building": "SME",
+      "room": "302",
+      "instructor": "Khoshabeh, Ramsin",
+      "instructors": [
+        "Khoshabeh, Ramsin"
+      ],
+      "start_time": "15:00",
+      "end_time": "18:00"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "SME",
+        "room": "306",
+        "instructor": "Khoshabeh, Ramsin",
+        "instructors": [
+          "Khoshabeh, Ramsin"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "SME",
+        "room": "306",
+        "instructor": "Khoshabeh, Ramsin",
+        "instructors": [
+          "Khoshabeh, Ramsin"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "933115",
+        "type": "LA",
+        "section": "B01",
+        "days": "F",
+        "time": "3:00p-6:00p",
+        "building": "SME",
+        "room": "302",
+        "instructor": "Khoshabeh, Ramsin",
+        "instructors": [
+          "Khoshabeh, Ramsin"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:00"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

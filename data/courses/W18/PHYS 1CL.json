@@ -1,0 +1,53 @@
+{
+  "code": "PHYS 1CL",
+  "name": "Waves,Optics&Modrn Phys Lab",
+  "department": "PHYS",
+  "id": "1CL",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "923704",
+      "type": "LA",
+      "section": "008",
+      "days": "F",
+      "time": "11:00a-12:50p",
+      "building": "MAYER",
+      "room": "2110",
+      "instructor": "Yagil, Avi",
+      "instructors": [
+        "Yagil, Avi"
+      ],
+      "start_time": "11:00",
+      "end_time": "12:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "923704",
+        "type": "LA",
+        "section": "008",
+        "days": "F",
+        "time": "11:00a-12:50p",
+        "building": "MAYER",
+        "room": "2110",
+        "instructor": "Yagil, Avi",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

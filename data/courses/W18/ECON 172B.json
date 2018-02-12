@@ -1,0 +1,213 @@
+{
+  "code": "ECON 172B",
+  "name": "Operations Research B",
+  "department": "ECON",
+  "id": "172B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "8:00a-8:50a",
+      "building": "CENTR",
+      "room": "101",
+      "instructor": "Newhouse, Herbert S",
+      "instructors": [
+        "Newhouse, Herbert S"
+      ],
+      "start_time": "8:00",
+      "end_time": "8:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924113",
+      "type": "DI",
+      "section": "A01",
+      "days": "Th",
+      "time": "6:00p-6:50p",
+      "building": "CENTR",
+      "room": "214",
+      "instructor": "Newhouse, Herbert S",
+      "instructors": [
+        "Newhouse, Herbert S"
+      ],
+      "start_time": "18:00",
+      "end_time": "18:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924114",
+      "type": "DI",
+      "section": "A02",
+      "days": "Th",
+      "time": "7:00p-7:50p",
+      "building": "CENTR",
+      "room": "214",
+      "instructor": "Newhouse, Herbert S",
+      "instructors": [
+        "Newhouse, Herbert S"
+      ],
+      "start_time": "19:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "01/28/2018",
+      "days": "Sun",
+      "time": "2:00p-3:50p",
+      "building": "CENTR",
+      "room": "105",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-01-28T08:00:00.000Z",
+      "start_time": "14:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "01/28/2018",
+      "days": "Sun",
+      "time": "2:00p-3:50p",
+      "building": "CENTR",
+      "room": "105",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-01-28T08:00:00.000Z",
+      "start_time": "14:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "CENTR",
+        "room": "101",
+        "instructor": "Newhouse, Herbert S",
+        "instructors": [
+          "Newhouse, Herbert S"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "CENTR",
+        "room": "101",
+        "instructor": "Newhouse, Herbert S",
+        "instructors": [
+          "Newhouse, Herbert S"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "924113",
+        "type": "DI",
+        "section": "A01",
+        "days": "Th",
+        "time": "6:00p-6:50p",
+        "building": "CENTR",
+        "room": "214",
+        "instructor": "Newhouse, Herbert S",
+        "instructors": [
+          "Newhouse, Herbert S"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924114",
+        "type": "DI",
+        "section": "A02",
+        "days": "Th",
+        "time": "7:00p-7:50p",
+        "building": "CENTR",
+        "room": "214",
+        "instructor": "Newhouse, Herbert S",
+        "instructors": [
+          "Newhouse, Herbert S"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "CENTR",
+        "room": "101",
+        "instructor": "Newhouse, Herbert S",
+        "instructors": [
+          "Newhouse, Herbert S"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "code": "LTEA 138",
+  "name": "Japanese Films",
+  "department": "LTEA",
+  "id": "138",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "9:30a-10:50a",
+      "building": "WLH",
+      "room": "2001",
+      "instructor": "Miyao, Daisuke",
+      "instructors": [
+        "Miyao, Daisuke"
+      ],
+      "start_time": "9:30",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924339",
+      "type": "LA",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Miyao, Daisuke",
+      "instructors": [
+        "Miyao, Daisuke"
+      ]
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "924339",
+      "type": "LA",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Miyao, Daisuke",
+      "instructors": [
+        "Miyao, Daisuke"
+      ]
+    }
+  ],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "WLH",
+        "room": "2001",
+        "instructor": "Miyao, Daisuke",
+        "instructors": [
+          "Miyao, Daisuke"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "WLH",
+        "room": "2001",
+        "instructor": "Miyao, Daisuke",
+        "instructors": [
+          "Miyao, Daisuke"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

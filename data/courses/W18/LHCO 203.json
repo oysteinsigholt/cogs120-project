@@ -1,0 +1,84 @@
+{
+  "code": "LHCO 203",
+  "name": "Use & Manage Info & Info Tech",
+  "department": "LHCO",
+  "id": "203",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "929371",
+      "type": "LE",
+      "section": "A00",
+      "days": "Th",
+      "time": "5:30p-9:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Gilmer, Todd",
+      "instructors": [
+        "Gilmer, Todd"
+      ],
+      "start_time": "17:30",
+      "end_time": "21:00"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "929371",
+        "type": "LE",
+        "section": "A00",
+        "days": "Th",
+        "time": "5:30p-9:00p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Gilmer, Todd",
+        "instructors": [
+          "Gilmer, Todd"
+        ],
+        "start_time": "17:30",
+        "end_time": "21:00"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

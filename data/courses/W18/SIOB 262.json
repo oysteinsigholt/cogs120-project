@@ -1,0 +1,53 @@
+{
+  "code": "SIOB 262",
+  "name": "Marine Chemical Biology Seminr",
+  "department": "SIOB",
+  "id": "262",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921954",
+      "type": "SE",
+      "section": "A00",
+      "days": "W",
+      "time": "3:30p-5:00p",
+      "building": "VAUGN",
+      "room": "100",
+      "instructor": "Gerwick, William Henry",
+      "instructors": [
+        "Gerwick, William Henry"
+      ],
+      "start_time": "15:30",
+      "end_time": "17:00"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "921954",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "3:30p-5:00p",
+        "building": "VAUGN",
+        "room": "100",
+        "instructor": "Gerwick, William Henry",
+        "instructors": [
+          "Gerwick, William Henry"
+        ],
+        "start_time": "15:30",
+        "end_time": "17:00"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

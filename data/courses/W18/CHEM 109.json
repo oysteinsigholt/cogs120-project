@@ -1,0 +1,211 @@
+{
+  "code": "CHEM 109",
+  "name": "Recombinant DNA Laboratory",
+  "department": "CHEM",
+  "id": "109",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "Tu",
+      "time": "10:00a-10:50a",
+      "building": "NSB",
+      "room": "2303",
+      "instructor": "Johnson, Christina A",
+      "instructors": [
+        "Johnson, Christina A"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926533",
+      "type": "LA",
+      "section": "B01",
+      "days": "TuTh",
+      "time": "12:00p-4:50p",
+      "building": "NSB",
+      "room": "1103",
+      "instructor": "Johnson, Christina A",
+      "instructors": [
+        "Johnson, Christina A"
+      ],
+      "start_time": "12:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926534",
+      "type": "LA",
+      "section": "B02",
+      "days": "TuTh",
+      "time": "12:00p-4:50p",
+      "building": "NSB",
+      "room": "1111",
+      "instructor": "Johnson, Christina A",
+      "instructors": [
+        "Johnson, Christina A"
+      ],
+      "start_time": "12:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MI",
+      "section": "02/03/2018",
+      "days": "S",
+      "time": "10:00a-11:50a",
+      "building": "CENTR",
+      "room": "101",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-02-03T08:00:00.000Z",
+      "start_time": "10:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MI",
+      "section": "03/10/2018",
+      "days": "S",
+      "time": "10:00a-11:50a",
+      "building": "CENTR",
+      "room": "101",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-10T08:00:00.000Z",
+      "start_time": "10:00",
+      "end_time": "11:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MI",
+      "section": "02/03/2018",
+      "days": "S",
+      "time": "10:00a-11:50a",
+      "building": "CENTR",
+      "room": "101",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-02-03T08:00:00.000Z",
+      "start_time": "10:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MI",
+      "section": "03/10/2018",
+      "days": "S",
+      "time": "10:00a-11:50a",
+      "building": "CENTR",
+      "room": "101",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-10T08:00:00.000Z",
+      "start_time": "10:00",
+      "end_time": "11:50"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "Tu",
+        "time": "10:00a-10:50a",
+        "building": "NSB",
+        "room": "2303",
+        "instructor": "Johnson, Christina A",
+        "instructors": [
+          "Johnson, Christina A"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926533",
+        "type": "LA",
+        "section": "B01",
+        "days": "TuTh",
+        "time": "12:00p-4:50p",
+        "building": "NSB",
+        "room": "1103",
+        "instructor": "Johnson, Christina A",
+        "instructors": [
+          "Johnson, Christina A"
+        ],
+        "start_time": "12:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926534",
+        "type": "LA",
+        "section": "B02",
+        "days": "TuTh",
+        "time": "12:00p-4:50p",
+        "building": "NSB",
+        "room": "1111",
+        "instructor": "Johnson, Christina A",
+        "instructors": [
+          "Johnson, Christina A"
+        ],
+        "start_time": "12:00",
+        "end_time": "16:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "926533",
+        "type": "LA",
+        "section": "B01",
+        "days": "TuTh",
+        "time": "12:00p-4:50p",
+        "building": "NSB",
+        "room": "1103",
+        "instructor": "Johnson, Christina A",
+        "instructors": [
+          "Johnson, Christina A"
+        ],
+        "start_time": "12:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926534",
+        "type": "LA",
+        "section": "B02",
+        "days": "TuTh",
+        "time": "12:00p-4:50p",
+        "building": "NSB",
+        "room": "1111",
+        "instructor": "Johnson, Christina A",
+        "instructors": [
+          "Johnson, Christina A"
+        ],
+        "start_time": "12:00",
+        "end_time": "16:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "code": "CHEM 172",
+  "name": "Environmental Chemistry II",
+  "department": "CHEM",
+  "id": "172",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "926580",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "9:30a-10:50a",
+      "building": "CENTR",
+      "room": "214",
+      "instructor": "Pomeroy, Robert S.",
+      "instructors": [
+        "Pomeroy, Robert S."
+      ],
+      "start_time": "9:30",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "8:00a-8:50a",
+      "building": "WLH",
+      "room": "2206",
+      "instructor": "Pomeroy, Robert S.",
+      "instructors": [
+        "Pomeroy, Robert S."
+      ],
+      "start_time": "8:00",
+      "end_time": "8:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A02",
+      "days": "W",
+      "time": "8:00a-8:50a",
+      "building": "WLH",
+      "room": "2206",
+      "instructor": "Pomeroy, Robert S.",
+      "instructors": [
+        "Pomeroy, Robert S."
+      ],
+      "start_time": "8:00",
+      "end_time": "8:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/06/2018",
+      "days": "Tu",
+      "time": "6:00p-8:50p",
+      "building": "YORK",
+      "room": "4080A",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-02-06T08:00:00.000Z",
+      "start_time": "18:00",
+      "end_time": "20:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/06/2018",
+      "days": "Tu",
+      "time": "6:00p-8:50p",
+      "building": "YORK",
+      "room": "4080A",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-02-06T08:00:00.000Z",
+      "start_time": "18:00",
+      "end_time": "20:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2206",
+        "instructor": "Pomeroy, Robert S.",
+        "instructors": [
+          "Pomeroy, Robert S."
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "926580",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CENTR",
+        "room": "214",
+        "instructor": "Pomeroy, Robert S.",
+        "instructors": [
+          "Pomeroy, Robert S."
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2206",
+        "instructor": "Pomeroy, Robert S.",
+        "instructors": [
+          "Pomeroy, Robert S."
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "926580",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CENTR",
+        "room": "214",
+        "instructor": "Pomeroy, Robert S.",
+        "instructors": [
+          "Pomeroy, Robert S."
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "code": "CSE 110",
+  "name": "Software Engineering",
+  "department": "CSE",
+  "id": "110",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "10:00a-10:50a",
+      "building": "WLH",
+      "room": "2001",
+      "instructor": "Griswold, William G.",
+      "instructors": [
+        "Griswold, William G."
+      ],
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A01",
+      "days": "F",
+      "time": "12:00p-12:50p",
+      "building": "PCYNH",
+      "room": "122",
+      "instructor": "Griswold, William G.",
+      "instructors": [
+        "Griswold, William G."
+      ],
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A02",
+      "days": "F",
+      "time": "5:00p-5:50p",
+      "building": "PCYNH",
+      "room": "122",
+      "instructor": "Griswold, William G.",
+      "instructors": [
+        "Griswold, William G."
+      ],
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A03",
+      "days": "F",
+      "time": "3:00p-3:50p",
+      "building": "WLH",
+      "room": "2207",
+      "instructor": "Griswold, William G.",
+      "instructors": [
+        "Griswold, William G."
+      ],
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927491",
+      "type": "LA",
+      "section": "A50",
+      "days": "M",
+      "time": "11:00a-11:50a",
+      "building": "EBU3B",
+      "room": "B260",
+      "instructor": "Griswold, William G.",
+      "instructors": [
+        "Griswold, William G."
+      ],
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927492",
+      "type": "LA",
+      "section": "A51",
+      "days": "M",
+      "time": "12:00p-12:50p",
+      "building": "EBU3B",
+      "room": "B260",
+      "instructor": "Griswold, William G.",
+      "instructors": [
+        "Griswold, William G."
+      ],
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2001",
+        "instructor": "Griswold, William G.",
+        "instructors": [
+          "Griswold, William G."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "927491",
+        "type": "LA",
+        "section": "A50",
+        "days": "M",
+        "time": "11:00a-11:50a",
+        "building": "EBU3B",
+        "room": "B260",
+        "instructor": "Griswold, William G.",
+        "instructors": [
+          "Griswold, William G."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "927492",
+        "type": "LA",
+        "section": "A51",
+        "days": "M",
+        "time": "12:00p-12:50p",
+        "building": "EBU3B",
+        "room": "B260",
+        "instructor": "Griswold, William G.",
+        "instructors": [
+          "Griswold, William G."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2001",
+        "instructor": "Griswold, William G.",
+        "instructors": [
+          "Griswold, William G."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2001",
+        "instructor": "Griswold, William G.",
+        "instructors": [
+          "Griswold, William G."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A01",
+        "days": "F",
+        "time": "12:00p-12:50p",
+        "building": "PCYNH",
+        "room": "122",
+        "instructor": "Griswold, William G.",
+        "instructors": [
+          "Griswold, William G."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A02",
+        "days": "F",
+        "time": "5:00p-5:50p",
+        "building": "PCYNH",
+        "room": "122",
+        "instructor": "Griswold, William G.",
+        "instructors": [
+          "Griswold, William G."
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A03",
+        "days": "F",
+        "time": "3:00p-3:50p",
+        "building": "WLH",
+        "room": "2207",
+        "instructor": "Griswold, William G.",
+        "instructors": [
+          "Griswold, William G."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

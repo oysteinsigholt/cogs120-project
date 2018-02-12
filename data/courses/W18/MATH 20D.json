@@ -1,0 +1,448 @@
+{
+  "code": "MATH 20D",
+  "name": "Intro/Differential Equations",
+  "department": "MATH",
+  "id": "20D",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "D00",
+      "days": "MWF",
+      "time": "5:00p-5:50p",
+      "building": "CENTR",
+      "room": "115",
+      "instructor": "Kolesnikov, Pavel",
+      "instructors": [
+        "Kolesnikov, Pavel"
+      ],
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927053",
+      "type": "DI",
+      "section": "D01",
+      "days": "Tu",
+      "time": "4:00p-4:50p",
+      "building": "WLH",
+      "room": "2209",
+      "instructor": "Kolesnikov, Pavel",
+      "instructors": [
+        "Kolesnikov, Pavel"
+      ],
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927054",
+      "type": "DI",
+      "section": "D02",
+      "days": "Tu",
+      "time": "5:00p-5:50p",
+      "building": "WLH",
+      "room": "2209",
+      "instructor": "Kolesnikov, Pavel",
+      "instructors": [
+        "Kolesnikov, Pavel"
+      ],
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927055",
+      "type": "DI",
+      "section": "D03",
+      "days": "Tu",
+      "time": "6:00p-6:50p",
+      "building": "WLH",
+      "room": "2209",
+      "instructor": "Kolesnikov, Pavel",
+      "instructors": [
+        "Kolesnikov, Pavel"
+      ],
+      "start_time": "18:00",
+      "end_time": "18:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927056",
+      "type": "DI",
+      "section": "D04",
+      "days": "Tu",
+      "time": "7:00p-7:50p",
+      "building": "WLH",
+      "room": "2209",
+      "instructor": "Kolesnikov, Pavel",
+      "instructors": [
+        "Kolesnikov, Pavel"
+      ],
+      "start_time": "19:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927057",
+      "type": "DI",
+      "section": "D05",
+      "days": "Cancelled",
+      "time": "Cancelled",
+      "building": "Cancelled",
+      "room": "Cancelled",
+      "instructor": "Cancelled",
+      "instructors": [
+        "Cancelled"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927058",
+      "type": "DI",
+      "section": "D06",
+      "days": "Cancelled",
+      "time": "Cancelled",
+      "building": "Cancelled",
+      "room": "Cancelled",
+      "instructor": "Cancelled",
+      "instructors": [
+        "Cancelled"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "D50",
+      "days": "Th",
+      "time": "4:00p-4:50p",
+      "building": "APM",
+      "room": "B349",
+      "instructor": "",
+      "instructors": [],
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "D51",
+      "days": "Th",
+      "time": "5:00p-5:50p",
+      "building": "APM",
+      "room": "B349",
+      "instructor": "",
+      "instructors": [],
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "D52",
+      "days": "Th",
+      "time": "6:00p-6:50p",
+      "building": "APM",
+      "room": "B349",
+      "instructor": "",
+      "instructors": [],
+      "start_time": "18:00",
+      "end_time": "18:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "D53",
+      "days": "Th",
+      "time": "7:00p-7:50p",
+      "building": "APM",
+      "room": "B349",
+      "instructor": "",
+      "instructors": [],
+      "start_time": "19:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "D54",
+      "days": "Th",
+      "time": "8:00p-8:50p",
+      "building": "APM",
+      "room": "B349",
+      "instructor": "",
+      "instructors": [],
+      "start_time": "20:00",
+      "end_time": "20:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "D55",
+      "days": "Th",
+      "time": "9:00p-9:50p",
+      "building": "APM",
+      "room": "B349",
+      "instructor": "",
+      "instructors": [],
+      "start_time": "21:00",
+      "end_time": "21:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "5:00p-5:50p",
+        "building": "CENTR",
+        "room": "115",
+        "instructor": "Kolesnikov, Pavel",
+        "instructors": [
+          "Kolesnikov, Pavel"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "927053",
+        "type": "DI",
+        "section": "D01",
+        "days": "Tu",
+        "time": "4:00p-4:50p",
+        "building": "WLH",
+        "room": "2209",
+        "instructor": "Kolesnikov, Pavel",
+        "instructors": [
+          "Kolesnikov, Pavel"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "927054",
+        "type": "DI",
+        "section": "D02",
+        "days": "Tu",
+        "time": "5:00p-5:50p",
+        "building": "WLH",
+        "room": "2209",
+        "instructor": "Kolesnikov, Pavel",
+        "instructors": [
+          "Kolesnikov, Pavel"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "927055",
+        "type": "DI",
+        "section": "D03",
+        "days": "Tu",
+        "time": "6:00p-6:50p",
+        "building": "WLH",
+        "room": "2209",
+        "instructor": "Kolesnikov, Pavel",
+        "instructors": [
+          "Kolesnikov, Pavel"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "927056",
+        "type": "DI",
+        "section": "D04",
+        "days": "Tu",
+        "time": "7:00p-7:50p",
+        "building": "WLH",
+        "room": "2209",
+        "instructor": "Kolesnikov, Pavel",
+        "instructors": [
+          "Kolesnikov, Pavel"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "5:00p-5:50p",
+        "building": "CENTR",
+        "room": "115",
+        "instructor": "Kolesnikov, Pavel",
+        "instructors": [
+          "Kolesnikov, Pavel"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "D50",
+        "days": "Th",
+        "time": "4:00p-4:50p",
+        "building": "APM",
+        "room": "B349",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "D51",
+        "days": "Th",
+        "time": "5:00p-5:50p",
+        "building": "APM",
+        "room": "B349",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "D52",
+        "days": "Th",
+        "time": "6:00p-6:50p",
+        "building": "APM",
+        "room": "B349",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "D53",
+        "days": "Th",
+        "time": "7:00p-7:50p",
+        "building": "APM",
+        "room": "B349",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "D54",
+        "days": "Th",
+        "time": "8:00p-8:50p",
+        "building": "APM",
+        "room": "B349",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "D55",
+        "days": "Th",
+        "time": "9:00p-9:50p",
+        "building": "APM",
+        "room": "B349",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "21:00",
+        "end_time": "21:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "5:00p-5:50p",
+        "building": "CENTR",
+        "room": "115",
+        "instructor": "Kolesnikov, Pavel",
+        "instructors": [
+          "Kolesnikov, Pavel"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

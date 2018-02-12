@@ -1,0 +1,84 @@
+{
+  "code": "ECON 245",
+  "name": "International Trade",
+  "department": "ECON",
+  "id": "245",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "924135",
+      "type": "LE",
+      "section": "A00",
+      "days": "M",
+      "time": "11:00a-1:50p",
+      "building": "ECON",
+      "room": "200",
+      "instructor": "Ramondo, Natalia",
+      "instructors": [
+        "Ramondo, Natalia"
+      ],
+      "start_time": "11:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "924135",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "11:00a-1:50p",
+        "building": "ECON",
+        "room": "200",
+        "instructor": "Ramondo, Natalia",
+        "instructors": [
+          "Ramondo, Natalia"
+        ],
+        "start_time": "11:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "code": "CLRE 237",
+  "name": "Stem Cell Translation",
+  "department": "CLRE",
+  "id": "237",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "929397",
+      "type": "LE",
+      "section": "A00",
+      "days": "Th",
+      "time": "2:00p-4:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Morris, Sheldon",
+      "instructors": [
+        "Morris, Sheldon"
+      ],
+      "start_time": "14:00",
+      "end_time": "16:00"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "929397",
+        "type": "LE",
+        "section": "A00",
+        "days": "Th",
+        "time": "2:00p-4:00p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Morris, Sheldon",
+        "instructors": [
+          "Morris, Sheldon"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:00"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

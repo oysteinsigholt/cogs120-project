@@ -1,0 +1,55 @@
+{
+  "code": "INTL 190",
+  "name": "Seminar/International Studies",
+  "department": "INTL",
+  "id": "190",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "929016",
+      "type": "SE",
+      "section": "H00",
+      "days": "W",
+      "time": "10:00a-12:50p",
+      "building": "RBC",
+      "room": "1401",
+      "instructor": "Kshatriya, Krista C",
+      "instructors": [
+        "Kshatriya, Krista C"
+      ],
+      "start_time": "10:00",
+      "end_time": "12:50"
+    }
+  ],
+  "notes": [
+    "Glob Access to Modern Medicine"
+  ],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "929016",
+        "type": "SE",
+        "section": "H00",
+        "days": "W",
+        "time": "10:00a-12:50p",
+        "building": "RBC",
+        "room": "1401",
+        "instructor": "Kshatriya, Krista C",
+        "instructors": [
+          "Kshatriya, Krista C"
+        ],
+        "start_time": "10:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

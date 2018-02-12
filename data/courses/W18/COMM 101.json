@@ -1,0 +1,296 @@
+{
+  "code": "COMM 101",
+  "name": "Intro Audio-Vis Media Practice",
+  "department": "COMM",
+  "id": "101",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MW",
+      "time": "5:00p-6:20p",
+      "building": "CENTR",
+      "room": "109",
+      "instructor": "Martinico, Daniel J",
+      "instructors": [
+        "Martinico, Daniel J"
+      ],
+      "start_time": "17:00",
+      "end_time": "18:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924170",
+      "type": "DI",
+      "section": "A01",
+      "days": "Tu",
+      "time": "9:30a-12:20p",
+      "building": "MCC",
+      "room": "222",
+      "instructor": "Martinico, Daniel J",
+      "instructors": [
+        "Martinico, Daniel J"
+      ],
+      "start_time": "9:30",
+      "end_time": "12:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924171",
+      "type": "DI",
+      "section": "A02",
+      "days": "W",
+      "time": "9:00a-11:50a",
+      "building": "MCC",
+      "room": "222",
+      "instructor": "Martinico, Daniel J",
+      "instructors": [
+        "Martinico, Daniel J"
+      ],
+      "start_time": "9:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924172",
+      "type": "DI",
+      "section": "A03",
+      "days": "Th",
+      "time": "2:30p-5:20p",
+      "building": "MCC",
+      "room": "222",
+      "instructor": "Martinico, Daniel J",
+      "instructors": [
+        "Martinico, Daniel J"
+      ],
+      "start_time": "14:30",
+      "end_time": "17:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924173",
+      "type": "DI",
+      "section": "A04",
+      "days": "F",
+      "time": "9:00a-11:50a",
+      "building": "MCC",
+      "room": "222",
+      "instructor": "Martinico, Daniel J",
+      "instructors": [
+        "Martinico, Daniel J"
+      ],
+      "start_time": "9:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "929146",
+      "type": "DI",
+      "section": "A05",
+      "days": "Tu",
+      "time": "12:30p-3:20p",
+      "building": "MCC",
+      "room": "222",
+      "instructor": "Martinico, Daniel J",
+      "instructors": [
+        "Martinico, Daniel J"
+      ],
+      "start_time": "12:30",
+      "end_time": "15:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "929147",
+      "type": "DI",
+      "section": "A06",
+      "days": "W",
+      "time": "12:00p-2:50p",
+      "building": "MCC",
+      "room": "222",
+      "instructor": "Martinico, Daniel J",
+      "instructors": [
+        "Martinico, Daniel J"
+      ],
+      "start_time": "12:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "CENTR",
+        "room": "109",
+        "instructor": "Martinico, Daniel J",
+        "instructors": [
+          "Martinico, Daniel J"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "924170",
+        "type": "DI",
+        "section": "A01",
+        "days": "Tu",
+        "time": "9:30a-12:20p",
+        "building": "MCC",
+        "room": "222",
+        "instructor": "Martinico, Daniel J",
+        "instructors": [
+          "Martinico, Daniel J"
+        ],
+        "start_time": "9:30",
+        "end_time": "12:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "929146",
+        "type": "DI",
+        "section": "A05",
+        "days": "Tu",
+        "time": "12:30p-3:20p",
+        "building": "MCC",
+        "room": "222",
+        "instructor": "Martinico, Daniel J",
+        "instructors": [
+          "Martinico, Daniel J"
+        ],
+        "start_time": "12:30",
+        "end_time": "15:20"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "CENTR",
+        "room": "109",
+        "instructor": "Martinico, Daniel J",
+        "instructors": [
+          "Martinico, Daniel J"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924171",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "9:00a-11:50a",
+        "building": "MCC",
+        "room": "222",
+        "instructor": "Martinico, Daniel J",
+        "instructors": [
+          "Martinico, Daniel J"
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "929147",
+        "type": "DI",
+        "section": "A06",
+        "days": "W",
+        "time": "12:00p-2:50p",
+        "building": "MCC",
+        "room": "222",
+        "instructor": "Martinico, Daniel J",
+        "instructors": [
+          "Martinico, Daniel J"
+        ],
+        "start_time": "12:00",
+        "end_time": "14:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "924172",
+        "type": "DI",
+        "section": "A03",
+        "days": "Th",
+        "time": "2:30p-5:20p",
+        "building": "MCC",
+        "room": "222",
+        "instructor": "Martinico, Daniel J",
+        "instructors": [
+          "Martinico, Daniel J"
+        ],
+        "start_time": "14:30",
+        "end_time": "17:20"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "924173",
+        "type": "DI",
+        "section": "A04",
+        "days": "F",
+        "time": "9:00a-11:50a",
+        "building": "MCC",
+        "room": "222",
+        "instructor": "Martinico, Daniel J",
+        "instructors": [
+          "Martinico, Daniel J"
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

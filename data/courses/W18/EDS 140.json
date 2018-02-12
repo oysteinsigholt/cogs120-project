@@ -1,0 +1,85 @@
+{
+  "code": "EDS 140",
+  "name": "Intro Action Rsrch P-12 Edu",
+  "department": "EDS",
+  "id": "140",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "Th",
+      "time": "3:00p-4:50p",
+      "building": "PCYNH",
+      "room": "448",
+      "instructor": "Chung, Luz Marina",
+      "instructors": [
+        "Chung, Luz Marina"
+      ],
+      "start_time": "15:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922511",
+      "type": "DI",
+      "section": "A01",
+      "days": "Th",
+      "time": "5:00p-5:50p",
+      "building": "PCYNH",
+      "room": "448",
+      "instructor": "Chung, Luz Marina",
+      "instructors": [
+        "Chung, Luz Marina"
+      ],
+      "start_time": "17:00",
+      "end_time": "17:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "Th",
+        "time": "3:00p-4:50p",
+        "building": "PCYNH",
+        "room": "448",
+        "instructor": "Chung, Luz Marina",
+        "instructors": [
+          "Chung, Luz Marina"
+        ],
+        "start_time": "15:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "922511",
+        "type": "DI",
+        "section": "A01",
+        "days": "Th",
+        "time": "5:00p-5:50p",
+        "building": "PCYNH",
+        "room": "448",
+        "instructor": "Chung, Luz Marina",
+        "instructors": [
+          "Chung, Luz Marina"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

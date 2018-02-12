@@ -1,0 +1,53 @@
+{
+  "code": "MUS 95W",
+  "name": "World Music Ensembles",
+  "department": "MUS",
+  "id": "95W",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921931",
+      "type": "ST",
+      "section": "B00",
+      "days": "W",
+      "time": "5:00p-7:50p",
+      "building": "CPMC",
+      "room": "264",
+      "instructor": "Seshadri, Kartik",
+      "instructors": [
+        "Seshadri, Kartik"
+      ],
+      "start_time": "17:00",
+      "end_time": "19:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "921931",
+        "type": "ST",
+        "section": "B00",
+        "days": "W",
+        "time": "5:00p-7:50p",
+        "building": "CPMC",
+        "room": "264",
+        "instructor": "Seshadri, Kartik",
+        "instructors": [
+          "Seshadri, Kartik"
+        ],
+        "start_time": "17:00",
+        "end_time": "19:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

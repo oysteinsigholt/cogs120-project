@@ -1,0 +1,84 @@
+{
+  "code": "MSED 296B",
+  "name": "Theories & Applications/MSED",
+  "department": "MSED",
+  "id": "296B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920927",
+      "type": "LE",
+      "section": "A00",
+      "days": "M",
+      "time": "10:00a-1:00p",
+      "building": "UREY",
+      "room": "2265",
+      "instructor": "Bussey, Thomas J",
+      "instructors": [
+        "Bussey, Thomas J"
+      ],
+      "start_time": "10:00",
+      "end_time": "13:00"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "920927",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "10:00a-1:00p",
+        "building": "UREY",
+        "room": "2265",
+        "instructor": "Bussey, Thomas J",
+        "instructors": [
+          "Bussey, Thomas J"
+        ],
+        "start_time": "10:00",
+        "end_time": "13:00"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "code": "BENG 119B",
+  "name": "Design Implmntatn Biomechanics",
+  "department": "BENG",
+  "id": "119B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "923294",
+      "type": "LE",
+      "section": "A00",
+      "days": "Tu",
+      "time": "5:00p-5:50p",
+      "building": "PFBH",
+      "room": "226",
+      "instructor": "Wheeler, Bruce Christopher",
+      "instructors": [
+        "Wheeler, Bruce Christopher"
+      ],
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "A01",
+      "days": "Tu",
+      "time": "6:00p-6:50p",
+      "building": "PFBH",
+      "room": "108",
+      "instructor": "Wheeler, Bruce Christopher",
+      "instructors": [
+        "Wheeler, Bruce Christopher"
+      ],
+      "start_time": "18:00",
+      "end_time": "18:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "923294",
+        "type": "LE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "5:00p-5:50p",
+        "building": "PFBH",
+        "room": "226",
+        "instructor": "Wheeler, Bruce Christopher",
+        "instructors": [
+          "Wheeler, Bruce Christopher"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A01",
+        "days": "Tu",
+        "time": "6:00p-6:50p",
+        "building": "PFBH",
+        "room": "108",
+        "instructor": "Wheeler, Bruce Christopher",
+        "instructors": [
+          "Wheeler, Bruce Christopher"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

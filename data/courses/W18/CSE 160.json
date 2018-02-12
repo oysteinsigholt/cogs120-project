@@ -1,0 +1,163 @@
+{
+  "code": "CSE 160",
+  "name": "Intro to Parallel Computing",
+  "department": "CSE",
+  "id": "160",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "927529",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "6:30p-7:50p",
+      "building": "CENTR",
+      "room": "212",
+      "instructor": "Papadopoulos, Philip Micha",
+      "instructors": [
+        "Papadopoulos, Philip Micha"
+      ],
+      "start_time": "18:30",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "8:00p-8:50p",
+      "building": "CSB",
+      "room": "002",
+      "instructor": "Papadopoulos, Philip Micha",
+      "instructors": [
+        "Papadopoulos, Philip Micha"
+      ],
+      "start_time": "20:00",
+      "end_time": "20:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "A50",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Papadopoulos, Philip Micha",
+      "instructors": [
+        "Papadopoulos, Philip Micha"
+      ]
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "A50",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Papadopoulos, Philip Micha",
+      "instructors": [
+        "Papadopoulos, Philip Micha"
+      ]
+    }
+  ],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "8:00p-8:50p",
+        "building": "CSB",
+        "room": "002",
+        "instructor": "Papadopoulos, Philip Micha",
+        "instructors": [
+          "Papadopoulos, Philip Micha"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "927529",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "6:30p-7:50p",
+        "building": "CENTR",
+        "room": "212",
+        "instructor": "Papadopoulos, Philip Micha",
+        "instructors": [
+          "Papadopoulos, Philip Micha"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "927529",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "6:30p-7:50p",
+        "building": "CENTR",
+        "room": "212",
+        "instructor": "Papadopoulos, Philip Micha",
+        "instructors": [
+          "Papadopoulos, Philip Micha"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

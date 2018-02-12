@@ -1,0 +1,57 @@
+{
+  "code": "FPM 242",
+  "name": "Lifestyle Medicine",
+  "department": "FPM",
+  "id": "242",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930443",
+      "type": "LE",
+      "section": "A00",
+      "days": "Th",
+      "time": "1:00p-3:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Hill, Linda L. & Vitale, Kenneth C",
+      "instructors": [
+        "Hill, Linda L.",
+        "Vitale, Kenneth C"
+      ],
+      "start_time": "13:00",
+      "end_time": "15:00"
+    }
+  ],
+  "notes": [
+    "Location: Atkinson Hall 4004"
+  ],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "930443",
+        "type": "LE",
+        "section": "A00",
+        "days": "Th",
+        "time": "1:00p-3:00p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Hill, Linda L. & Vitale, Kenneth C",
+        "instructors": [
+          "Hill, Linda L.",
+          "Vitale, Kenneth C"
+        ],
+        "start_time": "13:00",
+        "end_time": "15:00"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

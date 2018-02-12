@@ -1,0 +1,984 @@
+{
+  "code": "DOC 2",
+  "name": "Justice",
+  "department": "DOC",
+  "id": "2",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "C00",
+      "days": "MWF",
+      "time": "2:00p-2:50p",
+      "building": "SOLIS",
+      "room": "107",
+      "instructor": "Ho, Lisa",
+      "instructors": [
+        "Ho, Lisa"
+      ],
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920791",
+      "type": "DI",
+      "section": "C01",
+      "days": "WF",
+      "time": "9:00a-9:50a",
+      "building": "SEQUO",
+      "room": "138",
+      "instructor": "Ho, Lisa",
+      "instructors": [
+        "Ho, Lisa"
+      ],
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920792",
+      "type": "DI",
+      "section": "C02",
+      "days": "WF",
+      "time": "10:00a-10:50a",
+      "building": "SEQUO",
+      "room": "138",
+      "instructor": "Ho, Lisa",
+      "instructors": [
+        "Ho, Lisa"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920793",
+      "type": "DI",
+      "section": "C03",
+      "days": "WF",
+      "time": "10:00a-10:50a",
+      "building": "SEQUO",
+      "room": "143",
+      "instructor": "Ho, Lisa",
+      "instructors": [
+        "Ho, Lisa"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920794",
+      "type": "DI",
+      "section": "C04",
+      "days": "WF",
+      "time": "11:00a-11:50a",
+      "building": "SEQUO",
+      "room": "143",
+      "instructor": "Ho, Lisa",
+      "instructors": [
+        "Ho, Lisa"
+      ],
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920795",
+      "type": "DI",
+      "section": "C05",
+      "days": "WF",
+      "time": "11:00a-11:50a",
+      "building": "SEQUO",
+      "room": "138",
+      "instructor": "Ho, Lisa",
+      "instructors": [
+        "Ho, Lisa"
+      ],
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920796",
+      "type": "DI",
+      "section": "C06",
+      "days": "WF",
+      "time": "12:00p-12:50p",
+      "building": "SEQUO",
+      "room": "138",
+      "instructor": "Ho, Lisa",
+      "instructors": [
+        "Ho, Lisa"
+      ],
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920797",
+      "type": "DI",
+      "section": "C07",
+      "days": "WF",
+      "time": "3:00p-3:50p",
+      "building": "SEQUO",
+      "room": "119",
+      "instructor": "Ho, Lisa",
+      "instructors": [
+        "Ho, Lisa"
+      ],
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920798",
+      "type": "DI",
+      "section": "C08",
+      "days": "WF",
+      "time": "4:00p-4:50p",
+      "building": "SEQUO",
+      "room": "119",
+      "instructor": "Ho, Lisa",
+      "instructors": [
+        "Ho, Lisa"
+      ],
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920799",
+      "type": "DI",
+      "section": "C09",
+      "days": "WF",
+      "time": "4:00p-4:50p",
+      "building": "SEQUO",
+      "room": "141",
+      "instructor": "Ho, Lisa",
+      "instructors": [
+        "Ho, Lisa"
+      ],
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920800",
+      "type": "DI",
+      "section": "C10",
+      "days": "WF",
+      "time": "5:00p-5:50p",
+      "building": "SEQUO",
+      "room": "141",
+      "instructor": "Ho, Lisa",
+      "instructors": [
+        "Ho, Lisa"
+      ],
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920801",
+      "type": "DI",
+      "section": "C11",
+      "days": "WF",
+      "time": "5:00p-5:50p",
+      "building": "SEQUO",
+      "room": "119",
+      "instructor": "Ho, Lisa",
+      "instructors": [
+        "Ho, Lisa"
+      ],
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920802",
+      "type": "DI",
+      "section": "C12",
+      "days": "WF",
+      "time": "6:00p-6:50p",
+      "building": "SEQUO",
+      "room": "119",
+      "instructor": "Ho, Lisa",
+      "instructors": [
+        "Ho, Lisa"
+      ],
+      "start_time": "18:00",
+      "end_time": "18:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920803",
+      "type": "DI",
+      "section": "C13",
+      "days": "TuTh",
+      "time": "10:00a-10:50a",
+      "building": "SEQUO",
+      "room": "143",
+      "instructor": "Ho, Lisa",
+      "instructors": [
+        "Ho, Lisa"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920804",
+      "type": "DI",
+      "section": "C14",
+      "days": "TuTh",
+      "time": "11:00a-11:50a",
+      "building": "SEQUO",
+      "room": "143",
+      "instructor": "Ho, Lisa",
+      "instructors": [
+        "Ho, Lisa"
+      ],
+      "start_time": "11:00",
+      "end_time": "11:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920805",
+      "type": "DI",
+      "section": "C15",
+      "days": "TuTh",
+      "time": "12:00p-12:50p",
+      "building": "SEQUO",
+      "room": "143",
+      "instructor": "Ho, Lisa",
+      "instructors": [
+        "Ho, Lisa"
+      ],
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920806",
+      "type": "DI",
+      "section": "C16",
+      "days": "TuTh",
+      "time": "1:00p-1:50p",
+      "building": "SEQUO",
+      "room": "143",
+      "instructor": "Ho, Lisa",
+      "instructors": [
+        "Ho, Lisa"
+      ],
+      "start_time": "13:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920807",
+      "type": "DI",
+      "section": "C17",
+      "days": "TuTh",
+      "time": "2:00p-2:50p",
+      "building": "SEQUO",
+      "room": "143",
+      "instructor": "Ho, Lisa",
+      "instructors": [
+        "Ho, Lisa"
+      ],
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920808",
+      "type": "DI",
+      "section": "C18",
+      "days": "TuTh",
+      "time": "3:00p-3:50p",
+      "building": "SEQUO",
+      "room": "143",
+      "instructor": "Ho, Lisa",
+      "instructors": [
+        "Ho, Lisa"
+      ],
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "SOLIS",
+        "room": "107",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "920803",
+        "type": "DI",
+        "section": "C13",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "SEQUO",
+        "room": "143",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920804",
+        "type": "DI",
+        "section": "C14",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "SEQUO",
+        "room": "143",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920805",
+        "type": "DI",
+        "section": "C15",
+        "days": "TuTh",
+        "time": "12:00p-12:50p",
+        "building": "SEQUO",
+        "room": "143",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920806",
+        "type": "DI",
+        "section": "C16",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "SEQUO",
+        "room": "143",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920807",
+        "type": "DI",
+        "section": "C17",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "SEQUO",
+        "room": "143",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920808",
+        "type": "DI",
+        "section": "C18",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "SEQUO",
+        "room": "143",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "SOLIS",
+        "room": "107",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920791",
+        "type": "DI",
+        "section": "C01",
+        "days": "WF",
+        "time": "9:00a-9:50a",
+        "building": "SEQUO",
+        "room": "138",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920792",
+        "type": "DI",
+        "section": "C02",
+        "days": "WF",
+        "time": "10:00a-10:50a",
+        "building": "SEQUO",
+        "room": "138",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920793",
+        "type": "DI",
+        "section": "C03",
+        "days": "WF",
+        "time": "10:00a-10:50a",
+        "building": "SEQUO",
+        "room": "143",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920794",
+        "type": "DI",
+        "section": "C04",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "SEQUO",
+        "room": "143",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920795",
+        "type": "DI",
+        "section": "C05",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "SEQUO",
+        "room": "138",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920796",
+        "type": "DI",
+        "section": "C06",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "SEQUO",
+        "room": "138",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920797",
+        "type": "DI",
+        "section": "C07",
+        "days": "WF",
+        "time": "3:00p-3:50p",
+        "building": "SEQUO",
+        "room": "119",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920798",
+        "type": "DI",
+        "section": "C08",
+        "days": "WF",
+        "time": "4:00p-4:50p",
+        "building": "SEQUO",
+        "room": "119",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920799",
+        "type": "DI",
+        "section": "C09",
+        "days": "WF",
+        "time": "4:00p-4:50p",
+        "building": "SEQUO",
+        "room": "141",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920800",
+        "type": "DI",
+        "section": "C10",
+        "days": "WF",
+        "time": "5:00p-5:50p",
+        "building": "SEQUO",
+        "room": "141",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920801",
+        "type": "DI",
+        "section": "C11",
+        "days": "WF",
+        "time": "5:00p-5:50p",
+        "building": "SEQUO",
+        "room": "119",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920802",
+        "type": "DI",
+        "section": "C12",
+        "days": "WF",
+        "time": "6:00p-6:50p",
+        "building": "SEQUO",
+        "room": "119",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "920803",
+        "type": "DI",
+        "section": "C13",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "SEQUO",
+        "room": "143",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920804",
+        "type": "DI",
+        "section": "C14",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "SEQUO",
+        "room": "143",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920805",
+        "type": "DI",
+        "section": "C15",
+        "days": "TuTh",
+        "time": "12:00p-12:50p",
+        "building": "SEQUO",
+        "room": "143",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920806",
+        "type": "DI",
+        "section": "C16",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "SEQUO",
+        "room": "143",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920807",
+        "type": "DI",
+        "section": "C17",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "SEQUO",
+        "room": "143",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920808",
+        "type": "DI",
+        "section": "C18",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "SEQUO",
+        "room": "143",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "SOLIS",
+        "room": "107",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920791",
+        "type": "DI",
+        "section": "C01",
+        "days": "WF",
+        "time": "9:00a-9:50a",
+        "building": "SEQUO",
+        "room": "138",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920792",
+        "type": "DI",
+        "section": "C02",
+        "days": "WF",
+        "time": "10:00a-10:50a",
+        "building": "SEQUO",
+        "room": "138",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920793",
+        "type": "DI",
+        "section": "C03",
+        "days": "WF",
+        "time": "10:00a-10:50a",
+        "building": "SEQUO",
+        "room": "143",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920794",
+        "type": "DI",
+        "section": "C04",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "SEQUO",
+        "room": "143",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920795",
+        "type": "DI",
+        "section": "C05",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "SEQUO",
+        "room": "138",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920796",
+        "type": "DI",
+        "section": "C06",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "SEQUO",
+        "room": "138",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920797",
+        "type": "DI",
+        "section": "C07",
+        "days": "WF",
+        "time": "3:00p-3:50p",
+        "building": "SEQUO",
+        "room": "119",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920798",
+        "type": "DI",
+        "section": "C08",
+        "days": "WF",
+        "time": "4:00p-4:50p",
+        "building": "SEQUO",
+        "room": "119",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920799",
+        "type": "DI",
+        "section": "C09",
+        "days": "WF",
+        "time": "4:00p-4:50p",
+        "building": "SEQUO",
+        "room": "141",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920800",
+        "type": "DI",
+        "section": "C10",
+        "days": "WF",
+        "time": "5:00p-5:50p",
+        "building": "SEQUO",
+        "room": "141",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920801",
+        "type": "DI",
+        "section": "C11",
+        "days": "WF",
+        "time": "5:00p-5:50p",
+        "building": "SEQUO",
+        "room": "119",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "920802",
+        "type": "DI",
+        "section": "C12",
+        "days": "WF",
+        "time": "6:00p-6:50p",
+        "building": "SEQUO",
+        "room": "119",
+        "instructor": "Ho, Lisa",
+        "instructors": [
+          "Ho, Lisa"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

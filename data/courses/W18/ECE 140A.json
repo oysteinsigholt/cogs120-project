@@ -1,0 +1,143 @@
+{
+  "code": "ECE 140A",
+  "name": "The Art of Product Eng I",
+  "department": "ECE",
+  "id": "140A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "11:00a-12:20p",
+      "building": "YORK",
+      "room": "4080A",
+      "instructor": "Gessner, Richard K. & Khoshabeh, Ramsin",
+      "instructors": [
+        "Gessner, Richard K.",
+        "Khoshabeh, Ramsin"
+      ],
+      "start_time": "11:00",
+      "end_time": "12:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925063",
+      "type": "LA",
+      "section": "A50",
+      "days": "M",
+      "time": "12:00p-1:50p",
+      "building": "EBU1",
+      "room": "B538",
+      "instructor": "Gessner, Richard K. & Khoshabeh, Ramsin",
+      "instructors": [
+        "Gessner, Richard K.",
+        "Khoshabeh, Ramsin"
+      ],
+      "start_time": "12:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925064",
+      "type": "LA",
+      "section": "A51",
+      "days": "W",
+      "time": "12:00p-1:50p",
+      "building": "EBU1",
+      "room": "B538",
+      "instructor": "Gessner, Richard K. & Khoshabeh, Ramsin",
+      "instructors": [
+        "Gessner, Richard K.",
+        "Khoshabeh, Ramsin"
+      ],
+      "start_time": "12:00",
+      "end_time": "13:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "925063",
+        "type": "LA",
+        "section": "A50",
+        "days": "M",
+        "time": "12:00p-1:50p",
+        "building": "EBU1",
+        "room": "B538",
+        "instructor": "Gessner, Richard K. & Khoshabeh, Ramsin",
+        "instructors": [
+          "Gessner, Richard K.",
+          "Khoshabeh, Ramsin"
+        ],
+        "start_time": "12:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "YORK",
+        "room": "4080A",
+        "instructor": "Gessner, Richard K. & Khoshabeh, Ramsin",
+        "instructors": [
+          "Gessner, Richard K.",
+          "Khoshabeh, Ramsin"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "925064",
+        "type": "LA",
+        "section": "A51",
+        "days": "W",
+        "time": "12:00p-1:50p",
+        "building": "EBU1",
+        "room": "B538",
+        "instructor": "Gessner, Richard K. & Khoshabeh, Ramsin",
+        "instructors": [
+          "Gessner, Richard K.",
+          "Khoshabeh, Ramsin"
+        ],
+        "start_time": "12:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "YORK",
+        "room": "4080A",
+        "instructor": "Gessner, Richard K. & Khoshabeh, Ramsin",
+        "instructors": [
+          "Gessner, Richard K.",
+          "Khoshabeh, Ramsin"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

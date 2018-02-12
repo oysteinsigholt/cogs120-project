@@ -1,0 +1,85 @@
+{
+  "code": "BENG 127B",
+  "name": "Design Implmnt Molec.Syst BENG",
+  "department": "BENG",
+  "id": "127B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "923304",
+      "type": "LE",
+      "section": "A00",
+      "days": "F",
+      "time": "9:00a-9:50a",
+      "building": "PFBH",
+      "room": "226",
+      "instructor": "Wheeler, Bruce Christopher",
+      "instructors": [
+        "Wheeler, Bruce Christopher"
+      ],
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "A01",
+      "days": "F",
+      "time": "10:00a-1:50p",
+      "building": "PFBH",
+      "room": "108",
+      "instructor": "Wheeler, Bruce Christopher",
+      "instructors": [
+        "Wheeler, Bruce Christopher"
+      ],
+      "start_time": "10:00",
+      "end_time": "13:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "923304",
+        "type": "LE",
+        "section": "A00",
+        "days": "F",
+        "time": "9:00a-9:50a",
+        "building": "PFBH",
+        "room": "226",
+        "instructor": "Wheeler, Bruce Christopher",
+        "instructors": [
+          "Wheeler, Bruce Christopher"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A01",
+        "days": "F",
+        "time": "10:00a-1:50p",
+        "building": "PFBH",
+        "room": "108",
+        "instructor": "Wheeler, Bruce Christopher",
+        "instructors": [
+          "Wheeler, Bruce Christopher"
+        ],
+        "start_time": "10:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

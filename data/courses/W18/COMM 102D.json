@@ -1,0 +1,151 @@
+{
+  "code": "COMM 102D",
+  "name": "MMPP: Practicum in Child Dev",
+  "department": "COMM",
+  "id": "102D",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "Th",
+      "time": "9:30a-12:20p",
+      "building": "MCC",
+      "room": "133",
+      "instructor": "Simon Salazar, Harry Love",
+      "instructors": [
+        "Simon Salazar, Harry Love"
+      ],
+      "start_time": "9:30",
+      "end_time": "12:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924179",
+      "type": "FW",
+      "section": "A01",
+      "days": "M",
+      "time": "3:30p-6:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Simon Salazar, Harry Love",
+      "instructors": [
+        "Simon Salazar, Harry Love"
+      ],
+      "start_time": "15:30",
+      "end_time": "18:00"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924180",
+      "type": "FW",
+      "section": "A02",
+      "days": "W",
+      "time": "3:30p-6:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Simon Salazar, Harry Love",
+      "instructors": [
+        "Simon Salazar, Harry Love"
+      ],
+      "start_time": "15:30",
+      "end_time": "18:00"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924181",
+      "type": "FW",
+      "section": "A03",
+      "days": "W",
+      "time": "2:00p-5:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Simon Salazar, Harry Love",
+      "instructors": [
+        "Simon Salazar, Harry Love"
+      ],
+      "start_time": "14:00",
+      "end_time": "17:30"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "924179",
+        "type": "FW",
+        "section": "A01",
+        "days": "M",
+        "time": "3:30p-6:00p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Simon Salazar, Harry Love",
+        "instructors": [
+          "Simon Salazar, Harry Love"
+        ],
+        "start_time": "15:30",
+        "end_time": "18:00"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "924180",
+        "type": "FW",
+        "section": "A02",
+        "days": "W",
+        "time": "3:30p-6:00p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Simon Salazar, Harry Love",
+        "instructors": [
+          "Simon Salazar, Harry Love"
+        ],
+        "start_time": "15:30",
+        "end_time": "18:00"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924181",
+        "type": "FW",
+        "section": "A03",
+        "days": "W",
+        "time": "2:00p-5:30p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Simon Salazar, Harry Love",
+        "instructors": [
+          "Simon Salazar, Harry Love"
+        ],
+        "start_time": "14:00",
+        "end_time": "17:30"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "Th",
+        "time": "9:30a-12:20p",
+        "building": "MCC",
+        "room": "133",
+        "instructor": "Simon Salazar, Harry Love",
+        "instructors": [
+          "Simon Salazar, Harry Love"
+        ],
+        "start_time": "9:30",
+        "end_time": "12:20"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

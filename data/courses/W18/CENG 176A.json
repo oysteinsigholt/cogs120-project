@@ -1,0 +1,132 @@
+{
+  "code": "CENG 176A",
+  "name": "Chem Engineerng Process Lab I",
+  "department": "CENG",
+  "id": "176A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "Tu",
+      "time": "2:00p-3:20p",
+      "building": "SME",
+      "room": "248",
+      "instructor": "Zhang, Liangfang",
+      "instructors": [
+        "Zhang, Liangfang"
+      ],
+      "start_time": "14:00",
+      "end_time": "15:20"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "Th",
+      "time": "2:00p-3:20p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "start_time": "14:00",
+      "end_time": "15:20"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926759",
+      "type": "LA",
+      "section": "B01",
+      "days": "TuTh",
+      "time": "10:00a-12:50p",
+      "building": "EBU2",
+      "room": "203",
+      "instructor": "Zhang, Liangfang",
+      "instructors": [
+        "Zhang, Liangfang"
+      ],
+      "start_time": "10:00",
+      "end_time": "12:50"
+    }
+  ],
+  "notes": [
+    "Thursdays location: Bioengineering Bld, Room 161"
+  ],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "Tu",
+        "time": "2:00p-3:20p",
+        "building": "SME",
+        "room": "248",
+        "instructor": "Zhang, Liangfang",
+        "instructors": [
+          "Zhang, Liangfang"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926759",
+        "type": "LA",
+        "section": "B01",
+        "days": "TuTh",
+        "time": "10:00a-12:50p",
+        "building": "EBU2",
+        "room": "203",
+        "instructor": "Zhang, Liangfang",
+        "instructors": [
+          "Zhang, Liangfang"
+        ],
+        "start_time": "10:00",
+        "end_time": "12:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": false,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "Th",
+        "time": "2:00p-3:20p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "",
+        "instructors": [],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926759",
+        "type": "LA",
+        "section": "B01",
+        "days": "TuTh",
+        "time": "10:00a-12:50p",
+        "building": "EBU2",
+        "room": "203",
+        "instructor": "Zhang, Liangfang",
+        "instructors": [
+          "Zhang, Liangfang"
+        ],
+        "start_time": "10:00",
+        "end_time": "12:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

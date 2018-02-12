@@ -1,0 +1,53 @@
+{
+  "code": "MUS 12",
+  "name": "Opera",
+  "department": "MUS",
+  "id": "12",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921779",
+      "type": "LA",
+      "section": "A06",
+      "days": "F",
+      "time": "1:00p-1:50p",
+      "building": "CPMC",
+      "room": "264",
+      "instructor": "Guy, Nancy",
+      "instructors": [
+        "Guy, Nancy"
+      ],
+      "start_time": "13:00",
+      "end_time": "13:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "921779",
+        "type": "LA",
+        "section": "A06",
+        "days": "F",
+        "time": "1:00p-1:50p",
+        "building": "CPMC",
+        "room": "264",
+        "instructor": "Guy, Nancy",
+        "instructors": [
+          "Guy, Nancy"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

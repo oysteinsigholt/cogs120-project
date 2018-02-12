@@ -1,0 +1,101 @@
+{
+  "code": "PSYC 152",
+  "name": "Conceptions of Intelligence",
+  "department": "PSYC",
+  "id": "152",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "929126",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "6:30p-7:50p",
+      "building": "PETER",
+      "room": "104",
+      "instructor": "Gasperi, Marianna",
+      "instructors": [
+        "Gasperi, Marianna"
+      ],
+      "start_time": "18:30",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "929126",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "6:30p-7:50p",
+        "building": "PETER",
+        "room": "104",
+        "instructor": "Gasperi, Marianna",
+        "instructors": [
+          "Gasperi, Marianna"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "929126",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "6:30p-7:50p",
+        "building": "PETER",
+        "room": "104",
+        "instructor": "Gasperi, Marianna",
+        "instructors": [
+          "Gasperi, Marianna"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

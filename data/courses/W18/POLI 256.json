@@ -1,0 +1,53 @@
+{
+  "code": "POLI 256",
+  "name": "RaceClassInstit/Amer Pol. Econ",
+  "department": "POLI",
+  "id": "256",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "925378",
+      "type": "SE",
+      "section": "A00",
+      "days": "Tu",
+      "time": "12:00p-2:50p",
+      "building": "SSB",
+      "room": "104",
+      "instructor": "Gause, LaGina",
+      "instructors": [
+        "Gause, LaGina"
+      ],
+      "start_time": "12:00",
+      "end_time": "14:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "925378",
+        "type": "SE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "12:00p-2:50p",
+        "building": "SSB",
+        "room": "104",
+        "instructor": "Gause, LaGina",
+        "instructors": [
+          "Gause, LaGina"
+        ],
+        "start_time": "12:00",
+        "end_time": "14:50"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

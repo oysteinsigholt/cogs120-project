@@ -1,0 +1,53 @@
+{
+  "code": "PHYS 258",
+  "name": "Astrophysics&Space Phys Sp Top",
+  "department": "PHYS",
+  "id": "258",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "923822",
+      "type": "SE",
+      "section": "A00",
+      "days": "F",
+      "time": "12:00p-12:50p",
+      "building": "SERF",
+      "room": "383",
+      "instructor": "Fuller, George Michael",
+      "instructors": [
+        "Fuller, George Michael"
+      ],
+      "start_time": "12:00",
+      "end_time": "12:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "923822",
+        "type": "SE",
+        "section": "A00",
+        "days": "F",
+        "time": "12:00p-12:50p",
+        "building": "SERF",
+        "room": "383",
+        "instructor": "Fuller, George Michael",
+        "instructors": [
+          "Fuller, George Michael"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

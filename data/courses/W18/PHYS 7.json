@@ -1,0 +1,134 @@
+{
+  "code": "PHYS 7",
+  "name": "Galaxies and Cosmology",
+  "department": "PHYS",
+  "id": "7",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "12:30p-1:50p",
+      "building": "CSB",
+      "room": "001",
+      "instructor": "Sandstrom, Karin Marie",
+      "instructors": [
+        "Sandstrom, Karin Marie"
+      ],
+      "start_time": "12:30",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923744",
+      "type": "DI",
+      "section": "A01",
+      "days": "W",
+      "time": "4:00p-4:50p",
+      "building": "CSB",
+      "room": "002",
+      "instructor": "Sandstrom, Karin Marie",
+      "instructors": [
+        "Sandstrom, Karin Marie"
+      ],
+      "start_time": "16:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CSB",
+        "room": "001",
+        "instructor": "Sandstrom, Karin Marie",
+        "instructors": [
+          "Sandstrom, Karin Marie"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "923744",
+        "type": "DI",
+        "section": "A01",
+        "days": "W",
+        "time": "4:00p-4:50p",
+        "building": "CSB",
+        "room": "002",
+        "instructor": "Sandstrom, Karin Marie",
+        "instructors": [
+          "Sandstrom, Karin Marie"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CSB",
+        "room": "001",
+        "instructor": "Sandstrom, Karin Marie",
+        "instructors": [
+          "Sandstrom, Karin Marie"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

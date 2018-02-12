@@ -1,0 +1,198 @@
+{
+  "code": "ECON 2",
+  "name": "Market Imperfections & Policy",
+  "department": "ECON",
+  "id": "2",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "3:30p-4:50p",
+      "building": "CENTR",
+      "room": "214",
+      "instructor": "Mateer, George Dirk",
+      "instructors": [
+        "Mateer, George Dirk"
+      ],
+      "start_time": "15:30",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924015",
+      "type": "DI",
+      "section": "A01",
+      "days": "Tu",
+      "time": "8:00p-8:50p",
+      "building": "WLH",
+      "room": "2113",
+      "instructor": "Mateer, George Dirk",
+      "instructors": [
+        "Mateer, George Dirk"
+      ],
+      "start_time": "20:00",
+      "end_time": "20:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924016",
+      "type": "DI",
+      "section": "A02",
+      "days": "W",
+      "time": "8:00p-8:50p",
+      "building": "WLH",
+      "room": "2113",
+      "instructor": "Mateer, George Dirk",
+      "instructors": [
+        "Mateer, George Dirk"
+      ],
+      "start_time": "20:00",
+      "end_time": "20:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924017",
+      "type": "DI",
+      "section": "A03",
+      "days": "Th",
+      "time": "8:00p-8:50p",
+      "building": "WLH",
+      "room": "2113",
+      "instructor": "Mateer, George Dirk",
+      "instructors": [
+        "Mateer, George Dirk"
+      ],
+      "start_time": "20:00",
+      "end_time": "20:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "CENTR",
+        "room": "214",
+        "instructor": "Mateer, George Dirk",
+        "instructors": [
+          "Mateer, George Dirk"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924015",
+        "type": "DI",
+        "section": "A01",
+        "days": "Tu",
+        "time": "8:00p-8:50p",
+        "building": "WLH",
+        "room": "2113",
+        "instructor": "Mateer, George Dirk",
+        "instructors": [
+          "Mateer, George Dirk"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "924016",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "8:00p-8:50p",
+        "building": "WLH",
+        "room": "2113",
+        "instructor": "Mateer, George Dirk",
+        "instructors": [
+          "Mateer, George Dirk"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "CENTR",
+        "room": "214",
+        "instructor": "Mateer, George Dirk",
+        "instructors": [
+          "Mateer, George Dirk"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924017",
+        "type": "DI",
+        "section": "A03",
+        "days": "Th",
+        "time": "8:00p-8:50p",
+        "building": "WLH",
+        "room": "2113",
+        "instructor": "Mateer, George Dirk",
+        "instructors": [
+          "Mateer, George Dirk"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

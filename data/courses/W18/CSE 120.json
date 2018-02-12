@@ -1,0 +1,134 @@
+{
+  "code": "CSE 120",
+  "name": "Princ/Computer Operating Systm",
+  "department": "CSE",
+  "id": "120",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "MW",
+      "time": "6:30p-7:50p",
+      "building": "CENTR",
+      "room": "119",
+      "instructor": "Pasquale, Joseph",
+      "instructors": [
+        "Pasquale, Joseph"
+      ],
+      "start_time": "18:30",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927499",
+      "type": "DI",
+      "section": "B01",
+      "days": "F",
+      "time": "7:00p-7:50p",
+      "building": "CENTR",
+      "room": "115",
+      "instructor": "Pasquale, Joseph",
+      "instructors": [
+        "Pasquale, Joseph"
+      ],
+      "start_time": "19:00",
+      "end_time": "19:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/17/2018",
+      "days": "S",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-17T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/17/2018",
+      "days": "S",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-17T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MW",
+        "time": "6:30p-7:50p",
+        "building": "CENTR",
+        "room": "119",
+        "instructor": "Pasquale, Joseph",
+        "instructors": [
+          "Pasquale, Joseph"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MW",
+        "time": "6:30p-7:50p",
+        "building": "CENTR",
+        "room": "119",
+        "instructor": "Pasquale, Joseph",
+        "instructors": [
+          "Pasquale, Joseph"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "927499",
+        "type": "DI",
+        "section": "B01",
+        "days": "F",
+        "time": "7:00p-7:50p",
+        "building": "CENTR",
+        "room": "115",
+        "instructor": "Pasquale, Joseph",
+        "instructors": [
+          "Pasquale, Joseph"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

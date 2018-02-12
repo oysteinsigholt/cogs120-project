@@ -1,0 +1,86 @@
+{
+  "code": "SIOG 237",
+  "name": "Space Geodesy",
+  "department": "SIOG",
+  "id": "237",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Fialko, Yuri A. & Sandwell, David T",
+      "instructors": [
+        "Fialko, Yuri A.",
+        "Sandwell, David T"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921992",
+      "type": "LA",
+      "section": "A01",
+      "days": "F",
+      "time": "1:00p-2:00p",
+      "building": "IGPP",
+      "room": "303",
+      "instructor": "Fialko, Yuri A. & Sandwell, David T",
+      "instructors": [
+        "Fialko, Yuri A.",
+        "Sandwell, David T"
+      ],
+      "start_time": "13:00",
+      "end_time": "14:00"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Fialko, Yuri A. & Sandwell, David T",
+      "instructors": [
+        "Fialko, Yuri A.",
+        "Sandwell, David T"
+      ]
+    }
+  ],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "921992",
+        "type": "LA",
+        "section": "A01",
+        "days": "F",
+        "time": "1:00p-2:00p",
+        "building": "IGPP",
+        "room": "303",
+        "instructor": "Fialko, Yuri A. & Sandwell, David T",
+        "instructors": [
+          "Fialko, Yuri A.",
+          "Sandwell, David T"
+        ],
+        "start_time": "13:00",
+        "end_time": "14:00"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

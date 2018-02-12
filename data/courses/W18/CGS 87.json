@@ -1,0 +1,55 @@
+{
+  "code": "CGS 87",
+  "name": "Freshman Seminar",
+  "department": "CGS",
+  "id": "87",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "927865",
+      "type": "SE",
+      "section": "A00",
+      "days": "Th",
+      "time": "3:30p-4:30p",
+      "building": "STCTR",
+      "room": "E209",
+      "instructor": "Hankins, Joseph D.",
+      "instructors": [
+        "Hankins, Joseph D."
+      ],
+      "start_time": "15:30",
+      "end_time": "16:30"
+    }
+  ],
+  "notes": [
+    "CGS 87 will be held in the LGBT Resource Center,\n Conference Room from 1/18/18 to 3/8/18"
+  ],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "927865",
+        "type": "SE",
+        "section": "A00",
+        "days": "Th",
+        "time": "3:30p-4:30p",
+        "building": "STCTR",
+        "room": "E209",
+        "instructor": "Hankins, Joseph D.",
+        "instructors": [
+          "Hankins, Joseph D."
+        ],
+        "start_time": "15:30",
+        "end_time": "16:30"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

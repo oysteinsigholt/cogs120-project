@@ -1,0 +1,55 @@
+{
+  "code": "BENG 225",
+  "name": "BioBusiness: Biotech Company",
+  "department": "BENG",
+  "id": "225",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "929980",
+      "type": "LE",
+      "section": "A00",
+      "days": "Tu",
+      "time": "6:30p-9:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Schmid-Schoenbein, Geert W",
+      "instructors": [
+        "Schmid-Schoenbein, Geert W"
+      ],
+      "start_time": "18:30",
+      "end_time": "21:30"
+    }
+  ],
+  "notes": [
+    "Class location Extension Complex Rm 101."
+  ],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "929980",
+        "type": "LE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "6:30p-9:30p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Schmid-Schoenbein, Geert W",
+        "instructors": [
+          "Schmid-Schoenbein, Geert W"
+        ],
+        "start_time": "18:30",
+        "end_time": "21:30"
+      }
+    ],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

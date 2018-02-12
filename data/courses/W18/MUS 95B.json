@@ -1,0 +1,53 @@
+{
+  "code": "MUS 95B",
+  "name": "Instrument Choir",
+  "department": "MUS",
+  "id": "95B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921920",
+      "type": "ST",
+      "section": "A00",
+      "days": "W",
+      "time": "2:00p-4:50p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Dresser, Mark Stuart",
+      "instructors": [
+        "Dresser, Mark Stuart"
+      ],
+      "start_time": "14:00",
+      "end_time": "16:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "921920",
+        "type": "ST",
+        "section": "A00",
+        "days": "W",
+        "time": "2:00p-4:50p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Dresser, Mark Stuart",
+        "instructors": [
+          "Dresser, Mark Stuart"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

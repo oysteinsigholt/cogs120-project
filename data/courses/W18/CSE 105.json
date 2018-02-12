@@ -1,0 +1,117 @@
+{
+  "code": "CSE 105",
+  "name": "Theory of Computation",
+  "department": "CSE",
+  "id": "105",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "927484",
+      "type": "DI",
+      "section": "B02",
+      "days": "Th",
+      "time": "10:00a-10:50a",
+      "building": "HSS",
+      "room": "1128A",
+      "instructor": "Minnes Kemp, Mor Mia",
+      "instructors": [
+        "Minnes Kemp, Mor Mia"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927485",
+      "type": "DI",
+      "section": "B03",
+      "days": "Th",
+      "time": "5:00p-5:50p",
+      "building": "HSS",
+      "room": "1128A",
+      "instructor": "Minnes Kemp, Mor Mia",
+      "instructors": [
+        "Minnes Kemp, Mor Mia"
+      ],
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "927486",
+      "type": "DI",
+      "section": "B04",
+      "days": "Th",
+      "time": "6:00p-6:50p",
+      "building": "HSS",
+      "room": "1128A",
+      "instructor": "Minnes Kemp, Mor Mia",
+      "instructors": [
+        "Minnes Kemp, Mor Mia"
+      ],
+      "start_time": "18:00",
+      "end_time": "18:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "927484",
+        "type": "DI",
+        "section": "B02",
+        "days": "Th",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "1128A",
+        "instructor": "Minnes Kemp, Mor Mia",
+        "instructors": [
+          "Minnes Kemp, Mor Mia"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "927485",
+        "type": "DI",
+        "section": "B03",
+        "days": "Th",
+        "time": "5:00p-5:50p",
+        "building": "HSS",
+        "room": "1128A",
+        "instructor": "Minnes Kemp, Mor Mia",
+        "instructors": [
+          "Minnes Kemp, Mor Mia"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "927486",
+        "type": "DI",
+        "section": "B04",
+        "days": "Th",
+        "time": "6:00p-6:50p",
+        "building": "HSS",
+        "room": "1128A",
+        "instructor": "Minnes Kemp, Mor Mia",
+        "instructors": [
+          "Minnes Kemp, Mor Mia"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

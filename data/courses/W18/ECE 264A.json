@@ -1,0 +1,130 @@
+{
+  "code": "ECE 264A",
+  "name": "CMOS Analog Integr Circ&Syst I",
+  "department": "ECE",
+  "id": "264A",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "925171",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "3:30p-4:50p",
+      "building": "EBU1",
+      "room": "2315",
+      "instructor": "Galton, Ian A",
+      "instructors": [
+        "Galton, Ian A"
+      ],
+      "start_time": "15:30",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Galton, Ian A",
+      "instructors": [
+        "Galton, Ian A"
+      ]
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Galton, Ian A",
+      "instructors": [
+        "Galton, Ian A"
+      ]
+    }
+  ],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "925171",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "EBU1",
+        "room": "2315",
+        "instructor": "Galton, Ian A",
+        "instructors": [
+          "Galton, Ian A"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "925171",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "EBU1",
+        "room": "2315",
+        "instructor": "Galton, Ian A",
+        "instructors": [
+          "Galton, Ian A"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

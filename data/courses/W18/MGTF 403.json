@@ -1,0 +1,84 @@
+{
+  "code": "MGTF 403",
+  "name": "Advanced Financial Risk Mgmt",
+  "department": "MGTF",
+  "id": "403",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "930395",
+      "type": "LE",
+      "section": "B00",
+      "days": "M",
+      "time": "1:30p-4:30p",
+      "building": "OTRSN",
+      "room": "1E107",
+      "instructor": "Valkanov, Rossen",
+      "instructors": [
+        "Valkanov, Rossen"
+      ],
+      "start_time": "13:30",
+      "end_time": "16:30"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "1:30p-4:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "13:30",
+      "end_time": "16:30"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "1:30p-4:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "13:30",
+      "end_time": "16:30"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "930395",
+        "type": "LE",
+        "section": "B00",
+        "days": "M",
+        "time": "1:30p-4:30p",
+        "building": "OTRSN",
+        "room": "1E107",
+        "instructor": "Valkanov, Rossen",
+        "instructors": [
+          "Valkanov, Rossen"
+        ],
+        "start_time": "13:30",
+        "end_time": "16:30"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

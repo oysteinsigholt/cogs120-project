@@ -1,0 +1,53 @@
+{
+  "code": "PSYC 87",
+  "name": "Freshman Seminar",
+  "department": "PSYC",
+  "id": "87",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "927886",
+      "type": "SE",
+      "section": "A00",
+      "days": "Th",
+      "time": "12:30p-1:50p",
+      "building": "MNDLR",
+      "room": "1539",
+      "instructor": "Gorman, Michael R.",
+      "instructors": [
+        "Gorman, Michael R."
+      ],
+      "start_time": "12:30",
+      "end_time": "13:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "927886",
+        "type": "SE",
+        "section": "A00",
+        "days": "Th",
+        "time": "12:30p-1:50p",
+        "building": "MNDLR",
+        "room": "1539",
+        "instructor": "Gorman, Michael R.",
+        "instructors": [
+          "Gorman, Michael R."
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

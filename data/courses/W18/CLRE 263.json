@@ -1,0 +1,84 @@
+{
+  "code": "CLRE 263",
+  "name": "Longitudinal Data Analysis",
+  "department": "CLRE",
+  "id": "263",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "929393",
+      "type": "LE",
+      "section": "A00",
+      "days": "M",
+      "time": "4:00p-6:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Mehta, Ravindra L.",
+      "instructors": [
+        "Mehta, Ravindra L."
+      ],
+      "start_time": "16:00",
+      "end_time": "18:00"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "929393",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "4:00p-6:00p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructor": "Mehta, Ravindra L.",
+        "instructors": [
+          "Mehta, Ravindra L."
+        ],
+        "start_time": "16:00",
+        "end_time": "18:00"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

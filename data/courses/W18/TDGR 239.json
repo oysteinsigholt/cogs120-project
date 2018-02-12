@@ -1,0 +1,55 @@
+{
+  "code": "TDGR 239",
+  "name": "Skills",
+  "department": "TDGR",
+  "id": "239",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "920400",
+      "type": "ST",
+      "section": "B00",
+      "days": "W",
+      "time": "2:00p-3:50p",
+      "building": "GH",
+      "room": "23",
+      "instructor": "Meyer, Ursula",
+      "instructors": [
+        "Meyer, Ursula"
+      ],
+      "start_time": "14:00",
+      "end_time": "15:50"
+    }
+  ],
+  "notes": [
+    "Alexander Technique"
+  ],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "920400",
+        "type": "ST",
+        "section": "B00",
+        "days": "W",
+        "time": "2:00p-3:50p",
+        "building": "GH",
+        "room": "23",
+        "instructor": "Meyer, Ursula",
+        "instructors": [
+          "Meyer, Ursula"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

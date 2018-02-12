@@ -1,0 +1,151 @@
+{
+  "code": "LTIT 2B",
+  "name": "Intermediate Italian II",
+  "department": "LTIT",
+  "id": "2B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MWF",
+      "time": "12:00p-12:50p",
+      "building": "LIT",
+      "room": "455",
+      "instructor": "De Marchi Gherini, Adriana",
+      "instructors": [
+        "De Marchi Gherini, Adriana"
+      ],
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920103",
+      "type": "DI",
+      "section": "A01",
+      "days": "Tu",
+      "time": "12:00p-12:50p",
+      "building": "LIT",
+      "room": "455",
+      "instructor": "De Marchi Gherini, Adriana",
+      "instructors": [
+        "De Marchi Gherini, Adriana"
+      ],
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "LIT",
+        "room": "455",
+        "instructor": "De Marchi Gherini, Adriana",
+        "instructors": [
+          "De Marchi Gherini, Adriana"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "920103",
+        "type": "DI",
+        "section": "A01",
+        "days": "Tu",
+        "time": "12:00p-12:50p",
+        "building": "LIT",
+        "room": "455",
+        "instructor": "De Marchi Gherini, Adriana",
+        "instructors": [
+          "De Marchi Gherini, Adriana"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "LIT",
+        "room": "455",
+        "instructor": "De Marchi Gherini, Adriana",
+        "instructors": [
+          "De Marchi Gherini, Adriana"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "LIT",
+        "room": "455",
+        "instructor": "De Marchi Gherini, Adriana",
+        "instructors": [
+          "De Marchi Gherini, Adriana"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

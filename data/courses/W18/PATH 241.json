@@ -1,0 +1,87 @@
+{
+  "code": "PATH 241",
+  "name": "Ethics&Survivl Skills/Academia",
+  "department": "PATH",
+  "id": "241",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "929321",
+      "type": "LE",
+      "section": "A00",
+      "days": "W",
+      "time": "9:00a-9:50a",
+      "building": "CSB",
+      "room": "180",
+      "instructor": "Kalichman, Michael W",
+      "instructors": [
+        "Kalichman, Michael W"
+      ],
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "SE",
+      "section": "A01",
+      "days": "W",
+      "time": "10:00a-11:50a",
+      "building": "CSB",
+      "room": "180",
+      "instructor": "Kalichman, Michael W",
+      "instructors": [
+        "Kalichman, Michael W"
+      ],
+      "start_time": "10:00",
+      "end_time": "11:50"
+    }
+  ],
+  "notes": [
+    "Please also sign-up directly with the course instructor\n using the following registration link for the Ethics\n and Survival Skills course at:\n http://ethics.ucsd.edu/courses/registration"
+  ],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "929321",
+        "type": "LE",
+        "section": "A00",
+        "days": "W",
+        "time": "9:00a-9:50a",
+        "building": "CSB",
+        "room": "180",
+        "instructor": "Kalichman, Michael W",
+        "instructors": [
+          "Kalichman, Michael W"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "SE",
+        "section": "A01",
+        "days": "W",
+        "time": "10:00a-11:50a",
+        "building": "CSB",
+        "room": "180",
+        "instructor": "Kalichman, Michael W",
+        "instructors": [
+          "Kalichman, Michael W"
+        ],
+        "start_time": "10:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

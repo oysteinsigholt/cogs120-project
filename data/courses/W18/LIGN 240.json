@@ -1,0 +1,70 @@
+{
+  "code": "LIGN 240",
+  "name": "Field Methods",
+  "department": "LIGN",
+  "id": "240",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "922295",
+      "type": "LE",
+      "section": "A00",
+      "days": "WF",
+      "time": "10:00a-11:50a",
+      "building": "APM",
+      "room": "2452",
+      "instructor": "Rose, Sharon",
+      "instructors": [
+        "Rose, Sharon"
+      ],
+      "start_time": "10:00",
+      "end_time": "11:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "922295",
+        "type": "LE",
+        "section": "A00",
+        "days": "WF",
+        "time": "10:00a-11:50a",
+        "building": "APM",
+        "room": "2452",
+        "instructor": "Rose, Sharon",
+        "instructors": [
+          "Rose, Sharon"
+        ],
+        "start_time": "10:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "922295",
+        "type": "LE",
+        "section": "A00",
+        "days": "WF",
+        "time": "10:00a-11:50a",
+        "building": "APM",
+        "room": "2452",
+        "instructor": "Rose, Sharon",
+        "instructors": [
+          "Rose, Sharon"
+        ],
+        "start_time": "10:00",
+        "end_time": "11:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

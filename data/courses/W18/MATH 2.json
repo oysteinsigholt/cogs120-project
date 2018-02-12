@@ -1,0 +1,162 @@
+{
+  "code": "MATH 2",
+  "name": "Intro to College Mathematics",
+  "department": "MATH",
+  "id": "2",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "TuTh",
+      "time": "3:30p-4:50p",
+      "building": "APM",
+      "room": "B412",
+      "instructor": "Harel, Guershon",
+      "instructors": [
+        "Harel, Guershon"
+      ],
+      "start_time": "15:30",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926774",
+      "type": "DI",
+      "section": "B01",
+      "days": "Tu",
+      "time": "8:00p-8:50p",
+      "building": "CENTR",
+      "room": "217A",
+      "instructor": "Harel, Guershon",
+      "instructors": [
+        "Harel, Guershon"
+      ],
+      "start_time": "20:00",
+      "end_time": "20:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "B50",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Harel, Guershon",
+      "instructors": [
+        "Harel, Guershon"
+      ]
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/17/2018",
+      "days": "S",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-17T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/17/2018",
+      "days": "S",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-17T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "B50",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "Harel, Guershon",
+      "instructors": [
+        "Harel, Guershon"
+      ]
+    }
+  ],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "APM",
+        "room": "B412",
+        "instructor": "Harel, Guershon",
+        "instructors": [
+          "Harel, Guershon"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926774",
+        "type": "DI",
+        "section": "B01",
+        "days": "Tu",
+        "time": "8:00p-8:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructor": "Harel, Guershon",
+        "instructors": [
+          "Harel, Guershon"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "APM",
+        "room": "B412",
+        "instructor": "Harel, Guershon",
+        "instructors": [
+          "Harel, Guershon"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

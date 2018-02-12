@@ -1,0 +1,117 @@
+{
+  "code": "EDS 136",
+  "name": "Intro/Acad Tut/Second Schl Std",
+  "department": "EDS",
+  "id": "136",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "M",
+      "time": "3:00p-4:50p",
+      "building": "PCYNH",
+      "room": "340",
+      "instructor": "Chung, Luz Marina",
+      "instructors": [
+        "Chung, Luz Marina"
+      ],
+      "start_time": "15:00",
+      "end_time": "16:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922492",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "5:00p-5:50p",
+      "building": "PCYNH",
+      "room": "304",
+      "instructor": "Chung, Luz Marina",
+      "instructors": [
+        "Chung, Luz Marina"
+      ],
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922493",
+      "type": "DI",
+      "section": "A02",
+      "days": "M",
+      "time": "5:00p-5:50p",
+      "building": "PCYNH",
+      "room": "302",
+      "instructor": "Chung, Luz Marina",
+      "instructors": [
+        "Chung, Luz Marina"
+      ],
+      "start_time": "17:00",
+      "end_time": "17:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "3:00p-4:50p",
+        "building": "PCYNH",
+        "room": "340",
+        "instructor": "Chung, Luz Marina",
+        "instructors": [
+          "Chung, Luz Marina"
+        ],
+        "start_time": "15:00",
+        "end_time": "16:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "922492",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "5:00p-5:50p",
+        "building": "PCYNH",
+        "room": "304",
+        "instructor": "Chung, Luz Marina",
+        "instructors": [
+          "Chung, Luz Marina"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "922493",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "5:00p-5:50p",
+        "building": "PCYNH",
+        "room": "302",
+        "instructor": "Chung, Luz Marina",
+        "instructors": [
+          "Chung, Luz Marina"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    ],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

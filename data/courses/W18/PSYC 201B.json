@@ -1,0 +1,134 @@
+{
+  "code": "PSYC 201B",
+  "name": "Quant Methods in Psyc II",
+  "department": "PSYC",
+  "id": "201B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "2:00p-3:50p",
+      "building": "MCGIL",
+      "room": "1350",
+      "instructor": "Vul, Edward",
+      "instructors": [
+        "Vul, Edward"
+      ],
+      "start_time": "14:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924678",
+      "type": "LA",
+      "section": "A01",
+      "days": "W",
+      "time": "5:00p-6:50p",
+      "building": "MCGIL",
+      "room": "1350",
+      "instructor": "Vul, Edward",
+      "instructors": [
+        "Vul, Edward"
+      ],
+      "start_time": "17:00",
+      "end_time": "18:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:50p",
+        "building": "MCGIL",
+        "room": "1350",
+        "instructor": "Vul, Edward",
+        "instructors": [
+          "Vul, Edward"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "924678",
+        "type": "LA",
+        "section": "A01",
+        "days": "W",
+        "time": "5:00p-6:50p",
+        "building": "MCGIL",
+        "room": "1350",
+        "instructor": "Vul, Edward",
+        "instructors": [
+          "Vul, Edward"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:50p",
+        "building": "MCGIL",
+        "room": "1350",
+        "instructor": "Vul, Edward",
+        "instructors": [
+          "Vul, Edward"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

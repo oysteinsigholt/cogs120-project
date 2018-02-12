@@ -1,0 +1,275 @@
+{
+  "code": "SIO 134",
+  "name": "Intro/Biological Oceanography",
+  "department": "SIO",
+  "id": "134",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921063",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "9:30a-10:50a",
+      "building": "CENTR",
+      "room": "119",
+      "instructor": "Landry, Michael Raymond & Barton, Andrew David",
+      "instructors": [
+        "Landry, Michael Raymond",
+        "Barton, Andrew David"
+      ],
+      "start_time": "9:30",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A01",
+      "days": "W",
+      "time": "9:00a-9:50a",
+      "building": "HSS",
+      "room": "1315",
+      "instructor": "Landry, Michael Raymond & Barton, Andrew David",
+      "instructors": [
+        "Landry, Michael Raymond",
+        "Barton, Andrew David"
+      ],
+      "start_time": "9:00",
+      "end_time": "9:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A02",
+      "days": "W",
+      "time": "10:00a-10:50a",
+      "building": "HSS",
+      "room": "1315",
+      "instructor": "Landry, Michael Raymond & Barton, Andrew David",
+      "instructors": [
+        "Landry, Michael Raymond",
+        "Barton, Andrew David"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A03",
+      "days": "W",
+      "time": "2:00p-2:50p",
+      "building": "CENTR",
+      "room": "217B",
+      "instructor": "Landry, Michael Raymond & Barton, Andrew David",
+      "instructors": [
+        "Landry, Michael Raymond",
+        "Barton, Andrew David"
+      ],
+      "start_time": "14:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A04",
+      "days": "W",
+      "time": "3:00p-3:50p",
+      "building": "CENTR",
+      "room": "217B",
+      "instructor": "Landry, Michael Raymond & Barton, Andrew David",
+      "instructors": [
+        "Landry, Michael Raymond",
+        "Barton, Andrew David"
+      ],
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A05",
+      "days": "W",
+      "time": "5:00p-5:50p",
+      "building": "HSS",
+      "room": "1315",
+      "instructor": "Landry, Michael Raymond & Barton, Andrew David",
+      "instructors": [
+        "Landry, Michael Raymond",
+        "Barton, Andrew David"
+      ],
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "921063",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CENTR",
+        "room": "119",
+        "instructor": "Landry, Michael Raymond & Barton, Andrew David",
+        "instructors": [
+          "Landry, Michael Raymond",
+          "Barton, Andrew David"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A01",
+        "days": "W",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "1315",
+        "instructor": "Landry, Michael Raymond & Barton, Andrew David",
+        "instructors": [
+          "Landry, Michael Raymond",
+          "Barton, Andrew David"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "1315",
+        "instructor": "Landry, Michael Raymond & Barton, Andrew David",
+        "instructors": [
+          "Landry, Michael Raymond",
+          "Barton, Andrew David"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A03",
+        "days": "W",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "217B",
+        "instructor": "Landry, Michael Raymond & Barton, Andrew David",
+        "instructors": [
+          "Landry, Michael Raymond",
+          "Barton, Andrew David"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A04",
+        "days": "W",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "217B",
+        "instructor": "Landry, Michael Raymond & Barton, Andrew David",
+        "instructors": [
+          "Landry, Michael Raymond",
+          "Barton, Andrew David"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A05",
+        "days": "W",
+        "time": "5:00p-5:50p",
+        "building": "HSS",
+        "room": "1315",
+        "instructor": "Landry, Michael Raymond & Barton, Andrew David",
+        "instructors": [
+          "Landry, Michael Raymond",
+          "Barton, Andrew David"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "921063",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CENTR",
+        "room": "119",
+        "instructor": "Landry, Michael Raymond & Barton, Andrew David",
+        "instructors": [
+          "Landry, Michael Raymond",
+          "Barton, Andrew David"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

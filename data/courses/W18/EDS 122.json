@@ -1,0 +1,101 @@
+{
+  "code": "EDS 122",
+  "name": "Foundn of Teach&Learn Science",
+  "department": "EDS",
+  "id": "122",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "922478",
+      "type": "LE",
+      "section": "A00",
+      "days": "TuTh",
+      "time": "1:00p-2:50p",
+      "building": "NSB",
+      "room": "3211",
+      "instructor": "Bussey, Thomas J",
+      "instructors": [
+        "Bussey, Thomas J"
+      ],
+      "start_time": "13:00",
+      "end_time": "14:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/24/2018",
+      "days": "S",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-24T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/24/2018",
+      "days": "S",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-24T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "922478",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "1:00p-2:50p",
+        "building": "NSB",
+        "room": "3211",
+        "instructor": "Bussey, Thomas J",
+        "instructors": [
+          "Bussey, Thomas J"
+        ],
+        "start_time": "13:00",
+        "end_time": "14:50"
+      }
+    ],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "922478",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "1:00p-2:50p",
+        "building": "NSB",
+        "room": "3211",
+        "instructor": "Bussey, Thomas J",
+        "instructors": [
+          "Bussey, Thomas J"
+        ],
+        "start_time": "13:00",
+        "end_time": "14:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

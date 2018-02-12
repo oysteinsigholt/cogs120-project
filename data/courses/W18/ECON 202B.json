@@ -1,0 +1,53 @@
+{
+  "code": "ECON 202B",
+  "name": "Workshop in Economic Theory",
+  "department": "ECON",
+  "id": "202B",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "924125",
+      "type": "SE",
+      "section": "A00",
+      "days": "W",
+      "time": "2:00p-3:20p",
+      "building": "ECON",
+      "room": "300",
+      "instructor": "Watson, Joel Christopher",
+      "instructors": [
+        "Watson, Joel Christopher"
+      ],
+      "start_time": "14:00",
+      "end_time": "15:20"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "924125",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "2:00p-3:20p",
+        "building": "ECON",
+        "room": "300",
+        "instructor": "Watson, Joel Christopher",
+        "instructors": [
+          "Watson, Joel Christopher"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

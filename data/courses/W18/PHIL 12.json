@@ -1,0 +1,165 @@
+{
+  "code": "PHIL 12",
+  "name": "Scientific Reasoning",
+  "department": "PHIL",
+  "id": "12",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "MW",
+      "time": "12:00p-12:50p",
+      "building": "CSB",
+      "room": "002",
+      "instructor": "Dougherty II, John Edward",
+      "instructors": [
+        "Dougherty II, John Edward"
+      ],
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924778",
+      "type": "DI",
+      "section": "A01",
+      "days": "M",
+      "time": "3:00p-3:50p",
+      "building": "SOLIS",
+      "room": "111",
+      "instructor": "Dougherty II, John Edward",
+      "instructors": [
+        "Dougherty II, John Edward"
+      ],
+      "start_time": "15:00",
+      "end_time": "15:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924779",
+      "type": "DI",
+      "section": "A02",
+      "days": "W",
+      "time": "10:00a-10:50a",
+      "building": "SOLIS",
+      "room": "110",
+      "instructor": "Dougherty II, John Edward",
+      "instructors": [
+        "Dougherty II, John Edward"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "12:00p-12:50p",
+        "building": "CSB",
+        "room": "002",
+        "instructor": "Dougherty II, John Edward",
+        "instructors": [
+          "Dougherty II, John Edward"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924778",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "3:00p-3:50p",
+        "building": "SOLIS",
+        "room": "111",
+        "instructor": "Dougherty II, John Edward",
+        "instructors": [
+          "Dougherty II, John Edward"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    ],
+    "Tu": [],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "12:00p-12:50p",
+        "building": "CSB",
+        "room": "002",
+        "instructor": "Dougherty II, John Edward",
+        "instructors": [
+          "Dougherty II, John Edward"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "924779",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "10:00a-10:50a",
+        "building": "SOLIS",
+        "room": "110",
+        "instructor": "Dougherty II, John Edward",
+        "instructors": [
+          "Dougherty II, John Edward"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    ],
+    "Th": [],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "code": "MUS 171",
+  "name": "Computer Music I",
+  "department": "MUS",
+  "id": "171",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "921814",
+      "type": "LA",
+      "section": "A02",
+      "days": "Th",
+      "time": "5:00p-5:50p",
+      "building": "CPMC",
+      "room": "136",
+      "instructor": "Puckette, Miller S.",
+      "instructors": [
+        "Puckette, Miller S."
+      ],
+      "start_time": "17:00",
+      "end_time": "17:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "921814",
+        "type": "LA",
+        "section": "A02",
+        "days": "Th",
+        "time": "5:00p-5:50p",
+        "building": "CPMC",
+        "room": "136",
+        "instructor": "Puckette, Miller S.",
+        "instructors": [
+          "Puckette, Miller S."
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    ],
+    "F": [],
+    "Sa": [],
+    "Su": []
+  }
+}

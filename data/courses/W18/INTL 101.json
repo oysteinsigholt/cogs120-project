@@ -1,0 +1,53 @@
+{
+  "code": "INTL 101",
+  "name": "Cult & Society/Intrn'l Perspec",
+  "department": "INTL",
+  "id": "101",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "928999",
+      "type": "DI",
+      "section": "A08",
+      "days": "F",
+      "time": "1:00p-1:50p",
+      "building": "ASANT",
+      "room": "123C",
+      "instructor": "Vitz, Matthew",
+      "instructors": [
+        "Vitz, Matthew"
+      ],
+      "start_time": "13:00",
+      "end_time": "13:50"
+    }
+  ],
+  "notes": [],
+  "events_single": [],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [],
+    "Tu": [],
+    "W": [],
+    "Th": [],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "928999",
+        "type": "DI",
+        "section": "A08",
+        "days": "F",
+        "time": "1:00p-1:50p",
+        "building": "ASANT",
+        "room": "123C",
+        "instructor": "Vitz, Matthew",
+        "instructors": [
+          "Vitz, Matthew"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}

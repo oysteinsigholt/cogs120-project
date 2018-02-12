@@ -1,0 +1,216 @@
+{
+  "code": "BIPN 105",
+  "name": "Animal Physiology Lab",
+  "department": "BIPN",
+  "id": "105",
+  "timeslots": [
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "B00",
+      "days": "MWF",
+      "time": "12:00p-12:50p",
+      "building": "CSB",
+      "room": "004",
+      "instructor": "Reyes Gonzalez, Catalina",
+      "instructors": [
+        "Reyes Gonzalez, Catalina"
+      ],
+      "start_time": "12:00",
+      "end_time": "12:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926196",
+      "type": "LA",
+      "section": "B01",
+      "days": "TuTh",
+      "time": "9:00a-1:50p",
+      "building": "YORK",
+      "room": "2410",
+      "instructor": "Reyes Gonzalez, Catalina",
+      "instructors": [
+        "Reyes Gonzalez, Catalina"
+      ],
+      "start_time": "9:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": true,
+      "sectionID": "926197",
+      "type": "LA",
+      "section": "B02",
+      "days": "TuTh",
+      "time": "9:00a-1:50p",
+      "building": "YORK",
+      "room": "2432",
+      "instructor": "Reyes Gonzalez, Catalina",
+      "instructors": [
+        "Reyes Gonzalez, Catalina"
+      ],
+      "start_time": "9:00",
+      "end_time": "13:50"
+    },
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "notes": [],
+  "events_single": [
+    {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructor": "",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  ],
+  "events_unknown": [],
+  "events_repeating": {
+    "M": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CSB",
+        "room": "004",
+        "instructor": "Reyes Gonzalez, Catalina",
+        "instructors": [
+          "Reyes Gonzalez, Catalina"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Tu": [
+      {
+        "sectxt": true,
+        "sectionID": "926196",
+        "type": "LA",
+        "section": "B01",
+        "days": "TuTh",
+        "time": "9:00a-1:50p",
+        "building": "YORK",
+        "room": "2410",
+        "instructor": "Reyes Gonzalez, Catalina",
+        "instructors": [
+          "Reyes Gonzalez, Catalina"
+        ],
+        "start_time": "9:00",
+        "end_time": "13:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926197",
+        "type": "LA",
+        "section": "B02",
+        "days": "TuTh",
+        "time": "9:00a-1:50p",
+        "building": "YORK",
+        "room": "2432",
+        "instructor": "Reyes Gonzalez, Catalina",
+        "instructors": [
+          "Reyes Gonzalez, Catalina"
+        ],
+        "start_time": "9:00",
+        "end_time": "13:50"
+      }
+    ],
+    "W": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CSB",
+        "room": "004",
+        "instructor": "Reyes Gonzalez, Catalina",
+        "instructors": [
+          "Reyes Gonzalez, Catalina"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Th": [
+      {
+        "sectxt": true,
+        "sectionID": "926196",
+        "type": "LA",
+        "section": "B01",
+        "days": "TuTh",
+        "time": "9:00a-1:50p",
+        "building": "YORK",
+        "room": "2410",
+        "instructor": "Reyes Gonzalez, Catalina",
+        "instructors": [
+          "Reyes Gonzalez, Catalina"
+        ],
+        "start_time": "9:00",
+        "end_time": "13:50"
+      },
+      {
+        "sectxt": true,
+        "sectionID": "926197",
+        "type": "LA",
+        "section": "B02",
+        "days": "TuTh",
+        "time": "9:00a-1:50p",
+        "building": "YORK",
+        "room": "2432",
+        "instructor": "Reyes Gonzalez, Catalina",
+        "instructors": [
+          "Reyes Gonzalez, Catalina"
+        ],
+        "start_time": "9:00",
+        "end_time": "13:50"
+      }
+    ],
+    "F": [
+      {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CSB",
+        "room": "004",
+        "instructor": "Reyes Gonzalez, Catalina",
+        "instructors": [
+          "Reyes Gonzalez, Catalina"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    ],
+    "Sa": [],
+    "Su": []
+  }
+}
