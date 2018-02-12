@@ -70,6 +70,9 @@ function parseTimeslot(row) {
     }
   });
 
+  let instructors = [];
+  instructors = columns[9].replace(/\\t/g, '').split('\\n').filter(n => n.replace(/\s/g, '').length > 1);
+
   return {
     sectxt: row.hasClass('sectxt'),
     sectionID: columns[2],
@@ -79,7 +82,7 @@ function parseTimeslot(row) {
     time: columns[6],
     building: columns[7],
     room: columns[8],
-    instructor: columns[9],
+    instructors,
   };
 }
 

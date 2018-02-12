@@ -13,7 +13,11 @@
       "time": "11:10a-12:30p",
       "building": "VAUGN",
       "room": "100",
-      "instructor": "Day, James M.D.                    \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCastillo, Paterno R.",
+      "instructor": "Day, James M.D. & Castillo, Paterno R.",
+      "instructors": [
+        "Day, James M.D.",
+        "Castillo, Paterno R."
+      ],
       "start_time": "11:10",
       "end_time": "12:30"
     },
@@ -27,6 +31,9 @@
       "building": "VAUGN",
       "room": "100",
       "instructor": "Day, James M.D.",
+      "instructors": [
+        "Day, James M.D."
+      ],
       "start_time": "12:40",
       "end_time": "13:30"
     },
@@ -40,6 +47,7 @@
       "building": "TBA",
       "room": "TBA",
       "instructor": "",
+      "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
@@ -57,6 +65,7 @@
       "building": "TBA",
       "room": "TBA",
       "instructor": "",
+      "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
@@ -75,7 +84,11 @@
         "time": "11:10a-12:30p",
         "building": "VAUGN",
         "room": "100",
-        "instructor": "Day, James M.D.                    \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCastillo, Paterno R.",
+        "instructor": "Day, James M.D. & Castillo, Paterno R.",
+        "instructors": [
+          "Day, James M.D.",
+          "Castillo, Paterno R."
+        ],
         "start_time": "11:10",
         "end_time": "12:30"
       },
@@ -89,6 +102,9 @@
         "building": "VAUGN",
         "room": "100",
         "instructor": "Day, James M.D.",
+        "instructors": [
+          "Day, James M.D."
+        ],
         "start_time": "12:40",
         "end_time": "13:30"
       }
@@ -104,7 +120,11 @@
         "time": "11:10a-12:30p",
         "building": "VAUGN",
         "room": "100",
-        "instructor": "Day, James M.D.                    \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCastillo, Paterno R.",
+        "instructor": "Day, James M.D. & Castillo, Paterno R.",
+        "instructors": [
+          "Day, James M.D.",
+          "Castillo, Paterno R."
+        ],
         "start_time": "11:10",
         "end_time": "12:30"
       }
