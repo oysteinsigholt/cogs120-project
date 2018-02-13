@@ -21,7 +21,7 @@ if (env !== 'dev') {
 }
 
 const userDir = path.resolve(__dirname, 'data', 'users');
-
+console.log(`Ensuring ${userDir} exists`);
 fs.stat(userDir, (err) => {
   if (err && err.errno === 34) {
     fs.mkdir(userDir);
