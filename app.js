@@ -106,7 +106,7 @@ app.get('/logout', (req, res) => {
   res.redirect('/');
 });
 
-app.get('/auth/google', passport.authenticate('google', { scope: ['profile', 'email'] }));
+app.get('/auth/google', passport.authenticate('google', { scope: ['profile', 'email'], prompt: 'select_account' }));
 
 app.get(
   '/auth/google/callback',
