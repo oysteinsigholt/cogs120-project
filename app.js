@@ -20,6 +20,14 @@ if (env !== 'dev') {
   callbackURL = 'https://edge-lords-a6.herokuapp.com/auth/google/callback';
 }
 
+const userDir = path.resolve(__dirname, 'data', 'users');
+
+fs.stat(userDir, (err) => {
+  if (err && err.errno === 34) {
+    fs.mkdir(userDir);
+  }
+});
+
 const app = express();
 
 const hbs = handlebars.create({
