@@ -3,42 +3,9 @@
   "name": "Fld Res:Meth/Participnt Observ",
   "department": "SOCI",
   "id": "104",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923185",
-      "type": "LE",
-      "section": "B00",
-      "days": "F",
-      "time": "9:00a-11:50a",
-      "building": "SSB",
-      "room": "101",
-      "instructor": "Turner, Christena L.",
-      "instructors": [
-        "Turner, Christena L."
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,21 +14,33 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "W": {
+      "2a48130aeb36d02628611642894f6a8db1128a51b0dab0b3873099504c4d4170": {
+        "sectxt": true,
+        "sectionID": "923184",
+        "type": "LE",
+        "section": "A00",
+        "days": "W",
+        "time": "9:00a-11:50a",
+        "building": "SSB",
+        "room": "101",
+        "instructors": [
+          "Raudenbush, Danielle"
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      }
+    },
+    "F": {
+      "bc6f12ec308c8a21aa8bdfcf02dc4e731ff1bff454bb534342ef55080e12994d": {
         "sectxt": true,
         "sectionID": "923185",
         "type": "LE",
@@ -70,15 +49,16 @@
         "time": "9:00a-11:50a",
         "building": "SSB",
         "room": "101",
-        "instructor": "Turner, Christena L.",
         "instructors": [
           "Turner, Christena L."
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

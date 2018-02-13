@@ -16,21 +16,37 @@
     <![endif]-->
 </head>
 
-<body class="grayscale">
+<body>
+	<form method="post">
 	<nav class="top-nav">
     <div class="nav-wrapper">
       <span class="brand-logo">UCSDPLAN.ME</span>
-			<ul class="right">
-        <li><a href="/skeleton/help.html"><i class="material-icons">info</i></a></li>
+			<ul class="nav-ul left">
+				<li><a href="#" data-activates="slide-out" class="button-collapse waves-effect"><i class="material-icons">menu</i></a></li>
       </ul>
     </div>
   </nav>
+	<ul id="slide-out" class="sidenav">
+    <li><div class="user-view">
+      <div class="background"></div>
+      <a><img class="circle" src="{{ user.photos.0.value }}"></a>
+      <a><span class="white-text name">{{ user.displayName }}</span></a>
+      <a><span class="white-text email">{{ user.emails.0.value }}</span></a>
+    </div></li>
+    <li><a class="waves-effect" href="/"><i class="material-icons">school</i>Manage Courses</a></li>
+    <li><a class="waves-effect" href="/calendar"><i class="material-icons">event</i>Calendar</a></li>
+    <li><div class="divider"></div></li>
+    <li><a class="waves-effect" href="/about"><i class="material-icons">info</i>About</a></li>
+		<li><a class="waves-effect" href="/help"><i class="material-icons">help</i>Help</a></li>
+		<li><div class="divider"></div></li>
+		<li><a class="waves-effect" href="/logout"><i class="material-icons">exit_to_app</i>Sign Out</a></li>
+  </ul>
 	<main>
 		<div class="container">
 			<div class="row">
 				<div class="col s12">
 					<ul class="tabs" id="ucsd-quarter">
-						<li class="tab col s3"><a href="#FA17">FA17</a></li>
+						<li class="tab col s3 disabled"><a href="#FA17">FA17</a></li>
 						<li class="tab col s3"><a class="active" href="#WI18">WI18</a></li>
 						<li class="tab col s3 disabled"><a href="#SP18">SP18</a></li>
 					</ul>
@@ -41,7 +57,7 @@
 					<div id="homepage-logo">
 					<img src="https://upload.wikimedia.org/wikipedia/en/4/44/University_of_California%2C_San_Diego_seal.svg" alt="UC San Diego Logo">
 					</div>
-					<div class="chips chips-autocomplete"></div>
+					<div class="chips chips-autocomplete disabled"></div>
 				</div>
 			</div>
 	  </div>
@@ -51,8 +67,15 @@
 			<i class="material-icons right">send</i>
 		</button>
 	</footer>
+</form>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
 	<script src="./script/script.js"></script>
+	<script>
+		$(document).ready(() => {
+			$(".button-collapse").sideNav();
+			loadCourses([{{#each user.courses}} "{{ this }}",{{/each}}]);
+		});
+	</script>
 </body>
 </html>

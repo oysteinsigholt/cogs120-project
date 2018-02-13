@@ -3,233 +3,79 @@
   "name": "Genetics",
   "department": "BICD",
   "id": "100",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "D00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "PETER",
-      "room": "108",
-      "instructor": "Grossman, Emily N",
-      "instructors": [
-        "Grossman, Emily N"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925879",
-      "type": "DI",
-      "section": "D01",
-      "days": "M",
-      "time": "1:00p-1:50p",
-      "building": "APM",
-      "room": "2301",
-      "instructor": "Grossman, Emily N",
-      "instructors": [
-        "Grossman, Emily N"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925880",
-      "type": "DI",
-      "section": "D02",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "APM",
-      "room": "2301",
-      "instructor": "Grossman, Emily N",
-      "instructors": [
-        "Grossman, Emily N"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925881",
-      "type": "DI",
-      "section": "D03",
-      "days": "M",
-      "time": "7:00p-7:50p",
-      "building": "CENTR",
-      "room": "203",
-      "instructor": "Grossman, Emily N",
-      "instructors": [
-        "Grossman, Emily N"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925882",
-      "type": "DI",
-      "section": "D04",
-      "days": "Tu",
-      "time": "7:00p-7:50p",
-      "building": "YORK",
-      "room": "3000A",
-      "instructor": "Grossman, Emily N",
-      "instructors": [
-        "Grossman, Emily N"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925883",
-      "type": "DI",
-      "section": "D05",
-      "days": "Tu",
-      "time": "8:00p-8:50p",
-      "building": "YORK",
-      "room": "3000A",
-      "instructor": "Grossman, Emily N",
-      "instructors": [
-        "Grossman, Emily N"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925884",
-      "type": "DI",
-      "section": "D06",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "CENTR",
-      "room": "217B",
-      "instructor": "Grossman, Emily N",
-      "instructors": [
-        "Grossman, Emily N"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925885",
-      "type": "DI",
-      "section": "D07",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "CENTR",
-      "room": "217B",
-      "instructor": "Grossman, Emily N",
-      "instructors": [
-        "Grossman, Emily N"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925886",
-      "type": "DI",
-      "section": "D08",
-      "days": "Th",
-      "time": "8:00a-8:50a",
-      "building": "HSS",
-      "room": "2154",
-      "instructor": "Grossman, Emily N",
-      "instructors": [
-        "Grossman, Emily N"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925888",
-      "type": "DI",
-      "section": "D10",
-      "days": "F",
-      "time": "4:00p-4:50p",
-      "building": "APM",
-      "room": "2301",
-      "instructor": "Grossman, Emily N",
-      "instructors": [
-        "Grossman, Emily N"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930724",
-      "type": "DI",
-      "section": "D11",
-      "days": "M",
-      "time": "6:00p-6:50p",
-      "building": "CENTR",
-      "room": "207",
-      "instructor": "Grossman, Emily N",
-      "instructors": [
-        "Grossman, Emily N"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "931807",
-      "type": "DI",
-      "section": "D12",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "CENTR",
-      "room": "218",
-      "instructor": "Grossman, Emily N",
-      "instructors": [
-        "Grossman, Emily N"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/03/2018",
-      "days": "S",
-      "time": "10:00a-11:50a",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-03T08:00:00.000Z",
-      "start_time": "10:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "bc8bb4add888187b0a328d024fc1d554a49327555b72319790504ba65ca6a49b": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/07/2018",
+      "days": "W",
+      "time": "7:30p-9:20p",
+      "building": "SEQUO",
+      "room": "147",
+      "instructors": [],
+      "date": "2018-02-07T08:00:00.000Z",
+      "start_time": "19:30",
+      "end_time": "21:20"
+    },
+    "afd5de312237a1bfd03ffc7a4ef21a4efe14c15ebb8b1174203494e90d9711a1": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MI",
+      "section": "02/09/2018",
+      "days": "F",
+      "time": "8:00p-9:20p",
+      "building": "SEQUO",
+      "room": "147",
+      "instructors": [],
+      "date": "2018-02-09T08:00:00.000Z",
+      "start_time": "20:00",
+      "end_time": "21:20"
+    },
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "4014bb1a466c069dc311d33d5ef7495aff7dbbe0834ca64e0d8d595c45fc5253": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    },
+    "5139b59900b2a15bbcc9f74995c455a57d46508184478e3e6f3c0cc1534d754d": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    },
+    "c7e7f95924c28f4f7cbfcab7d9039abd396f22d4b7505f2f41be379819631db5": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -238,13 +84,12 @@
       "time": "10:00a-11:50a",
       "building": "WLH",
       "room": "2001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-03T08:00:00.000Z",
       "start_time": "10:00",
       "end_time": "11:50"
     },
-    {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -253,17 +98,76 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "8432a605e762346a62486f2a80d7748b18731fa874d4414eb85d3273c1a6759b": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MW",
+        "time": "6:00p-7:20p",
+        "building": "SEQUO",
+        "room": "147",
+        "instructors": [
+          "Lo, Stanley Malvin Ming-Hi"
+        ],
+        "start_time": "18:00",
+        "end_time": "19:20"
+      },
+      "022225bb99f160615cc862609883b925e23ab9f117fa624b0cf5e0977e95b4d0": {
+        "sectxt": true,
+        "sectionID": "925868",
+        "type": "DI",
+        "section": "C01",
+        "days": "M",
+        "time": "2:00p-2:50p",
+        "building": "YORK",
+        "room": "3000A",
+        "instructors": [
+          "Bozinovic, Goran"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "bb8069d94df18ed38c813457d46aaed0f5e0ab7590f52ec8e61019bd0b345654": {
+        "sectxt": true,
+        "sectionID": "925869",
+        "type": "DI",
+        "section": "C02",
+        "days": "M",
+        "time": "3:00p-3:50p",
+        "building": "YORK",
+        "room": "3000A",
+        "instructors": [
+          "Bozinovic, Goran"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "1b694936a6de94882e1f2441ff11208d6e0c29a47a0ada3b4f0036b6f71a4468": {
+        "sectxt": true,
+        "sectionID": "925870",
+        "type": "DI",
+        "section": "C03",
+        "days": "M",
+        "time": "4:00p-4:50p",
+        "building": "YORK",
+        "room": "3000A",
+        "instructors": [
+          "Bozinovic, Goran"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "1fedd875955c7dd8aa6eb3439e141e0a5df5a77509842188108d0f2bad67fe3d": {
         "sectxt": true,
         "sectionID": "925879",
         "type": "DI",
@@ -272,14 +176,13 @@
         "time": "1:00p-1:50p",
         "building": "APM",
         "room": "2301",
-        "instructor": "Grossman, Emily N",
         "instructors": [
           "Grossman, Emily N"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "8a289990e9ab3df706743064e79ed3c34f414136b7aec4366a2ba780f541386d": {
         "sectxt": true,
         "sectionID": "925880",
         "type": "DI",
@@ -288,14 +191,13 @@
         "time": "2:00p-2:50p",
         "building": "APM",
         "room": "2301",
-        "instructor": "Grossman, Emily N",
         "instructors": [
           "Grossman, Emily N"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "ad4a9706f3a90aa7fffc681cff890478b46db5e7461f7c76a7cb635bc837275b": {
         "sectxt": true,
         "sectionID": "925881",
         "type": "DI",
@@ -304,14 +206,13 @@
         "time": "7:00p-7:50p",
         "building": "CENTR",
         "room": "203",
-        "instructor": "Grossman, Emily N",
         "instructors": [
           "Grossman, Emily N"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "7e1bbb93a489c4dad26d40044460caf4108d31bb6c44a47e92a607671e509815": {
         "sectxt": true,
         "sectionID": "930724",
         "type": "DI",
@@ -320,16 +221,60 @@
         "time": "6:00p-6:50p",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Grossman, Emily N",
         "instructors": [
           "Grossman, Emily N"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "979df717b14bf700ac34786e38e943c17094ef467bc27a99217c634a6e5f885f": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "PCYNH",
+        "room": "120",
+        "instructors": [
+          "Yelon, Deborah"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "84207d0ee86ae51894fb21260a63f7618d4827166d097e42a6e18dcbf550ea90": {
+        "sectxt": true,
+        "sectionID": "925871",
+        "type": "DI",
+        "section": "C04",
+        "days": "Tu",
+        "time": "8:00a-8:50a",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Bozinovic, Goran"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "30217a222cdf2ee3204ad9b8515e171bbc7ad75b155c35c1bf88b4db9b26ca8c": {
+        "sectxt": true,
+        "sectionID": "925872",
+        "type": "DI",
+        "section": "C05",
+        "days": "Tu",
+        "time": "7:00p-7:50p",
+        "building": "CENTR",
+        "room": "207",
+        "instructors": [
+          "Bozinovic, Goran"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "15f8fc55099550e23a3d27dacb7995683ddeaa025324444630ea5a32eb751980": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -338,14 +283,13 @@
         "time": "2:00p-3:20p",
         "building": "PETER",
         "room": "108",
-        "instructor": "Grossman, Emily N",
         "instructors": [
           "Grossman, Emily N"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       },
-      {
+      "bde4e6cc97425de9009565c7e9d8fefa3421db2bdc3c7317ccfed85db14e63b5": {
         "sectxt": true,
         "sectionID": "925882",
         "type": "DI",
@@ -354,14 +298,13 @@
         "time": "7:00p-7:50p",
         "building": "YORK",
         "room": "3000A",
-        "instructor": "Grossman, Emily N",
         "instructors": [
           "Grossman, Emily N"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "fcba25ada657ab53832166343434fd0607d6bb6fdc7f4c1e99a22bc26d68d395": {
         "sectxt": true,
         "sectionID": "925883",
         "type": "DI",
@@ -370,16 +313,60 @@
         "time": "8:00p-8:50p",
         "building": "YORK",
         "room": "3000A",
-        "instructor": "Grossman, Emily N",
         "instructors": [
           "Grossman, Emily N"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "5a52257563a85408eef0a83cb56c57868e25fbcb62ca11eb867b429cd142398a": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MW",
+        "time": "6:00p-7:20p",
+        "building": "SEQUO",
+        "room": "147",
+        "instructors": [
+          "Lo, Stanley Malvin Ming-Hi"
+        ],
+        "start_time": "18:00",
+        "end_time": "19:20"
+      },
+      "2f666bc372a8463df2fc842458c9802008112700325a01243ab34cebb1e1cf6d": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "WF",
+        "time": "7:00p-8:20p",
+        "building": "SOLIS",
+        "room": "107",
+        "instructors": [
+          "Bozinovic, Goran"
+        ],
+        "start_time": "19:00",
+        "end_time": "20:20"
+      },
+      "2ed9ab5e20b8b1784ffe48558a7abd2d76c9dd6b60d59707ac20f6fdf0b138e2": {
+        "sectxt": true,
+        "sectionID": "925875",
+        "type": "DI",
+        "section": "C08",
+        "days": "W",
+        "time": "5:00p-5:50p",
+        "building": "YORK",
+        "room": "3000A",
+        "instructors": [
+          "Bozinovic, Goran"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "1ee388931ea55c7eb27484fa38b0ff42ad460addda136c77cc41a85f2aa437a2": {
         "sectxt": true,
         "sectionID": "925884",
         "type": "DI",
@@ -388,14 +375,13 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "217B",
-        "instructor": "Grossman, Emily N",
         "instructors": [
           "Grossman, Emily N"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "55e5e6ac2dbbde2472d39a6ff1bd143200dd9c1cc0da772f573e34feae519743": {
         "sectxt": true,
         "sectionID": "925885",
         "type": "DI",
@@ -404,16 +390,30 @@
         "time": "6:00p-6:50p",
         "building": "CENTR",
         "room": "217B",
-        "instructor": "Grossman, Emily N",
         "instructors": [
           "Grossman, Emily N"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "d9a298da955f5b893f4478e3f282466555219d3b8f66ca24bc27d90b59ce58fd": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "PCYNH",
+        "room": "120",
+        "instructors": [
+          "Yelon, Deborah"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "bd5e8dfcc81f8dccb82c5f49d97b40eb0fc903efa3fa625dc566c967088dc3c5": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -422,14 +422,13 @@
         "time": "2:00p-3:20p",
         "building": "PETER",
         "room": "108",
-        "instructor": "Grossman, Emily N",
         "instructors": [
           "Grossman, Emily N"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       },
-      {
+      "c0c9399063c48aa522cfa3a8a3fbb866bcb35dd2e2dff3d72c81173d3985325a": {
         "sectxt": true,
         "sectionID": "925886",
         "type": "DI",
@@ -438,16 +437,120 @@
         "time": "8:00a-8:50a",
         "building": "HSS",
         "room": "2154",
-        "instructor": "Grossman, Emily N",
         "instructors": [
           "Grossman, Emily N"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "54d88539d255676d04a1632a3297ce00e44c5c447660f5ee737edf9d7decb2d7": {
+        "sectxt": true,
+        "sectionID": "925862",
+        "type": "DI",
+        "section": "A01",
+        "days": "F",
+        "time": "8:00a-8:50a",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Yelon, Deborah"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "ac3c04c43b832ad4e8149c450feb9c5ec080e1a0da5bbfd3762a326cfe6c726d": {
+        "sectxt": true,
+        "sectionID": "925863",
+        "type": "DI",
+        "section": "A02",
+        "days": "F",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Yelon, Deborah"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "60e12cf9901daac3d9bbb207f1370c04418d95dfa44555959699cb52310b8d4e": {
+        "sectxt": true,
+        "sectionID": "925865",
+        "type": "DI",
+        "section": "B01",
+        "days": "F",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Lo, Stanley Malvin Ming-Hi"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "0436b4b1a1d61a044b3cfce81b6971ca5eded99481210bd0bf73b93e8a8114ff": {
+        "sectxt": true,
+        "sectionID": "925866",
+        "type": "DI",
+        "section": "B02",
+        "days": "F",
+        "time": "11:00a-11:50a",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Lo, Stanley Malvin Ming-Hi"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "f24718ecd2e079306afcea6191e2cc110468ee84dce44b56de84422ad509f2ef": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "WF",
+        "time": "7:00p-8:20p",
+        "building": "SOLIS",
+        "room": "107",
+        "instructors": [
+          "Bozinovic, Goran"
+        ],
+        "start_time": "19:00",
+        "end_time": "20:20"
+      },
+      "902e42eb709f386817fdc011e808150d3bdde9696598830bb4834e57e757c55d": {
+        "sectxt": true,
+        "sectionID": "925876",
+        "type": "DI",
+        "section": "C09",
+        "days": "F",
+        "time": "5:00p-5:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Bozinovic, Goran"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "f4c8a0cebda54ddcfcfdfcc81821d0ea2bd0f8d4e0e5db0ae556d9f00f72f6a7": {
+        "sectxt": true,
+        "sectionID": "925877",
+        "type": "DI",
+        "section": "C10",
+        "days": "F",
+        "time": "6:00p-6:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Bozinovic, Goran"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "15c888ab5e29d8b93d697c39c5ab57f5ddd4b3e39a9bcb000115e6c2e010a361": {
         "sectxt": true,
         "sectionID": "925888",
         "type": "DI",
@@ -456,14 +559,13 @@
         "time": "4:00p-4:50p",
         "building": "APM",
         "room": "2301",
-        "instructor": "Grossman, Emily N",
         "instructors": [
           "Grossman, Emily N"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "96bae41b166c091f86100ba91f64ca48c86143f055ccf05c78972e073a9ef261": {
         "sectxt": true,
         "sectionID": "931807",
         "type": "DI",
@@ -472,15 +574,18 @@
         "time": "3:00p-3:50p",
         "building": "CENTR",
         "room": "218",
-        "instructor": "Grossman, Emily N",
         "instructors": [
           "Grossman, Emily N"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
 }

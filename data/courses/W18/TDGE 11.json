@@ -3,42 +3,9 @@
   "name": "Great Performances on Film",
   "department": "TDGE",
   "id": "11",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922690",
-      "type": "LE",
-      "section": "B00",
-      "days": "F",
-      "time": "5:00p-7:50p",
-      "building": "PCYNH",
-      "room": "106",
-      "instructor": "Raphaeli, Karen Adee",
-      "instructors": [
-        "Raphaeli, Karen Adee"
-      ],
-      "start_time": "17:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,21 +14,33 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "M": {
+      "965885bb9d85f4e33f0c50900bbd1a06863f6b534929c8dce5712deb5920345e": {
+        "sectxt": true,
+        "sectionID": "922689",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "5:00p-7:50p",
+        "building": "YORK",
+        "room": "2622",
+        "instructors": [
+          "White, Bryan Curtiss"
+        ],
+        "start_time": "17:00",
+        "end_time": "19:50"
+      }
+    },
+    "F": {
+      "183dd79fc2f7b2ba9c24fde11d550332deee8182a190dd1bcdb232e4b1ebc67b": {
         "sectxt": true,
         "sectionID": "922690",
         "type": "LE",
@@ -70,15 +49,16 @@
         "time": "5:00p-7:50p",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Raphaeli, Karen Adee",
         "instructors": [
           "Raphaeli, Karen Adee"
         ],
         "start_time": "17:00",
         "end_time": "19:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

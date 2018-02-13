@@ -3,49 +3,12 @@
   "name": "Intro Action Rsrch P-12 Edu",
   "department": "EDS",
   "id": "140",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "Th",
-      "time": "3:00p-4:50p",
-      "building": "PCYNH",
-      "room": "448",
-      "instructor": "Chung, Luz Marina",
-      "instructors": [
-        "Chung, Luz Marina"
-      ],
-      "start_time": "15:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922511",
-      "type": "DI",
-      "section": "A01",
-      "days": "Th",
-      "time": "5:00p-5:50p",
-      "building": "PCYNH",
-      "room": "448",
-      "instructor": "Chung, Luz Marina",
-      "instructors": [
-        "Chung, Luz Marina"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "a48aa614ee5b9821f083474d45e4df4b1e8b9095690c9f5f9bbb35100f4d9239": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -54,14 +17,13 @@
         "time": "3:00p-4:50p",
         "building": "PCYNH",
         "room": "448",
-        "instructor": "Chung, Luz Marina",
         "instructors": [
           "Chung, Luz Marina"
         ],
         "start_time": "15:00",
         "end_time": "16:50"
       },
-      {
+      "23bb2a72d80e4ed671320e1420e80b7de1f57d2224b0fff1cda225455798e0fe": {
         "sectxt": true,
         "sectionID": "922511",
         "type": "DI",
@@ -70,16 +32,15 @@
         "time": "5:00p-5:50p",
         "building": "PCYNH",
         "room": "448",
-        "instructor": "Chung, Luz Marina",
         "instructors": [
           "Chung, Luz Marina"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

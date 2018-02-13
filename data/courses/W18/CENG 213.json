@@ -3,42 +3,9 @@
   "name": "Nanoscale Synth & Characteriz",
   "department": "CENG",
   "id": "213",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926762",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "CENTR",
-      "room": "216",
-      "instructor": "Fenning, David",
-      "instructors": [
-        "Fenning, David"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "57a58af5a52d170f47b0dc7a8ee16a4957a25053fcb133d4c5fa139e9b883c9b": {
         "sectxt": true,
         "sectionID": "926762",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "11:00a-12:20p",
         "building": "CENTR",
         "room": "216",
-        "instructor": "Fenning, David",
         "instructors": [
           "Fenning, David"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "24bae39281df5808c05e3571d088d4f6bdee52c77bfea77c21c7ae130f76cdb9": {
         "sectxt": true,
         "sectionID": "926762",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "11:00a-12:20p",
         "building": "CENTR",
         "room": "216",
-        "instructor": "Fenning, David",
         "instructors": [
           "Fenning, David"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

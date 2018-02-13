@@ -3,31 +3,29 @@
   "name": "Special Topics",
   "department": "SIOC",
   "id": "209",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929161",
-      "type": "SE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "NIERN",
-      "room": "101",
-      "instructor": "Ricke, Katharine L",
-      "instructors": [
-        "Ricke, Katharine L"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    }
+  "notes": [
+    "Students should register for 4 units. Class will be\n held in the Sea Cave, first floor of the Eckart\n Building."
   ],
-  "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "7bc35c6b467aea6653ee10d99e273f2b2f0ee8ca50af0912e88939f001bdaafb": {
+        "sectxt": true,
+        "sectionID": "921975",
+        "type": "SE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:00a-10:50a",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Thompson, Luke"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:50"
+      },
+      "4f30b66e83067bc8d0de93f6403259b321420cbfd45750dd1fd0826b64e3348d": {
         "sectxt": true,
         "sectionID": "929161",
         "type": "SE",
@@ -36,17 +34,30 @@
         "time": "9:30a-10:50a",
         "building": "NIERN",
         "room": "101",
-        "instructor": "Ricke, Katharine L",
         "instructors": [
           "Ricke, Katharine L"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "c899ab47fd2448d2bc2bf51d460a5c46713c5b0ae2fa8bef9c44adaf0a543414": {
+        "sectxt": true,
+        "sectionID": "921975",
+        "type": "SE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:00a-10:50a",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Thompson, Luke"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:50"
+      },
+      "2f74fbc21a2883d67b91c9fef6cf00da6f78f3da3e0a52fd3ccfde6a04a82ad1": {
         "sectxt": true,
         "sectionID": "929161",
         "type": "SE",
@@ -55,16 +66,16 @@
         "time": "9:30a-10:50a",
         "building": "NIERN",
         "room": "101",
-        "instructor": "Ricke, Katharine L",
         "instructors": [
           "Ricke, Katharine L"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

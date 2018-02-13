@@ -3,31 +3,12 @@
   "name": "Looking at Dance",
   "department": "TDHD",
   "id": "20",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922699",
-      "type": "SE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "YORK",
-      "room": "3050B",
-      "instructor": "Clancy, Liam",
-      "instructors": [
-        "Clancy, Liam"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "f44f4b15d7682b345909ead3e861ca341c6030c2ff40bff3db52755c0bb0950b": {
         "sectxt": true,
         "sectionID": "922699",
         "type": "SE",
@@ -36,17 +17,15 @@
         "time": "11:00a-12:20p",
         "building": "YORK",
         "room": "3050B",
-        "instructor": "Clancy, Liam",
         "instructors": [
           "Clancy, Liam"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "1234909658fc933e8c2cf4ad92b7e674f61f9c8e73a13f4521d8dda6a664f59c": {
         "sectxt": true,
         "sectionID": "922699",
         "type": "SE",
@@ -55,16 +34,15 @@
         "time": "11:00a-12:20p",
         "building": "YORK",
         "room": "3050B",
-        "instructor": "Clancy, Liam",
         "instructors": [
           "Clancy, Liam"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,42 +3,9 @@
   "name": "Public Service in America",
   "department": "TMC",
   "id": "15",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930316",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "TMCA",
-      "room": "127",
-      "instructor": "Sinay, Patricia",
-      "instructors": [
-        "Sinay, Patricia"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "f17b05bd2ebd743c6abcca6387bb030a20e80c38b5d3db690f558e13f87243b8": {
         "sectxt": true,
         "sectionID": "930316",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "9:30a-10:50a",
         "building": "TMCA",
         "room": "127",
-        "instructor": "Sinay, Patricia",
         "instructors": [
           "Sinay, Patricia"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "67835e25da5b0e5f645901afc22d2be416b8bcafc625f22ed4c7751925f68eec": {
         "sectxt": true,
         "sectionID": "930316",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "9:30a-10:50a",
         "building": "TMCA",
         "room": "127",
-        "instructor": "Sinay, Patricia",
         "instructors": [
           "Sinay, Patricia"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

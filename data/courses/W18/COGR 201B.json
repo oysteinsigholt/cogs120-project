@@ -3,31 +3,12 @@
   "name": "Ethnographic Methds/Comm Rsrch",
   "department": "COGR",
   "id": "201B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924268",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "3:00p-5:50p",
-      "building": "MCC",
-      "room": "127",
-      "instructor": "Boateng, Boatema",
-      "instructors": [
-        "Boateng, Boatema"
-      ],
-      "start_time": "15:00",
-      "end_time": "17:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "d0e509c9d4cde6992ff0c737ca723c6fab3fa6a6243cb53e030cbc45bdd17164": {
         "sectxt": true,
         "sectionID": "924268",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "3:00p-5:50p",
         "building": "MCC",
         "room": "127",
-        "instructor": "Boateng, Boatema",
         "instructors": [
           "Boateng, Boatema"
         ],
         "start_time": "15:00",
         "end_time": "17:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

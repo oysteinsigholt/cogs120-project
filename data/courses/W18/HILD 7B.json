@@ -3,218 +3,9 @@
   "name": "Race & Ethnicity/United States",
   "department": "HILD",
   "id": "7B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "PETER",
-      "room": "108",
-      "instructor": "Man, Simeon S",
-      "instructors": [
-        "Man, Simeon S"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924535",
-      "type": "DI",
-      "section": "A01",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "WLH",
-      "room": "2209",
-      "instructor": "Man, Simeon S",
-      "instructors": [
-        "Man, Simeon S"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924536",
-      "type": "DI",
-      "section": "A02",
-      "days": "F",
-      "time": "10:00a-10:50a",
-      "building": "WLH",
-      "room": "2209",
-      "instructor": "Man, Simeon S",
-      "instructors": [
-        "Man, Simeon S"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924537",
-      "type": "DI",
-      "section": "A03",
-      "days": "M",
-      "time": "12:00p-12:50p",
-      "building": "TM102",
-      "room": "1",
-      "instructor": "Man, Simeon S",
-      "instructors": [
-        "Man, Simeon S"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924538",
-      "type": "DI",
-      "section": "A04",
-      "days": "M",
-      "time": "1:00p-1:50p",
-      "building": "TM102",
-      "room": "1",
-      "instructor": "Man, Simeon S",
-      "instructors": [
-        "Man, Simeon S"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924539",
-      "type": "DI",
-      "section": "A05",
-      "days": "W",
-      "time": "9:00a-9:50a",
-      "building": "SEQUO",
-      "room": "147",
-      "instructor": "Man, Simeon S",
-      "instructors": [
-        "Man, Simeon S"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924540",
-      "type": "DI",
-      "section": "A06",
-      "days": "W",
-      "time": "10:00a-10:50a",
-      "building": "SEQUO",
-      "room": "147",
-      "instructor": "Man, Simeon S",
-      "instructors": [
-        "Man, Simeon S"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924541",
-      "type": "DI",
-      "section": "A07",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "TM102",
-      "room": "1",
-      "instructor": "Man, Simeon S",
-      "instructors": [
-        "Man, Simeon S"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924542",
-      "type": "DI",
-      "section": "A08",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "TM102",
-      "room": "1",
-      "instructor": "Man, Simeon S",
-      "instructors": [
-        "Man, Simeon S"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924543",
-      "type": "DI",
-      "section": "A09",
-      "days": "F",
-      "time": "12:00p-12:50p",
-      "building": "SOLIS",
-      "room": "110",
-      "instructor": "Man, Simeon S",
-      "instructors": [
-        "Man, Simeon S"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924544",
-      "type": "DI",
-      "section": "A10",
-      "days": "F",
-      "time": "1:00p-1:50p",
-      "building": "SOLIS",
-      "room": "110",
-      "instructor": "Man, Simeon S",
-      "instructors": [
-        "Man, Simeon S"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924546",
-      "type": "DI",
-      "section": "A12",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "APM",
-      "room": "2301",
-      "instructor": "Man, Simeon S",
-      "instructors": [
-        "Man, Simeon S"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -223,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "3eebb61cd8dfce62454e678a809f95c428aacde0dbd4c59f741d650f1d3cad67": {
         "sectxt": true,
         "sectionID": "924537",
         "type": "DI",
@@ -242,14 +32,13 @@
         "time": "12:00p-12:50p",
         "building": "TM102",
         "room": "1",
-        "instructor": "Man, Simeon S",
         "instructors": [
           "Man, Simeon S"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "2241517a497789345d37ab42fcc9aad9aa504f3e500be80bd0311f315f6f767c": {
         "sectxt": true,
         "sectionID": "924538",
         "type": "DI",
@@ -258,16 +47,15 @@
         "time": "1:00p-1:50p",
         "building": "TM102",
         "room": "1",
-        "instructor": "Man, Simeon S",
         "instructors": [
           "Man, Simeon S"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "c12e876c286e075f54b31f5190baf1c12afcaa3c60c656df28d942741b529a9a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -276,16 +64,15 @@
         "time": "9:30a-10:50a",
         "building": "PETER",
         "room": "108",
-        "instructor": "Man, Simeon S",
         "instructors": [
           "Man, Simeon S"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "8d331aed87fe867de1220c32b297553c600b5a77a740b95188d552561d36c210": {
         "sectxt": true,
         "sectionID": "924539",
         "type": "DI",
@@ -294,14 +81,13 @@
         "time": "9:00a-9:50a",
         "building": "SEQUO",
         "room": "147",
-        "instructor": "Man, Simeon S",
         "instructors": [
           "Man, Simeon S"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "46296b10e37442f463dac654f23917d239de0648d29ca95eb531060c593725ce": {
         "sectxt": true,
         "sectionID": "924540",
         "type": "DI",
@@ -310,14 +96,13 @@
         "time": "10:00a-10:50a",
         "building": "SEQUO",
         "room": "147",
-        "instructor": "Man, Simeon S",
         "instructors": [
           "Man, Simeon S"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "fd07ab9f6be4d02633b311143e4dd25d689e70c8ef4e630c34267a611388a85c": {
         "sectxt": true,
         "sectionID": "924541",
         "type": "DI",
@@ -326,14 +111,13 @@
         "time": "3:00p-3:50p",
         "building": "TM102",
         "room": "1",
-        "instructor": "Man, Simeon S",
         "instructors": [
           "Man, Simeon S"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "386544c3c5d5552d6c803424a7a30ba0f49c52aacca25d532509ba46b59ec1fb": {
         "sectxt": true,
         "sectionID": "924542",
         "type": "DI",
@@ -342,16 +126,15 @@
         "time": "4:00p-4:50p",
         "building": "TM102",
         "room": "1",
-        "instructor": "Man, Simeon S",
         "instructors": [
           "Man, Simeon S"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "1fd76e34fb7865fce7ff5adca312ddc805651e55d9a8d5231108d9552d7045e9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -360,16 +143,15 @@
         "time": "9:30a-10:50a",
         "building": "PETER",
         "room": "108",
-        "instructor": "Man, Simeon S",
         "instructors": [
           "Man, Simeon S"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "597c836ab6e2b5bc364098e185d3100533cb81f25a1142f5d6e47358da6e98c6": {
         "sectxt": true,
         "sectionID": "924535",
         "type": "DI",
@@ -378,14 +160,13 @@
         "time": "9:00a-9:50a",
         "building": "WLH",
         "room": "2209",
-        "instructor": "Man, Simeon S",
         "instructors": [
           "Man, Simeon S"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "b79a0f4c6d33f590ef6d73c42af872d5ad749495e04edb8d6291e9925c65a4c4": {
         "sectxt": true,
         "sectionID": "924536",
         "type": "DI",
@@ -394,14 +175,13 @@
         "time": "10:00a-10:50a",
         "building": "WLH",
         "room": "2209",
-        "instructor": "Man, Simeon S",
         "instructors": [
           "Man, Simeon S"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "0cda2f6e46af2776394b996a82dfbb5035779b866b24e29013b9b15c68108a11": {
         "sectxt": true,
         "sectionID": "924543",
         "type": "DI",
@@ -410,14 +190,13 @@
         "time": "12:00p-12:50p",
         "building": "SOLIS",
         "room": "110",
-        "instructor": "Man, Simeon S",
         "instructors": [
           "Man, Simeon S"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "a258390d0922daedbd76a82317c11ab3a16f9910795340c3bffc7cf0f64bf640": {
         "sectxt": true,
         "sectionID": "924544",
         "type": "DI",
@@ -426,14 +205,13 @@
         "time": "1:00p-1:50p",
         "building": "SOLIS",
         "room": "110",
-        "instructor": "Man, Simeon S",
         "instructors": [
           "Man, Simeon S"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "cbe95b6b9020bd2e8906e15f5cffc3ac753bfc06d72e68e31b7011a057066d9e": {
         "sectxt": true,
         "sectionID": "924546",
         "type": "DI",
@@ -442,15 +220,15 @@
         "time": "3:00p-3:50p",
         "building": "APM",
         "room": "2301",
-        "instructor": "Man, Simeon S",
         "instructors": [
           "Man, Simeon S"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,36 +3,14 @@
   "name": "Pharmacolgy Research Discussns",
   "department": "PHAR",
   "id": "295",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930485",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "9:00a-10:00a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Brown, Joan Heller",
-      "instructors": [
-        "Brown, Joan Heller"
-      ],
-      "start_time": "9:00",
-      "end_time": "10:00"
-    }
-  ],
   "notes": [
     "Location: LFFB 107"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "f564106d0406d6c9181c8590dabe5792602639edd73656dd7a256cc6b3d0928b": {
         "sectxt": true,
         "sectionID": "930485",
         "type": "SE",
@@ -41,15 +19,15 @@
         "time": "9:00a-10:00a",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Brown, Joan Heller",
         "instructors": [
           "Brown, Joan Heller"
         ],
         "start_time": "9:00",
         "end_time": "10:00"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

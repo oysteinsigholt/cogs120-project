@@ -3,30 +3,12 @@
   "name": "Introduction to Play Analysis",
   "department": "TDHT",
   "id": "10",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922700",
-      "type": "SE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "9:00a-9:50a",
-      "building": "YORK",
-      "room": "4060B",
-      "instructor": "Burelle, Julie Sara Veronique",
-      "instructors": [
-        "Burelle, Julie Sara Veronique"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "e9366171b58484b9a6a96730e265269e7e27156c7cd0efcff94b84db5bd75331": {
         "sectxt": true,
         "sectionID": "922700",
         "type": "SE",
@@ -35,17 +17,15 @@
         "time": "9:00a-9:50a",
         "building": "YORK",
         "room": "4060B",
-        "instructor": "Burelle, Julie Sara Veronique",
         "instructors": [
           "Burelle, Julie Sara Veronique"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "9fd9e4559156d4505d6107d7475957232a5e2ff5d41ddc192b4399dc4ec0cb9e": {
         "sectxt": true,
         "sectionID": "922700",
         "type": "SE",
@@ -54,17 +34,15 @@
         "time": "9:00a-9:50a",
         "building": "YORK",
         "room": "4060B",
-        "instructor": "Burelle, Julie Sara Veronique",
         "instructors": [
           "Burelle, Julie Sara Veronique"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "ab3860c443efa4011b1b2523319c61301c9f93113779833b765444976029fd5f": {
         "sectxt": true,
         "sectionID": "922700",
         "type": "SE",
@@ -73,15 +51,15 @@
         "time": "9:00a-9:50a",
         "building": "YORK",
         "room": "4060B",
-        "instructor": "Burelle, Julie Sara Veronique",
         "instructors": [
           "Burelle, Julie Sara Veronique"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

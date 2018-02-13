@@ -3,287 +3,9 @@
   "name": "Physical Chem: Quantum Mech",
   "department": "CHEM",
   "id": "126",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "YORK",
-      "room": "2622",
-      "instructor": "Paesani, Francesco",
-      "instructors": [
-        "Paesani, Francesco"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926560",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "12:00p-12:50p",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "Paesani, Francesco",
-      "instructors": [
-        "Paesani, Francesco"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926561",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "12:00p-12:50p",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "Paesani, Francesco",
-      "instructors": [
-        "Paesani, Francesco"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926562",
-      "type": "DI",
-      "section": "A03",
-      "days": "M",
-      "time": "8:00a-8:50a",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "Paesani, Francesco",
-      "instructors": [
-        "Paesani, Francesco"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926563",
-      "type": "DI",
-      "section": "A04",
-      "days": "M",
-      "time": "9:00a-9:50a",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "Paesani, Francesco",
-      "instructors": [
-        "Paesani, Francesco"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930591",
-      "type": "DI",
-      "section": "A05",
-      "days": "M",
-      "time": "1:00p-1:50p",
-      "building": "WLH",
-      "room": "2113",
-      "instructor": "Paesani, Francesco",
-      "instructors": [
-        "Paesani, Francesco"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/11/2018",
-      "days": "Th",
-      "time": "7:00p-8:50p",
-      "building": "PCYNH",
-      "room": "109",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-11T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/18/2018",
-      "days": "Th",
-      "time": "7:00p-8:50p",
-      "building": "PCYNH",
-      "room": "109",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-18T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/25/2018",
-      "days": "Th",
-      "time": "7:00p-8:50p",
-      "building": "PCYNH",
-      "room": "109",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-25T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/01/2018",
-      "days": "Th",
-      "time": "7:00p-8:50p",
-      "building": "PCYNH",
-      "room": "109",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-01T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/08/2018",
-      "days": "Th",
-      "time": "7:00p-8:50p",
-      "building": "PCYNH",
-      "room": "109",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-08T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/15/2018",
-      "days": "Th",
-      "time": "7:00p-8:50p",
-      "building": "PCYNH",
-      "room": "109",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-15T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/22/2018",
-      "days": "Th",
-      "time": "7:00p-8:50p",
-      "building": "PCYNH",
-      "room": "109",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-22T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/01/2018",
-      "days": "Th",
-      "time": "7:00p-8:50p",
-      "building": "PCYNH",
-      "room": "109",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-01T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/08/2018",
-      "days": "Th",
-      "time": "7:00p-8:50p",
-      "building": "PCYNH",
-      "room": "109",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-08T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/15/2018",
-      "days": "Th",
-      "time": "7:00p-8:50p",
-      "building": "PCYNH",
-      "room": "109",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-15T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "02/10/2018",
-      "days": "S",
-      "time": "10:00a-11:50a",
-      "building": "YORK",
-      "room": "2722",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-10T08:00:00.000Z",
-      "start_time": "10:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c04b11258f971712d11ab7399a96fd971f4bfe3e71541d725b8e89f66cd6abd0": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -292,13 +14,12 @@
       "time": "7:00p-8:50p",
       "building": "PCYNH",
       "room": "109",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-11T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "20:50"
     },
-    {
+    "501c3e90032c2d4a3683794e5646fdc2024608017648cfd6edb32ad5ce708f24": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -307,13 +28,12 @@
       "time": "7:00p-8:50p",
       "building": "PCYNH",
       "room": "109",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-18T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "20:50"
     },
-    {
+    "6c0a656e3b4353963eb3733c5a348d575d7f46ddfe1a416b94f6b17ccb8232f7": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -322,13 +42,12 @@
       "time": "7:00p-8:50p",
       "building": "PCYNH",
       "room": "109",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-25T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "20:50"
     },
-    {
+    "5b9813fd08592b730449d74b51816a8048c188ef14257c2e90f6381af14e886d": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -337,13 +56,12 @@
       "time": "7:00p-8:50p",
       "building": "PCYNH",
       "room": "109",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-01T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "20:50"
     },
-    {
+    "cbbae6f5836a8d3764dfc2687b6ac00f265d4e041e5f98415a5d809a51ee8f79": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -352,13 +70,12 @@
       "time": "7:00p-8:50p",
       "building": "PCYNH",
       "room": "109",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-08T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "20:50"
     },
-    {
+    "36c39d9a1cfe008f8fe1d0eff445313cf8414eb089a00faac076f1d6dc069990": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -367,13 +84,12 @@
       "time": "7:00p-8:50p",
       "building": "PCYNH",
       "room": "109",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-15T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "20:50"
     },
-    {
+    "bf2f07805958863522408cba02fc18517461818f898bfcf4030bc0bd8b7cf762": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -382,13 +98,12 @@
       "time": "7:00p-8:50p",
       "building": "PCYNH",
       "room": "109",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-22T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "20:50"
     },
-    {
+    "284fcc79b71dea7ee6cd02318d2bcab4d73d7067b167a7ddaf2589050b237a73": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -397,13 +112,12 @@
       "time": "7:00p-8:50p",
       "building": "PCYNH",
       "room": "109",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-01T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "20:50"
     },
-    {
+    "0f7fba734c882f94c8be0e992fd3c2f62c3b225e2d8c9b24adc33bae6224e0a5": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -412,13 +126,12 @@
       "time": "7:00p-8:50p",
       "building": "PCYNH",
       "room": "109",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-08T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "20:50"
     },
-    {
+    "651dc96bd0f0900880263740c42f0cf0cee92023ceffdd6d0a8bdc69d251b444": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -427,13 +140,12 @@
       "time": "7:00p-8:50p",
       "building": "PCYNH",
       "room": "109",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-15T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "20:50"
     },
-    {
+    "af90eec4c6160ddc45082799b604872be38686f07771122383bcc5fe95e0884b": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -442,13 +154,12 @@
       "time": "10:00a-11:50a",
       "building": "YORK",
       "room": "2722",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-10T08:00:00.000Z",
       "start_time": "10:00",
       "end_time": "11:50"
     },
-    {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -457,17 +168,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "ffef12611af0e12ed592b6c17c2b862f6467f11780f0ffca96fd194a2f4f1c2e": {
         "sectxt": true,
         "sectionID": "926560",
         "type": "DI",
@@ -476,14 +186,13 @@
         "time": "12:00p-12:50p",
         "building": "WLH",
         "room": "2114",
-        "instructor": "Paesani, Francesco",
         "instructors": [
           "Paesani, Francesco"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "2e32b614e9bb55212bdad5cc227d1029bde85ba1cddbdf4d48fbb5c2857d3be6": {
         "sectxt": true,
         "sectionID": "926562",
         "type": "DI",
@@ -492,14 +201,13 @@
         "time": "8:00a-8:50a",
         "building": "WLH",
         "room": "2115",
-        "instructor": "Paesani, Francesco",
         "instructors": [
           "Paesani, Francesco"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "03d04caf52094ab857a1f51287ef962afb3033a1ab596f11bc7d66aa78e9f125": {
         "sectxt": true,
         "sectionID": "926563",
         "type": "DI",
@@ -508,14 +216,13 @@
         "time": "9:00a-9:50a",
         "building": "WLH",
         "room": "2115",
-        "instructor": "Paesani, Francesco",
         "instructors": [
           "Paesani, Francesco"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "44f81db4e9cc5de3c9210eb329d5ed47fff4af6553e52c8b86f1f361affb6a8a": {
         "sectxt": true,
         "sectionID": "930591",
         "type": "DI",
@@ -524,16 +231,15 @@
         "time": "1:00p-1:50p",
         "building": "WLH",
         "room": "2113",
-        "instructor": "Paesani, Francesco",
         "instructors": [
           "Paesani, Francesco"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "c12e876c286e075f54b31f5190baf1c12afcaa3c60c656df28d942741b529a9a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -542,16 +248,15 @@
         "time": "9:30a-10:50a",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Paesani, Francesco",
         "instructors": [
           "Paesani, Francesco"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "7ab3197367709b179ff91cc6d9d2feeca62b3cb2080a058773c69dbb32af0227": {
         "sectxt": true,
         "sectionID": "926561",
         "type": "DI",
@@ -560,16 +265,15 @@
         "time": "12:00p-12:50p",
         "building": "WLH",
         "room": "2114",
-        "instructor": "Paesani, Francesco",
         "instructors": [
           "Paesani, Francesco"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "1fd76e34fb7865fce7ff5adca312ddc805651e55d9a8d5231108d9552d7045e9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -578,16 +282,15 @@
         "time": "9:30a-10:50a",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Paesani, Francesco",
         "instructors": [
           "Paesani, Francesco"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

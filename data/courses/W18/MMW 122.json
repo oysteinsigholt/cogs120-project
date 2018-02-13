@@ -3,40 +3,37 @@
   "name": "Exploring the Modern World",
   "department": "MMW",
   "id": "122",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "C00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Herbst, Matthew & Frank, Ross H.",
-      "instructors": [
-        "Herbst, Matthew",
-        "Frank, Ross H."
-      ]
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929198",
-      "type": "DI",
-      "section": "C01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Herbst, Matthew & Frank, Ross H.",
-      "instructors": [
-        "Herbst, Matthew",
-        "Frank, Ross H."
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  },
   "events_unknown": [
     {
       "sectxt": true,
@@ -47,10 +44,8 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Herbst, Matthew & Frank, Ross H.",
       "instructors": [
-        "Herbst, Matthew",
-        "Frank, Ross H."
+        "Herbst, Matthew                    \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFrank, Ross H."
       ]
     },
     {
@@ -62,20 +57,291 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Herbst, Matthew & Frank, Ross H.",
       "instructors": [
-        "Herbst, Matthew",
-        "Frank, Ross H."
+        "Herbst, Matthew                    \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFrank, Ross H."
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "Tu": {
+      "1d4ebc7ab651956b6685b1bcc2af7566a2a56df81f9b66b342c4cfe7898f878e": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "PETER",
+        "room": "110",
+        "instructors": [
+          "Patterson, Patrick H."
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "8acd3fa4cf6cfb501b9f4d85417c7e550b3b126a773b6a11426fe5a997992e0d": {
+        "sectxt": true,
+        "sectionID": "921620",
+        "type": "DI",
+        "section": "B01",
+        "days": "Tu",
+        "time": "5:00p-5:50p",
+        "building": "CENTR",
+        "room": "207",
+        "instructors": [
+          "Patterson, Patrick H."
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "0ee157faf1160dbf1d21acf01b99f4af854b3c6d878a5ee51485e5527809aa77": {
+        "sectxt": true,
+        "sectionID": "921621",
+        "type": "DI",
+        "section": "B02",
+        "days": "Tu",
+        "time": "6:00p-6:50p",
+        "building": "CENTR",
+        "room": "207",
+        "instructors": [
+          "Patterson, Patrick H."
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "8987b7af87d847c623f8d9e86e86f1d582c28de0cd3bc163ae563b429ae225f9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "115",
+        "instructors": [
+          "Chang, Edmond Yi-Teh"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "ad544e84003c81e28a9e02070d0e9ccac0ad1c643186c14e6c4bb3cf39fb52e0": {
+        "sectxt": true,
+        "sectionID": "921611",
+        "type": "DI",
+        "section": "A01",
+        "days": "Tu",
+        "time": "4:00p-4:50p",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Chang, Edmond Yi-Teh"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "ddd4259e47739caa396b44139639f1b4fffc810af27683db06b543f35ff5dca8": {
+        "sectxt": true,
+        "sectionID": "921612",
+        "type": "DI",
+        "section": "A02",
+        "days": "Tu",
+        "time": "5:00p-5:50p",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Chang, Edmond Yi-Teh"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "81a695f0216c8fd0b6079b62324cfa254af02dbb59918f660faab20aca7b5908": {
+        "sectxt": true,
+        "sectionID": "921617",
+        "type": "DI",
+        "section": "A07",
+        "days": "Tu",
+        "time": "11:00a-11:50a",
+        "building": "ASANT",
+        "room": "123C",
+        "instructors": [
+          "Chang, Edmond Yi-Teh"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "a21fcc8e011da62d87ec387cf55772c000230ce2ca87ba9f67b06f80518ca1d7": {
+        "sectxt": true,
+        "sectionID": "921618",
+        "type": "DI",
+        "section": "A08",
+        "days": "Tu",
+        "time": "12:00p-12:50p",
+        "building": "ASANT",
+        "room": "123C",
+        "instructors": [
+          "Chang, Edmond Yi-Teh"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    },
+    "W": {
+      "8c588efa8b144fd52efc7530f5e5efb13d270036220a04f5b8f70a12deee5fe1": {
+        "sectxt": true,
+        "sectionID": "921622",
+        "type": "DI",
+        "section": "B03",
+        "days": "W",
+        "time": "2:00p-2:50p",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Patterson, Patrick H."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "4e280d2e09c25c5d837bbc84d81ad732d02c4f5465735993eaf0677b83cc1d77": {
+        "sectxt": true,
+        "sectionID": "921623",
+        "type": "DI",
+        "section": "B04",
+        "days": "W",
+        "time": "3:00p-3:50p",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Patterson, Patrick H."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "b0272d3bfa77296501e3e9c995aa47837eaa6ce97b917cf335cd2d639308dcf8": {
+        "sectxt": true,
+        "sectionID": "921613",
+        "type": "DI",
+        "section": "A03",
+        "days": "W",
+        "time": "10:00a-10:50a",
+        "building": "ASANT",
+        "room": "123C",
+        "instructors": [
+          "Chang, Edmond Yi-Teh"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "64ad8193adca7541f8ff0b1dd4001be1061694e44be19dcbcbceb41e3b83b79e": {
+        "sectxt": true,
+        "sectionID": "921614",
+        "type": "DI",
+        "section": "A04",
+        "days": "W",
+        "time": "11:00a-11:50a",
+        "building": "ASANT",
+        "room": "123C",
+        "instructors": [
+          "Chang, Edmond Yi-Teh"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    },
+    "Th": {
+      "2485f8912106c93fdb8b10fcb1b03640f7d7649f507a70b04e67efcffeeb2f35": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "PETER",
+        "room": "110",
+        "instructors": [
+          "Patterson, Patrick H."
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "59f8087a07b15595f129427ab65e1328e35b9b777727842368de934cf6061c93": {
+        "sectxt": true,
+        "sectionID": "921626",
+        "type": "DI",
+        "section": "B07",
+        "days": "Th",
+        "time": "5:00p-5:50p",
+        "building": "CENTR",
+        "room": "207",
+        "instructors": [
+          "Patterson, Patrick H."
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "684900e1aa26040742754f53799444a3ab43c14882768802bd3f683dd020dbdf": {
+        "sectxt": true,
+        "sectionID": "921627",
+        "type": "DI",
+        "section": "B08",
+        "days": "Th",
+        "time": "6:00p-6:50p",
+        "building": "CENTR",
+        "room": "207",
+        "instructors": [
+          "Patterson, Patrick H."
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "126816888d61f914f97a4cf223b36ae2f29f5df8aa68f3942a0e9370bddbed90": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "115",
+        "instructors": [
+          "Chang, Edmond Yi-Teh"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "4c4522219367f28f8f39759f9197314e1c9710f82789c7bf2166270548732a43": {
+        "sectxt": true,
+        "sectionID": "921615",
+        "type": "DI",
+        "section": "A05",
+        "days": "Th",
+        "time": "4:00p-4:50p",
+        "building": "ASANT",
+        "room": "123C",
+        "instructors": [
+          "Chang, Edmond Yi-Teh"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "62af07bdde99b61d2c8830ec4246925ea07e795c9b7d8ee84cc889cbf0445918": {
+        "sectxt": true,
+        "sectionID": "921616",
+        "type": "DI",
+        "section": "A06",
+        "days": "Th",
+        "time": "5:00p-5:50p",
+        "building": "ASANT",
+        "room": "123C",
+        "instructors": [
+          "Chang, Edmond Yi-Teh"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    }
+  },
+  "sections": [
+    "B",
+    "A"
+  ]
 }

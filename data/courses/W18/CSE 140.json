@@ -3,58 +3,9 @@
   "name": "Component&Desgn Tech/Digtl Sys",
   "department": "CSE",
   "id": "140",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "CENTR",
-      "room": "216",
-      "instructor": "Rosing, Tajana Simunic",
-      "instructors": [
-        "Rosing, Tajana Simunic"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927514",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "7:00p-7:50p",
-      "building": "CENTR",
-      "room": "113",
-      "instructor": "Rosing, Tajana Simunic",
-      "instructors": [
-        "Rosing, Tajana Simunic"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "8987b7af87d847c623f8d9e86e86f1d582c28de0cd3bc163ae563b429ae225f9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -83,16 +32,15 @@
         "time": "2:00p-3:20p",
         "building": "CENTR",
         "room": "216",
-        "instructor": "Rosing, Tajana Simunic",
         "instructors": [
           "Rosing, Tajana Simunic"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "8512643ffa02b47f559142a01b9e5bd8babbb8d24c020663c473b9dd0953abfc": {
         "sectxt": true,
         "sectionID": "927514",
         "type": "DI",
@@ -101,16 +49,15 @@
         "time": "7:00p-7:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Rosing, Tajana Simunic",
         "instructors": [
           "Rosing, Tajana Simunic"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "126816888d61f914f97a4cf223b36ae2f29f5df8aa68f3942a0e9370bddbed90": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -119,16 +66,15 @@
         "time": "2:00p-3:20p",
         "building": "CENTR",
         "room": "216",
-        "instructor": "Rosing, Tajana Simunic",
         "instructors": [
           "Rosing, Tajana Simunic"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

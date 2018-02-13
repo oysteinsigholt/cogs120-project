@@ -3,34 +3,12 @@
   "name": "Hist of Phil/Research Methods",
   "department": "PHIL",
   "id": "281",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924847",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "2:15p-3:35p",
-      "building": "HSS",
-      "room": "8025",
-      "instructor": "Tolley, Clinton",
-      "instructors": [
-        "Tolley, Clinton"
-      ],
-      "start_time": "14:15",
-      "end_time": "15:35"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "8257e5fe661e430a6108c7b477da732465dc949aeda35b453da75bc79aaa940c": {
         "sectxt": true,
         "sectionID": "924847",
         "type": "SE",
@@ -39,15 +17,15 @@
         "time": "2:15p-3:35p",
         "building": "HSS",
         "room": "8025",
-        "instructor": "Tolley, Clinton",
         "instructors": [
           "Tolley, Clinton"
         ],
         "start_time": "14:15",
         "end_time": "15:35"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

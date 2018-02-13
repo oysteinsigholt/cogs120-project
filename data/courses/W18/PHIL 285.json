@@ -3,31 +3,29 @@
   "name": "Seminar on Special Topics",
   "department": "PHIL",
   "id": "285",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924853",
-      "type": "SE",
-      "section": "E00",
-      "days": "Tu",
-      "time": "1:00p-3:50p",
-      "building": "HSS",
-      "room": "7077",
-      "instructor": "Vargas, Manuel Rogelio",
-      "instructors": [
-        "Vargas, Manuel Rogelio"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "de38dd98c7d820934a198b6f8b0b9d9d32f3ced54d7049115414bd59a66249e0": {
+        "sectxt": true,
+        "sectionID": "924849",
+        "type": "SE",
+        "section": "A00",
+        "days": "M",
+        "time": "4:00p-6:50p",
+        "building": "HSS",
+        "room": "7077",
+        "instructors": [
+          "Allais, Lucy L."
+        ],
+        "start_time": "16:00",
+        "end_time": "18:50"
+      }
+    },
+    "Tu": {
+      "542cb1a678a723a6ff2954fb639bdf46ef23647f4701db0562acec1a5acf237a": {
         "sectxt": true,
         "sectionID": "924853",
         "type": "SE",
@@ -36,18 +34,70 @@
         "time": "1:00p-3:50p",
         "building": "HSS",
         "room": "7077",
-        "instructor": "Vargas, Manuel Rogelio",
         "instructors": [
           "Vargas, Manuel Rogelio"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "W": {
+      "62f85b0c9600939fe013f5c40c2b9c273eda278f3adba3500800cd14059d18ed": {
+        "sectxt": true,
+        "sectionID": "924852",
+        "type": "SE",
+        "section": "D00",
+        "days": "W",
+        "time": "1:00p-3:50p",
+        "building": "HSS",
+        "room": "7077",
+        "instructors": [
+          "Tolley, Clinton                    \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHardimon, Michael O."
+        ],
+        "start_time": "13:00",
+        "end_time": "15:50"
+      }
+    },
+    "Th": {
+      "96896d80588f58f9ef180200fc4f998b067594001c9b8f35c8f24ccc566cd622": {
+        "sectxt": true,
+        "sectionID": "924851",
+        "type": "SE",
+        "section": "C00",
+        "days": "Th",
+        "time": "2:00p-4:50p",
+        "building": "HSS",
+        "room": "7077",
+        "instructors": [
+          "Fulkerson, Matthew Todd"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:50"
+      }
+    },
+    "F": {
+      "d75d76ae1f1972cbfd9b3af990dbc3b9266a22f46ca562eae292dd2cfb1db827": {
+        "sectxt": true,
+        "sectionID": "924850",
+        "type": "SE",
+        "section": "B00",
+        "days": "F",
+        "time": "1:00p-3:50p",
+        "building": "HSS",
+        "room": "7077",
+        "instructors": [
+          "Cartwright, Nancy D."
+        ],
+        "start_time": "13:00",
+        "end_time": "15:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ]
 }

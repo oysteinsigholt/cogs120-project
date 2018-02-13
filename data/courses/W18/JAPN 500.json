@@ -3,27 +3,37 @@
   "name": "Apprentice Teaching/ Language",
   "department": "JAPN",
   "id": "500",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920971",
-      "type": "IN",
-      "section": "003",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Sato, Kyoko",
-      "instructors": [
-        "Sato, Kyoko"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "920969",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Simpson, Junko Tokuda"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920970",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "McKee, Mayumi Mochizuki"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "920971",
       "type": "IN",
       "section": "003",
@@ -31,19 +41,76 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Sato, Kyoko",
       "instructors": [
         "Sato, Kyoko"
       ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920972",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Takeda, Izumi"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920973",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Inada, Minori"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920974",
+      "type": "IN",
+      "section": "006",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Ross, Kayoko F"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920975",
+      "type": "IN",
+      "section": "007",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Maruyama, Rie"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920976",
+      "type": "IN",
+      "section": "008",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Iwamoto, Naoki"
+      ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

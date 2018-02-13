@@ -3,24 +3,8 @@
   "name": "Independent Study",
   "department": "COGS",
   "id": "99",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925549",
-      "type": "IN",
-      "section": "001",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Deak, Gedeon O.",
-      "instructors": [
-        "Deak, Gedeon O."
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,37 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Deak, Gedeon O.",
       "instructors": [
         "Deak, Gedeon O."
       ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "937978",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Creel, Sarah"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "940234",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Dow, Steven P"
+      ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

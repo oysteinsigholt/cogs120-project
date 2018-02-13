@@ -3,84 +3,9 @@
   "name": "Biochemical Engineering",
   "department": "BENG",
   "id": "161B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930634",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "MANDE",
-      "room": "B-104",
-      "instructor": "Lewis, Nathan E",
-      "instructors": [
-        "Lewis, Nathan E"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "SOLIS",
-      "room": "110",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "B01",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "MANDE",
-      "room": "B-152",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "B02",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "MANDE",
-      "room": "B-152",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -89,17 +14,31 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "92ad98a0b838f01da67f5b4c3e5f2dc1b479a896cc5ee5f65a94595f89526dfc": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "220",
+        "instructors": [
+          "Metallo, Christian Michael"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "80a158765083df1ca31de14df3e899c9bcce870d58815c913e3fab812d14f1bf": {
         "sectxt": true,
         "sectionID": "",
         "type": "DI",
@@ -108,14 +47,28 @@
         "time": "4:00p-4:50p",
         "building": "MANDE",
         "room": "B-152",
-        "instructor": "",
         "instructors": [],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "e729c12489761da1558c4c8493f3356bbb1a736773cd2ebd5ac1468f7bf0bc4c": {
+        "sectxt": true,
+        "sectionID": "923328",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "PETER",
+        "room": "103",
+        "instructors": [
+          "Metallo, Christian Michael"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "10f90d1efd8eb2691af44b45c46d212c8c9cb60e360ff4adb701a7b9c596be0b": {
         "sectxt": true,
         "sectionID": "930634",
         "type": "LE",
@@ -124,17 +77,47 @@
         "time": "3:30p-4:50p",
         "building": "MANDE",
         "room": "B-104",
-        "instructor": "Lewis, Nathan E",
         "instructors": [
           "Lewis, Nathan E"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "W": {
+      "05e8c78b405707124b3f30c6d7fe701ce2b2188dea28c9acfb2e4bf5f6fee24e": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "207",
+        "instructors": [
+          "Metallo, Christian Michael"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      }
+    },
+    "Th": {
+      "726b93fa7875b172bd1e9948bb59f8eba050dd255e49a96d2d0f379365b857af": {
+        "sectxt": true,
+        "sectionID": "923328",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "PETER",
+        "room": "103",
+        "instructors": [
+          "Metallo, Christian Michael"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "0133e5c6f42e56fe3fddabad0413c6c7598834bc9cfaf471931799bc86dae12b": {
         "sectxt": true,
         "sectionID": "930634",
         "type": "LE",
@@ -143,16 +126,28 @@
         "time": "3:30p-4:50p",
         "building": "MANDE",
         "room": "B-104",
-        "instructor": "Lewis, Nathan E",
         "instructors": [
           "Lewis, Nathan E"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "d095058a3c5ca6878be2e5af45056c73925fc6945e80151eaa049f5fb0198342": {
+        "sectxt": false,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "F",
+        "time": "3:00p-3:50p",
+        "building": "PETER",
+        "room": "102",
+        "instructors": [],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "adb6cbcbb012d123e8479169d1a765acb22b4e2b9328532b948d46e37a87ab2a": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -161,12 +156,11 @@
         "time": "2:00p-2:50p",
         "building": "SOLIS",
         "room": "110",
-        "instructor": "",
         "instructors": [],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "55bd50991317af336cad26202e3cd23e366cc116859f3ef38bc8453e7834acfe": {
         "sectxt": true,
         "sectionID": "",
         "type": "DI",
@@ -175,13 +169,14 @@
         "time": "9:00a-9:50a",
         "building": "MANDE",
         "room": "B-152",
-        "instructor": "",
         "instructors": [],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

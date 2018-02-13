@@ -3,30 +3,12 @@
   "name": "Stage Management Seminar",
   "department": "TDGR",
   "id": "288",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920426",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "1:00p-3:50p",
-      "building": "GH",
-      "room": "144",
-      "instructor": "Porter, Lisa",
-      "instructors": [
-        "Porter, Lisa"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "2ded68ca6f9b3f951c63bcd8ab9b239a0b889b3ac5b7ae573cc2704db58c443b": {
         "sectxt": true,
         "sectionID": "920426",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "1:00p-3:50p",
         "building": "GH",
         "room": "144",
-        "instructor": "Porter, Lisa",
         "instructors": [
           "Porter, Lisa"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

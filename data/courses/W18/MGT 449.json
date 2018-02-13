@@ -3,42 +3,9 @@
   "name": "Topics/Operations & Technology",
   "department": "MGT",
   "id": "449",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930361",
-      "type": "LE",
-      "section": "A00",
-      "days": "S",
-      "time": "11:30a-5:30p",
-      "building": "OTRSN",
-      "room": "3E107",
-      "instructor": "Gopal, Christopher S.",
-      "instructors": [
-        "Gopal, Christopher S."
-      ],
-      "start_time": "11:30",
-      "end_time": "17:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:30p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:30"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "6726a94e8e25fd804573ab1bd1a0337d059f20384cc4d31b49a2eb2c87f742f5": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,21 +14,15 @@
       "time": "11:30a-2:30p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:30"
     }
-  ],
+  },
   "events_unknown": [],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": [
+    "A"
+  ]
 }

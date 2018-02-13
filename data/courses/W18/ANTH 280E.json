@@ -3,31 +3,12 @@
   "name": "Core Sem/Biological Anthropolo",
   "department": "ANTH",
   "id": "280E",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923539",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "1:00p-3:50p",
-      "building": "SSB",
-      "room": "105",
-      "instructor": "Schoeninger, Margaret J",
-      "instructors": [
-        "Schoeninger, Margaret J"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "c49c73c8c4cbdc87e69a9e66ed800869d8b78721c9caa01e42bc7065cd9a0373": {
         "sectxt": true,
         "sectionID": "923539",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "1:00p-3:50p",
         "building": "SSB",
         "room": "105",
-        "instructor": "Schoeninger, Margaret J",
         "instructors": [
           "Schoeninger, Margaret J"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

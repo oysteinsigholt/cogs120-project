@@ -3,31 +3,12 @@
   "name": "Precptrshp/Musculoskeletal Med",
   "department": "ORTH",
   "id": "250",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930458",
-      "type": "PR",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "1:00p-5:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Chang, Douglas Glenn",
-      "instructors": [
-        "Chang, Douglas Glenn"
-      ],
-      "start_time": "13:00",
-      "end_time": "17:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "d72e54fce0977641b37fe954d2cc39587c8240b2845f201f6423d24e07fbc416": {
         "sectxt": true,
         "sectionID": "930458",
         "type": "PR",
@@ -36,17 +17,15 @@
         "time": "1:00p-5:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Chang, Douglas Glenn",
         "instructors": [
           "Chang, Douglas Glenn"
         ],
         "start_time": "13:00",
         "end_time": "17:00"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "b9380261c4f032cbcb40a350a9007e56a9aab2389589eb12b8b7eeceffc77b80": {
         "sectxt": true,
         "sectionID": "930458",
         "type": "PR",
@@ -55,16 +34,15 @@
         "time": "1:00p-5:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Chang, Douglas Glenn",
         "instructors": [
           "Chang, Douglas Glenn"
         ],
         "start_time": "13:00",
         "end_time": "17:00"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

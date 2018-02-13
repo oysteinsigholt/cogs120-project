@@ -3,32 +3,12 @@
   "name": "Tops/Seminar/Computer Systems",
   "department": "CSE",
   "id": "229A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930519",
-      "type": "LE",
-      "section": "B00",
-      "days": "W",
-      "time": "12:00p-12:50p",
-      "building": "EBU3B",
-      "room": "4140",
-      "instructor": "Porter, George M",
-      "instructors": [
-        "Porter, George M"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "837a2a8f4c657fc817a5c37eb0fe59c1deb8a1c12a0b4cd45c73545478a7bf48": {
         "sectxt": true,
         "sectionID": "930519",
         "type": "LE",
@@ -37,17 +17,16 @@
         "time": "12:00p-12:50p",
         "building": "EBU3B",
         "room": "4140",
-        "instructor": "Porter, George M",
         "instructors": [
           "Porter, George M"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

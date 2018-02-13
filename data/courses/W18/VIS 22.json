@@ -3,154 +3,9 @@
   "name": "Formations of Modern Art",
   "department": "VIS",
   "id": "22",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "CICC",
-      "room": "101",
-      "instructor": "Bryson, William N",
-      "instructors": [
-        "Bryson, William N"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922738",
-      "type": "DI",
-      "section": "A01",
-      "days": "Tu",
-      "time": "2:00p-2:50p",
-      "building": "MANDE",
-      "room": "B111E",
-      "instructor": "Bryson, William N",
-      "instructors": [
-        "Bryson, William N"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922739",
-      "type": "DI",
-      "section": "A02",
-      "days": "Tu",
-      "time": "3:00p-3:50p",
-      "building": "MANDE",
-      "room": "B111E",
-      "instructor": "Bryson, William N",
-      "instructors": [
-        "Bryson, William N"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922740",
-      "type": "DI",
-      "section": "A03",
-      "days": "Tu",
-      "time": "4:00p-4:50p",
-      "building": "MANDE",
-      "room": "B111E",
-      "instructor": "Bryson, William N",
-      "instructors": [
-        "Bryson, William N"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922742",
-      "type": "DI",
-      "section": "A05",
-      "days": "W",
-      "time": "10:00a-10:50a",
-      "building": "MANDE",
-      "room": "106",
-      "instructor": "Bryson, William N",
-      "instructors": [
-        "Bryson, William N"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922743",
-      "type": "DI",
-      "section": "A06",
-      "days": "W",
-      "time": "11:00a-11:50a",
-      "building": "MANDE",
-      "room": "106",
-      "instructor": "Bryson, William N",
-      "instructors": [
-        "Bryson, William N"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922744",
-      "type": "DI",
-      "section": "A07",
-      "days": "W",
-      "time": "2:00p-2:50p",
-      "building": "MANDE",
-      "room": "106",
-      "instructor": "Bryson, William N",
-      "instructors": [
-        "Bryson, William N"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922745",
-      "type": "DI",
-      "section": "A08",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "MANDE",
-      "room": "106",
-      "instructor": "Bryson, William N",
-      "instructors": [
-        "Bryson, William N"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -159,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "d76bcf043f1041aeae848254fedd3b9af18897231d4c3398c9af555ce5e62306": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -179,14 +32,13 @@
         "time": "11:00a-12:20p",
         "building": "CICC",
         "room": "101",
-        "instructor": "Bryson, William N",
         "instructors": [
           "Bryson, William N"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       },
-      {
+      "34047b290dbf244c23f14077fe7bae94d053c505e9189656853a2c16e3ee4b3f": {
         "sectxt": true,
         "sectionID": "922738",
         "type": "DI",
@@ -195,14 +47,13 @@
         "time": "2:00p-2:50p",
         "building": "MANDE",
         "room": "B111E",
-        "instructor": "Bryson, William N",
         "instructors": [
           "Bryson, William N"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "0f4d89cf2c2a8ceca1640b5b7dc1dbcd13736faed73590922b6f12dc6f33b423": {
         "sectxt": true,
         "sectionID": "922739",
         "type": "DI",
@@ -211,14 +62,13 @@
         "time": "3:00p-3:50p",
         "building": "MANDE",
         "room": "B111E",
-        "instructor": "Bryson, William N",
         "instructors": [
           "Bryson, William N"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "a991ca5d5ffcc4bd54fcc7057c1bddf6b6f0ab7e812514f0c506deea74382c46": {
         "sectxt": true,
         "sectionID": "922740",
         "type": "DI",
@@ -227,16 +77,15 @@
         "time": "4:00p-4:50p",
         "building": "MANDE",
         "room": "B111E",
-        "instructor": "Bryson, William N",
         "instructors": [
           "Bryson, William N"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "066ec7553e7a8f99bd510c150c66a9ef5429f87c3c3633a18a437b5844b27a5b": {
         "sectxt": true,
         "sectionID": "922742",
         "type": "DI",
@@ -245,14 +94,13 @@
         "time": "10:00a-10:50a",
         "building": "MANDE",
         "room": "106",
-        "instructor": "Bryson, William N",
         "instructors": [
           "Bryson, William N"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "ce8ee22f47ee604c7ae232f147614bb8df92af71a6025e8b72052713c7dbbe8f": {
         "sectxt": true,
         "sectionID": "922743",
         "type": "DI",
@@ -261,14 +109,13 @@
         "time": "11:00a-11:50a",
         "building": "MANDE",
         "room": "106",
-        "instructor": "Bryson, William N",
         "instructors": [
           "Bryson, William N"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "e265385ae49add77254ba68999691a04d6c67afe65551fc274b11ae5a44998b6": {
         "sectxt": true,
         "sectionID": "922744",
         "type": "DI",
@@ -277,14 +124,13 @@
         "time": "2:00p-2:50p",
         "building": "MANDE",
         "room": "106",
-        "instructor": "Bryson, William N",
         "instructors": [
           "Bryson, William N"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "e7b131b6c152eacd963ce90522c8724e96d4f57c321bf31b0ac3b4daf033bc0d": {
         "sectxt": true,
         "sectionID": "922745",
         "type": "DI",
@@ -293,16 +139,15 @@
         "time": "3:00p-3:50p",
         "building": "MANDE",
         "room": "106",
-        "instructor": "Bryson, William N",
         "instructors": [
           "Bryson, William N"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "055dab9e4efb54208a1d7f8ffd64e8d079ba2cc9fe681a6ccf684c385c6a7818": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -311,16 +156,15 @@
         "time": "11:00a-12:20p",
         "building": "CICC",
         "room": "101",
-        "instructor": "Bryson, William N",
         "instructors": [
           "Bryson, William N"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

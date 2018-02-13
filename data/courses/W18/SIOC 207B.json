@@ -3,42 +3,9 @@
   "name": "Digital Signal Processing I",
   "department": "SIOC",
   "id": "207B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921973",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "8:00a-9:20a",
-      "building": "EBU1",
-      "room": "2315",
-      "instructor": "Hodgkiss, William S.",
-      "instructors": [
-        "Hodgkiss, William S."
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "833e873e1cec316ee0b3078c128cb4fda60d2d7f689108629b499827046128cb": {
         "sectxt": true,
         "sectionID": "921973",
         "type": "LE",
@@ -67,17 +32,30 @@
         "time": "8:00a-9:20a",
         "building": "EBU1",
         "room": "2315",
-        "instructor": "Hodgkiss, William S.",
+        "instructors": [
+          "Hodgkiss, William S."
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "4adae6f9a0da5307a149d54e20056d8e439391d23a74055f3516712819902458": {
+        "sectxt": true,
+        "sectionID": "921972",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "CENTR",
+        "room": "216",
         "instructors": [
           "Hodgkiss, William S."
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "fd4cbc075953fa9eb4cf1e93c8ae54efedd601f40ffcc383baab053d7d3f1b66": {
         "sectxt": true,
         "sectionID": "921973",
         "type": "LE",
@@ -86,16 +64,31 @@
         "time": "8:00a-9:20a",
         "building": "EBU1",
         "room": "2315",
-        "instructor": "Hodgkiss, William S.",
+        "instructors": [
+          "Hodgkiss, William S."
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "26320b078699fdba9cce1712ede6447f2405b7c83c0a381c1e7d01cc8f0b789d": {
+        "sectxt": true,
+        "sectionID": "921972",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "CENTR",
+        "room": "216",
         "instructors": [
           "Hodgkiss, William S."
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "B",
+    "A"
+  ]
 }

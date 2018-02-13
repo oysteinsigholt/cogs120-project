@@ -3,31 +3,12 @@
   "name": "IPE: Trade and Investments",
   "department": "GPPS",
   "id": "417",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929035",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "RBC",
-      "room": "1428",
-      "instructor": "Shi, Weiyi",
-      "instructors": [
-        "Shi, Weiyi"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "17c75c4de3d0d080fa38836b6a8ae7a087be83ae88831976d73d98e83cde80b8": {
         "sectxt": true,
         "sectionID": "929035",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "3:30p-4:50p",
         "building": "RBC",
         "room": "1428",
-        "instructor": "Shi, Weiyi",
         "instructors": [
           "Shi, Weiyi"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8810d37c6afa85cf9decd96841104defafd755ef2afea0c20b1c94a324e3f87f": {
         "sectxt": true,
         "sectionID": "929035",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "3:30p-4:50p",
         "building": "RBC",
         "room": "1428",
-        "instructor": "Shi, Weiyi",
         "instructors": [
           "Shi, Weiyi"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,59 +3,53 @@
   "name": "Transplantation APPE",
   "department": "SPPS",
   "id": "440MC",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": []
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920058",
-      "type": "CL",
-      "section": "B00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Colbert, James",
-      "instructors": [
-        "Colbert, James"
-      ]
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "B50",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": []
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
       "sectionID": "",
       "type": "LE",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": []
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920055",
+      "type": "CL",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Colbert, James"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A50",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": []
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
       "section": "B01",
       "days": "TBA",
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": []
     },
     {
@@ -67,7 +61,6 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Colbert, James",
       "instructors": [
         "Colbert, James"
       ]
@@ -81,17 +74,9 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": []
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

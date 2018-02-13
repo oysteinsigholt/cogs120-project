@@ -3,54 +3,23 @@
   "name": "Analysis of Arabic",
   "department": "LIAB",
   "id": "1BX",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921293",
-      "type": "DI",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "CENTR",
-      "room": "201",
-      "instructor": "Akjeje, Abdelhak",
-      "instructors": [
-        "Akjeje, Abdelhak"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "B01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": []
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -59,31 +28,54 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [
     {
       "sectxt": true,
       "sectionID": "",
       "type": "LA",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": []
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
       "section": "B01",
       "days": "TBA",
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": []
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "50c548106a4a9bb5214760f7a9b67198a3beedbcf356583273ce9d3c6b94515d": {
+        "sectxt": true,
+        "sectionID": "921291",
+        "type": "DI",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CENTR",
+        "room": "201",
+        "instructors": [
+          "Akjeje, Abdelhak"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "f9a20a64b56cc36f5a75896c060044940f5f7c7f6f30abc33b9649b8274ba4d0": {
         "sectxt": true,
         "sectionID": "921293",
         "type": "DI",
@@ -92,17 +84,30 @@
         "time": "11:00a-12:20p",
         "building": "CENTR",
         "room": "201",
-        "instructor": "Akjeje, Abdelhak",
         "instructors": [
           "Akjeje, Abdelhak"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "c7f0e187d6268b24959cf7649b4b6b3094d54c0a098c68139dde6254b6bd1ba3": {
+        "sectxt": true,
+        "sectionID": "921291",
+        "type": "DI",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CENTR",
+        "room": "201",
+        "instructors": [
+          "Akjeje, Abdelhak"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "2f5c008cbe71ddb22fbc547a1ccc666eb64f0fee59c0cb63cf8efde046fe2fea": {
         "sectxt": true,
         "sectionID": "921293",
         "type": "DI",
@@ -111,16 +116,16 @@
         "time": "11:00a-12:20p",
         "building": "CENTR",
         "room": "201",
-        "instructor": "Akjeje, Abdelhak",
         "instructors": [
           "Akjeje, Abdelhak"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

@@ -3,34 +3,142 @@
   "name": "Sound in Time",
   "department": "MUS",
   "id": "5",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921767",
-      "type": "LA",
-      "section": "A06",
-      "days": "F",
-      "time": "10:00a-10:50a",
-      "building": "WLH",
-      "room": "2155",
-      "instructor": "Thorpe, Suzanne",
-      "instructors": [
-        "Thorpe, Suzanne"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    }
+  "notes": [
+    "Sections will not meet before first main lecture."
   ],
-  "notes": [],
-  "events_single": [],
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "M": {
+      "15484bff6ab933e720d07d0acdb04d0e190fbbdeb33f33c128952cf2f519340a": {
+        "sectxt": true,
+        "sectionID": "921762",
+        "type": "LA",
+        "section": "A01",
+        "days": "M",
+        "time": "11:00a-11:50a",
+        "building": "WLH",
+        "room": "2155",
+        "instructors": [
+          "Thorpe, Suzanne"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "caea61bfc633a991b75840af157ab225ab850a86aecf1b478480ca89f0eae256": {
+        "sectxt": true,
+        "sectionID": "921763",
+        "type": "LA",
+        "section": "A02",
+        "days": "M",
+        "time": "12:00p-12:50p",
+        "building": "WLH",
+        "room": "2155",
+        "instructors": [
+          "Thorpe, Suzanne"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    },
+    "Tu": {
+      "c12e876c286e075f54b31f5190baf1c12afcaa3c60c656df28d942741b529a9a": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CPMC",
+        "room": "127",
+        "instructors": [
+          "Thorpe, Suzanne"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    },
+    "W": {
+      "c8cb94e3e6a0fabe2d46763d78f9269a1d01d56f9285a5514742d86d9b6b25fd": {
+        "sectxt": true,
+        "sectionID": "921764",
+        "type": "LA",
+        "section": "A03",
+        "days": "W",
+        "time": "12:00p-12:50p",
+        "building": "CPMC",
+        "room": "145",
+        "instructors": [
+          "Thorpe, Suzanne"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "4427a2c35a863b5457d28029ce68465ef1e4ad69ba9269e284d9416663c79d5f": {
+        "sectxt": true,
+        "sectionID": "921765",
+        "type": "LA",
+        "section": "A04",
+        "days": "W",
+        "time": "1:00p-1:50p",
+        "building": "CPMC",
+        "room": "145",
+        "instructors": [
+          "Thorpe, Suzanne"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    },
+    "Th": {
+      "1fd76e34fb7865fce7ff5adca312ddc805651e55d9a8d5231108d9552d7045e9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CPMC",
+        "room": "127",
+        "instructors": [
+          "Thorpe, Suzanne"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    },
+    "F": {
+      "9aa20e5251b72face1ed75e04fdb3c7215b8c270a14244a2046e76d9a814a0e5": {
+        "sectxt": true,
+        "sectionID": "921766",
+        "type": "LA",
+        "section": "A05",
+        "days": "F",
+        "time": "9:00a-9:50a",
+        "building": "WLH",
+        "room": "2155",
+        "instructors": [
+          "Thorpe, Suzanne"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "455b895f668b57049976e0579b248bb906327a971b747ac28594a39429b054cc": {
         "sectxt": true,
         "sectionID": "921767",
         "type": "LA",
@@ -39,15 +147,15 @@
         "time": "10:00a-10:50a",
         "building": "WLH",
         "room": "2155",
-        "instructor": "Thorpe, Suzanne",
         "instructors": [
           "Thorpe, Suzanne"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

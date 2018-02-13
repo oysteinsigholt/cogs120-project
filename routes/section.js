@@ -1,5 +1,30 @@
+const path = require('path');
+const resolvePath = require('resolve-path');
+const jsonfile = require('jsonfile');
+
+
 exports.view = (req, res) => {
-  res.render('section', {
+  let courseFile = null;
+
+  try {
+    courseFile = resolvePath(path.resolve(__dirname, '..', 'data', 'courses'), `${req.params.quarter}/${req.params.course}.json`);
+  } catch (err) {
+    console.log(err);
+    res.status(500).send(':(');
+    return;
+  }
+
+  jsonfile.readFile(courseFile, (err, course) => {
+    if (err) {
+      console.log(err);
+      res.status(500).send(':(');
+      return;
+    }
+
+    res.render('section', { course });
+  });
+
+  /* res.render('section', {
     name: 'Interaction Design',
     code: 'CSE 170',
     days: [{
@@ -45,5 +70,5 @@ exports.view = (req, res) => {
         instructor: 'Mysore, Alok',
       }],
     }],
-  });
+  }); */
 };

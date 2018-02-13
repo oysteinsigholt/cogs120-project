@@ -3,74 +3,9 @@
   "name": "American Society",
   "department": "SOCI",
   "id": "10",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "8:00a-9:20a",
-      "building": "CSB",
-      "room": "004",
-      "instructor": "Kenworthy, Lane A.",
-      "instructors": [
-        "Kenworthy, Lane A."
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923169",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "SSB",
-      "room": "101",
-      "instructor": "Kenworthy, Lane A.",
-      "instructors": [
-        "Kenworthy, Lane A."
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923170",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "SSB",
-      "room": "101",
-      "instructor": "Kenworthy, Lane A.",
-      "instructors": [
-        "Kenworthy, Lane A."
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -79,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "e465ded450a51855ecac87097b7a25f20ad1b32d4d66efd5a69c690a29911893": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -99,16 +32,15 @@
         "time": "8:00a-9:20a",
         "building": "CSB",
         "room": "004",
-        "instructor": "Kenworthy, Lane A.",
         "instructors": [
           "Kenworthy, Lane A."
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "d598df62f28d5637c00d55c615b0dbca3f989f3392f399e51764c098db124f9f": {
         "sectxt": true,
         "sectionID": "923169",
         "type": "DI",
@@ -117,14 +49,13 @@
         "time": "3:00p-3:50p",
         "building": "SSB",
         "room": "101",
-        "instructor": "Kenworthy, Lane A.",
         "instructors": [
           "Kenworthy, Lane A."
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "b4e955d4120d9bcc262ec00960d5e8fe066397ad7f33ee87bfc13740b277e478": {
         "sectxt": true,
         "sectionID": "923170",
         "type": "DI",
@@ -133,16 +64,15 @@
         "time": "4:00p-4:50p",
         "building": "SSB",
         "room": "101",
-        "instructor": "Kenworthy, Lane A.",
         "instructors": [
           "Kenworthy, Lane A."
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8545ab0c79c23ec92792f48a8a4e9c983955e31d9ddad421339a098929d3ab17": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -151,16 +81,15 @@
         "time": "8:00a-9:20a",
         "building": "CSB",
         "room": "004",
-        "instructor": "Kenworthy, Lane A.",
         "instructors": [
           "Kenworthy, Lane A."
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

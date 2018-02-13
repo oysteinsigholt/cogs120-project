@@ -3,27 +3,50 @@
   "name": "Design Practicum",
   "department": "TDGR",
   "id": "279",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920422",
-      "type": "PR",
-      "section": "D00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Burrett, Alan",
-      "instructors": [
-        "Burrett, Alan"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "920419",
+      "type": "PR",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Brill, Robert L."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920420",
+      "type": "PR",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Dolan, Judith A."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920421",
+      "type": "PR",
+      "section": "C00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Petrovich, Victoria A."
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "920422",
       "type": "PR",
       "section": "D00",
@@ -31,19 +54,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Burrett, Alan",
       "instructors": [
         "Burrett, Alan"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

@@ -3,42 +3,9 @@
   "name": "Modern Africa Since 1880",
   "department": "HIAF",
   "id": "111",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924547",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "5:00p-6:20p",
-      "building": "MANDE",
-      "room": "B-150",
-      "instructor": "Prestholdt, Jeremy",
-      "instructors": [
-        "Prestholdt, Jeremy"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "c0ebef216f46f14c703b8975fc69aaceb2c60f24d16fb9118af2f4a9e402ab7a": {
         "sectxt": true,
         "sectionID": "924547",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "5:00p-6:20p",
         "building": "MANDE",
         "room": "B-150",
-        "instructor": "Prestholdt, Jeremy",
         "instructors": [
           "Prestholdt, Jeremy"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "e1239e2600ec3081db80248a55348f0a19e89abbfaf54996f4263ccb0501d076": {
         "sectxt": true,
         "sectionID": "924547",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "5:00p-6:20p",
         "building": "MANDE",
         "room": "B-150",
-        "instructor": "Prestholdt, Jeremy",
         "instructors": [
           "Prestholdt, Jeremy"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,42 +3,9 @@
   "name": "GHP-A Foundations",
   "department": "HLAW",
   "id": "219A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929380",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "5:30p-8:30p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Mackey, Timothy Ken",
-      "instructors": [
-        "Mackey, Timothy Ken"
-      ],
-      "start_time": "17:30",
-      "end_time": "20:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/18/2018",
-      "days": "Sun",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-18T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "1fdc143966ea97942cd295cdb45ccefce3276195d36c796e68ee3175b124d3a3": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-18T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "5429b055c1a377e16421b8d5dbb32b4a00403712c99b6ac31014f1b6c499ba6d": {
         "sectxt": true,
         "sectionID": "929380",
         "type": "LE",
@@ -66,19 +32,15 @@
         "time": "5:30p-8:30p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Mackey, Timothy Ken",
         "instructors": [
           "Mackey, Timothy Ken"
         ],
         "start_time": "17:30",
         "end_time": "20:30"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

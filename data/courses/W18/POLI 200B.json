@@ -3,34 +3,12 @@
   "name": "Democracy",
   "department": "POLI",
   "id": "200B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927849",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "12:00p-2:50p",
-      "building": "SSB",
-      "room": "104",
-      "instructor": "Mackie, Gerald",
-      "instructors": [
-        "Mackie, Gerald"
-      ],
-      "start_time": "12:00",
-      "end_time": "14:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "15c48272974af7cca4d369b943498b04a9104134ad2c4de6d08592153fb73f63": {
         "sectxt": true,
         "sectionID": "927849",
         "type": "SE",
@@ -39,15 +17,15 @@
         "time": "12:00p-2:50p",
         "building": "SSB",
         "room": "104",
-        "instructor": "Mackie, Gerald",
         "instructors": [
           "Mackie, Gerald"
         ],
         "start_time": "12:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

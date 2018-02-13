@@ -3,42 +3,9 @@
   "name": "Electrnc Materls Sci/Integ Cir",
   "department": "ECE",
   "id": "134",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925060",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "5:00p-6:20p",
-      "building": "EBU1",
-      "room": "2315",
-      "instructor": "Ng, Tse Nga",
-      "instructors": [
-        "Ng, Tse Nga"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "608b9f0bce8a4facc2f4276171126092afebf94466a645a1dd465e154042bd13": {
         "sectxt": true,
         "sectionID": "925060",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "5:00p-6:20p",
         "building": "EBU1",
         "room": "2315",
-        "instructor": "Ng, Tse Nga",
         "instructors": [
           "Ng, Tse Nga"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "74c2a32628ecdcbc82417fca664d0e80004ed412b621de20f7b68cfff3fcc1e4": {
         "sectxt": true,
         "sectionID": "925060",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "5:00p-6:20p",
         "building": "EBU1",
         "room": "2315",
-        "instructor": "Ng, Tse Nga",
         "instructors": [
           "Ng, Tse Nga"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

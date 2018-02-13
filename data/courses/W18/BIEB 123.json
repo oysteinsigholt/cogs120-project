@@ -3,47 +3,12 @@
   "name": "Molculr Mthd/Evol & Ecol Lab",
   "department": "BIEB",
   "id": "123",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:30a-12:50p",
-      "building": "YORK",
-      "room": "4406",
-      "instructor": "Stockwell, Sarah R",
-      "instructors": [
-        "Stockwell, Sarah R"
-      ],
-      "start_time": "11:30",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925909",
-      "type": "LA",
-      "section": "A01",
-      "days": "TuTh",
-      "time": "1:00p-4:50p",
-      "building": "YORK",
-      "room": "4406",
-      "instructor": "Stockwell, Sarah R",
-      "instructors": [
-        "Stockwell, Sarah R"
-      ],
-      "start_time": "13:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "57cb041ba0941be7dd8c4d3efbf562460ddf912b21a9481064b91169806b15a0": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -52,14 +17,13 @@
         "time": "11:30a-12:50p",
         "building": "YORK",
         "room": "4406",
-        "instructor": "Stockwell, Sarah R",
         "instructors": [
           "Stockwell, Sarah R"
         ],
         "start_time": "11:30",
         "end_time": "12:50"
       },
-      {
+      "123ffec28347f895aa4a0f19a2d06454d821baaf58fb812ee0142599675ef6de": {
         "sectxt": true,
         "sectionID": "925909",
         "type": "LA",
@@ -68,17 +32,15 @@
         "time": "1:00p-4:50p",
         "building": "YORK",
         "room": "4406",
-        "instructor": "Stockwell, Sarah R",
         "instructors": [
           "Stockwell, Sarah R"
         ],
         "start_time": "13:00",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "7e7b7857feb07aec865d391dc72701443c11e5721d879ee5cd57902b56632231": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -87,14 +49,13 @@
         "time": "11:30a-12:50p",
         "building": "YORK",
         "room": "4406",
-        "instructor": "Stockwell, Sarah R",
         "instructors": [
           "Stockwell, Sarah R"
         ],
         "start_time": "11:30",
         "end_time": "12:50"
       },
-      {
+      "7fa37af81c258dc5cc75add157726ff2c3d437f0f753dcbafe46bcd82fbffaf2": {
         "sectxt": true,
         "sectionID": "925909",
         "type": "LA",
@@ -103,16 +64,15 @@
         "time": "1:00p-4:50p",
         "building": "YORK",
         "room": "4406",
-        "instructor": "Stockwell, Sarah R",
         "instructors": [
           "Stockwell, Sarah R"
         ],
         "start_time": "13:00",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

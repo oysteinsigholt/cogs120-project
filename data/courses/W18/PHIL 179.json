@@ -3,42 +3,9 @@
   "name": "Topic/Germn Phil Transltn-Adv",
   "department": "PHIL",
   "id": "179",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "936347",
-      "type": "LE",
-      "section": "A00",
-      "days": "F",
-      "time": "12:00p-1:50p",
-      "building": "HSS",
-      "room": "8025",
-      "instructor": "Watkins, Eric",
-      "instructors": [
-        "Watkins, Eric"
-      ],
-      "start_time": "12:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,21 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "418e92b9b70bd865738a3a5e0e2e216d848184af9e940c978a13a34418f69538": {
         "sectxt": true,
         "sectionID": "936347",
         "type": "LE",
@@ -70,15 +32,15 @@
         "time": "12:00p-1:50p",
         "building": "HSS",
         "room": "8025",
-        "instructor": "Watkins, Eric",
         "instructors": [
           "Watkins, Eric"
         ],
         "start_time": "12:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

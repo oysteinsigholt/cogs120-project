@@ -3,42 +3,23 @@
   "name": "Public Speaking",
   "department": "TDGE",
   "id": "25",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922693",
-      "type": "LA",
-      "section": "C00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "YORK",
-      "room": "4050A",
-      "instructor": "Robichaux, Natalie Griffith",
-      "instructors": [
-        "Robichaux, Natalie Griffith"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +28,73 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
+    },
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "98b15348a1e546dec02b948853cd5ff16ae2fa66196eb19ea1e58a371425d8b3": {
+        "sectxt": true,
+        "sectionID": "922692",
+        "type": "LA",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [
+          "Robichaux, Natalie Griffith"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "49ef45a70d316e73aaba5bfbdc89b7e40f69467add5132497fa77bcb2ce01e3b": {
         "sectxt": true,
         "sectionID": "922693",
         "type": "LA",
@@ -67,17 +103,90 @@
         "time": "12:30p-1:50p",
         "building": "YORK",
         "room": "4050A",
-        "instructor": "Robichaux, Natalie Griffith",
         "instructors": [
           "Robichaux, Natalie Griffith"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
+      },
+      "459c9192acb1a92c8f92624e7a066864c404e020bed475dce36c0aadc4462048": {
+        "sectxt": true,
+        "sectionID": "922694",
+        "type": "LA",
+        "section": "D00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [
+          "Robichaux, Natalie Griffith"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "27742f40521428d30817cccdc8797830b0b95b13ebda7dbe6767920fdf69594a": {
+        "sectxt": true,
+        "sectionID": "922695",
+        "type": "LA",
+        "section": "E00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [
+          "Robichaux, Natalie Griffith"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "0c9bf53d7d4c5fa47c0c393482df952cb435e9b2acf879e10d2020b0191ac002": {
+        "sectxt": true,
+        "sectionID": "922696",
+        "type": "LA",
+        "section": "F00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "YORK",
+        "room": "4060B",
+        "instructors": [
+          "Robichaux, Natalie Griffith"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "8e4b236841fdf5508f24701729bbc34a13483bc0f72f24c2c6457340cb3db705": {
+        "sectxt": true,
+        "sectionID": "922691",
+        "type": "LA",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [
+          "Robichaux, Natalie Griffith"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "3af2665b56ed4b470e299c8efda998b4b3092a53b48f23dffa811ff75646052b": {
+        "sectxt": true,
+        "sectionID": "922692",
+        "type": "LA",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [
+          "Robichaux, Natalie Griffith"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "936ad08e350a93d8fe576291ce05854203c967179b26ef26eaaac224310beb5b": {
         "sectxt": true,
         "sectionID": "922693",
         "type": "LA",
@@ -86,16 +195,80 @@
         "time": "12:30p-1:50p",
         "building": "YORK",
         "room": "4050A",
-        "instructor": "Robichaux, Natalie Griffith",
         "instructors": [
           "Robichaux, Natalie Griffith"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
+      },
+      "11ca6788d1393dde9f6a449ee8d47a4ac2cc847df5e1d855c1fba399755ac045": {
+        "sectxt": true,
+        "sectionID": "922694",
+        "type": "LA",
+        "section": "D00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [
+          "Robichaux, Natalie Griffith"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "37dafa0c3a7ba2dd56b5d68b4270002167ac570a131f33bccc8a0fd70d3de9bc": {
+        "sectxt": true,
+        "sectionID": "922695",
+        "type": "LA",
+        "section": "E00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [
+          "Robichaux, Natalie Griffith"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "987ab799e7697e9ebc2d82ba103c1f6c09d1255ea98fa4fbf8ce3711f8c828b0": {
+        "sectxt": true,
+        "sectionID": "922696",
+        "type": "LA",
+        "section": "F00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "YORK",
+        "room": "4060B",
+        "instructors": [
+          "Robichaux, Natalie Griffith"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "02eac67febadcc4e2b8152cb721c587a59b589b81981a4362ee697295cb4185d": {
+        "sectxt": true,
+        "sectionID": "922691",
+        "type": "LA",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [
+          "Robichaux, Natalie Griffith"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "A"
+  ]
 }

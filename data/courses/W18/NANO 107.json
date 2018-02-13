@@ -3,193 +3,9 @@
   "name": "Elect Dev&Circuits for NanoEng",
   "department": "NANO",
   "id": "107",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "PCYNH",
-      "room": "122",
-      "instructor": "Cubukcu, Ertugrul",
-      "instructors": [
-        "Cubukcu, Ertugrul"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926736",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "PCYNH",
-      "room": "122",
-      "instructor": "Cubukcu, Ertugrul",
-      "instructors": [
-        "Cubukcu, Ertugrul"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/19/2018",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-19T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/26/2018",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-26T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/02/2018",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-02T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/09/2018",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-09T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/16/2018",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-16T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/23/2018",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-23T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/02/2018",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-02T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/09/2018",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-09T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/16/2018",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-16T07:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9ab38eb63b5f2d9dbd785afdd8a341764ea145e69e7609e9bc81458349d996ec": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -198,13 +14,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "2150",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-19T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "bd98f3caeb8ce566a6495db93f6740da04a8949c6fb9f037b52ca63172f0b7cc": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -213,13 +28,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "2150",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-26T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "f21b77511dae9e2275765fdfa31d01437b5a353841418211677fbe76c16d35fe": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -228,13 +42,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "2150",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-02T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "dcfa33d7c4701b95b4ec17039571f8e90aac75ab888e1b36f8a857781f152c69": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -243,13 +56,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "2150",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-09T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "dd17dd60bb0a84daf4294355983daa59598034e9f686a7a020282f24c12b6ada": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -258,13 +70,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "2150",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-16T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "100b9a6b15fa3d4719cb70cc9b332093ebe95fe86c8e94d510fed15ee5a4e2ba": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -273,13 +84,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "2150",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-23T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "8566ba27039e8f212ba171950660aa87d050b497496336f6ea8ecadb7b5464e9": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -288,13 +98,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "2150",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-02T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "a130129742751a444e53c5667cdd7e2e69b476f75d8b77f3510d6642d0dcface": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -303,13 +112,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "2150",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-09T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "0f19987b786b4be3305819178343b546e01482322dbdbb9eaa155f2667f2aca2": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -318,13 +126,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "2150",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-16T07:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -333,17 +140,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "148acbf30805166c4632b90b55767163a190e034d794f211249b314bacc57a36": {
         "sectxt": true,
         "sectionID": "926736",
         "type": "DI",
@@ -352,16 +158,15 @@
         "time": "4:00p-4:50p",
         "building": "PCYNH",
         "room": "122",
-        "instructor": "Cubukcu, Ertugrul",
         "instructors": [
           "Cubukcu, Ertugrul"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "8987b7af87d847c623f8d9e86e86f1d582c28de0cd3bc163ae563b429ae225f9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -370,17 +175,15 @@
         "time": "2:00p-3:20p",
         "building": "PCYNH",
         "room": "122",
-        "instructor": "Cubukcu, Ertugrul",
         "instructors": [
           "Cubukcu, Ertugrul"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "126816888d61f914f97a4cf223b36ae2f29f5df8aa68f3942a0e9370bddbed90": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -389,16 +192,15 @@
         "time": "2:00p-3:20p",
         "building": "PCYNH",
         "room": "122",
-        "instructor": "Cubukcu, Ertugrul",
         "instructors": [
           "Cubukcu, Ertugrul"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

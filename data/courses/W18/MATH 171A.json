@@ -3,106 +3,9 @@
   "name": "Intro Num Optimiz/Linear Prog",
   "department": "MATH",
   "id": "171A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "4:00p-4:50p",
-      "building": "CENTR",
-      "room": "113",
-      "instructor": "Nie, Jiawang",
-      "instructors": [
-        "Nie, Jiawang"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927208",
-      "type": "DI",
-      "section": "A01",
-      "days": "F",
-      "time": "8:00p-8:50p",
-      "building": "APM",
-      "room": "B402A",
-      "instructor": "Nie, Jiawang",
-      "instructors": [
-        "Nie, Jiawang"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927209",
-      "type": "DI",
-      "section": "A02",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "APM",
-      "room": "B402A",
-      "instructor": "Nie, Jiawang",
-      "instructors": [
-        "Nie, Jiawang"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927210",
-      "type": "DI",
-      "section": "A03",
-      "days": "F",
-      "time": "6:00p-6:50p",
-      "building": "APM",
-      "room": "B402A",
-      "instructor": "Nie, Jiawang",
-      "instructors": [
-        "Nie, Jiawang"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927211",
-      "type": "DI",
-      "section": "A04",
-      "days": "F",
-      "time": "7:00p-7:50p",
-      "building": "APM",
-      "room": "B402A",
-      "instructor": "Nie, Jiawang",
-      "instructors": [
-        "Nie, Jiawang"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -111,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "827d8e61b0be564cefe3242e8ded91bf3b54cd405249ba4e71bd8ae53b45dd4d": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -130,17 +32,15 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Nie, Jiawang",
         "instructors": [
           "Nie, Jiawang"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "77e4ef4f5c961a7ec147a3ff6cc6346072c465cf4d729938bdc40fc2c3b04f3d": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -149,17 +49,15 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Nie, Jiawang",
         "instructors": [
           "Nie, Jiawang"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "8d2cf69a2f10e29d11598efd4f3a13b2565737a4fa81d866a0dc0a402488cda1": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -168,14 +66,13 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Nie, Jiawang",
         "instructors": [
           "Nie, Jiawang"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "094fd85a867f1c4edff10313e60c123d297362af3b7628ff9c4782252bc4e333": {
         "sectxt": true,
         "sectionID": "927208",
         "type": "DI",
@@ -184,14 +81,13 @@
         "time": "8:00p-8:50p",
         "building": "APM",
         "room": "B402A",
-        "instructor": "Nie, Jiawang",
         "instructors": [
           "Nie, Jiawang"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "bc1ea3f4c02fb937a598ff22a6f7187dc55992818dde1811dbe7e0448a960ca6": {
         "sectxt": true,
         "sectionID": "927209",
         "type": "DI",
@@ -200,14 +96,13 @@
         "time": "5:00p-5:50p",
         "building": "APM",
         "room": "B402A",
-        "instructor": "Nie, Jiawang",
         "instructors": [
           "Nie, Jiawang"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "f85271a97d6672781f9d6a538fe621a1b84dff6a73f27287203e2180dd78e49d": {
         "sectxt": true,
         "sectionID": "927210",
         "type": "DI",
@@ -216,14 +111,13 @@
         "time": "6:00p-6:50p",
         "building": "APM",
         "room": "B402A",
-        "instructor": "Nie, Jiawang",
         "instructors": [
           "Nie, Jiawang"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "1c2b9d8cf2e4d4f8041f41beb91189b1ff42c5fd8a6ea871aad4fb73925706bc": {
         "sectxt": true,
         "sectionID": "927211",
         "type": "DI",
@@ -232,15 +126,15 @@
         "time": "7:00p-7:50p",
         "building": "APM",
         "room": "B402A",
-        "instructor": "Nie, Jiawang",
         "instructors": [
           "Nie, Jiawang"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

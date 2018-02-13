@@ -3,71 +3,9 @@
   "name": "Aerospace Structural Mechs I",
   "department": "SE",
   "id": "260A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "933679",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "HSS",
-      "room": "1330",
-      "instructor": "Kosmatka, John B",
-      "instructors": [
-        "Kosmatka, John B"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "SOLIS",
-      "room": "104",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "02/14/2018",
-      "days": "W",
-      "time": "6:00p-7:50p",
-      "building": "CENTR",
-      "room": "216",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-14T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "129a5e3a86a89469e8cec48bb192904131e97ebf0ba68f976b7aae1e0b1e3055": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -76,13 +14,12 @@
       "time": "6:00p-7:50p",
       "building": "CENTR",
       "room": "216",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-14T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "19:50"
     },
-    {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -91,18 +28,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "431dbe49a28f000bc9e2ae07f2556aadca31da20e4048fa89b934bd74a54fc4f": {
         "sectxt": true,
         "sectionID": "933679",
         "type": "LE",
@@ -111,16 +46,15 @@
         "time": "11:00a-12:20p",
         "building": "HSS",
         "room": "1330",
-        "instructor": "Kosmatka, John B",
         "instructors": [
           "Kosmatka, John B"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "469cdc09b5101b407eb89da7b06b01cccacb7dd0ccd3576cdf3d9b6b3109367f": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -129,14 +63,13 @@
         "time": "3:00p-3:50p",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "",
         "instructors": [],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "6fb7e2f92158867deb6b4dd0d0c9864876fd0ac1ce8033f289f4bc739b8977cb": {
         "sectxt": true,
         "sectionID": "933679",
         "type": "LE",
@@ -145,16 +78,16 @@
         "time": "11:00a-12:20p",
         "building": "HSS",
         "room": "1330",
-        "instructor": "Kosmatka, John B",
         "instructors": [
           "Kosmatka, John B"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

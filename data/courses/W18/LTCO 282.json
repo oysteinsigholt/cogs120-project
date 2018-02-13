@@ -3,33 +3,12 @@
   "name": "Literature and Philosophy",
   "department": "LTCO",
   "id": "282",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924331",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "2:00p-4:50p",
-      "building": "LIT",
-      "room": "437",
-      "instructor": "O'Brien, William Arctander",
-      "instructors": [
-        "O'Brien, William Arctander"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "53673d7577f7370316dc65f9d501b1d531b8f9e26a5869b5f2c5d3d92427f2c2": {
         "sectxt": true,
         "sectionID": "924331",
         "type": "SE",
@@ -38,16 +17,15 @@
         "time": "2:00p-4:50p",
         "building": "LIT",
         "room": "437",
-        "instructor": "O'Brien, William Arctander",
         "instructors": [
           "O'Brien, William Arctander"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

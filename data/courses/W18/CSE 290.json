@@ -3,32 +3,76 @@
   "name": "Sem/Computer Sci & Engineering",
   "department": "CSE",
   "id": "290",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "935702",
-      "type": "SE",
-      "section": "H00",
-      "days": "W",
-      "time": "10:00a-11:20a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Gymrek, Melissa Ann",
-      "instructors": [
-        "Gymrek, Melissa Ann"
-      ],
-      "start_time": "10:00",
-      "end_time": "11:20"
-    }
+  "notes": [
+    "Recent Advances in Bioinformatics"
   ],
-  "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "Tu": {
+      "a38aa858f4a59913e3d9fd72e10692ecec08fb5f028422b9b4582ff6e054fb49": {
+        "sectxt": true,
+        "sectionID": "931815",
+        "type": "SE",
+        "section": "F00",
+        "days": "Tu",
+        "time": "11:00a-11:50a",
+        "building": "EBU3B",
+        "room": "2109",
+        "instructors": [
+          "Cheng, Chung Kuan"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    },
+    "W": {
+      "253ce8df0cc22a164bd4c7d44a7a02141e907976534292547c73290808ee12b9": {
+        "sectxt": true,
+        "sectionID": "929942",
+        "type": "SE",
+        "section": "C00",
+        "days": "W",
+        "time": "2:00p-2:50p",
+        "building": "EBU3B",
+        "room": "4140",
+        "instructors": [
+          "Gao, Sicun"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "d173528349b0699b5dafb4c923b2c58ff2ea541920d8d20fac198f050b645233": {
+        "sectxt": true,
+        "sectionID": "930408",
+        "type": "SE",
+        "section": "E00",
+        "days": "W",
+        "time": "3:00p-3:50p",
+        "building": "EBU3B",
+        "room": "4217",
+        "instructors": [
+          "Swanson, Steven James"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "3b20589cbd9bd2a69b6869d6fd34732921e253cb6ea44c544eed326f07388699": {
+        "sectxt": true,
+        "sectionID": "932212",
+        "type": "SE",
+        "section": "G00",
+        "days": "W",
+        "time": "10:30a-11:50a",
+        "building": "EBU3B",
+        "room": "4217",
+        "instructors": [
+          "Pevzner, Pavel Arkadjevich"
+        ],
+        "start_time": "10:30",
+        "end_time": "11:50"
+      },
+      "bab692dba3737b46080781600ff6479cb003393df2e7bedb64eae1d902f11937": {
         "sectxt": true,
         "sectionID": "935702",
         "type": "SE",
@@ -37,17 +81,38 @@
         "time": "10:00a-11:20a",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Gymrek, Melissa Ann",
         "instructors": [
           "Gymrek, Melissa Ann"
         ],
         "start_time": "10:00",
         "end_time": "11:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "F": {
+      "83c01b1330356f4a3c892ff4a6f945dedfebd1a73d759e60e78184b96727416a": {
+        "sectxt": true,
+        "sectionID": "929947",
+        "type": "SE",
+        "section": "D00",
+        "days": "F",
+        "time": "1:00p-1:50p",
+        "building": "EBU3B",
+        "room": "4109",
+        "instructors": [
+          "Su, Hao"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H"
+  ]
 }

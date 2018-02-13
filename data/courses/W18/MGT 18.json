@@ -3,39 +3,26 @@
   "name": "Managing Diverse Teams",
   "department": "MGT",
   "id": "18",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929949",
-      "type": "LE",
-      "section": "D00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "OTRSN",
-      "room": "1S114",
-      "instructor": "McKay, Mary A",
-      "instructors": [
-        "McKay, Mary A"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
+  "notes": [
+    "MU for MGT 18 B00 will meet in same location as MGT A00",
+    "MU for MGT 18 C00 will meet in same location as MGT A00"
+  ],
+  "events_single": {
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
     },
-    {
+    "c041635ce2430f462de95416a081c43785b726f33af939bae32ab262ed4eb1ca": {
       "sectxt": false,
       "sectionID": "",
       "type": "MU",
@@ -44,16 +31,26 @@
       "time": "8:00p-9:20p",
       "building": "OTRSN",
       "room": "1S114",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-05T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:20"
-    }
-  ],
-  "notes": [],
-  "events_single": [
-    {
+    },
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -62,33 +59,61 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MU",
-      "section": "03/05/2018",
-      "days": "M",
-      "time": "8:00p-9:20p",
-      "building": "OTRSN",
-      "room": "1S114",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-05T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:20"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "9db2885a2d14c6f58f5bb905e06fcf41d17d57581c3decefbcfe9c30c15990a0": {
+        "sectxt": true,
+        "sectionID": "922569",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "OTRSN",
+        "room": "1S113",
+        "instructors": [
+          "McKay, Michael J"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "43377f825ca3f2296ae2244079da14dff9429d8c6839ef142065ba7b8b06a53b": {
+        "sectxt": true,
+        "sectionID": "922570",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "OTRSN",
+        "room": "1S113",
+        "instructors": [
+          "McKay, Michael J"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "2bfc549e062760bd07ef891a753c51ff297308ac5c26ef3b99c916b0593bf337": {
+        "sectxt": true,
+        "sectionID": "922571",
+        "type": "LE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "OTRSN",
+        "room": "1S113",
+        "instructors": [
+          "McKay, Michael J"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "b6ad483d0d54abe0fe581703fd3bc8cc421e71512e3343a25c3e8d7fdbdb6f0a": {
         "sectxt": true,
         "sectionID": "929949",
         "type": "LE",
@@ -97,17 +122,60 @@
         "time": "12:30p-1:50p",
         "building": "OTRSN",
         "room": "1S114",
-        "instructor": "McKay, Mary A",
         "instructors": [
           "McKay, Mary A"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "bf6754d0763985690ac94c4086864cbcaff1d790056e6a79255a446705c22517": {
+        "sectxt": true,
+        "sectionID": "922569",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "OTRSN",
+        "room": "1S113",
+        "instructors": [
+          "McKay, Michael J"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "903f40067bd6239b8cfb7297bdf0cec61fad84964517e525f3e75aebd0ac164d": {
+        "sectxt": true,
+        "sectionID": "922570",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "OTRSN",
+        "room": "1S113",
+        "instructors": [
+          "McKay, Michael J"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "ab1a3ca0ae8deeda612224187868ad217568e720d412dbe617ce49d0d712a9e3": {
+        "sectxt": true,
+        "sectionID": "922571",
+        "type": "LE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "OTRSN",
+        "room": "1S113",
+        "instructors": [
+          "McKay, Michael J"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "660f2a447a6989a0451c1fca3dba36396b9e4ad31dbe4af0c5b579baabc5977e": {
         "sectxt": true,
         "sectionID": "929949",
         "type": "LE",
@@ -116,16 +184,18 @@
         "time": "12:30p-1:50p",
         "building": "OTRSN",
         "room": "1S114",
-        "instructor": "McKay, Mary A",
         "instructors": [
           "McKay, Mary A"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
 }

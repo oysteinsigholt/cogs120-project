@@ -3,27 +3,37 @@
   "name": "Advanced Prjcts in Composition",
   "department": "MUS",
   "id": "203D",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930130",
-      "type": "ST",
-      "section": "G00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Diels, Natacha D.",
-      "instructors": [
-        "Diels, Natacha D."
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "921948",
+      "type": "ST",
+      "section": "E00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Ung, Chinary"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921949",
+      "type": "ST",
+      "section": "F00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Reynolds, Roger L."
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "930130",
       "type": "ST",
       "section": "G00",
@@ -31,19 +41,79 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Diels, Natacha D.",
       "instructors": [
         "Diels, Natacha D."
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "Th": {
+      "88f4915050559ad95afdbbc3af5a1b5b94fb27add59486c1035885b53fa48efd": {
+        "sectxt": true,
+        "sectionID": "921944",
+        "type": "ST",
+        "section": "A00",
+        "days": "Th",
+        "time": "2:00p-4:50p",
+        "building": "CPMC",
+        "room": "350",
+        "instructors": [
+          "Liang, Lei"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:50"
+      },
+      "9566ee28df3dd06c4e0ee144c6de55879611f7a7b46bba21ca590bae1821b086": {
+        "sectxt": true,
+        "sectionID": "921945",
+        "type": "ST",
+        "section": "B00",
+        "days": "Th",
+        "time": "2:00p-4:50p",
+        "building": "CPMC",
+        "room": "349",
+        "instructors": [
+          "Rosenberger, Katharina"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:50"
+      },
+      "85eddd34360639064a4bf175c06151c78c11897c0e4a0285802c9fa20bc5f366": {
+        "sectxt": true,
+        "sectionID": "921946",
+        "type": "ST",
+        "section": "C00",
+        "days": "Th",
+        "time": "2:00p-4:50p",
+        "building": "CPMC",
+        "room": "336",
+        "instructors": [
+          "Steiger, Rand"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:50"
+      },
+      "5d2c6d3debbdd8c5fec3085a3b156001f9ab0dc449763a9fa0b71778996b5b5b": {
+        "sectxt": true,
+        "sectionID": "921947",
+        "type": "ST",
+        "section": "D00",
+        "days": "Th",
+        "time": "2:00p-4:50p",
+        "building": "CPMC",
+        "room": "232",
+        "instructors": [
+          "Davis, Anthony Curtis"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
 }

@@ -3,63 +3,41 @@
   "name": "Topics in ECE with Lab",
   "department": "ECE",
   "id": "188",
-  "timeslots": [
+  "notes": [],
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  },
+  "events_unknown": [
     {
       "sectxt": true,
       "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "9:00a-11:50a",
-      "building": "EBU1",
-      "room": "B538",
-      "instructor": "Phan, Alex Minh Giang",
+      "type": "DI",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
       "instructors": [
         "Phan, Alex Minh Giang"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
+      ]
     }
   ],
-  "notes": [],
-  "events_single": [
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
-  "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "527dc51c8614af33b012b2d9e7960d2902ab8d0ecc042cf6c66a2fc7704405cb": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -68,17 +46,33 @@
         "time": "9:00a-11:50a",
         "building": "EBU1",
         "room": "B538",
-        "instructor": "Phan, Alex Minh Giang",
         "instructors": [
           "Phan, Alex Minh Giang"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "F": {
+      "d72bdd7ed03d87b9bee8026f78ed625b5e8bb1905db2e67952e6340dd7800e4d": {
+        "sectxt": true,
+        "sectionID": "925093",
+        "type": "LA",
+        "section": "A50",
+        "days": "F",
+        "time": "9:00a-11:50a",
+        "building": "EBU1",
+        "room": "B538",
+        "instructors": [
+          "Phan, Alex Minh Giang"
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

@@ -3,42 +3,9 @@
   "name": "Organizational Economics",
   "department": "GPIM",
   "id": "447",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921718",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "6:30p-9:20p",
-      "building": "RBC",
-      "room": "1328",
-      "instructor": "Lyons, Elizabeth Deirdre",
-      "instructors": [
-        "Lyons, Elizabeth Deirdre"
-      ],
-      "start_time": "18:30",
-      "end_time": "21:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "9d1eeeb0e3dff6dfcf33f37de15913b222faf70b6619e092c8e6f7a7506cb319": {
         "sectxt": true,
         "sectionID": "921718",
         "type": "LE",
@@ -67,18 +32,15 @@
         "time": "6:30p-9:20p",
         "building": "RBC",
         "room": "1328",
-        "instructor": "Lyons, Elizabeth Deirdre",
         "instructors": [
           "Lyons, Elizabeth Deirdre"
         ],
         "start_time": "18:30",
         "end_time": "21:20"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

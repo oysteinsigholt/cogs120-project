@@ -3,33 +3,74 @@
   "name": "Computer Music I",
   "department": "MUS",
   "id": "171",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921814",
-      "type": "LA",
-      "section": "A02",
-      "days": "Th",
-      "time": "5:00p-5:50p",
-      "building": "CPMC",
-      "room": "136",
-      "instructor": "Puckette, Miller S.",
-      "instructors": [
-        "Puckette, Miller S."
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Tu": {
+      "9ec7a75a4bc43af6f1f5691321e7c0b76c91959abf7d3526bd55cd7e805f562b": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "SE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "CPMC",
+        "room": "136",
+        "instructors": [
+          "Puckette, Miller S."
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "e75a77f962b96db967f63886844a172bcda03409c958ce0b9fabfa000c08b75f": {
+        "sectxt": true,
+        "sectionID": "921813",
+        "type": "LA",
+        "section": "A01",
+        "days": "Tu",
+        "time": "5:00p-5:50p",
+        "building": "CPMC",
+        "room": "136",
+        "instructors": [
+          "Puckette, Miller S."
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    },
+    "Th": {
+      "7fc717b81c0f33f6c420d255cb73a13066f7850c08442aa207e52e42713dde80": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "SE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "CPMC",
+        "room": "136",
+        "instructors": [
+          "Puckette, Miller S."
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "8fa0d5e4216ea49d6e3d585d76f361264ef631cae7f5cbd41366a798a91687d9": {
         "sectxt": true,
         "sectionID": "921814",
         "type": "LA",
@@ -38,16 +79,15 @@
         "time": "5:00p-5:50p",
         "building": "CPMC",
         "room": "136",
-        "instructor": "Puckette, Miller S.",
         "instructors": [
           "Puckette, Miller S."
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

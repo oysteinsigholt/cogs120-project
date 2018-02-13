@@ -3,52 +3,8 @@
   "name": "Basic Neurology",
   "department": "SPPS",
   "id": "245",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920077",
-      "type": "LE",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Kritchevsky, Mark",
-      "instructors": [
-        "Kritchevsky, Mark"
-      ]
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Kritchevsky, Mark",
-      "instructors": [
-        "Kritchevsky, Mark"
-      ]
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A50",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Kritchevsky, Mark",
-      "instructors": [
-        "Kritchevsky, Mark"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -59,7 +15,6 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Kritchevsky, Mark",
       "instructors": [
         "Kritchevsky, Mark"
       ]
@@ -73,7 +28,6 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Kritchevsky, Mark",
       "instructors": [
         "Kritchevsky, Mark"
       ]
@@ -87,19 +41,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Kritchevsky, Mark",
       "instructors": [
         "Kritchevsky, Mark"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

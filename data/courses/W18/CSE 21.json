@@ -3,88 +3,9 @@
   "name": "Math/Algorithm&Systems Analys",
   "department": "CSE",
   "id": "21",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "CENTR",
-      "room": "216",
-      "instructor": "Bach, Quang Tran",
-      "instructors": [
-        "Bach, Quang Tran"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927458",
-      "type": "DI",
-      "section": "B01",
-      "days": "M",
-      "time": "8:00p-8:50p",
-      "building": "CENTR",
-      "room": "105",
-      "instructor": "Bach, Quang Tran",
-      "instructors": [
-        "Bach, Quang Tran"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "01/30/2018",
-      "days": "Tu",
-      "time": "8:00p-8:50p",
-      "building": "CENTR",
-      "room": "109",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-30T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "02/27/2018",
-      "days": "Tu",
-      "time": "8:00p-8:50p",
-      "building": "CENTR",
-      "room": "109",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-27T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/17/2018",
-      "days": "S",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-17T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "d132b02df01beb47ce8c836055c3227d2c479d98fad94074bbd5fe735f800dd7": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -93,13 +14,12 @@
       "time": "8:00p-8:50p",
       "building": "CENTR",
       "room": "109",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-30T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "20:50"
     },
-    {
+    "225c120a4f96699a92d57f47efe2eec732b1af46acbebd19766f2b9b2feeb564": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -108,13 +28,12 @@
       "time": "8:00p-8:50p",
       "building": "CENTR",
       "room": "109",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-27T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "20:50"
     },
-    {
+    "ace250a1febe77920a79e7f2214332e774880653bfaf3605da95f69e1b691332": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -123,17 +42,46 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-17T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "8f5cd86a955748c71ed3b0524caeeb63a50a0e72fd21fc5f08d1756339b04ec5": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "216",
+        "instructors": [
+          "Bach, Quang Tran"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "071e9ca0c9c999b1312fe6749dbe7dd3e87ce80b932012235e80308db10cfbe2": {
+        "sectxt": true,
+        "sectionID": "927456",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "7:00p-7:50p",
+        "building": "CENTR",
+        "room": "105",
+        "instructors": [
+          "Bach, Quang Tran"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "24017a74fa28bf66c3fdd65208e571f30776f867bbb0b596dad54c87a0661a66": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -142,14 +90,13 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "216",
-        "instructor": "Bach, Quang Tran",
         "instructors": [
           "Bach, Quang Tran"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "daceb537302a1bc6973881e23f3194d96e1d8ff4ad3a21b0ac8b7a6d5224438c": {
         "sectxt": true,
         "sectionID": "927458",
         "type": "DI",
@@ -158,17 +105,30 @@
         "time": "8:00p-8:50p",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Bach, Quang Tran",
         "instructors": [
           "Bach, Quang Tran"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "74ea09cb3d01daba039901e3d18030194c0ce47fc0bd239b573a61ed455612f9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "216",
+        "instructors": [
+          "Bach, Quang Tran"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "0abf89a3ce8bbb5f2405aeea3b841a1f2d3aadc82089b086ba3365cbfcb4a155": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -177,17 +137,30 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "216",
-        "instructor": "Bach, Quang Tran",
         "instructors": [
           "Bach, Quang Tran"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "cb478914a4ec4bc4c62867dba462dc925b2849711db7c7bb7d18cd0442892921": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "216",
+        "instructors": [
+          "Bach, Quang Tran"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "3b5c80694b986838946e3eba24860ef3dbb5b66426b0265a538784f52fcec108": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -196,15 +169,16 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "216",
-        "instructor": "Bach, Quang Tran",
         "instructors": [
           "Bach, Quang Tran"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

@@ -3,42 +3,9 @@
   "name": "Sound And Lighting",
   "department": "VIS",
   "id": "181",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922812",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "12:00p-2:50p",
-      "building": "MCC",
-      "room": "140",
-      "instructor": "Mangolte, Babette",
-      "instructors": [
-        "Mangolte, Babette"
-      ],
-      "start_time": "12:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "7826ad0b0fb55707433eabf3e5c4238dd99cb2bf27ceae745370b8b8ceb978f2": {
         "sectxt": true,
         "sectionID": "922812",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "12:00p-2:50p",
         "building": "MCC",
         "room": "140",
-        "instructor": "Mangolte, Babette",
         "instructors": [
           "Mangolte, Babette"
         ],
         "start_time": "12:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "35d918a3c3da92d4cebe2069bd5341465389684c70a28d6c0f1feaa338635076": {
         "sectxt": true,
         "sectionID": "922812",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "12:00p-2:50p",
         "building": "MCC",
         "room": "140",
-        "instructor": "Mangolte, Babette",
         "instructors": [
           "Mangolte, Babette"
         ],
         "start_time": "12:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

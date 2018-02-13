@@ -3,31 +3,12 @@
   "name": "Student Colloquium",
   "department": "MATH",
   "id": "196",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927272",
-      "type": "SE",
-      "section": "001",
-      "days": "Tu",
-      "time": "12:00p-12:50p",
-      "building": "APM",
-      "room": "6402",
-      "instructor": "Rhoades, Brendon Patrick",
-      "instructors": [
-        "Rhoades, Brendon Patrick"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "2d96b1e09f8d6975cd199281e04f51011abe3acd2c16856c3f725a61997bdddb": {
         "sectxt": true,
         "sectionID": "927272",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "12:00p-12:50p",
         "building": "APM",
         "room": "6402",
-        "instructor": "Rhoades, Brendon Patrick",
         "instructors": [
           "Rhoades, Brendon Patrick"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "0"
+  ]
 }

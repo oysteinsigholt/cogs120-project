@@ -3,30 +3,12 @@
   "name": "Experimental Writing Workshop",
   "department": "LTWR",
   "id": "115",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924405",
-      "type": "SE",
-      "section": "A00",
-      "days": "MW",
-      "time": "12:30p-1:50p",
-      "building": "LIT",
-      "room": "355",
-      "instructor": "Pafunda, Danielle",
-      "instructors": [
-        "Pafunda, Danielle"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "a9e0813f07de2c9bcdf66c00b7892602dbc5c32dd64c95597eb430a37d873b03": {
         "sectxt": true,
         "sectionID": "924405",
         "type": "SE",
@@ -35,17 +17,15 @@
         "time": "12:30p-1:50p",
         "building": "LIT",
         "room": "355",
-        "instructor": "Pafunda, Danielle",
         "instructors": [
           "Pafunda, Danielle"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "c40f4b6908347dbbf38e3d2334ce32d6086263406c5a1342dd27bd0e824c728d": {
         "sectxt": true,
         "sectionID": "924405",
         "type": "SE",
@@ -54,17 +34,15 @@
         "time": "12:30p-1:50p",
         "building": "LIT",
         "room": "355",
-        "instructor": "Pafunda, Danielle",
         "instructors": [
           "Pafunda, Danielle"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

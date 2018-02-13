@@ -3,58 +3,9 @@
   "name": "Molecular Sequence Analysis",
   "department": "BIMM",
   "id": "181",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926162",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "6:30p-7:50p",
-      "building": "CENTR",
-      "room": "214",
-      "instructor": "Pevzner, Pavel Arkadjevich",
-      "instructors": [
-        "Pevzner, Pavel Arkadjevich"
-      ],
-      "start_time": "18:30",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A01",
-      "days": "F",
-      "time": "4:00p-4:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "Pevzner, Pavel Arkadjevich",
-      "instructors": [
-        "Pevzner, Pavel Arkadjevich"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "4014bb1a466c069dc311d33d5ef7495aff7dbbe0834ca64e0d8d595c45fc5253": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "6d2b589e11877faf0f5707658204d24dcfde867b6306c7c5a896d187460b3685": {
         "sectxt": true,
         "sectionID": "926162",
         "type": "LE",
@@ -82,17 +32,15 @@
         "time": "6:30p-7:50p",
         "building": "CENTR",
         "room": "214",
-        "instructor": "Pevzner, Pavel Arkadjevich",
         "instructors": [
           "Pevzner, Pavel Arkadjevich"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "0fd5e39579fec4e3f8d1d3edd0b1e29b118583bfcf1a09fb807b051404e4b8f6": {
         "sectxt": true,
         "sectionID": "926162",
         "type": "LE",
@@ -101,17 +49,15 @@
         "time": "6:30p-7:50p",
         "building": "CENTR",
         "room": "214",
-        "instructor": "Pevzner, Pavel Arkadjevich",
         "instructors": [
           "Pevzner, Pavel Arkadjevich"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "1b67b56486601a01b9aae86ed147030b42afeb8f2a4bca7c4951267a9715e5ae": {
         "sectxt": true,
         "sectionID": "",
         "type": "DI",
@@ -120,15 +66,15 @@
         "time": "4:00p-4:50p",
         "building": "CSB",
         "room": "002",
-        "instructor": "Pevzner, Pavel Arkadjevich",
         "instructors": [
           "Pevzner, Pavel Arkadjevich"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

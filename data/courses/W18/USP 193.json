@@ -3,42 +3,9 @@
   "name": "San Diego Community Research",
   "department": "USP",
   "id": "193",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922181",
-      "type": "LE",
-      "section": "A00",
-      "days": "Th",
-      "time": "2:00p-4:50p",
-      "building": "SSB",
-      "room": "102",
-      "instructor": "Bergman, Matthew Edward",
-      "instructors": [
-        "Bergman, Matthew Edward"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,20 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "d3d57f6c69446c0ad94cd0a9a788284385cccf69e628f70112809cd05f65bd16": {
         "sectxt": true,
         "sectionID": "922181",
         "type": "LE",
@@ -69,16 +32,15 @@
         "time": "2:00p-4:50p",
         "building": "SSB",
         "room": "102",
-        "instructor": "Bergman, Matthew Edward",
         "instructors": [
           "Bergman, Matthew Edward"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

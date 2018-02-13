@@ -3,56 +3,23 @@
   "name": "Consumer Behavior",
   "department": "MGT",
   "id": "477",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930366",
-      "type": "LE",
-      "section": "B00",
-      "days": "F",
-      "time": "2:30p-5:30p",
-      "building": "OTRSN",
-      "room": "1E106",
-      "instructor": "Liu, Wei",
-      "instructors": [
-        "Liu, Wei"
-      ],
-      "start_time": "14:30",
-      "end_time": "17:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "S",
-      "time": "8:00a-10:00a",
-      "building": "OTRSN",
-      "room": "1E106",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "8:00",
-      "end_time": "10:00"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/24/2018",
-      "days": "S",
-      "time": "2:30p-5:30p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-24T07:00:00.000Z",
-      "start_time": "14:30",
-      "end_time": "17:30"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b2f55ebdcde6d79fd628d07aa0c285b9b159001b3c68c1f3f0be827bac7ee6a3": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "9:30a-12:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "9:30",
+      "end_time": "12:30"
+    },
+    "8774ee00151e950b1994b988ecba84c6f549e5f00f0552b33b2c651ba6ba6585": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -61,21 +28,33 @@
       "time": "2:30p-5:30p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-24T07:00:00.000Z",
       "start_time": "14:30",
       "end_time": "17:30"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "Th": {
+      "d661ee29202ae35a256f49365ef4d668320cb6f241dbdbd2a4ace8fb2298367b": {
+        "sectxt": true,
+        "sectionID": "930365",
+        "type": "LE",
+        "section": "A00",
+        "days": "Th",
+        "time": "9:30a-12:30p",
+        "building": "OTRSN",
+        "room": "1E106",
+        "instructors": [
+          "Liu, Wei"
+        ],
+        "start_time": "9:30",
+        "end_time": "12:30"
+      }
+    },
+    "F": {
+      "100f9a44cca1f551d5da9cae0e7b0758b26ad82dba20de9dfe1c65f4dfbdd021": {
         "sectxt": true,
         "sectionID": "930366",
         "type": "LE",
@@ -84,15 +63,16 @@
         "time": "2:30p-5:30p",
         "building": "OTRSN",
         "room": "1E106",
-        "instructor": "Liu, Wei",
         "instructors": [
           "Liu, Wei"
         ],
         "start_time": "14:30",
         "end_time": "17:30"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

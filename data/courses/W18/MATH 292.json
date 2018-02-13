@@ -3,31 +3,12 @@
   "name": "Seminar In Topology",
   "department": "MATH",
   "id": "292",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927325",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "10:30a-11:50a",
-      "building": "APM",
-      "room": "7218",
-      "instructor": "Roberts, Justin Deritter",
-      "instructors": [
-        "Roberts, Justin Deritter"
-      ],
-      "start_time": "10:30",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "9935a7e9fdd13867b7d75d5a2718224b8a6bd21a95cf095686ddb9001f0c2445": {
         "sectxt": true,
         "sectionID": "927325",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "10:30a-11:50a",
         "building": "APM",
         "room": "7218",
-        "instructor": "Roberts, Justin Deritter",
         "instructors": [
           "Roberts, Justin Deritter"
         ],
         "start_time": "10:30",
         "end_time": "11:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

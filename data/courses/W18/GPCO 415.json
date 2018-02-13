@@ -3,42 +3,9 @@
   "name": "Acct/Finance for PolicyMakers",
   "department": "GPCO",
   "id": "415",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921691",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "RBC",
-      "room": "AUD",
-      "instructor": "Samphantharak, Krislert",
-      "instructors": [
-        "Samphantharak, Krislert"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "99084e85dcbf5c5064e8677480f27cc1eb8ff5538061a54d6a1f44628193757c": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "231470a4322f01eb38758950738ab24d9c3e35fd367c9fa616ab6aa224f7d265": {
         "sectxt": true,
         "sectionID": "921691",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "11:00a-12:20p",
         "building": "RBC",
         "room": "AUD",
-        "instructor": "Samphantharak, Krislert",
         "instructors": [
           "Samphantharak, Krislert"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "ba21b210037b05411db449d7b880b3fd94d425f7108bcfb1420ff43fa679edf4": {
         "sectxt": true,
         "sectionID": "921691",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "11:00a-12:20p",
         "building": "RBC",
         "room": "AUD",
-        "instructor": "Samphantharak, Krislert",
         "instructors": [
           "Samphantharak, Krislert"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,27 +3,24 @@
   "name": "Group Study",
   "department": "USP",
   "id": "198",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922188",
-      "type": "SE",
-      "section": "B00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Peerson, Susan",
-      "instructors": [
-        "Peerson, Susan"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "922187",
+      "type": "SE",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Bussell, Mirle Rabinowitz"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "922188",
       "type": "SE",
       "section": "B00",
@@ -31,19 +28,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Peerson, Susan",
       "instructors": [
         "Peerson, Susan"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

@@ -3,74 +3,37 @@
   "name": "Modern Algebra I",
   "department": "MATH",
   "id": "103A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "D00",
-      "days": "MWF",
-      "time": "10:00a-10:50a",
-      "building": "WLH",
-      "room": "2111",
-      "instructor": "Stapleton, David John",
-      "instructors": [
-        "Stapleton, David John"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "933108",
-      "type": "DI",
-      "section": "D01",
-      "days": "Th",
-      "time": "7:00p-7:50p",
-      "building": "WLH",
-      "room": "2209",
-      "instructor": "Stapleton, David John",
-      "instructors": [
-        "Stapleton, David John"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "933109",
-      "type": "DI",
-      "section": "D02",
-      "days": "Th",
-      "time": "8:00p-8:50p",
-      "building": "WLH",
-      "room": "2209",
-      "instructor": "Stapleton, David John",
-      "instructors": [
-        "Stapleton, David John"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -79,17 +42,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "937cb190f88c3cbff3c101e147eb799533d9a029c9f3dfdbb8c3a01a8f7484b4": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -98,17 +60,107 @@
         "time": "10:00a-10:50a",
         "building": "WLH",
         "room": "2111",
-        "instructor": "Stapleton, David John",
         "instructors": [
           "Stapleton, David John"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "Tu": {
+      "c12e876c286e075f54b31f5190baf1c12afcaa3c60c656df28d942741b529a9a": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "APM",
+        "room": "B402A",
+        "instructors": [
+          "Pelayo, Alvaro"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "8c381587f1f8de3776f759acd364bc0a3a6601f9336312d32b890a80b26fd9e7": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "APM",
+        "room": "B402A",
+        "instructors": [
+          "Popescu, Cristian D."
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    },
+    "W": {
+      "e30e1dba64a6d42167c945615f8c89fd6f3127b8e31dc1d14df77f90e569796d": {
+        "sectxt": true,
+        "sectionID": "927105",
+        "type": "DI",
+        "section": "A01",
+        "days": "W",
+        "time": "4:00p-4:50p",
+        "building": "APM",
+        "room": "B402A",
+        "instructors": [
+          "Pelayo, Alvaro"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "aed3c1ab2c7077b74cff3292d8300a0f259ca489df1aec88e27023bdb49d0a7d": {
+        "sectxt": true,
+        "sectionID": "927106",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "5:00p-5:50p",
+        "building": "APM",
+        "room": "B402A",
+        "instructors": [
+          "Pelayo, Alvaro"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "b8fcdbced677b33cb8086a036c340c7eaa4a96011740d459ca38cfbb6a0b6761": {
+        "sectxt": true,
+        "sectionID": "927108",
+        "type": "DI",
+        "section": "B01",
+        "days": "W",
+        "time": "6:00p-6:50p",
+        "building": "APM",
+        "room": "B402A",
+        "instructors": [
+          "Popescu, Cristian D."
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "8216e22de91cf5eb368f169755b089d1e3538c0666fe8b042d52617cfaa9f4a8": {
+        "sectxt": true,
+        "sectionID": "927109",
+        "type": "DI",
+        "section": "B02",
+        "days": "W",
+        "time": "7:00p-7:50p",
+        "building": "APM",
+        "room": "B402A",
+        "instructors": [
+          "Popescu, Cristian D."
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "449f2050877bb1ce403fffa971b742fef5744de82b9dcb289d8314fe9b0f280d": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -117,16 +169,45 @@
         "time": "10:00a-10:50a",
         "building": "WLH",
         "room": "2111",
-        "instructor": "Stapleton, David John",
         "instructors": [
           "Stapleton, David John"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "1fd76e34fb7865fce7ff5adca312ddc805651e55d9a8d5231108d9552d7045e9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "APM",
+        "room": "B402A",
+        "instructors": [
+          "Pelayo, Alvaro"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "1616dcbcbe708e0126d57588b90b1023f6b8d7b1726225e7b5a0dd9e86a63639": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "APM",
+        "room": "B402A",
+        "instructors": [
+          "Popescu, Cristian D."
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "576de29b9549e9c68078fd59fdb3eb19bdd2ae4a61d75dafde1c7940880c6129": {
         "sectxt": true,
         "sectionID": "933108",
         "type": "DI",
@@ -135,14 +216,13 @@
         "time": "7:00p-7:50p",
         "building": "WLH",
         "room": "2209",
-        "instructor": "Stapleton, David John",
         "instructors": [
           "Stapleton, David John"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "ad08f0d960d99260dbe32bb900b70c0a4b0fb4767ffb72a1d13ccf57851f7956": {
         "sectxt": true,
         "sectionID": "933109",
         "type": "DI",
@@ -151,16 +231,15 @@
         "time": "8:00p-8:50p",
         "building": "WLH",
         "room": "2209",
-        "instructor": "Stapleton, David John",
         "instructors": [
           "Stapleton, David John"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "ff89b3375022e8bd9f2c15c2b513dfd7b241bd842cef8153c89f1b9de697b96e": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -169,15 +248,18 @@
         "time": "10:00a-10:50a",
         "building": "WLH",
         "room": "2111",
-        "instructor": "Stapleton, David John",
         "instructors": [
           "Stapleton, David John"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
 }

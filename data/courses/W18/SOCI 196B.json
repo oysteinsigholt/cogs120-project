@@ -3,30 +3,12 @@
   "name": "Hon Sem:Supervisd Thesis Rsrch",
   "department": "SOCI",
   "id": "196B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923212",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "3:00p-5:50p",
-      "building": "SSB",
-      "room": "414",
-      "instructor": "Haydu, Jeffrey Miles",
-      "instructors": [
-        "Haydu, Jeffrey Miles"
-      ],
-      "start_time": "15:00",
-      "end_time": "17:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "f47be1897cde843a81c5b51f3823c642fdb98e01b3690460dd1dfb03bcf4ca56": {
         "sectxt": true,
         "sectionID": "923212",
         "type": "LE",
@@ -35,19 +17,15 @@
         "time": "3:00p-5:50p",
         "building": "SSB",
         "room": "414",
-        "instructor": "Haydu, Jeffrey Miles",
         "instructors": [
           "Haydu, Jeffrey Miles"
         ],
         "start_time": "15:00",
         "end_time": "17:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

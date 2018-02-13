@@ -3,27 +3,24 @@
   "name": "Apprentice Teaching/Humn Devlp",
   "department": "HDP",
   "id": "500",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "936340",
-      "type": "IN",
-      "section": "004",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Ark, Wendy S",
-      "instructors": [
-        "Ark, Wendy S"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "922457",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Reese, Clarissa Jane"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "936340",
       "type": "IN",
       "section": "004",
@@ -31,19 +28,13 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Ark, Wendy S",
       "instructors": [
         "Ark, Wendy S"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": [
+    "0"
+  ]
 }

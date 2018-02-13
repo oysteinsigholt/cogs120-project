@@ -3,42 +3,9 @@
   "name": "Advanced Topics in Game Theory",
   "department": "ECON",
   "id": "109T",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924062",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "10:00a-11:50a",
-      "building": "SEQUO",
-      "room": "244",
-      "instructor": "Trevino, Isabel",
-      "instructors": [
-        "Trevino, Isabel"
-      ],
-      "start_time": "10:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,19 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "edec2d9357950fcb01410856b365befb08572d8dd0cce411d7892a92c426de8b": {
         "sectxt": true,
         "sectionID": "924062",
         "type": "LE",
@@ -68,17 +32,15 @@
         "time": "10:00a-11:50a",
         "building": "SEQUO",
         "room": "244",
-        "instructor": "Trevino, Isabel",
         "instructors": [
           "Trevino, Isabel"
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

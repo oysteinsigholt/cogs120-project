@@ -3,42 +3,9 @@
   "name": "Seminar/Modern Art History",
   "department": "VIS",
   "id": "129C",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922781",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "12:00p-2:50p",
-      "building": "MANDE",
-      "room": "212",
-      "instructor": "Bryson, William N",
-      "instructors": [
-        "Bryson, William N"
-      ],
-      "start_time": "12:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,19 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "e7e624bc1ab0520c787960ca8e3cff0389cb272c8c49ccf28ac259fc6269d9a2": {
         "sectxt": true,
         "sectionID": "922781",
         "type": "SE",
@@ -68,17 +32,15 @@
         "time": "12:00p-2:50p",
         "building": "MANDE",
         "room": "212",
-        "instructor": "Bryson, William N",
         "instructors": [
           "Bryson, William N"
         ],
         "start_time": "12:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

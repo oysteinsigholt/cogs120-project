@@ -3,42 +3,9 @@
   "name": "Structural Dynamics",
   "department": "SE",
   "id": "203",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930201",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "PETER",
-      "room": "102",
-      "instructor": "Todd, Michael",
-      "instructors": [
-        "Todd, Michael"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "553b45269d9b24d6ffea90871f011196e88d983f2287c9fb4b72e81029c3d346": {
         "sectxt": true,
         "sectionID": "930201",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "3:30p-4:50p",
         "building": "PETER",
         "room": "102",
-        "instructor": "Todd, Michael",
         "instructors": [
           "Todd, Michael"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "762d3f0e5faea8a2a5120462ee34f436b0600fe84f8ce7dc74d091840acfccb1": {
         "sectxt": true,
         "sectionID": "930201",
         "type": "LE",
@@ -86,16 +49,16 @@
         "time": "3:30p-4:50p",
         "building": "PETER",
         "room": "102",
-        "instructor": "Todd, Michael",
         "instructors": [
           "Todd, Michael"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

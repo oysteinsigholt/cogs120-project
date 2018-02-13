@@ -3,138 +3,9 @@
   "name": "Neurobiology and Behavior",
   "department": "BILD",
   "id": "12",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "6:00p-7:20p",
-      "building": "PCYNH",
-      "room": "109",
-      "instructor": "Komiyama, Takaki",
-      "instructors": [
-        "Komiyama, Takaki"
-      ],
-      "start_time": "18:00",
-      "end_time": "19:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926037",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "1:00p-1:50p",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "Komiyama, Takaki",
-      "instructors": [
-        "Komiyama, Takaki"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926038",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "8:00p-8:50p",
-      "building": "CENTR",
-      "room": "207",
-      "instructor": "Komiyama, Takaki",
-      "instructors": [
-        "Komiyama, Takaki"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926039",
-      "type": "DI",
-      "section": "A03",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "Komiyama, Takaki",
-      "instructors": [
-        "Komiyama, Takaki"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926040",
-      "type": "DI",
-      "section": "A04",
-      "days": "Th",
-      "time": "7:00p-7:50p",
-      "building": "CENTR",
-      "room": "207",
-      "instructor": "Komiyama, Takaki",
-      "instructors": [
-        "Komiyama, Takaki"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926041",
-      "type": "DI",
-      "section": "A05",
-      "days": "Th",
-      "time": "8:00p-8:50p",
-      "building": "CENTR",
-      "room": "207",
-      "instructor": "Komiyama, Takaki",
-      "instructors": [
-        "Komiyama, Takaki"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926042",
-      "type": "DI",
-      "section": "A06",
-      "days": "F",
-      "time": "8:00a-8:50a",
-      "building": "CENTR",
-      "room": "207",
-      "instructor": "Komiyama, Takaki",
-      "instructors": [
-        "Komiyama, Takaki"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "4014bb1a466c069dc311d33d5ef7495aff7dbbe0834ca64e0d8d595c45fc5253": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -143,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "aa9a98b9fdef0ad8ad30c13a790c84d5a6eb2c8e2c057ad9403653e08e466c28": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -162,14 +32,13 @@
         "time": "6:00p-7:20p",
         "building": "PCYNH",
         "room": "109",
-        "instructor": "Komiyama, Takaki",
         "instructors": [
           "Komiyama, Takaki"
         ],
         "start_time": "18:00",
         "end_time": "19:20"
       },
-      {
+      "560c14f9f1a255fca03418dbecd1f86a5ce94113f3a5726175c9054f78832433": {
         "sectxt": true,
         "sectionID": "926037",
         "type": "DI",
@@ -178,14 +47,13 @@
         "time": "1:00p-1:50p",
         "building": "HSS",
         "room": "2150",
-        "instructor": "Komiyama, Takaki",
         "instructors": [
           "Komiyama, Takaki"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "0f81e9327fdce729aa2437017ce307f418c0c22bfbe2db210e43abec2b513150": {
         "sectxt": true,
         "sectionID": "926038",
         "type": "DI",
@@ -194,17 +62,15 @@
         "time": "8:00p-8:50p",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Komiyama, Takaki",
         "instructors": [
           "Komiyama, Takaki"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "2d9f8877924acbaada9e8fcb7e281c54daf95ec49421accac8f68408b810e654": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -213,14 +79,13 @@
         "time": "6:00p-7:20p",
         "building": "PCYNH",
         "room": "109",
-        "instructor": "Komiyama, Takaki",
         "instructors": [
           "Komiyama, Takaki"
         ],
         "start_time": "18:00",
         "end_time": "19:20"
       },
-      {
+      "565f95508cd0bf24cf2d4844be664cafe493337e083e56381f8969a77ed2617c": {
         "sectxt": true,
         "sectionID": "926039",
         "type": "DI",
@@ -229,16 +94,15 @@
         "time": "5:00p-5:50p",
         "building": "HSS",
         "room": "2150",
-        "instructor": "Komiyama, Takaki",
         "instructors": [
           "Komiyama, Takaki"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "b7857a36738969ec84b8ff7429474876555da9ce3c72917bde55816025d1345f": {
         "sectxt": true,
         "sectionID": "926040",
         "type": "DI",
@@ -247,14 +111,13 @@
         "time": "7:00p-7:50p",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Komiyama, Takaki",
         "instructors": [
           "Komiyama, Takaki"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "17caa2c8d7864b4a4d29753219ac82507cd492869bd98971d4b8785e4550f347": {
         "sectxt": true,
         "sectionID": "926041",
         "type": "DI",
@@ -263,16 +126,15 @@
         "time": "8:00p-8:50p",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Komiyama, Takaki",
         "instructors": [
           "Komiyama, Takaki"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "58cdefa48fde9788c3667b2e4a81563ce2c8778c753263f38a3ed30472fce426": {
         "sectxt": true,
         "sectionID": "926042",
         "type": "DI",
@@ -281,15 +143,15 @@
         "time": "8:00a-8:50a",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Komiyama, Takaki",
         "instructors": [
           "Komiyama, Takaki"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

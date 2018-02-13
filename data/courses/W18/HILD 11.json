@@ -3,138 +3,9 @@
   "name": "East Asia & the West,1279-1911",
   "department": "HILD",
   "id": "11",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "WLH",
-      "room": "2005",
-      "instructor": "Merrill O'Keefe, Amy Roxanne",
-      "instructors": [
-        "Merrill O'Keefe, Amy Roxanne"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924514",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "Merrill O'Keefe, Amy Roxanne",
-      "instructors": [
-        "Merrill O'Keefe, Amy Roxanne"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924515",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "Merrill O'Keefe, Amy Roxanne",
-      "instructors": [
-        "Merrill O'Keefe, Amy Roxanne"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924516",
-      "type": "DI",
-      "section": "A03",
-      "days": "F",
-      "time": "12:00p-12:50p",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "Merrill O'Keefe, Amy Roxanne",
-      "instructors": [
-        "Merrill O'Keefe, Amy Roxanne"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924517",
-      "type": "DI",
-      "section": "A04",
-      "days": "F",
-      "time": "1:00p-1:50p",
-      "building": "CENTR",
-      "room": "217B",
-      "instructor": "Merrill O'Keefe, Amy Roxanne",
-      "instructors": [
-        "Merrill O'Keefe, Amy Roxanne"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924518",
-      "type": "DI",
-      "section": "A05",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "HSS",
-      "room": "1315",
-      "instructor": "Merrill O'Keefe, Amy Roxanne",
-      "instructors": [
-        "Merrill O'Keefe, Amy Roxanne"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924519",
-      "type": "DI",
-      "section": "A06",
-      "days": "F",
-      "time": "4:00p-4:50p",
-      "building": "HSS",
-      "room": "1315",
-      "instructor": "Merrill O'Keefe, Amy Roxanne",
-      "instructors": [
-        "Merrill O'Keefe, Amy Roxanne"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -143,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "6721ec3568dcd8f8a49712a671b801dfee4ddaabbc63506c0e935ab456b7dffd": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -162,17 +32,15 @@
         "time": "2:00p-2:50p",
         "building": "WLH",
         "room": "2005",
-        "instructor": "Merrill O'Keefe, Amy Roxanne",
         "instructors": [
           "Merrill O'Keefe, Amy Roxanne"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "03db29512c920154c8251b4bab8a52a294794a0af7dbbc2424d2ef4b9cb7ee87": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -181,14 +49,13 @@
         "time": "2:00p-2:50p",
         "building": "WLH",
         "room": "2005",
-        "instructor": "Merrill O'Keefe, Amy Roxanne",
         "instructors": [
           "Merrill O'Keefe, Amy Roxanne"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "4642f5671120ea313f80b97c42d7f28ca72db5a6c25281347077f61f85f2789f": {
         "sectxt": true,
         "sectionID": "924514",
         "type": "DI",
@@ -197,14 +64,13 @@
         "time": "3:00p-3:50p",
         "building": "WLH",
         "room": "2115",
-        "instructor": "Merrill O'Keefe, Amy Roxanne",
         "instructors": [
           "Merrill O'Keefe, Amy Roxanne"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "63e75b2042529771ee9b8e2d838c124f2cab0a418be8fb8bbd27d369b9a40361": {
         "sectxt": true,
         "sectionID": "924515",
         "type": "DI",
@@ -213,17 +79,15 @@
         "time": "4:00p-4:50p",
         "building": "WLH",
         "room": "2115",
-        "instructor": "Merrill O'Keefe, Amy Roxanne",
         "instructors": [
           "Merrill O'Keefe, Amy Roxanne"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "d279da4a3d7ccd6f447b5cb8f0bddd178e11c77d67d14b93ba22188196cebe12": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -232,14 +96,13 @@
         "time": "2:00p-2:50p",
         "building": "WLH",
         "room": "2005",
-        "instructor": "Merrill O'Keefe, Amy Roxanne",
         "instructors": [
           "Merrill O'Keefe, Amy Roxanne"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "14efbc6c0cf451b3be7e4e47f570f13b6a43d2e48638f0cf234598d5bd95ca30": {
         "sectxt": true,
         "sectionID": "924516",
         "type": "DI",
@@ -248,14 +111,13 @@
         "time": "12:00p-12:50p",
         "building": "HSS",
         "room": "2150",
-        "instructor": "Merrill O'Keefe, Amy Roxanne",
         "instructors": [
           "Merrill O'Keefe, Amy Roxanne"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "ffef54290b729faaa885cf0a35399d0fab0774f8c85a230e9010da097d5fcd46": {
         "sectxt": true,
         "sectionID": "924517",
         "type": "DI",
@@ -264,14 +126,13 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "217B",
-        "instructor": "Merrill O'Keefe, Amy Roxanne",
         "instructors": [
           "Merrill O'Keefe, Amy Roxanne"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "755adb5e1fc5a83d1de98ba8cb3e1c7e207d2ea98347f10d69154231b6dfa94a": {
         "sectxt": true,
         "sectionID": "924518",
         "type": "DI",
@@ -280,14 +141,13 @@
         "time": "3:00p-3:50p",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Merrill O'Keefe, Amy Roxanne",
         "instructors": [
           "Merrill O'Keefe, Amy Roxanne"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "36192ea5c84059d3f2e121ba17283521c4324662142cc5881d6019d398e3ed7d": {
         "sectxt": true,
         "sectionID": "924519",
         "type": "DI",
@@ -296,15 +156,15 @@
         "time": "4:00p-4:50p",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Merrill O'Keefe, Amy Roxanne",
         "instructors": [
           "Merrill O'Keefe, Amy Roxanne"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

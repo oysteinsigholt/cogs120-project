@@ -3,30 +3,12 @@
   "name": "Directed Group Study",
   "department": "EDS",
   "id": "297",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922543",
-      "type": "IN",
-      "section": "001",
-      "days": "M",
-      "time": "1:00p-4:00p",
-      "building": "PCYNH",
-      "room": "348",
-      "instructor": "Clarke, Sherice Nicole",
-      "instructors": [
-        "Clarke, Sherice Nicole"
-      ],
-      "start_time": "13:00",
-      "end_time": "16:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "e53f3d7c55103c3eb57022a4342e4d1b222ea387b25019e1ca95904130499e31": {
         "sectxt": true,
         "sectionID": "922543",
         "type": "IN",
@@ -35,19 +17,15 @@
         "time": "1:00p-4:00p",
         "building": "PCYNH",
         "room": "348",
-        "instructor": "Clarke, Sherice Nicole",
         "instructors": [
           "Clarke, Sherice Nicole"
         ],
         "start_time": "13:00",
         "end_time": "16:00"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "0"
+  ]
 }

@@ -3,165 +3,11 @@
   "name": "Computer Organiz&Systms Progrm",
   "department": "CSE",
   "id": "30",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "CENTR",
-      "room": "101",
-      "instructor": "Ord, Richard",
-      "instructors": [
-        "Ord, Richard"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927462",
-      "type": "DI",
-      "section": "B01",
-      "days": "Th",
-      "time": "5:00p-5:50p",
-      "building": "SOLIS",
-      "room": "107",
-      "instructor": "Ord, Richard",
-      "instructors": [
-        "Ord, Richard"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/17/2018",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-17T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/31/2018",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-31T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/12/2018",
-      "days": "M",
-      "time": "9:00p-9:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-12T08:00:00.000Z",
-      "start_time": "21:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/14/2018",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-14T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/28/2018",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-28T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "03/14/2018",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-14T07:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "03/18/2018",
-      "days": "Sun",
-      "time": "3:00p-3:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-18T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [
     "Review Sessions for CSE 30 B00 will meet in same\n location as CSE 30 A00."
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "3989706783067ddbfedc2d83ce33f24fddc2a1b8d1d1a5439f0d7b8a10c7f51a": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -170,13 +16,12 @@
       "time": "4:00p-4:50p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-17T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "554902d791c88277693edb2b2b8ca4d01d638a097742fa3ddc5966240f96d2fd": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -185,13 +30,12 @@
       "time": "4:00p-4:50p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-31T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "8d1a7a788ddb631b7e3f29656e01c8e824d02f45275403f97bb3b88d3bd016a8": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -200,13 +44,12 @@
       "time": "9:00p-9:50p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-12T08:00:00.000Z",
       "start_time": "21:00",
       "end_time": "21:50"
     },
-    {
+    "e1ccaf8d1fe4339f80193948eb91b87edc2798c1b4ed0f4b58e17af315e17a65": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -215,13 +58,12 @@
       "time": "4:00p-4:50p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-14T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "c475647354b11ef4d19f39153e301d2b13dfd1dc949d18bca20b42e5e77facc2": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -230,13 +72,12 @@
       "time": "4:00p-4:50p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-28T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "4b6819a74f225a2667298f0fcdb4864ae95b7be2c1e230a4bbd9d14e55c8648c": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -245,13 +86,12 @@
       "time": "4:00p-4:50p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-14T07:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "5c067b8f63d01b64b3bb9ebe89631353eb231c903e9e52647e757ef5bbad4c15": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -260,13 +100,26 @@
       "time": "3:00p-3:50p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-18T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -275,18 +128,31 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "77a90d7a8864ca19fd9b8963b8c321ba412d20b52100d010e9805af3b2d06f08": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "101",
+        "instructors": [
+          "Ord, Richard"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "81a3a22d044af611950a1935d34caa0c78dde03871e2bb09b4e49874d0b1d18a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -295,17 +161,45 @@
         "time": "9:30a-10:50a",
         "building": "CENTR",
         "room": "101",
-        "instructor": "Ord, Richard",
         "instructors": [
           "Ord, Richard"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f8ad585298e7b342895c254554dd0fa501d6feea536e74d6146ebcf55fb31294": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "101",
+        "instructors": [
+          "Ord, Richard"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "c3aac42a16022c81bd6332f7b62463b398fb650e4aba04d49d001cd1eda83ddf": {
+        "sectxt": true,
+        "sectionID": "927460",
+        "type": "DI",
+        "section": "A01",
+        "days": "Th",
+        "time": "8:00p-8:50p",
+        "building": "PETER",
+        "room": "108",
+        "instructors": [
+          "Ord, Richard"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "6ad9337ba6a4f2bae087bcaf77587012bb3622511512a4016bfeb14352c15f53": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -314,14 +208,13 @@
         "time": "9:30a-10:50a",
         "building": "CENTR",
         "room": "101",
-        "instructor": "Ord, Richard",
         "instructors": [
           "Ord, Richard"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       },
-      {
+      "5fcf47bf3b5236671dd827a52f5cceb5d9e27c5ed80c4d6af2fdc02fe09e7c30": {
         "sectxt": true,
         "sectionID": "927462",
         "type": "DI",
@@ -330,16 +223,16 @@
         "time": "5:00p-5:50p",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Ord, Richard",
         "instructors": [
           "Ord, Richard"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

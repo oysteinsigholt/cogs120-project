@@ -3,34 +3,123 @@
   "name": "Mechanics Laboratory",
   "department": "PHYS",
   "id": "1AL",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923652",
-      "type": "LA",
-      "section": "008",
-      "days": "F",
-      "time": "11:00a-12:50p",
-      "building": "MAYER",
-      "room": "2306",
-      "instructor": "Yagil, Avi",
-      "instructors": [
-        "Yagil, Avi"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "Tu": {
+      "214e81cff8941ef0e717427618100c25c7e7586cc5dde17373f5e12e4ec91034": {
+        "sectxt": true,
+        "sectionID": "923645",
+        "type": "LA",
+        "section": "001",
+        "days": "Tu",
+        "time": "9:00a-10:50a",
+        "building": "MAYER",
+        "room": "2306",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:50"
+      },
+      "ef35ff6618732af6fb7c9cd669611ea346ea0557430270c2c59ed99251683f12": {
+        "sectxt": true,
+        "sectionID": "923646",
+        "type": "LA",
+        "section": "002",
+        "days": "Tu",
+        "time": "2:00p-3:50p",
+        "building": "MAYER",
+        "room": "2306",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:50"
+      }
+    },
+    "W": {
+      "b3abc31174e9e5232410aaeceb3d6b54fe0b86ed504c3d7bfcd867f125c862a5": {
+        "sectxt": true,
+        "sectionID": "923647",
+        "type": "LA",
+        "section": "003",
+        "days": "W",
+        "time": "9:00a-10:50a",
+        "building": "MAYER",
+        "room": "2306",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:50"
+      },
+      "3ebc5e1b2f93590e781dfda604bf80a3898241fc39a29c348163ee59c3b786d4": {
+        "sectxt": true,
+        "sectionID": "923648",
+        "type": "LA",
+        "section": "004",
+        "days": "W",
+        "time": "11:00a-12:50p",
+        "building": "MAYER",
+        "room": "2306",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:50"
+      }
+    },
+    "Th": {
+      "406167a2706cd5dd3c44874a6d81b8bf711e920c214e96702f4db3fdd3d821d9": {
+        "sectxt": true,
+        "sectionID": "923649",
+        "type": "LA",
+        "section": "005",
+        "days": "Th",
+        "time": "9:00a-10:50a",
+        "building": "MAYER",
+        "room": "2306",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:50"
+      },
+      "af2bc5ae947f6403e3664e2094412d1dd4a0b2c519740ede79fc7fb98abf6f28": {
+        "sectxt": true,
+        "sectionID": "923650",
+        "type": "LA",
+        "section": "006",
+        "days": "Th",
+        "time": "2:00p-3:50p",
+        "building": "MAYER",
+        "room": "2306",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:50"
+      }
+    },
+    "F": {
+      "42db58706590e26bebad1d27ce0d1e6692a8d33f72781bb59814e84e5a238534": {
+        "sectxt": true,
+        "sectionID": "923651",
+        "type": "LA",
+        "section": "007",
+        "days": "F",
+        "time": "9:00a-10:50a",
+        "building": "MAYER",
+        "room": "2306",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:50"
+      },
+      "e15605cb41ebc5a556c8ad033ec733e85547087cc4d3f6d07dd33122a2f79c3e": {
         "sectxt": true,
         "sectionID": "923652",
         "type": "LA",
@@ -39,15 +128,15 @@
         "time": "11:00a-12:50p",
         "building": "MAYER",
         "room": "2306",
-        "instructor": "Yagil, Avi",
         "instructors": [
           "Yagil, Avi"
         ],
         "start_time": "11:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "0"
+  ]
 }

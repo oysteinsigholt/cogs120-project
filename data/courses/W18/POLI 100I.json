@@ -3,42 +3,9 @@
   "name": "Participation and Inequality",
   "department": "POLI",
   "id": "100I",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925296",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "10:00a-10:50a",
-      "building": "CENTR",
-      "room": "216",
-      "instructor": "Gause, LaGina",
-      "instructors": [
-        "Gause, LaGina"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "abba7fd5f61761a7717686c97c48f8ebe0a195fa036f38a4233d0025b4f6dbce": {
         "sectxt": true,
         "sectionID": "925296",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "216",
-        "instructor": "Gause, LaGina",
         "instructors": [
           "Gause, LaGina"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "a35ff369fb70a957a38954f82076d3df695eafd39cea1df9e468cdf39471d3f7": {
         "sectxt": true,
         "sectionID": "925296",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "216",
-        "instructor": "Gause, LaGina",
         "instructors": [
           "Gause, LaGina"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "512aab6dcf18b0f007fe9504db8c48d8def49147b2ac7cb296c559fee6ad0072": {
         "sectxt": true,
         "sectionID": "925296",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "216",
-        "instructor": "Gause, LaGina",
         "instructors": [
           "Gause, LaGina"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

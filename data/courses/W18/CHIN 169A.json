@@ -3,42 +3,9 @@
   "name": "Medical Chinese I",
   "department": "CHIN",
   "id": "169A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920660",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "CENTR",
-      "room": "224A",
-      "instructor": "Wang, Xiao",
-      "instructors": [
-        "Wang, Xiao"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "94562fc16776f83d8ff02acd85ca53434ce1d27197748454aea55862eb5eb3df": {
         "sectxt": true,
         "sectionID": "920660",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "11:00a-12:20p",
         "building": "CENTR",
         "room": "224A",
-        "instructor": "Wang, Xiao",
         "instructors": [
           "Wang, Xiao"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "bda51dea18e20916e57e894f3a53d7619069070a7d81502f2b3c332d2dbe652d": {
         "sectxt": true,
         "sectionID": "920660",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "11:00a-12:20p",
         "building": "CENTR",
         "room": "224A",
-        "instructor": "Wang, Xiao",
         "instructors": [
           "Wang, Xiao"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

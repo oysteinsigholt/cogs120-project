@@ -3,42 +3,9 @@
   "name": "Introduction to Seismology",
   "department": "SIOG",
   "id": "227A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921987",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "2:30p-3:30p",
-      "building": "IGPP",
-      "room": "4301",
-      "instructor": "Shearer, Peter M",
-      "instructors": [
-        "Shearer, Peter M"
-      ],
-      "start_time": "14:30",
-      "end_time": "15:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "8ee8d4f166df7dc5dc9e95b5f62cfee4cab8f77518e42698b41971b6332a5f3d": {
         "sectxt": true,
         "sectionID": "921987",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "2:30p-3:30p",
         "building": "IGPP",
         "room": "4301",
-        "instructor": "Shearer, Peter M",
         "instructors": [
           "Shearer, Peter M"
         ],
         "start_time": "14:30",
         "end_time": "15:30"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "be75ff6fc2717c0f2be2e2291212be65f6acaba2be145e7fcae94da598aff51b": {
         "sectxt": true,
         "sectionID": "921987",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "2:30p-3:30p",
         "building": "IGPP",
         "room": "4301",
-        "instructor": "Shearer, Peter M",
         "instructors": [
           "Shearer, Peter M"
         ],
         "start_time": "14:30",
         "end_time": "15:30"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "71bbd638f2f7bc5fabdd1bcb97e9dedd5ae3307ca01d12f4ce6f54584b9de8bd": {
         "sectxt": true,
         "sectionID": "921987",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "2:30p-3:30p",
         "building": "IGPP",
         "room": "4301",
-        "instructor": "Shearer, Peter M",
         "instructors": [
           "Shearer, Peter M"
         ],
         "start_time": "14:30",
         "end_time": "15:30"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

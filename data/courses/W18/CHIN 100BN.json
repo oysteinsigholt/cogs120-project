@@ -3,58 +3,9 @@
   "name": "Third Yr Chinese/Non-Native II",
   "department": "CHIN",
   "id": "100BN",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920658",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "HSS",
-      "room": "1128B",
-      "instructor": "Xu, Li",
-      "instructors": [
-        "Xu, Li"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "TU",
-      "section": "A01",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "YORK",
-      "room": "3050A",
-      "instructor": "Xu, Li",
-      "instructors": [
-        "Xu, Li"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "0f45d0f0e4175f422f8b5a9341cc25f760d47ed4b92100a3f038937e238d34c8": {
         "sectxt": true,
         "sectionID": "920658",
         "type": "LE",
@@ -83,16 +32,15 @@
         "time": "11:00a-12:20p",
         "building": "HSS",
         "room": "1128B",
-        "instructor": "Xu, Li",
         "instructors": [
           "Xu, Li"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "c7c7c961687e3f8514292bfde453b662fd684d8d5ba46de179628967a4bfa10d": {
         "sectxt": true,
         "sectionID": "",
         "type": "TU",
@@ -101,16 +49,15 @@
         "time": "5:00p-5:50p",
         "building": "YORK",
         "room": "3050A",
-        "instructor": "Xu, Li",
         "instructors": [
           "Xu, Li"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "6d5e18aebddaaa33b9b19f199421914749046e7d6f2c7d647ec7cbe3c8dbf273": {
         "sectxt": true,
         "sectionID": "920658",
         "type": "LE",
@@ -119,16 +66,15 @@
         "time": "11:00a-12:20p",
         "building": "HSS",
         "room": "1128B",
-        "instructor": "Xu, Li",
         "instructors": [
           "Xu, Li"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

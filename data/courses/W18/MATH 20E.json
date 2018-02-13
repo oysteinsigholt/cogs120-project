@@ -3,138 +3,51 @@
   "name": "Vector Calculus",
   "department": "MATH",
   "id": "20E",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "C00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "PCYNH",
-      "room": "106",
-      "instructor": "Aamari, Eddie",
-      "instructors": [
-        "Aamari, Eddie"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927078",
-      "type": "DI",
-      "section": "C01",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "SOLIS",
-      "room": "109",
-      "instructor": "Aamari, Eddie",
-      "instructors": [
-        "Aamari, Eddie"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927079",
-      "type": "DI",
-      "section": "C02",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2208",
-      "instructor": "Aamari, Eddie",
-      "instructors": [
-        "Aamari, Eddie"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927080",
-      "type": "DI",
-      "section": "C03",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "WLH",
-      "room": "2208",
-      "instructor": "Aamari, Eddie",
-      "instructors": [
-        "Aamari, Eddie"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927081",
-      "type": "DI",
-      "section": "C04",
-      "days": "W",
-      "time": "7:00p-7:50p",
-      "building": "WLH",
-      "room": "2208",
-      "instructor": "Aamari, Eddie",
-      "instructors": [
-        "Aamari, Eddie"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927082",
-      "type": "DI",
-      "section": "C05",
-      "days": "W",
-      "time": "8:00p-8:50p",
-      "building": "WLH",
-      "room": "2208",
-      "instructor": "Aamari, Eddie",
-      "instructors": [
-        "Aamari, Eddie"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927083",
-      "type": "DI",
-      "section": "C06",
-      "days": "W",
-      "time": "9:00p-9:50p",
-      "building": "WLH",
-      "room": "2208",
-      "instructor": "Aamari, Eddie",
-      "instructors": [
-        "Aamari, Eddie"
-      ],
-      "start_time": "21:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "9c51d6ec61e13cea490964dd67e1fad484b492b42c02b1026863b02ae1726eea": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/11/2018",
+      "days": "Sun",
+      "time": "1:00p-2:50p",
+      "building": "WLH",
+      "room": "2005",
+      "instructors": [],
+      "date": "2018-02-11T08:00:00.000Z",
+      "start_time": "13:00",
+      "end_time": "14:50"
+    },
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -143,18 +56,48 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "8f5cd86a955748c71ed3b0524caeeb63a50a0e72fd21fc5f08d1756339b04ec5": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "HSS",
+        "room": "1330",
+        "instructors": [
+          "Buskin, Nikolay"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    },
+    "Tu": {
+      "8c381587f1f8de3776f759acd364bc0a3a6601f9336312d32b890a80b26fd9e7": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "WLH",
+        "room": "2005",
+        "instructors": [
+          "Sterbenz, Jacob"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "169927bfd8483285e15eae4eff318e6d0070f5750a905c185f1671a05b930cc9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -163,16 +106,180 @@
         "time": "3:30p-4:50p",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Aamari, Eddie",
         "instructors": [
           "Aamari, Eddie"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "74ea09cb3d01daba039901e3d18030194c0ce47fc0bd239b573a61ed455612f9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "HSS",
+        "room": "1330",
+        "instructors": [
+          "Buskin, Nikolay"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "9751bc10fa74a7cb875a4e539665697354716124878e89120b406bcc6dd8e345": {
+        "sectxt": true,
+        "sectionID": "927066",
+        "type": "DI",
+        "section": "A01",
+        "days": "W",
+        "time": "8:00a-8:50a",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Buskin, Nikolay"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "644a85ca3f8b7053442426fa9f62b5680a82100b129e3c2b68161440c860494c": {
+        "sectxt": true,
+        "sectionID": "927067",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "9:00a-9:50a",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Buskin, Nikolay"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "acca2041b23e490cd34394dfa0c38c9397ba554141746ab2c52a65a5f6e2251e": {
+        "sectxt": true,
+        "sectionID": "930504",
+        "type": "DI",
+        "section": "A05",
+        "days": "W",
+        "time": "8:00p-8:50p",
+        "building": "APM",
+        "room": "5402",
+        "instructors": [
+          "Buskin, Nikolay"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "639e5b2d615f2a3508d8aa74c2bc8170b7b1bd11528ef8b8e074545c28bba50e": {
+        "sectxt": true,
+        "sectionID": "930505",
+        "type": "DI",
+        "section": "A06",
+        "days": "W",
+        "time": "9:00p-9:50p",
+        "building": "APM",
+        "room": "5402",
+        "instructors": [
+          "Buskin, Nikolay"
+        ],
+        "start_time": "21:00",
+        "end_time": "21:50"
+      },
+      "6f56bae4f319cb7a9b0d023b904d49dfeb90404e363386cc2f72ec16a1309092": {
+        "sectxt": true,
+        "sectionID": "927071",
+        "type": "DI",
+        "section": "B01",
+        "days": "W",
+        "time": "3:00p-3:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Sterbenz, Jacob"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "793ab0ac08b7ef8461c6c3b90895bc367d1b431556d971ab1f4a487268249c48": {
+        "sectxt": true,
+        "sectionID": "927072",
+        "type": "DI",
+        "section": "B02",
+        "days": "W",
+        "time": "4:00p-4:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Sterbenz, Jacob"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "4fbcd54621b5de6d00ae31237a4c104b81ee4774759df0ea624441f78c5592f9": {
+        "sectxt": true,
+        "sectionID": "927073",
+        "type": "DI",
+        "section": "B03",
+        "days": "W",
+        "time": "5:00p-5:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Sterbenz, Jacob"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "f27ffc7b9bec5f7ec71c13098b0fdcef8d1325705b39d4ee251fc1ed4a033d2a": {
+        "sectxt": true,
+        "sectionID": "927074",
+        "type": "DI",
+        "section": "B04",
+        "days": "W",
+        "time": "6:00p-6:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Sterbenz, Jacob"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "2ea0efd530b03075e89f9f27e6b24ad34caf1e8d33cf7be0c61d51b35a3eb045": {
+        "sectxt": true,
+        "sectionID": "933059",
+        "type": "DI",
+        "section": "B05",
+        "days": "W",
+        "time": "5:00p-5:50p",
+        "building": "WLH",
+        "room": "2113",
+        "instructors": [
+          "Sterbenz, Jacob"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "5ef3d04bbb919bc5540d921d843dfbeb47694ea52f8a115479cacb0a510072a2": {
+        "sectxt": true,
+        "sectionID": "933060",
+        "type": "DI",
+        "section": "B06",
+        "days": "W",
+        "time": "6:00p-6:50p",
+        "building": "WLH",
+        "room": "2113",
+        "instructors": [
+          "Sterbenz, Jacob"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "75a011d4b01eda6f2dc27800d9f0a482e415856c078414b4b636adae66561398": {
         "sectxt": true,
         "sectionID": "927078",
         "type": "DI",
@@ -181,14 +288,13 @@
         "time": "4:00p-4:50p",
         "building": "SOLIS",
         "room": "109",
-        "instructor": "Aamari, Eddie",
         "instructors": [
           "Aamari, Eddie"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "77b8977297dd959b79e56482d492f44f6527238983b555d2c14a0ec03224ca2c": {
         "sectxt": true,
         "sectionID": "927079",
         "type": "DI",
@@ -197,14 +303,13 @@
         "time": "5:00p-5:50p",
         "building": "WLH",
         "room": "2208",
-        "instructor": "Aamari, Eddie",
         "instructors": [
           "Aamari, Eddie"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "670d50b651f5f7233dd63ce70f222d430100a8430d38f6080d8c3f2e227433df": {
         "sectxt": true,
         "sectionID": "927080",
         "type": "DI",
@@ -213,14 +318,13 @@
         "time": "6:00p-6:50p",
         "building": "WLH",
         "room": "2208",
-        "instructor": "Aamari, Eddie",
         "instructors": [
           "Aamari, Eddie"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "9aab06a9eb25d9c4e53856659bd62748c5191a2be66d6fe9a88825c10ad23f2a": {
         "sectxt": true,
         "sectionID": "927081",
         "type": "DI",
@@ -229,14 +333,13 @@
         "time": "7:00p-7:50p",
         "building": "WLH",
         "room": "2208",
-        "instructor": "Aamari, Eddie",
         "instructors": [
           "Aamari, Eddie"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "cae00c0b5c3cafcb0b7de97de21f0a621821cde76d8a0676d69636546cb9dbb4": {
         "sectxt": true,
         "sectionID": "927082",
         "type": "DI",
@@ -245,14 +348,13 @@
         "time": "8:00p-8:50p",
         "building": "WLH",
         "room": "2208",
-        "instructor": "Aamari, Eddie",
         "instructors": [
           "Aamari, Eddie"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "bebe8fce9bfce65d32a21f321ce9f835a9267a4bebc38c94c9f995f5af58389d": {
         "sectxt": true,
         "sectionID": "927083",
         "type": "DI",
@@ -261,16 +363,30 @@
         "time": "9:00p-9:50p",
         "building": "WLH",
         "room": "2208",
-        "instructor": "Aamari, Eddie",
         "instructors": [
           "Aamari, Eddie"
         ],
         "start_time": "21:00",
         "end_time": "21:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "1616dcbcbe708e0126d57588b90b1023f6b8d7b1726225e7b5a0dd9e86a63639": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "WLH",
+        "room": "2005",
+        "instructors": [
+          "Sterbenz, Jacob"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "ce57827e61859220db92212cd1c04cc7a1166fc5aaf1ced321703ef7fb6a6b22": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -279,16 +395,34 @@
         "time": "3:30p-4:50p",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Aamari, Eddie",
         "instructors": [
           "Aamari, Eddie"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "F": {
+      "cb478914a4ec4bc4c62867dba462dc925b2849711db7c7bb7d18cd0442892921": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "HSS",
+        "room": "1330",
+        "instructors": [
+          "Buskin, Nikolay"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

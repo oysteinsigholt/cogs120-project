@@ -3,32 +3,12 @@
   "name": "Communicating Research",
   "department": "EDS",
   "id": "259",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930327",
-      "type": "SE",
-      "section": "B00",
-      "days": "W",
-      "time": "9:00a-12:00p",
-      "building": "PCYNH",
-      "room": "448",
-      "instructor": "Cohen, Shana R",
-      "instructors": [
-        "Cohen, Shana R"
-      ],
-      "start_time": "9:00",
-      "end_time": "12:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "a15573d89311f144bf691d543bb9c6f91515c6e0b40834ed0e8bed72a2079d23": {
         "sectxt": true,
         "sectionID": "930327",
         "type": "SE",
@@ -37,17 +17,16 @@
         "time": "9:00a-12:00p",
         "building": "PCYNH",
         "room": "448",
-        "instructor": "Cohen, Shana R",
         "instructors": [
           "Cohen, Shana R"
         ],
         "start_time": "9:00",
         "end_time": "12:00"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

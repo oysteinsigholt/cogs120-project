@@ -3,31 +3,12 @@
   "name": "Scientifc Communication Skills",
   "department": "CLRE",
   "id": "259",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929392",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "4:00p-6:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Boss, Gerard R.",
-      "instructors": [
-        "Boss, Gerard R."
-      ],
-      "start_time": "16:00",
-      "end_time": "18:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "c40503d1fbf544879e0664b14c7634bca107777a38bc40d95d8afa96340b0c98": {
         "sectxt": true,
         "sectionID": "929392",
         "type": "LE",
@@ -36,18 +17,15 @@
         "time": "4:00p-6:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Boss, Gerard R.",
         "instructors": [
           "Boss, Gerard R."
         ],
         "start_time": "16:00",
         "end_time": "18:00"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

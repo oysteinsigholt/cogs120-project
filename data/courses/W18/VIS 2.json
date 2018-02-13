@@ -3,94 +3,12 @@
   "name": "Intr/Art-Making:Motn&Time Base",
   "department": "VIS",
   "id": "2",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "Th",
-      "time": "5:00p-6:50p",
-      "building": "WLH",
-      "room": "2005",
-      "instructor": "Kelley, Jeff J",
-      "instructors": [
-        "Kelley, Jeff J"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922715",
-      "type": "ST",
-      "section": "A03",
-      "days": "MW",
-      "time": "12:00p-1:50p",
-      "building": "MANDE",
-      "room": "B115A",
-      "instructor": "Kelley, Jeff J",
-      "instructors": [
-        "Kelley, Jeff J"
-      ],
-      "start_time": "12:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922716",
-      "type": "ST",
-      "section": "A04",
-      "days": "MW",
-      "time": "2:00p-3:50p",
-      "building": "MANDE",
-      "room": "B115A",
-      "instructor": "Kelley, Jeff J",
-      "instructors": [
-        "Kelley, Jeff J"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922717",
-      "type": "ST",
-      "section": "A05",
-      "days": "TuTh",
-      "time": "8:00a-9:50a",
-      "building": "MANDE",
-      "room": "B115A",
-      "instructor": "Kelley, Jeff J",
-      "instructors": [
-        "Kelley, Jeff J"
-      ],
-      "start_time": "8:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922718",
-      "type": "ST",
-      "section": "A06",
-      "days": "TuTh",
-      "time": "10:00a-11:50a",
-      "building": "MANDE",
-      "room": "B115A",
-      "instructor": "Kelley, Jeff J",
-      "instructors": [
-        "Kelley, Jeff J"
-      ],
-      "start_time": "10:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "52c74eb7dc318ad524d82d6b3377a554c55eb369c015d433f494cece9c826794": {
         "sectxt": true,
         "sectionID": "922715",
         "type": "ST",
@@ -99,14 +17,13 @@
         "time": "12:00p-1:50p",
         "building": "MANDE",
         "room": "B115A",
-        "instructor": "Kelley, Jeff J",
         "instructors": [
           "Kelley, Jeff J"
         ],
         "start_time": "12:00",
         "end_time": "13:50"
       },
-      {
+      "16b7db5b99aa056e6644492f1dda9958e551bc92de9b284999935a41bda61000": {
         "sectxt": true,
         "sectionID": "922716",
         "type": "ST",
@@ -115,16 +32,15 @@
         "time": "2:00p-3:50p",
         "building": "MANDE",
         "room": "B115A",
-        "instructor": "Kelley, Jeff J",
         "instructors": [
           "Kelley, Jeff J"
         ],
         "start_time": "14:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "0ce4dd2ea9012334f5434929fa132a4022627b5e0ce37d68adfa114b6766125e": {
         "sectxt": true,
         "sectionID": "922717",
         "type": "ST",
@@ -133,14 +49,13 @@
         "time": "8:00a-9:50a",
         "building": "MANDE",
         "room": "B115A",
-        "instructor": "Kelley, Jeff J",
         "instructors": [
           "Kelley, Jeff J"
         ],
         "start_time": "8:00",
         "end_time": "9:50"
       },
-      {
+      "57c57798209ddfabf66e419eda1858e3d749d4ef0dc6506dfff4929928a81ada": {
         "sectxt": true,
         "sectionID": "922718",
         "type": "ST",
@@ -149,16 +64,15 @@
         "time": "10:00a-11:50a",
         "building": "MANDE",
         "room": "B115A",
-        "instructor": "Kelley, Jeff J",
         "instructors": [
           "Kelley, Jeff J"
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "64a1ded0127894cf4435b122307466341b95488419afcc4a89c8847ee47c785d": {
         "sectxt": true,
         "sectionID": "922715",
         "type": "ST",
@@ -167,14 +81,13 @@
         "time": "12:00p-1:50p",
         "building": "MANDE",
         "room": "B115A",
-        "instructor": "Kelley, Jeff J",
         "instructors": [
           "Kelley, Jeff J"
         ],
         "start_time": "12:00",
         "end_time": "13:50"
       },
-      {
+      "2640c87a8437bdbf41b2b4fb0f7b3abbfbd2fbab123af9840bf1b6da6de766b1": {
         "sectxt": true,
         "sectionID": "922716",
         "type": "ST",
@@ -183,16 +96,15 @@
         "time": "2:00p-3:50p",
         "building": "MANDE",
         "room": "B115A",
-        "instructor": "Kelley, Jeff J",
         "instructors": [
           "Kelley, Jeff J"
         ],
         "start_time": "14:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "de54d94559ffb14cc4959822bf6c7ac02d7fad63f781b2c11e6f682632d3ee48": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -201,14 +113,13 @@
         "time": "5:00p-6:50p",
         "building": "WLH",
         "room": "2005",
-        "instructor": "Kelley, Jeff J",
         "instructors": [
           "Kelley, Jeff J"
         ],
         "start_time": "17:00",
         "end_time": "18:50"
       },
-      {
+      "8018eba3b97b8c65a476e7a8d20b0958eaf6ba7d27936a58d0bae50118945af2": {
         "sectxt": true,
         "sectionID": "922717",
         "type": "ST",
@@ -217,14 +128,13 @@
         "time": "8:00a-9:50a",
         "building": "MANDE",
         "room": "B115A",
-        "instructor": "Kelley, Jeff J",
         "instructors": [
           "Kelley, Jeff J"
         ],
         "start_time": "8:00",
         "end_time": "9:50"
       },
-      {
+      "05f5b0254c41ea0cd3a6a5cd9111bb403b72f63319a90e62f82dab8bbdfed0ad": {
         "sectxt": true,
         "sectionID": "922718",
         "type": "ST",
@@ -233,16 +143,15 @@
         "time": "10:00a-11:50a",
         "building": "MANDE",
         "room": "B115A",
-        "instructor": "Kelley, Jeff J",
         "instructors": [
           "Kelley, Jeff J"
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

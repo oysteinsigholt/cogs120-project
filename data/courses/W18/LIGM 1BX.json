@@ -3,42 +3,37 @@
   "name": "Analysis of German",
   "department": "LIGM",
   "id": "1BX",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921326",
-      "type": "DI",
-      "section": "C00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "HSS",
-      "room": "2321",
-      "instructor": "Riebeling, Elke",
-      "instructors": [
-        "Riebeling, Elke"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +42,46 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "90ef1a00f61fe465645da5241b076a98a413ab6a447697f2556e9c00ac4a4a4e": {
+        "sectxt": true,
+        "sectionID": "921324",
+        "type": "DI",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Riebeling, Elke"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "8eed690dae951d4f296649c59a410d1bb3188ec94ef77f60d28800622096af31": {
+        "sectxt": true,
+        "sectionID": "921325",
+        "type": "DI",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Riebeling, Elke"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "14e47e09415cfe2c837c0c224b224c68438fd3ce67c609d9d81c2e2297f5d7dc": {
         "sectxt": true,
         "sectionID": "921326",
         "type": "DI",
@@ -67,17 +90,45 @@
         "time": "12:30p-1:50p",
         "building": "HSS",
         "room": "2321",
-        "instructor": "Riebeling, Elke",
         "instructors": [
           "Riebeling, Elke"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "55659ac5e64daebe76fedf56b42529dd9e9268792c0e0717e14908870b47163d": {
+        "sectxt": true,
+        "sectionID": "921324",
+        "type": "DI",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Riebeling, Elke"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "4e0dbae4ea114b625371b0cd170f83a9d6600cba729d8a5dfcdfd2088c48e13c": {
+        "sectxt": true,
+        "sectionID": "921325",
+        "type": "DI",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Riebeling, Elke"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "344af24a05c98ba8322235eb8afb3cc6f5079dff773d9441b68188f01784a9c6": {
         "sectxt": true,
         "sectionID": "921326",
         "type": "DI",
@@ -86,16 +137,17 @@
         "time": "12:30p-1:50p",
         "building": "HSS",
         "room": "2321",
-        "instructor": "Riebeling, Elke",
         "instructors": [
           "Riebeling, Elke"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

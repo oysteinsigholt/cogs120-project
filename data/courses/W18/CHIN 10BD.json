@@ -3,88 +3,23 @@
   "name": "First Yr Chinese/Dialect Sp II",
   "department": "CHIN",
   "id": "10BD",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "CENTR",
-      "room": "207",
-      "instructor": "Chen, Pei-Chia",
-      "instructors": [
-        "Chen, Pei-Chia"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920618",
-      "type": "TU",
-      "section": "B01",
-      "days": "MWF",
-      "time": "10:00a-10:50a",
-      "building": "SOLIS",
-      "room": "111",
-      "instructor": "Chen, Pei-Chia",
-      "instructors": [
-        "Chen, Pei-Chia"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920619",
-      "type": "TU",
-      "section": "B02",
-      "days": "MWF",
-      "time": "12:00p-12:50p",
-      "building": "MANDE",
-      "room": "B-153",
-      "instructor": "Chen, Pei-Chia",
-      "instructors": [
-        "Chen, Pei-Chia"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "B50",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Chen, Pei-Chia",
-      "instructors": [
-        "Chen, Pei-Chia"
-      ]
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -93,32 +28,88 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [
     {
       "sectxt": true,
       "sectionID": "",
       "type": "LA",
+      "section": "A50",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Chen, Pei-Chia"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
       "section": "B50",
       "days": "TBA",
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Chen, Pei-Chia",
       "instructors": [
         "Chen, Pei-Chia"
       ]
     }
   ],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "ccfa9cab57171d4271d5ae17f0c36a0c875e54366f02101ea00ef4be760dd9cb": {
+        "sectxt": true,
+        "sectionID": "920613",
+        "type": "TU",
+        "section": "A01",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "202",
+        "instructors": [
+          "Chen, Pei-Chia"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "8a341875ceb8b40b6e4413d3cdc536e51a9d65625f88075f351fedc00505b94a": {
+        "sectxt": true,
+        "sectionID": "920614",
+        "type": "TU",
+        "section": "A02",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "MCGIL",
+        "room": "2330",
+        "instructors": [
+          "Chen, Pei-Chia"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "49ac7b62142bdc5af9fae77372523d96624dcd78124a9fe481a57498d74fd89c": {
+        "sectxt": true,
+        "sectionID": "920615",
+        "type": "TU",
+        "section": "A03",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "MCGIL",
+        "room": "2330",
+        "instructors": [
+          "Chen, Pei-Chia"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "b50e761bf5089d167134f7cd69d455f524efdfa92531a0f9c8811d8e79479ecc": {
         "sectxt": true,
         "sectionID": "920618",
         "type": "TU",
@@ -127,14 +118,13 @@
         "time": "10:00a-10:50a",
         "building": "SOLIS",
         "room": "111",
-        "instructor": "Chen, Pei-Chia",
         "instructors": [
           "Chen, Pei-Chia"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "b1639cde767756b50f9ff8c030d39e39e4363575c56031b1039300c47dbbf54c": {
         "sectxt": true,
         "sectionID": "920619",
         "type": "TU",
@@ -143,16 +133,30 @@
         "time": "12:00p-12:50p",
         "building": "MANDE",
         "room": "B-153",
-        "instructor": "Chen, Pei-Chia",
         "instructors": [
           "Chen, Pei-Chia"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "c12e876c286e075f54b31f5190baf1c12afcaa3c60c656df28d942741b529a9a": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CENTR",
+        "room": "207",
+        "instructors": [
+          "Chen, Pei-Chia"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "80483300f1843284167ade4659e2f9a13530b47463ed596be32b712259733b7f": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -161,16 +165,60 @@
         "time": "11:00a-12:20p",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Chen, Pei-Chia",
         "instructors": [
           "Chen, Pei-Chia"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "91d426dffd427a1361c8861b8b7abfdeb6a848588a8e2b582c74653b4c2c0a65": {
+        "sectxt": true,
+        "sectionID": "920613",
+        "type": "TU",
+        "section": "A01",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "202",
+        "instructors": [
+          "Chen, Pei-Chia"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "cfffb276147df48056987405562c8b2d6344ce21edbd5cce7507705b9dab5400": {
+        "sectxt": true,
+        "sectionID": "920614",
+        "type": "TU",
+        "section": "A02",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "MCGIL",
+        "room": "2330",
+        "instructors": [
+          "Chen, Pei-Chia"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "f2004fe984ced5b9fa99e32cbdea0da7d3e90af1de9ba6b07f911315ea0197c0": {
+        "sectxt": true,
+        "sectionID": "920615",
+        "type": "TU",
+        "section": "A03",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "MCGIL",
+        "room": "2330",
+        "instructors": [
+          "Chen, Pei-Chia"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "03fa7dada638082d63620075e742fa7adebf17f83f5a96d6a32228b5e8207cee": {
         "sectxt": true,
         "sectionID": "920618",
         "type": "TU",
@@ -179,14 +227,13 @@
         "time": "10:00a-10:50a",
         "building": "SOLIS",
         "room": "111",
-        "instructor": "Chen, Pei-Chia",
         "instructors": [
           "Chen, Pei-Chia"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "56dd3b9d9c5d6b7abe6a1fa6fcd6514551a0793d4f53d1aaebce1f00bb9ddc09": {
         "sectxt": true,
         "sectionID": "920619",
         "type": "TU",
@@ -195,16 +242,30 @@
         "time": "12:00p-12:50p",
         "building": "MANDE",
         "room": "B-153",
-        "instructor": "Chen, Pei-Chia",
         "instructors": [
           "Chen, Pei-Chia"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "1fd76e34fb7865fce7ff5adca312ddc805651e55d9a8d5231108d9552d7045e9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CENTR",
+        "room": "207",
+        "instructors": [
+          "Chen, Pei-Chia"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "9ecb4349bcf3cf1b21e5a0d8ad6c42f695a59786e4be06c5748fb2365d7e0bcd": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -213,16 +274,60 @@
         "time": "11:00a-12:20p",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Chen, Pei-Chia",
         "instructors": [
           "Chen, Pei-Chia"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "cb42945f4f068c401f1daa576ebd4bb6393ae13e4b3725eadd43bdc50ea15a80": {
+        "sectxt": true,
+        "sectionID": "920613",
+        "type": "TU",
+        "section": "A01",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "202",
+        "instructors": [
+          "Chen, Pei-Chia"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "329a54d2342b668df46afeed8a7e0977b59103a04e50cb26dfa0b9c537768b80": {
+        "sectxt": true,
+        "sectionID": "920614",
+        "type": "TU",
+        "section": "A02",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "MCGIL",
+        "room": "2330",
+        "instructors": [
+          "Chen, Pei-Chia"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "a42696e9c2ae2b62caa2a262b153adc99ea74150934eecf1dcc554fa94c4e536": {
+        "sectxt": true,
+        "sectionID": "920615",
+        "type": "TU",
+        "section": "A03",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "MCGIL",
+        "room": "2330",
+        "instructors": [
+          "Chen, Pei-Chia"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "a4b4a52e0a7912dd2d182f2a1f2023554a4da4ffe9d6ca18ed2635fa2795c074": {
         "sectxt": true,
         "sectionID": "920618",
         "type": "TU",
@@ -231,14 +336,13 @@
         "time": "10:00a-10:50a",
         "building": "SOLIS",
         "room": "111",
-        "instructor": "Chen, Pei-Chia",
         "instructors": [
           "Chen, Pei-Chia"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "04fd11285e3da98ba3ec6f6886bb8902823a6aeae2bba55d5941727b4022cb67": {
         "sectxt": true,
         "sectionID": "920619",
         "type": "TU",
@@ -247,15 +351,16 @@
         "time": "12:00p-12:50p",
         "building": "MANDE",
         "room": "B-153",
-        "instructor": "Chen, Pei-Chia",
         "instructors": [
           "Chen, Pei-Chia"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

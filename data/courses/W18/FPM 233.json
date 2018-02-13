@@ -3,33 +3,14 @@
   "name": "Clinical Nutrition",
   "department": "FPM",
   "id": "233",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930441",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "3:00p-5:00p",
-      "building": "MET",
-      "room": "141",
-      "instructor": "Rock, Cheryl Lee",
-      "instructors": [
-        "Rock, Cheryl Lee"
-      ],
-      "start_time": "15:00",
-      "end_time": "17:00"
-    }
-  ],
   "notes": [
     "Location: MET 141"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "d8d4bff65eee580f795d813f0e428e61f41029f7c9d55951ae93d7594d07d163": {
         "sectxt": true,
         "sectionID": "930441",
         "type": "LE",
@@ -38,18 +19,15 @@
         "time": "3:00p-5:00p",
         "building": "MET",
         "room": "141",
-        "instructor": "Rock, Cheryl Lee",
         "instructors": [
           "Rock, Cheryl Lee"
         ],
         "start_time": "15:00",
         "end_time": "17:00"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

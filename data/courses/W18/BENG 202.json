@@ -3,42 +3,9 @@
   "name": "Bioinf II:Intro to Bioinf Algr",
   "department": "BENG",
   "id": "202",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923378",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "5:00p-6:20p",
-      "building": "WLH",
-      "room": "2112",
-      "instructor": "Pevzner, Pavel Arkadjevich",
-      "instructors": [
-        "Pevzner, Pavel Arkadjevich"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "391a509af5d10978bf1e29e5f03c57aa82c3572608ff9304d172eac39e8a7de6": {
         "sectxt": true,
         "sectionID": "923378",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "5:00p-6:20p",
         "building": "WLH",
         "room": "2112",
-        "instructor": "Pevzner, Pavel Arkadjevich",
         "instructors": [
           "Pevzner, Pavel Arkadjevich"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "564a31a8c51d2478b17a6ce0eddb20e492e21f2115178034c5bae63c52ebab0a": {
         "sectxt": true,
         "sectionID": "923378",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "5:00p-6:20p",
         "building": "WLH",
         "room": "2112",
-        "instructor": "Pevzner, Pavel Arkadjevich",
         "instructors": [
           "Pevzner, Pavel Arkadjevich"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

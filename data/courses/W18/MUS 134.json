@@ -3,30 +3,12 @@
   "name": "Symphonic Orchestra",
   "department": "MUS",
   "id": "134",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921810",
-      "type": "ST",
-      "section": "A00",
-      "days": "MW",
-      "time": "7:00p-9:50p",
-      "building": "CPMC",
-      "room": "136",
-      "instructor": "Schick, Steven",
-      "instructors": [
-        "Schick, Steven"
-      ],
-      "start_time": "19:00",
-      "end_time": "21:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "7a3666f0cf1de512b5c1f578ef54ab1757242f7fd1be549eb6a1734aa75df66f": {
         "sectxt": true,
         "sectionID": "921810",
         "type": "ST",
@@ -35,17 +17,15 @@
         "time": "7:00p-9:50p",
         "building": "CPMC",
         "room": "136",
-        "instructor": "Schick, Steven",
         "instructors": [
           "Schick, Steven"
         ],
         "start_time": "19:00",
         "end_time": "21:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "9abd7337fdcf68dc1bda622b4cb4b8a6a3dd8ed4b2f9d7f82632e908e48f8085": {
         "sectxt": true,
         "sectionID": "921810",
         "type": "ST",
@@ -54,17 +34,15 @@
         "time": "7:00p-9:50p",
         "building": "CPMC",
         "room": "136",
-        "instructor": "Schick, Steven",
         "instructors": [
           "Schick, Steven"
         ],
         "start_time": "19:00",
         "end_time": "21:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

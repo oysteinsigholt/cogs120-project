@@ -3,46 +3,12 @@
   "name": "Phycology: Marine Plant Biolgy",
   "department": "SIO",
   "id": "183",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "12:30p-1:20p",
-      "building": "HUBBS",
-      "room": "3300",
-      "instructor": "Smith, Jennifer",
-      "instructors": [
-        "Smith, Jennifer"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921082",
-      "type": "LA",
-      "section": "A01",
-      "days": "MW",
-      "time": "1:30p-5:30p",
-      "building": "HUBBS",
-      "room": "3300",
-      "instructor": "Smith, Jennifer",
-      "instructors": [
-        "Smith, Jennifer"
-      ],
-      "start_time": "13:30",
-      "end_time": "17:30"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "e0e672f57ef735a32b9b6f8105ad0e2e237ad6292aa4dd4ee0e8fd3f0c148ccd": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -51,14 +17,13 @@
         "time": "12:30p-1:20p",
         "building": "HUBBS",
         "room": "3300",
-        "instructor": "Smith, Jennifer",
         "instructors": [
           "Smith, Jennifer"
         ],
         "start_time": "12:30",
         "end_time": "13:20"
       },
-      {
+      "fe1286489655d952102e6de3abe6995770a75a91ab97990f7aaf0ea84ce8e968": {
         "sectxt": true,
         "sectionID": "921082",
         "type": "LA",
@@ -67,17 +32,15 @@
         "time": "1:30p-5:30p",
         "building": "HUBBS",
         "room": "3300",
-        "instructor": "Smith, Jennifer",
         "instructors": [
           "Smith, Jennifer"
         ],
         "start_time": "13:30",
         "end_time": "17:30"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "c89822b5b27933d54023f120ce69fc86a622c9a2195a4b8fa869c68cd60ac1e5": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -86,14 +49,13 @@
         "time": "12:30p-1:20p",
         "building": "HUBBS",
         "room": "3300",
-        "instructor": "Smith, Jennifer",
         "instructors": [
           "Smith, Jennifer"
         ],
         "start_time": "12:30",
         "end_time": "13:20"
       },
-      {
+      "bb063e6e56ac8a163a9096ccc588895a522828882be28fc0046dd31f669337f2": {
         "sectxt": true,
         "sectionID": "921082",
         "type": "LA",
@@ -102,17 +64,15 @@
         "time": "1:30p-5:30p",
         "building": "HUBBS",
         "room": "3300",
-        "instructor": "Smith, Jennifer",
         "instructors": [
           "Smith, Jennifer"
         ],
         "start_time": "13:30",
         "end_time": "17:30"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

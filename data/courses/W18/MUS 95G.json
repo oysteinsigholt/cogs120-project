@@ -3,33 +3,29 @@
   "name": "Gospel Choir",
   "department": "MUS",
   "id": "95G",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921926",
-      "type": "ST",
-      "section": "B00",
-      "days": "Th",
-      "time": "6:30p-9:20p",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "Anderson, Kenneth",
-      "instructors": [
-        "Anderson, Kenneth"
-      ],
-      "start_time": "18:30",
-      "end_time": "21:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Tu": {
+      "7caa0fda2e3189fe7520f8e3c9aa49439e8074dc7091aea3900045d7e7b84aba": {
+        "sectxt": true,
+        "sectionID": "921925",
+        "type": "ST",
+        "section": "A00",
+        "days": "Tu",
+        "time": "6:30p-9:20p",
+        "building": "WLH",
+        "room": "2001",
+        "instructors": [
+          "Anderson, Kenneth"
+        ],
+        "start_time": "18:30",
+        "end_time": "21:20"
+      }
+    },
+    "Th": {
+      "bad08a536cade6ddb04c1b9a86a183cce6b358d97a7294063c3780376aa3e7bd": {
         "sectxt": true,
         "sectionID": "921926",
         "type": "ST",
@@ -38,16 +34,16 @@
         "time": "6:30p-9:20p",
         "building": "WLH",
         "room": "2001",
-        "instructor": "Anderson, Kenneth",
         "instructors": [
           "Anderson, Kenneth"
         ],
         "start_time": "18:30",
         "end_time": "21:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

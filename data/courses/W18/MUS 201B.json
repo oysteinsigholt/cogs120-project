@@ -3,33 +3,12 @@
   "name": "Projects in New Music Prfrmnce",
   "department": "MUS",
   "id": "201B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921941",
-      "type": "LA",
-      "section": "A00",
-      "days": "Th",
-      "time": "2:00p-4:50p",
-      "building": "CPMC",
-      "room": "166",
-      "instructor": "Davis, Anthony Curtis",
-      "instructors": [
-        "Davis, Anthony Curtis"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "a145c00d602266c3d403a108e0d7ce13e2bcadc0c69303b5975b76f0173a7168": {
         "sectxt": true,
         "sectionID": "921941",
         "type": "LA",
@@ -38,16 +17,15 @@
         "time": "2:00p-4:50p",
         "building": "CPMC",
         "room": "166",
-        "instructor": "Davis, Anthony Curtis",
         "instructors": [
           "Davis, Anthony Curtis"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

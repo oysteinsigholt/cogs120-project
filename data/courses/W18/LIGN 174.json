@@ -3,162 +3,9 @@
   "name": "Gender & Language in Society",
   "department": "LIGN",
   "id": "174",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928863",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "CENTR",
-      "room": "222",
-      "instructor": "Micklos, Ashley M.",
-      "instructors": [
-        "Micklos, Ashley M."
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/26/2018",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "1106B",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-26T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/29/2018",
-      "days": "M",
-      "time": "10:00a-10:50a",
-      "building": "MANDE",
-      "room": "B-153",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-29T08:00:00.000Z",
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/09/2018",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "1106B",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-09T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/12/2018",
-      "days": "M",
-      "time": "10:00a-10:50a",
-      "building": "MANDE",
-      "room": "B-153",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-12T08:00:00.000Z",
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/23/2018",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "1106B",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-23T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/26/2018",
-      "days": "M",
-      "time": "10:00a-10:50a",
-      "building": "MANDE",
-      "room": "B-153",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-26T08:00:00.000Z",
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/09/2018",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "1106B",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-09T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/12/2018",
-      "days": "M",
-      "time": "10:00a-10:50a",
-      "building": "MANDE",
-      "room": "B-153",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-12T07:00:00.000Z",
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "bd98f3caeb8ce566a6495db93f6740da04a8949c6fb9f037b52ca63172f0b7cc": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -167,13 +14,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "1106B",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-26T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "da405bafcf125cad221fa45edb0d7542eeecb7db75d3e112a4c397ba10a7924b": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -182,13 +28,12 @@
       "time": "10:00a-10:50a",
       "building": "MANDE",
       "room": "B-153",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-29T08:00:00.000Z",
       "start_time": "10:00",
       "end_time": "10:50"
     },
-    {
+    "dcfa33d7c4701b95b4ec17039571f8e90aac75ab888e1b36f8a857781f152c69": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -197,13 +42,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "1106B",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-09T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "f067ed774d7e89b8c17ee84aa3a6dc3eee24acf84008b8895c129851634823a0": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -212,13 +56,12 @@
       "time": "10:00a-10:50a",
       "building": "MANDE",
       "room": "B-153",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-12T08:00:00.000Z",
       "start_time": "10:00",
       "end_time": "10:50"
     },
-    {
+    "100b9a6b15fa3d4719cb70cc9b332093ebe95fe86c8e94d510fed15ee5a4e2ba": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -227,13 +70,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "1106B",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-23T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "05cdcf06f5a58d4fa3f3966fb93a4b07b708012903a4261058556bbebfe7cbab": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -242,13 +84,12 @@
       "time": "10:00a-10:50a",
       "building": "MANDE",
       "room": "B-153",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-26T08:00:00.000Z",
       "start_time": "10:00",
       "end_time": "10:50"
     },
-    {
+    "a130129742751a444e53c5667cdd7e2e69b476f75d8b77f3510d6642d0dcface": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -257,13 +98,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "1106B",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-09T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "51667fa8631ef40d8c5ccf81d8d04cbc28cbb44f2b17790eca952dd486218b7b": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -272,13 +112,12 @@
       "time": "10:00a-10:50a",
       "building": "MANDE",
       "room": "B-153",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-12T07:00:00.000Z",
       "start_time": "10:00",
       "end_time": "10:50"
     },
-    {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -287,18 +126,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "d61d55345b4df48362d653e40dc38d8f13db8dd826083de849526ad96651050c": {
         "sectxt": true,
         "sectionID": "928863",
         "type": "LE",
@@ -307,17 +144,15 @@
         "time": "2:00p-3:20p",
         "building": "CENTR",
         "room": "222",
-        "instructor": "Micklos, Ashley M.",
         "instructors": [
           "Micklos, Ashley M."
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "1b0735cfa16c088d96b26abdbe4d248b7d62eef08e67815d7cd3858c4aa6d8aa": {
         "sectxt": true,
         "sectionID": "928863",
         "type": "LE",
@@ -326,16 +161,15 @@
         "time": "2:00p-3:20p",
         "building": "CENTR",
         "room": "222",
-        "instructor": "Micklos, Ashley M.",
         "instructors": [
           "Micklos, Ashley M."
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

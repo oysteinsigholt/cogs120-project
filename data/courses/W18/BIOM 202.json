@@ -3,52 +3,8 @@
   "name": "Biomed Sci Research Rotation",
   "department": "BIOM",
   "id": "202",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "SE",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Desai, Arshad",
-      "instructors": [
-        "Desai, Arshad"
-      ]
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929402",
-      "type": "DI",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Desai, Arshad",
-      "instructors": [
-        "Desai, Arshad"
-      ]
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A50",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Desai, Arshad",
-      "instructors": [
-        "Desai, Arshad"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -59,7 +15,6 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Desai, Arshad",
       "instructors": [
         "Desai, Arshad"
       ]
@@ -73,7 +28,6 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Desai, Arshad",
       "instructors": [
         "Desai, Arshad"
       ]
@@ -87,19 +41,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Desai, Arshad",
       "instructors": [
         "Desai, Arshad"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

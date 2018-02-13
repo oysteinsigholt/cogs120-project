@@ -3,31 +3,12 @@
   "name": "Graduate Developmental Biology",
   "department": "BGGN",
   "id": "228",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921652",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "2:30p-4:20p",
-      "building": "BONN",
-      "room": "2140",
-      "instructor": "Posakony, James W & Kiger, Amy",
-      "instructors": [
-        "Posakony, James W",
-        "Kiger, Amy"
-      ],
-      "start_time": "14:30",
-      "end_time": "16:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "037a908d92eebc372eecf624a6caef5cbd38f094c7cce3bfcb758eef16ea0ed8": {
         "sectxt": true,
         "sectionID": "921652",
         "type": "LE",
@@ -36,20 +17,15 @@
         "time": "2:30p-4:20p",
         "building": "BONN",
         "room": "2140",
-        "instructor": "Posakony, James W & Kiger, Amy",
         "instructors": [
-          "Posakony, James W",
-          "Kiger, Amy"
+          "Posakony, James W                  \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tKiger, Amy"
         ],
         "start_time": "14:30",
         "end_time": "16:20"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

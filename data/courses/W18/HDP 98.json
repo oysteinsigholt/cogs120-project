@@ -3,35 +3,14 @@
   "name": "Directed Group Study",
   "department": "HDP",
   "id": "98",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929968",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "2:00p-3:20p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Ackerman, Farrell",
-      "instructors": [
-        "Ackerman, Farrell"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    }
-  ],
   "notes": [
     "Topic: Career Development. Class meets in the Career\n Services Center Horizon Room.\n For enrollment, please visit the\n HDP 98 course website."
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "5b330e961d457c3ce0dca741eeef4603a0c21a582a3ad63f8c8e4750542a59a1": {
         "sectxt": true,
         "sectionID": "929968",
         "type": "SE",
@@ -40,16 +19,15 @@
         "time": "2:00p-3:20p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Ackerman, Farrell",
         "instructors": [
           "Ackerman, Farrell"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

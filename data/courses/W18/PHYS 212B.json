@@ -3,42 +3,9 @@
   "name": "Quantum Mechanics II",
   "department": "PHYS",
   "id": "212B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923807",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "11:00a-12:20p",
-      "building": "MYR-A",
-      "room": "2623",
-      "instructor": "Intriligator, Kenneth Arthur",
-      "instructors": [
-        "Intriligator, Kenneth Arthur"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "09b259f50ace7d654309a917a17ff63c9a34c81e2c7eff46c91720e306a8ebad": {
         "sectxt": true,
         "sectionID": "923807",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "11:00a-12:20p",
         "building": "MYR-A",
         "room": "2623",
-        "instructor": "Intriligator, Kenneth Arthur",
         "instructors": [
           "Intriligator, Kenneth Arthur"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "634455ecb7d6c403da5603b2d11b55df286a45816fc1affc6b6ef82298c2a3a1": {
         "sectxt": true,
         "sectionID": "923807",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "11:00a-12:20p",
         "building": "MYR-A",
         "room": "2623",
-        "instructor": "Intriligator, Kenneth Arthur",
         "instructors": [
           "Intriligator, Kenneth Arthur"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

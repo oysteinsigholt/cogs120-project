@@ -3,24 +3,8 @@
   "name": "Gen Med-Adv Clrkshp Ambul Care",
   "department": "MED",
   "id": "465",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928489",
-      "type": "CL",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Gonzalez, Tina Esther",
-      "instructors": [
-        "Gonzalez, Tina Esther"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Gonzalez, Tina Esther",
       "instructors": [
         "Gonzalez, Tina Esther"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

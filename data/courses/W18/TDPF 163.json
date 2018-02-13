@@ -3,31 +3,44 @@
   "name": "Dance Repertory",
   "department": "TDPF",
   "id": "163",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920478",
-      "type": "ST",
-      "section": "C00",
-      "days": "TuTh",
-      "time": "6:00p-7:50p",
-      "building": "DANCE",
-      "room": "3",
-      "instructor": "Jun, Grace Shin Hae",
-      "instructors": [
-        "Jun, Grace Shin Hae"
-      ],
-      "start_time": "18:00",
-      "end_time": "19:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "33dbc76f34c5d81d02f4156c5de70fb10378cbfec3e77bfebaa2c774050c2d3a": {
+        "sectxt": true,
+        "sectionID": "920476",
+        "type": "ST",
+        "section": "A00",
+        "days": "MW",
+        "time": "4:00p-5:50p",
+        "building": "DANCE",
+        "room": "1",
+        "instructors": [
+          "Smith, Alison D"
+        ],
+        "start_time": "16:00",
+        "end_time": "17:50"
+      }
+    },
+    "Tu": {
+      "9c98dcc96b318d1962c5a1b6c2154a6aaff7741c5f57b28a9ab66f063d62a502": {
+        "sectxt": true,
+        "sectionID": "929087",
+        "type": "ST",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "6:00p-7:50p",
+        "building": "DANCE",
+        "room": "2",
+        "instructors": [
+          "Snaith, Yolande"
+        ],
+        "start_time": "18:00",
+        "end_time": "19:50"
+      },
+      "a79cba3b474854225429c2166517ac1bbecac2f8273ca909b90f15263336e50d": {
         "sectxt": true,
         "sectionID": "920478",
         "type": "ST",
@@ -36,17 +49,47 @@
         "time": "6:00p-7:50p",
         "building": "DANCE",
         "room": "3",
-        "instructor": "Jun, Grace Shin Hae",
         "instructors": [
           "Jun, Grace Shin Hae"
         ],
         "start_time": "18:00",
         "end_time": "19:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "W": {
+      "095d83300f33c526d5a2ccc76e240591d7e6abd44557e61dc4750e804265649a": {
+        "sectxt": true,
+        "sectionID": "920476",
+        "type": "ST",
+        "section": "A00",
+        "days": "MW",
+        "time": "4:00p-5:50p",
+        "building": "DANCE",
+        "room": "1",
+        "instructors": [
+          "Smith, Alison D"
+        ],
+        "start_time": "16:00",
+        "end_time": "17:50"
+      }
+    },
+    "Th": {
+      "95c33a15de21c57bbb85de63486d688c677ad821138c07d7aa0c59215c70414f": {
+        "sectxt": true,
+        "sectionID": "929087",
+        "type": "ST",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "6:00p-7:50p",
+        "building": "DANCE",
+        "room": "2",
+        "instructors": [
+          "Snaith, Yolande"
+        ],
+        "start_time": "18:00",
+        "end_time": "19:50"
+      },
+      "c2ff1566f674295ddc815d99017fdfd1a3977d3d74266c97fee82fddf11f496c": {
         "sectxt": true,
         "sectionID": "920478",
         "type": "ST",
@@ -55,16 +98,17 @@
         "time": "6:00p-7:50p",
         "building": "DANCE",
         "room": "3",
-        "instructor": "Jun, Grace Shin Hae",
         "instructors": [
           "Jun, Grace Shin Hae"
         ],
         "start_time": "18:00",
         "end_time": "19:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

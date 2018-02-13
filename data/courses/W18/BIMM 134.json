@@ -3,137 +3,9 @@
   "name": "Biology of Cancer",
   "department": "BIMM",
   "id": "134",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "8:00a-9:20a",
-      "building": "CENTR",
-      "room": "101",
-      "instructor": "Bennett, Eric J",
-      "instructors": [
-        "Bennett, Eric J"
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926156",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "10:00a-10:50a",
-      "building": "YORK",
-      "room": "3000A",
-      "instructor": "Bennett, Eric J",
-      "instructors": [
-        "Bennett, Eric J"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926157",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "8:00a-8:50a",
-      "building": "CENTR",
-      "room": "207",
-      "instructor": "Bennett, Eric J",
-      "instructors": [
-        "Bennett, Eric J"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926158",
-      "type": "DI",
-      "section": "A03",
-      "days": "Th",
-      "time": "5:00p-5:50p",
-      "building": "HSS",
-      "room": "2154",
-      "instructor": "Bennett, Eric J",
-      "instructors": [
-        "Bennett, Eric J"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926159",
-      "type": "DI",
-      "section": "A04",
-      "days": "Th",
-      "time": "6:00p-6:50p",
-      "building": "HSS",
-      "room": "2154",
-      "instructor": "Bennett, Eric J",
-      "instructors": [
-        "Bennett, Eric J"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929124",
-      "type": "DI",
-      "section": "A05",
-      "days": "M",
-      "time": "5:00p-5:50p",
-      "building": "CENTR",
-      "room": "207",
-      "instructor": "Bennett, Eric J",
-      "instructors": [
-        "Bennett, Eric J"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/27/2018",
-      "days": "S",
-      "time": "9:00a-10:50a",
-      "building": "CENTR",
-      "room": "105",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-27T08:00:00.000Z",
-      "start_time": "9:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "3c7f81f03b14283839098b8809c7d83750bf8a89106d1010f66f297c5ecedf65": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -142,13 +14,26 @@
       "time": "9:00a-10:50a",
       "building": "CENTR",
       "room": "105",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-27T08:00:00.000Z",
       "start_time": "9:00",
       "end_time": "10:50"
     },
-    {
+    "45745ae25fc5a86214e0b090a65d7960ac3a9975da4de1d72992a489870a0b71": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/24/2018",
+      "days": "S",
+      "time": "10:00a-11:50a",
+      "building": "CENTR",
+      "room": "105",
+      "instructors": [],
+      "date": "2018-02-24T08:00:00.000Z",
+      "start_time": "10:00",
+      "end_time": "11:50"
+    },
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -157,17 +42,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "cd2f691d83784e9d279dfbc468d2fc737bfad9b7e3ac5ce836ae415027edbbef": {
         "sectxt": true,
         "sectionID": "926156",
         "type": "DI",
@@ -176,14 +60,13 @@
         "time": "10:00a-10:50a",
         "building": "YORK",
         "room": "3000A",
-        "instructor": "Bennett, Eric J",
         "instructors": [
           "Bennett, Eric J"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "a0e0f94e77b3e874bbcf94b715422c70d61a6d8e707cdd899550ba67c9329e79": {
         "sectxt": true,
         "sectionID": "929124",
         "type": "DI",
@@ -192,16 +75,15 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Bennett, Eric J",
         "instructors": [
           "Bennett, Eric J"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "e465ded450a51855ecac87097b7a25f20ad1b32d4d66efd5a69c690a29911893": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -210,16 +92,15 @@
         "time": "8:00a-9:20a",
         "building": "CENTR",
         "room": "101",
-        "instructor": "Bennett, Eric J",
         "instructors": [
           "Bennett, Eric J"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "0c2dadf77245b0c2676f9b16b773a7269ebf2565c707ed6003d35443dca999f1": {
         "sectxt": true,
         "sectionID": "926157",
         "type": "DI",
@@ -228,16 +109,15 @@
         "time": "8:00a-8:50a",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Bennett, Eric J",
         "instructors": [
           "Bennett, Eric J"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8545ab0c79c23ec92792f48a8a4e9c983955e31d9ddad421339a098929d3ab17": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -246,14 +126,13 @@
         "time": "8:00a-9:20a",
         "building": "CENTR",
         "room": "101",
-        "instructor": "Bennett, Eric J",
         "instructors": [
           "Bennett, Eric J"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       },
-      {
+      "84216fdc8c70d2ac5e7d63231a3b1f9f7cafbe0b24f5bcc978463cd51245e731": {
         "sectxt": true,
         "sectionID": "926158",
         "type": "DI",
@@ -262,14 +141,13 @@
         "time": "5:00p-5:50p",
         "building": "HSS",
         "room": "2154",
-        "instructor": "Bennett, Eric J",
         "instructors": [
           "Bennett, Eric J"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "89b9699257ac71b7659330c9781c2125e6105f1cbaf82afac46ca1cb26f77192": {
         "sectxt": true,
         "sectionID": "926159",
         "type": "DI",
@@ -278,16 +156,15 @@
         "time": "6:00p-6:50p",
         "building": "HSS",
         "room": "2154",
-        "instructor": "Bennett, Eric J",
         "instructors": [
           "Bennett, Eric J"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

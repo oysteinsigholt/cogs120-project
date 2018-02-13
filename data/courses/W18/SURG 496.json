@@ -3,27 +3,50 @@
   "name": "Clinical Independent Study",
   "department": "SURG",
   "id": "496",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928718",
-      "type": "IN",
-      "section": "004",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Staff",
-      "instructors": [
-        "Staff"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "928715",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Baumgartner, Joel M"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "928716",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Staff"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "928717",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Staff"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "928718",
       "type": "IN",
       "section": "004",
@@ -31,19 +54,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Staff",
       "instructors": [
         "Staff"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

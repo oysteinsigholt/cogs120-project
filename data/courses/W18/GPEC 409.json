@@ -3,31 +3,12 @@
   "name": "Econ Policy in Latin America",
   "department": "GPEC",
   "id": "409",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921693",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "RBC",
-      "room": "3203",
-      "instructor": "Garfias Royo, Ek Francisco",
-      "instructors": [
-        "Garfias Royo, Ek Francisco"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "c7b7c7bc1cf67c7a830d198330df6a0bd95135988d6bb991a87c8a11b98114cc": {
         "sectxt": true,
         "sectionID": "921693",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "2:00p-3:20p",
         "building": "RBC",
         "room": "3203",
-        "instructor": "Garfias Royo, Ek Francisco",
         "instructors": [
           "Garfias Royo, Ek Francisco"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "9fdb6c11a1d9b3211c18a88cee1b12190035e763a7c9726c40548ea7586ec37e": {
         "sectxt": true,
         "sectionID": "921693",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "2:00p-3:20p",
         "building": "RBC",
         "room": "3203",
-        "instructor": "Garfias Royo, Ek Francisco",
         "instructors": [
           "Garfias Royo, Ek Francisco"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

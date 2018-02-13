@@ -3,32 +3,12 @@
   "name": "Bilingual Instr Practices II",
   "department": "EDS",
   "id": "352B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922546",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "5:00p-6:50p",
-      "building": "PCYNH",
-      "room": "340",
-      "instructor": "Forbes, Cheryl A",
-      "instructors": [
-        "Forbes, Cheryl A"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "d8e53473a88b0bbc90fe8ff127e07a5922392272b46784bab0a4ede1c72b832c": {
         "sectxt": true,
         "sectionID": "922546",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "5:00p-6:50p",
         "building": "PCYNH",
         "room": "340",
-        "instructor": "Forbes, Cheryl A",
         "instructors": [
           "Forbes, Cheryl A"
         ],
         "start_time": "17:00",
         "end_time": "18:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,202 +3,9 @@
   "name": "Hip-Hop",
   "department": "MUS",
   "id": "17",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "6:30p-9:20p",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "Hochman, Joshua David",
-      "instructors": [
-        "Hochman, Joshua David"
-      ],
-      "start_time": "18:30",
-      "end_time": "21:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921792",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "12:00p-12:50p",
-      "building": "CPMC",
-      "room": "136",
-      "instructor": "Hochman, Joshua David",
-      "instructors": [
-        "Hochman, Joshua David"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921793",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "1:00p-1:50p",
-      "building": "CPMC",
-      "room": "136",
-      "instructor": "Hochman, Joshua David",
-      "instructors": [
-        "Hochman, Joshua David"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921794",
-      "type": "DI",
-      "section": "A03",
-      "days": "W",
-      "time": "9:00a-9:50a",
-      "building": "CPMC",
-      "room": "136",
-      "instructor": "Hochman, Joshua David",
-      "instructors": [
-        "Hochman, Joshua David"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921795",
-      "type": "DI",
-      "section": "A04",
-      "days": "W",
-      "time": "10:00a-10:50a",
-      "building": "CPMC",
-      "room": "136",
-      "instructor": "Hochman, Joshua David",
-      "instructors": [
-        "Hochman, Joshua David"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921796",
-      "type": "DI",
-      "section": "A05",
-      "days": "W",
-      "time": "10:00a-10:50a",
-      "building": "CPMC",
-      "room": "264",
-      "instructor": "Hochman, Joshua David",
-      "instructors": [
-        "Hochman, Joshua David"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921797",
-      "type": "DI",
-      "section": "A06",
-      "days": "W",
-      "time": "11:00a-11:50a",
-      "building": "CPMC",
-      "room": "264",
-      "instructor": "Hochman, Joshua David",
-      "instructors": [
-        "Hochman, Joshua David"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921798",
-      "type": "DI",
-      "section": "A07",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "WLH",
-      "room": "2154",
-      "instructor": "Hochman, Joshua David",
-      "instructors": [
-        "Hochman, Joshua David"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921799",
-      "type": "DI",
-      "section": "A08",
-      "days": "F",
-      "time": "10:00a-10:50a",
-      "building": "WLH",
-      "room": "2154",
-      "instructor": "Hochman, Joshua David",
-      "instructors": [
-        "Hochman, Joshua David"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921800",
-      "type": "DI",
-      "section": "A09",
-      "days": "F",
-      "time": "11:00a-11:50a",
-      "building": "WLH",
-      "room": "2154",
-      "instructor": "Hochman, Joshua David",
-      "instructors": [
-        "Hochman, Joshua David"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921801",
-      "type": "DI",
-      "section": "A10",
-      "days": "F",
-      "time": "12:00p-12:50p",
-      "building": "WLH",
-      "room": "2154",
-      "instructor": "Hochman, Joshua David",
-      "instructors": [
-        "Hochman, Joshua David"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "4014bb1a466c069dc311d33d5ef7495aff7dbbe0834ca64e0d8d595c45fc5253": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -207,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "2041a8a87aba2fa54bb91bc06a1a499df71b72c5743c892040f2c0632d8767e1": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -226,14 +32,13 @@
         "time": "6:30p-9:20p",
         "building": "WLH",
         "room": "2001",
-        "instructor": "Hochman, Joshua David",
         "instructors": [
           "Hochman, Joshua David"
         ],
         "start_time": "18:30",
         "end_time": "21:20"
       },
-      {
+      "bc5d2e80ed763378754afb065f005b78342f0703213ca377384c073a5ccdf906": {
         "sectxt": true,
         "sectionID": "921792",
         "type": "DI",
@@ -242,14 +47,13 @@
         "time": "12:00p-12:50p",
         "building": "CPMC",
         "room": "136",
-        "instructor": "Hochman, Joshua David",
         "instructors": [
           "Hochman, Joshua David"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "e0ff76c0f52efa83647f1d9a24c71aa82082eaf28476f6be90c9b30136fa3acb": {
         "sectxt": true,
         "sectionID": "921793",
         "type": "DI",
@@ -258,17 +62,15 @@
         "time": "1:00p-1:50p",
         "building": "CPMC",
         "room": "136",
-        "instructor": "Hochman, Joshua David",
         "instructors": [
           "Hochman, Joshua David"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "6693b76b564eaadad06f5d8469fcf1e45ae63e6af3d1bb3c2ee0817c3d2c8e24": {
         "sectxt": true,
         "sectionID": "921794",
         "type": "DI",
@@ -277,14 +79,13 @@
         "time": "9:00a-9:50a",
         "building": "CPMC",
         "room": "136",
-        "instructor": "Hochman, Joshua David",
         "instructors": [
           "Hochman, Joshua David"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "1c2a825522bfa6f24b50aa72347bec87baf70774b8e63de25c6b295aa719fa9c": {
         "sectxt": true,
         "sectionID": "921795",
         "type": "DI",
@@ -293,14 +94,13 @@
         "time": "10:00a-10:50a",
         "building": "CPMC",
         "room": "136",
-        "instructor": "Hochman, Joshua David",
         "instructors": [
           "Hochman, Joshua David"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "d66f4aed1791735ffe9dbe065b1e7b7067d9f9e1404eaba05a55e0d28f6a28e1": {
         "sectxt": true,
         "sectionID": "921796",
         "type": "DI",
@@ -309,14 +109,13 @@
         "time": "10:00a-10:50a",
         "building": "CPMC",
         "room": "264",
-        "instructor": "Hochman, Joshua David",
         "instructors": [
           "Hochman, Joshua David"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "16cb2993dac6acbc50787fd661cd457ed1cbb0e881f6b4a7191e53c3947c53e1": {
         "sectxt": true,
         "sectionID": "921797",
         "type": "DI",
@@ -325,17 +124,15 @@
         "time": "11:00a-11:50a",
         "building": "CPMC",
         "room": "264",
-        "instructor": "Hochman, Joshua David",
         "instructors": [
           "Hochman, Joshua David"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "f004344a6bbc03c3bb75b4ecc3b312580387a312a8322a588b857daa3d437eb5": {
         "sectxt": true,
         "sectionID": "921798",
         "type": "DI",
@@ -344,14 +141,13 @@
         "time": "9:00a-9:50a",
         "building": "WLH",
         "room": "2154",
-        "instructor": "Hochman, Joshua David",
         "instructors": [
           "Hochman, Joshua David"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "789f09d3a0ba4efa28da8310039a0546b86771c2a49e28fd67690a127bfaec83": {
         "sectxt": true,
         "sectionID": "921799",
         "type": "DI",
@@ -360,14 +156,13 @@
         "time": "10:00a-10:50a",
         "building": "WLH",
         "room": "2154",
-        "instructor": "Hochman, Joshua David",
         "instructors": [
           "Hochman, Joshua David"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "6c4e2925081b7489bb1a69e57aadf1b8cc8c17cc51261b9bc1624722fbf05a2b": {
         "sectxt": true,
         "sectionID": "921800",
         "type": "DI",
@@ -376,14 +171,13 @@
         "time": "11:00a-11:50a",
         "building": "WLH",
         "room": "2154",
-        "instructor": "Hochman, Joshua David",
         "instructors": [
           "Hochman, Joshua David"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "d0ced11c975406ca89fe831372ac6dc6c76581225a78316ed77a78923c75f54c": {
         "sectxt": true,
         "sectionID": "921801",
         "type": "DI",
@@ -392,15 +186,15 @@
         "time": "12:00p-12:50p",
         "building": "WLH",
         "room": "2154",
-        "instructor": "Hochman, Joshua David",
         "instructors": [
           "Hochman, Joshua David"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

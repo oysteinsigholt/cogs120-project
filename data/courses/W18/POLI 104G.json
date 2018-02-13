@@ -3,42 +3,9 @@
   "name": "Election Law",
   "department": "POLI",
   "id": "104G",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925300",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "PETER",
-      "room": "104",
-      "instructor": "Galderisi, Peter",
-      "instructors": [
-        "Galderisi, Peter"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "249b8a16b6beb622a8d95a0964931b94dd8650e8eb3a42a3bb881051e92ee348": {
         "sectxt": true,
         "sectionID": "925300",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "1:00p-1:50p",
         "building": "PETER",
         "room": "104",
-        "instructor": "Galderisi, Peter",
         "instructors": [
           "Galderisi, Peter"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "f167b432fd3c09eaa430cb2d2ed3a6bc2d37de762b22ecb4d511e9695f84db07": {
         "sectxt": true,
         "sectionID": "925300",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "1:00p-1:50p",
         "building": "PETER",
         "room": "104",
-        "instructor": "Galderisi, Peter",
         "instructors": [
           "Galderisi, Peter"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "f0d3900f38de849f9eb5beef16f1bb4a5db2a57f4f46ccf382e5a05f02934127": {
         "sectxt": true,
         "sectionID": "925300",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "1:00p-1:50p",
         "building": "PETER",
         "room": "104",
-        "instructor": "Galderisi, Peter",
         "instructors": [
           "Galderisi, Peter"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

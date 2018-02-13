@@ -3,24 +3,8 @@
   "name": "Repro Med Indepen Study Projct",
   "department": "RMED",
   "id": "299",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928643",
-      "type": "IN",
-      "section": "001",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Kingston, Jessica",
-      "instructors": [
-        "Kingston, Jessica"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,63 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Kingston, Jessica",
       "instructors": [
         "Kingston, Jessica"
       ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "928644",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Staff"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "928645",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Staff"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "928646",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Staff"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "928647",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Staff"
+      ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

@@ -3,42 +3,65 @@
   "name": "Topics in ECE",
   "department": "ECE",
   "id": "180",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930032",
-      "type": "LE",
-      "section": "F00",
-      "days": "TuTh",
-      "time": "5:00p-6:20p",
-      "building": "MANDE",
-      "room": "B-210",
-      "instructor": "Unpingco, Jose H.",
-      "instructors": [
-        "Unpingco, Jose H."
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "4014bb1a466c069dc311d33d5ef7495aff7dbbe0834ca64e0d8d595c45fc5253": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    },
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +70,78 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "5ec0c6bb599b81ab2de40c3dbecf5eb38e2cf388b7bd341e19ca4b2fedd429b4": {
+        "sectxt": true,
+        "sectionID": "929356",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "6:30p-7:50p",
+        "building": "WLH",
+        "room": "2206",
+        "instructors": [
+          "Ghoudjehbaklou, Hassan"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      },
+      "14a679db2000d24af140c455cceee4ac146c250586975b6d26bba2aef3e209ee": {
+        "sectxt": true,
+        "sectionID": "929358",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "EBU1",
+        "room": "2315",
+        "instructors": [
+          "Gessner, Richard K."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "e858f9c0a5374701883d86abefdac5b35deda152831fea4bbf6bd657788b4b98": {
+        "sectxt": true,
+        "sectionID": "929359",
+        "type": "LE",
+        "section": "D00",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "EBU1",
+        "room": "4309",
+        "instructors": [
+          "Abi Samra, Nicholas Camill"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    },
+    "Tu": {
+      "e3e1a24e3c30d5822e444b9721fda0388d29818390f7938c94323d7e53e0579f": {
+        "sectxt": true,
+        "sectionID": "929360",
+        "type": "LE",
+        "section": "E00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "EBU1",
+        "room": "2315",
+        "instructors": [
+          "Kumar, Rakesh"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "bf725d5765655d89c2712ccaacdd7b0108dc30420463588d0242ad7c421680c1": {
         "sectxt": true,
         "sectionID": "930032",
         "type": "LE",
@@ -67,17 +150,77 @@
         "time": "5:00p-6:20p",
         "building": "MANDE",
         "room": "B-210",
-        "instructor": "Unpingco, Jose H.",
         "instructors": [
           "Unpingco, Jose H."
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "W": {
+      "4271e4d2e3b3a61ab35674a9a7c51f35045e625ea316037944639ad71c03775b": {
+        "sectxt": true,
+        "sectionID": "929356",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "6:30p-7:50p",
+        "building": "WLH",
+        "room": "2206",
+        "instructors": [
+          "Ghoudjehbaklou, Hassan"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      },
+      "a3660978fadadbce20f3ccf6cb2c1f46da57aa7f221383e4c74e47ded06988f4": {
+        "sectxt": true,
+        "sectionID": "929358",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "EBU1",
+        "room": "2315",
+        "instructors": [
+          "Gessner, Richard K."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "65b5c303f6131dc604827b6881ded853f765df283815648845c199be7d131dfd": {
+        "sectxt": true,
+        "sectionID": "929359",
+        "type": "LE",
+        "section": "D00",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "EBU1",
+        "room": "4309",
+        "instructors": [
+          "Abi Samra, Nicholas Camill"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    },
+    "Th": {
+      "8d49a1f87da95a0b094845d34860ccbba162819337f1c1a5b3a5225c1e5dbf3c": {
+        "sectxt": true,
+        "sectionID": "929360",
+        "type": "LE",
+        "section": "E00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "EBU1",
+        "room": "2315",
+        "instructors": [
+          "Kumar, Rakesh"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "719114befccc2ac77f9670bfae931f58bc65817bcedb8975ae7abecc0dfe22a8": {
         "sectxt": true,
         "sectionID": "930032",
         "type": "LE",
@@ -86,16 +229,37 @@
         "time": "5:00p-6:20p",
         "building": "MANDE",
         "room": "B-210",
-        "instructor": "Unpingco, Jose H.",
         "instructors": [
           "Unpingco, Jose H."
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "F": {
+      "0f9b413ac0f3628806663adc9721030edb87eda26619fa06bbd6c9ba7d7b2faf": {
+        "sectxt": true,
+        "sectionID": "929358",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "EBU1",
+        "room": "2315",
+        "instructors": [
+          "Gessner, Richard K."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F"
+  ]
 }

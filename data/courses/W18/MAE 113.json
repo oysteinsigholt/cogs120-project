@@ -3,42 +3,9 @@
   "name": "Fundamentals of Propulsion",
   "department": "MAE",
   "id": "113",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922831",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "7:30a-9:20a",
-      "building": "PCYNH",
-      "room": "122",
-      "instructor": "Sanchez, Antonio Luis",
-      "instructors": [
-        "Sanchez, Antonio Luis"
-      ],
-      "start_time": "7:30",
-      "end_time": "9:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "b912357e99e6f9a42c8be3f5b9635cc115d48d53e86a5628c0fa607318a21a12": {
         "sectxt": true,
         "sectionID": "922831",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "7:30a-9:20a",
         "building": "PCYNH",
         "room": "122",
-        "instructor": "Sanchez, Antonio Luis",
         "instructors": [
           "Sanchez, Antonio Luis"
         ],
         "start_time": "7:30",
         "end_time": "9:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "70247a42b745bd49b0d507f878e507a524299ee05819077c7a47ca61368446af": {
         "sectxt": true,
         "sectionID": "922831",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "7:30a-9:20a",
         "building": "PCYNH",
         "room": "122",
-        "instructor": "Sanchez, Antonio Luis",
         "instructors": [
           "Sanchez, Antonio Luis"
         ],
         "start_time": "7:30",
         "end_time": "9:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

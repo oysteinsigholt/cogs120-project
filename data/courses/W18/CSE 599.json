@@ -3,32 +3,12 @@
   "name": "Teaching Methods/Computer Sci",
   "department": "CSE",
   "id": "599",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927586",
-      "type": "IN",
-      "section": "A00",
-      "days": "W",
-      "time": "2:00p-3:20p",
-      "building": "EBU3B",
-      "room": "1202",
-      "instructor": "Alvarado, Christine J.",
-      "instructors": [
-        "Alvarado, Christine J."
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "50d890e439e4f6657c9557e8ea5f2b3e1ec223446fb683519dfed0cf65a4f5b2": {
         "sectxt": true,
         "sectionID": "927586",
         "type": "IN",
@@ -37,17 +17,15 @@
         "time": "2:00p-3:20p",
         "building": "EBU3B",
         "room": "1202",
-        "instructor": "Alvarado, Christine J.",
         "instructors": [
           "Alvarado, Christine J."
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

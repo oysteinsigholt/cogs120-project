@@ -3,89 +3,9 @@
   "name": "Recombinant DNA Laboratory",
   "department": "CHEM",
   "id": "109",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "Tu",
-      "time": "10:00a-10:50a",
-      "building": "NSB",
-      "room": "2303",
-      "instructor": "Johnson, Christina A",
-      "instructors": [
-        "Johnson, Christina A"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926533",
-      "type": "LA",
-      "section": "B01",
-      "days": "TuTh",
-      "time": "12:00p-4:50p",
-      "building": "NSB",
-      "room": "1103",
-      "instructor": "Johnson, Christina A",
-      "instructors": [
-        "Johnson, Christina A"
-      ],
-      "start_time": "12:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926534",
-      "type": "LA",
-      "section": "B02",
-      "days": "TuTh",
-      "time": "12:00p-4:50p",
-      "building": "NSB",
-      "room": "1111",
-      "instructor": "Johnson, Christina A",
-      "instructors": [
-        "Johnson, Christina A"
-      ],
-      "start_time": "12:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "02/03/2018",
-      "days": "S",
-      "time": "10:00a-11:50a",
-      "building": "CENTR",
-      "room": "101",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-03T08:00:00.000Z",
-      "start_time": "10:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "03/10/2018",
-      "days": "S",
-      "time": "10:00a-11:50a",
-      "building": "CENTR",
-      "room": "101",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-10T08:00:00.000Z",
-      "start_time": "10:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "ae362d2b2c8c854618a04fa43740d996e81b1b6b6d007b86a209ca1eaf6b0045": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -94,13 +14,12 @@
       "time": "10:00a-11:50a",
       "building": "CENTR",
       "room": "101",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-03T08:00:00.000Z",
       "start_time": "10:00",
       "end_time": "11:50"
     },
-    {
+    "96cfd586712998f3b1542d1bdd554f6c597109a2b288354c19784a0b8ee00b6c": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -109,18 +28,63 @@
       "time": "10:00a-11:50a",
       "building": "CENTR",
       "room": "101",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-10T08:00:00.000Z",
       "start_time": "10:00",
       "end_time": "11:50"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "40cdd3ea393878439ebaf5c767383214e7d7acfe333c98c416ae87493bc85dba": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "10:00a-10:50a",
+        "building": "YORK",
+        "room": "2722",
+        "instructors": [
+          "McHugh, Colleen A"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "829acd5c953e4e38860292eb87b901ff9177668519b24e16a39d3fffef56d5d5": {
+        "sectxt": true,
+        "sectionID": "926530",
+        "type": "LA",
+        "section": "A01",
+        "days": "MW",
+        "time": "12:00p-4:50p",
+        "building": "NSB",
+        "room": "1103",
+        "instructors": [
+          "McHugh, Colleen A"
+        ],
+        "start_time": "12:00",
+        "end_time": "16:50"
+      },
+      "62ecd18be41b49c75764e20b6f1e5e847202799aa797e30fc855eb847a82d285": {
+        "sectxt": true,
+        "sectionID": "926531",
+        "type": "LA",
+        "section": "A02",
+        "days": "MW",
+        "time": "12:00p-4:50p",
+        "building": "NSB",
+        "room": "1111",
+        "instructors": [
+          "McHugh, Colleen A"
+        ],
+        "start_time": "12:00",
+        "end_time": "16:50"
+      }
+    },
+    "Tu": {
+      "72ac370e0955fe955311014007158cbda925595ae1c9e7b223e5a659fa5e61e4": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -129,14 +93,13 @@
         "time": "10:00a-10:50a",
         "building": "NSB",
         "room": "2303",
-        "instructor": "Johnson, Christina A",
         "instructors": [
           "Johnson, Christina A"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "02dd26d6185288fb37138e08cb3111116defd77eba0ee6d40f1363b24325843a": {
         "sectxt": true,
         "sectionID": "926533",
         "type": "LA",
@@ -145,14 +108,13 @@
         "time": "12:00p-4:50p",
         "building": "NSB",
         "room": "1103",
-        "instructor": "Johnson, Christina A",
         "instructors": [
           "Johnson, Christina A"
         ],
         "start_time": "12:00",
         "end_time": "16:50"
       },
-      {
+      "4c00ba0cf107c56651a4cfc08296f021aa38bea10b9d61ea06100a537a992163": {
         "sectxt": true,
         "sectionID": "926534",
         "type": "LA",
@@ -161,17 +123,47 @@
         "time": "12:00p-4:50p",
         "building": "NSB",
         "room": "1111",
-        "instructor": "Johnson, Christina A",
         "instructors": [
           "Johnson, Christina A"
         ],
         "start_time": "12:00",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "W": {
+      "52dd33d11e13996901fed7ba84269bd872aaada004fefb07a668752a8e264f4a": {
+        "sectxt": true,
+        "sectionID": "926530",
+        "type": "LA",
+        "section": "A01",
+        "days": "MW",
+        "time": "12:00p-4:50p",
+        "building": "NSB",
+        "room": "1103",
+        "instructors": [
+          "McHugh, Colleen A"
+        ],
+        "start_time": "12:00",
+        "end_time": "16:50"
+      },
+      "a62c2c76f8ace500c68f32bae4e5518302e2f8ad378d4188f457e9eb36e4634f": {
+        "sectxt": true,
+        "sectionID": "926531",
+        "type": "LA",
+        "section": "A02",
+        "days": "MW",
+        "time": "12:00p-4:50p",
+        "building": "NSB",
+        "room": "1111",
+        "instructors": [
+          "McHugh, Colleen A"
+        ],
+        "start_time": "12:00",
+        "end_time": "16:50"
+      }
+    },
+    "Th": {
+      "97b9cf986e9da927afa75c820b1ad6fd37bb474c83ab75296b0cda7c45c564c1": {
         "sectxt": true,
         "sectionID": "926533",
         "type": "LA",
@@ -180,14 +172,13 @@
         "time": "12:00p-4:50p",
         "building": "NSB",
         "room": "1103",
-        "instructor": "Johnson, Christina A",
         "instructors": [
           "Johnson, Christina A"
         ],
         "start_time": "12:00",
         "end_time": "16:50"
       },
-      {
+      "46d97b4197ad4defae74318736fd31e53cfeffac98cd16e11c6423fc1ee80131": {
         "sectxt": true,
         "sectionID": "926534",
         "type": "LA",
@@ -196,16 +187,16 @@
         "time": "12:00p-4:50p",
         "building": "NSB",
         "room": "1111",
-        "instructor": "Johnson, Christina A",
         "instructors": [
           "Johnson, Christina A"
         ],
         "start_time": "12:00",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

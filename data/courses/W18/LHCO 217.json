@@ -3,42 +3,9 @@
   "name": "Proj Mgmt for Healthcre Profes",
   "department": "LHCO",
   "id": "217",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929374",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "5:30p-7:15p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Gilmer, Todd",
-      "instructors": [
-        "Gilmer, Todd"
-      ],
-      "start_time": "17:30",
-      "end_time": "19:15"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/18/2018",
-      "days": "Sun",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-18T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "1fdc143966ea97942cd295cdb45ccefce3276195d36c796e68ee3175b124d3a3": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,19 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-18T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "c59e275f59b374faef2d9bd96c5de2837ace4684f5bbe892495cc6022f5cea13": {
         "sectxt": true,
         "sectionID": "929374",
         "type": "LE",
@@ -68,17 +32,15 @@
         "time": "5:30p-7:15p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Gilmer, Todd",
         "instructors": [
           "Gilmer, Todd"
         ],
         "start_time": "17:30",
         "end_time": "19:15"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

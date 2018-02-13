@@ -3,27 +3,89 @@
   "name": "Directed Reading",
   "department": "LATI",
   "id": "298",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "940003",
-      "type": "TU",
-      "section": "G00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "De Leon, Justin",
-      "instructors": [
-        "De Leon, Justin"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "930545",
+      "type": "TU",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Graham, Jessica Lynn"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "932644",
+      "type": "TU",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Jed, Stephanie H"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "936345",
+      "type": "TU",
+      "section": "C00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Vitz, Matthew"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "936501",
+      "type": "TU",
+      "section": "D00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Kokotovic, Milos"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939649",
+      "type": "TU",
+      "section": "E00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hunefeldt, Christine"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939967",
+      "type": "TU",
+      "section": "F00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hernandez, Jillian"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "940003",
       "type": "TU",
       "section": "G00",
@@ -31,19 +93,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "De Leon, Justin",
       "instructors": [
         "De Leon, Justin"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

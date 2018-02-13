@@ -3,74 +3,9 @@
   "name": "Life in the Oceans",
   "department": "SIO",
   "id": "3",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "WLH",
-      "room": "2111",
-      "instructor": "Aburto Oropeza, Marco Octavio",
-      "instructors": [
-        "Aburto Oropeza, Marco Octavio"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921039",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "HSS",
-      "room": "1315",
-      "instructor": "Aburto Oropeza, Marco Octavio",
-      "instructors": [
-        "Aburto Oropeza, Marco Octavio"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921040",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "HSS",
-      "room": "1315",
-      "instructor": "Aburto Oropeza, Marco Octavio",
-      "instructors": [
-        "Aburto Oropeza, Marco Octavio"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -79,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "6721ec3568dcd8f8a49712a671b801dfee4ddaabbc63506c0e935ab456b7dffd": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -98,17 +32,15 @@
         "time": "2:00p-2:50p",
         "building": "WLH",
         "room": "2111",
-        "instructor": "Aburto Oropeza, Marco Octavio",
         "instructors": [
           "Aburto Oropeza, Marco Octavio"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "03db29512c920154c8251b4bab8a52a294794a0af7dbbc2424d2ef4b9cb7ee87": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -117,14 +49,13 @@
         "time": "2:00p-2:50p",
         "building": "WLH",
         "room": "2111",
-        "instructor": "Aburto Oropeza, Marco Octavio",
         "instructors": [
           "Aburto Oropeza, Marco Octavio"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "bb58969e74d7428232e374fd5606c0c2042f56c589571469a26d271c21c54278": {
         "sectxt": true,
         "sectionID": "921039",
         "type": "DI",
@@ -133,14 +64,13 @@
         "time": "3:00p-3:50p",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Aburto Oropeza, Marco Octavio",
         "instructors": [
           "Aburto Oropeza, Marco Octavio"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "be4f379588cd107485d510e6f6166c004e9ae13c0915537cfb52b6fe8aad11b2": {
         "sectxt": true,
         "sectionID": "921040",
         "type": "DI",
@@ -149,17 +79,15 @@
         "time": "4:00p-4:50p",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Aburto Oropeza, Marco Octavio",
         "instructors": [
           "Aburto Oropeza, Marco Octavio"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "d279da4a3d7ccd6f447b5cb8f0bddd178e11c77d67d14b93ba22188196cebe12": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -168,15 +96,15 @@
         "time": "2:00p-2:50p",
         "building": "WLH",
         "room": "2111",
-        "instructor": "Aburto Oropeza, Marco Octavio",
         "instructors": [
           "Aburto Oropeza, Marco Octavio"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

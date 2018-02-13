@@ -3,31 +3,12 @@
   "name": "Focus on Performance",
   "department": "MUS",
   "id": "245",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921830",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "5:00p-6:50p",
-      "building": "CPMC",
-      "room": "264",
-      "instructor": "Curtis, Charles Rector",
-      "instructors": [
-        "Curtis, Charles Rector"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "a426709bc2c08879bf86d8827af473527e82ebd4007da778e71ad6c4c1e47037": {
         "sectxt": true,
         "sectionID": "921830",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "5:00p-6:50p",
         "building": "CPMC",
         "room": "264",
-        "instructor": "Curtis, Charles Rector",
         "instructors": [
           "Curtis, Charles Rector"
         ],
         "start_time": "17:00",
         "end_time": "18:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

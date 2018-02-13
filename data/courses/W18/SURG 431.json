@@ -3,24 +3,8 @@
   "name": "Clerkship/Transplntn (Abdomnl)",
   "department": "SURG",
   "id": "431",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928703",
-      "type": "CL",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Berumen, Jennifer Ann",
-      "instructors": [
-        "Berumen, Jennifer Ann"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Berumen, Jennifer Ann",
       "instructors": [
         "Berumen, Jennifer Ann"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

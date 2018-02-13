@@ -3,32 +3,12 @@
   "name": "Communicatng Biomed Informatcs",
   "department": "MED",
   "id": "273",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930454",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "1:00p-2:00p",
-      "building": "BRF2",
-      "room": "3A04",
-      "instructor": "Huh-Yoo, Jina & Koola, Jejo David",
-      "instructors": [
-        "Huh-Yoo, Jina",
-        "Koola, Jejo David"
-      ],
-      "start_time": "13:00",
-      "end_time": "14:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "2617656e4d8f6e50e1b4624e6cea26ec6a9cc5df574e1753bb2584b48384d4d9": {
         "sectxt": true,
         "sectionID": "930454",
         "type": "LE",
@@ -37,19 +17,15 @@
         "time": "1:00p-2:00p",
         "building": "BRF2",
         "room": "3A04",
-        "instructor": "Huh-Yoo, Jina & Koola, Jejo David",
         "instructors": [
-          "Huh-Yoo, Jina",
-          "Koola, Jejo David"
+          "Huh-Yoo, Jina                      \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tKoola, Jejo David"
         ],
         "start_time": "13:00",
         "end_time": "14:00"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

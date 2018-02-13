@@ -3,162 +3,65 @@
   "name": "Linear Algebra",
   "department": "MATH",
   "id": "18",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "E00",
-      "days": "MWF",
-      "time": "3:00p-3:50p",
-      "building": "MANDE",
-      "room": "B-210",
-      "instructor": "Kolesnikov, Pavel",
-      "instructors": [
-        "Kolesnikov, Pavel"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926917",
-      "type": "DI",
-      "section": "E01",
-      "days": "Th",
-      "time": "6:00p-6:50p",
-      "building": "WLH",
-      "room": "2208",
-      "instructor": "Kolesnikov, Pavel",
-      "instructors": [
-        "Kolesnikov, Pavel"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926918",
-      "type": "DI",
-      "section": "E02",
-      "days": "Th",
-      "time": "7:00p-7:50p",
-      "building": "WLH",
-      "room": "2208",
-      "instructor": "Kolesnikov, Pavel",
-      "instructors": [
-        "Kolesnikov, Pavel"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926919",
-      "type": "DI",
-      "section": "E03",
-      "days": "Th",
-      "time": "8:00p-8:50p",
-      "building": "WLH",
-      "room": "2208",
-      "instructor": "Kolesnikov, Pavel",
-      "instructors": [
-        "Kolesnikov, Pavel"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926920",
-      "type": "DI",
-      "section": "E04",
-      "days": "Th",
-      "time": "9:00p-9:50p",
-      "building": "WLH",
-      "room": "2208",
-      "instructor": "Kolesnikov, Pavel",
-      "instructors": [
-        "Kolesnikov, Pavel"
-      ],
-      "start_time": "21:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "E50",
-      "days": "Tu",
-      "time": "6:00p-6:50p",
-      "building": "APM",
-      "room": "B349",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "E51",
-      "days": "Tu",
-      "time": "7:00p-7:50p",
-      "building": "APM",
-      "room": "B349",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "E52",
-      "days": "Tu",
-      "time": "8:00p-8:50p",
-      "building": "APM",
-      "room": "B349",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "E53",
-      "days": "Tu",
-      "time": "9:00p-9:50p",
-      "building": "APM",
-      "room": "B349",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "21:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "53e53906900bb294c35e856534cc765962a43c57c9348fe67c7fe3f15b14abde": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MI",
+      "section": "01/31/2018",
+      "days": "W",
+      "time": "8:00p-9:20p",
+      "building": "YORK",
+      "room": "2722",
+      "instructors": [],
+      "date": "2018-01-31T08:00:00.000Z",
+      "start_time": "20:00",
+      "end_time": "21:20"
+    },
+    "459f0fb2ba7a433cbe26dc301342c00db12da833cb154cccaf50b90e69f078c9": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MI",
+      "section": "02/28/2018",
+      "days": "W",
+      "time": "8:00p-9:20p",
+      "building": "PETER",
+      "room": "110",
+      "instructors": [],
+      "date": "2018-02-28T08:00:00.000Z",
+      "start_time": "20:00",
+      "end_time": "21:20"
+    },
+    "ace250a1febe77920a79e7f2214332e774880653bfaf3605da95f69e1b691332": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/17/2018",
+      "days": "S",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-17T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -167,17 +70,76 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "4ec817ccdc88e3e0dc29eddfa2b87654757697262afdf15326e4d0d4d98658ca": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "72ac370e0955fe955311014007158cbda925595ae1c9e7b223e5a659fa5e61e4": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "119",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "f213bf63d6f8826c044fa0cd59a4e64aade222e65c2925d26cedc9ca975f3fdf": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "119",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "22b3af52867a82a49c3cbea7ce202351dc4034771394a58c3f81d81ac74e780a": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "119",
+        "instructors": [
+          "Zhou, Wenxin"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "c884e9f81ad104a813e347ac0d48e67a15341bdabd22bb79a9e4b2bdaa5fc55f": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -186,16 +148,375 @@
         "time": "3:00p-3:50p",
         "building": "MANDE",
         "room": "B-210",
-        "instructor": "Kolesnikov, Pavel",
         "instructors": [
           "Kolesnikov, Pavel"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "2d8ecb1c17ea21c74707150461339c29cda2666179ab5e8219877d60d28d994c": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A50",
+        "days": "Tu",
+        "time": "8:00a-8:50a",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "a495c39dcdd8891680e668a971102209b2d6ef330452b5f3175c48b5971909ab": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A51",
+        "days": "Tu",
+        "time": "9:00a-9:50a",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "58dcb35cfb1cc05e450aa0eec006f36e2da2aa7425b99ccce94a5c3e6f30cf74": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A52",
+        "days": "Tu",
+        "time": "10:00a-10:50a",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "6db3dbb453eb4b8eda65a30a51c4199d0d209fce93bd8405eb638f548ff5cf3a": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A53",
+        "days": "Tu",
+        "time": "11:00a-11:50a",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "d749a75f90b7832a7946a2ab91b0888cd2448fd55d20d1bdbe8dec2b43e61d3e": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A54",
+        "days": "Tu",
+        "time": "12:00p-12:50p",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "171771dceb3561ab23827ca51ca359b6839cb2510da07d9bca460dc9a6f8cbb5": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A55",
+        "days": "Tu",
+        "time": "1:00p-1:50p",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "6921b0a77d57df2f270524980a88b57217340cc49ac937ab2609693d5901378b": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "B50",
+        "days": "Tu",
+        "time": "8:00a-8:50a",
+        "building": "APM",
+        "room": "B349",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "ea1456c861ddf961d925938c6bba1ea69193a91be84f0c8caadd816875674824": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "B51",
+        "days": "Tu",
+        "time": "9:00a-9:50a",
+        "building": "APM",
+        "room": "B349",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "94cc879ea512115d4329d6d8b994ba22a7677c7dcfbf747b125e27b0d60a4edd": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "B52",
+        "days": "Tu",
+        "time": "10:00a-10:50a",
+        "building": "APM",
+        "room": "B349",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "0c1723134222bb78576bdad414b781cd978931bec1115db328072d2796cf88ac": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "B53",
+        "days": "Tu",
+        "time": "11:00a-11:50a",
+        "building": "APM",
+        "room": "B349",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "3df9dd27844ed2db89b7688437759a31459b9c13aac67be7bc560b4704a596b0": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "B54",
+        "days": "Tu",
+        "time": "12:00p-12:50p",
+        "building": "APM",
+        "room": "B349",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "6daa862a30c749c80f99a7771303d1269aac283a056ab7d6db06edd6ba915295": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "B55",
+        "days": "Tu",
+        "time": "1:00p-1:50p",
+        "building": "APM",
+        "room": "B349",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "f48589bd320a1492df490656c05d1aabe0626cc433a0d52af64684e0e0aa6155": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "C50",
+        "days": "Tu",
+        "time": "2:00p-2:50p",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "c2882cc3d454cc96fd6d9fe6c1a6260036fe171cb8998f148a7bc9a54036c08d": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "C51",
+        "days": "Tu",
+        "time": "3:00p-3:50p",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "60571c1da3f8e3a4ff017b2d03c817681198548ba4d02186eae506ea89aaf6b1": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "C52",
+        "days": "Tu",
+        "time": "4:00p-4:50p",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "f6e2a0123aa308ca4eb56d47e371575d421651852ed09f014ad2087d4ad4ac30": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "C53",
+        "days": "Tu",
+        "time": "5:00p-5:50p",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "203bc9fa17d1c68ed03637ca5e2a8951d0b1ace9a1eee92cae5afc5d18f71ef1": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "C54",
+        "days": "Tu",
+        "time": "6:00p-6:50p",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "76998d1db405d0564a5e01b33b2c0123cb125a5ce15a35c78f4878327423b512": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "C55",
+        "days": "Tu",
+        "time": "7:00p-7:50p",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "64c435aa3a298026fd154480100a2e5c1d59ea19f6eb9c284201cdb9c3814376": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "D50",
+        "days": "Tu",
+        "time": "2:00p-2:50p",
+        "building": "APM",
+        "room": "B349",
+        "instructors": [
+          "Zhou, Wenxin"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "2009f91f28346ca28a893658a5dca1ad503636aa4b65d6251a1c20d73a43ff94": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "D51",
+        "days": "Tu",
+        "time": "3:00p-3:50p",
+        "building": "APM",
+        "room": "B349",
+        "instructors": [
+          "Zhou, Wenxin"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "13aed9d10f27f6b1c69aad498a0ff74cbea397d70916d4ae285fdeda207a42ad": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "D52",
+        "days": "Tu",
+        "time": "4:00p-4:50p",
+        "building": "APM",
+        "room": "B349",
+        "instructors": [
+          "Zhou, Wenxin"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "caa89d380229cb360f776171fa12070f6c04105d3ebf394f8a3e0e4db0bf34a6": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "D53",
+        "days": "Tu",
+        "time": "5:00p-5:50p",
+        "building": "APM",
+        "room": "B349",
+        "instructors": [
+          "Zhou, Wenxin"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "20f08cdd581e1ca913e341799917e771feb10373bd3dd658c27c0be13cc66f5d": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "D54",
+        "days": "Tu",
+        "time": "8:00p-8:50p",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Zhou, Wenxin"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "5af2ece3fc3194c07b203a18bdec43160bf004c9f9acb8de19866a05c8c5ba67": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "D55",
+        "days": "Tu",
+        "time": "9:00p-9:50p",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Zhou, Wenxin"
+        ],
+        "start_time": "21:00",
+        "end_time": "21:50"
+      },
+      "1b184b68c9cb12736cbeb672eca0bd69915494a06e7925bff2fe1e129f5f445c": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -204,12 +525,11 @@
         "time": "6:00p-6:50p",
         "building": "APM",
         "room": "B349",
-        "instructor": "",
         "instructors": [],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "a171c48ec9437e0a1b2d5f3367d929a564c21bb0d36b32e1f22fdb65e556ef70": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -218,12 +538,11 @@
         "time": "7:00p-7:50p",
         "building": "APM",
         "room": "B349",
-        "instructor": "",
         "instructors": [],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "d26b9a3cce815a75377cd7c0dc9750f1c7e517c7441c37301694b9ac1d72a259": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -232,12 +551,11 @@
         "time": "8:00p-8:50p",
         "building": "APM",
         "room": "B349",
-        "instructor": "",
         "instructors": [],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "55a01973d333d51b3e9b7f3d232528e447ba006c25cbf8dc634e33b307a8c149": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -246,14 +564,73 @@
         "time": "9:00p-9:50p",
         "building": "APM",
         "room": "B349",
-        "instructor": "",
         "instructors": [],
         "start_time": "21:00",
         "end_time": "21:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "970c4cf3c48a9d2f246a192e6758c8f9b57a8863dca3783380839aec16d4f52b": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "733b13bd9eacee06cd2c519cc2f59f0e259009f4d0a45d9d8362542b9cdd6c1b": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "119",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "2d64310fc2d85eac69c87062346fae7c58fd297365cfd716531ed4b07bde9a5c": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "119",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "156daf706e13e1e2353d0680882f76131ec9eeef9e8d5c3c19583a8730de9ff4": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "119",
+        "instructors": [
+          "Zhou, Wenxin"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "55d721af0095700272abee90c7798213b05d3925dacea644f5fd06df73dc3d5d": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -262,16 +639,375 @@
         "time": "3:00p-3:50p",
         "building": "MANDE",
         "room": "B-210",
-        "instructor": "Kolesnikov, Pavel",
         "instructors": [
           "Kolesnikov, Pavel"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "9ac5f4cad46e09518f3c7b3778cd348851cd0974f101758cc5074fbde5999ce2": {
+        "sectxt": true,
+        "sectionID": "926865",
+        "type": "DI",
+        "section": "A01",
+        "days": "Th",
+        "time": "8:00a-8:50a",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "84041520de4af1018023161d7780f641c484e9ea2b82319dc31b285538710c0d": {
+        "sectxt": true,
+        "sectionID": "926866",
+        "type": "DI",
+        "section": "A02",
+        "days": "Th",
+        "time": "9:00a-9:50a",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "a528f9b4893da21cdba3e8ccd46e0aee03813b5710ae2ea4fce603ee4c54b8b0": {
+        "sectxt": true,
+        "sectionID": "926867",
+        "type": "DI",
+        "section": "A03",
+        "days": "Th",
+        "time": "10:00a-10:50a",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "8a061122095f055c1733e5cb4a6a0acf1bbf7fd8b1c3dfce089bf46a47aefcfb": {
+        "sectxt": true,
+        "sectionID": "926868",
+        "type": "DI",
+        "section": "A04",
+        "days": "Th",
+        "time": "11:00a-11:50a",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "723b68921cb386f781575d5cd087886a1e9e58967ed0b188407f215668166579": {
+        "sectxt": true,
+        "sectionID": "926869",
+        "type": "DI",
+        "section": "A05",
+        "days": "Th",
+        "time": "12:00p-12:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "3fc5873cd7d660d7531ec8a5cf03bfd8b16995e068c038b6ecefd5b0aaf17636": {
+        "sectxt": true,
+        "sectionID": "926870",
+        "type": "DI",
+        "section": "A06",
+        "days": "Th",
+        "time": "1:00p-1:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "d5f9ea28911e50aeb829ef70bd8a911c2f93d934b05510688fd33fb79f507ea3": {
+        "sectxt": true,
+        "sectionID": "926878",
+        "type": "DI",
+        "section": "B01",
+        "days": "Th",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "bb5ff0b94f48d45363c50b0aa200f4bae4d3d3e39b5b7a4af7190a7c5ce7aecf": {
+        "sectxt": true,
+        "sectionID": "926879",
+        "type": "DI",
+        "section": "B02",
+        "days": "Th",
+        "time": "9:00a-9:50a",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "5ea673a0513f102dfc5738fbb3a74cdac896034bb65b3bfecbcdca7fb1276c2a": {
+        "sectxt": true,
+        "sectionID": "926880",
+        "type": "DI",
+        "section": "B03",
+        "days": "Th",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "b7df22d949ad50261aaf539dc40d7d7ea05f1f8b12e986322318db3a684f92d1": {
+        "sectxt": true,
+        "sectionID": "926881",
+        "type": "DI",
+        "section": "B04",
+        "days": "Th",
+        "time": "11:00a-11:50a",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "95965be336967b1f25250cf31479c6c525faa66075feacbd11546606995b54ad": {
+        "sectxt": true,
+        "sectionID": "926882",
+        "type": "DI",
+        "section": "B05",
+        "days": "Th",
+        "time": "12:00p-12:50p",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "981ed626480bad069c041751222750dc8f0be1df6f3e8a89621c89a83cf021cc": {
+        "sectxt": true,
+        "sectionID": "926883",
+        "type": "DI",
+        "section": "B06",
+        "days": "Th",
+        "time": "1:00p-1:50p",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "10fd7564663cf29fe4d9c3283bfd8bde1f17740f635004921ec9268778676e31": {
+        "sectxt": true,
+        "sectionID": "926891",
+        "type": "DI",
+        "section": "C01",
+        "days": "Th",
+        "time": "2:00p-2:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "303ad184d50400891577b3f4b62d9109c329f90ff93bd948a1712e38ee7a5674": {
+        "sectxt": true,
+        "sectionID": "926892",
+        "type": "DI",
+        "section": "C02",
+        "days": "Th",
+        "time": "3:00p-3:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "cf8304bfe9c93fe310ddafa85d96e6af9411a1267905ddb28d1055eabca02062": {
+        "sectxt": true,
+        "sectionID": "926893",
+        "type": "DI",
+        "section": "C03",
+        "days": "Th",
+        "time": "4:00p-4:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "16511efa4624e77d30d605e9302cc909b8ce9095a3ae764a085cbed4583948ea": {
+        "sectxt": true,
+        "sectionID": "926894",
+        "type": "DI",
+        "section": "C04",
+        "days": "Th",
+        "time": "5:00p-5:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "4e403fb0469b403a98d52d91d0f7499de29e453e68020fb93888de512ac81f21": {
+        "sectxt": true,
+        "sectionID": "926895",
+        "type": "DI",
+        "section": "C05",
+        "days": "Th",
+        "time": "6:00p-6:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "bf8828d17f0c0b196f5ad9e5c26739e0ef8b6ebb059f0535af953ba7334251e4": {
+        "sectxt": true,
+        "sectionID": "926896",
+        "type": "DI",
+        "section": "C06",
+        "days": "Th",
+        "time": "7:00p-7:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "7e2724e76676ce4248c6782aaaf553bc729c7ee337266ba725345d91dbffa024": {
+        "sectxt": true,
+        "sectionID": "926904",
+        "type": "DI",
+        "section": "D01",
+        "days": "Th",
+        "time": "2:00p-2:50p",
+        "building": "APM",
+        "room": "6402",
+        "instructors": [
+          "Zhou, Wenxin"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "567e41009f23233beef107c007572e6de273331032d1395f75f90d5a96ce4ef2": {
+        "sectxt": true,
+        "sectionID": "926905",
+        "type": "DI",
+        "section": "D02",
+        "days": "Th",
+        "time": "3:00p-3:50p",
+        "building": "APM",
+        "room": "6402",
+        "instructors": [
+          "Zhou, Wenxin"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "1ef38d84eae011e1900451e3180adcfce32c44bba555967ac56b94dea1ea839d": {
+        "sectxt": true,
+        "sectionID": "926906",
+        "type": "DI",
+        "section": "D03",
+        "days": "Th",
+        "time": "4:00p-4:50p",
+        "building": "APM",
+        "room": "2402",
+        "instructors": [
+          "Zhou, Wenxin"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "5ae324911827efb1a8955d4c73c85540739497cc0a28898d9be7103acfc8b163": {
+        "sectxt": true,
+        "sectionID": "926907",
+        "type": "DI",
+        "section": "D04",
+        "days": "Th",
+        "time": "5:00p-5:50p",
+        "building": "APM",
+        "room": "2402",
+        "instructors": [
+          "Zhou, Wenxin"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "0a1c71fb17fcea50b72edd6741668951a25dcbcc27a25680f9f62ca64a42ffe9": {
+        "sectxt": true,
+        "sectionID": "926908",
+        "type": "DI",
+        "section": "D05",
+        "days": "Th",
+        "time": "8:00p-8:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Zhou, Wenxin"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "30d1cfa5a2c66707fb8e2adf48e1928022fb782722c642d69acf41c3acb83c60": {
+        "sectxt": true,
+        "sectionID": "926909",
+        "type": "DI",
+        "section": "D06",
+        "days": "Th",
+        "time": "9:00p-9:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Zhou, Wenxin"
+        ],
+        "start_time": "21:00",
+        "end_time": "21:50"
+      },
+      "165f6f6b292c16d134ab3e42f66fa861c91cbded694e2e3ab6dac389a4c955b4": {
         "sectxt": true,
         "sectionID": "926917",
         "type": "DI",
@@ -280,14 +1016,13 @@
         "time": "6:00p-6:50p",
         "building": "WLH",
         "room": "2208",
-        "instructor": "Kolesnikov, Pavel",
         "instructors": [
           "Kolesnikov, Pavel"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "70212db85d38864772e7862fd09db90863acf8edfe5592499735a1e870511542": {
         "sectxt": true,
         "sectionID": "926918",
         "type": "DI",
@@ -296,14 +1031,13 @@
         "time": "7:00p-7:50p",
         "building": "WLH",
         "room": "2208",
-        "instructor": "Kolesnikov, Pavel",
         "instructors": [
           "Kolesnikov, Pavel"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "c483737356a3af05a5bbb871e0ee981753d2fbdd96acc041d926397404719f59": {
         "sectxt": true,
         "sectionID": "926919",
         "type": "DI",
@@ -312,14 +1046,13 @@
         "time": "8:00p-8:50p",
         "building": "WLH",
         "room": "2208",
-        "instructor": "Kolesnikov, Pavel",
         "instructors": [
           "Kolesnikov, Pavel"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "d5e48db05318a149c5c3b283c5e60c7a2b261844c83e480b62b6f70f1449fe48": {
         "sectxt": true,
         "sectionID": "926920",
         "type": "DI",
@@ -328,16 +1061,75 @@
         "time": "9:00p-9:50p",
         "building": "WLH",
         "room": "2208",
-        "instructor": "Kolesnikov, Pavel",
         "instructors": [
           "Kolesnikov, Pavel"
         ],
         "start_time": "21:00",
         "end_time": "21:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "0fa53a4e71d75b330d5dce8797d8f3400a4bb91d601337836c51d9290c9239bc": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "41ac43cb18b3624692cf807f4a1e4a48c6dd9d84387b3e1773af7a3cfa484e8f": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "119",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "ca0679a6a428ae3fe5f014f06378a81c6eabcfee423ff21ec197239510753ce3": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "119",
+        "instructors": [
+          "Kemp, Todd Aahron"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "8a7459828a0e6291b6129227a95b9802d9d20e6299cf3d7baf65c1d552834f6b": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "119",
+        "instructors": [
+          "Zhou, Wenxin"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "5a77aa3e31f5b962b451b34ef82eda9a3cdecb71b913ef4d194996011c42a219": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -346,15 +1138,19 @@
         "time": "3:00p-3:50p",
         "building": "MANDE",
         "room": "B-210",
-        "instructor": "Kolesnikov, Pavel",
         "instructors": [
           "Kolesnikov, Pavel"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ]
 }

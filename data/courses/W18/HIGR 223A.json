@@ -3,32 +3,12 @@
   "name": "Res. Sem./Medieval History",
   "department": "HIGR",
   "id": "223A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924563",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "12:00p-2:50p",
-      "building": "HSS",
-      "room": "4025",
-      "instructor": "Caciola, Nancy A",
-      "instructors": [
-        "Caciola, Nancy A"
-      ],
-      "start_time": "12:00",
-      "end_time": "14:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "5a8441d4e50675713665eca15b81b510d2380b3827d871ee24d56f52888c31d6": {
         "sectxt": true,
         "sectionID": "924563",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "12:00p-2:50p",
         "building": "HSS",
         "room": "4025",
-        "instructor": "Caciola, Nancy A",
         "instructors": [
           "Caciola, Nancy A"
         ],
         "start_time": "12:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

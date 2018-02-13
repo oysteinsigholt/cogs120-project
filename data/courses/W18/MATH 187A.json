@@ -3,170 +3,9 @@
   "name": "Introduction to Cryptography",
   "department": "MATH",
   "id": "187A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "3:00p-3:50p",
-      "building": "PETER",
-      "room": "110",
-      "instructor": "Bucur, Alina Ioana",
-      "instructors": [
-        "Bucur, Alina Ioana"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927253",
-      "type": "DI",
-      "section": "A01",
-      "days": "Th",
-      "time": "1:00p-1:50p",
-      "building": "APM",
-      "room": "B412",
-      "instructor": "Bucur, Alina Ioana",
-      "instructors": [
-        "Bucur, Alina Ioana"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927254",
-      "type": "DI",
-      "section": "A02",
-      "days": "Th",
-      "time": "2:00p-2:50p",
-      "building": "APM",
-      "room": "B412",
-      "instructor": "Bucur, Alina Ioana",
-      "instructors": [
-        "Bucur, Alina Ioana"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927255",
-      "type": "DI",
-      "section": "A03",
-      "days": "Th",
-      "time": "8:00p-8:50p",
-      "building": "APM",
-      "room": "B412",
-      "instructor": "Bucur, Alina Ioana",
-      "instructors": [
-        "Bucur, Alina Ioana"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927256",
-      "type": "DI",
-      "section": "A04",
-      "days": "Th",
-      "time": "9:00p-9:50p",
-      "building": "APM",
-      "room": "B412",
-      "instructor": "Bucur, Alina Ioana",
-      "instructors": [
-        "Bucur, Alina Ioana"
-      ],
-      "start_time": "21:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927257",
-      "type": "DI",
-      "section": "A05",
-      "days": "Th",
-      "time": "6:00p-6:50p",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Bucur, Alina Ioana",
-      "instructors": [
-        "Bucur, Alina Ioana"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927258",
-      "type": "DI",
-      "section": "A06",
-      "days": "Th",
-      "time": "7:00p-7:50p",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Bucur, Alina Ioana",
-      "instructors": [
-        "Bucur, Alina Ioana"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930599",
-      "type": "DI",
-      "section": "A07",
-      "days": "Th",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2112",
-      "instructor": "Bucur, Alina Ioana",
-      "instructors": [
-        "Bucur, Alina Ioana"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930600",
-      "type": "DI",
-      "section": "A08",
-      "days": "Th",
-      "time": "4:00p-4:50p",
-      "building": "CENTR",
-      "room": "218",
-      "instructor": "Bucur, Alina Ioana",
-      "instructors": [
-        "Bucur, Alina Ioana"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -175,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "d095058a3c5ca6878be2e5af45056c73925fc6945e80151eaa049f5fb0198342": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -194,17 +32,15 @@
         "time": "3:00p-3:50p",
         "building": "PETER",
         "room": "110",
-        "instructor": "Bucur, Alina Ioana",
         "instructors": [
           "Bucur, Alina Ioana"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "79d74431070cb4a8eb869597224182097a4582db84061fe22372de2962a74f0b": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -213,16 +49,15 @@
         "time": "3:00p-3:50p",
         "building": "PETER",
         "room": "110",
-        "instructor": "Bucur, Alina Ioana",
         "instructors": [
           "Bucur, Alina Ioana"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "62e1fcddfec8faa927d4986ad897c023c402cca645091fdd954e351e68ed4d79": {
         "sectxt": true,
         "sectionID": "927253",
         "type": "DI",
@@ -231,14 +66,13 @@
         "time": "1:00p-1:50p",
         "building": "APM",
         "room": "B412",
-        "instructor": "Bucur, Alina Ioana",
         "instructors": [
           "Bucur, Alina Ioana"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "2ebc27b4c853699477314403c15e28f01a19eab35581e880dcc6ae2ea30f05b1": {
         "sectxt": true,
         "sectionID": "927254",
         "type": "DI",
@@ -247,14 +81,13 @@
         "time": "2:00p-2:50p",
         "building": "APM",
         "room": "B412",
-        "instructor": "Bucur, Alina Ioana",
         "instructors": [
           "Bucur, Alina Ioana"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "83455a69a112966c6f9aa7b12221c27a91cd24f942bd6fa62170126f366627ef": {
         "sectxt": true,
         "sectionID": "927255",
         "type": "DI",
@@ -263,14 +96,13 @@
         "time": "8:00p-8:50p",
         "building": "APM",
         "room": "B412",
-        "instructor": "Bucur, Alina Ioana",
         "instructors": [
           "Bucur, Alina Ioana"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "294f5799710dab531c47ce54ebdf071a81e64ddd8c529c7f0e681e5de1c2f793": {
         "sectxt": true,
         "sectionID": "927256",
         "type": "DI",
@@ -279,14 +111,13 @@
         "time": "9:00p-9:50p",
         "building": "APM",
         "room": "B412",
-        "instructor": "Bucur, Alina Ioana",
         "instructors": [
           "Bucur, Alina Ioana"
         ],
         "start_time": "21:00",
         "end_time": "21:50"
       },
-      {
+      "05fdeae4a7e8cf375c2ac3c3e67349cb7737e2b8732f6fff29d96e677782a679": {
         "sectxt": true,
         "sectionID": "927257",
         "type": "DI",
@@ -295,14 +126,13 @@
         "time": "6:00p-6:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Bucur, Alina Ioana",
         "instructors": [
           "Bucur, Alina Ioana"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "2b285fc87dfb36bcbefb8897a3949e89bc408fd434db4434166f4798dc98f736": {
         "sectxt": true,
         "sectionID": "927258",
         "type": "DI",
@@ -311,14 +141,13 @@
         "time": "7:00p-7:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Bucur, Alina Ioana",
         "instructors": [
           "Bucur, Alina Ioana"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "84da4a11fdccc081f8b76d1f0df162d4b65a8b6894dd08868865634a919b04fe": {
         "sectxt": true,
         "sectionID": "930599",
         "type": "DI",
@@ -327,14 +156,13 @@
         "time": "3:00p-3:50p",
         "building": "WLH",
         "room": "2112",
-        "instructor": "Bucur, Alina Ioana",
         "instructors": [
           "Bucur, Alina Ioana"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "06c1d992954d458f2dc05cc1542a1655fd7e41d044e779a36096c01a87f20fe2": {
         "sectxt": true,
         "sectionID": "930600",
         "type": "DI",
@@ -343,16 +171,15 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "218",
-        "instructor": "Bucur, Alina Ioana",
         "instructors": [
           "Bucur, Alina Ioana"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "4e9424c9c995e804cbb6cf63305e4e1abb14e40929e3015af5858fba1ddefc1b": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -361,15 +188,15 @@
         "time": "3:00p-3:50p",
         "building": "PETER",
         "room": "110",
-        "instructor": "Bucur, Alina Ioana",
         "instructors": [
           "Bucur, Alina Ioana"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

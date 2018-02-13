@@ -3,170 +3,23 @@
   "name": "Enlightmnt,Romnt,Rev/1660-1848",
   "department": "HUM",
   "id": "4",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "CENTR",
-      "room": "101",
-      "instructor": "Watkins, Eric",
-      "instructors": [
-        "Watkins, Eric"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920228",
-      "type": "DI",
-      "section": "B01",
-      "days": "W",
-      "time": "12:00p-12:50p",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Watkins, Eric",
-      "instructors": [
-        "Watkins, Eric"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920229",
-      "type": "DI",
-      "section": "B02",
-      "days": "W",
-      "time": "1:00p-1:50p",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Watkins, Eric",
-      "instructors": [
-        "Watkins, Eric"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920230",
-      "type": "DI",
-      "section": "B03",
-      "days": "W",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2321",
-      "instructor": "Watkins, Eric",
-      "instructors": [
-        "Watkins, Eric"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920231",
-      "type": "DI",
-      "section": "B04",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "HSS",
-      "room": "2321",
-      "instructor": "Watkins, Eric",
-      "instructors": [
-        "Watkins, Eric"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920232",
-      "type": "DI",
-      "section": "B05",
-      "days": "F",
-      "time": "12:00p-12:50p",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Watkins, Eric",
-      "instructors": [
-        "Watkins, Eric"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920233",
-      "type": "DI",
-      "section": "B06",
-      "days": "F",
-      "time": "1:00p-1:50p",
-      "building": "HSS",
-      "room": "1128A",
-      "instructor": "Watkins, Eric",
-      "instructors": [
-        "Watkins, Eric"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920234",
-      "type": "DI",
-      "section": "B07",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "HSS",
-      "room": "1315",
-      "instructor": "Watkins, Eric",
-      "instructors": [
-        "Watkins, Eric"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920235",
-      "type": "DI",
-      "section": "B08",
-      "days": "F",
-      "time": "10:00a-10:50a",
-      "building": "HSS",
-      "room": "1315",
-      "instructor": "Watkins, Eric",
-      "instructors": [
-        "Watkins, Eric"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -175,17 +28,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "7b590151cd28db772cb5f38ee83595f178c8f3cb089eb9bf525519f33a482289": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -194,17 +46,32 @@
         "time": "11:00a-11:50a",
         "building": "CENTR",
         "room": "101",
-        "instructor": "Watkins, Eric",
         "instructors": [
           "Watkins, Eric"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "Tu": {
+      "c12e876c286e075f54b31f5190baf1c12afcaa3c60c656df28d942741b529a9a": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "SOLIS",
+        "room": "107",
+        "instructors": [
+          "Zroka, Amy Liane"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    },
+    "W": {
+      "346e9d97d27f467115ca4e2e6de0756325a93bb7f40c6a9873a7fede3f635bf6": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -213,14 +80,13 @@
         "time": "11:00a-11:50a",
         "building": "CENTR",
         "room": "101",
-        "instructor": "Watkins, Eric",
         "instructors": [
           "Watkins, Eric"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "000396f59f25fbbec291d85f908e571bf643d35f5f3fa560a0c3fcc88e4cd460": {
         "sectxt": true,
         "sectionID": "920228",
         "type": "DI",
@@ -229,14 +95,13 @@
         "time": "12:00p-12:50p",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Watkins, Eric",
         "instructors": [
           "Watkins, Eric"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "0c4a4a49b2fa596ee3fd4e907be6fb481b0e3f6768c0779a143e5a6916d82489": {
         "sectxt": true,
         "sectionID": "920229",
         "type": "DI",
@@ -245,14 +110,13 @@
         "time": "1:00p-1:50p",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Watkins, Eric",
         "instructors": [
           "Watkins, Eric"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "533d2828662ac325d2d66d7c716c12b56c5a134ed67638f62122b1c6410f6efe": {
         "sectxt": true,
         "sectionID": "920230",
         "type": "DI",
@@ -261,14 +125,13 @@
         "time": "2:00p-2:50p",
         "building": "HSS",
         "room": "2321",
-        "instructor": "Watkins, Eric",
         "instructors": [
           "Watkins, Eric"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "a7fab1cfa6f8b0b548be26034bed6143a544228e7e11143239968c8368dc80fe": {
         "sectxt": true,
         "sectionID": "920231",
         "type": "DI",
@@ -277,17 +140,122 @@
         "time": "3:00p-3:50p",
         "building": "HSS",
         "room": "2321",
-        "instructor": "Watkins, Eric",
         "instructors": [
           "Watkins, Eric"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "Th": {
+      "1fd76e34fb7865fce7ff5adca312ddc805651e55d9a8d5231108d9552d7045e9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "SOLIS",
+        "room": "107",
+        "instructors": [
+          "Zroka, Amy Liane"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "a65538b62755c3d42c9fd5bc640739ce6fec48f1ea8a358ce517821f5a3c332d": {
+        "sectxt": true,
+        "sectionID": "920217",
+        "type": "DI",
+        "section": "A01",
+        "days": "Th",
+        "time": "11:00a-11:50a",
+        "building": "GH",
+        "room": "174",
+        "instructors": [
+          "Zroka, Amy Liane"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "9eda1a5785c6c9f0532dbd579d8e167f784bd4e4d7574a46e7adefb5c846f9aa": {
+        "sectxt": true,
+        "sectionID": "920218",
+        "type": "DI",
+        "section": "A02",
+        "days": "Th",
+        "time": "12:00p-12:50p",
+        "building": "GH",
+        "room": "174",
+        "instructors": [
+          "Zroka, Amy Liane"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "8a3744c7aae5cb90f3f15c5fcbee4424cf2d60de3c88a148fb37ec4a11b09e00": {
+        "sectxt": true,
+        "sectionID": "920219",
+        "type": "DI",
+        "section": "A03",
+        "days": "Th",
+        "time": "2:00p-2:50p",
+        "building": "GH",
+        "room": "174",
+        "instructors": [
+          "Zroka, Amy Liane"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "1fb3dd9ee9e1e97ab54c9573128cebdb3f9708ddb907137b4fabb0d9d25fe102": {
+        "sectxt": true,
+        "sectionID": "920220",
+        "type": "DI",
+        "section": "A04",
+        "days": "Th",
+        "time": "1:00p-1:50p",
+        "building": "GH",
+        "room": "174",
+        "instructors": [
+          "Zroka, Amy Liane"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    },
+    "F": {
+      "2d04899d0dd3cd1354439fee8e90e4932479d4a360c9a67b203a58f1619489a4": {
+        "sectxt": true,
+        "sectionID": "920221",
+        "type": "DI",
+        "section": "A05",
+        "days": "F",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Zroka, Amy Liane"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "ad7e68b6e47a7c00bad1942f8fe227c8e59cb6b2916558d26e0d41239101ceaa": {
+        "sectxt": true,
+        "sectionID": "920222",
+        "type": "DI",
+        "section": "A06",
+        "days": "F",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Zroka, Amy Liane"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "db676cfa4db9f005bd4fc295e9df4adca15ad5bf78ff6727da09101f2f711219": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -296,14 +264,13 @@
         "time": "11:00a-11:50a",
         "building": "CENTR",
         "room": "101",
-        "instructor": "Watkins, Eric",
         "instructors": [
           "Watkins, Eric"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "cfacd8faf3c2e97dc534e452e4a0928df0e324b75433a736850f5cf6b0e7e251": {
         "sectxt": true,
         "sectionID": "920232",
         "type": "DI",
@@ -312,14 +279,13 @@
         "time": "12:00p-12:50p",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Watkins, Eric",
         "instructors": [
           "Watkins, Eric"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "3bce2f10cac746646cb9c95c237c1632e3ae286a37876388105c4ebc109c64b7": {
         "sectxt": true,
         "sectionID": "920233",
         "type": "DI",
@@ -328,14 +294,13 @@
         "time": "1:00p-1:50p",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Watkins, Eric",
         "instructors": [
           "Watkins, Eric"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "ced189ba8ce8fdd0c4e60336e05ac4e134bdd743ab471b412603dd6da0d7a638": {
         "sectxt": true,
         "sectionID": "920234",
         "type": "DI",
@@ -344,14 +309,13 @@
         "time": "9:00a-9:50a",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Watkins, Eric",
         "instructors": [
           "Watkins, Eric"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "aa09b75b25634543d2ad66cb73ef2e4b7fbbc359df72f00d071ec12253330f28": {
         "sectxt": true,
         "sectionID": "920235",
         "type": "DI",
@@ -360,15 +324,16 @@
         "time": "10:00a-10:50a",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Watkins, Eric",
         "instructors": [
           "Watkins, Eric"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

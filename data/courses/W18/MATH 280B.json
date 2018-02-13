@@ -3,42 +3,9 @@
   "name": "Probability Theory II",
   "department": "MATH",
   "id": "280B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927311",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "3:00p-3:50p",
-      "building": "APM",
-      "room": "5402",
-      "instructor": "Zheng, Tianyi",
-      "instructors": [
-        "Zheng, Tianyi"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "d3e7ca5411953dcccc5c91d9770f4fd0e7fdfbfd9e8620023b9839752831fa57": {
         "sectxt": true,
         "sectionID": "927311",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "3:00p-3:50p",
         "building": "APM",
         "room": "5402",
-        "instructor": "Zheng, Tianyi",
         "instructors": [
           "Zheng, Tianyi"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "bb7fa4d6b836c7ec80755f2f86a0abcdb74028e344a0ffb8e46924783282186f": {
         "sectxt": true,
         "sectionID": "927311",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "3:00p-3:50p",
         "building": "APM",
         "room": "5402",
-        "instructor": "Zheng, Tianyi",
         "instructors": [
           "Zheng, Tianyi"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "466b1ebe00c8aee409c228aa2cd9d2c0a4b818e7c63429e2b8aa11f3644958b0": {
         "sectxt": true,
         "sectionID": "927311",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "3:00p-3:50p",
         "building": "APM",
         "room": "5402",
-        "instructor": "Zheng, Tianyi",
         "instructors": [
           "Zheng, Tianyi"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

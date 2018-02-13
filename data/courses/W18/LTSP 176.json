@@ -3,42 +3,9 @@
   "name": "Literature and Nation",
   "department": "LTSP",
   "id": "176",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924373",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "YORK",
-      "room": "3000A",
-      "instructor": "Chacon, Gloria Elizabeth",
-      "instructors": [
-        "Chacon, Gloria Elizabeth"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "9fa87dbf1d976be89bc0f0bdfe4616987754d1418d87a2614d950ee64a1c3ce7": {
         "sectxt": true,
         "sectionID": "924373",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "11:00a-11:50a",
         "building": "YORK",
         "room": "3000A",
-        "instructor": "Chacon, Gloria Elizabeth",
         "instructors": [
           "Chacon, Gloria Elizabeth"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "83ee95422ccc702793a34cd1a0f0e88c0739ef45fca0ec117e29db91faf66b34": {
         "sectxt": true,
         "sectionID": "924373",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "11:00a-11:50a",
         "building": "YORK",
         "room": "3000A",
-        "instructor": "Chacon, Gloria Elizabeth",
         "instructors": [
           "Chacon, Gloria Elizabeth"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "b66c553b19d95d01f96674927eef2c077ca4b90f4efc3190c1310a39039b610a": {
         "sectxt": true,
         "sectionID": "924373",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "11:00a-11:50a",
         "building": "YORK",
         "room": "3000A",
-        "instructor": "Chacon, Gloria Elizabeth",
         "instructors": [
           "Chacon, Gloria Elizabeth"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

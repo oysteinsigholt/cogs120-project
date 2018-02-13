@@ -3,106 +3,9 @@
   "name": "The Mathematics of Finance",
   "department": "MATH",
   "id": "194",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "5:00p-5:50p",
-      "building": "MANDE",
-      "room": "B-210",
-      "instructor": "Aghajani, Mohammadreza",
-      "instructors": [
-        "Aghajani, Mohammadreza"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927268",
-      "type": "DI",
-      "section": "A01",
-      "days": "F",
-      "time": "6:00p-6:50p",
-      "building": "APM",
-      "room": "6402",
-      "instructor": "Aghajani, Mohammadreza",
-      "instructors": [
-        "Aghajani, Mohammadreza"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927269",
-      "type": "DI",
-      "section": "A02",
-      "days": "F",
-      "time": "7:00p-7:50p",
-      "building": "APM",
-      "room": "6402",
-      "instructor": "Aghajani, Mohammadreza",
-      "instructors": [
-        "Aghajani, Mohammadreza"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927270",
-      "type": "DI",
-      "section": "A03",
-      "days": "F",
-      "time": "8:00p-8:50p",
-      "building": "APM",
-      "room": "6402",
-      "instructor": "Aghajani, Mohammadreza",
-      "instructors": [
-        "Aghajani, Mohammadreza"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927271",
-      "type": "DI",
-      "section": "A04",
-      "days": "F",
-      "time": "9:00p-9:50p",
-      "building": "APM",
-      "room": "6402",
-      "instructor": "Aghajani, Mohammadreza",
-      "instructors": [
-        "Aghajani, Mohammadreza"
-      ],
-      "start_time": "21:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -111,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "824ea782fe4efeb521d7af6da8f5918f0ffaccb333ea55915a1698e48a6f7b89": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -130,17 +32,15 @@
         "time": "5:00p-5:50p",
         "building": "MANDE",
         "room": "B-210",
-        "instructor": "Aghajani, Mohammadreza",
         "instructors": [
           "Aghajani, Mohammadreza"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "1f42c20979ba33d43790082347b266b2b822e80aca69452f9d80615f1bc42eb8": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -149,17 +49,15 @@
         "time": "5:00p-5:50p",
         "building": "MANDE",
         "room": "B-210",
-        "instructor": "Aghajani, Mohammadreza",
         "instructors": [
           "Aghajani, Mohammadreza"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "338f9bc0374458fb16a40d8ea5d550e835f75c89fb69c81dfd6d8e06607b5970": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -168,14 +66,13 @@
         "time": "5:00p-5:50p",
         "building": "MANDE",
         "room": "B-210",
-        "instructor": "Aghajani, Mohammadreza",
         "instructors": [
           "Aghajani, Mohammadreza"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "61c1ee264c420293e0e37662ce2c9c41bdcc138b70e89e887d3606fbad24957d": {
         "sectxt": true,
         "sectionID": "927268",
         "type": "DI",
@@ -184,14 +81,13 @@
         "time": "6:00p-6:50p",
         "building": "APM",
         "room": "6402",
-        "instructor": "Aghajani, Mohammadreza",
         "instructors": [
           "Aghajani, Mohammadreza"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "86461e26d398882dcc0c6f5f908ec0df7faff83a1979224bbda68308503e87d0": {
         "sectxt": true,
         "sectionID": "927269",
         "type": "DI",
@@ -200,14 +96,13 @@
         "time": "7:00p-7:50p",
         "building": "APM",
         "room": "6402",
-        "instructor": "Aghajani, Mohammadreza",
         "instructors": [
           "Aghajani, Mohammadreza"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "0e40b90088d7e78e315ab357cd01eaf2b33477983c64a437c74b05c7eda945c9": {
         "sectxt": true,
         "sectionID": "927270",
         "type": "DI",
@@ -216,14 +111,13 @@
         "time": "8:00p-8:50p",
         "building": "APM",
         "room": "6402",
-        "instructor": "Aghajani, Mohammadreza",
         "instructors": [
           "Aghajani, Mohammadreza"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "4e0f1c4c7dfa4e0aef4ec346237fc1ce7598dbd249cfd3c0e74754c6018eabda": {
         "sectxt": true,
         "sectionID": "927271",
         "type": "DI",
@@ -232,15 +126,15 @@
         "time": "9:00p-9:50p",
         "building": "APM",
         "room": "6402",
-        "instructor": "Aghajani, Mohammadreza",
         "instructors": [
           "Aghajani, Mohammadreza"
         ],
         "start_time": "21:00",
         "end_time": "21:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,138 +3,9 @@
   "name": "Intro/Poli Sci:Compar Politics",
   "department": "POLI",
   "id": "11D",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "11:00a-11:50a",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "Ferree, Karen E",
-      "instructors": [
-        "Ferree, Karen E"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925272",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "SOLIS",
-      "room": "111",
-      "instructor": "Ferree, Karen E",
-      "instructors": [
-        "Ferree, Karen E"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925273",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "1:00p-1:50p",
-      "building": "WLH",
-      "room": "2209",
-      "instructor": "Ferree, Karen E",
-      "instructors": [
-        "Ferree, Karen E"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925274",
-      "type": "DI",
-      "section": "A03",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "SOLIS",
-      "room": "111",
-      "instructor": "Ferree, Karen E",
-      "instructors": [
-        "Ferree, Karen E"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925275",
-      "type": "DI",
-      "section": "A04",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "SOLIS",
-      "room": "111",
-      "instructor": "Ferree, Karen E",
-      "instructors": [
-        "Ferree, Karen E"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925276",
-      "type": "DI",
-      "section": "A05",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "SEQUO",
-      "room": "147",
-      "instructor": "Ferree, Karen E",
-      "instructors": [
-        "Ferree, Karen E"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925277",
-      "type": "DI",
-      "section": "A06",
-      "days": "F",
-      "time": "10:00a-10:50a",
-      "building": "SEQUO",
-      "room": "147",
-      "instructor": "Ferree, Karen E",
-      "instructors": [
-        "Ferree, Karen E"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -143,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "8f5cd86a955748c71ed3b0524caeeb63a50a0e72fd21fc5f08d1756339b04ec5": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -162,17 +32,15 @@
         "time": "11:00a-11:50a",
         "building": "WLH",
         "room": "2001",
-        "instructor": "Ferree, Karen E",
         "instructors": [
           "Ferree, Karen E"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "74ea09cb3d01daba039901e3d18030194c0ce47fc0bd239b573a61ed455612f9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -181,14 +49,13 @@
         "time": "11:00a-11:50a",
         "building": "WLH",
         "room": "2001",
-        "instructor": "Ferree, Karen E",
         "instructors": [
           "Ferree, Karen E"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "1c3125be313151b450f835c8b80aee5aceaa372fb78e9c47dc6ea9307dac2ee0": {
         "sectxt": true,
         "sectionID": "925272",
         "type": "DI",
@@ -197,14 +64,13 @@
         "time": "5:00p-5:50p",
         "building": "SOLIS",
         "room": "111",
-        "instructor": "Ferree, Karen E",
         "instructors": [
           "Ferree, Karen E"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "bfb9d0f72781942204e7f28f9bb0ada377b17d10dce5bec7e591defaadece83a": {
         "sectxt": true,
         "sectionID": "925273",
         "type": "DI",
@@ -213,17 +79,15 @@
         "time": "1:00p-1:50p",
         "building": "WLH",
         "room": "2209",
-        "instructor": "Ferree, Karen E",
         "instructors": [
           "Ferree, Karen E"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "06e8b68ff2303d55385031abf9cbda224aef192415db02bbc1ecba2f9896b4b4": {
         "sectxt": true,
         "sectionID": "925274",
         "type": "DI",
@@ -232,14 +96,13 @@
         "time": "2:00p-2:50p",
         "building": "SOLIS",
         "room": "111",
-        "instructor": "Ferree, Karen E",
         "instructors": [
           "Ferree, Karen E"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "f6e49245eed80eb972ac127577899696f1a8296b3ab11814b543701b01ef42c5": {
         "sectxt": true,
         "sectionID": "925275",
         "type": "DI",
@@ -248,14 +111,13 @@
         "time": "3:00p-3:50p",
         "building": "SOLIS",
         "room": "111",
-        "instructor": "Ferree, Karen E",
         "instructors": [
           "Ferree, Karen E"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "0922cc6d263ccac622454ed961a7d40c31c887a5197850fb9e32434b17688188": {
         "sectxt": true,
         "sectionID": "925276",
         "type": "DI",
@@ -264,14 +126,13 @@
         "time": "9:00a-9:50a",
         "building": "SEQUO",
         "room": "147",
-        "instructor": "Ferree, Karen E",
         "instructors": [
           "Ferree, Karen E"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "6cb3ab0af7ab1358e3932473b249c16ba2c56d75af3d1fc5444f3f0a95c151df": {
         "sectxt": true,
         "sectionID": "925277",
         "type": "DI",
@@ -280,15 +141,15 @@
         "time": "10:00a-10:50a",
         "building": "SEQUO",
         "room": "147",
-        "instructor": "Ferree, Karen E",
         "instructors": [
           "Ferree, Karen E"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

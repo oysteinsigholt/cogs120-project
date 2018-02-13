@@ -3,447 +3,9 @@
   "name": "Introduction/Study of Language",
   "department": "LIGN",
   "id": "101",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922274",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "CSB",
-      "room": "001",
-      "instructor": "Caponigro, Ivano",
-      "instructors": [
-        "Caponigro, Ivano"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/17/2018",
-      "days": "W",
-      "time": "12:00p-12:50p",
-      "building": "CENTR",
-      "room": "201",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-17T08:00:00.000Z",
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/17/2018",
-      "days": "W",
-      "time": "1:00p-1:50p",
-      "building": "MANDE",
-      "room": "B-146",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-17T08:00:00.000Z",
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/18/2018",
-      "days": "Th",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2305A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-18T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/24/2018",
-      "days": "W",
-      "time": "12:00p-12:50p",
-      "building": "CENTR",
-      "room": "201",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-24T08:00:00.000Z",
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/24/2018",
-      "days": "W",
-      "time": "1:00p-1:50p",
-      "building": "MANDE",
-      "room": "B-146",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-24T08:00:00.000Z",
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/25/2018",
-      "days": "Th",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2305A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-25T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/31/2018",
-      "days": "W",
-      "time": "12:00p-12:50p",
-      "building": "CENTR",
-      "room": "201",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-31T08:00:00.000Z",
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/31/2018",
-      "days": "W",
-      "time": "1:00p-1:50p",
-      "building": "MANDE",
-      "room": "B-146",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-31T08:00:00.000Z",
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/01/2018",
-      "days": "Th",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2305A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-01T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/07/2018",
-      "days": "W",
-      "time": "12:00p-12:50p",
-      "building": "CENTR",
-      "room": "201",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-07T08:00:00.000Z",
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/07/2018",
-      "days": "W",
-      "time": "1:00p-1:50p",
-      "building": "MANDE",
-      "room": "B-146",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-07T08:00:00.000Z",
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/08/2018",
-      "days": "Th",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2305A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-08T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/14/2018",
-      "days": "W",
-      "time": "12:00p-12:50p",
-      "building": "CENTR",
-      "room": "201",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-14T08:00:00.000Z",
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/14/2018",
-      "days": "W",
-      "time": "1:00p-1:50p",
-      "building": "MANDE",
-      "room": "B-146",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-14T08:00:00.000Z",
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/15/2018",
-      "days": "Th",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2305A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-15T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/21/2018",
-      "days": "W",
-      "time": "12:00p-12:50p",
-      "building": "CENTR",
-      "room": "201",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-21T08:00:00.000Z",
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/21/2018",
-      "days": "W",
-      "time": "1:00p-1:50p",
-      "building": "MANDE",
-      "room": "B-146",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-21T08:00:00.000Z",
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/22/2018",
-      "days": "Th",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2305A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-22T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/28/2018",
-      "days": "W",
-      "time": "12:00p-12:50p",
-      "building": "CENTR",
-      "room": "201",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-28T08:00:00.000Z",
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/28/2018",
-      "days": "W",
-      "time": "1:00p-1:50p",
-      "building": "MANDE",
-      "room": "B-146",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-28T08:00:00.000Z",
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/01/2018",
-      "days": "Th",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2305A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-01T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/07/2018",
-      "days": "W",
-      "time": "12:00p-12:50p",
-      "building": "CENTR",
-      "room": "201",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-07T08:00:00.000Z",
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/07/2018",
-      "days": "W",
-      "time": "1:00p-1:50p",
-      "building": "MANDE",
-      "room": "B-146",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-07T08:00:00.000Z",
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/08/2018",
-      "days": "Th",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2305A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-08T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/14/2018",
-      "days": "W",
-      "time": "12:00p-12:50p",
-      "building": "CENTR",
-      "room": "201",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-14T07:00:00.000Z",
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/14/2018",
-      "days": "W",
-      "time": "1:00p-1:50p",
-      "building": "MANDE",
-      "room": "B-146",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-14T07:00:00.000Z",
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/15/2018",
-      "days": "Th",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2305A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-15T07:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "2a8fb62e13ae72fe9fac28d16622da6476fec9610b33595c8b14fb6ee9796dd5": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -452,13 +14,12 @@
       "time": "12:00p-12:50p",
       "building": "CENTR",
       "room": "201",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-17T08:00:00.000Z",
       "start_time": "12:00",
       "end_time": "12:50"
     },
-    {
+    "503f7aa2c4b9ff9265bc9327244b87106164204ad2bb41d14ca983681c2b9ab7": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -467,13 +28,12 @@
       "time": "1:00p-1:50p",
       "building": "MANDE",
       "room": "B-146",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-17T08:00:00.000Z",
       "start_time": "13:00",
       "end_time": "13:50"
     },
-    {
+    "04eb5209cf219ddf92a0da933aa77895be7517ac8412d2b9f1a4a050ed2dafa5": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -482,13 +42,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "2305A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-18T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "1213377637aeb6b47f3d98bb0b967eaebd6160ad7ddb50e73234dc645ac881a8": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -497,13 +56,12 @@
       "time": "12:00p-12:50p",
       "building": "CENTR",
       "room": "201",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-24T08:00:00.000Z",
       "start_time": "12:00",
       "end_time": "12:50"
     },
-    {
+    "898d9478b01999ea5e536b9122e54233a9b8872073846a0df86d08c5d69809f5": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -512,13 +70,12 @@
       "time": "1:00p-1:50p",
       "building": "MANDE",
       "room": "B-146",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-24T08:00:00.000Z",
       "start_time": "13:00",
       "end_time": "13:50"
     },
-    {
+    "5d61f1081616b89ff8fd7c5ff86f42924c08cba5320fb921ea2a5023224a2f94": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -527,13 +84,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "2305A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-25T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "4249565a4f1e6f56047f52b3487938f6c54e9460dbeb98558fbb0fc05f8536a7": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -542,13 +98,12 @@
       "time": "12:00p-12:50p",
       "building": "CENTR",
       "room": "201",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-31T08:00:00.000Z",
       "start_time": "12:00",
       "end_time": "12:50"
     },
-    {
+    "0feb633bc53713cf45bc1ade5eba920956fc49ffde2add2560ef429b7b5d9ef6": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -557,13 +112,12 @@
       "time": "1:00p-1:50p",
       "building": "MANDE",
       "room": "B-146",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-31T08:00:00.000Z",
       "start_time": "13:00",
       "end_time": "13:50"
     },
-    {
+    "80ffae7a81ffc279bff9e301c3c085ca5a8e3fd7ae098b305399fd68fc629c9d": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -572,13 +126,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "2305A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-01T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "d6b3672413b259721f84a96ce8fca29c44d124b0cae6e962b0da223a4a72d2ba": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -587,13 +140,12 @@
       "time": "12:00p-12:50p",
       "building": "CENTR",
       "room": "201",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-07T08:00:00.000Z",
       "start_time": "12:00",
       "end_time": "12:50"
     },
-    {
+    "7db6fdb786e2319d4ce018870fcb290d668d098e1214af053ac1e615d16621f9": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -602,13 +154,12 @@
       "time": "1:00p-1:50p",
       "building": "MANDE",
       "room": "B-146",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-07T08:00:00.000Z",
       "start_time": "13:00",
       "end_time": "13:50"
     },
-    {
+    "5505683f4517b4eaf751e9d685b8f3cd268ac1adeb9be8301474072fec913210": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -617,13 +168,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "2305A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-08T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "d9c08bdecdacfedb599aafdf1810f18d6303f3c10eea2c48f7df791b6f6af15c": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -632,13 +182,12 @@
       "time": "12:00p-12:50p",
       "building": "CENTR",
       "room": "201",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-14T08:00:00.000Z",
       "start_time": "12:00",
       "end_time": "12:50"
     },
-    {
+    "c9482f44f12b14fe7073cf4f04a1f9d3e0f8e0795490d7a59d982406b2cafec3": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -647,13 +196,12 @@
       "time": "1:00p-1:50p",
       "building": "MANDE",
       "room": "B-146",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-14T08:00:00.000Z",
       "start_time": "13:00",
       "end_time": "13:50"
     },
-    {
+    "655711fabebaaa2df4a3efeb1cfdc472d371015a21e978206a1061d49e2a38f9": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -662,13 +210,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "2305A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-15T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "c991ab2e44b3d8e6696834e93139df2a17a9a0d401cd032b6926833836c1ea42": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -677,13 +224,12 @@
       "time": "12:00p-12:50p",
       "building": "CENTR",
       "room": "201",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-21T08:00:00.000Z",
       "start_time": "12:00",
       "end_time": "12:50"
     },
-    {
+    "a24ea067c864ffca1ea1a431ca87b73ea9cf4e87530381e1d40043993b261737": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -692,13 +238,12 @@
       "time": "1:00p-1:50p",
       "building": "MANDE",
       "room": "B-146",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-21T08:00:00.000Z",
       "start_time": "13:00",
       "end_time": "13:50"
     },
-    {
+    "98b556581d0f87c7d7437dcdef1a024cb7a4e3d4b1d6a9ac6950fba75c021453": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -707,13 +252,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "2305A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-22T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "c17a5f6a70dfab2b12a6fc69ebbee60f7d4cf69c9f006eeb14319bede6ac93ba": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -722,13 +266,12 @@
       "time": "12:00p-12:50p",
       "building": "CENTR",
       "room": "201",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-28T08:00:00.000Z",
       "start_time": "12:00",
       "end_time": "12:50"
     },
-    {
+    "2f3d7ac7b3c132c7dd7922d3c7625f9e510142125593f92e5e8f7646433ec13e": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -737,13 +280,12 @@
       "time": "1:00p-1:50p",
       "building": "MANDE",
       "room": "B-146",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-28T08:00:00.000Z",
       "start_time": "13:00",
       "end_time": "13:50"
     },
-    {
+    "ebae688c8b07f16297608c2bbb7ca1a10cf30eaea95760a317dada2618927889": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -752,13 +294,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "2305A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-01T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "e4f528ffca8c0807f18a63a49eb8f846da040319ad41480f5ea717984fcef8bd": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -767,13 +308,12 @@
       "time": "12:00p-12:50p",
       "building": "CENTR",
       "room": "201",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-07T08:00:00.000Z",
       "start_time": "12:00",
       "end_time": "12:50"
     },
-    {
+    "06107e39b0f0b4581d9926f075bd10202df9e8fa668f95ad71f3ee962568c322": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -782,13 +322,12 @@
       "time": "1:00p-1:50p",
       "building": "MANDE",
       "room": "B-146",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-07T08:00:00.000Z",
       "start_time": "13:00",
       "end_time": "13:50"
     },
-    {
+    "e41e266eab8cab9b18ff6ea2095727262f9362752bfbc8c5b6975b26898918aa": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -797,13 +336,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "2305A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-08T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "49f49bb305120341cd2bb8aeb9d7fa8c37415fc0890ce73344cf964fcd76998e": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -812,13 +350,12 @@
       "time": "12:00p-12:50p",
       "building": "CENTR",
       "room": "201",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-14T07:00:00.000Z",
       "start_time": "12:00",
       "end_time": "12:50"
     },
-    {
+    "4e5b3354a53a911d180867022fe289ed29dcc547dd038f5a6df21fe6708d0192": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -827,13 +364,12 @@
       "time": "1:00p-1:50p",
       "building": "MANDE",
       "room": "B-146",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-14T07:00:00.000Z",
       "start_time": "13:00",
       "end_time": "13:50"
     },
-    {
+    "e396642eb3b60d78cab22b7d3ed1ccb0cdc06d33288161d90206604d306aa741": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -842,13 +378,12 @@
       "time": "2:00p-2:50p",
       "building": "HSS",
       "room": "2305A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-15T07:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -857,18 +392,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "01e0564d16dd90f1b498bc04bd220f1a2971baaf14742a50d2de86ac2aad287e": {
         "sectxt": true,
         "sectionID": "922274",
         "type": "LE",
@@ -877,17 +410,15 @@
         "time": "3:30p-4:50p",
         "building": "CSB",
         "room": "001",
-        "instructor": "Caponigro, Ivano",
         "instructors": [
           "Caponigro, Ivano"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "ef35a45e7cafb1d90649b914b5b35f9f759e8a1a6c94c964aee4723ec0c7b1c9": {
         "sectxt": true,
         "sectionID": "922274",
         "type": "LE",
@@ -896,16 +427,15 @@
         "time": "3:30p-4:50p",
         "building": "CSB",
         "room": "001",
-        "instructor": "Caponigro, Ivano",
         "instructors": [
           "Caponigro, Ivano"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

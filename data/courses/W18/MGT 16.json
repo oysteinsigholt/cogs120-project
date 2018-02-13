@@ -3,42 +3,9 @@
   "name": "Personal Ethics at Work",
   "department": "MGT",
   "id": "16",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929948",
-      "type": "LE",
-      "section": "C00",
-      "days": "MW",
-      "time": "3:30p-4:50p",
-      "building": "WFH",
-      "room": "1W102",
-      "instructor": "Lindenberger, Wade Douglas",
-      "instructors": [
-        "Lindenberger, Wade Douglas"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,44 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
+    },
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "2b577337caf0dbcd1494ea96068227c2f9db4e1a52a140f41248cbd79224b362": {
         "sectxt": true,
         "sectionID": "929948",
         "type": "LE",
@@ -66,17 +60,47 @@
         "time": "3:30p-4:50p",
         "building": "WFH",
         "room": "1W102",
-        "instructor": "Lindenberger, Wade Douglas",
         "instructors": [
           "Lindenberger, Wade Douglas"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "Tu": {
+      "5d0675ef3336ea4320cbb02bb1109763efa9d3cc52cedb8a37656fcef419f9ef": {
+        "sectxt": true,
+        "sectionID": "922567",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "WFH",
+        "room": "1W102",
+        "instructors": [
+          "Campbell, Robert Harold"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "20f68795b7172a8d167c2632fb17765d45c384530ee4eff526c924020f10ee10": {
+        "sectxt": true,
+        "sectionID": "922568",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "WFH",
+        "room": "1W102",
+        "instructors": [
+          "Campbell, Robert Harold"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    },
+    "W": {
+      "5aa450e830c9dd08be34df984c2942fbd9ecc3c7837b50605870906ab094ab01": {
         "sectxt": true,
         "sectionID": "929948",
         "type": "LE",
@@ -85,17 +109,49 @@
         "time": "3:30p-4:50p",
         "building": "WFH",
         "room": "1W102",
-        "instructor": "Lindenberger, Wade Douglas",
         "instructors": [
           "Lindenberger, Wade Douglas"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "Th": {
+      "f573079f29cff34be25985c3d42c8459e8dabb5b7dd81ece3d9c100f24338885": {
+        "sectxt": true,
+        "sectionID": "922567",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "WFH",
+        "room": "1W102",
+        "instructors": [
+          "Campbell, Robert Harold"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "b40f8adde01a71951f8c1a2f324f166a1460ee2fbe3c2e5e57cb1941a9c6945c": {
+        "sectxt": true,
+        "sectionID": "922568",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "WFH",
+        "room": "1W102",
+        "instructors": [
+          "Campbell, Robert Harold"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    }
+  },
+  "sections": [
+    "C",
+    "A",
+    "B"
+  ]
 }

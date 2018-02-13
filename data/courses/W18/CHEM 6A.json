@@ -3,126 +3,188 @@
   "name": "General Chemistry I",
   "department": "CHEM",
   "id": "6A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926273",
-      "type": "DI",
-      "section": "B03",
-      "days": "M",
-      "time": "11:00a-11:50a",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "Tezcan, Faik",
-      "instructors": [
-        "Tezcan, Faik"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926274",
-      "type": "DI",
-      "section": "B04",
-      "days": "M",
-      "time": "1:00p-1:50p",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "Tezcan, Faik",
-      "instructors": [
-        "Tezcan, Faik"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926275",
-      "type": "DI",
-      "section": "B05",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "Tezcan, Faik",
-      "instructors": [
-        "Tezcan, Faik"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926276",
-      "type": "DI",
-      "section": "B06",
-      "days": "W",
-      "time": "8:00a-8:50a",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "Tezcan, Faik",
-      "instructors": [
-        "Tezcan, Faik"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926277",
-      "type": "DI",
-      "section": "B07",
-      "days": "W",
-      "time": "9:00a-9:50a",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "Tezcan, Faik",
-      "instructors": [
-        "Tezcan, Faik"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926278",
-      "type": "DI",
-      "section": "B08",
-      "days": "W",
-      "time": "11:00a-11:50a",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "Tezcan, Faik",
-      "instructors": [
-        "Tezcan, Faik"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926279",
-      "type": "DI",
-      "section": "B09",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "Tezcan, Faik",
-      "instructors": [
-        "Tezcan, Faik"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "d02c3634707a2f0979670600142c2582ade0d2f940e1f9a956f13d91c516532d": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "01/16/2018",
+      "days": "Tu",
+      "time": "7:00p-7:50p",
+      "building": "CENTR",
+      "room": "216",
+      "instructors": [],
+      "date": "2018-01-16T08:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "19:50"
+    },
+    "9eccd365fe59fd36e13a0c0320a74061b33dc5aa08427b980bbda240e8e3a42c": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "01/17/2018",
+      "days": "W",
+      "time": "6:00p-6:50p",
+      "building": "CENTR",
+      "room": "216",
+      "instructors": [],
+      "date": "2018-01-17T08:00:00.000Z",
+      "start_time": "18:00",
+      "end_time": "18:50"
+    },
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "f1cfbdacee158952f75fc0e8af95ad7ae73a51359c09ea54327ceed78b4adf9e": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "01/20/2018",
+      "days": "S",
+      "time": "10:00a-11:50a",
+      "building": "YORK",
+      "room": "2722",
+      "instructors": [],
+      "date": "2018-01-20T08:00:00.000Z",
+      "start_time": "10:00",
+      "end_time": "11:50"
+    },
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "f2ef3aa0528e3f453297cb4d774ed1c2e3d3004562b179114a8cda68ddf589a9": {
+        "sectxt": true,
+        "sectionID": "926260",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2112",
+        "instructors": [
+          "Schimpf, Alina M"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "2c859fc1371808bc0c06adeb6f677d8ccf47eb5de765eaa4192cbf8ff1d0ef65": {
+        "sectxt": true,
+        "sectionID": "926261",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "1:00p-1:50p",
+        "building": "WLH",
+        "room": "2112",
+        "instructors": [
+          "Schimpf, Alina M"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "e7ace89f77dc753bbd6411bc556e2584a3dbac55facb3e3ba8841a778eb83010": {
+        "sectxt": true,
+        "sectionID": "926262",
+        "type": "DI",
+        "section": "A03",
+        "days": "M",
+        "time": "7:00p-7:50p",
+        "building": "WLH",
+        "room": "2112",
+        "instructors": [
+          "Schimpf, Alina M"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "c1e9be314fec143e3644155d63dab0801d6e3cfcf85902700be2f7a0e51a8ba5": {
+        "sectxt": true,
+        "sectionID": "926263",
+        "type": "DI",
+        "section": "A04",
+        "days": "M",
+        "time": "8:00p-8:50p",
+        "building": "WLH",
+        "room": "2112",
+        "instructors": [
+          "Schimpf, Alina M"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "c40f0acf47f29c83ba452349eda6398f7b924699e5ca2284fd59e1af26cb561e": {
+        "sectxt": true,
+        "sectionID": "926264",
+        "type": "DI",
+        "section": "A05",
+        "days": "M",
+        "time": "9:00p-9:50p",
+        "building": "WLH",
+        "room": "2112",
+        "instructors": [
+          "Schimpf, Alina M"
+        ],
+        "start_time": "21:00",
+        "end_time": "21:50"
+      },
+      "dc4b4720104a2b29167eb24ac46a766af3614fb06f6c966f3abff45d6d63a977": {
+        "sectxt": true,
+        "sectionID": "926271",
+        "type": "DI",
+        "section": "B01",
+        "days": "M",
+        "time": "8:00a-8:50a",
+        "building": "MANDE",
+        "room": "B-104",
+        "instructors": [
+          "Tezcan, Faik"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "76a313b7b34ffdeb41679146b7def8d256de668fa5c893e2bb683e235551c5a7": {
+        "sectxt": true,
+        "sectionID": "926272",
+        "type": "DI",
+        "section": "B02",
+        "days": "M",
+        "time": "9:00a-9:50a",
+        "building": "MANDE",
+        "room": "B-104",
+        "instructors": [
+          "Tezcan, Faik"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "9a49895e9178b7e93889d7973480ebdd7db688198a57c87790ebc8dde8efbf4f": {
         "sectxt": true,
         "sectionID": "926273",
         "type": "DI",
@@ -131,14 +193,13 @@
         "time": "11:00a-11:50a",
         "building": "WLH",
         "room": "2114",
-        "instructor": "Tezcan, Faik",
         "instructors": [
           "Tezcan, Faik"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "2d9b8c8a458c351d02be29f58926d71ed6d87df1897b173885a89c4cdccd5645": {
         "sectxt": true,
         "sectionID": "926274",
         "type": "DI",
@@ -147,14 +208,13 @@
         "time": "1:00p-1:50p",
         "building": "WLH",
         "room": "2114",
-        "instructor": "Tezcan, Faik",
         "instructors": [
           "Tezcan, Faik"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "4387199611b7f73585896db31d0f614eeef2be29d69d0cc48d6d561b0485b1f7": {
         "sectxt": true,
         "sectionID": "926275",
         "type": "DI",
@@ -163,17 +223,107 @@
         "time": "4:00p-4:50p",
         "building": "WLH",
         "room": "2114",
-        "instructor": "Tezcan, Faik",
         "instructors": [
           "Tezcan, Faik"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "Tu": {
+      "77a90d7a8864ca19fd9b8963b8c321ba412d20b52100d010e9805af3b2d06f08": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "PETER",
+        "room": "108",
+        "instructors": [
+          "Schimpf, Alina M"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "81a3a22d044af611950a1935d34caa0c78dde03871e2bb09b4e49874d0b1d18a": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "YORK",
+        "room": "2722",
+        "instructors": [
+          "Tezcan, Faik"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    },
+    "W": {
+      "2610e022eedd6b881aa2835875fb85c9d5cf14673bf5d381761a64621dc39812": {
+        "sectxt": true,
+        "sectionID": "926265",
+        "type": "DI",
+        "section": "A06",
+        "days": "W",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2112",
+        "instructors": [
+          "Schimpf, Alina M"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "4934ee92b14bafa939782a03430c4a076e828c163d9eb1a4b0d96cf93b2cc9ed": {
+        "sectxt": true,
+        "sectionID": "926266",
+        "type": "DI",
+        "section": "A07",
+        "days": "W",
+        "time": "7:00p-7:50p",
+        "building": "WLH",
+        "room": "2112",
+        "instructors": [
+          "Schimpf, Alina M"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "c68005ba9123aebb89aee2097695ec57e5ae929a7d81dc644036895a97057293": {
+        "sectxt": true,
+        "sectionID": "926267",
+        "type": "DI",
+        "section": "A08",
+        "days": "W",
+        "time": "8:00p-8:50p",
+        "building": "WLH",
+        "room": "2112",
+        "instructors": [
+          "Schimpf, Alina M"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "9c33f3217204e8b512dc0cb175d36afa23457068a54583accf17145aaacc2b3a": {
+        "sectxt": true,
+        "sectionID": "926268",
+        "type": "DI",
+        "section": "A09",
+        "days": "W",
+        "time": "9:00p-9:50p",
+        "building": "WLH",
+        "room": "2112",
+        "instructors": [
+          "Schimpf, Alina M"
+        ],
+        "start_time": "21:00",
+        "end_time": "21:50"
+      },
+      "b2cba9c9260567c039859b43625878e6788201029e21944324d8c985f43fb011": {
         "sectxt": true,
         "sectionID": "926276",
         "type": "DI",
@@ -182,14 +332,13 @@
         "time": "8:00a-8:50a",
         "building": "WLH",
         "room": "2114",
-        "instructor": "Tezcan, Faik",
         "instructors": [
           "Tezcan, Faik"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "750082aa3c8511450081978fea93498bc7b777b837de8c3ed6539a4764eb9df0": {
         "sectxt": true,
         "sectionID": "926277",
         "type": "DI",
@@ -198,14 +347,13 @@
         "time": "9:00a-9:50a",
         "building": "WLH",
         "room": "2114",
-        "instructor": "Tezcan, Faik",
         "instructors": [
           "Tezcan, Faik"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "b1b8e4cea34eb3c6f1447df6a069ef7103b623a205d7aaf0b0901b6006cbdca7": {
         "sectxt": true,
         "sectionID": "926278",
         "type": "DI",
@@ -214,14 +362,13 @@
         "time": "11:00a-11:50a",
         "building": "WLH",
         "room": "2114",
-        "instructor": "Tezcan, Faik",
         "instructors": [
           "Tezcan, Faik"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "a0cbd725f0bbf9afb39594b74b0e2899bc49efcd524ce7253845b0f3b3b95321": {
         "sectxt": true,
         "sectionID": "926279",
         "type": "DI",
@@ -230,17 +377,65 @@
         "time": "4:00p-4:50p",
         "building": "WLH",
         "room": "2114",
-        "instructor": "Tezcan, Faik",
         "instructors": [
           "Tezcan, Faik"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "Th": {
+      "f8ad585298e7b342895c254554dd0fa501d6feea536e74d6146ebcf55fb31294": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "PETER",
+        "room": "108",
+        "instructors": [
+          "Schimpf, Alina M"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "6ad9337ba6a4f2bae087bcaf77587012bb3622511512a4016bfeb14352c15f53": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "YORK",
+        "room": "2722",
+        "instructors": [
+          "Tezcan, Faik"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    },
+    "F": {
+      "7066a449a89c99920894e573570bccde7bc57b9091fbd2b15204f06d72234177": {
+        "sectxt": true,
+        "sectionID": "926269",
+        "type": "DI",
+        "section": "A10",
+        "days": "F",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2112",
+        "instructors": [
+          "Schimpf, Alina M"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

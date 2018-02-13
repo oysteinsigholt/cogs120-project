@@ -3,42 +3,9 @@
   "name": "ComputerCommunication Networks",
   "department": "CSE",
   "id": "222A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927555",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "9:30a-10:50a",
-      "building": "EBU3B",
-      "room": "2154",
-      "instructor": "Snoeren, Alex C.",
-      "instructors": [
-        "Snoeren, Alex C."
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "795ab1505d241a8836e07ef2582578557291f2734737f6e68f5cbbff5b8aa6de": {
         "sectxt": true,
         "sectionID": "927555",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "9:30a-10:50a",
         "building": "EBU3B",
         "room": "2154",
-        "instructor": "Snoeren, Alex C.",
         "instructors": [
           "Snoeren, Alex C."
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "1412419eedffe3943bdb2ebc41cd72f4a7b10320f6c83024cb0f9f27165e6fdc": {
         "sectxt": true,
         "sectionID": "927555",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "9:30a-10:50a",
         "building": "EBU3B",
         "room": "2154",
-        "instructor": "Snoeren, Alex C.",
         "instructors": [
           "Snoeren, Alex C."
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

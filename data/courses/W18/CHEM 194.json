@@ -3,44 +3,11 @@
   "name": "Special Topics in Chemistry",
   "department": "CHEM",
   "id": "194",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926584",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "6:00p-7:20p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Newsam, John",
-      "instructors": [
-        "Newsam, John"
-      ],
-      "start_time": "18:00",
-      "end_time": "19:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [
     "CHEM 194 meets in York 3010."
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "4014bb1a466c069dc311d33d5ef7495aff7dbbe0834ca64e0d8d595c45fc5253": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -49,17 +16,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "c1fbeb749bc6b594ad4bdb2a1bd8b5eb663ef2852d840ccc30d41119719dd781": {
         "sectxt": true,
         "sectionID": "926584",
         "type": "LE",
@@ -68,19 +34,15 @@
         "time": "6:00p-7:20p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Newsam, John",
         "instructors": [
           "Newsam, John"
         ],
         "start_time": "18:00",
         "end_time": "19:20"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

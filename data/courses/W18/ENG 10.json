@@ -3,33 +3,29 @@
   "name": "Fundamentals/Engineering Appln",
   "department": "ENG",
   "id": "10",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929946",
-      "type": "LE",
-      "section": "B00",
-      "days": "Th",
-      "time": "4:00p-5:50p",
-      "building": "SME",
-      "room": "303",
-      "instructor": "Choi, Seongcheol",
-      "instructors": [
-        "Choi, Seongcheol"
-      ],
-      "start_time": "16:00",
-      "end_time": "17:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Tu": {
+      "054cb9f1a2915317f47dda5710ad39b2df28fd5c53d6a160bbc77dd60e8676a2": {
+        "sectxt": true,
+        "sectionID": "929945",
+        "type": "LE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "4:00p-5:50p",
+        "building": "SME",
+        "room": "303",
+        "instructors": [
+          "Larson, David Philip"
+        ],
+        "start_time": "16:00",
+        "end_time": "17:50"
+      }
+    },
+    "Th": {
+      "dee15b2a186da7475592a219d3bf5d08da2864593fde5eae00f719f6cafdd2b9": {
         "sectxt": true,
         "sectionID": "929946",
         "type": "LE",
@@ -38,16 +34,16 @@
         "time": "4:00p-5:50p",
         "building": "SME",
         "room": "303",
-        "instructor": "Choi, Seongcheol",
         "instructors": [
           "Choi, Seongcheol"
         ],
         "start_time": "16:00",
         "end_time": "17:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

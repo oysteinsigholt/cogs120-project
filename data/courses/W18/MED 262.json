@@ -3,36 +3,14 @@
   "name": "Curr Trends/Biomed Informatics",
   "department": "MED",
   "id": "262",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930451",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "1:00p-2:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Koola, Jejo David",
-      "instructors": [
-        "Koola, Jejo David"
-      ],
-      "start_time": "13:00",
-      "end_time": "14:00"
-    }
-  ],
   "notes": [
     "Location: BRF2, 5A03"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "5f9515c5923c86e615fdc3df191c82e2ab6617788b91b3e5d8835ec2995f923d": {
         "sectxt": true,
         "sectionID": "930451",
         "type": "SE",
@@ -41,15 +19,15 @@
         "time": "1:00p-2:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Koola, Jejo David",
         "instructors": [
           "Koola, Jejo David"
         ],
         "start_time": "13:00",
         "end_time": "14:00"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

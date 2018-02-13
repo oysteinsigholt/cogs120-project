@@ -3,34 +3,12 @@
   "name": "Biophysics Reading",
   "department": "PHYS",
   "id": "256",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923821",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "NSB",
-      "room": "1205",
-      "instructor": "Hwa, Terence T.",
-      "instructors": [
-        "Hwa, Terence T."
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "6ee959773847adbfd525737b2afe3233c4492dd82295619e582595af72a73047": {
         "sectxt": true,
         "sectionID": "923821",
         "type": "SE",
@@ -39,15 +17,15 @@
         "time": "3:00p-3:50p",
         "building": "NSB",
         "room": "1205",
-        "instructor": "Hwa, Terence T.",
         "instructors": [
           "Hwa, Terence T."
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

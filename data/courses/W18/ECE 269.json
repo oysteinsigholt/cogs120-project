@@ -3,42 +3,9 @@
   "name": "Linear Algebra and Application",
   "department": "ECE",
   "id": "269",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930651",
-      "type": "LE",
-      "section": "B00",
-      "days": "MW",
-      "time": "12:30p-1:50p",
-      "building": "EBU1",
-      "room": "2315",
-      "instructor": "Kim, Young-Han",
-      "instructors": [
-        "Kim, Young-Han"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,31 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "159073ce292351dfa7b15a1ea805e2c4110e0689243b6cd420d5443e271729cd": {
+        "sectxt": true,
+        "sectionID": "925175",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "11:00a-12:20p",
+        "building": "EBU1",
+        "room": "2315",
+        "instructors": [
+          "Kim, Young-Han"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "cfada61a8739064e3713ab2129f27cf6cff981721c9a91e069537a05dfc566cd": {
         "sectxt": true,
         "sectionID": "930651",
         "type": "LE",
@@ -66,17 +47,30 @@
         "time": "12:30p-1:50p",
         "building": "EBU1",
         "room": "2315",
-        "instructor": "Kim, Young-Han",
         "instructors": [
           "Kim, Young-Han"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "454ca9ffa11a4413e02a39fc5ddf006457c05617b0340d971b422e38ba823fb5": {
+        "sectxt": true,
+        "sectionID": "925175",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "11:00a-12:20p",
+        "building": "EBU1",
+        "room": "2315",
+        "instructors": [
+          "Kim, Young-Han"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "03b3fbb8c060e026ec727e9ac14ee8c449409d2e02260961673a0710711375b9": {
         "sectxt": true,
         "sectionID": "930651",
         "type": "LE",
@@ -85,17 +79,16 @@
         "time": "12:30p-1:50p",
         "building": "EBU1",
         "room": "2315",
-        "instructor": "Kim, Young-Han",
         "instructors": [
           "Kim, Young-Han"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

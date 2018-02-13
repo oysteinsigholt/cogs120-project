@@ -3,42 +3,9 @@
   "name": "Introduction to Philosophy",
   "department": "PHIL",
   "id": "1",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924770",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "5:00p-6:30p",
-      "building": "HSS",
-      "room": "1128A",
-      "instructor": "Grush, Rick Scott",
-      "instructors": [
-        "Grush, Rick Scott"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "ce41a70029d07d933feb6165b797ebaf14cfd1126a7cd060e13d4000e20652fe": {
         "sectxt": true,
         "sectionID": "924770",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "5:00p-6:30p",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Grush, Rick Scott",
         "instructors": [
           "Grush, Rick Scott"
         ],
         "start_time": "17:00",
         "end_time": "18:30"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "f2e76399d2144786312ca095803d8adfbf638ca078b9dd7d797f2f35f73769e1": {
         "sectxt": true,
         "sectionID": "924770",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "5:00p-6:30p",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Grush, Rick Scott",
         "instructors": [
           "Grush, Rick Scott"
         ],
         "start_time": "17:00",
         "end_time": "18:30"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

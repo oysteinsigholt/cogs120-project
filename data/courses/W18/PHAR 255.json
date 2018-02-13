@@ -3,44 +3,9 @@
   "name": "Moleculr/Drug &Disease Therapy",
   "department": "PHAR",
   "id": "255",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930036",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "10:00a-11:50a",
-      "building": "CMME",
-      "room": "2047",
-      "instructor": "Handel, Tracy & Gutkind, Jorge Silvio & Vallon, Volker",
-      "instructors": [
-        "Handel, Tracy",
-        "Gutkind, Jorge Silvio",
-        "Vallon, Volker"
-      ],
-      "start_time": "10:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/24/2018",
-      "days": "S",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-24T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "f8deb8d2643452512be3ecea3a7db863ad4dd27c103a0a86e61a5560ea304914": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -49,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-24T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "ec2d5f239bc2b927b86a5924a7d80a1d9e88e46915a5c48f656429f9ed1e509b": {
         "sectxt": true,
         "sectionID": "930036",
         "type": "LE",
@@ -69,19 +32,15 @@
         "time": "10:00a-11:50a",
         "building": "CMME",
         "room": "2047",
-        "instructor": "Handel, Tracy & Gutkind, Jorge Silvio & Vallon, Volker",
         "instructors": [
-          "Handel, Tracy",
-          "Gutkind, Jorge Silvio",
-          "Vallon, Volker"
+          "Handel, Tracy                      \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGutkind, Jorge Silvio              \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVallon, Volker"
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "6d08386023fd64b6eb835b41c437703e19b9d2a4fa34ae5aebebd7147d57d191": {
         "sectxt": true,
         "sectionID": "930036",
         "type": "LE",
@@ -90,18 +49,15 @@
         "time": "10:00a-11:50a",
         "building": "CMME",
         "room": "2047",
-        "instructor": "Handel, Tracy & Gutkind, Jorge Silvio & Vallon, Volker",
         "instructors": [
-          "Handel, Tracy",
-          "Gutkind, Jorge Silvio",
-          "Vallon, Volker"
+          "Handel, Tracy                      \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGutkind, Jorge Silvio              \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVallon, Volker"
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

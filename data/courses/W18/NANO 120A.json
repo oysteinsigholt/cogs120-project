@@ -3,47 +3,42 @@
   "name": "NanoEng Systems Design I",
   "department": "NANO",
   "id": "120A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "WLH",
-      "room": "2207",
-      "instructor": "Sirbuly, Donald",
-      "instructors": [
-        "Sirbuly, Donald"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926742",
-      "type": "LA",
-      "section": "B01",
-      "days": "TuTh",
-      "time": "11:00a-1:50p",
-      "building": "SME",
-      "room": "118",
-      "instructor": "Sirbuly, Donald",
-      "instructors": [
-        "Sirbuly, Donald"
-      ],
-      "start_time": "11:00",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "8987b7af87d847c623f8d9e86e86f1d582c28de0cd3bc163ae563b429ae225f9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "SEQUO",
+        "room": "148",
+        "instructors": [
+          "Chen, Yi"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "abf4b8ecfc8e42991ec69d1c488fbdf39bdda93e5b84f3620489a6ec4da9cb0e": {
+        "sectxt": true,
+        "sectionID": "926740",
+        "type": "LA",
+        "section": "A01",
+        "days": "TuTh",
+        "time": "3:30p-6:20p",
+        "building": "SME",
+        "room": "118",
+        "instructors": [
+          "Chen, Yi"
+        ],
+        "start_time": "15:30",
+        "end_time": "18:20"
+      },
+      "81a3a22d044af611950a1935d34caa0c78dde03871e2bb09b4e49874d0b1d18a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -52,14 +47,13 @@
         "time": "9:30a-10:50a",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Sirbuly, Donald",
         "instructors": [
           "Sirbuly, Donald"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       },
-      {
+      "2ef4cec2b7660646bf67982dd8d9f87ffbb99eb747254fed345129424f68b65d": {
         "sectxt": true,
         "sectionID": "926742",
         "type": "LA",
@@ -68,17 +62,45 @@
         "time": "11:00a-1:50p",
         "building": "SME",
         "room": "118",
-        "instructor": "Sirbuly, Donald",
         "instructors": [
           "Sirbuly, Donald"
         ],
         "start_time": "11:00",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "126816888d61f914f97a4cf223b36ae2f29f5df8aa68f3942a0e9370bddbed90": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "SEQUO",
+        "room": "148",
+        "instructors": [
+          "Chen, Yi"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "ce83852a20a57054dc922dbe024d9077cbb2823bf55f7bea80402ed27d3d3ab1": {
+        "sectxt": true,
+        "sectionID": "926740",
+        "type": "LA",
+        "section": "A01",
+        "days": "TuTh",
+        "time": "3:30p-6:20p",
+        "building": "SME",
+        "room": "118",
+        "instructors": [
+          "Chen, Yi"
+        ],
+        "start_time": "15:30",
+        "end_time": "18:20"
+      },
+      "6ad9337ba6a4f2bae087bcaf77587012bb3622511512a4016bfeb14352c15f53": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -87,14 +109,13 @@
         "time": "9:30a-10:50a",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Sirbuly, Donald",
         "instructors": [
           "Sirbuly, Donald"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       },
-      {
+      "e338a839441af839c0324dabe9340b1111857d918b6fbd623c44f3c56c929794": {
         "sectxt": true,
         "sectionID": "926742",
         "type": "LA",
@@ -103,16 +124,16 @@
         "time": "11:00a-1:50p",
         "building": "SME",
         "room": "118",
-        "instructor": "Sirbuly, Donald",
         "instructors": [
           "Sirbuly, Donald"
         ],
         "start_time": "11:00",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

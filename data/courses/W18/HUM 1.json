@@ -3,344 +3,54 @@
   "name": "Foundatns/West Civ:Israel&Grce",
   "department": "HUM",
   "id": "1",
-  "timeslots": [
-    {
-      "sectxt": true,
+  "notes": [
+    "Do not waitlist. Pre-authorization required to enroll\n in this section. We will contact you if you are pre-\n authorized. Please enroll in another open HUM 1 section",
+    "Do not waitlist. Pre-authorization required to enroll\n in this section. We will contact you if you are pre-\n authorized. Please enroll in another open HUM 1 section"
+  ],
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
+      "sectxt": false,
       "sectionID": "",
-      "type": "LE",
-      "section": "D00",
-      "days": "MWF",
-      "time": "12:00p-12:50p",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
     },
-    {
-      "sectxt": true,
-      "sectionID": "920194",
-      "type": "DI",
-      "section": "D01",
-      "days": "WF",
-      "time": "8:00a-8:50a",
-      "building": "CENTR",
-      "room": "204",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ],
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
-      "end_time": "8:50"
+      "end_time": "10:59"
     },
-    {
-      "sectxt": true,
-      "sectionID": "920195",
-      "type": "DI",
-      "section": "D02",
-      "days": "WF",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "204",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
     },
-    {
-      "sectxt": true,
-      "sectionID": "920196",
-      "type": "DI",
-      "section": "D03",
-      "days": "WF",
-      "time": "9:00a-9:50a",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920197",
-      "type": "DI",
-      "section": "D04",
-      "days": "WF",
-      "time": "10:00a-10:50a",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920198",
-      "type": "DI",
-      "section": "D05",
-      "days": "WF",
-      "time": "10:00a-10:50a",
-      "building": "GH",
-      "room": "174",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920199",
-      "type": "DI",
-      "section": "D06",
-      "days": "WF",
-      "time": "9:00a-9:50a",
-      "building": "GH",
-      "room": "174",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920200",
-      "type": "DI",
-      "section": "D07",
-      "days": "WF",
-      "time": "11:00a-11:50a",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920201",
-      "type": "DI",
-      "section": "D08",
-      "days": "WF",
-      "time": "1:00p-1:50p",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920202",
-      "type": "DI",
-      "section": "D09",
-      "days": "WF",
-      "time": "1:00p-1:50p",
-      "building": "YORK",
-      "room": "3050B",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920203",
-      "type": "DI",
-      "section": "D10",
-      "days": "WF",
-      "time": "2:00p-2:50p",
-      "building": "YORK",
-      "room": "3050B",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920204",
-      "type": "DI",
-      "section": "D11",
-      "days": "WF",
-      "time": "10:00a-10:50a",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920205",
-      "type": "DI",
-      "section": "D12",
-      "days": "WF",
-      "time": "11:00a-11:50a",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920206",
-      "type": "DI",
-      "section": "D13",
-      "days": "WF",
-      "time": "1:00p-1:50p",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920207",
-      "type": "DI",
-      "section": "D14",
-      "days": "WF",
-      "time": "2:00p-2:50p",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920208",
-      "type": "DI",
-      "section": "D15",
-      "days": "TuTh",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "204",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920209",
-      "type": "DI",
-      "section": "D16",
-      "days": "TuTh",
-      "time": "10:00a-10:50a",
-      "building": "CENTR",
-      "room": "204",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920210",
-      "type": "DI",
-      "section": "D17",
-      "days": "TuTh",
-      "time": "11:00a-11:50a",
-      "building": "CENTR",
-      "room": "204",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920211",
-      "type": "DI",
-      "section": "D18",
-      "days": "TuTh",
-      "time": "12:00p-12:50p",
-      "building": "CENTR",
-      "room": "204",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920212",
-      "type": "DI",
-      "section": "D19",
-      "days": "TuTh",
-      "time": "12:00p-12:50p",
-      "building": "MANDE",
-      "room": "B-146",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920213",
-      "type": "DI",
-      "section": "D20",
-      "days": "TuTh",
-      "time": "1:00p-1:50p",
-      "building": "MANDE",
-      "room": "B-146",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -349,35 +59,31 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
-  "notes": [],
-  "events_single": [
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "72ac370e0955fe955311014007158cbda925595ae1c9e7b223e5a659fa5e61e4": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "PETER",
+        "room": "110",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "4e775e54b05269c64959b8c4c2fdcd5fa3ffb4f5e0f788b0a853f0a375d10eb4": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -386,16 +92,345 @@
         "time": "12:00p-12:50p",
         "building": "WLH",
         "room": "2001",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "d76bcf043f1041aeae848254fedd3b9af18897231d4c3398c9af555ce5e62306": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "PCYNH",
+        "room": "109",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "1d7a3588cfc0924af335930897b4f90744fd4a371d33334e02aa55c234c8edd0": {
+        "sectxt": true,
+        "sectionID": "920147",
+        "type": "DI",
+        "section": "A01",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "22ff5d32a509d261ffb1dd39c379db0cafb4dea5279f54f019b71ebeb1832386": {
+        "sectxt": true,
+        "sectionID": "920148",
+        "type": "DI",
+        "section": "A02",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "5039ca82941b8a5798e26baec88455dda113485d8532e76b8e95fdb6f083233e": {
+        "sectxt": true,
+        "sectionID": "920149",
+        "type": "DI",
+        "section": "A03",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "3d428dc658095e0c9dd5240ad11b4186c458aff1af6bd893901845e855abae74": {
+        "sectxt": true,
+        "sectionID": "920150",
+        "type": "DI",
+        "section": "A04",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "7166f223c22f7838fabd506805d420c48c0e8a5eb65d8478f97162d52ef47594": {
+        "sectxt": true,
+        "sectionID": "920151",
+        "type": "DI",
+        "section": "A05",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "d32017a1105ed3516beccdb0fa76409b9bb426a29a3370077e319f9e1882f47a": {
+        "sectxt": true,
+        "sectionID": "920152",
+        "type": "DI",
+        "section": "A06",
+        "days": "TuTh",
+        "time": "4:00p-4:50p",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "e2e4ce9fb86ece95895f5cf9668161edc0e23fa9b518d63a188460c5b2f33695": {
+        "sectxt": true,
+        "sectionID": "920172",
+        "type": "DI",
+        "section": "B13",
+        "days": "TuTh",
+        "time": "9:00a-9:50a",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "7a24e054317414fc4e571d5610891c27ef478945e6f5dcd0ac9718d5f587dcec": {
+        "sectxt": true,
+        "sectionID": "920173",
+        "type": "DI",
+        "section": "B14",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "ddc3b5b01e88e465e766c1c8cae6a618b9e13eebd89f5e767cc171588d089aa8": {
+        "sectxt": true,
+        "sectionID": "920174",
+        "type": "DI",
+        "section": "B15",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "0b45fef35c84f9ebc85059668356802d4862aaee856ca562bc2ab5a374615bd5": {
+        "sectxt": true,
+        "sectionID": "920175",
+        "type": "DI",
+        "section": "B16",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "e16edd5f843d14733dd950872ca91c7ccd448c0eeff264edcee6c79bd5114dde": {
+        "sectxt": true,
+        "sectionID": "920176",
+        "type": "DI",
+        "section": "B17",
+        "days": "TuTh",
+        "time": "12:00p-12:50p",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "332f6271c6c8831e22089ab13718a3bb6976e073350390e78ab4ba136127136c": {
+        "sectxt": true,
+        "sectionID": "920177",
+        "type": "DI",
+        "section": "B18",
+        "days": "TuTh",
+        "time": "9:00a-9:50a",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "1dd1ec886d5a085c6f501d1565ca05bb7566bcd77d42764e4896eb93957f3928": {
+        "sectxt": true,
+        "sectionID": "920178",
+        "type": "DI",
+        "section": "B19",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "MANDE",
+        "room": "B-152",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "e2114ea9706b0b89f8a9647446733859b2b1bc336787f3b5e3295d43fc960e9e": {
+        "sectxt": true,
+        "sectionID": "920179",
+        "type": "DI",
+        "section": "B20",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "MANDE",
+        "room": "B-152",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "fe821aab338ac01fb110301ba0d89370bd1bfcc54bf4729eab74248390226f50": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "PCYNH",
+        "room": "109",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "094b5f75751cfefb0e13d9692bcfbe9c2fc1d114d34aae148cda37f6538d1a19": {
+        "sectxt": true,
+        "sectionID": "920181",
+        "type": "DI",
+        "section": "C01",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "YORK",
+        "room": "4050B",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "f512e448fed40abff8854daafb9625ef5c05da9d0b5dc8d8aab873bfd5d121a8": {
+        "sectxt": true,
+        "sectionID": "920182",
+        "type": "DI",
+        "section": "C02",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "YORK",
+        "room": "4050B",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "cc3aa92a0b1ce57427b7f9b44127d6bb00105f1adaf819a4f6785b79385e9d0e": {
+        "sectxt": true,
+        "sectionID": "920183",
+        "type": "DI",
+        "section": "C03",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "a695f9b0041996a5e01a623324649a5c6f7c54aa0d8c73ba4c44811b270a5288": {
+        "sectxt": true,
+        "sectionID": "920184",
+        "type": "DI",
+        "section": "C04",
+        "days": "TuTh",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "bf697ebc22cfe28dca62d78d2f0a1b327ed4fa48ff117d30e8c993cae3b43ddb": {
+        "sectxt": true,
+        "sectionID": "920185",
+        "type": "DI",
+        "section": "C05",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "GH",
+        "room": "174",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "73fd7c944d14aa4eaef852b8ba99877752416a140e86e944b7391520dbb04633": {
+        "sectxt": true,
+        "sectionID": "920186",
+        "type": "DI",
+        "section": "C06",
+        "days": "TuTh",
+        "time": "4:00p-4:50p",
+        "building": "GH",
+        "room": "174",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "653e4f68c5607e339a40c5b44c92e116c53161a7f8782e585715b3c26d66f361": {
         "sectxt": true,
         "sectionID": "920208",
         "type": "DI",
@@ -404,14 +439,13 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "204",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "d40754f284ca3b82a8b71f0c7b9e06312bea7a0d3daec28d9dce71c2b7d7bf9c": {
         "sectxt": true,
         "sectionID": "920209",
         "type": "DI",
@@ -420,14 +454,13 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "204",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "d1a0a9ce624a1e1407cafcd5f6bb69677e085566974bd0eecac381044b584a6d": {
         "sectxt": true,
         "sectionID": "920210",
         "type": "DI",
@@ -436,14 +469,13 @@
         "time": "11:00a-11:50a",
         "building": "CENTR",
         "room": "204",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "703c0dca8fb9768af61997bc8f1fe2c8187d7c39cc712f5b1380eb88fef410db": {
         "sectxt": true,
         "sectionID": "920211",
         "type": "DI",
@@ -452,14 +484,13 @@
         "time": "12:00p-12:50p",
         "building": "CENTR",
         "room": "204",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "4090043720737336cfadd69c23cdb84ee7b025a862dedcf364e5bc620fbf4db3": {
         "sectxt": true,
         "sectionID": "920212",
         "type": "DI",
@@ -468,14 +499,13 @@
         "time": "12:00p-12:50p",
         "building": "MANDE",
         "room": "B-146",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "402c68be90a026365d95514c077687a879f0f9758e01f4a5f867b1e5c6098496": {
         "sectxt": true,
         "sectionID": "920213",
         "type": "DI",
@@ -484,16 +514,360 @@
         "time": "1:00p-1:50p",
         "building": "MANDE",
         "room": "B-146",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "66ea17d1662ff019c8e65b044863788656a9988f77edc7408e37e23a48027b90": {
+        "sectxt": true,
+        "sectionID": "920153",
+        "type": "DI",
+        "section": "A07",
+        "days": "WF",
+        "time": "10:00a-10:50a",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "0b077b9e0993537dbe0c811047d6d5824d2cc4d9b198b25d99c8652227b85a28": {
+        "sectxt": true,
+        "sectionID": "920154",
+        "type": "DI",
+        "section": "A08",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "8f130ff218a4247cdf69d990effee4e4f35fe45de6fa8c07a82586ea6ea69b3c": {
+        "sectxt": true,
+        "sectionID": "920155",
+        "type": "DI",
+        "section": "A09",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "YORK",
+        "room": "4050B",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "ee1ea3f42311955d95f8ff33cf6afc01f4bda010a1ec828c42fba94f0784875e": {
+        "sectxt": true,
+        "sectionID": "920156",
+        "type": "DI",
+        "section": "A10",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "733b13bd9eacee06cd2c519cc2f59f0e259009f4d0a45d9d8362542b9cdd6c1b": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "PETER",
+        "room": "110",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "0cb5deae9c6cbaeace91477ed96034cda010add786642979148ed7ee56e765d1": {
+        "sectxt": true,
+        "sectionID": "920160",
+        "type": "DI",
+        "section": "B01",
+        "days": "WF",
+        "time": "8:00a-8:50a",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "d14ab4551a72b78fdaa1c1d403c8ae5e25ae9b1a1f80fdf6096c59dac4682bf2": {
+        "sectxt": true,
+        "sectionID": "920161",
+        "type": "DI",
+        "section": "B02",
+        "days": "WF",
+        "time": "9:00a-9:50a",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "db7b115de4cf4670668bd43f3e35141a693942d9eecb6a4e52af4c6d6d7cabc8": {
+        "sectxt": true,
+        "sectionID": "920162",
+        "type": "DI",
+        "section": "B03",
+        "days": "WF",
+        "time": "9:00a-9:50a",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "1340fa8f05c886075affa84997b02d1e7ddcbd3f3cb0bde9ef8be3465769486e": {
+        "sectxt": true,
+        "sectionID": "920163",
+        "type": "DI",
+        "section": "B04",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "5eb801d16064e23151730951c91b54307f779d8a357140057f4dc18eaf9b802e": {
+        "sectxt": true,
+        "sectionID": "920164",
+        "type": "DI",
+        "section": "B05",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "HSS",
+        "room": "1315",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "166aa48a6d0e23b3c7eb0ef39e3c870c9e1d3a7647cdacb78602b0560f59fc5f": {
+        "sectxt": true,
+        "sectionID": "920165",
+        "type": "DI",
+        "section": "B06",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "HSS",
+        "room": "1315",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "b6a2c1caf6091a14c9fede6838a8b493855f442a2159cdba5af66812173b54ea": {
+        "sectxt": true,
+        "sectionID": "920166",
+        "type": "DI",
+        "section": "B07",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "122a3d0de961694d0c3931c8610eb9b9e8db4d9731db89d53aaf3ac2788af418": {
+        "sectxt": true,
+        "sectionID": "920167",
+        "type": "DI",
+        "section": "B08",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "e68be06638bc33e70ecd0be8b4b0f1aa746b80c79ae9c4d1bb057e13cb49a582": {
+        "sectxt": true,
+        "sectionID": "920168",
+        "type": "DI",
+        "section": "B09",
+        "days": "WF",
+        "time": "1:00p-1:50p",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "d79a2165f8d9d423a991296f1bfde15e0e986a900e4299857e44c8ff32af2e9d": {
+        "sectxt": true,
+        "sectionID": "920169",
+        "type": "DI",
+        "section": "B10",
+        "days": "WF",
+        "time": "2:00p-2:50p",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "7e0f76fca5879461b2c3333da86dd31e1422540a28e1739f9b6d39ed5263f93e": {
+        "sectxt": true,
+        "sectionID": "920170",
+        "type": "DI",
+        "section": "B11",
+        "days": "WF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "201",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "f7349c314f8b4fbce96eb9e14072338be9943f97ffbc8489437cf7c088036cec": {
+        "sectxt": true,
+        "sectionID": "920171",
+        "type": "DI",
+        "section": "B12",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "0083cf5d57555d89f0ce454239b487af7c842078ca2659b5bef1ce8aaed6e195": {
+        "sectxt": true,
+        "sectionID": "920187",
+        "type": "DI",
+        "section": "C07",
+        "days": "WF",
+        "time": "10:00a-10:50a",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "cbd74024eb2e3c6ad9a1e92a2f9f7e8a8a9184d1dae0726348d5c7e9779c9b06": {
+        "sectxt": true,
+        "sectionID": "920188",
+        "type": "DI",
+        "section": "C08",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "f02e2be78cbb7b2bcaaf4a62c2b7bff63dbf5b60fa9a424537e79032e820246d": {
+        "sectxt": true,
+        "sectionID": "920189",
+        "type": "DI",
+        "section": "C09",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "206",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "47c38c82e138fdaaac32101de8562b982f3e4b291971c90ff9e75718e7d68569": {
+        "sectxt": true,
+        "sectionID": "920190",
+        "type": "DI",
+        "section": "C10",
+        "days": "WF",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "206",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "eb5764651d7c9b04f83f1d3b7f829e7755b35f4eed57099a5e01e937b037115d": {
+        "sectxt": true,
+        "sectionID": "920191",
+        "type": "DI",
+        "section": "C11",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "GH",
+        "room": "174",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "cf32c61bef70669ae2587f259bb83c44c8b880de891ef464c8f23e71d5825ec8": {
+        "sectxt": true,
+        "sectionID": "920192",
+        "type": "DI",
+        "section": "C12",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "GH",
+        "room": "174",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "e772e64c8b8bb8526d37baa09a139bb386ad64c7681dea3fc0edb651ce7aa0f3": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -502,14 +876,13 @@
         "time": "12:00p-12:50p",
         "building": "WLH",
         "room": "2001",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "2d3746edea43095c5937bcf1929936667e077f79b83529926944d4ac5fd72af5": {
         "sectxt": true,
         "sectionID": "920194",
         "type": "DI",
@@ -518,14 +891,13 @@
         "time": "8:00a-8:50a",
         "building": "CENTR",
         "room": "204",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "49cac2ab052407838b370806697c496ade752ec102ec2a9e91c53dd25425415e": {
         "sectxt": true,
         "sectionID": "920195",
         "type": "DI",
@@ -534,14 +906,13 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "204",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "878df034b43e09d6b44b3fe7ae73ab1aa01957c8d5b7674e16897cb3e37d69ae": {
         "sectxt": true,
         "sectionID": "920196",
         "type": "DI",
@@ -550,14 +921,13 @@
         "time": "9:00a-9:50a",
         "building": "HSS",
         "room": "2150",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "4fd04b89bd515dbba71e2eb3d2bf241915fee0bc03fd1b2035a39686bfeebbf9": {
         "sectxt": true,
         "sectionID": "920197",
         "type": "DI",
@@ -566,14 +936,13 @@
         "time": "10:00a-10:50a",
         "building": "HSS",
         "room": "2150",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "aa9d9a2c0052e83070dc69393dbe9899af1b219ec24be33ad406176062b99654": {
         "sectxt": true,
         "sectionID": "920198",
         "type": "DI",
@@ -582,14 +951,13 @@
         "time": "10:00a-10:50a",
         "building": "GH",
         "room": "174",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "9604698cf223798a4b2710f3deb43e8d45add35be34d9500401e295cea0c0dc3": {
         "sectxt": true,
         "sectionID": "920199",
         "type": "DI",
@@ -598,14 +966,13 @@
         "time": "9:00a-9:50a",
         "building": "GH",
         "room": "174",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "df655a5d7fcdbe0846cb5368c532634bb9faa25a438d32752e00d744afa456fa": {
         "sectxt": true,
         "sectionID": "920200",
         "type": "DI",
@@ -614,14 +981,13 @@
         "time": "11:00a-11:50a",
         "building": "HSS",
         "room": "2150",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "1fb675a3d6c4f434807c1581abbbb948c8305da5cd912262c5aedd8ef7186c54": {
         "sectxt": true,
         "sectionID": "920201",
         "type": "DI",
@@ -630,14 +996,13 @@
         "time": "1:00p-1:50p",
         "building": "HSS",
         "room": "2150",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "98c944608a1c0373addfdf251c4d5c52739786e585888080cda3ea812e007c09": {
         "sectxt": true,
         "sectionID": "920202",
         "type": "DI",
@@ -646,14 +1011,13 @@
         "time": "1:00p-1:50p",
         "building": "YORK",
         "room": "3050B",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "f3c036b5b18d5caead1cfa8c7fc762b07ce6f8eb92ab4ec8dea0dfb7254eee66": {
         "sectxt": true,
         "sectionID": "920203",
         "type": "DI",
@@ -662,14 +1026,13 @@
         "time": "2:00p-2:50p",
         "building": "YORK",
         "room": "3050B",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "976b0067e7f251604ef6ab6fb3777390be8d370d5db11e5a588d5fab277808da": {
         "sectxt": true,
         "sectionID": "920204",
         "type": "DI",
@@ -678,14 +1041,13 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "3eb62ce9571d8ad68ace65a8094c0b46869890ebe2e1da4b70fcc99476c876a5": {
         "sectxt": true,
         "sectionID": "920205",
         "type": "DI",
@@ -694,14 +1056,13 @@
         "time": "11:00a-11:50a",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "051927da81acd2b8d59d3852081af42e36b4721bb09d5598095c9f3aee9bc2c6": {
         "sectxt": true,
         "sectionID": "920206",
         "type": "DI",
@@ -710,14 +1071,13 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "40fb7222f896f6ce5b87b2b2d11a74fb77c8a25db3f2af02095743cdb673e297": {
         "sectxt": true,
         "sectionID": "920207",
         "type": "DI",
@@ -726,16 +1086,345 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "055dab9e4efb54208a1d7f8ffd64e8d079ba2cc9fe681a6ccf684c385c6a7818": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "PCYNH",
+        "room": "109",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "80b60143d58c4b1bb1a36937f0f5dd5d8f4ffee5a2425ced2942e9f1d074001f": {
+        "sectxt": true,
+        "sectionID": "920147",
+        "type": "DI",
+        "section": "A01",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "a43336d7ad4c1498b42ccbac0d51eeea806f7b60cf4a9237dd3068d7d9395230": {
+        "sectxt": true,
+        "sectionID": "920148",
+        "type": "DI",
+        "section": "A02",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "53cf98cbcb94517136cb8cb44d54a78ca917e68034dddd191ceb258445d0a103": {
+        "sectxt": true,
+        "sectionID": "920149",
+        "type": "DI",
+        "section": "A03",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "2f33c6b3aefd15f2fa9ff7edd24b249ffc94fc4223a257222d1afc9d22aaee30": {
+        "sectxt": true,
+        "sectionID": "920150",
+        "type": "DI",
+        "section": "A04",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "62f8bbcd6d01509f47a567301ef176ff639bd0eb723e9bdffef36748509fcc90": {
+        "sectxt": true,
+        "sectionID": "920151",
+        "type": "DI",
+        "section": "A05",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "4793f2f504b62f31382c385aeb21afccca7608679c4809350935a81b81e8698c": {
+        "sectxt": true,
+        "sectionID": "920152",
+        "type": "DI",
+        "section": "A06",
+        "days": "TuTh",
+        "time": "4:00p-4:50p",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "ec36bc27aaa3e5e99a1088bee955457eaa4740b6fdf1dac685173993d5035b40": {
+        "sectxt": true,
+        "sectionID": "920172",
+        "type": "DI",
+        "section": "B13",
+        "days": "TuTh",
+        "time": "9:00a-9:50a",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "1d78e440ef773fa9d9d65a5e46da3979fd179fd79368939e97dfcb6c830589eb": {
+        "sectxt": true,
+        "sectionID": "920173",
+        "type": "DI",
+        "section": "B14",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "3e229c2265114e4548f94a39d920032336a9d4ccfacfe2b0884a40e93abe448c": {
+        "sectxt": true,
+        "sectionID": "920174",
+        "type": "DI",
+        "section": "B15",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "a13d9f9a1dbcdeb6445e93a5176756f1ef6c395cab0d769d0e967afb1084c3e3": {
+        "sectxt": true,
+        "sectionID": "920175",
+        "type": "DI",
+        "section": "B16",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "725abc32812d2a28effed96d502b42cc1c0e630cdaa680e83369367aec5448a5": {
+        "sectxt": true,
+        "sectionID": "920176",
+        "type": "DI",
+        "section": "B17",
+        "days": "TuTh",
+        "time": "12:00p-12:50p",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "a9da5f9ba8bfa6558036af2094772cd39bea87d1fd228928edfe357e0118125b": {
+        "sectxt": true,
+        "sectionID": "920177",
+        "type": "DI",
+        "section": "B18",
+        "days": "TuTh",
+        "time": "9:00a-9:50a",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "497ba556c62b07ea775178d68281dc09ddc30825fdae848a21fd75a4a846ec8a": {
+        "sectxt": true,
+        "sectionID": "920178",
+        "type": "DI",
+        "section": "B19",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "MANDE",
+        "room": "B-152",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "77d559625f83610a4d6cae976026aa579e09e30ca192d8faeaec7bd9762cfc9b": {
+        "sectxt": true,
+        "sectionID": "920179",
+        "type": "DI",
+        "section": "B20",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "MANDE",
+        "room": "B-152",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "2f302de828e5a7690bf1736580e6e6d4a4661daff47937611eb8cd2d08b5720b": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "PCYNH",
+        "room": "109",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "0a88e1685d248ec9bec159b5f7c64cc09d70c11fec1c953d01132d06b36b5744": {
+        "sectxt": true,
+        "sectionID": "920181",
+        "type": "DI",
+        "section": "C01",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "YORK",
+        "room": "4050B",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "52d919067c266cf62cf1d53b8a9555edf5116fa5b0f88b969327168d00e011b5": {
+        "sectxt": true,
+        "sectionID": "920182",
+        "type": "DI",
+        "section": "C02",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "YORK",
+        "room": "4050B",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "0d19a3f02dcf10cf46bbdb9cbe89d4894b67e24216bd842c87d53f6d1ab56f8b": {
+        "sectxt": true,
+        "sectionID": "920183",
+        "type": "DI",
+        "section": "C03",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "b0959226de49dc24ebd068ee9f562d22e84ec7a1db1e72d10aa511245cda39e8": {
+        "sectxt": true,
+        "sectionID": "920184",
+        "type": "DI",
+        "section": "C04",
+        "days": "TuTh",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "b8ad1982da57269d7655dbf41d6e15e5d68d4cb725ad939641dbee2df8fcfe68": {
+        "sectxt": true,
+        "sectionID": "920185",
+        "type": "DI",
+        "section": "C05",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "GH",
+        "room": "174",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "4e68974b73eb74308ce06de333c47665f84ba7bd08f44c5ee565f5dbac16125e": {
+        "sectxt": true,
+        "sectionID": "920186",
+        "type": "DI",
+        "section": "C06",
+        "days": "TuTh",
+        "time": "4:00p-4:50p",
+        "building": "GH",
+        "room": "174",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "e9a4da944c9da1c817b09e13344fce7447cee624f8a19c0d2223fa7a37f0224b": {
         "sectxt": true,
         "sectionID": "920208",
         "type": "DI",
@@ -744,14 +1433,13 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "204",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "1d7c2594fd5313548a10e80fe5564c9d6022febc6e3fde838a0a84273179e280": {
         "sectxt": true,
         "sectionID": "920209",
         "type": "DI",
@@ -760,14 +1448,13 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "204",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "881ce040b543b2a534d5e8b5a345186a3423098033b26ae8a148e2e0b7b66c19": {
         "sectxt": true,
         "sectionID": "920210",
         "type": "DI",
@@ -776,14 +1463,13 @@
         "time": "11:00a-11:50a",
         "building": "CENTR",
         "room": "204",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "a50ba902adc533f7bd8fbf0c98c84d0a7d9aa4622b2843783ad97335eac4b9ec": {
         "sectxt": true,
         "sectionID": "920211",
         "type": "DI",
@@ -792,14 +1478,13 @@
         "time": "12:00p-12:50p",
         "building": "CENTR",
         "room": "204",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "14a7bf05f82c225a887f14fca29f0befb6e4cbb1948c5833c2325a14f583d4bb": {
         "sectxt": true,
         "sectionID": "920212",
         "type": "DI",
@@ -808,14 +1493,13 @@
         "time": "12:00p-12:50p",
         "building": "MANDE",
         "room": "B-146",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "e454cd2a9fe2f88d3dc13f96a3c0f331cca19f563b7bcaeda1dcb237593f0aee": {
         "sectxt": true,
         "sectionID": "920213",
         "type": "DI",
@@ -824,16 +1508,360 @@
         "time": "1:00p-1:50p",
         "building": "MANDE",
         "room": "B-146",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "990f2d2ea8d6af30f551f66c649c0ba1ad8441a6617729dfb743cd8dd954733e": {
+        "sectxt": true,
+        "sectionID": "920153",
+        "type": "DI",
+        "section": "A07",
+        "days": "WF",
+        "time": "10:00a-10:50a",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "7fb852d09d65182520e59d81db172a5d350ad4c023c839c0a91b08f064a6f586": {
+        "sectxt": true,
+        "sectionID": "920154",
+        "type": "DI",
+        "section": "A08",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "4250ed67395780d825c89359d085e74dd37df290af2cef31df94e5a4c1439cde": {
+        "sectxt": true,
+        "sectionID": "920155",
+        "type": "DI",
+        "section": "A09",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "YORK",
+        "room": "4050B",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "8d2d36e451a09be636782414d1a274819d62f22dd689fc97b7833473fd369cd4": {
+        "sectxt": true,
+        "sectionID": "920156",
+        "type": "DI",
+        "section": "A10",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Chodorow, Stanley A."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "41ac43cb18b3624692cf807f4a1e4a48c6dd9d84387b3e1773af7a3cfa484e8f": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "PETER",
+        "room": "110",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "c87ec9b58a71d5563ce420afee67c45ac8612e25ccd0adde28d564381aac8243": {
+        "sectxt": true,
+        "sectionID": "920160",
+        "type": "DI",
+        "section": "B01",
+        "days": "WF",
+        "time": "8:00a-8:50a",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "d59ea6d357a5122ab4793ed1a74a1fa7cb88c183cdb8e6a6c00b42ecc8c81831": {
+        "sectxt": true,
+        "sectionID": "920161",
+        "type": "DI",
+        "section": "B02",
+        "days": "WF",
+        "time": "9:00a-9:50a",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "f284dc7f465175728c5be6b539ea7451738dc039cf05d0b5ce95de0ecfe0d00b": {
+        "sectxt": true,
+        "sectionID": "920162",
+        "type": "DI",
+        "section": "B03",
+        "days": "WF",
+        "time": "9:00a-9:50a",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "a250f918e7cfceb330a95f1328b92525f19dda6d6fc3cf8fed5f83f28d0f5091": {
+        "sectxt": true,
+        "sectionID": "920163",
+        "type": "DI",
+        "section": "B04",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "6a6e3ea19f683773cd76fa9c81fea02554d13a609058e47ad494eebf8ef22d29": {
+        "sectxt": true,
+        "sectionID": "920164",
+        "type": "DI",
+        "section": "B05",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "HSS",
+        "room": "1315",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "9801fda540dcc4b8ff130783eb8d92ef837433826d59a9e70d0f18bd20f867d9": {
+        "sectxt": true,
+        "sectionID": "920165",
+        "type": "DI",
+        "section": "B06",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "HSS",
+        "room": "1315",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "bfea86707125515e4fb9994f10814e6df224d642830146dfbf4794fb7cb6c74c": {
+        "sectxt": true,
+        "sectionID": "920166",
+        "type": "DI",
+        "section": "B07",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "61ff97441caa78518c6c06699ec544c7dfb09d8fab77fc80fd55b70c2832e20a": {
+        "sectxt": true,
+        "sectionID": "920167",
+        "type": "DI",
+        "section": "B08",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "7d72d53433ce124e2b8711c875ad96cf1704e1f3b5927c211cad27396d0e781c": {
+        "sectxt": true,
+        "sectionID": "920168",
+        "type": "DI",
+        "section": "B09",
+        "days": "WF",
+        "time": "1:00p-1:50p",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "4299af9b5a75d2023f9c8f703b8f260ce14f841a4ba12931b7d5530decf638e2": {
+        "sectxt": true,
+        "sectionID": "920169",
+        "type": "DI",
+        "section": "B10",
+        "days": "WF",
+        "time": "2:00p-2:50p",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "b1b9c86c376c301f6729e6073f6fc92c5fdc107391312bf3061dd18b18acfca8": {
+        "sectxt": true,
+        "sectionID": "920170",
+        "type": "DI",
+        "section": "B11",
+        "days": "WF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "201",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "561870749a46a72fd6c5a4f526bf99cd7c89c0364999d3126bb912fc75bf27a4": {
+        "sectxt": true,
+        "sectionID": "920171",
+        "type": "DI",
+        "section": "B12",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Cox, Stephen D."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "d262b0532ed05120e42e28405347fbf85017132cb03dd57ff04dee77b66be3eb": {
+        "sectxt": true,
+        "sectionID": "920187",
+        "type": "DI",
+        "section": "C07",
+        "days": "WF",
+        "time": "10:00a-10:50a",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "2a4d1bcfc077079b94adf92a7cb4e2ea4e27a3e9c0c8f6fa7fb3aeec2962c78b": {
+        "sectxt": true,
+        "sectionID": "920188",
+        "type": "DI",
+        "section": "C08",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "149b6c9e7a81c5a430da2afdd1c924e55355ce9c6b9ce4b3b6bf2b118c0a846f": {
+        "sectxt": true,
+        "sectionID": "920189",
+        "type": "DI",
+        "section": "C09",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "206",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "389e77af6b4ddb3537beb5809b3fa0dfa0f446279d0dd564afd23a8278ca51bc": {
+        "sectxt": true,
+        "sectionID": "920190",
+        "type": "DI",
+        "section": "C10",
+        "days": "WF",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "206",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "43fba812015371cd25f87d763ba83bb6ba6bcff80e90797de13c80c43dd61ce5": {
+        "sectxt": true,
+        "sectionID": "920191",
+        "type": "DI",
+        "section": "C11",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "GH",
+        "room": "174",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "268344d691b82ba46cdd16f76152df9ed0172997fb51d9e75b9911f79cee1995": {
+        "sectxt": true,
+        "sectionID": "920192",
+        "type": "DI",
+        "section": "C12",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "GH",
+        "room": "174",
+        "instructors": [
+          "Johnson, Monte"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "fd68094d7d3f717e56cc04dd4cb4e686be2f101f8ea42f1ffedd67a9e0ae8c9b": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -842,14 +1870,13 @@
         "time": "12:00p-12:50p",
         "building": "WLH",
         "room": "2001",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "80025a51f2c85ecc1b28fc7b15991c2433765659786ba48aaa8b03e9cd68ae9d": {
         "sectxt": true,
         "sectionID": "920194",
         "type": "DI",
@@ -858,14 +1885,13 @@
         "time": "8:00a-8:50a",
         "building": "CENTR",
         "room": "204",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "cbbffe73d6f0b524602547c2e6dfca5bea8bf9b485f4dfdd727697cf8724b10c": {
         "sectxt": true,
         "sectionID": "920195",
         "type": "DI",
@@ -874,14 +1900,13 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "204",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "4977f427ce1a6c3246581ca13026832742a71a196007e6abdfe7098b7924f9e4": {
         "sectxt": true,
         "sectionID": "920196",
         "type": "DI",
@@ -890,14 +1915,13 @@
         "time": "9:00a-9:50a",
         "building": "HSS",
         "room": "2150",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "3954c3a15ea10d412c9ba3c84bc168edeb845676161542b08f1c215de47ad0ca": {
         "sectxt": true,
         "sectionID": "920197",
         "type": "DI",
@@ -906,14 +1930,13 @@
         "time": "10:00a-10:50a",
         "building": "HSS",
         "room": "2150",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "242c42662d11a665f6272c65f1ca359117f0b813ba1284163c0c802554acf513": {
         "sectxt": true,
         "sectionID": "920198",
         "type": "DI",
@@ -922,14 +1945,13 @@
         "time": "10:00a-10:50a",
         "building": "GH",
         "room": "174",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "b269669d4937a027b75dcdf6a19f738b9cafbf896b0394e5144043b584941258": {
         "sectxt": true,
         "sectionID": "920199",
         "type": "DI",
@@ -938,14 +1960,13 @@
         "time": "9:00a-9:50a",
         "building": "GH",
         "room": "174",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "64a4281c86cefec3d6fd183c232d624a1db7f2ece8230cd2202aede82c48a6fd": {
         "sectxt": true,
         "sectionID": "920200",
         "type": "DI",
@@ -954,14 +1975,13 @@
         "time": "11:00a-11:50a",
         "building": "HSS",
         "room": "2150",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "d5094aa291c43a4141591f92665540856766d10df99573989114fb93ee46d231": {
         "sectxt": true,
         "sectionID": "920201",
         "type": "DI",
@@ -970,14 +1990,13 @@
         "time": "1:00p-1:50p",
         "building": "HSS",
         "room": "2150",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "d2e768a9a6fb6e592323c97c039b797f42546994e90c097f01c836aaad3aca51": {
         "sectxt": true,
         "sectionID": "920202",
         "type": "DI",
@@ -986,14 +2005,13 @@
         "time": "1:00p-1:50p",
         "building": "YORK",
         "room": "3050B",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "20276a4e00d50521fdbabf398f5fa374118b30114f921c415d5aeea87b62f4bd": {
         "sectxt": true,
         "sectionID": "920203",
         "type": "DI",
@@ -1002,14 +2020,13 @@
         "time": "2:00p-2:50p",
         "building": "YORK",
         "room": "3050B",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "6ad1023bc36916a279995b4e2440c22cb9ff68839c4ae74ed0539159c15e9b59": {
         "sectxt": true,
         "sectionID": "920204",
         "type": "DI",
@@ -1018,14 +2035,13 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "bda62525e58fbcdcba40102b8c45c2ea778326287a01a98d71ba72cbf88b9c00": {
         "sectxt": true,
         "sectionID": "920205",
         "type": "DI",
@@ -1034,14 +2050,13 @@
         "time": "11:00a-11:50a",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "87086fcb308679410cb0765d7cf088423ddb01ab7b2826c50354a01cc0096226": {
         "sectxt": true,
         "sectionID": "920206",
         "type": "DI",
@@ -1050,14 +2065,13 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "70210c1dac3f9771e19dbdeed60692e353942d880e9985a07fae81971b0e6c6e": {
         "sectxt": true,
         "sectionID": "920207",
         "type": "DI",
@@ -1066,15 +2080,18 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Lyon, Antony J.",
         "instructors": [
           "Lyon, Antony J."
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
 }

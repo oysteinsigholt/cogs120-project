@@ -3,27 +3,50 @@
   "name": "Doctoral Project",
   "department": "AUD",
   "id": "299",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930529",
-      "type": "IN",
-      "section": "D00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Nguyen, Quyen",
-      "instructors": [
-        "Nguyen, Quyen"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "920825",
+      "type": "IN",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Zettner, Erika"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920826",
+      "type": "IN",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Harris, Jeffrey Paul"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920827",
+      "type": "IN",
+      "section": "C00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Ryan, Allen F."
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "930529",
       "type": "IN",
       "section": "D00",
@@ -31,19 +54,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Nguyen, Quyen",
       "instructors": [
         "Nguyen, Quyen"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

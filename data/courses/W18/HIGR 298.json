@@ -3,27 +3,557 @@
   "name": "Directed Reading",
   "department": "HIGR",
   "id": "298",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924467",
-      "type": "IN",
-      "section": "043",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Widener, Daniel",
-      "instructors": [
-        "Widener, Daniel"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "924425",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Alvarez, Luis A"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924426",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Biess, Frank Peter"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924427",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Caciola, Nancy A"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924438",
+      "type": "IN",
+      "section": "014",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Gutierrez, David G"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924439",
+      "type": "IN",
+      "section": "015",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hanna, Mark G."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924440",
+      "type": "IN",
+      "section": "016",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hendrickson, Gerald M."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924441",
+      "type": "IN",
+      "section": "017",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Henry, Todd A."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924442",
+      "type": "IN",
+      "section": "018",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hertz, Deborah"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924443",
+      "type": "IN",
+      "section": "019",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hunefeldt, Christine"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924444",
+      "type": "IN",
+      "section": "020",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Kayali, Hasan"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924445",
+      "type": "IN",
+      "section": "021",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Klein, Rachel"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924446",
+      "type": "IN",
+      "section": "022",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Kwak, Nancy"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924447",
+      "type": "IN",
+      "section": "023",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Lu, Weijing"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924428",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Cowan, Benjamin A"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924429",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Demetriou, Denise"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924430",
+      "type": "IN",
+      "section": "006",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Edelman, Robert S."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924431",
+      "type": "IN",
+      "section": "007",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Edington, Claire Ellen"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924432",
+      "type": "IN",
+      "section": "008",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Frolich, Margrit Luise"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924433",
+      "type": "IN",
+      "section": "009",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Gallant, Thomas W."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924434",
+      "type": "IN",
+      "section": "010",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Gere, Catherina M."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924435",
+      "type": "IN",
+      "section": "011",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Gerth, Karl G."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924436",
+      "type": "IN",
+      "section": "012",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Golan, Tal"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924437",
+      "type": "IN",
+      "section": "013",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Graham, Jessica Lynn"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924448",
+      "type": "IN",
+      "section": "024",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Man, Simeon S"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924449",
+      "type": "IN",
+      "section": "025",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Matsumura, Wendy Y"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924450",
+      "type": "IN",
+      "section": "026",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Molina, Natalia"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924451",
+      "type": "IN",
+      "section": "027",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Monteon, Michael P."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924452",
+      "type": "IN",
+      "section": "028",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Murillo, Dana V."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924453",
+      "type": "IN",
+      "section": "029",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Parrish, Michael E."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924454",
+      "type": "IN",
+      "section": "030",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Patterson, Patrick H."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924455",
+      "type": "IN",
+      "section": "031",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Pickowicz, Paul G."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924456",
+      "type": "IN",
+      "section": "032",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Plant, Rebecca Jo"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924457",
+      "type": "IN",
+      "section": "033",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Prestholdt, Jeremy"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924458",
+      "type": "IN",
+      "section": "034",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Provence, Michael"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924459",
+      "type": "IN",
+      "section": "035",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Radcliff, Pamela B."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924460",
+      "type": "IN",
+      "section": "036",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Schneewind, Sarah"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924461",
+      "type": "IN",
+      "section": "037",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Shafir, Nir"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924462",
+      "type": "IN",
+      "section": "038",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Strasser, Ulrike"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924463",
+      "type": "IN",
+      "section": "039",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Van Young, Eric"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924464",
+      "type": "IN",
+      "section": "040",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Vitz, Matthew"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924465",
+      "type": "IN",
+      "section": "041",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Watts, Edward J."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924466",
+      "type": "IN",
+      "section": "042",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Westman, Robert S"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "924467",
       "type": "IN",
       "section": "043",
@@ -31,19 +561,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Widener, Daniel",
       "instructors": [
         "Widener, Daniel"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

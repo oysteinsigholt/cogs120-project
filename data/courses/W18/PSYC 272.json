@@ -3,42 +3,9 @@
   "name": "Selected Topics/Cognitive Psyc",
   "department": "PSYC",
   "id": "272",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "935584",
-      "type": "SE",
-      "section": "B00",
-      "days": "W",
-      "time": "8:30a-11:20a",
-      "building": "MNDLR",
-      "room": "3545",
-      "instructor": "Arbib, Michael A",
-      "instructors": [
-        "Arbib, Michael A"
-      ],
-      "start_time": "8:30",
-      "end_time": "11:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "99084e85dcbf5c5064e8677480f27cc1eb8ff5538061a54d6a1f44628193757c": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,19 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "38f8cf2bb77eabe5acdc05c15ab76e28b1be09a1f6b32befa6d3b4c27c3f3e8c": {
         "sectxt": true,
         "sectionID": "935584",
         "type": "SE",
@@ -68,17 +32,16 @@
         "time": "8:30a-11:20a",
         "building": "MNDLR",
         "room": "3545",
-        "instructor": "Arbib, Michael A",
         "instructors": [
           "Arbib, Michael A"
         ],
         "start_time": "8:30",
         "end_time": "11:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

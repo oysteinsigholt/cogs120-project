@@ -3,31 +3,12 @@
   "name": "Voice for Theatre I-Part II",
   "department": "TDGR",
   "id": "214B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920388",
-      "type": "ST",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:00a-10:50a",
-      "building": "GH",
-      "room": "23",
-      "instructor": "Meyer, Ursula",
-      "instructors": [
-        "Meyer, Ursula"
-      ],
-      "start_time": "9:00",
-      "end_time": "10:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "ceb59ff51e4a3c1339109d37328e6942fd26335bb1241025102db6e320317ef1": {
         "sectxt": true,
         "sectionID": "920388",
         "type": "ST",
@@ -36,17 +17,15 @@
         "time": "9:00a-10:50a",
         "building": "GH",
         "room": "23",
-        "instructor": "Meyer, Ursula",
         "instructors": [
           "Meyer, Ursula"
         ],
         "start_time": "9:00",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f7d4254c7a560b831adaf684fcf7d27c37420df90b0df80a65015c789c53177f": {
         "sectxt": true,
         "sectionID": "920388",
         "type": "ST",
@@ -55,16 +34,15 @@
         "time": "9:00a-10:50a",
         "building": "GH",
         "room": "23",
-        "instructor": "Meyer, Ursula",
         "instructors": [
           "Meyer, Ursula"
         ],
         "start_time": "9:00",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

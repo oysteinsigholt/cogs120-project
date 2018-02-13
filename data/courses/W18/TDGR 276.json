@@ -3,30 +3,12 @@
   "name": "Advanced Costume Design",
   "department": "TDGR",
   "id": "276",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920416",
-      "type": "ST",
-      "section": "A00",
-      "days": "M",
-      "time": "1:00p-3:50p",
-      "building": "GH",
-      "room": "103",
-      "instructor": "Dolan, Judith A.",
-      "instructors": [
-        "Dolan, Judith A."
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "bd9834b07c3003974ad9faab5ee3ad801d8842fe07f24f1e6f18e89b1b4a400c": {
         "sectxt": true,
         "sectionID": "920416",
         "type": "ST",
@@ -35,19 +17,15 @@
         "time": "1:00p-3:50p",
         "building": "GH",
         "room": "103",
-        "instructor": "Dolan, Judith A.",
         "instructors": [
           "Dolan, Judith A."
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

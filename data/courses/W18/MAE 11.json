@@ -3,56 +3,9 @@
   "name": "Thermodynamics",
   "department": "MAE",
   "id": "11",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928807",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "9:00a-9:50a",
-      "building": "MANDE",
-      "room": "B-210",
-      "instructor": "Rangamani, Padmini",
-      "instructors": [
-        "Rangamani, Padmini"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "12:00p-12:50p",
-      "building": "MANDE",
-      "room": "B-210",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -61,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "2cd758811280a98ed729795ebdf1474cafaf8ccda47ba2677ffc2cbbee65f2d0": {
         "sectxt": true,
         "sectionID": "928807",
         "type": "LE",
@@ -80,14 +32,13 @@
         "time": "9:00a-9:50a",
         "building": "MANDE",
         "room": "B-210",
-        "instructor": "Rangamani, Padmini",
         "instructors": [
           "Rangamani, Padmini"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "0bc129e6e61dc97d6817c5924c61d5d7c996b7c7ee1c4510193b45b64c905c72": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -96,15 +47,13 @@
         "time": "12:00p-12:50p",
         "building": "MANDE",
         "room": "B-210",
-        "instructor": "",
         "instructors": [],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "b27157efee79a0c54039273a2b7859803c4b7c6040baf604d32b6b5c4abf52aa": {
         "sectxt": true,
         "sectionID": "928807",
         "type": "LE",
@@ -113,17 +62,15 @@
         "time": "9:00a-9:50a",
         "building": "MANDE",
         "room": "B-210",
-        "instructor": "Rangamani, Padmini",
         "instructors": [
           "Rangamani, Padmini"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "f28223e7c51d6a46fb28578faae3063d13eb5ff333e0377a89b3687286ba3246": {
         "sectxt": true,
         "sectionID": "928807",
         "type": "LE",
@@ -132,15 +79,15 @@
         "time": "9:00a-9:50a",
         "building": "MANDE",
         "room": "B-210",
-        "instructor": "Rangamani, Padmini",
         "instructors": [
           "Rangamani, Padmini"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

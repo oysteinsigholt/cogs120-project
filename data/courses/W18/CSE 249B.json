@@ -3,32 +3,12 @@
   "name": "Topics/Seminar in VLSI",
   "department": "CSE",
   "id": "249B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927565",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "11:00a-12:20p",
-      "building": "EBU3B",
-      "room": "2217",
-      "instructor": "Kahng, Andrew Byun",
-      "instructors": [
-        "Kahng, Andrew Byun"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "233de5d35cf912fe86dd4c3e453fd7f24bceef4b1b4b34331a52fac0c92ada7b": {
         "sectxt": true,
         "sectionID": "927565",
         "type": "LE",
@@ -37,17 +17,15 @@
         "time": "11:00a-12:20p",
         "building": "EBU3B",
         "room": "2217",
-        "instructor": "Kahng, Andrew Byun",
         "instructors": [
           "Kahng, Andrew Byun"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

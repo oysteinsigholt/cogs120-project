@@ -3,94 +3,12 @@
   "name": "Intro to Mathematical Software",
   "department": "MATH",
   "id": "157",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "1330",
-      "instructor": "Kedlaya, Kiran S.",
-      "instructors": [
-        "Kedlaya, Kiran S."
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927186",
-      "type": "DI",
-      "section": "A01",
-      "days": "Tu",
-      "time": "6:00p-6:50p",
-      "building": "APM",
-      "room": "6402",
-      "instructor": "Kedlaya, Kiran S.",
-      "instructors": [
-        "Kedlaya, Kiran S."
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927187",
-      "type": "DI",
-      "section": "A02",
-      "days": "Tu",
-      "time": "7:00p-7:50p",
-      "building": "APM",
-      "room": "6402",
-      "instructor": "Kedlaya, Kiran S.",
-      "instructors": [
-        "Kedlaya, Kiran S."
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929215",
-      "type": "DI",
-      "section": "A03",
-      "days": "Tu",
-      "time": "8:00p-8:50p",
-      "building": "APM",
-      "room": "6402",
-      "instructor": "Kedlaya, Kiran S.",
-      "instructors": [
-        "Kedlaya, Kiran S."
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929217",
-      "type": "DI",
-      "section": "A04",
-      "days": "Tu",
-      "time": "9:00p-9:50p",
-      "building": "APM",
-      "room": "6402",
-      "instructor": "Kedlaya, Kiran S.",
-      "instructors": [
-        "Kedlaya, Kiran S."
-      ],
-      "start_time": "21:00",
-      "end_time": "21:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "6721ec3568dcd8f8a49712a671b801dfee4ddaabbc63506c0e935ab456b7dffd": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -99,16 +17,15 @@
         "time": "2:00p-2:50p",
         "building": "HSS",
         "room": "1330",
-        "instructor": "Kedlaya, Kiran S.",
         "instructors": [
           "Kedlaya, Kiran S."
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "dd644f8a54fd124059471e63978b7a33b1147c228ba556506f4ccc8e61ed288e": {
         "sectxt": true,
         "sectionID": "927186",
         "type": "DI",
@@ -117,14 +34,13 @@
         "time": "6:00p-6:50p",
         "building": "APM",
         "room": "6402",
-        "instructor": "Kedlaya, Kiran S.",
         "instructors": [
           "Kedlaya, Kiran S."
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "442c87b88b64c29ac35d5ebafb8a5b6f1116602512cbae0f0e5ec7abce1a16c3": {
         "sectxt": true,
         "sectionID": "927187",
         "type": "DI",
@@ -133,14 +49,13 @@
         "time": "7:00p-7:50p",
         "building": "APM",
         "room": "6402",
-        "instructor": "Kedlaya, Kiran S.",
         "instructors": [
           "Kedlaya, Kiran S."
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "fdbb333d8a1509f31b14b4c1d9f65f6721486d008a55d254f8a2186f5531e3dd": {
         "sectxt": true,
         "sectionID": "929215",
         "type": "DI",
@@ -149,14 +64,13 @@
         "time": "8:00p-8:50p",
         "building": "APM",
         "room": "6402",
-        "instructor": "Kedlaya, Kiran S.",
         "instructors": [
           "Kedlaya, Kiran S."
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "dcc012d17f197a9e1309256e73c95811f6e5df3c565d8475ec23d29ee209005e": {
         "sectxt": true,
         "sectionID": "929217",
         "type": "DI",
@@ -165,16 +79,15 @@
         "time": "9:00p-9:50p",
         "building": "APM",
         "room": "6402",
-        "instructor": "Kedlaya, Kiran S.",
         "instructors": [
           "Kedlaya, Kiran S."
         ],
         "start_time": "21:00",
         "end_time": "21:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "03db29512c920154c8251b4bab8a52a294794a0af7dbbc2424d2ef4b9cb7ee87": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -183,17 +96,15 @@
         "time": "2:00p-2:50p",
         "building": "HSS",
         "room": "1330",
-        "instructor": "Kedlaya, Kiran S.",
         "instructors": [
           "Kedlaya, Kiran S."
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "d279da4a3d7ccd6f447b5cb8f0bddd178e11c77d67d14b93ba22188196cebe12": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -202,15 +113,15 @@
         "time": "2:00p-2:50p",
         "building": "HSS",
         "room": "1330",
-        "instructor": "Kedlaya, Kiran S.",
         "instructors": [
           "Kedlaya, Kiran S."
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

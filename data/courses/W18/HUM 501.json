@@ -3,27 +3,63 @@
   "name": "Apprentice Teaching",
   "department": "HUM",
   "id": "501",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920244",
-      "type": "IN",
-      "section": "F00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Watkins, Eric",
-      "instructors": [
-        "Watkins, Eric"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "920239",
+      "type": "IN",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Chodorow, Stanley A."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920240",
+      "type": "IN",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Cox, Stephen D."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920241",
+      "type": "IN",
+      "section": "C00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Johnson, Monte"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920243",
+      "type": "IN",
+      "section": "E00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Zroka, Amy Liane"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "920244",
       "type": "IN",
       "section": "F00",
@@ -31,19 +67,31 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Watkins, Eric",
       "instructors": [
         "Watkins, Eric"
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "M": {
+      "7996abf85e8627089d42255c46a6573e4fbaad3cf466863b20a650f85b08d1a2": {
+        "sectxt": true,
+        "sectionID": "920242",
+        "type": "IN",
+        "section": "D00",
+        "days": "M",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "206",
+        "instructors": [
+          "Lyon, Antony J."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    }
+  },
+  "sections": [
+    "D"
+  ]
 }

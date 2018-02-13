@@ -3,34 +3,76 @@
   "name": "Aerospace Structural Design I",
   "department": "SE",
   "id": "143A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "933195",
-      "type": "LA",
-      "section": "B03",
-      "days": "Th",
-      "time": "9:00a-10:50a",
-      "building": "SME",
-      "room": "420",
-      "instructor": "Kosmatka, John B & Kim, Hyonny",
-      "instructors": [
-        "Kosmatka, John B",
-        "Kim, Hyonny"
-      ],
-      "start_time": "9:00",
-      "end_time": "10:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Tu": {
+      "847a50f2fa5395561c0d5d1ceca2bbd45036602b9ceaf53fb929d6688c468394": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "MCGIL",
+        "room": "2315",
+        "instructors": [
+          "Kosmatka, John B                   \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tKim, Hyonny"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "345b68e5ba066694ebd7581d2b85c1e0edbd371b7965c8e016ff94722a44e395": {
+        "sectxt": true,
+        "sectionID": "933173",
+        "type": "LA",
+        "section": "B01",
+        "days": "Tu",
+        "time": "9:00a-10:50a",
+        "building": "SME",
+        "room": "420",
+        "instructors": [
+          "Kosmatka, John B                   \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tKim, Hyonny"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:50"
+      }
+    },
+    "W": {
+      "88c895b0c3ce85f1f8a1f5131480224e4cdb11038833f78bb723a7f0db9f4506": {
+        "sectxt": true,
+        "sectionID": "933184",
+        "type": "LA",
+        "section": "B02",
+        "days": "W",
+        "time": "9:00a-10:50a",
+        "building": "SME",
+        "room": "420",
+        "instructors": [
+          "Kosmatka, John B                   \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tKim, Hyonny"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:50"
+      }
+    },
+    "Th": {
+      "d3759d59a75d35ecdfe759ce2719eea41f8123ebe815a112a38701afec5bd9d1": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "MCGIL",
+        "room": "2315",
+        "instructors": [
+          "Kosmatka, John B                   \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tKim, Hyonny"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "0662225cd7541831c1302120ee2479e81e0ee32f29e6551be019f00108ba2a7c": {
         "sectxt": true,
         "sectionID": "933195",
         "type": "LA",
@@ -39,17 +81,16 @@
         "time": "9:00a-10:50a",
         "building": "SME",
         "room": "420",
-        "instructor": "Kosmatka, John B & Kim, Hyonny",
         "instructors": [
-          "Kosmatka, John B",
-          "Kim, Hyonny"
+          "Kosmatka, John B                   \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tKim, Hyonny"
         ],
         "start_time": "9:00",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

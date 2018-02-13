@@ -3,58 +3,9 @@
   "name": "Bioinformatics Laboratory",
   "department": "BIMM",
   "id": "143",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:00a-9:50a",
-      "building": "WLH",
-      "room": "2015",
-      "instructor": "Grant, Barry J",
-      "instructors": [
-        "Grant, Barry J"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926161",
-      "type": "LA",
-      "section": "A01",
-      "days": "TuTh",
-      "time": "10:00a-12:50p",
-      "building": "WLH",
-      "room": "2015",
-      "instructor": "Grant, Barry J",
-      "instructors": [
-        "Grant, Barry J"
-      ],
-      "start_time": "10:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "1866918a9e827ca2246c3cdc0800ca8cab9d14fcb63d242959828782dc5e03cc": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -83,14 +32,13 @@
         "time": "9:00a-9:50a",
         "building": "WLH",
         "room": "2015",
-        "instructor": "Grant, Barry J",
         "instructors": [
           "Grant, Barry J"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "bf5e8d762d6e644c434b7b285dbcfe54bed7e6b4b764936929e0609a695824f3": {
         "sectxt": true,
         "sectionID": "926161",
         "type": "LA",
@@ -99,17 +47,15 @@
         "time": "10:00a-12:50p",
         "building": "WLH",
         "room": "2015",
-        "instructor": "Grant, Barry J",
         "instructors": [
           "Grant, Barry J"
         ],
         "start_time": "10:00",
         "end_time": "12:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "664fb1192c899ad420c384f1035679fd9aa443bbe17868a3444009b2ce9ed2d0": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -118,14 +64,13 @@
         "time": "9:00a-9:50a",
         "building": "WLH",
         "room": "2015",
-        "instructor": "Grant, Barry J",
         "instructors": [
           "Grant, Barry J"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "881e2d422a0791c86bee6e4b8faf4477208d3afe9c831ac58710f99c3418a58f": {
         "sectxt": true,
         "sectionID": "926161",
         "type": "LA",
@@ -134,16 +79,15 @@
         "time": "10:00a-12:50p",
         "building": "WLH",
         "room": "2015",
-        "instructor": "Grant, Barry J",
         "instructors": [
           "Grant, Barry J"
         ],
         "start_time": "10:00",
         "end_time": "12:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

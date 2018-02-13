@@ -3,32 +3,12 @@
   "name": "Projects in New Music Prfrmnce",
   "department": "MUS",
   "id": "201A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921940",
-      "type": "LA",
-      "section": "C00",
-      "days": "W",
-      "time": "2:00p-4:50p",
-      "building": "CPMC",
-      "room": "136",
-      "instructor": "Dresser, Mark Stuart",
-      "instructors": [
-        "Dresser, Mark Stuart"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "66bd689e3ba843b55060fd3569a8d11315fac0629e03a002c4bbd7c6908213d2": {
         "sectxt": true,
         "sectionID": "921940",
         "type": "LA",
@@ -37,17 +17,51 @@
         "time": "2:00p-4:50p",
         "building": "CPMC",
         "room": "136",
-        "instructor": "Dresser, Mark Stuart",
         "instructors": [
           "Dresser, Mark Stuart"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "Th": {
+      "ac597e04d8ca056c3deed2e2fba77faaf8886058592eb356df20b12037d3915a": {
+        "sectxt": true,
+        "sectionID": "921939",
+        "type": "LA",
+        "section": "B00",
+        "days": "Th",
+        "time": "2:00p-4:50p",
+        "building": "CPMC",
+        "room": "145",
+        "instructors": [
+          "Fonville, John Winston"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:50"
+      }
+    },
+    "F": {
+      "85e0869f79f85e6d0de5e2c8b2ea8111773ad47165bca388c34cd32a5fbc3549": {
+        "sectxt": true,
+        "sectionID": "921938",
+        "type": "LA",
+        "section": "A00",
+        "days": "F",
+        "time": "2:00p-4:50p",
+        "building": "CPMC",
+        "room": "136",
+        "instructors": [
+          "Karis, Aleck"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

@@ -3,74 +3,9 @@
   "name": "Introduction to Religion",
   "department": "RELI",
   "id": "1",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "WLH",
-      "room": "2207",
-      "instructor": "Kalleres, Dayna",
-      "instructors": [
-        "Kalleres, Dayna"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920281",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "12:00p-12:50p",
-      "building": "CENTR",
-      "room": "201",
-      "instructor": "Kalleres, Dayna",
-      "instructors": [
-        "Kalleres, Dayna"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920282",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "11:00a-11:50a",
-      "building": "CENTR",
-      "room": "217A",
-      "instructor": "Kalleres, Dayna",
-      "instructors": [
-        "Kalleres, Dayna"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -79,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "e4a7e0b48e5a74a5039a6a4a5657e3e1413e312642286325ab5d305301b5cae2": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -98,14 +32,13 @@
         "time": "1:00p-1:50p",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Kalleres, Dayna",
         "instructors": [
           "Kalleres, Dayna"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "77a2a9f57b1bf62247d1531dccd742c7f0af57544353563850f0d6d0ede6e021": {
         "sectxt": true,
         "sectionID": "920281",
         "type": "DI",
@@ -114,17 +47,15 @@
         "time": "12:00p-12:50p",
         "building": "CENTR",
         "room": "201",
-        "instructor": "Kalleres, Dayna",
         "instructors": [
           "Kalleres, Dayna"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "c15fcf4f9ab3e7d38ca0b0fda612d43843a9400dd321e08de7ed0c9d036f43b0": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -133,14 +64,13 @@
         "time": "1:00p-1:50p",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Kalleres, Dayna",
         "instructors": [
           "Kalleres, Dayna"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "b48038fcd9f739f30d714139de5f1c3749c84250cca14031db7cb4671e1274d4": {
         "sectxt": true,
         "sectionID": "920282",
         "type": "DI",
@@ -149,17 +79,15 @@
         "time": "11:00a-11:50a",
         "building": "CENTR",
         "room": "217A",
-        "instructor": "Kalleres, Dayna",
         "instructors": [
           "Kalleres, Dayna"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "a1ad73e826e4f3d18db30a6715bb1aece555b7c097097bfe51405b7a3389d35a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -168,15 +96,15 @@
         "time": "1:00p-1:50p",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Kalleres, Dayna",
         "instructors": [
           "Kalleres, Dayna"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,42 +3,9 @@
   "name": "Special Topics",
   "department": "MGTA",
   "id": "495",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930342",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "9:30a-12:30p",
-      "building": "OTRSN",
-      "room": "1E107",
-      "instructor": "Balac, Natasha",
-      "instructors": [
-        "Balac, Natasha"
-      ],
-      "start_time": "9:30",
-      "end_time": "12:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "9:30a-12:30p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "9:30",
-      "end_time": "12:30"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "84136d941b881d960703a64f8f7f561ce9f0c58097d842d8de58cbbc52a4e33e": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,19 +14,16 @@
       "time": "9:30a-12:30p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "9:30",
       "end_time": "12:30"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "6a1156a85f2dd960d8493ea067334b0c2dd920c0bd0c8e3c3e31462bfe0b7da2": {
         "sectxt": true,
         "sectionID": "930342",
         "type": "LE",
@@ -68,17 +32,15 @@
         "time": "9:30a-12:30p",
         "building": "OTRSN",
         "room": "1E107",
-        "instructor": "Balac, Natasha",
         "instructors": [
           "Balac, Natasha"
         ],
         "start_time": "9:30",
         "end_time": "12:30"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,24 +3,8 @@
   "name": "Subint/Outpatient Physical Med",
   "department": "ORTH",
   "id": "450",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928535",
-      "type": "CL",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Chang, Douglas Glenn",
-      "instructors": [
-        "Chang, Douglas Glenn"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Chang, Douglas Glenn",
       "instructors": [
         "Chang, Douglas Glenn"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

@@ -3,97 +3,12 @@
   "name": "Intro/Acad Ment/Elem Schl Stdn",
   "department": "EDS",
   "id": "130",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "Th",
-      "time": "3:30p-5:20p",
-      "building": "PCYNH",
-      "room": "340",
-      "instructor": "Holtzman, Caren Lynn",
-      "instructors": [
-        "Holtzman, Caren Lynn"
-      ],
-      "start_time": "15:30",
-      "end_time": "17:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922488",
-      "type": "DI",
-      "section": "A01",
-      "days": "Th",
-      "time": "5:30p-6:20p",
-      "building": "PCYNH",
-      "room": "361",
-      "instructor": "Holtzman, Caren Lynn",
-      "instructors": [
-        "Holtzman, Caren Lynn"
-      ],
-      "start_time": "17:30",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922489",
-      "type": "DI",
-      "section": "A02",
-      "days": "Th",
-      "time": "5:30p-6:20p",
-      "building": "PCYNH",
-      "room": "302",
-      "instructor": "Holtzman, Caren Lynn",
-      "instructors": [
-        "Holtzman, Caren Lynn"
-      ],
-      "start_time": "17:30",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922490",
-      "type": "DI",
-      "section": "A03",
-      "days": "Th",
-      "time": "5:30p-6:20p",
-      "building": "PCYNH",
-      "room": "348",
-      "instructor": "Holtzman, Caren Lynn",
-      "instructors": [
-        "Holtzman, Caren Lynn"
-      ],
-      "start_time": "17:30",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929167",
-      "type": "DI",
-      "section": "A04",
-      "days": "Th",
-      "time": "5:30p-6:20p",
-      "building": "PCYNH",
-      "room": "304",
-      "instructor": "Holtzman, Caren Lynn",
-      "instructors": [
-        "Holtzman, Caren Lynn"
-      ],
-      "start_time": "17:30",
-      "end_time": "18:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "76010efdd492346e3cd8f71fdeed7048011a3dd64a3cdca189c1fe8590073b37": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -102,14 +17,13 @@
         "time": "3:30p-5:20p",
         "building": "PCYNH",
         "room": "340",
-        "instructor": "Holtzman, Caren Lynn",
         "instructors": [
           "Holtzman, Caren Lynn"
         ],
         "start_time": "15:30",
         "end_time": "17:20"
       },
-      {
+      "f96b7871a6579c7268169bcab7920fcb2857b7119f5bb5286ecb0cfa64475d4c": {
         "sectxt": true,
         "sectionID": "922488",
         "type": "DI",
@@ -118,14 +32,13 @@
         "time": "5:30p-6:20p",
         "building": "PCYNH",
         "room": "361",
-        "instructor": "Holtzman, Caren Lynn",
         "instructors": [
           "Holtzman, Caren Lynn"
         ],
         "start_time": "17:30",
         "end_time": "18:20"
       },
-      {
+      "38a386aebaaa02221705b314eeee760ec94346dc089e96ae9a1dc238e166b2c7": {
         "sectxt": true,
         "sectionID": "922489",
         "type": "DI",
@@ -134,14 +47,13 @@
         "time": "5:30p-6:20p",
         "building": "PCYNH",
         "room": "302",
-        "instructor": "Holtzman, Caren Lynn",
         "instructors": [
           "Holtzman, Caren Lynn"
         ],
         "start_time": "17:30",
         "end_time": "18:20"
       },
-      {
+      "64bc7793ab5e96f5755d35fafb8c5023642de5ac978b1babac1dfa5747157151": {
         "sectxt": true,
         "sectionID": "922490",
         "type": "DI",
@@ -150,14 +62,13 @@
         "time": "5:30p-6:20p",
         "building": "PCYNH",
         "room": "348",
-        "instructor": "Holtzman, Caren Lynn",
         "instructors": [
           "Holtzman, Caren Lynn"
         ],
         "start_time": "17:30",
         "end_time": "18:20"
       },
-      {
+      "154f98b980bf8a6e58466d791d281ba5de5cd9e8a4db4f8144c1cc3c077935f6": {
         "sectxt": true,
         "sectionID": "929167",
         "type": "DI",
@@ -166,16 +77,15 @@
         "time": "5:30p-6:20p",
         "building": "PCYNH",
         "room": "304",
-        "instructor": "Holtzman, Caren Lynn",
         "instructors": [
           "Holtzman, Caren Lynn"
         ],
         "start_time": "17:30",
         "end_time": "18:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

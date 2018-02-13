@@ -3,88 +3,23 @@
   "name": "Bioengineering Physiology",
   "department": "BENG",
   "id": "140A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "C00",
-      "days": "MW",
-      "time": "8:00a-9:20a",
-      "building": "PFBH",
-      "room": "161",
-      "instructor": "Sparks, Steven Ray",
-      "instructors": [
-        "Sparks, Steven Ray"
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "C00",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "WLH",
-      "room": "2113",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930571",
-      "type": "DI",
-      "section": "C01",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "Sparks, Steven Ray",
-      "instructors": [
-        "Sparks, Steven Ray"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930572",
-      "type": "DI",
-      "section": "C02",
-      "days": "F",
-      "time": "1:00p-1:50p",
-      "building": "SSB",
-      "room": "106",
-      "instructor": "Sparks, Steven Ray",
-      "instructors": [
-        "Sparks, Steven Ray"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "99084e85dcbf5c5064e8677480f27cc1eb8ff5538061a54d6a1f44628193757c": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -93,17 +28,61 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "824ea782fe4efeb521d7af6da8f5918f0ffaccb333ea55915a1698e48a6f7b89": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "5:00p-5:50p",
+        "building": "CSB",
+        "room": "002",
+        "instructors": [
+          "Cabrales, Pedro"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "adb2d1b23bd9412a53da8d6190cfa53fa7cc8ca13e250b070c9682873ca9cb75": {
+        "sectxt": true,
+        "sectionID": "923315",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "1315",
+        "instructors": [
+          "Cabrales, Pedro"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "f8a7f51cbaaac08be8760b8d9b6f8f3e2e0530d80083b5e4ea485d83768c00d8": {
+        "sectxt": true,
+        "sectionID": "923316",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "11:00a-11:50a",
+        "building": "HSS",
+        "room": "1315",
+        "instructors": [
+          "Cabrales, Pedro"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "c52304bfea0f4a23ccbc2587d7aa2565e0685fe59f4a6b517e33628fe8c4b865": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -112,14 +91,13 @@
         "time": "8:00a-9:20a",
         "building": "PFBH",
         "room": "161",
-        "instructor": "Sparks, Steven Ray",
         "instructors": [
           "Sparks, Steven Ray"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       },
-      {
+      "01a27efc910c2441b6e37ad20f58279c8d5550a062e7c7213b0d2a43ce4a2ddb": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -128,12 +106,11 @@
         "time": "2:00p-2:50p",
         "building": "WLH",
         "room": "2113",
-        "instructor": "",
         "instructors": [],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "58ef88c01f9d33e33435fa3a0ff3e15174321c51bc25fdbd8e7481864aa7aa81": {
         "sectxt": true,
         "sectionID": "930571",
         "type": "DI",
@@ -142,17 +119,30 @@
         "time": "4:00p-4:50p",
         "building": "MCGIL",
         "room": "2315",
-        "instructor": "Sparks, Steven Ray",
         "instructors": [
           "Sparks, Steven Ray"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "Tu": {
+      "d76bcf043f1041aeae848254fedd3b9af18897231d4c3398c9af555ce5e62306": {
+        "sectxt": false,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "CENTR",
+        "room": "113",
+        "instructors": [],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    },
+    "W": {
+      "8688bc2cd8c7e5050d834f8a123335ab9fa713310add7a2b2b62ec1bc6dc9c42": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -161,17 +151,45 @@
         "time": "8:00a-9:20a",
         "building": "PFBH",
         "room": "161",
-        "instructor": "Sparks, Steven Ray",
         "instructors": [
           "Sparks, Steven Ray"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "Th": {
+      "055dab9e4efb54208a1d7f8ffd64e8d079ba2cc9fe681a6ccf684c385c6a7818": {
+        "sectxt": false,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "CENTR",
+        "room": "113",
+        "instructors": [],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    },
+    "F": {
+      "2a3cd76953edcd872674b8380d68e6372fed16ced7852fbf080e424a45942906": {
+        "sectxt": true,
+        "sectionID": "923317",
+        "type": "DI",
+        "section": "A03",
+        "days": "F",
+        "time": "4:00p-4:50p",
+        "building": "YORK",
+        "room": "3000A",
+        "instructors": [
+          "Cabrales, Pedro"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "aecf89f1efc2f4978128be6b71b6223768dffb8bb5d2cfd7d7c2abae08f004b1": {
         "sectxt": true,
         "sectionID": "930572",
         "type": "DI",
@@ -180,15 +198,17 @@
         "time": "1:00p-1:50p",
         "building": "SSB",
         "room": "106",
-        "instructor": "Sparks, Steven Ray",
         "instructors": [
           "Sparks, Steven Ray"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

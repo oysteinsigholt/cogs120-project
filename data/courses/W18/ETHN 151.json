@@ -3,42 +3,9 @@
   "name": "Ethnic Politics in America",
   "department": "ETHN",
   "id": "151",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922631",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "9:00a-9:50a",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Kharputly, Nadeen Sh B",
-      "instructors": [
-        "Kharputly, Nadeen Sh B"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1469be257dea2950f5dff02624b159723baeffabad914591b1ff64f2f7c21916": {
         "sectxt": true,
         "sectionID": "922631",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "9:00a-9:50a",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Kharputly, Nadeen Sh B",
         "instructors": [
           "Kharputly, Nadeen Sh B"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "84bb371cec2a76df4bfe8204438c64e01bf9950306c585cc4fbd0648402854b5": {
         "sectxt": true,
         "sectionID": "922631",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "9:00a-9:50a",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Kharputly, Nadeen Sh B",
         "instructors": [
           "Kharputly, Nadeen Sh B"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "01cee53bc67b51109597d496cd7cc9b90a6a57bec8b99691b06edfc8a54524be": {
         "sectxt": true,
         "sectionID": "922631",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "9:00a-9:50a",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Kharputly, Nadeen Sh B",
         "instructors": [
           "Kharputly, Nadeen Sh B"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

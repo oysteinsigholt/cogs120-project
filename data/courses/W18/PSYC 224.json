@@ -3,31 +3,12 @@
   "name": "Current Directions/CNS",
   "department": "PSYC",
   "id": "224",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924681",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "12:30p-1:20p",
-      "building": "MNDLR",
-      "room": "3545",
-      "instructor": "Serences, John Thomas",
-      "instructors": [
-        "Serences, John Thomas"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "316dd803c8cdc89b5b85583e9f0c1c7dda7822428eb9fc69c8efc8e0d944ece8": {
         "sectxt": true,
         "sectionID": "924681",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "12:30p-1:20p",
         "building": "MNDLR",
         "room": "3545",
-        "instructor": "Serences, John Thomas",
         "instructors": [
           "Serences, John Thomas"
         ],
         "start_time": "12:30",
         "end_time": "13:20"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

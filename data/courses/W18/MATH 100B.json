@@ -3,90 +3,9 @@
   "name": "Abstract Algebra II",
   "department": "MATH",
   "id": "100B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "12:00p-12:50p",
-      "building": "CENTR",
-      "room": "113",
-      "instructor": "Kedlaya, Kiran S.",
-      "instructors": [
-        "Kedlaya, Kiran S."
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927088",
-      "type": "DI",
-      "section": "A01",
-      "days": "Tu",
-      "time": "8:00a-8:50a",
-      "building": "APM",
-      "room": "5402",
-      "instructor": "Kedlaya, Kiran S.",
-      "instructors": [
-        "Kedlaya, Kiran S."
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927089",
-      "type": "DI",
-      "section": "A02",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927090",
-      "type": "DI",
-      "section": "A03",
-      "days": "Tu",
-      "time": "10:00a-10:50a",
-      "building": "APM",
-      "room": "5402",
-      "instructor": "Kedlaya, Kiran S.",
-      "instructors": [
-        "Kedlaya, Kiran S."
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -95,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "0bc129e6e61dc97d6817c5924c61d5d7c996b7c7ee1c4510193b45b64c905c72": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -114,16 +32,15 @@
         "time": "12:00p-12:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Kedlaya, Kiran S.",
         "instructors": [
           "Kedlaya, Kiran S."
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "8f4bb785340c85b5affa03321443fcb4552e7a2efde0bbdd884cb627fddc9e1d": {
         "sectxt": true,
         "sectionID": "927088",
         "type": "DI",
@@ -132,14 +49,13 @@
         "time": "8:00a-8:50a",
         "building": "APM",
         "room": "5402",
-        "instructor": "Kedlaya, Kiran S.",
         "instructors": [
           "Kedlaya, Kiran S."
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "5dd87980dfc839258e9feec906955b79dd28d6ebd017a06177e23f4c40ededde": {
         "sectxt": true,
         "sectionID": "927090",
         "type": "DI",
@@ -148,16 +64,15 @@
         "time": "10:00a-10:50a",
         "building": "APM",
         "room": "5402",
-        "instructor": "Kedlaya, Kiran S.",
         "instructors": [
           "Kedlaya, Kiran S."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "a24b1c34899aaa03f2ed258c49f7b8e31d66672638d55b3d5fd4e75b41ce8aa5": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -166,17 +81,15 @@
         "time": "12:00p-12:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Kedlaya, Kiran S.",
         "instructors": [
           "Kedlaya, Kiran S."
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "5be3008a2a51c9e55489e9fa2e0a4a9f5529a85da3cde8b17730cb0e71d532aa": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -185,15 +98,15 @@
         "time": "12:00p-12:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Kedlaya, Kiran S.",
         "instructors": [
           "Kedlaya, Kiran S."
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,42 +3,9 @@
   "name": "Hist,Polic&Theory/Bilingual Ed",
   "department": "EDS",
   "id": "125",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922479",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "CENTR",
-      "room": "222",
-      "instructor": "Forbes, Cheryl A",
-      "instructors": [
-        "Forbes, Cheryl A"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "ce0ac52ba69dd2b32396938ceffd9c46b50d7c49f25688e7cbc1cb9b7a059170": {
         "sectxt": true,
         "sectionID": "922479",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "12:30p-1:50p",
         "building": "CENTR",
         "room": "222",
-        "instructor": "Forbes, Cheryl A",
         "instructors": [
           "Forbes, Cheryl A"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "080abf0e493368d4f8fcd1ccddfc0eb555a86f178138d2131135c70069c88f11": {
         "sectxt": true,
         "sectionID": "922479",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "12:30p-1:50p",
         "building": "CENTR",
         "room": "222",
-        "instructor": "Forbes, Cheryl A",
         "instructors": [
           "Forbes, Cheryl A"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

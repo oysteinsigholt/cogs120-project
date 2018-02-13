@@ -3,42 +3,9 @@
   "name": "Proseminar in Biol Psychology",
   "department": "PSYC",
   "id": "222",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "935588",
-      "type": "SE",
-      "section": "B00",
-      "days": "W",
-      "time": "1:30p-4:20p",
-      "building": "MNDLR",
-      "room": "3545",
-      "instructor": "Gorman, Michael R.",
-      "instructors": [
-        "Gorman, Michael R."
-      ],
-      "start_time": "13:30",
-      "end_time": "16:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,19 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "a96f3ca7745e27ff7f8e82ca337e63dbced203c23b8df09a2336ff15789039dc": {
         "sectxt": true,
         "sectionID": "935588",
         "type": "SE",
@@ -68,17 +32,16 @@
         "time": "1:30p-4:20p",
         "building": "MNDLR",
         "room": "3545",
-        "instructor": "Gorman, Michael R.",
         "instructors": [
           "Gorman, Michael R."
         ],
         "start_time": "13:30",
         "end_time": "16:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

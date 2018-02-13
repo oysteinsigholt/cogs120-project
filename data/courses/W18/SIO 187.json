@@ -3,74 +3,9 @@
   "name": "Stat Methods in Marine Biology",
   "department": "SIO",
   "id": "187",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:30p-3:50p",
-      "building": "ECKRT",
-      "room": "227",
-      "instructor": "Sandin, Stuart Adrian",
-      "instructors": [
-        "Sandin, Stuart Adrian"
-      ],
-      "start_time": "14:30",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921085",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "11:00a-12:15p",
-      "building": "ECKRT",
-      "room": "225",
-      "instructor": "Sandin, Stuart Adrian",
-      "instructors": [
-        "Sandin, Stuart Adrian"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:15"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921086",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "11:00a-12:15p",
-      "building": "ECKRT",
-      "room": "225",
-      "instructor": "Sandin, Stuart Adrian",
-      "instructors": [
-        "Sandin, Stuart Adrian"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:15"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -79,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "3629adbecba1545e2169cadbb651763a37d4b48e015adf0b19bf1b254e6d1b2f": {
         "sectxt": true,
         "sectionID": "921085",
         "type": "DI",
@@ -98,16 +32,15 @@
         "time": "11:00a-12:15p",
         "building": "ECKRT",
         "room": "225",
-        "instructor": "Sandin, Stuart Adrian",
         "instructors": [
           "Sandin, Stuart Adrian"
         ],
         "start_time": "11:00",
         "end_time": "12:15"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "9f0bd4a1c65b5819cda15d636731bf70c9da96119a6da8f7cf79eb0cbb7b8c18": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -116,16 +49,15 @@
         "time": "2:30p-3:50p",
         "building": "ECKRT",
         "room": "227",
-        "instructor": "Sandin, Stuart Adrian",
         "instructors": [
           "Sandin, Stuart Adrian"
         ],
         "start_time": "14:30",
         "end_time": "15:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "c392b5f35ce7ff19076fe03243964a4cfd11cee9253f83efae2792b0286e3206": {
         "sectxt": true,
         "sectionID": "921086",
         "type": "DI",
@@ -134,16 +66,15 @@
         "time": "11:00a-12:15p",
         "building": "ECKRT",
         "room": "225",
-        "instructor": "Sandin, Stuart Adrian",
         "instructors": [
           "Sandin, Stuart Adrian"
         ],
         "start_time": "11:00",
         "end_time": "12:15"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "d1a1c6387d2f28550941c6a33225374bd11ecf218be5fa3fb1ae7ed8badf479f": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -152,16 +83,15 @@
         "time": "2:30p-3:50p",
         "building": "ECKRT",
         "room": "227",
-        "instructor": "Sandin, Stuart Adrian",
         "instructors": [
           "Sandin, Stuart Adrian"
         ],
         "start_time": "14:30",
         "end_time": "15:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

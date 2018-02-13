@@ -3,34 +3,48 @@
   "name": "Freshman Seminar",
   "department": "LTCS",
   "id": "87",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927880",
-      "type": "SE",
-      "section": "B00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "M": {
+      "66b1dcd07cd436716fe20ed82c51d6de51ac6de11d8d1e5721ba331ce202bd06": {
+        "sectxt": true,
+        "sectionID": "927879",
+        "type": "SE",
+        "section": "A00",
+        "days": "M",
+        "time": "5:00p-5:50p",
+        "building": "LIT",
+        "room": "237",
+        "instructors": [
+          "Wesling, Megan E."
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    },
+    "Tu": {
+      "cf95f4b61f0a0fdca10abcc92298fdf499c32bd08110e33d7af7945c550f5455": {
+        "sectxt": true,
+        "sectionID": "927881",
+        "type": "SE",
+        "section": "C00",
+        "days": "Tu",
+        "time": "1:00p-1:50p",
+        "building": "LIT",
+        "room": "237",
+        "instructors": [
+          "Nguyen, Hoang Tan"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

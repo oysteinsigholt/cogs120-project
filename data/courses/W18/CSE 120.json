@@ -3,58 +3,9 @@
   "name": "Princ/Computer Operating Systm",
   "department": "CSE",
   "id": "120",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MW",
-      "time": "6:30p-7:50p",
-      "building": "CENTR",
-      "room": "119",
-      "instructor": "Pasquale, Joseph",
-      "instructors": [
-        "Pasquale, Joseph"
-      ],
-      "start_time": "18:30",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927499",
-      "type": "DI",
-      "section": "B01",
-      "days": "F",
-      "time": "7:00p-7:50p",
-      "building": "CENTR",
-      "room": "115",
-      "instructor": "Pasquale, Joseph",
-      "instructors": [
-        "Pasquale, Joseph"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/17/2018",
-      "days": "S",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-17T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "1f41d219eea3fb14a870fb9f3a13485fa4ab97edffa53bebd2d2ffbcadf4db61": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,17 +14,31 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-17T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "503eae0a8858b7b329809768e5967230ac8000e953deadca9a39203641302192": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "CENTR",
+        "room": "119",
+        "instructors": [
+          "Pasquale, Joseph"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "3ad71f1f60ca9c790d2366c1f41549c64ea893c7957c874dacfef561d2277378": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -82,17 +47,30 @@
         "time": "6:30p-7:50p",
         "building": "CENTR",
         "room": "119",
-        "instructor": "Pasquale, Joseph",
         "instructors": [
           "Pasquale, Joseph"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "ad10dc80025b6fae88a6e6bd4b3bc62f48725a5778aa49de4dbf9e9ef718c058": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "CENTR",
+        "room": "119",
+        "instructors": [
+          "Pasquale, Joseph"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "313bab4ce3cbe71182ceaeea67722706a5c47060a143129addf810aacd6eb9cd": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -101,17 +79,30 @@
         "time": "6:30p-7:50p",
         "building": "CENTR",
         "room": "119",
-        "instructor": "Pasquale, Joseph",
         "instructors": [
           "Pasquale, Joseph"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "f661950083b2419194dd9efc2d8253f046e267da085df780d3d5ae58e76129b3": {
+        "sectxt": true,
+        "sectionID": "927497",
+        "type": "DI",
+        "section": "A01",
+        "days": "F",
+        "time": "6:00p-6:50p",
+        "building": "CENTR",
+        "room": "115",
+        "instructors": [
+          "Pasquale, Joseph"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "c5943b7845d1e2b2ca0aac64a4e3766cf749f00da05365f75ef97b83416ddd5e": {
         "sectxt": true,
         "sectionID": "927499",
         "type": "DI",
@@ -120,15 +111,16 @@
         "time": "7:00p-7:50p",
         "building": "CENTR",
         "room": "115",
-        "instructor": "Pasquale, Joseph",
         "instructors": [
           "Pasquale, Joseph"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

@@ -3,32 +3,12 @@
   "name": "Workshop in Macroeconomics",
   "department": "ECON",
   "id": "212B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924127",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "3:30p-4:50p",
-      "building": "ECON",
-      "room": "300",
-      "instructor": "Lagakos, David P.",
-      "instructors": [
-        "Lagakos, David P."
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "e0cda2d450b8cc9024fac1e7ccb97ee093c74934237c91286ecbbf9dc4e5356e": {
         "sectxt": true,
         "sectionID": "924127",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "3:30p-4:50p",
         "building": "ECON",
         "room": "300",
-        "instructor": "Lagakos, David P.",
         "instructors": [
           "Lagakos, David P."
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

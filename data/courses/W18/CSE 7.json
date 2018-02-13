@@ -3,106 +3,9 @@
   "name": "Intro Programming MATLAB",
   "department": "CSE",
   "id": "7",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "212",
-      "instructor": "Marx, Susan S",
-      "instructors": [
-        "Marx, Susan S"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927401",
-      "type": "LA",
-      "section": "A50",
-      "days": "W",
-      "time": "12:00p-1:50p",
-      "building": "EBU3B",
-      "room": "B270",
-      "instructor": "Marx, Susan S",
-      "instructors": [
-        "Marx, Susan S"
-      ],
-      "start_time": "12:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927402",
-      "type": "LA",
-      "section": "A51",
-      "days": "Tu",
-      "time": "9:00a-10:50a",
-      "building": "EBU3B",
-      "room": "B270",
-      "instructor": "Marx, Susan S",
-      "instructors": [
-        "Marx, Susan S"
-      ],
-      "start_time": "9:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927403",
-      "type": "LA",
-      "section": "A52",
-      "days": "Th",
-      "time": "12:00p-1:50p",
-      "building": "EBU3B",
-      "room": "B270",
-      "instructor": "Marx, Susan S",
-      "instructors": [
-        "Marx, Susan S"
-      ],
-      "start_time": "12:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927404",
-      "type": "LA",
-      "section": "A53",
-      "days": "W",
-      "time": "2:00p-3:50p",
-      "building": "EBU3B",
-      "room": "B270",
-      "instructor": "Marx, Susan S",
-      "instructors": [
-        "Marx, Susan S"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -111,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1866918a9e827ca2246c3cdc0800ca8cab9d14fcb63d242959828782dc5e03cc": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -130,16 +32,15 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "212",
-        "instructor": "Marx, Susan S",
         "instructors": [
           "Marx, Susan S"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "4ba760f065899486e2dbf41e46b43a89a0f9cb3d3c619022a390190316cfc0a0": {
         "sectxt": true,
         "sectionID": "927402",
         "type": "LA",
@@ -148,16 +49,15 @@
         "time": "9:00a-10:50a",
         "building": "EBU3B",
         "room": "B270",
-        "instructor": "Marx, Susan S",
         "instructors": [
           "Marx, Susan S"
         ],
         "start_time": "9:00",
         "end_time": "10:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "664fb1192c899ad420c384f1035679fd9aa443bbe17868a3444009b2ce9ed2d0": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -166,14 +66,13 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "212",
-        "instructor": "Marx, Susan S",
         "instructors": [
           "Marx, Susan S"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "6d4b69ee06952177504137ece15685c2ee8e760bea9283a6dcd9d9e276e810b6": {
         "sectxt": true,
         "sectionID": "927401",
         "type": "LA",
@@ -182,14 +81,13 @@
         "time": "12:00p-1:50p",
         "building": "EBU3B",
         "room": "B270",
-        "instructor": "Marx, Susan S",
         "instructors": [
           "Marx, Susan S"
         ],
         "start_time": "12:00",
         "end_time": "13:50"
       },
-      {
+      "28dabe43aeac50611e690acdf7b2476810dd7295a98b44a179d1ef4078d022a4": {
         "sectxt": true,
         "sectionID": "927404",
         "type": "LA",
@@ -198,16 +96,15 @@
         "time": "2:00p-3:50p",
         "building": "EBU3B",
         "room": "B270",
-        "instructor": "Marx, Susan S",
         "instructors": [
           "Marx, Susan S"
         ],
         "start_time": "14:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "decce2ffa650602872d8562a08381d60bb8d547e4e07b3220205800d25be27b0": {
         "sectxt": true,
         "sectionID": "927403",
         "type": "LA",
@@ -216,16 +113,15 @@
         "time": "12:00p-1:50p",
         "building": "EBU3B",
         "room": "B270",
-        "instructor": "Marx, Susan S",
         "instructors": [
           "Marx, Susan S"
         ],
         "start_time": "12:00",
         "end_time": "13:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "e0c71401fe619db626c079241f95ffbc9af299dc6dba6b446063c58d72b82533": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -234,15 +130,15 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "212",
-        "instructor": "Marx, Susan S",
         "instructors": [
           "Marx, Susan S"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

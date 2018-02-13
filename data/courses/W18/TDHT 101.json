@@ -3,31 +3,12 @@
   "name": "Topics: Lit & Theatre History",
   "department": "TDHT",
   "id": "101",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922705",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "YORK",
-      "room": "3000A",
-      "instructor": "Carmody, James",
-      "instructors": [
-        "Carmody, James"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "bab02022b4edc1898168671d2e668073b73324f255deb5598613ba1ac47163d7": {
         "sectxt": true,
         "sectionID": "922705",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "11:00a-12:20p",
         "building": "YORK",
         "room": "3000A",
-        "instructor": "Carmody, James",
         "instructors": [
           "Carmody, James"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "728624ef3461a61ed4e53a3601d488cfbb568a606e408b9401000332de2b84d1": {
         "sectxt": true,
         "sectionID": "922705",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "11:00a-12:20p",
         "building": "YORK",
         "room": "3000A",
-        "instructor": "Carmody, James",
         "instructors": [
           "Carmody, James"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

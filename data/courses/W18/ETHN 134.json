@@ -3,31 +3,12 @@
   "name": "Immigration&Ethnicity/Amer Soc",
   "department": "ETHN",
   "id": "134",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922678",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "2:00p-4:50p",
-      "building": "HSS",
-      "room": "4025",
-      "instructor": "Gutierrez, David G",
-      "instructors": [
-        "Gutierrez, David G"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "abe85e36074fede7de5728e2f3254230ae6efeb0b7652da006c0f4282b286bd9": {
         "sectxt": true,
         "sectionID": "922678",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "2:00p-4:50p",
         "building": "HSS",
         "room": "4025",
-        "instructor": "Gutierrez, David G",
         "instructors": [
           "Gutierrez, David G"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

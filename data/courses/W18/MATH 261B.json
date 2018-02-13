@@ -3,42 +3,9 @@
   "name": "ProblstcCombintrcs&AlgorthmII",
   "department": "MATH",
   "id": "261B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927299",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "10:00a-10:50a",
-      "building": "APM",
-      "room": "7421",
-      "instructor": "Verstraete, Jacques Allan",
-      "instructors": [
-        "Verstraete, Jacques Allan"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "a7eeaea9007960f21acad65c006923ef05367347c1d029cab4a007e571d3cb33": {
         "sectxt": true,
         "sectionID": "927299",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "10:00a-10:50a",
         "building": "APM",
         "room": "7421",
-        "instructor": "Verstraete, Jacques Allan",
         "instructors": [
           "Verstraete, Jacques Allan"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "e50e1227fcfab3e8ff74416e96edcb8966dfce84d1eca1ad1d652cc25713619e": {
         "sectxt": true,
         "sectionID": "927299",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "10:00a-10:50a",
         "building": "APM",
         "room": "7421",
-        "instructor": "Verstraete, Jacques Allan",
         "instructors": [
           "Verstraete, Jacques Allan"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "a9ec38f2b000deddf83a32c8f158659bff612b699e7c2a9ffc38174bf2c9f724": {
         "sectxt": true,
         "sectionID": "927299",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "10:00a-10:50a",
         "building": "APM",
         "room": "7421",
-        "instructor": "Verstraete, Jacques Allan",
         "instructors": [
           "Verstraete, Jacques Allan"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

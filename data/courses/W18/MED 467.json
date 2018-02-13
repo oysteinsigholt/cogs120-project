@@ -3,24 +3,8 @@
   "name": "Med Acting Internshp-VAMC/UCSD",
   "department": "MED",
   "id": "467",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928491",
-      "type": "CL",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Frederick, William James",
-      "instructors": [
-        "Frederick, William James"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Frederick, William James",
       "instructors": [
         "Frederick, William James"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

@@ -3,254 +3,9 @@
   "name": "Physics/Physics Majrs-Mechancs",
   "department": "PHYS",
   "id": "4A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "CENTR",
-      "room": "113",
-      "instructor": "Lin, Tongyan",
-      "instructors": [
-        "Lin, Tongyan"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "CENTR",
-      "room": "113",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923740",
-      "type": "DI",
-      "section": "A01",
-      "days": "Th",
-      "time": "3:30p-4:20p",
-      "building": "MYR-A",
-      "room": "2623",
-      "instructor": "Lin, Tongyan",
-      "instructors": [
-        "Lin, Tongyan"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929976",
-      "type": "DI",
-      "section": "A02",
-      "days": "Th",
-      "time": "4:30p-5:20p",
-      "building": "MYR-A",
-      "room": "2623",
-      "instructor": "Lin, Tongyan",
-      "instructors": [
-        "Lin, Tongyan"
-      ],
-      "start_time": "16:30",
-      "end_time": "17:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929977",
-      "type": "DI",
-      "section": "A03",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "MYR-A",
-      "room": "2623",
-      "instructor": "Lin, Tongyan",
-      "instructors": [
-        "Lin, Tongyan"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/11/2018",
-      "days": "Th",
-      "time": "8:00p-9:50p",
-      "building": "CSB",
-      "room": "001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-11T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/18/2018",
-      "days": "Th",
-      "time": "8:00p-9:50p",
-      "building": "CSB",
-      "room": "001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-18T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/25/2018",
-      "days": "Th",
-      "time": "8:00p-9:50p",
-      "building": "CSB",
-      "room": "001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-25T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/01/2018",
-      "days": "Th",
-      "time": "8:00p-9:50p",
-      "building": "CSB",
-      "room": "001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-01T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/08/2018",
-      "days": "Th",
-      "time": "8:00p-9:50p",
-      "building": "CSB",
-      "room": "001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-08T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/15/2018",
-      "days": "Th",
-      "time": "8:00p-9:50p",
-      "building": "CSB",
-      "room": "001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-15T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/22/2018",
-      "days": "Th",
-      "time": "8:00p-9:50p",
-      "building": "CSB",
-      "room": "001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-22T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/01/2018",
-      "days": "Th",
-      "time": "8:00p-9:50p",
-      "building": "CSB",
-      "room": "001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-01T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/08/2018",
-      "days": "Th",
-      "time": "8:00p-9:50p",
-      "building": "CSB",
-      "room": "001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-08T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/15/2018",
-      "days": "Th",
-      "time": "8:00p-9:50p",
-      "building": "CSB",
-      "room": "001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-15T07:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "2254a38919ec34988401b8bc1e40a2976a4dc480255eb806a5562b9f3faae09d": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -259,13 +14,12 @@
       "time": "8:00p-9:50p",
       "building": "CSB",
       "room": "001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-11T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "74eb80ad6b2dce311f3b80b08b8949615222e3d8dda74403a594d4c1b38d1396": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -274,13 +28,12 @@
       "time": "8:00p-9:50p",
       "building": "CSB",
       "room": "001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-18T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "f8496aab85aaa0ab1ed1511ecba1ccdab1af353db9f6ff5ad18909b45994543f": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -289,13 +42,12 @@
       "time": "8:00p-9:50p",
       "building": "CSB",
       "room": "001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-25T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "673b06e39c98a6ced520690c73296490b63f6c9fb4c163c151fb288b0a718a89": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -304,13 +56,12 @@
       "time": "8:00p-9:50p",
       "building": "CSB",
       "room": "001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-01T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "9a31fa83a1e8f0d98eac3563a240aefd5db846d77849989dd419d3418a2ecd7d": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -319,13 +70,12 @@
       "time": "8:00p-9:50p",
       "building": "CSB",
       "room": "001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-08T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "e85721a968e5ee136ee7b0ae2338f347aff7f8dcabfe9073b66ee5aff7e109b5": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -334,13 +84,12 @@
       "time": "8:00p-9:50p",
       "building": "CSB",
       "room": "001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-15T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "45ca24779487075c6225e91a0a8d11039c729273385b10129f96af2bcbb1acc2": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -349,13 +98,12 @@
       "time": "8:00p-9:50p",
       "building": "CSB",
       "room": "001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-22T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "2f561a855670644b7d81013750dfe0ccb8228a8144d932b015efae9263c801c1": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -364,13 +112,12 @@
       "time": "8:00p-9:50p",
       "building": "CSB",
       "room": "001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-01T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "a508b74df380df080b1b55ca8402a2595bbbac731229a62ceefa9f24776b6812": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -379,13 +126,12 @@
       "time": "8:00p-9:50p",
       "building": "CSB",
       "room": "001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-08T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "5ee6f87e1c93f33e7e1ca00c9a45d5d94df4009141dee69ab87c7e5fec72c476": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -394,13 +140,12 @@
       "time": "8:00p-9:50p",
       "building": "CSB",
       "room": "001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-15T07:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -409,17 +154,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "6721ec3568dcd8f8a49712a671b801dfee4ddaabbc63506c0e935ab456b7dffd": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -428,17 +172,15 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Lin, Tongyan",
         "instructors": [
           "Lin, Tongyan"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "03db29512c920154c8251b4bab8a52a294794a0af7dbbc2424d2ef4b9cb7ee87": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -447,14 +189,13 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Lin, Tongyan",
         "instructors": [
           "Lin, Tongyan"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "0fd56e6d1a86a325ff2599b535279d9376f583b5f31b33fa3781636e031aecf1": {
         "sectxt": true,
         "sectionID": "929977",
         "type": "DI",
@@ -463,16 +204,15 @@
         "time": "4:00p-4:50p",
         "building": "MYR-A",
         "room": "2623",
-        "instructor": "Lin, Tongyan",
         "instructors": [
           "Lin, Tongyan"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8b13c35814b62afbac3063d9299e6a0a573d1206323477d501675f13bae500b6": {
         "sectxt": true,
         "sectionID": "923740",
         "type": "DI",
@@ -481,14 +221,13 @@
         "time": "3:30p-4:20p",
         "building": "MYR-A",
         "room": "2623",
-        "instructor": "Lin, Tongyan",
         "instructors": [
           "Lin, Tongyan"
         ],
         "start_time": "15:30",
         "end_time": "16:20"
       },
-      {
+      "a1fd8d35f073502b9e4eb1e7b38d0bd461f92939be6061106fb58f9bd3e9ba62": {
         "sectxt": true,
         "sectionID": "929976",
         "type": "DI",
@@ -497,16 +236,15 @@
         "time": "4:30p-5:20p",
         "building": "MYR-A",
         "room": "2623",
-        "instructor": "Lin, Tongyan",
         "instructors": [
           "Lin, Tongyan"
         ],
         "start_time": "16:30",
         "end_time": "17:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "d279da4a3d7ccd6f447b5cb8f0bddd178e11c77d67d14b93ba22188196cebe12": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -515,14 +253,13 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Lin, Tongyan",
         "instructors": [
           "Lin, Tongyan"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "d095058a3c5ca6878be2e5af45056c73925fc6945e80151eaa049f5fb0198342": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -531,13 +268,13 @@
         "time": "3:00p-3:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "",
         "instructors": [],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

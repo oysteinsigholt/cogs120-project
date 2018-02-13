@@ -3,222 +3,12 @@
   "name": "Phys Lab-Elec&Magnetism",
   "department": "PHYS",
   "id": "2CL",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "YORK",
-      "room": "2722",
-      "instructor": "Frano Pereira, Alex M",
-      "instructors": [
-        "Frano Pereira, Alex M"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923725",
-      "type": "LA",
-      "section": "A01",
-      "days": "Tu",
-      "time": "8:00a-10:50a",
-      "building": "MYR-A",
-      "room": "2544",
-      "instructor": "Frano Pereira, Alex M",
-      "instructors": [
-        "Frano Pereira, Alex M"
-      ],
-      "start_time": "8:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923726",
-      "type": "LA",
-      "section": "A02",
-      "days": "Tu",
-      "time": "11:00a-1:50p",
-      "building": "MYR-A",
-      "room": "2544",
-      "instructor": "Frano Pereira, Alex M",
-      "instructors": [
-        "Frano Pereira, Alex M"
-      ],
-      "start_time": "11:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923727",
-      "type": "LA",
-      "section": "A03",
-      "days": "Tu",
-      "time": "5:00p-7:50p",
-      "building": "MYR-A",
-      "room": "2544",
-      "instructor": "Frano Pereira, Alex M",
-      "instructors": [
-        "Frano Pereira, Alex M"
-      ],
-      "start_time": "17:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923728",
-      "type": "LA",
-      "section": "A04",
-      "days": "W",
-      "time": "8:00a-10:50a",
-      "building": "MYR-A",
-      "room": "2544",
-      "instructor": "Frano Pereira, Alex M",
-      "instructors": [
-        "Frano Pereira, Alex M"
-      ],
-      "start_time": "8:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923729",
-      "type": "LA",
-      "section": "A05",
-      "days": "W",
-      "time": "11:00a-1:50p",
-      "building": "MYR-A",
-      "room": "2544",
-      "instructor": "Frano Pereira, Alex M",
-      "instructors": [
-        "Frano Pereira, Alex M"
-      ],
-      "start_time": "11:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923730",
-      "type": "LA",
-      "section": "A06",
-      "days": "W",
-      "time": "2:00p-4:50p",
-      "building": "MYR-A",
-      "room": "2544",
-      "instructor": "Frano Pereira, Alex M",
-      "instructors": [
-        "Frano Pereira, Alex M"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923731",
-      "type": "LA",
-      "section": "A07",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923732",
-      "type": "LA",
-      "section": "A08",
-      "days": "Th",
-      "time": "11:00a-1:50p",
-      "building": "MYR-A",
-      "room": "2544",
-      "instructor": "Frano Pereira, Alex M",
-      "instructors": [
-        "Frano Pereira, Alex M"
-      ],
-      "start_time": "11:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923733",
-      "type": "LA",
-      "section": "A09",
-      "days": "Th",
-      "time": "5:00p-7:50p",
-      "building": "MYR-A",
-      "room": "2544",
-      "instructor": "Frano Pereira, Alex M",
-      "instructors": [
-        "Frano Pereira, Alex M"
-      ],
-      "start_time": "17:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923734",
-      "type": "LA",
-      "section": "A10",
-      "days": "F",
-      "time": "11:00a-1:50p",
-      "building": "MYR-A",
-      "room": "2544",
-      "instructor": "Frano Pereira, Alex M",
-      "instructors": [
-        "Frano Pereira, Alex M"
-      ],
-      "start_time": "11:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923735",
-      "type": "LA",
-      "section": "A11",
-      "days": "F",
-      "time": "2:00p-4:50p",
-      "building": "MYR-A",
-      "room": "2544",
-      "instructor": "Frano Pereira, Alex M",
-      "instructors": [
-        "Frano Pereira, Alex M"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923736",
-      "type": "LA",
-      "section": "A12",
-      "days": "F",
-      "time": "5:00p-7:50p",
-      "building": "MYR-A",
-      "room": "2544",
-      "instructor": "Frano Pereira, Alex M",
-      "instructors": [
-        "Frano Pereira, Alex M"
-      ],
-      "start_time": "17:00",
-      "end_time": "19:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "827d8e61b0be564cefe3242e8ded91bf3b54cd405249ba4e71bd8ae53b45dd4d": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -227,16 +17,15 @@
         "time": "4:00p-4:50p",
         "building": "YORK",
         "room": "2722",
-        "instructor": "Frano Pereira, Alex M",
         "instructors": [
           "Frano Pereira, Alex M"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "40fa347ffb7e0497d3c2c40978e3449d56c547ad357cc2d0a68f86ebe264f798": {
         "sectxt": true,
         "sectionID": "923725",
         "type": "LA",
@@ -245,14 +34,13 @@
         "time": "8:00a-10:50a",
         "building": "MYR-A",
         "room": "2544",
-        "instructor": "Frano Pereira, Alex M",
         "instructors": [
           "Frano Pereira, Alex M"
         ],
         "start_time": "8:00",
         "end_time": "10:50"
       },
-      {
+      "5d1083bf2d3dcb0d93e1020e6dd6e9210baff8ed5558c8ee4a407dd2be657edd": {
         "sectxt": true,
         "sectionID": "923726",
         "type": "LA",
@@ -261,14 +49,13 @@
         "time": "11:00a-1:50p",
         "building": "MYR-A",
         "room": "2544",
-        "instructor": "Frano Pereira, Alex M",
         "instructors": [
           "Frano Pereira, Alex M"
         ],
         "start_time": "11:00",
         "end_time": "13:50"
       },
-      {
+      "83ca7b45018523a6995b6a746647db1743279975473ae461448f3ccd9668f02b": {
         "sectxt": true,
         "sectionID": "923727",
         "type": "LA",
@@ -277,16 +64,15 @@
         "time": "5:00p-7:50p",
         "building": "MYR-A",
         "room": "2544",
-        "instructor": "Frano Pereira, Alex M",
         "instructors": [
           "Frano Pereira, Alex M"
         ],
         "start_time": "17:00",
         "end_time": "19:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "29b332de57dc1ab92a406b087fc2af4b6e3b34200647eb7c6e58be5c0e2b3d68": {
         "sectxt": true,
         "sectionID": "923728",
         "type": "LA",
@@ -295,14 +81,13 @@
         "time": "8:00a-10:50a",
         "building": "MYR-A",
         "room": "2544",
-        "instructor": "Frano Pereira, Alex M",
         "instructors": [
           "Frano Pereira, Alex M"
         ],
         "start_time": "8:00",
         "end_time": "10:50"
       },
-      {
+      "03238c57d2f4124996c3b2b7d378a02a3574975f3e0295b4b4d1e59ba5bc3aed": {
         "sectxt": true,
         "sectionID": "923729",
         "type": "LA",
@@ -311,14 +96,13 @@
         "time": "11:00a-1:50p",
         "building": "MYR-A",
         "room": "2544",
-        "instructor": "Frano Pereira, Alex M",
         "instructors": [
           "Frano Pereira, Alex M"
         ],
         "start_time": "11:00",
         "end_time": "13:50"
       },
-      {
+      "94774e4b04a8bb10e1d2d205ea71f4f63c7d21bff51ccaf1561dc99b1b8ea0fb": {
         "sectxt": true,
         "sectionID": "923730",
         "type": "LA",
@@ -327,16 +111,15 @@
         "time": "2:00p-4:50p",
         "building": "MYR-A",
         "room": "2544",
-        "instructor": "Frano Pereira, Alex M",
         "instructors": [
           "Frano Pereira, Alex M"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "abca5022b1e909a16f9cd8d5ec0c1e688ea087bfcd05d499afc40d0ce2cd5fb0": {
         "sectxt": true,
         "sectionID": "923732",
         "type": "LA",
@@ -345,14 +128,13 @@
         "time": "11:00a-1:50p",
         "building": "MYR-A",
         "room": "2544",
-        "instructor": "Frano Pereira, Alex M",
         "instructors": [
           "Frano Pereira, Alex M"
         ],
         "start_time": "11:00",
         "end_time": "13:50"
       },
-      {
+      "fc5b57aeaad76701999823e614749c8facbc878a059dbbaa0a129286c121c082": {
         "sectxt": true,
         "sectionID": "923733",
         "type": "LA",
@@ -361,16 +143,15 @@
         "time": "5:00p-7:50p",
         "building": "MYR-A",
         "room": "2544",
-        "instructor": "Frano Pereira, Alex M",
         "instructors": [
           "Frano Pereira, Alex M"
         ],
         "start_time": "17:00",
         "end_time": "19:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "3922327c374dd02ff3fda7429751a51094bdfcdcb677a06fd04b3f74de7734a7": {
         "sectxt": true,
         "sectionID": "923734",
         "type": "LA",
@@ -379,14 +160,13 @@
         "time": "11:00a-1:50p",
         "building": "MYR-A",
         "room": "2544",
-        "instructor": "Frano Pereira, Alex M",
         "instructors": [
           "Frano Pereira, Alex M"
         ],
         "start_time": "11:00",
         "end_time": "13:50"
       },
-      {
+      "26e095667c704df2d3e27eace48deb2da754687a8cf9154423621fb95b9a3b29": {
         "sectxt": true,
         "sectionID": "923735",
         "type": "LA",
@@ -395,14 +175,13 @@
         "time": "2:00p-4:50p",
         "building": "MYR-A",
         "room": "2544",
-        "instructor": "Frano Pereira, Alex M",
         "instructors": [
           "Frano Pereira, Alex M"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       },
-      {
+      "048368bc98f6d8c74bd1929e6842a27ce70371df9ce30158b9f6f51ac85989cc": {
         "sectxt": true,
         "sectionID": "923736",
         "type": "LA",
@@ -411,15 +190,15 @@
         "time": "5:00p-7:50p",
         "building": "MYR-A",
         "room": "2544",
-        "instructor": "Frano Pereira, Alex M",
         "instructors": [
           "Frano Pereira, Alex M"
         ],
         "start_time": "17:00",
         "end_time": "19:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,42 +3,9 @@
   "name": "Biostatistics I",
   "department": "CLRE",
   "id": "253",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929390",
-      "type": "LE",
-      "section": "A00",
-      "days": "Th",
-      "time": "4:00p-6:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Vaida, Florin",
-      "instructors": [
-        "Vaida, Florin"
-      ],
-      "start_time": "16:00",
-      "end_time": "18:00"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/24/2018",
-      "days": "S",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-24T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "088fff54c9f97f5ab925630e72c8ecb1e0bf516ff1a88d7ebb53ba35b8b36315": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,20 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-24T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "ea8287d149cbc6e0aefccc917d074cb396cc0ca47b2b0a86b7b5bf2d7cf29d83": {
         "sectxt": true,
         "sectionID": "929390",
         "type": "LE",
@@ -69,16 +32,15 @@
         "time": "4:00p-6:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Vaida, Florin",
         "instructors": [
           "Vaida, Florin"
         ],
         "start_time": "16:00",
         "end_time": "18:00"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

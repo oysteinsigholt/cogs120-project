@@ -3,58 +3,9 @@
   "name": "Quant Methods in Psyc II",
   "department": "PSYC",
   "id": "201B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:50p",
-      "building": "MCGIL",
-      "room": "1350",
-      "instructor": "Vul, Edward",
-      "instructors": [
-        "Vul, Edward"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924678",
-      "type": "LA",
-      "section": "A01",
-      "days": "W",
-      "time": "5:00p-6:50p",
-      "building": "MCGIL",
-      "room": "1350",
-      "instructor": "Vul, Edward",
-      "instructors": [
-        "Vul, Edward"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "96b103b651b81f14ecb7c478e9b709765b71244e2606112308a81fe2ae16d28e": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -83,16 +32,15 @@
         "time": "2:00p-3:50p",
         "building": "MCGIL",
         "room": "1350",
-        "instructor": "Vul, Edward",
         "instructors": [
           "Vul, Edward"
         ],
         "start_time": "14:00",
         "end_time": "15:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "454e61b232ee40b158f4c43788b676ba4dac0f7b36c8e79e224dfc0b999c3d87": {
         "sectxt": true,
         "sectionID": "924678",
         "type": "LA",
@@ -101,16 +49,15 @@
         "time": "5:00p-6:50p",
         "building": "MCGIL",
         "room": "1350",
-        "instructor": "Vul, Edward",
         "instructors": [
           "Vul, Edward"
         ],
         "start_time": "17:00",
         "end_time": "18:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "c886c2149f5d1ed1a7ffeb97a0d9888a2c2816a3775eba64cdda8b90c6cbaedc": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -119,16 +66,15 @@
         "time": "2:00p-3:50p",
         "building": "MCGIL",
         "room": "1350",
-        "instructor": "Vul, Edward",
         "instructors": [
           "Vul, Edward"
         ],
         "start_time": "14:00",
         "end_time": "15:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,42 +3,9 @@
   "name": "Sociology of Food",
   "department": "SOCI",
   "id": "137",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923196",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "CENTR",
-      "room": "113",
-      "instructor": "Haydu, Jeffrey Miles",
-      "instructors": [
-        "Haydu, Jeffrey Miles"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "db3cfb123376b3540d7fe3058073e0ad18047412467f09ef37613328ceee997d": {
         "sectxt": true,
         "sectionID": "923196",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "11:00a-11:50a",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Haydu, Jeffrey Miles",
         "instructors": [
           "Haydu, Jeffrey Miles"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "96360a6a49f978ee03bfb42d94301c0e4753833d6c6ac3bec66a83d6d076199c": {
         "sectxt": true,
         "sectionID": "923196",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "11:00a-11:50a",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Haydu, Jeffrey Miles",
         "instructors": [
           "Haydu, Jeffrey Miles"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "f0578938232f8f5f52f4a0139749cae155186620cdbc40de0e954fd85d5a22d8": {
         "sectxt": true,
         "sectionID": "923196",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "11:00a-11:50a",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Haydu, Jeffrey Miles",
         "instructors": [
           "Haydu, Jeffrey Miles"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

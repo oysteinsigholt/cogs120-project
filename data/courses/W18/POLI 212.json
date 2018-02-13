@@ -3,34 +3,12 @@
   "name": "Contemporary Sociolog Theory",
   "department": "POLI",
   "id": "212",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929213",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "1:00p-3:50p",
-      "building": "SSB",
-      "room": "414",
-      "instructor": "Goldman, Harvey Stern",
-      "instructors": [
-        "Goldman, Harvey Stern"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "6551c93df562f84ce1bc2e9c7a43290479d9f724efd65c1d586189a534b7102b": {
         "sectxt": true,
         "sectionID": "929213",
         "type": "SE",
@@ -39,15 +17,15 @@
         "time": "1:00p-3:50p",
         "building": "SSB",
         "room": "414",
-        "instructor": "Goldman, Harvey Stern",
         "instructors": [
           "Goldman, Harvey Stern"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

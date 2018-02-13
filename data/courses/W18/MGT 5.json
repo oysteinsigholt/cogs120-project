@@ -3,42 +3,23 @@
   "name": "Managerial Accounting",
   "department": "MGT",
   "id": "5",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922564",
-      "type": "LE",
-      "section": "B00",
-      "days": "MW",
-      "time": "12:30p-1:50p",
-      "building": "WFH",
-      "room": "1W102",
-      "instructor": "Lindenberger, Wade Douglas",
-      "instructors": [
-        "Lindenberger, Wade Douglas"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +28,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "9397182ca6abd0a57c8bfad48d1ede17ed3c5c554fa6375ef3bf246508ded500": {
         "sectxt": true,
         "sectionID": "922564",
         "type": "LE",
@@ -66,17 +46,32 @@
         "time": "12:30p-1:50p",
         "building": "WFH",
         "room": "1W102",
-        "instructor": "Lindenberger, Wade Douglas",
         "instructors": [
           "Lindenberger, Wade Douglas"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "Tu": {
+      "b40389afb6b21f60f4a9babfdadd9b41710cdd2a1fb97a0ffacf8fe732918c11": {
+        "sectxt": true,
+        "sectionID": "922563",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "WFH",
+        "room": "1N108",
+        "instructors": [
+          "Houskeeper, Robert"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    },
+    "W": {
+      "171d7aabe6bc50c84a8dcdbcbc9c68a0629586a0813fb4c8b34ed19d870a25e6": {
         "sectxt": true,
         "sectionID": "922564",
         "type": "LE",
@@ -85,17 +80,33 @@
         "time": "12:30p-1:50p",
         "building": "WFH",
         "room": "1W102",
-        "instructor": "Lindenberger, Wade Douglas",
         "instructors": [
           "Lindenberger, Wade Douglas"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "Th": {
+      "65d9e8a929f93368e7531a4736fea99e5207f6e83165b586026f4cda872069b1": {
+        "sectxt": true,
+        "sectionID": "922563",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "WFH",
+        "room": "1N108",
+        "instructors": [
+          "Houskeeper, Robert"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

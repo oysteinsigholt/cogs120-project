@@ -3,33 +3,12 @@
   "name": "Professional Seminars Finance",
   "department": "MGTF",
   "id": "416",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930369",
-      "type": "LE",
-      "section": "A00",
-      "days": "Th",
-      "time": "3:30p-4:30p",
-      "building": "WFH",
-      "room": "1N108",
-      "instructor": "Melvin, Michael T.",
-      "instructors": [
-        "Melvin, Michael T."
-      ],
-      "start_time": "15:30",
-      "end_time": "16:30"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "b123d060e63962d25e7e633409a57c76934cf89100d8f014c9a5fc36ba43b0ae": {
         "sectxt": true,
         "sectionID": "930369",
         "type": "LE",
@@ -38,16 +17,15 @@
         "time": "3:30p-4:30p",
         "building": "WFH",
         "room": "1N108",
-        "instructor": "Melvin, Michael T.",
         "instructors": [
           "Melvin, Michael T."
         ],
         "start_time": "15:30",
         "end_time": "16:30"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

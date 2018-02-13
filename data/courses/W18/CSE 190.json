@@ -3,34 +3,403 @@
   "name": "Topics/Computer Sci & Engineer",
   "department": "CSE",
   "id": "190",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927546",
-      "type": "LE",
-      "section": "F00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    },
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "9e51eacbbfe796c5cd36b6435512ca3576df32138c66074b1fff56ca75522416": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "PB",
+      "section": "01/11/2018",
+      "days": "Th",
+      "time": "5:00p-5:50p",
+      "building": "WLH",
+      "room": "2208",
+      "instructors": [],
+      "date": "2018-01-11T08:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    "cddc0caf2f674632d3c60e63d6ed7f539f1dd0ec4353a1bf861fe314ddc7e9b4": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "PB",
+      "section": "01/18/2018",
+      "days": "Th",
+      "time": "5:00p-5:50p",
+      "building": "WLH",
+      "room": "2208",
+      "instructors": [],
+      "date": "2018-01-18T08:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    "ccd522c5c49b2527c041acc5d1ad8296db8fbc645ea37d72dbfc973f9e72764c": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "PB",
+      "section": "01/25/2018",
+      "days": "Th",
+      "time": "5:00p-5:50p",
+      "building": "WLH",
+      "room": "2208",
+      "instructors": [],
+      "date": "2018-01-25T08:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    "e5176a049f3bf570ea6dfb3cce1dafe97b8f51313ab591a59d360e10ecdda616": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "PB",
+      "section": "02/01/2018",
+      "days": "Th",
+      "time": "5:00p-5:50p",
+      "building": "WLH",
+      "room": "2208",
+      "instructors": [],
+      "date": "2018-02-01T08:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    "4a955cb41211258a7834364946eb2cefb48838271a0ba4197c6bef60b42539d0": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "PB",
+      "section": "02/08/2018",
+      "days": "Th",
+      "time": "5:00p-5:50p",
+      "building": "WLH",
+      "room": "2208",
+      "instructors": [],
+      "date": "2018-02-08T08:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    "42be18d12a36aab827e02a1343d1591a457a55a3993cfd18993b2e20cf4c1ea4": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "PB",
+      "section": "02/15/2018",
+      "days": "Th",
+      "time": "5:00p-5:50p",
+      "building": "WLH",
+      "room": "2208",
+      "instructors": [],
+      "date": "2018-02-15T08:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    "d38dfde81152a004abec170827e5ca35f2a78f2e00f0a4ccffbf54f29e5efe55": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "PB",
+      "section": "02/22/2018",
+      "days": "Th",
+      "time": "5:00p-5:50p",
+      "building": "WLH",
+      "room": "2208",
+      "instructors": [],
+      "date": "2018-02-22T08:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    "59295fc18f21ab5753b63c9c4ab26c3458296477f4e18d66f884ed2c59a91b9e": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "PB",
+      "section": "03/01/2018",
+      "days": "Th",
+      "time": "5:00p-5:50p",
+      "building": "WLH",
+      "room": "2208",
+      "instructors": [],
+      "date": "2018-03-01T08:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    "0253faa9d492d5676e42b199e4657f8a723ab6b78e8d19b2d69e3be3bf507af7": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "PB",
+      "section": "03/08/2018",
+      "days": "Th",
+      "time": "5:00p-5:50p",
+      "building": "WLH",
+      "room": "2208",
+      "instructors": [],
+      "date": "2018-03-08T08:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    "274a0f56f4ddad94cb8bcf29798f76ecc3afb68e5eae716d387aeb5d90540858": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "PB",
+      "section": "03/15/2018",
+      "days": "Th",
+      "time": "5:00p-5:50p",
+      "building": "WLH",
+      "room": "2208",
+      "instructors": [],
+      "date": "2018-03-15T07:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    "1f41d219eea3fb14a870fb9f3a13485fa4ab97edffa53bebd2d2ffbcadf4db61": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/17/2018",
+      "days": "S",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-17T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "M": {
+      "2b9b94ae82d2bed263398c923b742a58484f83c3782b45aedefd3279dc224a3f": {
+        "sectxt": true,
+        "sectionID": "927545",
+        "type": "LE",
+        "section": "E00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "WLH",
+        "room": "2113",
+        "instructors": [
+          "Tiefenbruck, Janine LoBue"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    },
+    "Tu": {
+      "8d9068e0ff53b42a48dd9f1b92c8f355f1a5ba67cbb915e8745085cf587f7a88": {
+        "sectxt": true,
+        "sectionID": "927541",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "EBU3B",
+        "room": "2154",
+        "instructors": [
+          "Kumar, Rakesh"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "c53e3ed9e2d865de21e93671132d66a8e892878907c65f336bdcdab17b801889": {
+        "sectxt": true,
+        "sectionID": "927542",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "EBU3B",
+        "room": "2154",
+        "instructors": [
+          "Kumar, Rakesh"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "429ce14ccf63fe011a5e8c1aadf6ade5bf57716fb01ab4451efb6a637d1b84b3": {
+        "sectxt": true,
+        "sectionID": "927543",
+        "type": "LE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "EBU3B",
+        "room": "2154",
+        "instructors": [
+          "Weibel, Nadir"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "da8182829476e72d7d4e891d27ee91388c57d4302f9d4285d88489bb31dc208a": {
+        "sectxt": true,
+        "sectionID": "927544",
+        "type": "LE",
+        "section": "D00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "105",
+        "instructors": [
+          "Nakashole, Ndapandula"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    },
+    "W": {
+      "a116d9da9fd39a1b625caca82a5bd66f596cc8a87fe294f3cf5daf098b20b3bc": {
+        "sectxt": true,
+        "sectionID": "927545",
+        "type": "LE",
+        "section": "E00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "WLH",
+        "room": "2113",
+        "instructors": [
+          "Tiefenbruck, Janine LoBue"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    },
+    "Th": {
+      "48a2eb2479e62bb9f9c177311889a62979d4afb64768ef99486f5b84da842fb0": {
+        "sectxt": true,
+        "sectionID": "927541",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "EBU3B",
+        "room": "2154",
+        "instructors": [
+          "Kumar, Rakesh"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "5005a4e48bb9f6832e21ee764ee085664c27407e1c0b2e62ac161ae74ee86f17": {
+        "sectxt": true,
+        "sectionID": "927542",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "EBU3B",
+        "room": "2154",
+        "instructors": [
+          "Kumar, Rakesh"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "1a76315a4f4219e15f74672ac6612e35cdd27489fd8e765e8d2b0e49477ecb72": {
+        "sectxt": true,
+        "sectionID": "927543",
+        "type": "LE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "EBU3B",
+        "room": "2154",
+        "instructors": [
+          "Weibel, Nadir"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "d45d5b1cc5623ca36dd70ee625c9f057b4097ff3bc2765a8752ff3a97ec79cb3": {
+        "sectxt": true,
+        "sectionID": "927544",
+        "type": "LE",
+        "section": "D00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "105",
+        "instructors": [
+          "Nakashole, Ndapandula"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    },
+    "F": {
+      "a944f8273af2c7c053f74a804fa3830fa400558958b610e9d9a478ba94c43e66": {
+        "sectxt": true,
+        "sectionID": "927545",
+        "type": "LE",
+        "section": "E00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "WLH",
+        "room": "2113",
+        "instructors": [
+          "Tiefenbruck, Janine LoBue"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F"
+  ]
 }

@@ -3,56 +3,9 @@
   "name": "Robotic Planning & Estimation",
   "department": "MAE",
   "id": "145",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922837",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "CSB",
-      "room": "001",
-      "instructor": "Martinez, Sonia",
-      "instructors": [
-        "Martinez, Sonia"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "12:00p-12:50p",
-      "building": "CSB",
-      "room": "001",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -61,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1abdc416f313b9cd3fe35054b999711b9f879f413cbefab1b245c0ddb9229daf": {
         "sectxt": true,
         "sectionID": "922837",
         "type": "LE",
@@ -80,17 +32,15 @@
         "time": "11:00a-11:50a",
         "building": "CSB",
         "room": "001",
-        "instructor": "Martinez, Sonia",
         "instructors": [
           "Martinez, Sonia"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "58f2d6971939702d3e18ad7a15469e95398fced6dd1f8d41a17a73e19977733d": {
         "sectxt": true,
         "sectionID": "922837",
         "type": "LE",
@@ -99,14 +49,13 @@
         "time": "11:00a-11:50a",
         "building": "CSB",
         "room": "001",
-        "instructor": "Martinez, Sonia",
         "instructors": [
           "Martinez, Sonia"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "0bc129e6e61dc97d6817c5924c61d5d7c996b7c7ee1c4510193b45b64c905c72": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -115,15 +64,13 @@
         "time": "12:00p-12:50p",
         "building": "CSB",
         "room": "001",
-        "instructor": "",
         "instructors": [],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "4869b8705840c37b43c9ea7db5777d3cf95b4884d362e7f17503cc5f63a3d3ac": {
         "sectxt": true,
         "sectionID": "922837",
         "type": "LE",
@@ -132,15 +79,15 @@
         "time": "11:00a-11:50a",
         "building": "CSB",
         "room": "001",
-        "instructor": "Martinez, Sonia",
         "instructors": [
           "Martinez, Sonia"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,42 +3,9 @@
   "name": "Finance",
   "department": "MGT",
   "id": "408",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930371",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "2:00p-5:00p",
-      "building": "OTRSN",
-      "room": "1E107",
-      "instructor": "Mullins, William",
-      "instructors": [
-        "Mullins, William"
-      ],
-      "start_time": "14:00",
-      "end_time": "17:00"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "2:00p-5:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "17:00"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "f75132093da7cab9501b73d5c0ab8ad1bbffb16827755aa003a0a5adfc4d5b0c": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "2:00p-5:00p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "14:00",
       "end_time": "17:00"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "e9586d0a10f66d6e58f8d45310f57adb138715bfb4dcc9013082964b4847b039": {
         "sectxt": true,
         "sectionID": "930371",
         "type": "LE",
@@ -67,18 +32,15 @@
         "time": "2:00p-5:00p",
         "building": "OTRSN",
         "room": "1E107",
-        "instructor": "Mullins, William",
         "instructors": [
           "Mullins, William"
         ],
         "start_time": "14:00",
         "end_time": "17:00"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

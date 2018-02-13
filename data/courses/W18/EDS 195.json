@@ -3,38 +3,8 @@
   "name": "Apprentice Teaching",
   "department": "EDS",
   "id": "195",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "SE",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Hofstetter, Carolyn",
-      "instructors": [
-        "Hofstetter, Carolyn"
-      ]
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922514",
-      "type": "PR",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Hofstetter, Carolyn",
-      "instructors": [
-        "Hofstetter, Carolyn"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -45,7 +15,6 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Hofstetter, Carolyn",
       "instructors": [
         "Hofstetter, Carolyn"
       ]
@@ -59,19 +28,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Hofstetter, Carolyn",
       "instructors": [
         "Hofstetter, Carolyn"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

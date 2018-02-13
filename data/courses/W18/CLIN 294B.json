@@ -3,32 +3,12 @@
   "name": "Proseminar in Neuropsychology",
   "department": "CLIN",
   "id": "294B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "919327",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "9:00a-12:00p",
-      "building": "BSB",
-      "room": "2071",
-      "instructor": "Bangen, Katherine Jo",
-      "instructors": [
-        "Bangen, Katherine Jo"
-      ],
-      "start_time": "9:00",
-      "end_time": "12:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "646b524a05b0a7da7f78ccdf82a52f205096a72b758f6dd63c6e617c623b8556": {
         "sectxt": true,
         "sectionID": "919327",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "9:00a-12:00p",
         "building": "BSB",
         "room": "2071",
-        "instructor": "Bangen, Katherine Jo",
         "instructors": [
           "Bangen, Katherine Jo"
         ],
         "start_time": "9:00",
         "end_time": "12:00"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

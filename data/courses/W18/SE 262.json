@@ -3,58 +3,11 @@
   "name": "Aerospace Structures Repair",
   "department": "SE",
   "id": "262",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "933066",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "WLH",
-      "room": "2111",
-      "instructor": "Kim, Hyonny",
-      "instructors": [
-        "Kim, Hyonny"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [
     "SE 262 4th hour will meet in same location as SE 171\n SME 420"
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,17 +16,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "4d9f7356dc891b61f0451f565bc4c87d8ef12a65507001d2cabbc3f2416a489a": {
         "sectxt": true,
         "sectionID": "933066",
         "type": "LE",
@@ -82,17 +34,15 @@
         "time": "1:00p-1:50p",
         "building": "WLH",
         "room": "2111",
-        "instructor": "Kim, Hyonny",
         "instructors": [
           "Kim, Hyonny"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "1d2647b13f119ddbc67b4dccbc77b600ea81725fca9f8061b8d3708e3c568ea3": {
         "sectxt": true,
         "sectionID": "933066",
         "type": "LE",
@@ -101,17 +51,15 @@
         "time": "1:00p-1:50p",
         "building": "WLH",
         "room": "2111",
-        "instructor": "Kim, Hyonny",
         "instructors": [
           "Kim, Hyonny"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "1f17f01353fb164f66337f5a0907de88dc085329a3e061e35313d60eecb6a59a": {
         "sectxt": true,
         "sectionID": "933066",
         "type": "LE",
@@ -120,14 +68,13 @@
         "time": "1:00p-1:50p",
         "building": "WLH",
         "room": "2111",
-        "instructor": "Kim, Hyonny",
         "instructors": [
           "Kim, Hyonny"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "adb6cbcbb012d123e8479169d1a765acb22b4e2b9328532b948d46e37a87ab2a": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -136,13 +83,14 @@
         "time": "2:00p-2:50p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "",
         "instructors": [],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

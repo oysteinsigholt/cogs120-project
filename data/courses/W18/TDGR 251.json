@@ -3,27 +3,24 @@
   "name": "Playwriting Practicum",
   "department": "TDGR",
   "id": "251",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920409",
-      "type": "LA",
-      "section": "B00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Iizuka, Naomi Hisako",
-      "instructors": [
-        "Iizuka, Naomi Hisako"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "920408",
+      "type": "LA",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Havis, Allan"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "920409",
       "type": "LA",
       "section": "B00",
@@ -31,19 +28,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Iizuka, Naomi Hisako",
       "instructors": [
         "Iizuka, Naomi Hisako"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

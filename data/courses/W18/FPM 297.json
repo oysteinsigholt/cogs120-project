@@ -3,27 +3,154 @@
   "name": "SpecialStudy/FamMed&PublicHlth",
   "department": "FPM",
   "id": "297",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "939995",
-      "type": "IN",
-      "section": "012",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Benmarhnia, Tarik",
-      "instructors": [
-        "Benmarhnia, Tarik"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "930040",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Strong, David R"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930148",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Liu, Lin"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "935951",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hurst, Samantha"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939059",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Kerr, Jacqueline"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939062",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Sawyer, Mark Harrison"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939065",
+      "type": "IN",
+      "section": "006",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Brouwer, Kimberly"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939070",
+      "type": "IN",
+      "section": "007",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Werb, Daniel Michael"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939352",
+      "type": "IN",
+      "section": "008",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Martinez, Maria Elena"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939660",
+      "type": "IN",
+      "section": "009",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Schwartzman, Armin"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939888",
+      "type": "IN",
+      "section": "010",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Silverman, Jay Glen"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939889",
+      "type": "IN",
+      "section": "011",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Raj, Anita"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "939995",
       "type": "IN",
       "section": "012",
@@ -31,19 +158,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Benmarhnia, Tarik",
       "instructors": [
         "Benmarhnia, Tarik"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

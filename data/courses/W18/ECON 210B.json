@@ -3,42 +3,9 @@
   "name": "Macroeconomics B",
   "department": "ECON",
   "id": "210B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924126",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "12:00p-1:20p",
-      "building": "ECON",
-      "room": "300",
-      "instructor": "Porzio, Tommaso",
-      "instructors": [
-        "Porzio, Tommaso"
-      ],
-      "start_time": "12:00",
-      "end_time": "13:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "5261b2313e6d2fca49c7be5e02532553cca2986e71fe9ffc1284661d9fee6fb4": {
         "sectxt": true,
         "sectionID": "924126",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "12:00p-1:20p",
         "building": "ECON",
         "room": "300",
-        "instructor": "Porzio, Tommaso",
         "instructors": [
           "Porzio, Tommaso"
         ],
         "start_time": "12:00",
         "end_time": "13:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "096514fcb061d4267e487dcdd8ee4b22803c89b66ec89c54d786776bd394a871": {
         "sectxt": true,
         "sectionID": "924126",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "12:00p-1:20p",
         "building": "ECON",
         "room": "300",
-        "instructor": "Porzio, Tommaso",
         "instructors": [
           "Porzio, Tommaso"
         ],
         "start_time": "12:00",
         "end_time": "13:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

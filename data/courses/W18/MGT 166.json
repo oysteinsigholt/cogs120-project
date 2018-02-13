@@ -3,42 +3,37 @@
   "name": "Corp Social Responsibility",
   "department": "MGT",
   "id": "166",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929957",
-      "type": "LE",
-      "section": "C00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "OTRSN",
-      "room": "1S113",
-      "instructor": "Moran, Cathleen L.",
-      "instructors": [
-        "Moran, Cathleen L."
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +42,46 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "877721c2791dfa1f51978307b0cecdd2016b7cc024a6703574fd5fd79ebee104": {
+        "sectxt": true,
+        "sectionID": "922588",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "OTRSN",
+        "room": "1S113",
+        "instructors": [
+          "Moran, Cathleen L."
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "63e5f404afe6b89e3251580389883ba1c310624587a28e5e3bf9aaccab0c9e55": {
+        "sectxt": true,
+        "sectionID": "922589",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "OTRSN",
+        "room": "1S113",
+        "instructors": [
+          "Moran, Cathleen L."
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "d9f09e1a6448c80016d871b48a0181590b34e90a8732e086caeedf8f4d010d43": {
         "sectxt": true,
         "sectionID": "929957",
         "type": "LE",
@@ -67,17 +90,45 @@
         "time": "11:00a-12:20p",
         "building": "OTRSN",
         "room": "1S113",
-        "instructor": "Moran, Cathleen L.",
         "instructors": [
           "Moran, Cathleen L."
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "030543b623f79a26026f26cbff4c24c0a0799dacbe353029a078ccfc06ff5e0d": {
+        "sectxt": true,
+        "sectionID": "922588",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "OTRSN",
+        "room": "1S113",
+        "instructors": [
+          "Moran, Cathleen L."
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "23a89686e4cc08dc7e85d67d710817b6186b1d444860a58d2f8f0b041411402a": {
+        "sectxt": true,
+        "sectionID": "922589",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "OTRSN",
+        "room": "1S113",
+        "instructors": [
+          "Moran, Cathleen L."
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "33a8c9093bb2a3792d8d857e8b68520bf28978a7cb1af46a4119768cf8199d9c": {
         "sectxt": true,
         "sectionID": "929957",
         "type": "LE",
@@ -86,16 +137,17 @@
         "time": "11:00a-12:20p",
         "building": "OTRSN",
         "room": "1S113",
-        "instructor": "Moran, Cathleen L.",
         "instructors": [
           "Moran, Cathleen L."
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

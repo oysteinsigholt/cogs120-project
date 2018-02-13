@@ -3,34 +3,12 @@
   "name": "Physical Prop.of Materials Lab",
   "department": "NANO",
   "id": "100L",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926732",
-      "type": "LA",
-      "section": "A00",
-      "days": "F",
-      "time": "9:00a-11:50a",
-      "building": "SME",
-      "room": "313",
-      "instructor": "Cubukcu, Ertugrul",
-      "instructors": [
-        "Cubukcu, Ertugrul"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "9d384416fe0cc647363523a92164172a9b38bb9063730c8c03cc89bb9b71792c": {
         "sectxt": true,
         "sectionID": "926732",
         "type": "LA",
@@ -39,15 +17,15 @@
         "time": "9:00a-11:50a",
         "building": "SME",
         "room": "313",
-        "instructor": "Cubukcu, Ertugrul",
         "instructors": [
           "Cubukcu, Ertugrul"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

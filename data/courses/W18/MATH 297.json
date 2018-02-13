@@ -3,24 +3,8 @@
   "name": "Math Grad Research Internship",
   "department": "MATH",
   "id": "297",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927329",
-      "type": "IN",
-      "section": "001",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Gamst, Anthony Collins",
-      "instructors": [
-        "Gamst, Anthony Collins"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Gamst, Anthony Collins",
       "instructors": [
         "Gamst, Anthony Collins"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

@@ -3,48 +3,44 @@
   "name": "Physical Chemistry Laboratory",
   "department": "CHEM",
   "id": "105A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "M",
-      "time": "12:00p-12:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Crowell, John E",
-      "instructors": [
-        "Crowell, John E"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "932866",
-      "type": "LA",
-      "section": "B01",
-      "days": "MW",
-      "time": "9:00a-11:50a",
-      "building": "YORK",
-      "room": "1322",
-      "instructor": "Crowell, John E",
-      "instructors": [
-        "Crowell, John E"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [
     "CHEM 105A B00 will meet in YORK 2622"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "0bc129e6e61dc97d6817c5924c61d5d7c996b7c7ee1c4510193b45b64c905c72": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "12:00p-12:50p",
+        "building": "YORK",
+        "room": "2622",
+        "instructors": [
+          "Crowell, John E"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "d4c707c90e09c3d523f633c4442f8601539643e83ed7dfa2779f2690e679d177": {
+        "sectxt": true,
+        "sectionID": "926527",
+        "type": "LA",
+        "section": "A01",
+        "days": "MW",
+        "time": "1:00p-3:50p",
+        "building": "YORK",
+        "room": "1344",
+        "instructors": [
+          "Crowell, John E"
+        ],
+        "start_time": "13:00",
+        "end_time": "15:50"
+      },
+      "74565c9c0c61347b8ce87f2733cf6296cab8cdd2ce1e890300a60cf208986781": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -53,14 +49,13 @@
         "time": "12:00p-12:50p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Crowell, John E",
         "instructors": [
           "Crowell, John E"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "245da630a89853576685adece8aad56162a9c6af73ad9c779d9b393db06ad51b": {
         "sectxt": true,
         "sectionID": "932866",
         "type": "LA",
@@ -69,17 +64,30 @@
         "time": "9:00a-11:50a",
         "building": "YORK",
         "room": "1322",
-        "instructor": "Crowell, John E",
         "instructors": [
           "Crowell, John E"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "31ad61d8988027599065a2154c5ca3f4a6260d24d829e8b571b3adb3d19e97e1": {
+        "sectxt": true,
+        "sectionID": "926527",
+        "type": "LA",
+        "section": "A01",
+        "days": "MW",
+        "time": "1:00p-3:50p",
+        "building": "YORK",
+        "room": "1344",
+        "instructors": [
+          "Crowell, John E"
+        ],
+        "start_time": "13:00",
+        "end_time": "15:50"
+      },
+      "c832d197adab6f27e26bdad95c661f8e8a7428586eb8c0f3e267e0d1e795697b": {
         "sectxt": true,
         "sectionID": "932866",
         "type": "LA",
@@ -88,17 +96,16 @@
         "time": "9:00a-11:50a",
         "building": "YORK",
         "room": "1322",
-        "instructor": "Crowell, John E",
         "instructors": [
           "Crowell, John E"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

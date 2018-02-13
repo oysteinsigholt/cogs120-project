@@ -3,90 +3,9 @@
   "name": "Theatre 1500-1900",
   "department": "TDHT",
   "id": "22",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "11:00a-11:50a",
-      "building": "PCYNH",
-      "room": "121",
-      "instructor": "Smarr, Janet L.",
-      "instructors": [
-        "Smarr, Janet L."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922702",
-      "type": "DI",
-      "section": "A01",
-      "days": "F",
-      "time": "10:00a-10:50a",
-      "building": "MANDE",
-      "room": "B-152",
-      "instructor": "Smarr, Janet L.",
-      "instructors": [
-        "Smarr, Janet L."
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922703",
-      "type": "DI",
-      "section": "A02",
-      "days": "F",
-      "time": "11:00a-11:50a",
-      "building": "MANDE",
-      "room": "B-152",
-      "instructor": "Smarr, Janet L.",
-      "instructors": [
-        "Smarr, Janet L."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922704",
-      "type": "DI",
-      "section": "A03",
-      "days": "F",
-      "time": "12:00p-12:50p",
-      "building": "MANDE",
-      "room": "B-152",
-      "instructor": "Smarr, Janet L.",
-      "instructors": [
-        "Smarr, Janet L."
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -95,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "8f5cd86a955748c71ed3b0524caeeb63a50a0e72fd21fc5f08d1756339b04ec5": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -114,17 +32,15 @@
         "time": "11:00a-11:50a",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "Smarr, Janet L.",
         "instructors": [
           "Smarr, Janet L."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "74ea09cb3d01daba039901e3d18030194c0ce47fc0bd239b573a61ed455612f9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -133,17 +49,15 @@
         "time": "11:00a-11:50a",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "Smarr, Janet L.",
         "instructors": [
           "Smarr, Janet L."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "b85cdccf2fbc7e421a3b022cdc51f8072ed07e92ba10065eaaf0f5bebdae2165": {
         "sectxt": true,
         "sectionID": "922702",
         "type": "DI",
@@ -152,14 +66,13 @@
         "time": "10:00a-10:50a",
         "building": "MANDE",
         "room": "B-152",
-        "instructor": "Smarr, Janet L.",
         "instructors": [
           "Smarr, Janet L."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "77a29c4f54155f7f35aec84186de5bc958af4f3f04fa1d692938bcfd670fb270": {
         "sectxt": true,
         "sectionID": "922703",
         "type": "DI",
@@ -168,14 +81,13 @@
         "time": "11:00a-11:50a",
         "building": "MANDE",
         "room": "B-152",
-        "instructor": "Smarr, Janet L.",
         "instructors": [
           "Smarr, Janet L."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "b1f47861d09f959d91da6964c4f893ea6521c1abf8574be6caf73c34c3f61c2e": {
         "sectxt": true,
         "sectionID": "922704",
         "type": "DI",
@@ -184,15 +96,15 @@
         "time": "12:00p-12:50p",
         "building": "MANDE",
         "room": "B-152",
-        "instructor": "Smarr, Janet L.",
         "instructors": [
           "Smarr, Janet L."
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

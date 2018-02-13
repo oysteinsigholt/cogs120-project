@@ -3,34 +3,390 @@
   "name": "Multicellular Life",
   "department": "BILD",
   "id": "2",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "931810",
-      "type": "DI",
-      "section": "B10",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "YORK",
-      "room": "3000A",
-      "instructor": "Schroeder, Julian I",
-      "instructors": [
-        "Schroeder, Julian I"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "58206b35e81f697ce7e74c8b56aacf0938c69ca1448854e89b019807d9690ae7": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/25/2018",
+      "days": "Sun",
+      "time": "10:00a-11:50a",
+      "building": "CENTR",
+      "room": "214",
+      "instructors": [],
+      "date": "2018-02-25T08:00:00.000Z",
+      "start_time": "10:00",
+      "end_time": "11:50"
+    },
+    "45837436928ab5a80a307c394359e8ad65f6ed5e7d33b8881bc69b47e65c8611": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "03/18/2018",
+      "days": "Sun",
+      "time": "3:00p-4:50p",
+      "building": "CENTR",
+      "room": "214",
+      "instructors": [],
+      "date": "2018-03-18T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "16:50"
+    },
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "78e39469ec1e068596c46ce633abd529d4373da283514843f3f8dec2bdcfd551": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "01/27/2018",
+      "days": "S",
+      "time": "11:00a-1:50p",
+      "building": "PETER",
+      "room": "110",
+      "instructors": [],
+      "date": "2018-01-27T08:00:00.000Z",
+      "start_time": "11:00",
+      "end_time": "13:50"
+    },
+    "e331901171f7033e3f2cfd70a85409a84457f8a74f63d7666bae01e74420f8f6": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/24/2018",
+      "days": "S",
+      "time": "11:00a-1:50p",
+      "building": "PETER",
+      "room": "110",
+      "instructors": [],
+      "date": "2018-02-24T08:00:00.000Z",
+      "start_time": "11:00",
+      "end_time": "13:50"
+    },
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "M": {
+      "55ca937fd2c3c5052468b1d24b9bf6ed87422d9ecc9ab38b136e09e81b2eed11": {
+        "sectxt": true,
+        "sectionID": "925978",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "1305",
+        "instructors": [
+          "Su, Chih-Ying"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "f524baf54b54dea81e60a685dfff58678560aca2221d24b08072fcea4a3ca3b9": {
+        "sectxt": true,
+        "sectionID": "925979",
+        "type": "DI",
+        "section": "A03",
+        "days": "M",
+        "time": "5:00p-5:50p",
+        "building": "HSS",
+        "room": "1305",
+        "instructors": [
+          "Su, Chih-Ying"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "cd3b846419817c3c4fac0a04652f50f4b383aa48244336358957105f94f77365": {
+        "sectxt": true,
+        "sectionID": "925980",
+        "type": "DI",
+        "section": "A04",
+        "days": "M",
+        "time": "6:00p-6:50p",
+        "building": "HSS",
+        "room": "1305",
+        "instructors": [
+          "Su, Chih-Ying"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "60979f3f5cab787e8ac0c1db2adcd868c02e8186a749b98736baf58c73426572": {
+        "sectxt": true,
+        "sectionID": "925986",
+        "type": "DI",
+        "section": "B01",
+        "days": "M",
+        "time": "5:00p-5:50p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Schroeder, Julian I"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "bc64ab3748cbd42118ae1fdb77e9c12de9f057976cb79fac7382aa153a2646ec": {
+        "sectxt": true,
+        "sectionID": "925987",
+        "type": "DI",
+        "section": "B02",
+        "days": "M",
+        "time": "6:00p-6:50p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Schroeder, Julian I"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "f97417bbddea67fb70cda81dfaa1c24053dd777f28f68874c7e1911230cef373": {
+        "sectxt": true,
+        "sectionID": "925988",
+        "type": "DI",
+        "section": "B03",
+        "days": "M",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Schroeder, Julian I"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    },
+    "Tu": {
+      "e465ded450a51855ecac87097b7a25f20ad1b32d4d66efd5a69c690a29911893": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "CENTR",
+        "room": "214",
+        "instructors": [
+          "Su, Chih-Ying"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "8c381587f1f8de3776f759acd364bc0a3a6601f9336312d32b890a80b26fd9e7": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "PETER",
+        "room": "110",
+        "instructors": [
+          "Schroeder, Julian I"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    },
+    "W": {
+      "582c29059fc1fcf0939d9de8e8b6678df68a3c44dc652d9b11a08fa35c03161c": {
+        "sectxt": true,
+        "sectionID": "925977",
+        "type": "DI",
+        "section": "A01",
+        "days": "W",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "218",
+        "instructors": [
+          "Su, Chih-Ying"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "a2dcc53cc9a053054bedaa554664ae64bf45bcf77dde70d40719b077882940d8": {
+        "sectxt": true,
+        "sectionID": "925981",
+        "type": "DI",
+        "section": "A05",
+        "days": "W",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "218",
+        "instructors": [
+          "Su, Chih-Ying"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "dfc23afd7860435d7f21e7c25d359f6155d311b6c8d3f7a618ffc75d9d977f02": {
+        "sectxt": true,
+        "sectionID": "925989",
+        "type": "DI",
+        "section": "B04",
+        "days": "W",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "2154",
+        "instructors": [
+          "Schroeder, Julian I"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "5b9abba3bcf38f5010e0b76e80613d11d3c320d9a83a58ab7b260632496ffb3f": {
+        "sectxt": true,
+        "sectionID": "925990",
+        "type": "DI",
+        "section": "B05",
+        "days": "W",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "2154",
+        "instructors": [
+          "Schroeder, Julian I"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    },
+    "Th": {
+      "8545ab0c79c23ec92792f48a8a4e9c983955e31d9ddad421339a098929d3ab17": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "CENTR",
+        "room": "214",
+        "instructors": [
+          "Su, Chih-Ying"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "1616dcbcbe708e0126d57588b90b1023f6b8d7b1726225e7b5a0dd9e86a63639": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "PETER",
+        "room": "110",
+        "instructors": [
+          "Schroeder, Julian I"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "8854d8ec53d1310453243971da50b5b28a524935e0d2f0f184ec267410774d97": {
+        "sectxt": true,
+        "sectionID": "925991",
+        "type": "DI",
+        "section": "B06",
+        "days": "Th",
+        "time": "8:00a-8:50a",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Schroeder, Julian I"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      }
+    },
+    "F": {
+      "c23d01be85934a60fb84d11889d55161662b32b20621aa232df23c1a40888c40": {
+        "sectxt": true,
+        "sectionID": "925982",
+        "type": "DI",
+        "section": "A06",
+        "days": "F",
+        "time": "1:00p-1:50p",
+        "building": "HSS",
+        "room": "1315",
+        "instructors": [
+          "Su, Chih-Ying"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "17746079997755fc97101b639e4af60fcddfabc89caf78044f05f8b0dbd3ed76": {
+        "sectxt": true,
+        "sectionID": "925992",
+        "type": "DI",
+        "section": "B07",
+        "days": "F",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "2154",
+        "instructors": [
+          "Schroeder, Julian I"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "68c047a2bc83435f97c604b478f85ad4c20175fa3c3deb99911698ff7caedffb": {
+        "sectxt": true,
+        "sectionID": "925993",
+        "type": "DI",
+        "section": "B08",
+        "days": "F",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "2154",
+        "instructors": [
+          "Schroeder, Julian I"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "23bbe91e72bd77ec6e2a2924115a8749c8baed219bfc996c1cc626a924f0d1b4": {
+        "sectxt": true,
+        "sectionID": "930615",
+        "type": "DI",
+        "section": "B09",
+        "days": "F",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "218",
+        "instructors": [
+          "Schroeder, Julian I"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "480a5fd6a8657d67c9b11f1e31563b3f3b50cd528d2f15987fde89cd986bceb4": {
         "sectxt": true,
         "sectionID": "931810",
         "type": "DI",
@@ -39,15 +395,16 @@
         "time": "3:00p-3:50p",
         "building": "YORK",
         "room": "3000A",
-        "instructor": "Schroeder, Julian I",
         "instructors": [
           "Schroeder, Julian I"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

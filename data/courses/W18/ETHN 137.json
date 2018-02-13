@@ -3,42 +3,9 @@
   "name": "Latina Issues & Cultural Prod.",
   "department": "ETHN",
   "id": "137",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922628",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "5:00p-6:20p",
-      "building": "CENTR",
-      "room": "201",
-      "instructor": "Hernandez, Jillian",
-      "instructors": [
-        "Hernandez, Jillian"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "10328f7ad17fbc40b2aba291c557f48b1e43920ca9b9729018b655a544e76838": {
         "sectxt": true,
         "sectionID": "922628",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "5:00p-6:20p",
         "building": "CENTR",
         "room": "201",
-        "instructor": "Hernandez, Jillian",
         "instructors": [
           "Hernandez, Jillian"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "e4de8c1e7e02c15f45d2011150c2f5e5a6601a98cd9d1933f2cf2464a94fe5c0": {
         "sectxt": true,
         "sectionID": "922628",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "5:00p-6:20p",
         "building": "CENTR",
         "room": "201",
-        "instructor": "Hernandez, Jillian",
         "instructors": [
           "Hernandez, Jillian"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

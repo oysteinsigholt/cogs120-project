@@ -3,170 +3,9 @@
   "name": "Ethics And Society",
   "department": "PHIL",
   "id": "27",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "1:00p-1:50p",
-      "building": "SOLIS",
-      "room": "107",
-      "instructor": "Lamey, Andy M.",
-      "instructors": [
-        "Lamey, Andy M."
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924786",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "WLH",
-      "room": "2209",
-      "instructor": "Lamey, Andy M.",
-      "instructors": [
-        "Lamey, Andy M."
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924787",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2209",
-      "instructor": "Lamey, Andy M.",
-      "instructors": [
-        "Lamey, Andy M."
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924788",
-      "type": "DI",
-      "section": "A03",
-      "days": "M",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2209",
-      "instructor": "Lamey, Andy M.",
-      "instructors": [
-        "Lamey, Andy M."
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924789",
-      "type": "DI",
-      "section": "A04",
-      "days": "W",
-      "time": "12:00p-12:50p",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "Lamey, Andy M.",
-      "instructors": [
-        "Lamey, Andy M."
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924790",
-      "type": "DI",
-      "section": "A05",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "SOLIS",
-      "room": "109",
-      "instructor": "Lamey, Andy M.",
-      "instructors": [
-        "Lamey, Andy M."
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924791",
-      "type": "DI",
-      "section": "A06",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "SOLIS",
-      "room": "109",
-      "instructor": "Lamey, Andy M.",
-      "instructors": [
-        "Lamey, Andy M."
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924792",
-      "type": "DI",
-      "section": "A07",
-      "days": "F",
-      "time": "12:00p-12:50p",
-      "building": "TM102",
-      "room": "1",
-      "instructor": "Lamey, Andy M.",
-      "instructors": [
-        "Lamey, Andy M."
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924793",
-      "type": "DI",
-      "section": "A08",
-      "days": "F",
-      "time": "1:00p-1:50p",
-      "building": "TM102",
-      "room": "1",
-      "instructor": "Lamey, Andy M.",
-      "instructors": [
-        "Lamey, Andy M."
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -175,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "e4a7e0b48e5a74a5039a6a4a5657e3e1413e312642286325ab5d305301b5cae2": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -194,14 +32,13 @@
         "time": "1:00p-1:50p",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Lamey, Andy M.",
         "instructors": [
           "Lamey, Andy M."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "82fd721534927d182adcfe691a65a9b6ba84ff005111fe4dd409be9376da8f2e": {
         "sectxt": true,
         "sectionID": "924786",
         "type": "DI",
@@ -210,14 +47,13 @@
         "time": "2:00p-2:50p",
         "building": "WLH",
         "room": "2209",
-        "instructor": "Lamey, Andy M.",
         "instructors": [
           "Lamey, Andy M."
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "a93b810c57977b2b539da07a4d44474774a7b7a9770cf1b2ca07976fca2d82fa": {
         "sectxt": true,
         "sectionID": "924787",
         "type": "DI",
@@ -226,14 +62,13 @@
         "time": "3:00p-3:50p",
         "building": "WLH",
         "room": "2209",
-        "instructor": "Lamey, Andy M.",
         "instructors": [
           "Lamey, Andy M."
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "d598ec3b09661dc1e41fe152cfa12e70f419fc831d66f8ba579b4955bb7bb7c0": {
         "sectxt": true,
         "sectionID": "924788",
         "type": "DI",
@@ -242,17 +77,15 @@
         "time": "5:00p-5:50p",
         "building": "WLH",
         "room": "2209",
-        "instructor": "Lamey, Andy M.",
         "instructors": [
           "Lamey, Andy M."
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "c15fcf4f9ab3e7d38ca0b0fda612d43843a9400dd321e08de7ed0c9d036f43b0": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -261,14 +94,13 @@
         "time": "1:00p-1:50p",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Lamey, Andy M.",
         "instructors": [
           "Lamey, Andy M."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "a03919bdcab8b2acca2070873449d99c2ee734642fa57379b0e3350b7dfd0031": {
         "sectxt": true,
         "sectionID": "924789",
         "type": "DI",
@@ -277,14 +109,13 @@
         "time": "12:00p-12:50p",
         "building": "HSS",
         "room": "2150",
-        "instructor": "Lamey, Andy M.",
         "instructors": [
           "Lamey, Andy M."
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "24a7e8fb0ffebb7e6bee0a688194a7b1a670406505644053fd7b9f0fc5419148": {
         "sectxt": true,
         "sectionID": "924790",
         "type": "DI",
@@ -293,14 +124,13 @@
         "time": "3:00p-3:50p",
         "building": "SOLIS",
         "room": "109",
-        "instructor": "Lamey, Andy M.",
         "instructors": [
           "Lamey, Andy M."
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "d6743cf05c4fe94386573300310f6858a2813de02669b46cc9366a0c6e377055": {
         "sectxt": true,
         "sectionID": "924791",
         "type": "DI",
@@ -309,17 +139,15 @@
         "time": "5:00p-5:50p",
         "building": "SOLIS",
         "room": "109",
-        "instructor": "Lamey, Andy M.",
         "instructors": [
           "Lamey, Andy M."
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "a452ffea9c8ec0838f6ddaea6b6cb4a364f87f1b0924a33b499f82a2c196b441": {
         "sectxt": true,
         "sectionID": "924792",
         "type": "DI",
@@ -328,14 +156,13 @@
         "time": "12:00p-12:50p",
         "building": "TM102",
         "room": "1",
-        "instructor": "Lamey, Andy M.",
         "instructors": [
           "Lamey, Andy M."
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "be88aae79d7ecbbc1e15c53a1fbc0267f4fa76230a1eef4df0c3fc7bf03d27d0": {
         "sectxt": true,
         "sectionID": "924793",
         "type": "DI",
@@ -344,15 +171,15 @@
         "time": "1:00p-1:50p",
         "building": "TM102",
         "room": "1",
-        "instructor": "Lamey, Andy M.",
         "instructors": [
           "Lamey, Andy M."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,27 +3,63 @@
   "name": "Directed Studies",
   "department": "TDGR",
   "id": "293",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "935000",
-      "type": "IN",
-      "section": "008",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Castro, Robert Jess",
-      "instructors": [
-        "Castro, Robert Jess"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "930117",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Burelle, Julie Sara Veronique"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930568",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Brill, Robert L."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930579",
+      "type": "IN",
+      "section": "006",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "George, Nadine"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930593",
+      "type": "IN",
+      "section": "007",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Carmody, James"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "935000",
       "type": "IN",
       "section": "008",
@@ -31,19 +67,50 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Castro, Robert Jess",
       "instructors": [
         "Castro, Robert Jess"
       ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920429",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Smarr, Janet L."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920430",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Dolan, Judith A."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920431",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "McDonald, Marianne"
+      ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

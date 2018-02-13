@@ -3,230 +3,9 @@
   "name": "Animal Behavior&Communication",
   "department": "BIEB",
   "id": "166",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "3:00p-3:50p",
-      "building": "PETER",
-      "room": "108",
-      "instructor": "Nieh, James Charles",
-      "instructors": [
-        "Nieh, James Charles"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925944",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "8:00a-8:50a",
-      "building": "HSS",
-      "room": "1315",
-      "instructor": "Nieh, James Charles",
-      "instructors": [
-        "Nieh, James Charles"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925945",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "9:00a-9:50a",
-      "building": "HSS",
-      "room": "1315",
-      "instructor": "Nieh, James Charles",
-      "instructors": [
-        "Nieh, James Charles"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925946",
-      "type": "DI",
-      "section": "A03",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2154",
-      "instructor": "Nieh, James Charles",
-      "instructors": [
-        "Nieh, James Charles"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925947",
-      "type": "DI",
-      "section": "A04",
-      "days": "Tu",
-      "time": "8:00a-8:50a",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Nieh, James Charles",
-      "instructors": [
-        "Nieh, James Charles"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925948",
-      "type": "DI",
-      "section": "A05",
-      "days": "W",
-      "time": "7:00p-7:50p",
-      "building": "CENTR",
-      "room": "217B",
-      "instructor": "Nieh, James Charles",
-      "instructors": [
-        "Nieh, James Charles"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925949",
-      "type": "DI",
-      "section": "A06",
-      "days": "W",
-      "time": "8:00p-8:50p",
-      "building": "CENTR",
-      "room": "217B",
-      "instructor": "Nieh, James Charles",
-      "instructors": [
-        "Nieh, James Charles"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925950",
-      "type": "DI",
-      "section": "A07",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "CENTR",
-      "room": "207",
-      "instructor": "Nieh, James Charles",
-      "instructors": [
-        "Nieh, James Charles"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925951",
-      "type": "DI",
-      "section": "A08",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/26/2018",
-      "days": "F",
-      "time": "4:00p-4:50p",
-      "building": "MANDE",
-      "room": "B-210",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-26T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/27/2018",
-      "days": "S",
-      "time": "10:00a-10:50a",
-      "building": "PETER",
-      "room": "108",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-27T08:00:00.000Z",
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/24/2018",
-      "days": "S",
-      "time": "10:00a-10:50a",
-      "building": "PETER",
-      "room": "108",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-24T08:00:00.000Z",
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "03/17/2018",
-      "days": "S",
-      "time": "10:00a-11:50a",
-      "building": "SOLIS",
-      "room": "107",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-17T07:00:00.000Z",
-      "start_time": "10:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "debceb14d1884ef6f7f6097ac23e47b2b09a8f1dea6e0f251bcc7ccc19ba705c": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -235,13 +14,12 @@
       "time": "4:00p-4:50p",
       "building": "MANDE",
       "room": "B-210",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-26T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "f4e1103583986f806169e4eb579fcb12f91bc3c85e83f0b292bca24f2e4abf2e": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -250,13 +28,12 @@
       "time": "10:00a-10:50a",
       "building": "PETER",
       "room": "108",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-27T08:00:00.000Z",
       "start_time": "10:00",
       "end_time": "10:50"
     },
-    {
+    "5ab0659b2ec64a9dd4d1bb5179c78952a18ae4932b454029ef4e43791ee34b0c": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -265,13 +42,12 @@
       "time": "10:00a-10:50a",
       "building": "PETER",
       "room": "108",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-24T08:00:00.000Z",
       "start_time": "10:00",
       "end_time": "10:50"
     },
-    {
+    "8700147e8c8d5e7dd3763e25471f78cb73ac0492b7c9e6d7245b5455b5971ebb": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -280,13 +56,12 @@
       "time": "10:00a-11:50a",
       "building": "SOLIS",
       "room": "107",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-17T07:00:00.000Z",
       "start_time": "10:00",
       "end_time": "11:50"
     },
-    {
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -295,17 +70,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "d095058a3c5ca6878be2e5af45056c73925fc6945e80151eaa049f5fb0198342": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -314,14 +88,13 @@
         "time": "3:00p-3:50p",
         "building": "PETER",
         "room": "108",
-        "instructor": "Nieh, James Charles",
         "instructors": [
           "Nieh, James Charles"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "58101993a31cace862c77cb0322aad233d169fdfa9104d97fa6023c128188331": {
         "sectxt": true,
         "sectionID": "925944",
         "type": "DI",
@@ -330,14 +103,13 @@
         "time": "8:00a-8:50a",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Nieh, James Charles",
         "instructors": [
           "Nieh, James Charles"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "2793922181bda066806b96c25d31c788186ce0158a9c30c8a0b1eeb1fd936a9a": {
         "sectxt": true,
         "sectionID": "925945",
         "type": "DI",
@@ -346,14 +118,13 @@
         "time": "9:00a-9:50a",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Nieh, James Charles",
         "instructors": [
           "Nieh, James Charles"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "4dd3af7337bf80bd173587711e8de99415f2d0962381c1d3913b0ca639dce102": {
         "sectxt": true,
         "sectionID": "925946",
         "type": "DI",
@@ -362,16 +133,15 @@
         "time": "2:00p-2:50p",
         "building": "HSS",
         "room": "2154",
-        "instructor": "Nieh, James Charles",
         "instructors": [
           "Nieh, James Charles"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "c290f86cadc39d1db820601ec9067db40abbacd6f2a219ddc20797fe5b8d8073": {
         "sectxt": true,
         "sectionID": "925947",
         "type": "DI",
@@ -380,16 +150,15 @@
         "time": "8:00a-8:50a",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Nieh, James Charles",
         "instructors": [
           "Nieh, James Charles"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "79d74431070cb4a8eb869597224182097a4582db84061fe22372de2962a74f0b": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -398,14 +167,13 @@
         "time": "3:00p-3:50p",
         "building": "PETER",
         "room": "108",
-        "instructor": "Nieh, James Charles",
         "instructors": [
           "Nieh, James Charles"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "cc31817f44bb720f4d78c6e9830a3c4819099b65bc6af6bf8c2f5995a554a373": {
         "sectxt": true,
         "sectionID": "925948",
         "type": "DI",
@@ -414,14 +182,13 @@
         "time": "7:00p-7:50p",
         "building": "CENTR",
         "room": "217B",
-        "instructor": "Nieh, James Charles",
         "instructors": [
           "Nieh, James Charles"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "cd202f85a2b903a135d1c057d412fa70ace696868e6a82c0c0c7fc73786f6704": {
         "sectxt": true,
         "sectionID": "925949",
         "type": "DI",
@@ -430,17 +197,15 @@
         "time": "8:00p-8:50p",
         "building": "CENTR",
         "room": "217B",
-        "instructor": "Nieh, James Charles",
         "instructors": [
           "Nieh, James Charles"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "4e9424c9c995e804cbb6cf63305e4e1abb14e40929e3015af5858fba1ddefc1b": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -449,14 +214,13 @@
         "time": "3:00p-3:50p",
         "building": "PETER",
         "room": "108",
-        "instructor": "Nieh, James Charles",
         "instructors": [
           "Nieh, James Charles"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "8edd91c38224f63a5bedee74700638052d60d32f553f9bb5339bfe2152d0ccee": {
         "sectxt": true,
         "sectionID": "925950",
         "type": "DI",
@@ -465,15 +229,15 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Nieh, James Charles",
         "instructors": [
           "Nieh, James Charles"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

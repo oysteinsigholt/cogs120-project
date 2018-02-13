@@ -3,33 +3,29 @@
   "name": "Freshman Seminar",
   "department": "BILD",
   "id": "87",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926047",
-      "type": "SE",
-      "section": "B00",
-      "days": "Th",
-      "time": "1:00p-1:50p",
-      "building": "BIO",
-      "room": "1103",
-      "instructor": "Saier, Milton H.",
-      "instructors": [
-        "Saier, Milton H."
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Tu": {
+      "eb63321ae78c9456c3cb581e7296c02e71f8ed2f7699ac9b7df33c25f06cbdb7": {
+        "sectxt": true,
+        "sectionID": "926046",
+        "type": "SE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "1:00p-1:50p",
+        "building": "BIO",
+        "room": "1129",
+        "instructors": [
+          "Saier, Milton H."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    },
+    "Th": {
+      "9705236ba3f082c8345373ce105fde7ef98512c6291696b1f8b85f9c316fdb34": {
         "sectxt": true,
         "sectionID": "926047",
         "type": "SE",
@@ -38,16 +34,16 @@
         "time": "1:00p-1:50p",
         "building": "BIO",
         "room": "1103",
-        "instructor": "Saier, Milton H.",
         "instructors": [
           "Saier, Milton H."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

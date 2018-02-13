@@ -3,42 +3,9 @@
   "name": "Nanosystems Integration",
   "department": "NANO",
   "id": "205",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926748",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "CENTR",
-      "room": "216",
-      "instructor": "Jokerst, Jesse Vincent",
-      "instructors": [
-        "Jokerst, Jesse Vincent"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "c70c0bca37d7925a2936ae092cb2dabdac20db49e5ab9ad4108ff40f44c5d129": {
         "sectxt": true,
         "sectionID": "926748",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "3:30p-4:50p",
         "building": "CENTR",
         "room": "216",
-        "instructor": "Jokerst, Jesse Vincent",
         "instructors": [
           "Jokerst, Jesse Vincent"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "a7fa5a242b98c95d4d9ed20816ec019a2e233edd51ba6744c27e53fad1801d0d": {
         "sectxt": true,
         "sectionID": "926748",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "3:30p-4:50p",
         "building": "CENTR",
         "room": "216",
-        "instructor": "Jokerst, Jesse Vincent",
         "instructors": [
           "Jokerst, Jesse Vincent"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

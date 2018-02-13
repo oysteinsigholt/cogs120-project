@@ -3,47 +3,602 @@
   "name": "First Yr Chinese/Non-Native II",
   "department": "CHIN",
   "id": "10BN",
-  "timeslots": [
-    {
-      "sectxt": true,
+  "notes": [],
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
+      "sectxt": false,
       "sectionID": "",
-      "type": "LA",
-      "section": "C50",
-      "days": "TBA",
-      "time": "TBA",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Cha, Samuel",
-      "instructors": [
-        "Cha, Samuel"
-      ]
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
     }
-  ],
-  "notes": [],
-  "events_single": [],
+  },
   "events_unknown": [
     {
       "sectxt": true,
       "sectionID": "",
       "type": "LA",
+      "section": "A50",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Cha, Samuel"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
+      "section": "B50",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Cha, Samuel"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LA",
       "section": "C50",
       "days": "TBA",
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Cha, Samuel",
       "instructors": [
         "Cha, Samuel"
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "M": {
+      "dfec3ef78b6af05e7dbe6a0c2f1ec9df6f1abf027f9a4dffed9618b6fe019e2c": {
+        "sectxt": true,
+        "sectionID": "920627",
+        "type": "TU",
+        "section": "A01",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "MCGIL",
+        "room": "2342",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "cd166ab0eae35c1a24950457d90dd9a8458df4d76890fcf9b02356722e808935": {
+        "sectxt": true,
+        "sectionID": "920628",
+        "type": "TU",
+        "section": "A02",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "202",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "cb6bc8be8e62b5541fa381fc4a6c2dde3a2492160436e3a7939155db1790ddfa": {
+        "sectxt": true,
+        "sectionID": "920629",
+        "type": "TU",
+        "section": "A03",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "MCGIL",
+        "room": "2342",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "a93b4f11f71adfe74f3fae38d8fc8df95ee80c3edcbb75259e5d5add5afefc2b": {
+        "sectxt": true,
+        "sectionID": "920632",
+        "type": "TU",
+        "section": "B01",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "MCGIL",
+        "room": "2342",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "95ae18001d8065067e42c2340c19d29fe54b041d8ea98e0a1a35f4d928cfe8f2": {
+        "sectxt": true,
+        "sectionID": "920633",
+        "type": "TU",
+        "section": "B02",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "202",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "4939b5dcd150cc6d5a3ac41a6b30ef8dcee255f678b7f5797b627c933e1ccf5e": {
+        "sectxt": true,
+        "sectionID": "920634",
+        "type": "TU",
+        "section": "B03",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "202",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "7e0801cbd5be5a66ca45e953048c6e5d54f045bc7dde3af856aa6c365c01a2f2": {
+        "sectxt": true,
+        "sectionID": "920637",
+        "type": "TU",
+        "section": "C01",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "MCGIL",
+        "room": "2330",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "d2b31e08126232855d9862185b6ba6c36bdf3b912069e59387502862b820940a": {
+        "sectxt": true,
+        "sectionID": "920638",
+        "type": "TU",
+        "section": "C02",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "202",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "81ecefbfcd1f52ac6d16cb7734e8bedaf19b1e4be26e23328966d3c6983527f9": {
+        "sectxt": true,
+        "sectionID": "920639",
+        "type": "TU",
+        "section": "C03",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "202",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    },
+    "Tu": {
+      "d76bcf043f1041aeae848254fedd3b9af18897231d4c3398c9af555ce5e62306": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "CENTR",
+        "room": "217B",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "847a50f2fa5395561c0d5d1ceca2bbd45036602b9ceaf53fb929d6688c468394": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "HSS",
+        "room": "2150",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "169927bfd8483285e15eae4eff318e6d0070f5750a905c185f1671a05b930cc9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "HSS",
+        "room": "2150",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    },
+    "W": {
+      "64b47200ed61cc411fb70689eeeecfeba57eb182bdfc9822b5ecae60048c6ca1": {
+        "sectxt": true,
+        "sectionID": "920627",
+        "type": "TU",
+        "section": "A01",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "MCGIL",
+        "room": "2342",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "820cac04479a0adecb4a0d3ef74aa4a5dc0699ae951b76c0695beb574116221a": {
+        "sectxt": true,
+        "sectionID": "920628",
+        "type": "TU",
+        "section": "A02",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "202",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "05dceef1b85d15b28e57a0e26e36b7585a8943253469ed49c67eb3979bf678e0": {
+        "sectxt": true,
+        "sectionID": "920629",
+        "type": "TU",
+        "section": "A03",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "MCGIL",
+        "room": "2342",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "b33da4657e726c486848ce99c93efb0af7adc01a69cf9167063cf0da7f1ef8de": {
+        "sectxt": true,
+        "sectionID": "920632",
+        "type": "TU",
+        "section": "B01",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "MCGIL",
+        "room": "2342",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "bca7bed45f6336a3177f8047feab979e052bf16640fc27823295cd25d49512d2": {
+        "sectxt": true,
+        "sectionID": "920633",
+        "type": "TU",
+        "section": "B02",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "202",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "f7e18ef0811c7643661b1eb8e2170573b629fb1ff5132f7b80fddb912f93dcae": {
+        "sectxt": true,
+        "sectionID": "920634",
+        "type": "TU",
+        "section": "B03",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "202",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "88f9b1f7a6ad698684ac5780acee1e464e6d3b632112550a2ecfa612da2c1f99": {
+        "sectxt": true,
+        "sectionID": "920637",
+        "type": "TU",
+        "section": "C01",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "MCGIL",
+        "room": "2330",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "bfaa6e444ac7dce1c6c97822b69d769b0229fedb4ba96e50c9f83fbc16488aeb": {
+        "sectxt": true,
+        "sectionID": "920638",
+        "type": "TU",
+        "section": "C02",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "202",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "87edf476a6a9c3f4dd06e8ac4e73e20cedebf12e51e7f73b243a28feae53f82b": {
+        "sectxt": true,
+        "sectionID": "920639",
+        "type": "TU",
+        "section": "C03",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "202",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    },
+    "Th": {
+      "055dab9e4efb54208a1d7f8ffd64e8d079ba2cc9fe681a6ccf684c385c6a7818": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "CENTR",
+        "room": "217B",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "d3759d59a75d35ecdfe759ce2719eea41f8123ebe815a112a38701afec5bd9d1": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "HSS",
+        "room": "2150",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "ce57827e61859220db92212cd1c04cc7a1166fc5aaf1ced321703ef7fb6a6b22": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "HSS",
+        "room": "2150",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    },
+    "F": {
+      "90f72545d948221cf0d6b15989c758de79e3d650d4c0d92522ab10b36ab497e5": {
+        "sectxt": true,
+        "sectionID": "920627",
+        "type": "TU",
+        "section": "A01",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "MCGIL",
+        "room": "2342",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "f5c8629cb63b824c354ce34f88812f478117902aeb12ba7626805fe0b80b34ee": {
+        "sectxt": true,
+        "sectionID": "920628",
+        "type": "TU",
+        "section": "A02",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "202",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "d234b5e54069ccacb856cc6b977315617cdbac76dcbf8ece1afa6c852345bd9b": {
+        "sectxt": true,
+        "sectionID": "920629",
+        "type": "TU",
+        "section": "A03",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "MCGIL",
+        "room": "2342",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "c5053aa9f959f5ad080e5f773e6510ed9b244642381d4619a33f3f3b65e6070b": {
+        "sectxt": true,
+        "sectionID": "920632",
+        "type": "TU",
+        "section": "B01",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "MCGIL",
+        "room": "2342",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "a25d259e353fe13522f041230b042762b3cfd43583957892602e1a6bb2208682": {
+        "sectxt": true,
+        "sectionID": "920633",
+        "type": "TU",
+        "section": "B02",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "202",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "d762068ecca009400ec35812ede27802a9ea564e587051e53916edcb9edfaf93": {
+        "sectxt": true,
+        "sectionID": "920634",
+        "type": "TU",
+        "section": "B03",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "202",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "e1b01ea6281aaceb1b2f8ed30b0eeffe4943ea3d368b9427bf6611fe195bc8c9": {
+        "sectxt": true,
+        "sectionID": "920637",
+        "type": "TU",
+        "section": "C01",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "MCGIL",
+        "room": "2330",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "186e61d9975a151a7722c34a6f4c5a112819729bdacde7b1949863398c9c8bdd": {
+        "sectxt": true,
+        "sectionID": "920638",
+        "type": "TU",
+        "section": "C02",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "202",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "b2ee258f1888e15b7d2650ea4411ab4b6c3ea0359a89c8e52b3385756a424b51": {
+        "sectxt": true,
+        "sectionID": "920639",
+        "type": "TU",
+        "section": "C03",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "202",
+        "instructors": [
+          "Cha, Samuel"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

@@ -3,58 +3,9 @@
   "name": "Differential Geometry",
   "department": "MATH",
   "id": "150A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "4:00p-4:50p",
-      "building": "SOLIS",
-      "room": "110",
-      "instructor": "Rabin, Jeffrey Mark",
-      "instructors": [
-        "Rabin, Jeffrey Mark"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927171",
-      "type": "DI",
-      "section": "A01",
-      "days": "Th",
-      "time": "1:00p-1:50p",
-      "building": "APM",
-      "room": "5402",
-      "instructor": "Rabin, Jeffrey Mark",
-      "instructors": [
-        "Rabin, Jeffrey Mark"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b9b4ec5af540606b238988bee0286fc3a4cc4d540b7785beb08dccae4a0227c9": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "827d8e61b0be564cefe3242e8ded91bf3b54cd405249ba4e71bd8ae53b45dd4d": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -82,17 +32,15 @@
         "time": "4:00p-4:50p",
         "building": "SOLIS",
         "room": "110",
-        "instructor": "Rabin, Jeffrey Mark",
         "instructors": [
           "Rabin, Jeffrey Mark"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "77e4ef4f5c961a7ec147a3ff6cc6346072c465cf4d729938bdc40fc2c3b04f3d": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -101,16 +49,15 @@
         "time": "4:00p-4:50p",
         "building": "SOLIS",
         "room": "110",
-        "instructor": "Rabin, Jeffrey Mark",
         "instructors": [
           "Rabin, Jeffrey Mark"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "39cf75def5cd115dc46030bbdbb2dd571772515a861a6aabe26aeac675993dc5": {
         "sectxt": true,
         "sectionID": "927171",
         "type": "DI",
@@ -119,16 +66,15 @@
         "time": "1:00p-1:50p",
         "building": "APM",
         "room": "5402",
-        "instructor": "Rabin, Jeffrey Mark",
         "instructors": [
           "Rabin, Jeffrey Mark"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "8d2cf69a2f10e29d11598efd4f3a13b2565737a4fa81d866a0dc0a402488cda1": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -137,15 +83,15 @@
         "time": "4:00p-4:50p",
         "building": "SOLIS",
         "room": "110",
-        "instructor": "Rabin, Jeffrey Mark",
         "instructors": [
           "Rabin, Jeffrey Mark"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

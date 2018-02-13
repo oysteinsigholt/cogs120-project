@@ -3,32 +3,32 @@
   "name": "Junior Seminar in Comm",
   "department": "COMM",
   "id": "190",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924210",
-      "type": "SE",
-      "section": "D00",
-      "days": "M",
-      "time": "9:00a-11:50a",
-      "building": "MCC",
-      "room": "133",
-      "instructor": "Hartouni, Valerie A",
-      "instructors": [
-        "Hartouni, Valerie A"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [
+    "Touch as Communication",
+    "Communication as Art and Art as Communication",
+    "Music as Social Action",
     "Student Rebellion in the 1960s: Model or Myth?"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "bdb554e4f9dd9fb77e0566c61ff26752a558e1abb8c814d72d5d21a1917b5cdc": {
+        "sectxt": true,
+        "sectionID": "924208",
+        "type": "SE",
+        "section": "B00",
+        "days": "M",
+        "time": "1:00p-3:50p",
+        "building": "MCC",
+        "room": "133",
+        "instructors": [
+          "Vasquez, Olga A."
+        ],
+        "start_time": "13:00",
+        "end_time": "15:50"
+      },
+      "aa231a6df6d3bcfb9d537045aa0c9a810451ea9b6d516e94d6040494606a6ddd": {
         "sectxt": true,
         "sectionID": "924210",
         "type": "SE",
@@ -37,19 +37,52 @@
         "time": "9:00a-11:50a",
         "building": "MCC",
         "room": "133",
-        "instructor": "Hartouni, Valerie A",
         "instructors": [
           "Hartouni, Valerie A"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "W": {
+      "bdb991eec5f6b65c88a2d1d5915ca0bd588b0ed28272fad03fbfb8ed13527a89": {
+        "sectxt": true,
+        "sectionID": "924207",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "2:00p-4:50p",
+        "building": "MCC",
+        "room": "133",
+        "instructors": [
+          "Serlin, David"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:50"
+      }
+    },
+    "F": {
+      "b38029377a1bd73f9c8addd6ccb3132fd0f92e7864215cbe96136b531e33d975": {
+        "sectxt": true,
+        "sectionID": "924209",
+        "type": "SE",
+        "section": "C00",
+        "days": "F",
+        "time": "9:00a-11:50a",
+        "building": "MCC",
+        "room": "133",
+        "instructors": [
+          "Conner, Thomas Hartnell"
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
 }

@@ -3,44 +3,11 @@
   "name": "Sociology of Immigration",
   "department": "SOCI",
   "id": "125",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923190",
-      "type": "LE",
-      "section": "A00",
-      "days": "Th",
-      "time": "5:00p-7:50p",
-      "building": "WLH",
-      "room": "2113",
-      "instructor": "Hercowitz-Amir, Adi",
-      "instructors": [
-        "Hercowitz-Amir, Adi"
-      ],
-      "start_time": "17:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [
     "Special emphasis on Israel"
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -49,20 +16,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "51f2acbfdc5333166a2ebdbeabf1b7894c4dd6da6a2512429fa178699465ca5a": {
         "sectxt": true,
         "sectionID": "923190",
         "type": "LE",
@@ -71,16 +34,15 @@
         "time": "5:00p-7:50p",
         "building": "WLH",
         "room": "2113",
-        "instructor": "Hercowitz-Amir, Adi",
         "instructors": [
           "Hercowitz-Amir, Adi"
         ],
         "start_time": "17:00",
         "end_time": "19:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

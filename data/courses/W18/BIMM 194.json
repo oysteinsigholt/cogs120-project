@@ -3,34 +3,44 @@
   "name": "Adv Topics-Molecular Bio",
   "department": "BIMM",
   "id": "194",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929912",
-      "type": "SE",
-      "section": "C00",
-      "days": "F",
-      "time": "2:00p-3:20p",
-      "building": "YORK",
-      "room": "3010",
-      "instructor": "Grant, Barry J",
-      "instructors": [
-        "Grant, Barry J"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "M": {
+      "d53fa5361be84516b31fb80f1d19d2a4070bb6a6973ee1638f114c3397199ab2": {
+        "sectxt": true,
+        "sectionID": "926164",
+        "type": "SE",
+        "section": "A00",
+        "days": "M",
+        "time": "10:30a-11:50a",
+        "building": "YORK",
+        "room": "3010",
+        "instructors": [
+          "Hasty, Jeff M"
+        ],
+        "start_time": "10:30",
+        "end_time": "11:50"
+      },
+      "f6dd0999763b5830f73ad77d0bd24d67ef9d378fe2327a38b43cddf33e9589f3": {
+        "sectxt": true,
+        "sectionID": "926165",
+        "type": "SE",
+        "section": "B00",
+        "days": "M",
+        "time": "9:00a-10:20a",
+        "building": "YORK",
+        "room": "3010",
+        "instructors": [
+          "Murre, Cornelis"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:20"
+      }
+    },
+    "F": {
+      "cd25597ae31cdebec4e963ea999ea288c05ab0b0297ca3480eabdf2f59e0c8a8": {
         "sectxt": true,
         "sectionID": "929912",
         "type": "SE",
@@ -39,15 +49,17 @@
         "time": "2:00p-3:20p",
         "building": "YORK",
         "room": "3010",
-        "instructor": "Grant, Barry J",
         "instructors": [
           "Grant, Barry J"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

@@ -3,43 +3,9 @@
   "name": "Benthic Ecology",
   "department": "SIOB",
   "id": "275A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921955",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "ECKRT",
-      "room": "236",
-      "instructor": "Levin, Lisa Ann & Leichter, James J.",
-      "instructors": [
-        "Levin, Lisa Ann",
-        "Leichter, James J."
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -48,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "9d70f73a5fbc079b583670125a9981ee968e9a834528c11f74615bfca8c1316e": {
         "sectxt": true,
         "sectionID": "921955",
         "type": "LE",
@@ -68,18 +32,15 @@
         "time": "9:30a-10:50a",
         "building": "ECKRT",
         "room": "236",
-        "instructor": "Levin, Lisa Ann & Leichter, James J.",
         "instructors": [
-          "Levin, Lisa Ann",
-          "Leichter, James J."
+          "Levin, Lisa Ann                    \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLeichter, James J."
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "fc56550c2823d2a07c0c78e9f5b0984175c1f948ebb749d8ffee28ad09133a40": {
         "sectxt": true,
         "sectionID": "921955",
         "type": "LE",
@@ -88,17 +49,15 @@
         "time": "9:30a-10:50a",
         "building": "ECKRT",
         "room": "236",
-        "instructor": "Levin, Lisa Ann & Leichter, James J.",
         "instructors": [
-          "Levin, Lisa Ann",
-          "Leichter, James J."
+          "Levin, Lisa Ann                    \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLeichter, James J."
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

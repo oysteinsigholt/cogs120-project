@@ -3,136 +3,9 @@
   "name": "Biochemical Structure&Function",
   "department": "CHEM",
   "id": "114A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "YORK",
-      "room": "2622",
-      "instructor": "Muller, Ulrich K.",
-      "instructors": [
-        "Muller, Ulrich K."
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926537",
-      "type": "DI",
-      "section": "A01",
-      "days": "Tu",
-      "time": "8:00p-8:50p",
-      "building": "WLH",
-      "room": "2208",
-      "instructor": "Muller, Ulrich K.",
-      "instructors": [
-        "Muller, Ulrich K."
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926538",
-      "type": "DI",
-      "section": "A02",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926539",
-      "type": "DI",
-      "section": "A03",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "Muller, Ulrich K.",
-      "instructors": [
-        "Muller, Ulrich K."
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926540",
-      "type": "DI",
-      "section": "A04",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2208",
-      "instructor": "Muller, Ulrich K.",
-      "instructors": [
-        "Muller, Ulrich K."
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/27/2018",
-      "days": "S",
-      "time": "10:00a-12:50p",
-      "building": "YORK",
-      "room": "2622",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-27T08:00:00.000Z",
-      "start_time": "10:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/22/2018",
-      "days": "M",
-      "time": "7:00p-7:50p",
-      "building": "CENTR",
-      "room": "201",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-22T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "624ccfcfe64b144c29872b315302b03b7effde639b0db8a47a2ffe8458ee8dfc": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -141,13 +14,12 @@
       "time": "10:00a-12:50p",
       "building": "YORK",
       "room": "2622",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-27T08:00:00.000Z",
       "start_time": "10:00",
       "end_time": "12:50"
     },
-    {
+    "4b7447eff4d53ba059ed42dde85f4626aa1093bf4599b7fdd03709c7aa4f4f10": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -156,13 +28,12 @@
       "time": "7:00p-7:50p",
       "building": "CENTR",
       "room": "201",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-22T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "19:50"
     },
-    {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -171,17 +42,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "e4a7e0b48e5a74a5039a6a4a5657e3e1413e312642286325ab5d305301b5cae2": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -190,16 +60,15 @@
         "time": "1:00p-1:50p",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Muller, Ulrich K.",
         "instructors": [
           "Muller, Ulrich K."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "8bfbf6fbd039b9fbdeed32fab0e5cdb59c8693d1b7cd3d963c4f7d9ebd973c8f": {
         "sectxt": true,
         "sectionID": "926537",
         "type": "DI",
@@ -208,16 +77,15 @@
         "time": "8:00p-8:50p",
         "building": "WLH",
         "room": "2208",
-        "instructor": "Muller, Ulrich K.",
         "instructors": [
           "Muller, Ulrich K."
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "c15fcf4f9ab3e7d38ca0b0fda612d43843a9400dd321e08de7ed0c9d036f43b0": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -226,14 +94,13 @@
         "time": "1:00p-1:50p",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Muller, Ulrich K.",
         "instructors": [
           "Muller, Ulrich K."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "7933089049f2c27880b852059cef5e982c019a5d58213bac50a6c089b427da74": {
         "sectxt": true,
         "sectionID": "926539",
         "type": "DI",
@@ -242,17 +109,15 @@
         "time": "6:00p-6:50p",
         "building": "WLH",
         "room": "2115",
-        "instructor": "Muller, Ulrich K.",
         "instructors": [
           "Muller, Ulrich K."
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "a1ad73e826e4f3d18db30a6715bb1aece555b7c097097bfe51405b7a3389d35a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -261,14 +126,13 @@
         "time": "1:00p-1:50p",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Muller, Ulrich K.",
         "instructors": [
           "Muller, Ulrich K."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "5cbc4d2e9814015445cb4edb4af486ccc9758095c7b19776345967c7734b3ec8": {
         "sectxt": true,
         "sectionID": "926540",
         "type": "DI",
@@ -277,15 +141,15 @@
         "time": "5:00p-5:50p",
         "building": "WLH",
         "room": "2208",
-        "instructor": "Muller, Ulrich K.",
         "instructors": [
           "Muller, Ulrich K."
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

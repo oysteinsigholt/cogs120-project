@@ -3,58 +3,9 @@
   "name": "Structural Geology",
   "department": "SIO",
   "id": "162",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921076",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "IGPP",
-      "room": "303",
-      "instructor": "Brown, Kevin Michael",
-      "instructors": [
-        "Brown, Kevin Michael"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A01",
-      "days": "TuTh",
-      "time": "3:30p-4:20p",
-      "building": "IGPP",
-      "room": "303",
-      "instructor": "Brown, Kevin Michael",
-      "instructors": [
-        "Brown, Kevin Michael"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "8c605ad6da2ed3771f711f235111ded44c2f7e38a7cc7678ae2316a21abb8631": {
         "sectxt": true,
         "sectionID": "921076",
         "type": "LE",
@@ -83,14 +32,13 @@
         "time": "2:00p-3:20p",
         "building": "IGPP",
         "room": "303",
-        "instructor": "Brown, Kevin Michael",
         "instructors": [
           "Brown, Kevin Michael"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       },
-      {
+      "0a95db1ac56c72581b71d7840da5017d39abd6f965d52a86625f684aa5fdd631": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -99,17 +47,15 @@
         "time": "3:30p-4:20p",
         "building": "IGPP",
         "room": "303",
-        "instructor": "Brown, Kevin Michael",
         "instructors": [
           "Brown, Kevin Michael"
         ],
         "start_time": "15:30",
         "end_time": "16:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "db437320acf9148d26d86525834443ec928b0d49aaf4151f849a97f8366c0206": {
         "sectxt": true,
         "sectionID": "921076",
         "type": "LE",
@@ -118,14 +64,13 @@
         "time": "2:00p-3:20p",
         "building": "IGPP",
         "room": "303",
-        "instructor": "Brown, Kevin Michael",
         "instructors": [
           "Brown, Kevin Michael"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       },
-      {
+      "18f953fe5feed3ba2dbf825314da0385f93bc675aa9e2490490e354f5da2550c": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -134,16 +79,15 @@
         "time": "3:30p-4:20p",
         "building": "IGPP",
         "room": "303",
-        "instructor": "Brown, Kevin Michael",
         "instructors": [
           "Brown, Kevin Michael"
         ],
         "start_time": "15:30",
         "end_time": "16:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,104 +3,9 @@
   "name": "Macroeconomics B",
   "department": "ECON",
   "id": "110B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "SOLIS",
-      "room": "104",
-      "instructor": "Hamilton, James D.",
-      "instructors": [
-        "Hamilton, James D."
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924074",
-      "type": "DI",
-      "section": "B01",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "SOLIS",
-      "room": "104",
-      "instructor": "Hamilton, James D.",
-      "instructors": [
-        "Hamilton, James D."
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924075",
-      "type": "DI",
-      "section": "B02",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "02/10/2018",
-      "days": "S",
-      "time": "1:00p-1:50p",
-      "building": "PETER",
-      "room": "110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-10T08:00:00.000Z",
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "03/03/2018",
-      "days": "S",
-      "time": "1:00p-1:50p",
-      "building": "PETER",
-      "room": "110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-03T08:00:00.000Z",
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/17/2018",
-      "days": "S",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-17T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5fd3b290bd16decb255c2232363852197e6a9825a7526c8e84f2d4ef8a9644c5": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -109,13 +14,12 @@
       "time": "1:00p-1:50p",
       "building": "PETER",
       "room": "110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-10T08:00:00.000Z",
       "start_time": "13:00",
       "end_time": "13:50"
     },
-    {
+    "dd3164fa62c0d85e1414c9bc5731313c7d55d887f23334033e3f78b1b2c96bb0": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -124,13 +28,12 @@
       "time": "1:00p-1:50p",
       "building": "PETER",
       "room": "110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-03T08:00:00.000Z",
       "start_time": "13:00",
       "end_time": "13:50"
     },
-    {
+    "ace250a1febe77920a79e7f2214332e774880653bfaf3605da95f69e1b691332": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -139,18 +42,61 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-17T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "d76bcf043f1041aeae848254fedd3b9af18897231d4c3398c9af555ce5e62306": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "SOLIS",
+        "room": "107",
+        "instructors": [
+          "Hamilton, James D."
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "c0d1ca33ce4229384b141febf2658fbe03678b3aa27c232c9f138bc9f4f81a18": {
+        "sectxt": true,
+        "sectionID": "924071",
+        "type": "DI",
+        "section": "A01",
+        "days": "Tu",
+        "time": "6:00p-6:50p",
+        "building": "SOLIS",
+        "room": "104",
+        "instructors": [
+          "Hamilton, James D."
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "40ff1e566f853fd2e0fdac8e9f26062b252ed939f7aa848d82b2efa2bbb04abc": {
+        "sectxt": true,
+        "sectionID": "924072",
+        "type": "DI",
+        "section": "A02",
+        "days": "Tu",
+        "time": "7:00p-7:50p",
+        "building": "SOLIS",
+        "room": "104",
+        "instructors": [
+          "Hamilton, James D."
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "8c381587f1f8de3776f759acd364bc0a3a6601f9336312d32b890a80b26fd9e7": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -159,16 +105,15 @@
         "time": "12:30p-1:50p",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "Hamilton, James D.",
         "instructors": [
           "Hamilton, James D."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "c9f95b8ff042787890539cc0d9f71b278e18f9c4eed9a1a28138f6b16e5c4bc6": {
         "sectxt": true,
         "sectionID": "924074",
         "type": "DI",
@@ -177,16 +122,30 @@
         "time": "6:00p-6:50p",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "Hamilton, James D.",
         "instructors": [
           "Hamilton, James D."
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "055dab9e4efb54208a1d7f8ffd64e8d079ba2cc9fe681a6ccf684c385c6a7818": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "SOLIS",
+        "room": "107",
+        "instructors": [
+          "Hamilton, James D."
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "1616dcbcbe708e0126d57588b90b1023f6b8d7b1726225e7b5a0dd9e86a63639": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -195,16 +154,16 @@
         "time": "12:30p-1:50p",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "Hamilton, James D.",
         "instructors": [
           "Hamilton, James D."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

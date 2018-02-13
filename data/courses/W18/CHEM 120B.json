@@ -3,90 +3,9 @@
   "name": "Inorganic Chemistry II",
   "department": "CHEM",
   "id": "120B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "9:00a-9:50a",
-      "building": "YORK",
-      "room": "2622",
-      "instructor": "Sailor, Michael Joseph",
-      "instructors": [
-        "Sailor, Michael Joseph"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926554",
-      "type": "DI",
-      "section": "A01",
-      "days": "Tu",
-      "time": "4:00p-4:50p",
-      "building": "WLH",
-      "room": "2112",
-      "instructor": "Sailor, Michael Joseph",
-      "instructors": [
-        "Sailor, Michael Joseph"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926555",
-      "type": "DI",
-      "section": "A02",
-      "days": "Th",
-      "time": "7:00p-7:50p",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "Sailor, Michael Joseph",
-      "instructors": [
-        "Sailor, Michael Joseph"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926556",
-      "type": "DI",
-      "section": "A03",
-      "days": "Th",
-      "time": "8:00p-8:50p",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "Sailor, Michael Joseph",
-      "instructors": [
-        "Sailor, Michael Joseph"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -95,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1866918a9e827ca2246c3cdc0800ca8cab9d14fcb63d242959828782dc5e03cc": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -114,16 +32,15 @@
         "time": "9:00a-9:50a",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Sailor, Michael Joseph",
         "instructors": [
           "Sailor, Michael Joseph"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "d5e4a9cecb11c4415123b045adb9c7e48eccce6401f060741209db035f5c49c1": {
         "sectxt": true,
         "sectionID": "926554",
         "type": "DI",
@@ -132,16 +49,15 @@
         "time": "4:00p-4:50p",
         "building": "WLH",
         "room": "2112",
-        "instructor": "Sailor, Michael Joseph",
         "instructors": [
           "Sailor, Michael Joseph"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "664fb1192c899ad420c384f1035679fd9aa443bbe17868a3444009b2ce9ed2d0": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -150,16 +66,15 @@
         "time": "9:00a-9:50a",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Sailor, Michael Joseph",
         "instructors": [
           "Sailor, Michael Joseph"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "3243a8f47af414de8f2ca9aecd81cbb4b97f2939a33ebbcb6e517a288d3b2b76": {
         "sectxt": true,
         "sectionID": "926555",
         "type": "DI",
@@ -168,14 +83,13 @@
         "time": "7:00p-7:50p",
         "building": "WLH",
         "room": "2114",
-        "instructor": "Sailor, Michael Joseph",
         "instructors": [
           "Sailor, Michael Joseph"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "9a2fba21cb4604fc8091bffcde5583471dc1af011b350f630e2d58deaeb2cfa8": {
         "sectxt": true,
         "sectionID": "926556",
         "type": "DI",
@@ -184,16 +98,15 @@
         "time": "8:00p-8:50p",
         "building": "WLH",
         "room": "2114",
-        "instructor": "Sailor, Michael Joseph",
         "instructors": [
           "Sailor, Michael Joseph"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "e0c71401fe619db626c079241f95ffbc9af299dc6dba6b446063c58d72b82533": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -202,15 +115,15 @@
         "time": "9:00a-9:50a",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Sailor, Michael Joseph",
         "instructors": [
           "Sailor, Michael Joseph"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

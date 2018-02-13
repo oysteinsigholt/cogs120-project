@@ -3,56 +3,9 @@
   "name": "Signals and Systems",
   "department": "MAE",
   "id": "143A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930644",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "PETER",
-      "room": "108",
-      "instructor": "de Callafon, Raymond A",
-      "instructors": [
-        "de Callafon, Raymond A"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "M",
-      "time": "8:00p-8:50p",
-      "building": "CENTR",
-      "room": "101",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -61,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "c2975de8e399be8f6bba38d66deaea87634f28734f18a7f7595aa7865eb29a42": {
         "sectxt": true,
         "sectionID": "930644",
         "type": "LE",
@@ -80,14 +32,13 @@
         "time": "2:00p-2:50p",
         "building": "PETER",
         "room": "108",
-        "instructor": "de Callafon, Raymond A",
         "instructors": [
           "de Callafon, Raymond A"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "8bec32703e418da056932169dea78554a4f001b56802a3e45fbd6fcfb130eeef": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -96,15 +47,13 @@
         "time": "8:00p-8:50p",
         "building": "CENTR",
         "room": "101",
-        "instructor": "",
         "instructors": [],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "117273568171aaeb2082056e429125d7e9e61e73e675c911736aa27b236d59ef": {
         "sectxt": true,
         "sectionID": "930644",
         "type": "LE",
@@ -113,17 +62,15 @@
         "time": "2:00p-2:50p",
         "building": "PETER",
         "room": "108",
-        "instructor": "de Callafon, Raymond A",
         "instructors": [
           "de Callafon, Raymond A"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "f7e15e79fddbe3ea06296fc1909504b774c328034cba993c10ecaf24671ccbbd": {
         "sectxt": true,
         "sectionID": "930644",
         "type": "LE",
@@ -132,15 +79,16 @@
         "time": "2:00p-2:50p",
         "building": "PETER",
         "room": "108",
-        "instructor": "de Callafon, Raymond A",
         "instructors": [
           "de Callafon, Raymond A"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

@@ -3,31 +3,12 @@
   "name": "Transforming Outcomes",
   "department": "EDS",
   "id": "252",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922519",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "4:00p-7:00p",
-      "building": "PCYNH",
-      "room": "448",
-      "instructor": "Chapman, Thandeka K",
-      "instructors": [
-        "Chapman, Thandeka K"
-      ],
-      "start_time": "16:00",
-      "end_time": "19:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "4051f68de111ed444fa2621525944b5a0f2ee54df058e1276d2fba00f3e7ca8c": {
         "sectxt": true,
         "sectionID": "922519",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "4:00p-7:00p",
         "building": "PCYNH",
         "room": "448",
-        "instructor": "Chapman, Thandeka K",
         "instructors": [
           "Chapman, Thandeka K"
         ],
         "start_time": "16:00",
         "end_time": "19:00"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

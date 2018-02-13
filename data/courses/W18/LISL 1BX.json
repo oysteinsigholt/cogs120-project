@@ -3,42 +3,65 @@
   "name": "Analysis of American Sign Lang",
   "department": "LISL",
   "id": "1BX",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930125",
-      "type": "DI",
-      "section": "E00",
-      "days": "TuTh",
-      "time": "8:00a-9:20a",
-      "building": "APM",
-      "room": "3321",
-      "instructor": "Lott, Margaret S.",
-      "instructors": [
-        "Lott, Margaret S."
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    },
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +70,76 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "c3a038e93ac67fc9502587dc2c5cb8da08281b5153332d736582bb4b31868925": {
+        "sectxt": true,
+        "sectionID": "921351",
+        "type": "DI",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "APM",
+        "room": "3321",
+        "instructors": [
+          "Lott, Margaret S."
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "9727e706b5a02b892073e6bd898a5a9861fd10f1744cbd8e7bb405a273ea1718": {
+        "sectxt": true,
+        "sectionID": "921352",
+        "type": "DI",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "APM",
+        "room": "3321",
+        "instructors": [
+          "Lott, Margaret S."
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "d3d1b9a9686ebc865c41ddf322dab6601e4dc0a86fa7bf695069e89210fac732": {
+        "sectxt": true,
+        "sectionID": "921353",
+        "type": "DI",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "APM",
+        "room": "3321",
+        "instructors": [
+          "Lott, Margaret S."
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "234bc5f37a72a9eb4626c11bfa49725fa65385c3292ff837bc8dd453228b4d77": {
+        "sectxt": true,
+        "sectionID": "921354",
+        "type": "DI",
+        "section": "D00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "APM",
+        "room": "3321",
+        "instructors": [
+          "Lott, Margaret S."
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "8ccc157d9f866cb13b3a465d322d30b2ef58003c0201486c2f98bf0829cd5457": {
         "sectxt": true,
         "sectionID": "930125",
         "type": "DI",
@@ -67,17 +148,75 @@
         "time": "8:00a-9:20a",
         "building": "APM",
         "room": "3321",
-        "instructor": "Lott, Margaret S.",
         "instructors": [
           "Lott, Margaret S."
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "7742d2b764b49cd0e4cdbb98d7fed3e1d5a88970bc0caaa99f9774d2d63a764c": {
+        "sectxt": true,
+        "sectionID": "921351",
+        "type": "DI",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "APM",
+        "room": "3321",
+        "instructors": [
+          "Lott, Margaret S."
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "cb8a9a300638288d152723c393d75b148d699571f5dc5138a5d330908129c040": {
+        "sectxt": true,
+        "sectionID": "921352",
+        "type": "DI",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "APM",
+        "room": "3321",
+        "instructors": [
+          "Lott, Margaret S."
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "95cf21ac0bb85ad4472afafa0c1f417812f199a4b57c2dc8bfc9ec8caf8fd44a": {
+        "sectxt": true,
+        "sectionID": "921353",
+        "type": "DI",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "APM",
+        "room": "3321",
+        "instructors": [
+          "Lott, Margaret S."
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "f0dcbfa9af2128fad51a91585b3f2956f4d1fb382f528f1fb0d5760cb1a2e22b": {
+        "sectxt": true,
+        "sectionID": "921354",
+        "type": "DI",
+        "section": "D00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "APM",
+        "room": "3321",
+        "instructors": [
+          "Lott, Margaret S."
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "28377b8a8cabc603809b78f69e321f595df2c09623aacb027ebfc31241b0ddc6": {
         "sectxt": true,
         "sectionID": "930125",
         "type": "DI",
@@ -86,16 +225,19 @@
         "time": "8:00a-9:20a",
         "building": "APM",
         "room": "3321",
-        "instructor": "Lott, Margaret S.",
         "instructors": [
           "Lott, Margaret S."
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ]
 }

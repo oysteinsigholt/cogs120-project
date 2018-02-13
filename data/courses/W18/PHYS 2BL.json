@@ -3,94 +3,12 @@
   "name": "Physics Laboratory-Mechanics",
   "department": "PHYS",
   "id": "2BL",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "YORK",
-      "room": "2622",
-      "instructor": "Butov, Leonid",
-      "instructors": [
-        "Butov, Leonid"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923717",
-      "type": "LA",
-      "section": "A01",
-      "days": "Tu",
-      "time": "9:00a-11:50a",
-      "building": "MYR-A",
-      "room": "2722",
-      "instructor": "Butov, Leonid",
-      "instructors": [
-        "Butov, Leonid"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923718",
-      "type": "LA",
-      "section": "A02",
-      "days": "W",
-      "time": "9:00a-11:50a",
-      "building": "MYR-A",
-      "room": "2722",
-      "instructor": "Butov, Leonid",
-      "instructors": [
-        "Butov, Leonid"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923719",
-      "type": "LA",
-      "section": "A03",
-      "days": "Th",
-      "time": "9:00a-11:50a",
-      "building": "MYR-A",
-      "room": "2722",
-      "instructor": "Butov, Leonid",
-      "instructors": [
-        "Butov, Leonid"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930507",
-      "type": "LA",
-      "section": "A04",
-      "days": "Tu",
-      "time": "12:00p-2:50p",
-      "building": "MYR-A",
-      "room": "2722",
-      "instructor": "Butov, Leonid",
-      "instructors": [
-        "Butov, Leonid"
-      ],
-      "start_time": "12:00",
-      "end_time": "14:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "d095058a3c5ca6878be2e5af45056c73925fc6945e80151eaa049f5fb0198342": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -99,16 +17,15 @@
         "time": "3:00p-3:50p",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Butov, Leonid",
         "instructors": [
           "Butov, Leonid"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "cb306fd8d5829d975c417bfdeb34f961dbb99d58c9da7c7cfb98caf481330b3b": {
         "sectxt": true,
         "sectionID": "923717",
         "type": "LA",
@@ -117,14 +34,13 @@
         "time": "9:00a-11:50a",
         "building": "MYR-A",
         "room": "2722",
-        "instructor": "Butov, Leonid",
         "instructors": [
           "Butov, Leonid"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       },
-      {
+      "91d8abdd31c243c83be87e2a6956df25cb35246c41ec92c2d49880c09434af40": {
         "sectxt": true,
         "sectionID": "930507",
         "type": "LA",
@@ -133,16 +49,15 @@
         "time": "12:00p-2:50p",
         "building": "MYR-A",
         "room": "2722",
-        "instructor": "Butov, Leonid",
         "instructors": [
           "Butov, Leonid"
         ],
         "start_time": "12:00",
         "end_time": "14:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "74a37a6531cf10415d4dfc2772c2b48f5601c982fa759499d4e7987766b82fa7": {
         "sectxt": true,
         "sectionID": "923718",
         "type": "LA",
@@ -151,16 +66,15 @@
         "time": "9:00a-11:50a",
         "building": "MYR-A",
         "room": "2722",
-        "instructor": "Butov, Leonid",
         "instructors": [
           "Butov, Leonid"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "c64b0755037fe97c0d84c91f4451bb7b4b65946369809bdb817dab93755c00d5": {
         "sectxt": true,
         "sectionID": "923719",
         "type": "LA",
@@ -169,16 +83,15 @@
         "time": "9:00a-11:50a",
         "building": "MYR-A",
         "room": "2722",
-        "instructor": "Butov, Leonid",
         "instructors": [
           "Butov, Leonid"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

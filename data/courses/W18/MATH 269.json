@@ -3,31 +3,12 @@
   "name": "Seminar in Combinatorics",
   "department": "MATH",
   "id": "269",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927301",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "4:00p-5:50p",
-      "building": "APM",
-      "room": "7421",
-      "instructor": "Verstraete, Jacques Allan",
-      "instructors": [
-        "Verstraete, Jacques Allan"
-      ],
-      "start_time": "16:00",
-      "end_time": "17:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "76ae32c097da85236b0353ae6e564855382fc79084e6d651447d61ae44e740eb": {
         "sectxt": true,
         "sectionID": "927301",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "4:00p-5:50p",
         "building": "APM",
         "room": "7421",
-        "instructor": "Verstraete, Jacques Allan",
         "instructors": [
           "Verstraete, Jacques Allan"
         ],
         "start_time": "16:00",
         "end_time": "17:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

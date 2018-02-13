@@ -3,42 +3,9 @@
   "name": "Statistical Learning",
   "department": "CSE",
   "id": "254",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927571",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "EBU3B",
-      "room": "4140",
-      "instructor": "Freund, Yoav",
-      "instructors": [
-        "Freund, Yoav"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "d2cc77977fa34dfd74622856709e7f0b7e71c6dcee725c7c1c713e31fe539c90": {
         "sectxt": true,
         "sectionID": "927571",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "9:30a-10:50a",
         "building": "EBU3B",
         "room": "4140",
-        "instructor": "Freund, Yoav",
         "instructors": [
           "Freund, Yoav"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "d1c5dff359b01ee73031ff6f48739c3f46b556d5e5c7c311e472e450f62e83a7": {
         "sectxt": true,
         "sectionID": "927571",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "9:30a-10:50a",
         "building": "EBU3B",
         "room": "4140",
-        "instructor": "Freund, Yoav",
         "instructors": [
           "Freund, Yoav"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

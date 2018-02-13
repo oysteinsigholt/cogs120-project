@@ -3,46 +3,12 @@
   "name": "Design Implmnt Genetic Circuit",
   "department": "BENG",
   "id": "128B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923306",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "1:00p-1:50p",
-      "building": "PFBH",
-      "room": "226",
-      "instructor": "Wheeler, Bruce Christopher",
-      "instructors": [
-        "Wheeler, Bruce Christopher"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A01",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "PFBH",
-      "room": "108",
-      "instructor": "Wheeler, Bruce Christopher",
-      "instructors": [
-        "Wheeler, Bruce Christopher"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "ad84e674ae641ab03f49174574a365a36b3339f19321cf52ac62a3de1dc9e8a2": {
         "sectxt": true,
         "sectionID": "923306",
         "type": "LE",
@@ -51,14 +17,13 @@
         "time": "1:00p-1:50p",
         "building": "PFBH",
         "room": "226",
-        "instructor": "Wheeler, Bruce Christopher",
         "instructors": [
           "Wheeler, Bruce Christopher"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "fdceb8e158f6efe785d839ba9f34b4819271bdb2c7caeaf06be19564235f4a59": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -67,19 +32,15 @@
         "time": "2:00p-2:50p",
         "building": "PFBH",
         "room": "108",
-        "instructor": "Wheeler, Bruce Christopher",
         "instructors": [
           "Wheeler, Bruce Christopher"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

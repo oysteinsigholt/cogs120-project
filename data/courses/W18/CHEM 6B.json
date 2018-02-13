@@ -3,168 +3,303 @@
   "name": "General Chemistry II",
   "department": "CHEM",
   "id": "6B",
-  "timeslots": [
-    {
-      "sectxt": true,
+  "notes": [],
+  "events_single": {
+    "01e098af05a39e98b80bf1281c1c319913c91321e5116cb869327ead67177fcf": {
+      "sectxt": false,
       "sectionID": "",
-      "type": "LE",
-      "section": "G00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "GH",
-      "room": "242",
-      "instructor": "Lam, Tin Yiu",
-      "instructors": [
-        "Lam, Tin Yiu"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926343",
-      "type": "DI",
-      "section": "G01",
-      "days": "W",
-      "time": "7:00p-7:50p",
-      "building": "SOLIS",
-      "room": "109",
-      "instructor": "Lam, Tin Yiu",
-      "instructors": [
-        "Lam, Tin Yiu"
-      ],
-      "start_time": "19:00",
+      "type": "RE",
+      "section": "01/28/2018",
+      "days": "Sun",
+      "time": "6:00p-7:50p",
+      "building": "YORK",
+      "room": "2722",
+      "instructors": [],
+      "date": "2018-01-28T08:00:00.000Z",
+      "start_time": "18:00",
       "end_time": "19:50"
     },
-    {
-      "sectxt": true,
-      "sectionID": "926344",
-      "type": "DI",
-      "section": "G02",
-      "days": "W",
-      "time": "2:00p-2:50p",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Lam, Tin Yiu",
-      "instructors": [
-        "Lam, Tin Yiu"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
+    "110e4b1fdca5154b27460715307632bdc99211df2819287f758cbd01d3ba81d3": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/25/2018",
+      "days": "Sun",
+      "time": "6:00p-7:50p",
+      "building": "YORK",
+      "room": "2722",
+      "instructors": [],
+      "date": "2018-02-25T08:00:00.000Z",
+      "start_time": "18:00",
+      "end_time": "19:50"
     },
-    {
-      "sectxt": true,
-      "sectionID": "926345",
-      "type": "DI",
-      "section": "G03",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Lam, Tin Yiu",
-      "instructors": [
-        "Lam, Tin Yiu"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
+    "399377305cbab0fe9dcf563ea1c34916aa79c558c726df1285b1a11b7b89a819": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "03/16/2018",
+      "days": "F",
+      "time": "6:00p-7:50p",
+      "building": "YORK",
+      "room": "2722",
+      "instructors": [],
+      "date": "2018-03-16T07:00:00.000Z",
+      "start_time": "18:00",
+      "end_time": "19:50"
     },
-    {
-      "sectxt": true,
-      "sectionID": "926346",
-      "type": "DI",
-      "section": "G04",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Lam, Tin Yiu",
-      "instructors": [
-        "Lam, Tin Yiu"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
     },
-    {
-      "sectxt": true,
-      "sectionID": "926347",
-      "type": "DI",
-      "section": "G05",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Lam, Tin Yiu",
-      "instructors": [
-        "Lam, Tin Yiu"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926348",
-      "type": "DI",
-      "section": "G06",
-      "days": "W",
-      "time": "8:00p-8:50p",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Lam, Tin Yiu",
-      "instructors": [
-        "Lam, Tin Yiu"
-      ],
-      "start_time": "20:00",
+    "5cdb206f8026c8c152a141410dcaa3e435c779c139bb27649302ee5ed679c62d": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/04/2018",
+      "days": "Sun",
+      "time": "6:00p-8:50p",
+      "building": "YORK",
+      "room": "2722",
+      "instructors": [],
+      "date": "2018-02-04T08:00:00.000Z",
+      "start_time": "18:00",
       "end_time": "20:50"
     },
-    {
-      "sectxt": true,
-      "sectionID": "926349",
-      "type": "DI",
-      "section": "G07",
-      "days": "W",
-      "time": "9:00p-9:50p",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Lam, Tin Yiu",
-      "instructors": [
-        "Lam, Tin Yiu"
-      ],
-      "start_time": "21:00",
+    "53fc848e9310dfb94520c4350fb24cdcf68e7f7cad4a40ce8a9ae79b098d9e4e": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/06/2018",
+      "days": "Tu",
+      "time": "7:00p-9:50p",
+      "building": "CENTR",
+      "room": "119",
+      "instructors": [],
+      "date": "2018-02-06T08:00:00.000Z",
+      "start_time": "19:00",
       "end_time": "21:50"
     },
-    {
-      "sectxt": true,
-      "sectionID": "926350",
-      "type": "DI",
-      "section": "G08",
-      "days": "F",
-      "time": "7:00p-7:50p",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Lam, Tin Yiu",
-      "instructors": [
-        "Lam, Tin Yiu"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926351",
-      "type": "DI",
-      "section": "G09",
-      "days": "F",
-      "time": "8:00p-8:50p",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Lam, Tin Yiu",
-      "instructors": [
-        "Lam, Tin Yiu"
-      ],
-      "start_time": "20:00",
+    "faa1edeae67bd4dd8ffffb4945fca8d49b95bf40ba557d5a32aa2aa10c11d16c": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "03/04/2018",
+      "days": "Sun",
+      "time": "6:00p-8:50p",
+      "building": "YORK",
+      "room": "2722",
+      "instructors": [],
+      "date": "2018-03-04T08:00:00.000Z",
+      "start_time": "18:00",
       "end_time": "20:50"
     },
-    {
+    "143b08d76f0856eac14149cc3fb21eb7a299715f6c1af0c0ff1c08752e7a711e": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "03/06/2018",
+      "days": "Tu",
+      "time": "7:00p-9:50p",
+      "building": "CENTR",
+      "room": "119",
+      "instructors": [],
+      "date": "2018-03-06T08:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:50"
+    },
+    "f9e8ce52ec5bf6408dad8341e639f50d99a9c57eec4b8a2094a88df423faaa3d": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "03/18/2018",
+      "days": "Sun",
+      "time": "6:00p-8:50p",
+      "building": "YORK",
+      "room": "2722",
+      "instructors": [],
+      "date": "2018-03-18T07:00:00.000Z",
+      "start_time": "18:00",
+      "end_time": "20:50"
+    },
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "a2091ec1570f40906f010976d956b0935142ec453e4c05b6e8b792359b40a1b2": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MI",
+      "section": "02/03/2018",
+      "days": "S",
+      "time": "11:00a-12:50p",
+      "building": "GH",
+      "room": "242",
+      "instructors": [],
+      "date": "2018-02-03T08:00:00.000Z",
+      "start_time": "11:00",
+      "end_time": "12:50"
+    },
+    "dfd1acfad2e8cf634de01f6cb5d0b12640c4076d5140bbf094ab295f2a0ae9cf": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MI",
+      "section": "03/03/2018",
+      "days": "S",
+      "time": "11:00a-12:50p",
+      "building": "GH",
+      "room": "242",
+      "instructors": [],
+      "date": "2018-03-03T08:00:00.000Z",
+      "start_time": "11:00",
+      "end_time": "12:50"
+    },
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "8b14b7e087fc85f13dd7ac9cecab54d053cc1351eed824c258a07e3af94dee61": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/02/2018",
+      "days": "F",
+      "time": "6:00p-7:50p",
+      "building": "YORK",
+      "room": "2722",
+      "instructors": [],
+      "date": "2018-02-02T08:00:00.000Z",
+      "start_time": "18:00",
+      "end_time": "19:50"
+    },
+    "d1b384e21b4a098c228097086db9f340a84a39ed939ad936edf366daa2a34057": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MI",
+      "section": "02/03/2018",
+      "days": "S",
+      "time": "9:00a-10:50a",
+      "building": "PETER",
+      "room": "108",
+      "instructors": [],
+      "date": "2018-02-03T08:00:00.000Z",
+      "start_time": "9:00",
+      "end_time": "10:50"
+    },
+    "4703e9154e0946e2943821ced1ad0ca2f73a19aa4dcd036f6e81d8ffa406e999": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MI",
+      "section": "03/03/2018",
+      "days": "S",
+      "time": "9:00a-10:50a",
+      "building": "PETER",
+      "room": "108",
+      "instructors": [],
+      "date": "2018-03-03T08:00:00.000Z",
+      "start_time": "9:00",
+      "end_time": "10:50"
+    },
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "ea802f8a3a8fb2f77cf1f2031bc420864080eb2d18b0f002a2bd64da56a75c34": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/05/2018",
+      "days": "M",
+      "time": "8:00p-9:50p",
+      "building": "YORK",
+      "room": "2622",
+      "instructors": [],
+      "date": "2018-02-05T08:00:00.000Z",
+      "start_time": "20:00",
+      "end_time": "21:50"
+    },
+    "1164975a1538d1bf43da99ebe2546895aaac2ce95019e2e396f1853f9e24030f": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "03/05/2018",
+      "days": "M",
+      "time": "8:00p-9:50p",
+      "building": "YORK",
+      "room": "2622",
+      "instructors": [],
+      "date": "2018-03-05T08:00:00.000Z",
+      "start_time": "20:00",
+      "end_time": "21:50"
+    },
+    "957c1bb7c866994f582c68730befd1d48d8ef02e6e4de68a875c4fb8144a3a58": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "03/15/2018",
+      "days": "Th",
+      "time": "8:00p-9:50p",
+      "building": "LEDDN",
+      "room": "AUD",
+      "instructors": [],
+      "date": "2018-03-15T07:00:00.000Z",
+      "start_time": "20:00",
+      "end_time": "21:50"
+    },
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "bf8c598a2e09f9b464e8212d19706349e52a0eb0b6a5d2603c485131c9ce31f9": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -173,13 +308,12 @@
       "time": "9:00p-10:50p",
       "building": "PETER",
       "room": "108",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-01T08:00:00.000Z",
       "start_time": "21:00",
       "end_time": "22:50"
     },
-    {
+    "eed093bec77fbaf3f48151c098c3565656619c64cb0f5b92d2025a02960d5b87": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -188,13 +322,12 @@
       "time": "9:00p-10:50p",
       "building": "PETER",
       "room": "108",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-01T08:00:00.000Z",
       "start_time": "21:00",
       "end_time": "22:50"
     },
-    {
+    "321350bacc8812379dcc53deb7a4e1758a1e7cb66cefff135e056c6c6617d8a7": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -203,13 +336,12 @@
       "time": "1:00p-2:50p",
       "building": "GH",
       "room": "242",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-03T08:00:00.000Z",
       "start_time": "13:00",
       "end_time": "14:50"
     },
-    {
+    "49705df57f7010d2a11f1b66b83e326840cff329f44202a384711cd931d3c788": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -218,13 +350,12 @@
       "time": "1:00p-2:50p",
       "building": "GH",
       "room": "242",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-03T08:00:00.000Z",
       "start_time": "13:00",
       "end_time": "14:50"
     },
-    {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -233,95 +364,376 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
-  "notes": [],
-  "events_single": [
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/01/2018",
-      "days": "Th",
-      "time": "9:00p-10:50p",
-      "building": "PETER",
-      "room": "108",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-01T08:00:00.000Z",
-      "start_time": "21:00",
-      "end_time": "22:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "03/01/2018",
-      "days": "Th",
-      "time": "9:00p-10:50p",
-      "building": "PETER",
-      "room": "108",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-01T08:00:00.000Z",
-      "start_time": "21:00",
-      "end_time": "22:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "02/03/2018",
-      "days": "S",
-      "time": "1:00p-2:50p",
-      "building": "GH",
-      "room": "242",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-03T08:00:00.000Z",
-      "start_time": "13:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "03/03/2018",
-      "days": "S",
-      "time": "1:00p-2:50p",
-      "building": "GH",
-      "room": "242",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-03T08:00:00.000Z",
-      "start_time": "13:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "40cdd3ea393878439ebaf5c767383214e7d7acfe333c98c416ae87493bc85dba": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "GH",
+        "room": "242",
+        "instructors": [
+          "Komor, Alexis C"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "49a652d8b2e94d0bcf9f8c243437068f36b432cb203d694320158e56fe79e9e0": {
+        "sectxt": true,
+        "sectionID": "926281",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2114",
+        "instructors": [
+          "Komor, Alexis C"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "fa578e0e7e1736c14ea6d2d562e6bfd4cad4890e302e759b6df68e7bc9842479": {
+        "sectxt": true,
+        "sectionID": "926282",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "9:00a-9:50a",
+        "building": "YORK",
+        "room": "4080A",
+        "instructors": [
+          "Komor, Alexis C"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "4d8bf107557dcd5a42e482ddd8f6e35e0f200b8c6ffd63edad51700a2166df3e": {
+        "sectxt": true,
+        "sectionID": "926283",
+        "type": "DI",
+        "section": "A03",
+        "days": "M",
+        "time": "5:00p-5:50p",
+        "building": "WLH",
+        "room": "2114",
+        "instructors": [
+          "Komor, Alexis C"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "7f62cce79be625167c6992f627c8b2988afb2f43e5e03c99d14c4e15cf3d2094": {
+        "sectxt": true,
+        "sectionID": "926284",
+        "type": "DI",
+        "section": "A04",
+        "days": "M",
+        "time": "6:00p-6:50p",
+        "building": "WLH",
+        "room": "2114",
+        "instructors": [
+          "Komor, Alexis C"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "64fd9b58554b5a06156059304ef4777b5c461684cd113d6681aad239e27e72e1": {
+        "sectxt": true,
+        "sectionID": "926285",
+        "type": "DI",
+        "section": "A05",
+        "days": "M",
+        "time": "7:00p-7:50p",
+        "building": "HSS",
+        "room": "1128A",
+        "instructors": [
+          "Komor, Alexis C"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "a95c53fad1dbc7153fcf4d86591edc5c0e75db8b9a4591c29eb5fe1b4665e53c": {
+        "sectxt": true,
+        "sectionID": "926286",
+        "type": "DI",
+        "section": "A06",
+        "days": "M",
+        "time": "4:00p-4:50p",
+        "building": "SOLIS",
+        "room": "109",
+        "instructors": [
+          "Komor, Alexis C"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "25e1819b85c86b1f78b0a0dc30a8495f6b2b35a2a00bf303d709e2f9feacc675": {
+        "sectxt": true,
+        "sectionID": "926292",
+        "type": "DI",
+        "section": "B01",
+        "days": "M",
+        "time": "7:00p-7:50p",
+        "building": "WLH",
+        "room": "2115",
+        "instructors": [
+          "Kummel, Andrew C"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "8dc97ea69462b5edf23a58c6c148f412a8aea8e0172aa03323b895354af9cf35": {
+        "sectxt": true,
+        "sectionID": "937890",
+        "type": "DI",
+        "section": "B10",
+        "days": "M",
+        "time": "8:00p-8:50p",
+        "building": "WLH",
+        "room": "2115",
+        "instructors": [
+          "Kummel, Andrew C"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "49492e3a86c08d0ddfbbc2f75eac93db9dbbffcd648551f8f12921fa859ccc0e": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "PRICE",
+        "room": "THTRE",
+        "instructors": [
+          "Hoeger, Carl"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "7668a395c953f317255027cc66e088babbf53d5ee5ea410e6fce9c98f2e54f3c": {
+        "sectxt": true,
+        "sectionID": "926311",
+        "type": "DI",
+        "section": "D01",
+        "days": "M",
+        "time": "3:00p-3:50p",
+        "building": "TM102",
+        "room": "1",
+        "instructors": [
+          "Hoeger, Carl"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "ef2bc3b1dfce2fec445da238fc33f989ef61a946d47ec4137d565f922bead8c7": {
+        "sectxt": true,
+        "sectionID": "926312",
+        "type": "DI",
+        "section": "D02",
+        "days": "M",
+        "time": "11:00a-11:50a",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Hoeger, Carl"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "765628e1fe6c4788a02420c3e0df92584cc799344de178bc55bc69ae6523f5c6": {
+        "sectxt": true,
+        "sectionID": "926313",
+        "type": "DI",
+        "section": "D03",
+        "days": "M",
+        "time": "1:00p-1:50p",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Hoeger, Carl"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "bf7216675856c6929e4495437ba3c3a3a9196c93f99b9e8281a7d09630947a26": {
+        "sectxt": true,
+        "sectionID": "926314",
+        "type": "DI",
+        "section": "D04",
+        "days": "M",
+        "time": "2:00p-2:50p",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Hoeger, Carl"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "48907aa0a53bfab17c3ba70747dd421cdf25a38719671b149d44c222fe7a9a49": {
+        "sectxt": true,
+        "sectionID": "926322",
+        "type": "DI",
+        "section": "E01",
+        "days": "M",
+        "time": "10:00a-10:50a",
+        "building": "SOLIS",
+        "room": "109",
+        "instructors": [
+          "Johnson, Christina A"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "56cc8f5358d1698b79ec59083af5e0d9f6b260a40660074edf1d6399dfc8d851": {
+        "sectxt": true,
+        "sectionID": "926323",
+        "type": "DI",
+        "section": "E02",
+        "days": "M",
+        "time": "11:00a-11:50a",
+        "building": "SOLIS",
+        "room": "109",
+        "instructors": [
+          "Johnson, Christina A"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "50dcd49ade84faa34217e4f82b4de799ceaf0bc9959706bba8d9e058d904193a": {
+        "sectxt": true,
+        "sectionID": "926324",
+        "type": "DI",
+        "section": "E03",
+        "days": "M",
+        "time": "12:00p-12:50p",
+        "building": "SOLIS",
+        "room": "109",
+        "instructors": [
+          "Johnson, Christina A"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "aea1f16db078f72648cecf1b92400c8b0f9d48714bbe8f3b71cfe0179cbbb234": {
+        "sectxt": true,
+        "sectionID": "926325",
+        "type": "DI",
+        "section": "E04",
+        "days": "M",
+        "time": "8:00p-8:50p",
+        "building": "SOLIS",
+        "room": "109",
+        "instructors": [
+          "Johnson, Christina A"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "f64f5ebaff22639844ad6a30a12ba66679139e1fa8533eb669220c10d9953508": {
+        "sectxt": true,
+        "sectionID": "926326",
+        "type": "DI",
+        "section": "E05",
+        "days": "M",
+        "time": "9:00p-9:50p",
+        "building": "SOLIS",
+        "room": "109",
+        "instructors": [
+          "Johnson, Christina A"
+        ],
+        "start_time": "21:00",
+        "end_time": "21:50"
+      },
+      "4f36e7c795dff09cd7035f56d4bd863b05e90d894bf87a9d185b08bd9880fbf7": {
+        "sectxt": true,
+        "sectionID": "926333",
+        "type": "DI",
+        "section": "F01",
+        "days": "M",
+        "time": "12:00p-12:50p",
+        "building": "WLH",
+        "room": "2206",
+        "instructors": [
+          "Crowell, John E"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "c955e8c5034d48abb02fdf03bbf42f283daba5bfd7ca20c6bc5b7f84ab0f3b4d": {
+        "sectxt": true,
+        "sectionID": "926334",
+        "type": "DI",
+        "section": "F02",
+        "days": "M",
+        "time": "2:00p-2:50p",
+        "building": "WLH",
+        "room": "2206",
+        "instructors": [
+          "Crowell, John E"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "bba7dfd4ff4e8b2adde97fd3bb38edfc99c4a0429e8d2ac6f44d6bb4a1ec3b86": {
+        "sectxt": true,
+        "sectionID": "926335",
+        "type": "DI",
+        "section": "F03",
+        "days": "M",
+        "time": "3:00p-3:50p",
+        "building": "WLH",
+        "room": "2206",
+        "instructors": [
+          "Crowell, John E"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "b20641857fefdfa8538a134db0d8fa8a2c5e2ab7adc5db56f24e723a19c3e737": {
+        "sectxt": true,
+        "sectionID": "926336",
+        "type": "DI",
+        "section": "F04",
+        "days": "M",
+        "time": "4:00p-4:50p",
+        "building": "WLH",
+        "room": "2206",
+        "instructors": [
+          "Crowell, John E"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "16eae449136663306fdc4ee98e05b94c1669331da06bc8fb8660e33f5c4b0135": {
+        "sectxt": true,
+        "sectionID": "926337",
+        "type": "DI",
+        "section": "F05",
+        "days": "M",
+        "time": "5:00p-5:50p",
+        "building": "WLH",
+        "room": "2206",
+        "instructors": [
+          "Crowell, John E"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "b51784a08767051c0819c132d279744b38645b1ad7e0ae29817f94987280de12": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -330,17 +742,197 @@
         "time": "11:00a-11:50a",
         "building": "GH",
         "room": "242",
-        "instructor": "Lam, Tin Yiu",
         "instructors": [
           "Lam, Tin Yiu"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "Tu": {
+      "161f79263bada717d1aa7c6e2c5a1a0a99315272d9b35f3d9475127a77634e21": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "YORK",
+        "room": "2722",
+        "instructors": [
+          "Kummel, Andrew C"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "513741cbc7638fbfad47dd5c328b12a8fcc778fd7f2096edb077b61902954b93": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "E00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "GH",
+        "room": "242",
+        "instructors": [
+          "Johnson, Christina A"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "565660f5f98ee6c99869755dd000184d33e90a1d07f1a86329de6395d440117d": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "F00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "YORK",
+        "room": "2722",
+        "instructors": [
+          "Crowell, John E"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    },
+    "W": {
+      "9e7000e2f88be7b1f47b2ec9cdc4cadb0aac4f8df501aa444c431665ffa5d103": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "GH",
+        "room": "242",
+        "instructors": [
+          "Komor, Alexis C"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "8fcc18d9db501589a878a72d5a3e970e55902c047178addf59429e38446fdc02": {
+        "sectxt": true,
+        "sectionID": "926295",
+        "type": "DI",
+        "section": "B04",
+        "days": "W",
+        "time": "7:00p-7:50p",
+        "building": "WLH",
+        "room": "2115",
+        "instructors": [
+          "Kummel, Andrew C"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "de25451a62eddccadba3b6496a5ecb1dd27918fd33d62e178fecf35376231fbe": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "PRICE",
+        "room": "THTRE",
+        "instructors": [
+          "Hoeger, Carl"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "55d65a234f855cc5eef40753c58653cb1354622531be3e5190ed3ad29df867de": {
+        "sectxt": true,
+        "sectionID": "926316",
+        "type": "DI",
+        "section": "D06",
+        "days": "W",
+        "time": "11:00a-11:50a",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Hoeger, Carl"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "748bbecb1ec0ad77304a96316ea839ba5af61a5930ec065fba43a3294bfc93f1": {
+        "sectxt": true,
+        "sectionID": "926317",
+        "type": "DI",
+        "section": "D07",
+        "days": "W",
+        "time": "1:00p-1:50p",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Hoeger, Carl"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "5ba3eace1ce43c898af5a6a8b2115c94a5df137954f31bd53fce2b455552f2fe": {
+        "sectxt": true,
+        "sectionID": "926318",
+        "type": "DI",
+        "section": "D08",
+        "days": "W",
+        "time": "2:00p-2:50p",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Hoeger, Carl"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "119ce65f1005dac996a69ee50883929cbf49a150881ae068b7eea4a1eb034a4f": {
+        "sectxt": true,
+        "sectionID": "926327",
+        "type": "DI",
+        "section": "E06",
+        "days": "W",
+        "time": "12:00p-12:50p",
+        "building": "SOLIS",
+        "room": "109",
+        "instructors": [
+          "Johnson, Christina A"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "e67d4623974f8fc5b651fd8b5baa32460d1324de992438984948bf45a6dcb69f": {
+        "sectxt": true,
+        "sectionID": "926328",
+        "type": "DI",
+        "section": "E07",
+        "days": "W",
+        "time": "8:00p-8:50p",
+        "building": "SOLIS",
+        "room": "109",
+        "instructors": [
+          "Johnson, Christina A"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "497df3fb291cd03300f213581da2fb5a4daf260211ce1ba8a981db0097402f6a": {
+        "sectxt": true,
+        "sectionID": "926329",
+        "type": "DI",
+        "section": "E08",
+        "days": "W",
+        "time": "9:00p-9:50p",
+        "building": "SOLIS",
+        "room": "109",
+        "instructors": [
+          "Johnson, Christina A"
+        ],
+        "start_time": "21:00",
+        "end_time": "21:50"
+      },
+      "c0cb81268f7eacf2ece3ebb2aec8d568827ce5ad4cc9c60eb4e8232964d30c86": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -349,14 +941,13 @@
         "time": "11:00a-11:50a",
         "building": "GH",
         "room": "242",
-        "instructor": "Lam, Tin Yiu",
         "instructors": [
           "Lam, Tin Yiu"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "a3e239d2ab489103d8580b2fb3306769f5cdbc0834d080b528bfa2b1df1ab59b": {
         "sectxt": true,
         "sectionID": "926343",
         "type": "DI",
@@ -365,14 +956,13 @@
         "time": "7:00p-7:50p",
         "building": "SOLIS",
         "room": "109",
-        "instructor": "Lam, Tin Yiu",
         "instructors": [
           "Lam, Tin Yiu"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "ef1b5bd060423d4b1f3cb28c6b747f8018ef1e4ead5d8c621c81cab8dcae233d": {
         "sectxt": true,
         "sectionID": "926344",
         "type": "DI",
@@ -381,14 +971,13 @@
         "time": "2:00p-2:50p",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Lam, Tin Yiu",
         "instructors": [
           "Lam, Tin Yiu"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "0bcfd8a07ab0cbd806ff219b13797b17cfcb3b1346537902cbc2b5bbdb86e502": {
         "sectxt": true,
         "sectionID": "926345",
         "type": "DI",
@@ -397,14 +986,13 @@
         "time": "3:00p-3:50p",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Lam, Tin Yiu",
         "instructors": [
           "Lam, Tin Yiu"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "caa063a9cd591b327b0a5b57e59f899b4802d28d8a39a5f09413e48af8a55f58": {
         "sectxt": true,
         "sectionID": "926346",
         "type": "DI",
@@ -413,14 +1001,13 @@
         "time": "4:00p-4:50p",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Lam, Tin Yiu",
         "instructors": [
           "Lam, Tin Yiu"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "f296a9e6a5f6a1d093fb02b132c7403c9209a0374c835821ab81d38bd2ea69f1": {
         "sectxt": true,
         "sectionID": "926347",
         "type": "DI",
@@ -429,14 +1016,13 @@
         "time": "5:00p-5:50p",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Lam, Tin Yiu",
         "instructors": [
           "Lam, Tin Yiu"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "7b54198f557760e26c3ca201bb5b2053196d17cf5edc0e64eeb7b20d360a2cbd": {
         "sectxt": true,
         "sectionID": "926348",
         "type": "DI",
@@ -445,14 +1031,13 @@
         "time": "8:00p-8:50p",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Lam, Tin Yiu",
         "instructors": [
           "Lam, Tin Yiu"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "02d126cb9d52b89e663550d193e79050439938dc551d4cd3f9bb4300d6649eb7": {
         "sectxt": true,
         "sectionID": "926349",
         "type": "DI",
@@ -461,17 +1046,227 @@
         "time": "9:00p-9:50p",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Lam, Tin Yiu",
         "instructors": [
           "Lam, Tin Yiu"
         ],
         "start_time": "21:00",
         "end_time": "21:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "Th": {
+      "afeac25ac0f3959d56957869cbd23591aec5e4f10fe07a62fb1294b21b4cc7dd": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "YORK",
+        "room": "2722",
+        "instructors": [
+          "Kummel, Andrew C"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "5671786916fc2493fccaaba818292c01d7ed8ff323ed1a2b70c8fc01a6697b84": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "E00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "GH",
+        "room": "242",
+        "instructors": [
+          "Johnson, Christina A"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "7a1416be456de92970bdf6b8a9f2192b4207823340b5ee1ef7c98361de43441d": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "F00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "YORK",
+        "room": "2722",
+        "instructors": [
+          "Crowell, John E"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    },
+    "F": {
+      "57d13ebef86c1f21d3cb4f95dd18b6de95918f2164de032cc92a04d5a99151c4": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "GH",
+        "room": "242",
+        "instructors": [
+          "Komor, Alexis C"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "fbadff092d3f67983bff0e8781ac806ea349c6e7b494db590eccd72e5c908f7d": {
+        "sectxt": true,
+        "sectionID": "926298",
+        "type": "DI",
+        "section": "B07",
+        "days": "F",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2114",
+        "instructors": [
+          "Kummel, Andrew C"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "d62a2b7cbd8f670bd1d3195cfd66409baa6df588df772e996f95e1029835bc65": {
+        "sectxt": true,
+        "sectionID": "926299",
+        "type": "DI",
+        "section": "B08",
+        "days": "F",
+        "time": "12:00p-12:50p",
+        "building": "WLH",
+        "room": "2114",
+        "instructors": [
+          "Kummel, Andrew C"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "4e145f36d26de84670cfe5c9054b618fd8a777b383c5fd3b2d41e58b173bd77f": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "PRICE",
+        "room": "THTRE",
+        "instructors": [
+          "Hoeger, Carl"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "ba7250234dde0c115d673eb45237ef2b2bfc50d76a8d8b89ea23e745717a7847": {
+        "sectxt": true,
+        "sectionID": "926315",
+        "type": "DI",
+        "section": "D05",
+        "days": "F",
+        "time": "6:00p-6:50p",
+        "building": "WLH",
+        "room": "2113",
+        "instructors": [
+          "Hoeger, Carl"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "c263eb9f7cc730a80a6c51e10cf46ec53fdf4837f1ab54e3f4b8007ba553d650": {
+        "sectxt": true,
+        "sectionID": "926319",
+        "type": "DI",
+        "section": "D09",
+        "days": "F",
+        "time": "7:00p-7:50p",
+        "building": "WLH",
+        "room": "2112",
+        "instructors": [
+          "Hoeger, Carl"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "0bdebd3ce1272877faa0d4e002f911be90471aa642749aed3b31cd53a209bb86": {
+        "sectxt": true,
+        "sectionID": "926330",
+        "type": "DI",
+        "section": "E09",
+        "days": "F",
+        "time": "3:00p-3:50p",
+        "building": "WLH",
+        "room": "2115",
+        "instructors": [
+          "Johnson, Christina A"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "f7b70e9fa321fa7e3c60ac227bc1b21ba4607f3b361d2eeb7473933dfaafa142": {
+        "sectxt": true,
+        "sectionID": "926331",
+        "type": "DI",
+        "section": "E10",
+        "days": "F",
+        "time": "4:00p-4:50p",
+        "building": "WLH",
+        "room": "2115",
+        "instructors": [
+          "Johnson, Christina A"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "9aa22498e0e5bf57460f3b8d091c1d42d75ec0d75025295a8a5382afff57f9bb": {
+        "sectxt": true,
+        "sectionID": "926338",
+        "type": "DI",
+        "section": "F06",
+        "days": "F",
+        "time": "5:00p-5:50p",
+        "building": "WLH",
+        "room": "2115",
+        "instructors": [
+          "Crowell, John E"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "b0c3442aa7cf3d32c761c69364393bc9f5d90e378e2eccbfc1c35180e34e5793": {
+        "sectxt": true,
+        "sectionID": "926339",
+        "type": "DI",
+        "section": "F07",
+        "days": "F",
+        "time": "6:00p-6:50p",
+        "building": "WLH",
+        "room": "2115",
+        "instructors": [
+          "Crowell, John E"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "7a3d0d4baf4f6d68cf5c4ff04b5695883b20c35f5960d5c8f0808a39edc87401": {
+        "sectxt": true,
+        "sectionID": "926340",
+        "type": "DI",
+        "section": "F08",
+        "days": "F",
+        "time": "7:00p-7:50p",
+        "building": "WLH",
+        "room": "2115",
+        "instructors": [
+          "Crowell, John E"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "3786dad5b39ca7588794243ce5480c3accf06d95684b5cc47a4ed0181f81f7c3": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -480,14 +1275,13 @@
         "time": "11:00a-11:50a",
         "building": "GH",
         "room": "242",
-        "instructor": "Lam, Tin Yiu",
         "instructors": [
           "Lam, Tin Yiu"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "41208c53047fcec55e093cda8ebc79265bc3b818ef4bb344b58747c6c15e287f": {
         "sectxt": true,
         "sectionID": "926350",
         "type": "DI",
@@ -496,14 +1290,13 @@
         "time": "7:00p-7:50p",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Lam, Tin Yiu",
         "instructors": [
           "Lam, Tin Yiu"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "b1df9ab83fbe5466485469303f077c183b0a410467f81aed8b110609f91e21d7": {
         "sectxt": true,
         "sectionID": "926351",
         "type": "DI",
@@ -512,15 +1305,20 @@
         "time": "8:00p-8:50p",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Lam, Tin Yiu",
         "instructors": [
           "Lam, Tin Yiu"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "D",
+    "E",
+    "F",
+    "G"
+  ]
 }

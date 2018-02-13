@@ -3,38 +3,8 @@
   "name": "Special Topics in Audiology",
   "department": "AUD",
   "id": "278",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Zettner, Erika",
-      "instructors": [
-        "Zettner, Erika"
-      ]
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930526",
-      "type": "DI",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Zettner, Erika",
-      "instructors": [
-        "Zettner, Erika"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -45,7 +15,6 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Zettner, Erika",
       "instructors": [
         "Zettner, Erika"
       ]
@@ -59,19 +28,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Zettner, Erika",
       "instructors": [
         "Zettner, Erika"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

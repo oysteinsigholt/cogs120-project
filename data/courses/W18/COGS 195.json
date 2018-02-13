@@ -3,27 +3,180 @@
   "name": "Instructional Apprenticeship",
   "department": "COGS",
   "id": "195",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "935563",
-      "type": "LE",
-      "section": "P00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "De Sa, Virginia",
-      "instructors": [
-        "De Sa, Virginia"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "925604",
+      "type": "LE",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Dow, Steven P"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925605",
+      "type": "LE",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Boyle, Mary E. T."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925606",
+      "type": "LE",
+      "section": "C00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Johnson, Christine M."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925607",
+      "type": "LE",
+      "section": "D00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Kirsh, David Joel"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925608",
+      "type": "LE",
+      "section": "E00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Klemmer, Scott R"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925609",
+      "type": "LE",
+      "section": "G00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Rangel, Lara M"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925610",
+      "type": "LE",
+      "section": "H00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Rossano, Federico"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925611",
+      "type": "LE",
+      "section": "J00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Voytek, Bradley Thomas"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925612",
+      "type": "LE",
+      "section": "K00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Nitz, Douglas A."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "935557",
+      "type": "LE",
+      "section": "L00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hoffman, Drew Ellen"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "935559",
+      "type": "LE",
+      "section": "M00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Scott, Taylor Jackson"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "935560",
+      "type": "LE",
+      "section": "N00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Tu, Zhuowen"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "935562",
+      "type": "LE",
+      "section": "O00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Greenspan, Ralph J."
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "935563",
       "type": "LE",
       "section": "P00",
@@ -31,19 +184,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "De Sa, Virginia",
       "instructors": [
         "De Sa, Virginia"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

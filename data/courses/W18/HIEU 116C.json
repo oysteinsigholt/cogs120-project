@@ -3,42 +3,9 @@
   "name": "Greece/Balkans/20th Century",
   "department": "HIEU",
   "id": "116C",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924556",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "CENTR",
-      "room": "113",
-      "instructor": "Gallant, Thomas W.",
-      "instructors": [
-        "Gallant, Thomas W."
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "fc25e75108f45d9fb2948fd35704ec5f2588f1f88adf845d804db1b9ccc70a5f": {
         "sectxt": true,
         "sectionID": "924556",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "12:30p-1:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Gallant, Thomas W.",
         "instructors": [
           "Gallant, Thomas W."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "5afed562712d56c31914f9935e3ae15ab5e07f8cba8e7b43180e562420d94bf2": {
         "sectxt": true,
         "sectionID": "924556",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "12:30p-1:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Gallant, Thomas W.",
         "instructors": [
           "Gallant, Thomas W."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,42 +3,9 @@
   "name": "Synthesis of Complex Molecules",
   "department": "CHEM",
   "id": "155",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926576",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "NSB",
-      "room": "2303",
-      "instructor": "Schmidt, Valerie A",
-      "instructors": [
-        "Schmidt, Valerie A"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "9ece81f830e1caf3409123909a287e4a68a0494203234a3d52022f6614b7b94e": {
         "sectxt": true,
         "sectionID": "926576",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "12:30p-1:50p",
         "building": "NSB",
         "room": "2303",
-        "instructor": "Schmidt, Valerie A",
         "instructors": [
           "Schmidt, Valerie A"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "7dd91a8cd65b3176046079c990796a492d5beb0ab74a2ea9f058ba1867e5608f": {
         "sectxt": true,
         "sectionID": "926576",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "12:30p-1:50p",
         "building": "NSB",
         "room": "2303",
-        "instructor": "Schmidt, Valerie A",
         "instructors": [
           "Schmidt, Valerie A"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

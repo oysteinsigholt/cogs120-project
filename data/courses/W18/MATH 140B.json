@@ -3,74 +3,23 @@
   "name": "Foundations/Real Analysis II",
   "department": "MATH",
   "id": "140B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "APM",
-      "room": "B402A",
-      "instructor": "Elgindi, Tarek M",
-      "instructors": [
-        "Elgindi, Tarek M"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927155",
-      "type": "DI",
-      "section": "B01",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "APM",
-      "room": "5402",
-      "instructor": "Elgindi, Tarek M",
-      "instructors": [
-        "Elgindi, Tarek M"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927156",
-      "type": "DI",
-      "section": "B02",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -79,18 +28,33 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "1866918a9e827ca2246c3cdc0800ca8cab9d14fcb63d242959828782dc5e03cc": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "PETER",
+        "room": "103",
+        "instructors": [
+          "Mohammadi, Amir"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      }
+    },
+    "Tu": {
+      "847a50f2fa5395561c0d5d1ceca2bbd45036602b9ceaf53fb929d6688c468394": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -99,16 +63,60 @@
         "time": "2:00p-3:20p",
         "building": "APM",
         "room": "B402A",
-        "instructor": "Elgindi, Tarek M",
         "instructors": [
           "Elgindi, Tarek M"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "664fb1192c899ad420c384f1035679fd9aa443bbe17868a3444009b2ce9ed2d0": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "PETER",
+        "room": "103",
+        "instructors": [
+          "Mohammadi, Amir"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "df5ba4f228e5eaad67b660c996ab5912bc355b692e424e867de6230a67eb5724": {
+        "sectxt": true,
+        "sectionID": "929327",
+        "type": "DI",
+        "section": "A01",
+        "days": "W",
+        "time": "4:00p-4:50p",
+        "building": "APM",
+        "room": "5402",
+        "instructors": [
+          "Mohammadi, Amir"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "ddbbd60281a2d044a34b5e2ad63f327967559373e719d4a50a625e1f41518a57": {
+        "sectxt": true,
+        "sectionID": "929328",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "5:00p-5:50p",
+        "building": "APM",
+        "room": "5402",
+        "instructors": [
+          "Mohammadi, Amir"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "7a7f2646614b16aa65d3d59177a043a9772d8c70e0138a362db120807a56535d": {
         "sectxt": true,
         "sectionID": "927155",
         "type": "DI",
@@ -117,16 +125,15 @@
         "time": "6:00p-6:50p",
         "building": "APM",
         "room": "5402",
-        "instructor": "Elgindi, Tarek M",
         "instructors": [
           "Elgindi, Tarek M"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "d3759d59a75d35ecdfe759ce2719eea41f8123ebe815a112a38701afec5bd9d1": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -135,16 +142,33 @@
         "time": "2:00p-3:20p",
         "building": "APM",
         "room": "B402A",
-        "instructor": "Elgindi, Tarek M",
         "instructors": [
           "Elgindi, Tarek M"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "F": {
+      "e0c71401fe619db626c079241f95ffbc9af299dc6dba6b446063c58d72b82533": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "PETER",
+        "room": "103",
+        "instructors": [
+          "Mohammadi, Amir"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

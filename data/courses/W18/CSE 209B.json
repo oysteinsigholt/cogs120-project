@@ -3,32 +3,12 @@
   "name": "Top/Seminar in Cryptography",
   "department": "CSE",
   "id": "209B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927551",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "9:00a-9:50a",
-      "building": "EBU3B",
-      "room": "4258",
-      "instructor": "Micciancio, Daniele",
-      "instructors": [
-        "Micciancio, Daniele"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "406402d0532cff1675df9e607c80433c1fe4cd538c8e927029c8d09e67aa59df": {
         "sectxt": true,
         "sectionID": "927551",
         "type": "LE",
@@ -37,17 +17,15 @@
         "time": "9:00a-9:50a",
         "building": "EBU3B",
         "room": "4258",
-        "instructor": "Micciancio, Daniele",
         "instructors": [
           "Micciancio, Daniele"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,106 +3,9 @@
   "name": "Analytical Chemistry Lab",
   "department": "CHEM",
   "id": "100A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "4:00p-4:50p",
-      "building": "YORK",
-      "room": "2622",
-      "instructor": "Pena, Ignacio Lopez",
-      "instructors": [
-        "Pena, Ignacio Lopez"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926519",
-      "type": "LA",
-      "section": "A01",
-      "days": "MW",
-      "time": "9:00a-11:50a",
-      "building": "NSB",
-      "room": "2311",
-      "instructor": "Pena, Ignacio Lopez",
-      "instructors": [
-        "Pena, Ignacio Lopez"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926520",
-      "type": "LA",
-      "section": "A02",
-      "days": "MW",
-      "time": "9:00a-11:50a",
-      "building": "NSB",
-      "room": "2319",
-      "instructor": "Pena, Ignacio Lopez",
-      "instructors": [
-        "Pena, Ignacio Lopez"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926522",
-      "type": "LA",
-      "section": "A04",
-      "days": "MW",
-      "time": "1:00p-3:50p",
-      "building": "NSB",
-      "room": "2311",
-      "instructor": "Pena, Ignacio Lopez",
-      "instructors": [
-        "Pena, Ignacio Lopez"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926523",
-      "type": "LA",
-      "section": "A05",
-      "days": "MW",
-      "time": "1:00p-3:50p",
-      "building": "NSB",
-      "room": "2319",
-      "instructor": "Pena, Ignacio Lopez",
-      "instructors": [
-        "Pena, Ignacio Lopez"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b9b4ec5af540606b238988bee0286fc3a4cc4d540b7785beb08dccae4a0227c9": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -111,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "827d8e61b0be564cefe3242e8ded91bf3b54cd405249ba4e71bd8ae53b45dd4d": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -130,14 +32,13 @@
         "time": "4:00p-4:50p",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Pena, Ignacio Lopez",
         "instructors": [
           "Pena, Ignacio Lopez"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "e84db26f85e2abde5f09c07f4e75487b82d15e460c733412e4a40ecd7ff934a2": {
         "sectxt": true,
         "sectionID": "926519",
         "type": "LA",
@@ -146,14 +47,13 @@
         "time": "9:00a-11:50a",
         "building": "NSB",
         "room": "2311",
-        "instructor": "Pena, Ignacio Lopez",
         "instructors": [
           "Pena, Ignacio Lopez"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       },
-      {
+      "3670ef571aaf5cbdf99117afe828b2027c5eb263dedbe984e477793d9c385ae7": {
         "sectxt": true,
         "sectionID": "926520",
         "type": "LA",
@@ -162,14 +62,13 @@
         "time": "9:00a-11:50a",
         "building": "NSB",
         "room": "2319",
-        "instructor": "Pena, Ignacio Lopez",
         "instructors": [
           "Pena, Ignacio Lopez"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       },
-      {
+      "ddda4dac2ba8fb15e4467d3a6900ca278a2dbdc1279dc1292e321b15106aca5e": {
         "sectxt": true,
         "sectionID": "926522",
         "type": "LA",
@@ -178,14 +77,13 @@
         "time": "1:00p-3:50p",
         "building": "NSB",
         "room": "2311",
-        "instructor": "Pena, Ignacio Lopez",
         "instructors": [
           "Pena, Ignacio Lopez"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       },
-      {
+      "1477b81468acca47fd3760d73b1945a27718fb572b764593beb450d2bb8512a3": {
         "sectxt": true,
         "sectionID": "926523",
         "type": "LA",
@@ -194,17 +92,15 @@
         "time": "1:00p-3:50p",
         "building": "NSB",
         "room": "2319",
-        "instructor": "Pena, Ignacio Lopez",
         "instructors": [
           "Pena, Ignacio Lopez"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "77e4ef4f5c961a7ec147a3ff6cc6346072c465cf4d729938bdc40fc2c3b04f3d": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -213,14 +109,13 @@
         "time": "4:00p-4:50p",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Pena, Ignacio Lopez",
         "instructors": [
           "Pena, Ignacio Lopez"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "18f2425ae449f2aab7ea9b194b88c4e77cf5c1470c1e60db8f1c7a99adc2e664": {
         "sectxt": true,
         "sectionID": "926519",
         "type": "LA",
@@ -229,14 +124,13 @@
         "time": "9:00a-11:50a",
         "building": "NSB",
         "room": "2311",
-        "instructor": "Pena, Ignacio Lopez",
         "instructors": [
           "Pena, Ignacio Lopez"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       },
-      {
+      "33ae4d0febec8d3c130a98d73dcd52a81925205bbb094f96a7173628a0be16c7": {
         "sectxt": true,
         "sectionID": "926520",
         "type": "LA",
@@ -245,14 +139,13 @@
         "time": "9:00a-11:50a",
         "building": "NSB",
         "room": "2319",
-        "instructor": "Pena, Ignacio Lopez",
         "instructors": [
           "Pena, Ignacio Lopez"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       },
-      {
+      "44d23d7776be34360673f52969d250ea618d11a0883c983711f869c6ed3cebf7": {
         "sectxt": true,
         "sectionID": "926522",
         "type": "LA",
@@ -261,14 +154,13 @@
         "time": "1:00p-3:50p",
         "building": "NSB",
         "room": "2311",
-        "instructor": "Pena, Ignacio Lopez",
         "instructors": [
           "Pena, Ignacio Lopez"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       },
-      {
+      "c68897c5f34796dd814761374bbf4a3e9fe9840c7dd352ff2d7741f7cf5e96c1": {
         "sectxt": true,
         "sectionID": "926523",
         "type": "LA",
@@ -277,17 +169,15 @@
         "time": "1:00p-3:50p",
         "building": "NSB",
         "room": "2319",
-        "instructor": "Pena, Ignacio Lopez",
         "instructors": [
           "Pena, Ignacio Lopez"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

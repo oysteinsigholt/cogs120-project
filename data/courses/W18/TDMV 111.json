@@ -3,30 +3,12 @@
   "name": "Advanced Ballet",
   "department": "TDMV",
   "id": "111",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920462",
-      "type": "ST",
-      "section": "A00",
-      "days": "MWF",
-      "time": "10:00a-11:50a",
-      "building": "DANCE",
-      "room": "1",
-      "instructor": "Weinberg, Sadie",
-      "instructors": [
-        "Weinberg, Sadie"
-      ],
-      "start_time": "10:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "8f6ad6b3c5034003c23972d319baf41c8d04a5093bb0db7e56b607186972d41a": {
         "sectxt": true,
         "sectionID": "920462",
         "type": "ST",
@@ -35,17 +17,15 @@
         "time": "10:00a-11:50a",
         "building": "DANCE",
         "room": "1",
-        "instructor": "Weinberg, Sadie",
         "instructors": [
           "Weinberg, Sadie"
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "9b05b61e5ddb982a546c31444c02cb09f73d928f235f32cf69c99732d6c02f9b": {
         "sectxt": true,
         "sectionID": "920462",
         "type": "ST",
@@ -54,17 +34,15 @@
         "time": "10:00a-11:50a",
         "building": "DANCE",
         "room": "1",
-        "instructor": "Weinberg, Sadie",
         "instructors": [
           "Weinberg, Sadie"
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "e71acd49956efc3443a0ce138ec7e59d67c881eabb4f251245713c34f72548da": {
         "sectxt": true,
         "sectionID": "920462",
         "type": "ST",
@@ -73,15 +51,15 @@
         "time": "10:00a-11:50a",
         "building": "DANCE",
         "room": "1",
-        "instructor": "Weinberg, Sadie",
         "instructors": [
           "Weinberg, Sadie"
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

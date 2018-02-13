@@ -3,32 +3,12 @@
   "name": "Freshman Seminar",
   "department": "CSE",
   "id": "87",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927866",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "9:00a-10:50a",
-      "building": "EBU3B",
-      "room": "B220",
-      "instructor": "Cottrell, Garrison W",
-      "instructors": [
-        "Cottrell, Garrison W"
-      ],
-      "start_time": "9:00",
-      "end_time": "10:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "3816ac579dc6c6c3e502357546143b1011d3ff0c507f042fa9661809d44ad124": {
         "sectxt": true,
         "sectionID": "927866",
         "type": "SE",
@@ -37,17 +17,34 @@
         "time": "9:00a-10:50a",
         "building": "EBU3B",
         "room": "B220",
-        "instructor": "Cottrell, Garrison W",
         "instructors": [
           "Cottrell, Garrison W"
         ],
         "start_time": "9:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "F": {
+      "a1066d71d155402abaaec531eba5718e932307f4a19e1cef7aca456cc84959c8": {
+        "sectxt": true,
+        "sectionID": "927868",
+        "type": "SE",
+        "section": "C00",
+        "days": "F",
+        "time": "4:00p-4:50p",
+        "building": "EBU3B",
+        "room": "3217",
+        "instructors": [
+          "Papakonstantinou, Yannis"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

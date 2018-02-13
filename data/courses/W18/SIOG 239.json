@@ -3,26 +3,25 @@
   "name": "Special Topics in Geophysics",
   "department": "SIOG",
   "id": "239",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921995",
-      "type": "SE",
-      "section": "B00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Tauxe, Lisa",
-      "instructors": [
-        "Tauxe, Lisa"
-      ]
-    }
-  ],
   "notes": [
     "Students should register for 1 unit, S/U only."
   ],
-  "events_single": [],
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  },
   "events_unknown": [
     {
       "sectxt": true,
@@ -33,19 +32,31 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Tauxe, Lisa",
       "instructors": [
         "Tauxe, Lisa"
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "F": {
+      "1384a820653557d7d73e40520232d6e287455af919acd8baa72a86ed15872bc6": {
+        "sectxt": true,
+        "sectionID": "921994",
+        "type": "SE",
+        "section": "A00",
+        "days": "F",
+        "time": "11:00a-11:50a",
+        "building": "IGPP",
+        "room": "303",
+        "instructors": [
+          "Van Allen, Emily Joyce             \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWillenbring, Jane Kathryn"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

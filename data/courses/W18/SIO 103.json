@@ -3,57 +3,9 @@
   "name": "Introduction to Geophysics",
   "department": "SIO",
   "id": "103",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921047",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "10:00a-11:20a",
-      "building": "IGPP",
-      "room": "303",
-      "instructor": "Masters, Thomas G & Constable, Steven C",
-      "instructors": [
-        "Masters, Thomas G",
-        "Constable, Steven C"
-      ],
-      "start_time": "10:00",
-      "end_time": "11:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "11:30a-12:20p",
-      "building": "IGPP",
-      "room": "303",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "11:30",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -62,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "6bc2b645a68863effb97ade36334a814e253cf97ae838b04e3ba690f8b3492dd": {
         "sectxt": true,
         "sectionID": "921047",
         "type": "LE",
@@ -81,18 +32,15 @@
         "time": "10:00a-11:20a",
         "building": "IGPP",
         "room": "303",
-        "instructor": "Masters, Thomas G & Constable, Steven C",
         "instructors": [
-          "Masters, Thomas G",
-          "Constable, Steven C"
+          "Masters, Thomas G                  \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tConstable, Steven C"
         ],
         "start_time": "10:00",
         "end_time": "11:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "4d2a93d0ca077878d002303e894533f65635beb88bfa134bb1e94977caa02a6e": {
         "sectxt": true,
         "sectionID": "921047",
         "type": "LE",
@@ -101,15 +49,13 @@
         "time": "10:00a-11:20a",
         "building": "IGPP",
         "room": "303",
-        "instructor": "Masters, Thomas G & Constable, Steven C",
         "instructors": [
-          "Masters, Thomas G",
-          "Constable, Steven C"
+          "Masters, Thomas G                  \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tConstable, Steven C"
         ],
         "start_time": "10:00",
         "end_time": "11:20"
       },
-      {
+      "fe0d6d37604cab9ead7a84d867bad06a00db339b43cf95ac6e557d17de3bd35e": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -118,15 +64,13 @@
         "time": "11:30a-12:20p",
         "building": "IGPP",
         "room": "303",
-        "instructor": "",
         "instructors": [],
         "start_time": "11:30",
         "end_time": "12:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

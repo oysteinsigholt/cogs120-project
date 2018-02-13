@@ -3,42 +3,23 @@
   "name": "Advanced Financial Risk Mgmt",
   "department": "MGTF",
   "id": "403",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930395",
-      "type": "LE",
-      "section": "B00",
-      "days": "M",
-      "time": "1:30p-4:30p",
-      "building": "OTRSN",
-      "room": "1E107",
-      "instructor": "Valkanov, Rossen",
-      "instructors": [
-        "Valkanov, Rossen"
-      ],
-      "start_time": "13:30",
-      "end_time": "16:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "1:30p-4:30p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "13:30",
-      "end_time": "16:30"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c8f7af9eeca65b40a87d67ce3f74dd3a3893e0292d57c6fb19fa6528d30f9407": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "9:00a-12:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "9:00",
+      "end_time": "12:00"
+    },
+    "f68bc49c439a23957e1fc4df9c4ad0f09cd3b4129a8f6f3eee6cd848316f96f2": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +28,31 @@
       "time": "1:30p-4:30p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "13:30",
       "end_time": "16:30"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "f362a0bfa96a171d9f812b06b09d655342d4996851f8ebbb62adf9483fb311c8": {
+        "sectxt": true,
+        "sectionID": "930394",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "9:00a-12:00p",
+        "building": "OTRSN",
+        "room": "1E107",
+        "instructors": [
+          "Valkanov, Rossen"
+        ],
+        "start_time": "9:00",
+        "end_time": "12:00"
+      },
+      "5916e3cb1fc4db8723e46c283bbe4251efcf4d66bbfa209968129935b8749a64": {
         "sectxt": true,
         "sectionID": "930395",
         "type": "LE",
@@ -66,19 +61,16 @@
         "time": "1:30p-4:30p",
         "building": "OTRSN",
         "room": "1E107",
-        "instructor": "Valkanov, Rossen",
         "instructors": [
           "Valkanov, Rossen"
         ],
         "start_time": "13:30",
         "end_time": "16:30"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

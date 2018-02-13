@@ -3,42 +3,23 @@
   "name": "Technology-Innovation Strategy",
   "department": "MGT",
   "id": "451",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930397",
-      "type": "LE",
-      "section": "B00",
-      "days": "Tu",
-      "time": "6:30p-9:30p",
-      "building": "OTRSN",
-      "room": "3E107",
-      "instructor": "Zhu, Kevin Xiaoguo",
-      "instructors": [
-        "Zhu, Kevin Xiaoguo"
-      ],
-      "start_time": "18:30",
-      "end_time": "21:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "6:30p-9:30p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "18:30",
-      "end_time": "21:30"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "6e13e8f4182e4e56c22828aca96080145c245b248d7abd39b1c273ae06138184": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "2:00p-5:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "14:00",
+      "end_time": "17:00"
+    },
+    "23b7303abbf3e678287869ea7924b3fa7b0bc4069be6e350aa32ebbf59533de8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +28,33 @@
       "time": "6:30p-9:30p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "18:30",
       "end_time": "21:30"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "57aefb2844568ea2aed3a82a1602e6218d81fdcf81394c9d9ae62b91763dcad0": {
+        "sectxt": true,
+        "sectionID": "930396",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "2:00p-5:00p",
+        "building": "OTRSN",
+        "room": "3E107",
+        "instructors": [
+          "Zhu, Kevin Xiaoguo"
+        ],
+        "start_time": "14:00",
+        "end_time": "17:00"
+      }
+    },
+    "Tu": {
+      "d112e6c09cc6212ef1266e43d5b657298b65ccdfa9718420255b38a3924cb5ed": {
         "sectxt": true,
         "sectionID": "930397",
         "type": "LE",
@@ -67,18 +63,16 @@
         "time": "6:30p-9:30p",
         "building": "OTRSN",
         "room": "3E107",
-        "instructor": "Zhu, Kevin Xiaoguo",
         "instructors": [
           "Zhu, Kevin Xiaoguo"
         ],
         "start_time": "18:30",
         "end_time": "21:30"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

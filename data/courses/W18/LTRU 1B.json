@@ -3,74 +3,9 @@
   "name": "First-Year Russian",
   "department": "LTRU",
   "id": "1B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "LIT",
-      "room": "255",
-      "instructor": "Wells, Patricia Rebecca",
-      "instructors": [
-        "Wells, Patricia Rebecca"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920124",
-      "type": "DI",
-      "section": "A01",
-      "days": "MW",
-      "time": "11:00a-11:50a",
-      "building": "LIT",
-      "room": "437",
-      "instructor": "Wells, Patricia Rebecca",
-      "instructors": [
-        "Wells, Patricia Rebecca"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920125",
-      "type": "DI",
-      "section": "A02",
-      "days": "MW",
-      "time": "12:00p-12:50p",
-      "building": "LIT",
-      "room": "437",
-      "instructor": "Wells, Patricia Rebecca",
-      "instructors": [
-        "Wells, Patricia Rebecca"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -79,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "a0581dfa4654353f7cf1231a94280170c6d49b2a3ebfc0a474de7dddc07b6baf": {
         "sectxt": true,
         "sectionID": "920124",
         "type": "DI",
@@ -98,14 +32,13 @@
         "time": "11:00a-11:50a",
         "building": "LIT",
         "room": "437",
-        "instructor": "Wells, Patricia Rebecca",
         "instructors": [
           "Wells, Patricia Rebecca"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "9e60d913ffd1b1151b60064d5b19281ca21d6d83e5560b6e3194f2996496f4d1": {
         "sectxt": true,
         "sectionID": "920125",
         "type": "DI",
@@ -114,16 +47,15 @@
         "time": "12:00p-12:50p",
         "building": "LIT",
         "room": "437",
-        "instructor": "Wells, Patricia Rebecca",
         "instructors": [
           "Wells, Patricia Rebecca"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "d76bcf043f1041aeae848254fedd3b9af18897231d4c3398c9af555ce5e62306": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -132,16 +64,15 @@
         "time": "11:00a-12:20p",
         "building": "LIT",
         "room": "255",
-        "instructor": "Wells, Patricia Rebecca",
         "instructors": [
           "Wells, Patricia Rebecca"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "d11cd5263ca960ca5e361c1a4ce1b38a75b5062dd23e198f534e9af90c2dc09d": {
         "sectxt": true,
         "sectionID": "920124",
         "type": "DI",
@@ -150,14 +81,13 @@
         "time": "11:00a-11:50a",
         "building": "LIT",
         "room": "437",
-        "instructor": "Wells, Patricia Rebecca",
         "instructors": [
           "Wells, Patricia Rebecca"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "80707ffd2a09dfeb2c93e88c2b4ca6ca28dae34b6737a6e1b61ae4a1d28e4c8b": {
         "sectxt": true,
         "sectionID": "920125",
         "type": "DI",
@@ -166,16 +96,15 @@
         "time": "12:00p-12:50p",
         "building": "LIT",
         "room": "437",
-        "instructor": "Wells, Patricia Rebecca",
         "instructors": [
           "Wells, Patricia Rebecca"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "055dab9e4efb54208a1d7f8ffd64e8d079ba2cc9fe681a6ccf684c385c6a7818": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -184,16 +113,15 @@
         "time": "11:00a-12:20p",
         "building": "LIT",
         "room": "255",
-        "instructor": "Wells, Patricia Rebecca",
         "instructors": [
           "Wells, Patricia Rebecca"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

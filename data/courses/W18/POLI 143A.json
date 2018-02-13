@@ -3,42 +3,9 @@
   "name": "War and Society",
   "department": "POLI",
   "id": "143A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925318",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "PETER",
-      "room": "104",
-      "instructor": "Slantchev, Branislav",
-      "instructors": [
-        "Slantchev, Branislav"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "d56d18d1cfe1bb06852b41ef573dceeeaf98d41432efe9bcc2745e9ecec984b2": {
         "sectxt": true,
         "sectionID": "925318",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "11:00a-11:50a",
         "building": "PETER",
         "room": "104",
-        "instructor": "Slantchev, Branislav",
         "instructors": [
           "Slantchev, Branislav"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "0ff8cc718c49e71e65aa6ce9769876ccdd7e5033fa991254f238393f2777d741": {
         "sectxt": true,
         "sectionID": "925318",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "11:00a-11:50a",
         "building": "PETER",
         "room": "104",
-        "instructor": "Slantchev, Branislav",
         "instructors": [
           "Slantchev, Branislav"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "fb4a09328e939b7b47821e092194a7b28ed274385831252d92ba7bd149b8ee3d": {
         "sectxt": true,
         "sectionID": "925318",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "11:00a-11:50a",
         "building": "PETER",
         "room": "104",
-        "instructor": "Slantchev, Branislav",
         "instructors": [
           "Slantchev, Branislav"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,27 +3,50 @@
   "name": "Honors Thesis",
   "department": "LTEN",
   "id": "196",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "933126",
-      "type": "TU",
-      "section": "004",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Lerer, Seth",
-      "instructors": [
-        "Lerer, Seth"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "933123",
+      "type": "TU",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Suzuki, Erin M."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "933124",
+      "type": "TU",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Wesling, Megan E."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "933125",
+      "type": "TU",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Nicolazzo, Sarah E."
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "933126",
       "type": "TU",
       "section": "004",
@@ -31,19 +54,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Lerer, Seth",
       "instructors": [
         "Lerer, Seth"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

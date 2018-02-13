@@ -3,62 +3,11 @@
   "name": "Tissue Engineering Laboratory",
   "department": "BIOM",
   "id": "287",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930136",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "2:00p-3:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Sheikh, Farah & Gaetani, Roberto",
-      "instructors": [
-        "Sheikh, Farah",
-        "Gaetani, Roberto"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A01",
-      "days": "Th",
-      "time": "2:00p-3:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Sheikh, Farah & Gaetani, Roberto",
-      "instructors": [
-        "Sheikh, Farah",
-        "Gaetani, Roberto"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [
     "Location: Jacobs Hall Rm 5311"
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -67,18 +16,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "6acbd23a910ee236283ab509cec0cdaa37042449f02f60b22b199412d40525e6": {
         "sectxt": true,
         "sectionID": "930136",
         "type": "LE",
@@ -87,18 +34,15 @@
         "time": "2:00p-3:50p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Sheikh, Farah & Gaetani, Roberto",
         "instructors": [
-          "Sheikh, Farah",
-          "Gaetani, Roberto"
+          "Sheikh, Farah                      \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGaetani, Roberto"
         ],
         "start_time": "14:00",
         "end_time": "15:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "79247ef3a1cdbb726dbf6f6eed1e5052ea2dcf8ce5a47b36780ce4931967c191": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -107,17 +51,15 @@
         "time": "2:00p-3:50p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Sheikh, Farah & Gaetani, Roberto",
         "instructors": [
-          "Sheikh, Farah",
-          "Gaetani, Roberto"
+          "Sheikh, Farah                      \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGaetani, Roberto"
         ],
         "start_time": "14:00",
         "end_time": "15:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

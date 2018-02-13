@@ -3,58 +3,9 @@
   "name": "Progrmng Lang:Princpl&Paradigm",
   "department": "CSE",
   "id": "130",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927504",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "6:30p-7:50p",
-      "building": "CENTR",
-      "room": "115",
-      "instructor": "Stefan, Deian",
-      "instructors": [
-        "Stefan, Deian"
-      ],
-      "start_time": "18:30",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A01",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "CENTR",
-      "room": "119",
-      "instructor": "Stefan, Deian",
-      "instructors": [
-        "Stefan, Deian"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "83f667703ee5f41443699d3c685d2af7204f58e7d0026726650a8f5259ecf403": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,18 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "4a6a2cb3c52ccfe7f87370dec4e00d72ebf4b34241d48d8417b35db1b6531765": {
         "sectxt": true,
         "sectionID": "927504",
         "type": "LE",
@@ -83,17 +32,15 @@
         "time": "6:30p-7:50p",
         "building": "CENTR",
         "room": "115",
-        "instructor": "Stefan, Deian",
         "instructors": [
           "Stefan, Deian"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "56ba8120b9e25e12774376cb94e492e83246c512809199a02bfda4948cacfc53": {
         "sectxt": true,
         "sectionID": "927504",
         "type": "LE",
@@ -102,16 +49,15 @@
         "time": "6:30p-7:50p",
         "building": "CENTR",
         "room": "115",
-        "instructor": "Stefan, Deian",
         "instructors": [
           "Stefan, Deian"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "92bf86e99396dbba4dad7b49afeb9cd5d45bdc48064a787137662af25febb255": {
         "sectxt": true,
         "sectionID": "",
         "type": "DI",
@@ -120,15 +66,15 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "119",
-        "instructor": "Stefan, Deian",
         "instructors": [
           "Stefan, Deian"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,140 +3,11 @@
   "name": "Introduction/Asian Art",
   "department": "VIS",
   "id": "21B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "5:00p-6:20p",
-      "building": "LEDDN",
-      "room": "AUD",
-      "instructor": "Chou, Yeongchau D",
-      "instructors": [
-        "Chou, Yeongchau D"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922731",
-      "type": "DI",
-      "section": "A01",
-      "days": "Tu",
-      "time": "3:30p-4:20p",
-      "building": "MANDE",
-      "room": "106",
-      "instructor": "Chou, Yeongchau D",
-      "instructors": [
-        "Chou, Yeongchau D"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922732",
-      "type": "DI",
-      "section": "A02",
-      "days": "Tu",
-      "time": "4:30p-5:20p",
-      "building": "MANDE",
-      "room": "106",
-      "instructor": "Chou, Yeongchau D",
-      "instructors": [
-        "Chou, Yeongchau D"
-      ],
-      "start_time": "16:30",
-      "end_time": "17:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922733",
-      "type": "DI",
-      "section": "A03",
-      "days": "W",
-      "time": "12:00p-12:50p",
-      "building": "MANDE",
-      "room": "106",
-      "instructor": "Chou, Yeongchau D",
-      "instructors": [
-        "Chou, Yeongchau D"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922734",
-      "type": "DI",
-      "section": "A04",
-      "days": "W",
-      "time": "1:00p-1:50p",
-      "building": "MANDE",
-      "room": "106",
-      "instructor": "Chou, Yeongchau D",
-      "instructors": [
-        "Chou, Yeongchau D"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922735",
-      "type": "DI",
-      "section": "A05",
-      "days": "Th",
-      "time": "3:30p-4:20p",
-      "building": "MANDE",
-      "room": "106",
-      "instructor": "Chou, Yeongchau D",
-      "instructors": [
-        "Chou, Yeongchau D"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922736",
-      "type": "DI",
-      "section": "A06",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [
     "VIS 21b sections will not meet before the first main\n lecture."
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -145,17 +16,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "503eae0a8858b7b329809768e5967230ac8000e953deadca9a39203641302192": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -164,16 +34,15 @@
         "time": "5:00p-6:20p",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Chou, Yeongchau D",
         "instructors": [
           "Chou, Yeongchau D"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "161815adbd8d91440077f5c9dc01fe5334e73820fc39b6e1461033764f79928a": {
         "sectxt": true,
         "sectionID": "922731",
         "type": "DI",
@@ -182,14 +51,13 @@
         "time": "3:30p-4:20p",
         "building": "MANDE",
         "room": "106",
-        "instructor": "Chou, Yeongchau D",
         "instructors": [
           "Chou, Yeongchau D"
         ],
         "start_time": "15:30",
         "end_time": "16:20"
       },
-      {
+      "3ab5496545a4612ff86e853c6382e9d39d604d27302a3867d4a5f07e8ed6ae6d": {
         "sectxt": true,
         "sectionID": "922732",
         "type": "DI",
@@ -198,16 +66,15 @@
         "time": "4:30p-5:20p",
         "building": "MANDE",
         "room": "106",
-        "instructor": "Chou, Yeongchau D",
         "instructors": [
           "Chou, Yeongchau D"
         ],
         "start_time": "16:30",
         "end_time": "17:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "ad10dc80025b6fae88a6e6bd4b3bc62f48725a5778aa49de4dbf9e9ef718c058": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -216,14 +83,13 @@
         "time": "5:00p-6:20p",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Chou, Yeongchau D",
         "instructors": [
           "Chou, Yeongchau D"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       },
-      {
+      "29edad03ba43fa080fcc2ca63dbda62432c75f4f6606640e69792915452864b1": {
         "sectxt": true,
         "sectionID": "922733",
         "type": "DI",
@@ -232,14 +98,13 @@
         "time": "12:00p-12:50p",
         "building": "MANDE",
         "room": "106",
-        "instructor": "Chou, Yeongchau D",
         "instructors": [
           "Chou, Yeongchau D"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "b40d532295fb2483dacdadeeacae216d5c596aa68fec4666588f04a264f96c90": {
         "sectxt": true,
         "sectionID": "922734",
         "type": "DI",
@@ -248,16 +113,15 @@
         "time": "1:00p-1:50p",
         "building": "MANDE",
         "room": "106",
-        "instructor": "Chou, Yeongchau D",
         "instructors": [
           "Chou, Yeongchau D"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "c603ec6344c26555649b2717a9ebbc72eaaa04b005ab4c9d3772962daff0b15b": {
         "sectxt": true,
         "sectionID": "922735",
         "type": "DI",
@@ -266,16 +130,15 @@
         "time": "3:30p-4:20p",
         "building": "MANDE",
         "room": "106",
-        "instructor": "Chou, Yeongchau D",
         "instructors": [
           "Chou, Yeongchau D"
         ],
         "start_time": "15:30",
         "end_time": "16:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

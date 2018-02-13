@@ -3,34 +3,12 @@
   "name": "Adv Topics-Phys/Neuro",
   "department": "BIPN",
   "id": "194",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926247",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "10:00a-11:20a",
-      "building": "YORK",
-      "room": "3010",
-      "instructor": "Ackerman, Susan",
-      "instructors": [
-        "Ackerman, Susan"
-      ],
-      "start_time": "10:00",
-      "end_time": "11:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "ace13d1619311999fc757a1a3e7acb0c45c6f9f9b37738ae3d55f281e179d3c2": {
         "sectxt": true,
         "sectionID": "926247",
         "type": "SE",
@@ -39,15 +17,15 @@
         "time": "10:00a-11:20a",
         "building": "YORK",
         "room": "3010",
-        "instructor": "Ackerman, Susan",
         "instructors": [
           "Ackerman, Susan"
         ],
         "start_time": "10:00",
         "end_time": "11:20"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

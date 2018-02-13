@@ -3,42 +3,9 @@
   "name": "Topics/Latin American History",
   "department": "HILA",
   "id": "144",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924567",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "5:00p-6:20p",
-      "building": "WLH",
-      "room": "2207",
-      "instructor": "Hunefeldt, Christine",
-      "instructors": [
-        "Hunefeldt, Christine"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "88cc0bbbad3b707abdcb13e18e5efa6a4db7125beb43c94c730ec550eb362b7c": {
         "sectxt": true,
         "sectionID": "924567",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "5:00p-6:20p",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Hunefeldt, Christine",
         "instructors": [
           "Hunefeldt, Christine"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "cd08990707cdaa2f4508ef120aa1d4cfd773819392741f2b22a7dfb3a270351f": {
         "sectxt": true,
         "sectionID": "924567",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "5:00p-6:20p",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Hunefeldt, Christine",
         "instructors": [
           "Hunefeldt, Christine"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

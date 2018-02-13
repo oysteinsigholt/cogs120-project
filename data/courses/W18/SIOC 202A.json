@@ -3,45 +3,11 @@
   "name": "Fundamentals of Wave Physics",
   "department": "SIOC",
   "id": "202A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921970",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "12:30p-1:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Kuperman, William A & Feddersen, Falk",
-      "instructors": [
-        "Kuperman, William A",
-        "Feddersen, Falk"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [
     "Fundamentals of Wave Physics will meet with SIOC 211A -\n Ocean Waves"
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -50,17 +16,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "f782c4987f420cc0d787a7c9d63df72076e3256aac834c86badabe116c90be6a": {
         "sectxt": true,
         "sectionID": "921970",
         "type": "LE",
@@ -69,18 +34,15 @@
         "time": "12:30p-1:50p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Kuperman, William A & Feddersen, Falk",
         "instructors": [
-          "Kuperman, William A",
-          "Feddersen, Falk"
+          "Kuperman, William A                \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFeddersen, Falk"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "0bf1b8eec1a440cd0a29a23b59418145f09e9ccb41c7007b77c2394fa7e8421c": {
         "sectxt": true,
         "sectionID": "921970",
         "type": "LE",
@@ -89,18 +51,15 @@
         "time": "12:30p-1:50p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Kuperman, William A & Feddersen, Falk",
         "instructors": [
-          "Kuperman, William A",
-          "Feddersen, Falk"
+          "Kuperman, William A                \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFeddersen, Falk"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

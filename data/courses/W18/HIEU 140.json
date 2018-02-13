@@ -3,42 +3,9 @@
   "name": "EuroWomen/Gender 1800-present",
   "department": "HIEU",
   "id": "140",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924553",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "CSB",
-      "room": "004",
-      "instructor": "Radcliff, Pamela B.",
-      "instructors": [
-        "Radcliff, Pamela B."
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "eb79dd7dc923fda7ea54a619e6977e24beb7a5e007c83c1935bcbc77267a2aef": {
         "sectxt": true,
         "sectionID": "924553",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "11:00a-12:20p",
         "building": "CSB",
         "room": "004",
-        "instructor": "Radcliff, Pamela B.",
         "instructors": [
           "Radcliff, Pamela B."
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "07a545eb7958448b198ce7d3eec8736867bcad2af1464f5340709995d9aa963c": {
         "sectxt": true,
         "sectionID": "924553",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "11:00a-12:20p",
         "building": "CSB",
         "room": "004",
-        "instructor": "Radcliff, Pamela B.",
         "instructors": [
           "Radcliff, Pamela B."
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

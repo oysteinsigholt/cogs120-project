@@ -3,42 +3,9 @@
   "name": "Intermediate Greek I",
   "department": "LTGK",
   "id": "2",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920099",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "1315",
-      "instructor": "Myerston Santana, Jacobo",
-      "instructors": [
-        "Myerston Santana, Jacobo"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "5a0f4b09d977e0ffc9aaf241532e4b7e1d6b344e0dfef4ce930bf65e3bec1bd5": {
         "sectxt": true,
         "sectionID": "920099",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "2:00p-2:50p",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Myerston Santana, Jacobo",
         "instructors": [
           "Myerston Santana, Jacobo"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "3892c91bb988f3dd64fa90fbf3c6447dfbde3bb0ee3316f21372ecc89af02228": {
         "sectxt": true,
         "sectionID": "920099",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "2:00p-2:50p",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Myerston Santana, Jacobo",
         "instructors": [
           "Myerston Santana, Jacobo"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "57f2215a2f96e8845dc2317ce44d43f87c343f45cbf5e0827121badd6f17bd43": {
         "sectxt": true,
         "sectionID": "920099",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "2:00p-2:50p",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Myerston Santana, Jacobo",
         "instructors": [
           "Myerston Santana, Jacobo"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

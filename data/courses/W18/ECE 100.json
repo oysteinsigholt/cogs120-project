@@ -3,34 +3,108 @@
   "name": "Linear Electronic Systems",
   "department": "ECE",
   "id": "100",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925019",
-      "type": "LA",
-      "section": "A04",
-      "days": "F",
-      "time": "12:00p-3:00p",
-      "building": "WLH",
-      "room": "2213A",
-      "instructor": "Kante, Boubacar",
-      "instructors": [
-        "Kante, Boubacar"
-      ],
-      "start_time": "12:00",
-      "end_time": "15:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "Tu": {
+      "e465ded450a51855ecac87097b7a25f20ad1b32d4d66efd5a69c690a29911893": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "CENTR",
+        "room": "212",
+        "instructors": [
+          "Kante, Boubacar"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "7a48cde45d81f868c645802c5fe802226c92381026cd276fd0fdd79b08713280": {
+        "sectxt": true,
+        "sectionID": "925016",
+        "type": "LA",
+        "section": "A01",
+        "days": "Tu",
+        "time": "7:00p-10:00p",
+        "building": "WLH",
+        "room": "2213A",
+        "instructors": [
+          "Kante, Boubacar"
+        ],
+        "start_time": "19:00",
+        "end_time": "22:00"
+      }
+    },
+    "W": {
+      "916950b99441b6c32ab039f4ebccf335a7c7f86847f3f3acb24adf5f8ccc8f4b": {
+        "sectxt": true,
+        "sectionID": "925017",
+        "type": "LA",
+        "section": "A02",
+        "days": "W",
+        "time": "3:30p-6:30p",
+        "building": "WLH",
+        "room": "2213A",
+        "instructors": [
+          "Kante, Boubacar"
+        ],
+        "start_time": "15:30",
+        "end_time": "18:30"
+      }
+    },
+    "Th": {
+      "8545ab0c79c23ec92792f48a8a4e9c983955e31d9ddad421339a098929d3ab17": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "CENTR",
+        "room": "212",
+        "instructors": [
+          "Kante, Boubacar"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "d5f2c7b8eb18d234cdebb98990437bbb0556d8facd51b6e314ab0ccc975d1f0d": {
+        "sectxt": true,
+        "sectionID": "925018",
+        "type": "LA",
+        "section": "A03",
+        "days": "Th",
+        "time": "3:30p-6:30p",
+        "building": "WLH",
+        "room": "2213A",
+        "instructors": [
+          "Kante, Boubacar"
+        ],
+        "start_time": "15:30",
+        "end_time": "18:30"
+      }
+    },
+    "F": {
+      "d98c5606f4eabd9465ffdb48f52bce83753c4034ef8ec18d77bf5b69ec51e08a": {
         "sectxt": true,
         "sectionID": "925019",
         "type": "LA",
@@ -39,15 +113,15 @@
         "time": "12:00p-3:00p",
         "building": "WLH",
         "room": "2213A",
-        "instructor": "Kante, Boubacar",
         "instructors": [
           "Kante, Boubacar"
         ],
         "start_time": "12:00",
         "end_time": "15:00"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,42 +3,25 @@
   "name": "Adolescence",
   "department": "PSYC",
   "id": "180",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930488",
-      "type": "LE",
-      "section": "B00",
-      "days": "M",
-      "time": "5:00p-7:50p",
-      "building": "SOLIS",
-      "room": "104",
-      "instructor": "Hanes, Esther",
-      "instructors": [
-        "Hanes, Esther"
-      ],
-      "start_time": "17:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "6d74e347991f2e417f43559a16b875e4c7b91d2444605b16db4d00e1db94aabc": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Cancelled",
+      "time": "Cancelled",
+      "building": "Cancelled",
+      "room": "Cancelled",
+      "instructors": [
+        "Cancelled"
+      ],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": null,
+      "end_time": null
+    },
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +30,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "dc4fe5d027c52a14058bfbd7fa831088f8515e33c1b51c9867217ac6a05b00cd": {
         "sectxt": true,
         "sectionID": "930488",
         "type": "LE",
@@ -66,19 +48,15 @@
         "time": "5:00p-7:50p",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "Hanes, Esther",
         "instructors": [
           "Hanes, Esther"
         ],
         "start_time": "17:00",
         "end_time": "19:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "B"
+  ]
 }

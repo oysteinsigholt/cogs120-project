@@ -3,74 +3,23 @@
   "name": "Macroeconomics A",
   "department": "ECON",
   "id": "110A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "WLH",
-      "room": "2005",
-      "instructor": "Porzio, Tommaso",
-      "instructors": [
-        "Porzio, Tommaso"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924067",
-      "type": "DI",
-      "section": "B01",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "Porzio, Tommaso",
-      "instructors": [
-        "Porzio, Tommaso"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924068",
-      "type": "DI",
-      "section": "B02",
-      "days": "W",
-      "time": "7:00p-7:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "Porzio, Tommaso",
-      "instructors": [
-        "Porzio, Tommaso"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -79,18 +28,31 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "c12e876c286e075f54b31f5190baf1c12afcaa3c60c656df28d942741b529a9a": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "WLH",
+        "room": "2005",
+        "instructors": [
+          "Porzio, Tommaso"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "80483300f1843284167ade4659e2f9a13530b47463ed596be32b712259733b7f": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -99,16 +61,15 @@
         "time": "11:00a-12:20p",
         "building": "WLH",
         "room": "2005",
-        "instructor": "Porzio, Tommaso",
         "instructors": [
           "Porzio, Tommaso"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "4edb5deaca62b7c9b0de49523cf6df306ec935490f031d8dfc7d6cf286b2fafb": {
         "sectxt": true,
         "sectionID": "924067",
         "type": "DI",
@@ -117,14 +78,13 @@
         "time": "6:00p-6:50p",
         "building": "CSB",
         "room": "002",
-        "instructor": "Porzio, Tommaso",
         "instructors": [
           "Porzio, Tommaso"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "02f15e5002aead9c7c8f31547bac30b8bcbcaa44ec6d311f8f6b4a220c10f01e": {
         "sectxt": true,
         "sectionID": "924068",
         "type": "DI",
@@ -133,16 +93,30 @@
         "time": "7:00p-7:50p",
         "building": "CSB",
         "room": "002",
-        "instructor": "Porzio, Tommaso",
         "instructors": [
           "Porzio, Tommaso"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "1fd76e34fb7865fce7ff5adca312ddc805651e55d9a8d5231108d9552d7045e9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "WLH",
+        "room": "2005",
+        "instructors": [
+          "Porzio, Tommaso"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "9ecb4349bcf3cf1b21e5a0d8ad6c42f695a59786e4be06c5748fb2365d7e0bcd": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -151,16 +125,48 @@
         "time": "11:00a-12:20p",
         "building": "WLH",
         "room": "2005",
-        "instructor": "Porzio, Tommaso",
         "instructors": [
           "Porzio, Tommaso"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "F": {
+      "a5df75fab40f78218c2234b71269c03b4e172c3a493053c018f7c2b0640008a6": {
+        "sectxt": true,
+        "sectionID": "924064",
+        "type": "DI",
+        "section": "A01",
+        "days": "F",
+        "time": "3:00p-3:50p",
+        "building": "PETER",
+        "room": "104",
+        "instructors": [
+          "Porzio, Tommaso"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "02a7b6369af2856b1f984a639a23403774ee624fcbb5a9d3a4022f362ad787b5": {
+        "sectxt": true,
+        "sectionID": "924065",
+        "type": "DI",
+        "section": "A02",
+        "days": "F",
+        "time": "4:00p-4:50p",
+        "building": "PETER",
+        "room": "104",
+        "instructors": [
+          "Porzio, Tommaso"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

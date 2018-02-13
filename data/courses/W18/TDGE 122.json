@@ -3,31 +3,12 @@
   "name": "The Films of Woody Allen",
   "department": "TDGE",
   "id": "122",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922697",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "7:00p-9:50p",
-      "building": "PCYNH",
-      "room": "106",
-      "instructor": "Adler, Steven",
-      "instructors": [
-        "Adler, Steven"
-      ],
-      "start_time": "19:00",
-      "end_time": "21:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "e3405d82793fbe4264fa18d4f00fd89a270b40824b3c7ad882c73c32592fbead": {
         "sectxt": true,
         "sectionID": "922697",
         "type": "LE",
@@ -36,18 +17,15 @@
         "time": "7:00p-9:50p",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Adler, Steven",
         "instructors": [
           "Adler, Steven"
         ],
         "start_time": "19:00",
         "end_time": "21:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

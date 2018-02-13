@@ -3,31 +3,12 @@
   "name": "Singing for Actor II",
   "department": "TDGR",
   "id": "225B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920396",
-      "type": "ST",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "1:30p-3:20p",
-      "building": "GH",
-      "room": "136",
-      "instructor": "Vickerman, Linda Joanne",
-      "instructors": [
-        "Vickerman, Linda Joanne"
-      ],
-      "start_time": "13:30",
-      "end_time": "15:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "eb7aabf288d490308d78a571c0193fa2b53d2080128d8a9eb080dee14fe74365": {
         "sectxt": true,
         "sectionID": "920396",
         "type": "ST",
@@ -36,17 +17,15 @@
         "time": "1:30p-3:20p",
         "building": "GH",
         "room": "136",
-        "instructor": "Vickerman, Linda Joanne",
         "instructors": [
           "Vickerman, Linda Joanne"
         ],
         "start_time": "13:30",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "91be2d449495f45a296ea74e541315176c28fd0be3f6999c0df914f1c93dec4e": {
         "sectxt": true,
         "sectionID": "920396",
         "type": "ST",
@@ -55,16 +34,15 @@
         "time": "1:30p-3:20p",
         "building": "GH",
         "room": "136",
-        "instructor": "Vickerman, Linda Joanne",
         "instructors": [
           "Vickerman, Linda Joanne"
         ],
         "start_time": "13:30",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

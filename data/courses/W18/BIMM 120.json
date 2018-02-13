@@ -3,50 +3,200 @@
   "name": "Microbiology",
   "department": "BIMM",
   "id": "120",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926132",
-      "type": "DI",
-      "section": "A11",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "CENTR",
-      "room": "218",
-      "instructor": "Allen, Eric",
-      "instructors": [
-        "Allen, Eric"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "931804",
-      "type": "DI",
-      "section": "A12",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "218",
-      "instructor": "Allen, Eric",
-      "instructors": [
-        "Allen, Eric"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "M": {
+      "e4548b790882f2573c75e1ca35dd9bf8d1664aca4a87ffbfc37acc874d247fa3": {
+        "sectxt": true,
+        "sectionID": "926122",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "8:00a-8:50a",
+        "building": "HSS",
+        "room": "2154",
+        "instructors": [
+          "Allen, Eric"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "ec04d2937af0ba38b0f5684636c403cafef13b71d37295ef1db58e4e19935267": {
+        "sectxt": true,
+        "sectionID": "926123",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "2154",
+        "instructors": [
+          "Allen, Eric"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "6b7a169b10f0edf37bd03ab9e51f2d0cf5e6692469301ad4513756fb89ef831d": {
+        "sectxt": true,
+        "sectionID": "926124",
+        "type": "DI",
+        "section": "A03",
+        "days": "M",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "2154",
+        "instructors": [
+          "Allen, Eric"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "8532310775338806dd7f732a2f3faea2b92d6f319268582104da766714dc0107": {
+        "sectxt": true,
+        "sectionID": "926125",
+        "type": "DI",
+        "section": "A04",
+        "days": "M",
+        "time": "6:00p-6:50p",
+        "building": "CENTR",
+        "room": "218",
+        "instructors": [
+          "Allen, Eric"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "d98b5c1dff28bab17e56ff70919a8f46cb7ee018dcc1bcaa1876478807e5d44d": {
+        "sectxt": true,
+        "sectionID": "926126",
+        "type": "DI",
+        "section": "A05",
+        "days": "M",
+        "time": "7:00p-7:50p",
+        "building": "CENTR",
+        "room": "218",
+        "instructors": [
+          "Allen, Eric"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      }
+    },
+    "Tu": {
+      "77a90d7a8864ca19fd9b8963b8c321ba412d20b52100d010e9805af3b2d06f08": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "WLH",
+        "room": "2001",
+        "instructors": [
+          "Allen, Eric"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "1b33f1c3859881122b9a30e51651a9c449a17eb66c6cc40e892db08160962dad": {
+        "sectxt": true,
+        "sectionID": "926128",
+        "type": "DI",
+        "section": "A07",
+        "days": "Tu",
+        "time": "7:00p-7:50p",
+        "building": "CENTR",
+        "room": "218",
+        "instructors": [
+          "Allen, Eric"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "fb6df407c43a5c81c74bdfe29699e5f11fdf6dca3d34200c084faa4392d389b0": {
+        "sectxt": true,
+        "sectionID": "926129",
+        "type": "DI",
+        "section": "A08",
+        "days": "Tu",
+        "time": "8:00p-8:50p",
+        "building": "CENTR",
+        "room": "218",
+        "instructors": [
+          "Allen, Eric"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      }
+    },
+    "W": {
+      "9aad7080f7d209ee304e1f13d4c90938607c387be70eb164c32062b41d845081": {
+        "sectxt": true,
+        "sectionID": "926130",
+        "type": "DI",
+        "section": "A09",
+        "days": "W",
+        "time": "8:00a-8:50a",
+        "building": "CENTR",
+        "room": "217B",
+        "instructors": [
+          "Allen, Eric"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      }
+    },
+    "Th": {
+      "f8ad585298e7b342895c254554dd0fa501d6feea536e74d6146ebcf55fb31294": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "WLH",
+        "room": "2001",
+        "instructors": [
+          "Allen, Eric"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "942236d20fb087e95863b84bcec1a0d15c51f6c00be025cda1a2cdc7ebe6c05e": {
+        "sectxt": true,
+        "sectionID": "926131",
+        "type": "DI",
+        "section": "A10",
+        "days": "Th",
+        "time": "8:00a-8:50a",
+        "building": "YORK",
+        "room": "3000A",
+        "instructors": [
+          "Allen, Eric"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      }
+    },
+    "F": {
+      "7f8b94f682e673a86949bdcd0fb3aa19bfda9a3a3ff5a5b2fd3dbfa438bd729a": {
         "sectxt": true,
         "sectionID": "926132",
         "type": "DI",
@@ -55,14 +205,13 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "218",
-        "instructor": "Allen, Eric",
         "instructors": [
           "Allen, Eric"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "57c015b9180469c92fa817cdb57bebe1c530558ea18f27f0c1152ff61d15fbdc": {
         "sectxt": true,
         "sectionID": "931804",
         "type": "DI",
@@ -71,15 +220,15 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "218",
-        "instructor": "Allen, Eric",
         "instructors": [
           "Allen, Eric"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

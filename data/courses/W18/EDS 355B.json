@@ -3,34 +3,12 @@
   "name": "Adv Math Teaching Prct/K-6 II",
   "department": "EDS",
   "id": "355B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922547",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "1:00p-3:50p",
-      "building": "PCYNH",
-      "room": "304",
-      "instructor": "Drake, Kristy Nicole",
-      "instructors": [
-        "Drake, Kristy Nicole"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "9d26a36d853bb85bd436b20838139a49402259ad51d48720ef136df910c2c41d": {
         "sectxt": true,
         "sectionID": "922547",
         "type": "SE",
@@ -39,15 +17,15 @@
         "time": "1:00p-3:50p",
         "building": "PCYNH",
         "room": "304",
-        "instructor": "Drake, Kristy Nicole",
         "instructors": [
           "Drake, Kristy Nicole"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

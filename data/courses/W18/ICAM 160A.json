@@ -3,33 +3,44 @@
   "name": "Senior Projct/Computing Arts I",
   "department": "ICAM",
   "id": "160A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921742",
-      "type": "SE",
-      "section": "B00",
-      "days": "Th",
-      "time": "3:30p-6:20p",
-      "building": "VAF",
-      "room": "228",
-      "instructor": "Yoldas, Pinar",
-      "instructors": [
-        "Yoldas, Pinar"
-      ],
-      "start_time": "15:30",
-      "end_time": "18:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "W": {
+      "87d55dfcc448458626978ab3eb87c8bbe8f20f7d30469438d60d37b5040c6f03": {
+        "sectxt": true,
+        "sectionID": "921741",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "3:00p-5:50p",
+        "building": "VAF",
+        "room": "228",
+        "instructors": [
+          "Brown, Sheldon Glenn"
+        ],
+        "start_time": "15:00",
+        "end_time": "17:50"
+      },
+      "df85479c97ce8405b8735b9c34ea650763e42471f88de95b1868c772b85f0728": {
+        "sectxt": true,
+        "sectionID": "921743",
+        "type": "SE",
+        "section": "C00",
+        "days": "W",
+        "time": "11:00a-1:50p",
+        "building": "CPMC",
+        "room": "269",
+        "instructors": [
+          "Dubnov, Shlomo"
+        ],
+        "start_time": "11:00",
+        "end_time": "13:50"
+      }
+    },
+    "Th": {
+      "e0d3255c32d90b31039717467036e3cf5421a0feaa628acbc7f3edcad8ddc67a": {
         "sectxt": true,
         "sectionID": "921742",
         "type": "SE",
@@ -38,16 +49,35 @@
         "time": "3:30p-6:20p",
         "building": "VAF",
         "room": "228",
-        "instructor": "Yoldas, Pinar",
         "instructors": [
           "Yoldas, Pinar"
         ],
         "start_time": "15:30",
         "end_time": "18:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "F": {
+      "ee6731b50263eb3b7d1b425648aa5767722066b0d2fbca90a6781da67936aab3": {
+        "sectxt": true,
+        "sectionID": "921744",
+        "type": "SE",
+        "section": "D00",
+        "days": "F",
+        "time": "11:00a-1:50p",
+        "building": "CPMC",
+        "room": "269",
+        "instructors": [
+          "Yadegari, Shahrokh D"
+        ],
+        "start_time": "11:00",
+        "end_time": "13:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
 }

@@ -3,33 +3,14 @@
   "name": "Basic Neuroscience",
   "department": "NEU",
   "id": "200B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922269",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "10:00a-11:50a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Reynolds, John",
-      "instructors": [
-        "Reynolds, John"
-      ],
-      "start_time": "10:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [
     "Class will be held at the Salk Institute, Fellows Room"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "0ea9286d5a24dd2f593039948fd70b6c9b743c5d66091acc229a21a9d2afed73": {
         "sectxt": true,
         "sectionID": "922269",
         "type": "LE",
@@ -38,17 +19,15 @@
         "time": "10:00a-11:50a",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Reynolds, John",
         "instructors": [
           "Reynolds, John"
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "7bb3e31995ac7ebe87b075f4099bfb042491378e7288c46246a56bdebe33ca2b": {
         "sectxt": true,
         "sectionID": "922269",
         "type": "LE",
@@ -57,16 +36,15 @@
         "time": "10:00a-11:50a",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Reynolds, John",
         "instructors": [
           "Reynolds, John"
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

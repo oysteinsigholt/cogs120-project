@@ -3,31 +3,12 @@
   "name": "Freshman Seminar",
   "department": "PHIL",
   "id": "87",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929939",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "3:00p-3:50p",
-      "building": "HSS",
-      "room": "8025",
-      "instructor": "Johnson, Monte",
-      "instructors": [
-        "Johnson, Monte"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "b9a35036253952a6eb6ecb81da2e489386992589b7d8a722dcfb5b456024504e": {
         "sectxt": true,
         "sectionID": "929939",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "3:00p-3:50p",
         "building": "HSS",
         "room": "8025",
-        "instructor": "Johnson, Monte",
         "instructors": [
           "Johnson, Monte"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

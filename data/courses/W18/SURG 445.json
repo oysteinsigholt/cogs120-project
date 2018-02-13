@@ -3,24 +3,8 @@
   "name": "Subinternship/Plastic Surgery",
   "department": "SURG",
   "id": "445",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928710",
-      "type": "CL",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Dobke, Marek Krzysztof",
-      "instructors": [
-        "Dobke, Marek Krzysztof"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Dobke, Marek Krzysztof",
       "instructors": [
         "Dobke, Marek Krzysztof"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

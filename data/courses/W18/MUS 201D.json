@@ -3,32 +3,14 @@
   "name": "Projects in New Music Prfrmnce",
   "department": "MUS",
   "id": "201D",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "934453",
-      "type": "LA",
-      "section": "A00",
-      "days": "M",
-      "time": "2:00p-4:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Dresser, Mark Stuart",
-      "instructors": [
-        "Dresser, Mark Stuart"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [
     "This class meets in CPMC 231 with MUS 203B"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "ccd7d31382afc11864c85d591ea478de2fb9f8e566f722050f19741b1b4309b1": {
         "sectxt": true,
         "sectionID": "934453",
         "type": "LA",
@@ -37,19 +19,15 @@
         "time": "2:00p-4:50p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Dresser, Mark Stuart",
         "instructors": [
           "Dresser, Mark Stuart"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

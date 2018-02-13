@@ -3,106 +3,9 @@
   "name": "Intro/Phil: Nature of Reality",
   "department": "PHIL",
   "id": "14",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "Cohen, Jonathan David",
-      "instructors": [
-        "Cohen, Jonathan David"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924781",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Cohen, Jonathan David",
-      "instructors": [
-        "Cohen, Jonathan David"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924782",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "CENTR",
-      "room": "218",
-      "instructor": "Cohen, Jonathan David",
-      "instructors": [
-        "Cohen, Jonathan David"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924783",
-      "type": "DI",
-      "section": "A03",
-      "days": "W",
-      "time": "12:00p-12:50p",
-      "building": "MANDE",
-      "room": "B-104",
-      "instructor": "Cohen, Jonathan David",
-      "instructors": [
-        "Cohen, Jonathan David"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924784",
-      "type": "DI",
-      "section": "A04",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -111,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "f8964eed5c8e48b2b039a295be0a16ad101867749d005144b8d90785a9794f6e": {
         "sectxt": true,
         "sectionID": "924781",
         "type": "DI",
@@ -130,14 +32,13 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Cohen, Jonathan David",
         "instructors": [
           "Cohen, Jonathan David"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "c813106564d6e54e81f55861af7f41b7dcfc1eb668f6728a9c125a359d774723": {
         "sectxt": true,
         "sectionID": "924782",
         "type": "DI",
@@ -146,16 +47,15 @@
         "time": "3:00p-3:50p",
         "building": "CENTR",
         "room": "218",
-        "instructor": "Cohen, Jonathan David",
         "instructors": [
           "Cohen, Jonathan David"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "8987b7af87d847c623f8d9e86e86f1d582c28de0cd3bc163ae563b429ae225f9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -164,16 +64,15 @@
         "time": "2:00p-3:20p",
         "building": "CSB",
         "room": "002",
-        "instructor": "Cohen, Jonathan David",
         "instructors": [
           "Cohen, Jonathan David"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "5c4e5387cd98d0d05309ab46c501e251adc69de709da6ee57679f2dcd5696aef": {
         "sectxt": true,
         "sectionID": "924783",
         "type": "DI",
@@ -182,16 +81,15 @@
         "time": "12:00p-12:50p",
         "building": "MANDE",
         "room": "B-104",
-        "instructor": "Cohen, Jonathan David",
         "instructors": [
           "Cohen, Jonathan David"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "126816888d61f914f97a4cf223b36ae2f29f5df8aa68f3942a0e9370bddbed90": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -200,16 +98,15 @@
         "time": "2:00p-3:20p",
         "building": "CSB",
         "room": "002",
-        "instructor": "Cohen, Jonathan David",
         "instructors": [
           "Cohen, Jonathan David"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

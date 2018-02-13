@@ -3,42 +3,9 @@
   "name": "Language, Culture & Cognition",
   "department": "COGS",
   "id": "12",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925532",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "WLH",
-      "room": "2207",
-      "instructor": "Boroditsky, Lera",
-      "instructors": [
-        "Boroditsky, Lera"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "30ada730e5dfc3056cb4d818b964c0875425fdcf3e2e4ceb9362ce57457a5064": {
         "sectxt": true,
         "sectionID": "925532",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "11:00a-12:20p",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Boroditsky, Lera",
         "instructors": [
           "Boroditsky, Lera"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "7334ba7060e9c9f8563c338d5bd9ebd94379671b4248a2419bcf786d7da90e0d": {
         "sectxt": true,
         "sectionID": "925532",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "11:00a-12:20p",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Boroditsky, Lera",
         "instructors": [
           "Boroditsky, Lera"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

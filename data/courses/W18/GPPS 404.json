@@ -3,30 +3,12 @@
   "name": "Chinese Politics",
   "department": "GPPS",
   "id": "404",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921722",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "5:00p-6:20p",
-      "building": "RBC",
-      "room": "3201",
-      "instructor": "Shih, Victor Chung",
-      "instructors": [
-        "Shih, Victor Chung"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "128c2e1cfcdcd2f4099cac907367cf22947467394c33960b6bdba847265d8109": {
         "sectxt": true,
         "sectionID": "921722",
         "type": "LE",
@@ -35,17 +17,15 @@
         "time": "5:00p-6:20p",
         "building": "RBC",
         "room": "3201",
-        "instructor": "Shih, Victor Chung",
         "instructors": [
           "Shih, Victor Chung"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "2f42b5a76026c489281028fd9628246693b8944b35f03bc2460e4ee052c2452f": {
         "sectxt": true,
         "sectionID": "921722",
         "type": "LE",
@@ -54,17 +34,15 @@
         "time": "5:00p-6:20p",
         "building": "RBC",
         "room": "3201",
-        "instructor": "Shih, Victor Chung",
         "instructors": [
           "Shih, Victor Chung"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

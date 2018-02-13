@@ -3,27 +3,37 @@
   "name": "Honors Thesis",
   "department": "LTWR",
   "id": "196",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "933138",
-      "type": "IN",
-      "section": "005",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Loose, Margaret",
-      "instructors": [
-        "Loose, Margaret"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "933136",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Chacon, Gloria Elizabeth"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "933137",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hoang, Lily Kim"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "933138",
       "type": "IN",
       "section": "005",
@@ -31,19 +41,37 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Loose, Margaret",
       "instructors": [
         "Loose, Margaret"
       ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "933134",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Springer, Anna Joy"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "933135",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Som, Brandon D"
+      ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

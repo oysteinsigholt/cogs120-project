@@ -3,42 +3,9 @@
   "name": "Economic Development",
   "department": "GPEC",
   "id": "451",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921695",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "2:00p-3:20p",
-      "building": "RBC",
-      "room": "3203",
-      "instructor": "McIntosh, Craig",
-      "instructors": [
-        "McIntosh, Craig"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "ef6db09cc9a3b2b2389ae9b3a234d503c2d9af442b3fb000ee9bd52789d0452a": {
         "sectxt": true,
         "sectionID": "921695",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "2:00p-3:20p",
         "building": "RBC",
         "room": "3203",
-        "instructor": "McIntosh, Craig",
         "instructors": [
           "McIntosh, Craig"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "b7d4324cfab1f7cc610ef52cf6da894ac5de557c4de45ccc5518964161b4639c": {
         "sectxt": true,
         "sectionID": "921695",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "2:00p-3:20p",
         "building": "RBC",
         "room": "3203",
-        "instructor": "McIntosh, Craig",
         "instructors": [
           "McIntosh, Craig"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

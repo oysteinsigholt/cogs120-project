@@ -3,80 +3,14 @@
   "name": "MMPP: Media & Design Practicum",
   "department": "COMM",
   "id": "102C",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "Th",
-      "time": "9:30a-12:20p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Campion, Camille E",
-      "instructors": [
-        "Campion, Camille E"
-      ],
-      "start_time": "9:30",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924175",
-      "type": "FW",
-      "section": "A01",
-      "days": "M",
-      "time": "3:30p-6:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Campion, Camille E",
-      "instructors": [
-        "Campion, Camille E"
-      ],
-      "start_time": "15:30",
-      "end_time": "18:00"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924176",
-      "type": "FW",
-      "section": "A02",
-      "days": "Tu",
-      "time": "3:30p-6:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Campion, Camille E",
-      "instructors": [
-        "Campion, Camille E"
-      ],
-      "start_time": "15:30",
-      "end_time": "18:00"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924177",
-      "type": "FW",
-      "section": "A03",
-      "days": "W",
-      "time": "3:30p-6:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Campion, Camille E",
-      "instructors": [
-        "Campion, Camille E"
-      ],
-      "start_time": "15:30",
-      "end_time": "18:00"
-    }
-  ],
   "notes": [
     "Location: SSRB Room 308"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "14f1a8eb1038c244589aae34ad997f4ab69492c6818155fd04ab91be48bcde39": {
         "sectxt": true,
         "sectionID": "924175",
         "type": "FW",
@@ -85,16 +19,15 @@
         "time": "3:30p-6:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Campion, Camille E",
         "instructors": [
           "Campion, Camille E"
         ],
         "start_time": "15:30",
         "end_time": "18:00"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "9a26f1d7cf9523632ddd37c4a1c51bf0872d5afaa765d045ab838008baa0a8aa": {
         "sectxt": true,
         "sectionID": "924176",
         "type": "FW",
@@ -103,16 +36,15 @@
         "time": "3:30p-6:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Campion, Camille E",
         "instructors": [
           "Campion, Camille E"
         ],
         "start_time": "15:30",
         "end_time": "18:00"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "8bcdcc2d6960a541674e1b6ad2444f384e1c257c5bfa65250677ea57804f1a54": {
         "sectxt": true,
         "sectionID": "924177",
         "type": "FW",
@@ -121,16 +53,15 @@
         "time": "3:30p-6:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Campion, Camille E",
         "instructors": [
           "Campion, Camille E"
         ],
         "start_time": "15:30",
         "end_time": "18:00"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "3b61b0c35e1816da03672c98e341119298b638654d02e97343ed32c353c85edb": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -139,16 +70,15 @@
         "time": "9:30a-12:20p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Campion, Camille E",
         "instructors": [
           "Campion, Camille E"
         ],
         "start_time": "9:30",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

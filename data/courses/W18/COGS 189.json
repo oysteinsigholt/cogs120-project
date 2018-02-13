@@ -3,42 +3,9 @@
   "name": "Brain Computer Interfaces",
   "department": "COGS",
   "id": "189",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925599",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "10:00a-10:50a",
-      "building": "CENTR",
-      "room": "109",
-      "instructor": "De Sa, Virginia",
-      "instructors": [
-        "De Sa, Virginia"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "9b3d245de4dc667003e5d403279cf6c1f7b5ce52b60c9438bafb4b776b21d4b6": {
         "sectxt": true,
         "sectionID": "925599",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "109",
-        "instructor": "De Sa, Virginia",
         "instructors": [
           "De Sa, Virginia"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "c050e4de838bc4d9ac5be7f2bccabe15b8de7faed9f5ede4d687864e4573808f": {
         "sectxt": true,
         "sectionID": "925599",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "109",
-        "instructor": "De Sa, Virginia",
         "instructors": [
           "De Sa, Virginia"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "5511a854d684e866e39a4555039ca236690b97fa4340ec3f193251db66335da6": {
         "sectxt": true,
         "sectionID": "925599",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "109",
-        "instructor": "De Sa, Virginia",
         "instructors": [
           "De Sa, Virginia"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

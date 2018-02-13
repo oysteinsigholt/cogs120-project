@@ -3,24 +3,8 @@
   "name": "Independent Study",
   "department": "PEDS",
   "id": "199",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928559",
-      "type": "IN",
-      "section": "001",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Kuo, Dennis",
-      "instructors": [
-        "Kuo, Dennis"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,24 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Kuo, Dennis",
       "instructors": [
         "Kuo, Dennis"
       ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "928560",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Staff"
+      ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

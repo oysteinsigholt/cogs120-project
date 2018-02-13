@@ -3,42 +3,9 @@
   "name": "Mechanics&Trnsprt Phenom BioMD",
   "department": "MDE",
   "id": "209",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "919439",
-      "type": "LE",
-      "section": "A00",
-      "days": "F",
-      "time": "9:00a-4:30p",
-      "building": "EBU2",
-      "room": "584",
-      "instructor": "Lasheras, Juan C.",
-      "instructors": [
-        "Lasheras, Juan C."
-      ],
-      "start_time": "9:00",
-      "end_time": "16:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,21 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "e9e1fbf359a706c6c35c52d81af73232a59b7901806e9469db6f4cdbc50c8e8b": {
         "sectxt": true,
         "sectionID": "919439",
         "type": "LE",
@@ -70,15 +32,15 @@
         "time": "9:00a-4:30p",
         "building": "EBU2",
         "room": "584",
-        "instructor": "Lasheras, Juan C.",
         "instructors": [
           "Lasheras, Juan C."
         ],
         "start_time": "9:00",
         "end_time": "16:30"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

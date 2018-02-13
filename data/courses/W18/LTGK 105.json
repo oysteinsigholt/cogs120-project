@@ -3,42 +3,9 @@
   "name": "Topics in Greek Literature",
   "department": "LTGK",
   "id": "105",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924367",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "CENTR",
-      "room": "206",
-      "instructor": "Myerston Santana, Jacobo",
-      "instructors": [
-        "Myerston Santana, Jacobo"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "a1fe04f7021dc97983f3b52a0ce18459171c58deef3c4e7be14954c0622944a7": {
         "sectxt": true,
         "sectionID": "924367",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "11:00a-11:50a",
         "building": "CENTR",
         "room": "206",
-        "instructor": "Myerston Santana, Jacobo",
         "instructors": [
           "Myerston Santana, Jacobo"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "0fd169425811d9269d51fa95de285f592eac5319b321adf73d8f91e512468c14": {
         "sectxt": true,
         "sectionID": "924367",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "11:00a-11:50a",
         "building": "CENTR",
         "room": "206",
-        "instructor": "Myerston Santana, Jacobo",
         "instructors": [
           "Myerston Santana, Jacobo"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "7e673e67d5a77b01342dac023c2bfed0c54aec6537686663da13b597336933a4": {
         "sectxt": true,
         "sectionID": "924367",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "11:00a-11:50a",
         "building": "CENTR",
         "room": "206",
-        "instructor": "Myerston Santana, Jacobo",
         "instructors": [
           "Myerston Santana, Jacobo"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

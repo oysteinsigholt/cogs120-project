@@ -3,90 +3,9 @@
   "name": "Intro to Computational Stats",
   "department": "MATH",
   "id": "185",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "CENTR",
-      "room": "109",
-      "instructor": "Zhou, Wenxin",
-      "instructors": [
-        "Zhou, Wenxin"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927245",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "APM",
-      "room": "6402",
-      "instructor": "Zhou, Wenxin",
-      "instructors": [
-        "Zhou, Wenxin"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927246",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "7:00p-7:50p",
-      "building": "APM",
-      "room": "6402",
-      "instructor": "Zhou, Wenxin",
-      "instructors": [
-        "Zhou, Wenxin"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927247",
-      "type": "DI",
-      "section": "A03",
-      "days": "W",
-      "time": "8:00p-8:50p",
-      "building": "APM",
-      "room": "6402",
-      "instructor": "Zhou, Wenxin",
-      "instructors": [
-        "Zhou, Wenxin"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -95,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "e4a7e0b48e5a74a5039a6a4a5657e3e1413e312642286325ab5d305301b5cae2": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -114,17 +32,15 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "109",
-        "instructor": "Zhou, Wenxin",
         "instructors": [
           "Zhou, Wenxin"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "c15fcf4f9ab3e7d38ca0b0fda612d43843a9400dd321e08de7ed0c9d036f43b0": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -133,14 +49,13 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "109",
-        "instructor": "Zhou, Wenxin",
         "instructors": [
           "Zhou, Wenxin"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "bb7949d7164c32535e8bcfabc7f845993baa3737f21c4dca71467e03b163aedf": {
         "sectxt": true,
         "sectionID": "927245",
         "type": "DI",
@@ -149,14 +64,13 @@
         "time": "6:00p-6:50p",
         "building": "APM",
         "room": "6402",
-        "instructor": "Zhou, Wenxin",
         "instructors": [
           "Zhou, Wenxin"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "be2319063b17db31ed1307a63484517fb3fc84b6be9103f52d483839398edbb6": {
         "sectxt": true,
         "sectionID": "927246",
         "type": "DI",
@@ -165,14 +79,13 @@
         "time": "7:00p-7:50p",
         "building": "APM",
         "room": "6402",
-        "instructor": "Zhou, Wenxin",
         "instructors": [
           "Zhou, Wenxin"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "eaa9faabc0090ac9d0df5137d85165bb1f2fd1570db6bb7411d251f01ff334a2": {
         "sectxt": true,
         "sectionID": "927247",
         "type": "DI",
@@ -181,17 +94,15 @@
         "time": "8:00p-8:50p",
         "building": "APM",
         "room": "6402",
-        "instructor": "Zhou, Wenxin",
         "instructors": [
           "Zhou, Wenxin"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "a1ad73e826e4f3d18db30a6715bb1aece555b7c097097bfe51405b7a3389d35a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -200,15 +111,15 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "109",
-        "instructor": "Zhou, Wenxin",
         "instructors": [
           "Zhou, Wenxin"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

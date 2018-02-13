@@ -3,58 +3,9 @@
   "name": "Introductn/Intelligent Systems",
   "department": "ECE",
   "id": "172A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "6:30p-7:50p",
-      "building": "RBC",
-      "room": "AUD",
-      "instructor": "Trivedi, Mohan M.",
-      "instructors": [
-        "Trivedi, Mohan M."
-      ],
-      "start_time": "18:30",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925080",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2005",
-      "instructor": "Trivedi, Mohan M.",
-      "instructors": [
-        "Trivedi, Mohan M."
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "83f667703ee5f41443699d3c685d2af7204f58e7d0026726650a8f5259ecf403": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "dd66faaa5848313f7ad16455ae05a3148ba3c1dbf1dbb7181b0ec994a327bf3b": {
         "sectxt": true,
         "sectionID": "925080",
         "type": "DI",
@@ -82,16 +32,15 @@
         "time": "5:00p-5:50p",
         "building": "WLH",
         "room": "2005",
-        "instructor": "Trivedi, Mohan M.",
         "instructors": [
           "Trivedi, Mohan M."
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "7fb78df708bc10ae7cbed8c31256c6ff03db90d39a0bcfe7e71ecc8e7cc1a647": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -100,17 +49,15 @@
         "time": "6:30p-7:50p",
         "building": "RBC",
         "room": "AUD",
-        "instructor": "Trivedi, Mohan M.",
         "instructors": [
           "Trivedi, Mohan M."
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f12164f83e9ec19b35c2ae2e257ad595319959ecbd32e61750cdd0475d11af05": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -119,16 +66,15 @@
         "time": "6:30p-7:50p",
         "building": "RBC",
         "room": "AUD",
-        "instructor": "Trivedi, Mohan M.",
         "instructors": [
           "Trivedi, Mohan M."
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

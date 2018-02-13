@@ -3,30 +3,42 @@
   "name": "Faculty Directed Production",
   "department": "TDGR",
   "id": "206",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920383",
-      "type": "ST",
-      "section": "C00",
-      "days": "MTuWThF",
-      "time": "5:30p-10:20p",
-      "building": "GH",
-      "room": "157",
-      "instructor": "Graney, Sean Patrick",
-      "instructors": [
-        "Graney, Sean Patrick"
-      ],
-      "start_time": "17:30",
-      "end_time": "22:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "877ae38f58938d5c6260a65020886ff289cf0c56d2e763a5656d7eb79bf0d9ad": {
+        "sectxt": true,
+        "sectionID": "920381",
+        "type": "ST",
+        "section": "A00",
+        "days": "MTuWThF",
+        "time": "5:30p-10:20p",
+        "building": "GH",
+        "room": "170",
+        "instructors": [
+          "Means, Charles E."
+        ],
+        "start_time": "17:30",
+        "end_time": "22:20"
+      },
+      "204a268ad0ff2827972aa85bdc8169e1386bb75537d4c8ce5216c619e184dfcc": {
+        "sectxt": true,
+        "sectionID": "920382",
+        "type": "ST",
+        "section": "B00",
+        "days": "MTuWThF",
+        "time": "5:30p-10:20p",
+        "building": "GH",
+        "room": "23",
+        "instructors": [
+          "Rubinstein, Kim"
+        ],
+        "start_time": "17:30",
+        "end_time": "22:20"
+      },
+      "0313a5b2e9982440c6ebb897a19e422c66dbbb7408074cb96d27156a4989b6c6": {
         "sectxt": true,
         "sectionID": "920383",
         "type": "ST",
@@ -35,16 +47,45 @@
         "time": "5:30p-10:20p",
         "building": "GH",
         "room": "157",
-        "instructor": "Graney, Sean Patrick",
         "instructors": [
           "Graney, Sean Patrick"
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "ee992d8982fa4c923e86a9a768349d3cbd73ee4d1da4b8f78b2c7762206ff7a4": {
+        "sectxt": true,
+        "sectionID": "920381",
+        "type": "ST",
+        "section": "A00",
+        "days": "MTuWThF",
+        "time": "5:30p-10:20p",
+        "building": "GH",
+        "room": "170",
+        "instructors": [
+          "Means, Charles E."
+        ],
+        "start_time": "17:30",
+        "end_time": "22:20"
+      },
+      "7cc0ad34d1b87e6434dcb4f61e593481026781dfd9def46494c055dd38b09848": {
+        "sectxt": true,
+        "sectionID": "920382",
+        "type": "ST",
+        "section": "B00",
+        "days": "MTuWThF",
+        "time": "5:30p-10:20p",
+        "building": "GH",
+        "room": "23",
+        "instructors": [
+          "Rubinstein, Kim"
+        ],
+        "start_time": "17:30",
+        "end_time": "22:20"
+      },
+      "38361976fb30bd6adc7db5203a46c2cc4719c36b260ba967069a98df2c1ddea5": {
         "sectxt": true,
         "sectionID": "920383",
         "type": "ST",
@@ -53,16 +94,45 @@
         "time": "5:30p-10:20p",
         "building": "GH",
         "room": "157",
-        "instructor": "Graney, Sean Patrick",
         "instructors": [
           "Graney, Sean Patrick"
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "f67e214d33f6a47e0a96d0a928aae3b95868ac3d86f07ad9965489a8b6a02106": {
+        "sectxt": true,
+        "sectionID": "920381",
+        "type": "ST",
+        "section": "A00",
+        "days": "MTuWThF",
+        "time": "5:30p-10:20p",
+        "building": "GH",
+        "room": "170",
+        "instructors": [
+          "Means, Charles E."
+        ],
+        "start_time": "17:30",
+        "end_time": "22:20"
+      },
+      "f80b49369bca54fa0edff80b7c50ecc71bce930854847f2ab01001dab1c68e04": {
+        "sectxt": true,
+        "sectionID": "920382",
+        "type": "ST",
+        "section": "B00",
+        "days": "MTuWThF",
+        "time": "5:30p-10:20p",
+        "building": "GH",
+        "room": "23",
+        "instructors": [
+          "Rubinstein, Kim"
+        ],
+        "start_time": "17:30",
+        "end_time": "22:20"
+      },
+      "a85e6b38c80f35254e763c1a49a42d332d06226ca3bbed9943e8838f3f21c024": {
         "sectxt": true,
         "sectionID": "920383",
         "type": "ST",
@@ -71,16 +141,45 @@
         "time": "5:30p-10:20p",
         "building": "GH",
         "room": "157",
-        "instructor": "Graney, Sean Patrick",
         "instructors": [
           "Graney, Sean Patrick"
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "c713b6d010d08c3bfaec54b5ed3b36689fe1c1f5a4e534e2c6e0113109dd530f": {
+        "sectxt": true,
+        "sectionID": "920381",
+        "type": "ST",
+        "section": "A00",
+        "days": "MTuWThF",
+        "time": "5:30p-10:20p",
+        "building": "GH",
+        "room": "170",
+        "instructors": [
+          "Means, Charles E."
+        ],
+        "start_time": "17:30",
+        "end_time": "22:20"
+      },
+      "9472efb54391af6537a13f2de3e7037fc78b75208dde141d74f13ea946d524ce": {
+        "sectxt": true,
+        "sectionID": "920382",
+        "type": "ST",
+        "section": "B00",
+        "days": "MTuWThF",
+        "time": "5:30p-10:20p",
+        "building": "GH",
+        "room": "23",
+        "instructors": [
+          "Rubinstein, Kim"
+        ],
+        "start_time": "17:30",
+        "end_time": "22:20"
+      },
+      "dba058b8e96e30e2d7fad59591d2ee1d93197769138582b3f8f6998dd963e118": {
         "sectxt": true,
         "sectionID": "920383",
         "type": "ST",
@@ -89,16 +188,45 @@
         "time": "5:30p-10:20p",
         "building": "GH",
         "room": "157",
-        "instructor": "Graney, Sean Patrick",
         "instructors": [
           "Graney, Sean Patrick"
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "d4c8f4eedbc22914e869b8851b14fcad33171d3afad844243ba927b49718b849": {
+        "sectxt": true,
+        "sectionID": "920381",
+        "type": "ST",
+        "section": "A00",
+        "days": "MTuWThF",
+        "time": "5:30p-10:20p",
+        "building": "GH",
+        "room": "170",
+        "instructors": [
+          "Means, Charles E."
+        ],
+        "start_time": "17:30",
+        "end_time": "22:20"
+      },
+      "a820a8e98973ef7a6597717ac28d2c9a05635137582c6249057f867d2231b533": {
+        "sectxt": true,
+        "sectionID": "920382",
+        "type": "ST",
+        "section": "B00",
+        "days": "MTuWThF",
+        "time": "5:30p-10:20p",
+        "building": "GH",
+        "room": "23",
+        "instructors": [
+          "Rubinstein, Kim"
+        ],
+        "start_time": "17:30",
+        "end_time": "22:20"
+      },
+      "a9b7bf1efca60bfa55c47ed78ff1be6d8cae1e61d7ca97a82dba7e3756b4a829": {
         "sectxt": true,
         "sectionID": "920383",
         "type": "ST",
@@ -107,15 +235,17 @@
         "time": "5:30p-10:20p",
         "building": "GH",
         "room": "157",
-        "instructor": "Graney, Sean Patrick",
         "instructors": [
           "Graney, Sean Patrick"
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

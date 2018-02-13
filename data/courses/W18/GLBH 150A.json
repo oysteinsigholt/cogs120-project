@@ -3,34 +3,66 @@
   "name": "GLBH Capstone Seminar I",
   "department": "GLBH",
   "id": "150A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920918",
-      "type": "SE",
-      "section": "D00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "M": {
+      "cac1f5102eef44095bffc7802a0368703bd82e1244bb2bc09d37f830370c42ca": {
+        "sectxt": true,
+        "sectionID": "920917",
+        "type": "SE",
+        "section": "C00",
+        "days": "M",
+        "time": "11:00a-1:50p",
+        "building": "STCTR",
+        "room": "E209",
+        "instructors": [
+          "Saravia, Paula F"
+        ],
+        "start_time": "11:00",
+        "end_time": "13:50"
+      }
+    },
+    "Tu": {
+      "b0c7219fdad2e1dd86ef9e0692e7e4bd6d6f4b31246f3475114b00c2d7cc6c22": {
+        "sectxt": true,
+        "sectionID": "920915",
+        "type": "SE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "2:00p-4:50p",
+        "building": "SSB",
+        "room": "269",
+        "instructors": [
+          "Csordas, Thomas J."
+        ],
+        "start_time": "14:00",
+        "end_time": "16:50"
+      }
+    },
+    "W": {
+      "d745e24ff69c8ccd3ea056acdf7604f3ea8ae4ccfb93a69f28aad48bb7bec3d7": {
+        "sectxt": true,
+        "sectionID": "920916",
+        "type": "SE",
+        "section": "B00",
+        "days": "W",
+        "time": "2:00p-4:50p",
+        "building": "SSB",
+        "room": "105",
+        "instructors": [
+          "Parish, Steven Martin"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
 }

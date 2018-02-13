@@ -3,27 +3,102 @@
   "name": "Honors Essay",
   "department": "HITO",
   "id": "195",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930116",
-      "type": "IN",
-      "section": "008",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Plant, Rebecca Jo",
-      "instructors": [
-        "Plant, Rebecca Jo"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "930108",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Caciola, Nancy A"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930110",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Edington, Claire Ellen"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930111",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Gere, Catherina M."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930112",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Gerth, Karl G."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930113",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Graham, Jessica Lynn"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930114",
+      "type": "IN",
+      "section": "006",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Kayali, Hasan"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930115",
+      "type": "IN",
+      "section": "007",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Kwak, Nancy"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "930116",
       "type": "IN",
       "section": "008",
@@ -31,19 +106,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Plant, Rebecca Jo",
       "instructors": [
         "Plant, Rebecca Jo"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

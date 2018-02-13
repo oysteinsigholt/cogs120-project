@@ -3,42 +3,9 @@
   "name": "Philosophy and Race",
   "department": "PHIL",
   "id": "170",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924816",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "TM102",
-      "room": "1",
-      "instructor": "Hardimon, Michael O.",
-      "instructors": [
-        "Hardimon, Michael O."
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "8571be89119d6d3f232aa629a88796dc0cb89e39d8856471e1def8241cf4ea28": {
         "sectxt": true,
         "sectionID": "924816",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "9:30a-10:50a",
         "building": "TM102",
         "room": "1",
-        "instructor": "Hardimon, Michael O.",
         "instructors": [
           "Hardimon, Michael O."
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "e96c92111020bed339365be52c1707c4e221189cf927048b3c43835e69c9728e": {
         "sectxt": true,
         "sectionID": "924816",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "9:30a-10:50a",
         "building": "TM102",
         "room": "1",
-        "instructor": "Hardimon, Michael O.",
         "instructors": [
           "Hardimon, Michael O."
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

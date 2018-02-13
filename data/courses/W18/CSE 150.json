@@ -3,58 +3,9 @@
   "name": "Int Artif Intell:Search&Reason",
   "department": "CSE",
   "id": "150",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "6:30p-7:50p",
-      "building": "LEDDN",
-      "room": "AUD",
-      "instructor": "Gao, Sicun",
-      "instructors": [
-        "Gao, Sicun"
-      ],
-      "start_time": "18:30",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927528",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "8:00p-8:50p",
-      "building": "SOLIS",
-      "room": "107",
-      "instructor": "Gao, Sicun",
-      "instructors": [
-        "Gao, Sicun"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "83f667703ee5f41443699d3c685d2af7204f58e7d0026726650a8f5259ecf403": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "ec73db5173594efd6db0915b6ef6b89e51416cb8d6c2af795158dc53e28d1d6e": {
         "sectxt": true,
         "sectionID": "927528",
         "type": "DI",
@@ -82,16 +32,15 @@
         "time": "8:00p-8:50p",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Gao, Sicun",
         "instructors": [
           "Gao, Sicun"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "7fb78df708bc10ae7cbed8c31256c6ff03db90d39a0bcfe7e71ecc8e7cc1a647": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -100,17 +49,15 @@
         "time": "6:30p-7:50p",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Gao, Sicun",
         "instructors": [
           "Gao, Sicun"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f12164f83e9ec19b35c2ae2e257ad595319959ecbd32e61750cdd0475d11af05": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -119,16 +66,15 @@
         "time": "6:30p-7:50p",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Gao, Sicun",
         "instructors": [
           "Gao, Sicun"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

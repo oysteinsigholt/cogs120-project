@@ -3,71 +3,9 @@
   "name": "Linear Circuits",
   "department": "MAE",
   "id": "140",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "936351",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "CENTR",
-      "room": "115",
-      "instructor": "Cortes, Jorge",
-      "instructors": [
-        "Cortes, Jorge"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "W",
-      "time": "8:00a-8:50a",
-      "building": "PCYNH",
-      "room": "109",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/06/2018",
-      "days": "Tu",
-      "time": "5:00p-6:20p",
-      "building": "YORK",
-      "room": "2622",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-06T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "43d276bc945b3c197af05a7b075b8c79d3cd1c88c51273a2563d1209c3c746b4": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -76,13 +14,12 @@
       "time": "5:00p-6:20p",
       "building": "YORK",
       "room": "2622",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-06T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "18:20"
     },
-    {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -91,18 +28,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "31b4f6eae9b0aaa93f7802005fe389aafac3e1f6ec1d24bd98658fd4a13e4bce": {
         "sectxt": true,
         "sectionID": "936351",
         "type": "LE",
@@ -111,16 +46,15 @@
         "time": "9:30a-10:50a",
         "building": "CENTR",
         "room": "115",
-        "instructor": "Cortes, Jorge",
         "instructors": [
           "Cortes, Jorge"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "8e0947ae086951cd616eabed4be76943f8fa9c5af3bda429906f2bb37479450d": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -129,14 +63,13 @@
         "time": "8:00a-8:50a",
         "building": "PCYNH",
         "room": "109",
-        "instructor": "",
         "instructors": [],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "9740b8657904a4cdbd8684bf6025451a016130a73e6ddecc812dfe6dd9bcd141": {
         "sectxt": true,
         "sectionID": "936351",
         "type": "LE",
@@ -145,16 +78,16 @@
         "time": "9:30a-10:50a",
         "building": "CENTR",
         "room": "115",
-        "instructor": "Cortes, Jorge",
         "instructors": [
           "Cortes, Jorge"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

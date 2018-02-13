@@ -3,27 +3,115 @@
   "name": "Apprentice Teaching",
   "department": "SOCG",
   "id": "500",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "931585",
-      "type": "IN",
-      "section": "009",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Rona-Tas, Akos",
-      "instructors": [
-        "Rona-Tas, Akos"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "931577",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Raudenbush, Danielle"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "931578",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Kenworthy, Lane A."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "931579",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Skrentny, John David"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "931580",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Lewis, Kevin Michael"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "931581",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Blair-Loy, Mary"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "931582",
+      "type": "IN",
+      "section": "006",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Haydu, Jeffrey Miles"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "931583",
+      "type": "IN",
+      "section": "007",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Summers, Valerie R."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "931584",
+      "type": "IN",
+      "section": "008",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Burg, Suzanne M.M."
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "931585",
       "type": "IN",
       "section": "009",
@@ -31,19 +119,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Rona-Tas, Akos",
       "instructors": [
         "Rona-Tas, Akos"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

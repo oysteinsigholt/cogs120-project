@@ -3,31 +3,12 @@
   "name": "Classics/Political Philosophy",
   "department": "PHIL",
   "id": "166",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924815",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "5:00p-6:20p",
-      "building": "PETER",
-      "room": "103",
-      "instructor": "Anagnostopoulos, G. H.",
-      "instructors": [
-        "Anagnostopoulos, G. H."
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "931b928b9977ee199c84778eb40b2c220969923b63ff0495836300b0de948e87": {
         "sectxt": true,
         "sectionID": "924815",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "5:00p-6:20p",
         "building": "PETER",
         "room": "103",
-        "instructor": "Anagnostopoulos, G. H.",
         "instructors": [
           "Anagnostopoulos, G. H."
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "ad5ee33a01a3992f56a082eaedd673234c157390216c4a3917d0d7fdc0660a87": {
         "sectxt": true,
         "sectionID": "924815",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "5:00p-6:20p",
         "building": "PETER",
         "room": "103",
-        "instructor": "Anagnostopoulos, G. H.",
         "instructors": [
           "Anagnostopoulos, G. H."
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

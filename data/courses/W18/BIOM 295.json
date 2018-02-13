@@ -3,34 +3,12 @@
   "name": "Pharmacology Research Discussn",
   "department": "BIOM",
   "id": "295",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929422",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "9:00a-10:00a",
-      "building": "LFFB",
-      "room": "107",
-      "instructor": "Brown, Joan Heller",
-      "instructors": [
-        "Brown, Joan Heller"
-      ],
-      "start_time": "9:00",
-      "end_time": "10:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "fdd5c3327d226a1e99beedc3b13d707652b22e4c3c281b6a3275200673586ff1": {
         "sectxt": true,
         "sectionID": "929422",
         "type": "SE",
@@ -39,15 +17,15 @@
         "time": "9:00a-10:00a",
         "building": "LFFB",
         "room": "107",
-        "instructor": "Brown, Joan Heller",
         "instructors": [
           "Brown, Joan Heller"
         ],
         "start_time": "9:00",
         "end_time": "10:00"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

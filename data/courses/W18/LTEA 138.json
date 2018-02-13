@@ -3,40 +3,8 @@
   "name": "Japanese Films",
   "department": "LTEA",
   "id": "138",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "Miyao, Daisuke",
-      "instructors": [
-        "Miyao, Daisuke"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924339",
-      "type": "LA",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Miyao, Daisuke",
-      "instructors": [
-        "Miyao, Daisuke"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -47,16 +15,14 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Miyao, Daisuke",
       "instructors": [
         "Miyao, Daisuke"
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "c12e876c286e075f54b31f5190baf1c12afcaa3c60c656df28d942741b529a9a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -65,17 +31,15 @@
         "time": "9:30a-10:50a",
         "building": "WLH",
         "room": "2001",
-        "instructor": "Miyao, Daisuke",
         "instructors": [
           "Miyao, Daisuke"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "1fd76e34fb7865fce7ff5adca312ddc805651e55d9a8d5231108d9552d7045e9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -84,16 +48,15 @@
         "time": "9:30a-10:50a",
         "building": "WLH",
         "room": "2001",
-        "instructor": "Miyao, Daisuke",
         "instructors": [
           "Miyao, Daisuke"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

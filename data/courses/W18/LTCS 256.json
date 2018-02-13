@@ -3,33 +3,12 @@
   "name": "Cultural Studies/Technoscience",
   "department": "LTCS",
   "id": "256",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924335",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "2:00p-4:50p",
-      "building": "LIT",
-      "room": "237",
-      "instructor": "Heinrich, Larissa",
-      "instructors": [
-        "Heinrich, Larissa"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "25384f0e8bec10a97566696b6b6c5aa84aeedde5142b9235819fcafcef9a2656": {
         "sectxt": true,
         "sectionID": "924335",
         "type": "SE",
@@ -38,16 +17,15 @@
         "time": "2:00p-4:50p",
         "building": "LIT",
         "room": "237",
-        "instructor": "Heinrich, Larissa",
         "instructors": [
           "Heinrich, Larissa"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

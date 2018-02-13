@@ -3,30 +3,12 @@
   "name": "Graduate Topics/ Plant Biology",
   "department": "BGGN",
   "id": "227",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921651",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "9:00a-11:20a",
-      "building": "BIO",
-      "room": "1103",
-      "instructor": "Schroeder, Julian I",
-      "instructors": [
-        "Schroeder, Julian I"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "03307c4928e464f747b199f2be3d2a2f0585369b50601eb054b0574404180a28": {
         "sectxt": true,
         "sectionID": "921651",
         "type": "LE",
@@ -35,19 +17,15 @@
         "time": "9:00a-11:20a",
         "building": "BIO",
         "room": "1103",
-        "instructor": "Schroeder, Julian I",
         "instructors": [
           "Schroeder, Julian I"
         ],
         "start_time": "9:00",
         "end_time": "11:20"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

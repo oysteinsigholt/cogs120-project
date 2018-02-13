@@ -3,223 +3,9 @@
   "name": "Physics-Flu,Wav,Thrmdyn,Optics",
   "department": "PHYS",
   "id": "2C",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "YORK",
-      "room": "2722",
-      "instructor": "Hirsch, Jorge Eduardo",
-      "instructors": [
-        "Hirsch, Jorge Eduardo"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "F",
-      "time": "10:00a-10:50a",
-      "building": "YORK",
-      "room": "2722",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923722",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "PCYNH",
-      "room": "106",
-      "instructor": "Hirsch, Jorge Eduardo",
-      "instructors": [
-        "Hirsch, Jorge Eduardo"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929933",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "PCYNH",
-      "room": "106",
-      "instructor": "Hirsch, Jorge Eduardo",
-      "instructors": [
-        "Hirsch, Jorge Eduardo"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/12/2018",
-      "days": "F",
-      "time": "6:00p-7:50p",
-      "building": "WLH",
-      "room": "2005",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-12T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/22/2018",
-      "days": "M",
-      "time": "6:00p-7:50p",
-      "building": "WLH",
-      "room": "2005",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-22T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/29/2018",
-      "days": "M",
-      "time": "6:00p-7:50p",
-      "building": "WLH",
-      "room": "2005",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-29T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/05/2018",
-      "days": "M",
-      "time": "6:00p-7:50p",
-      "building": "WLH",
-      "room": "2005",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-05T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/12/2018",
-      "days": "M",
-      "time": "6:00p-7:50p",
-      "building": "WLH",
-      "room": "2005",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-12T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/16/2018",
-      "days": "F",
-      "time": "6:00p-7:50p",
-      "building": "WLH",
-      "room": "2005",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-16T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/26/2018",
-      "days": "M",
-      "time": "6:00p-7:50p",
-      "building": "WLH",
-      "room": "2005",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-26T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/05/2018",
-      "days": "M",
-      "time": "6:00p-7:50p",
-      "building": "WLH",
-      "room": "2005",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-05T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/12/2018",
-      "days": "M",
-      "time": "6:00p-7:50p",
-      "building": "WLH",
-      "room": "2005",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-12T07:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5358250af99b445bee903be0aa72ca050ae2c534f8a585ace1ec58df2fc96acd": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -228,13 +14,12 @@
       "time": "6:00p-7:50p",
       "building": "WLH",
       "room": "2005",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-12T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "19:50"
     },
-    {
+    "a30fb3f2442b8f50f30e137eca8ce84bb1ff09dda9b9839f04afb7667201af7e": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -243,13 +28,12 @@
       "time": "6:00p-7:50p",
       "building": "WLH",
       "room": "2005",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-22T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "19:50"
     },
-    {
+    "f34831d4d73e3e4d68ddbffea859484394984076d7181761a2c24a9d6ece863c": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -258,13 +42,12 @@
       "time": "6:00p-7:50p",
       "building": "WLH",
       "room": "2005",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-29T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "19:50"
     },
-    {
+    "f0824dfd9e923d9b9e88bba19c1ce4665ac028558a971e59b0f2acdb1ba4a3e8": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -273,13 +56,12 @@
       "time": "6:00p-7:50p",
       "building": "WLH",
       "room": "2005",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-05T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "19:50"
     },
-    {
+    "cdcc2a776782dfa88aec09dd15781de0742575141322a8ca645fa2f07b496a16": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -288,13 +70,12 @@
       "time": "6:00p-7:50p",
       "building": "WLH",
       "room": "2005",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-12T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "19:50"
     },
-    {
+    "b06419c848b8ec271c0075b20d5bbd6b5b955d99070ba5e6feb68055cd7b5e70": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -303,13 +84,12 @@
       "time": "6:00p-7:50p",
       "building": "WLH",
       "room": "2005",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-16T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "19:50"
     },
-    {
+    "b762bde266b098436df1aece97facb7f850784495f764c08e763ccfed2ba7147": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -318,13 +98,12 @@
       "time": "6:00p-7:50p",
       "building": "WLH",
       "room": "2005",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-26T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "19:50"
     },
-    {
+    "36d6b89f444096f5ca82ae9c0a8a3f49007d9b3748081a218982280edace840d": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -333,13 +112,12 @@
       "time": "6:00p-7:50p",
       "building": "WLH",
       "room": "2005",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-05T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "19:50"
     },
-    {
+    "40d6deba7358f6e25f9ad30c23958f1a0459b2ed016f9745fb721981b1be59c3": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -348,13 +126,12 @@
       "time": "6:00p-7:50p",
       "building": "WLH",
       "room": "2005",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-12T07:00:00.000Z",
       "start_time": "18:00",
       "end_time": "19:50"
     },
-    {
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -363,18 +140,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "979df717b14bf700ac34786e38e943c17094ef467bc27a99217c634a6e5f885f": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -383,16 +158,15 @@
         "time": "3:30p-4:50p",
         "building": "YORK",
         "room": "2722",
-        "instructor": "Hirsch, Jorge Eduardo",
         "instructors": [
           "Hirsch, Jorge Eduardo"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "9745f5715f9f56e9b659eb3b976c77d9439d83971b5a44739a3a56a7a39d44de": {
         "sectxt": true,
         "sectionID": "923722",
         "type": "DI",
@@ -401,14 +175,13 @@
         "time": "5:00p-5:50p",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Hirsch, Jorge Eduardo",
         "instructors": [
           "Hirsch, Jorge Eduardo"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "f4345ab2a285858d53a898bd57d8557ca80384f4a9caf8f329bdfabe0fcdc37b": {
         "sectxt": true,
         "sectionID": "929933",
         "type": "DI",
@@ -417,16 +190,15 @@
         "time": "6:00p-6:50p",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Hirsch, Jorge Eduardo",
         "instructors": [
           "Hirsch, Jorge Eduardo"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "d9a298da955f5b893f4478e3f282466555219d3b8f66ca24bc27d90b59ce58fd": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -435,16 +207,15 @@
         "time": "3:30p-4:50p",
         "building": "YORK",
         "room": "2722",
-        "instructor": "Hirsch, Jorge Eduardo",
         "instructors": [
           "Hirsch, Jorge Eduardo"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "40cdd3ea393878439ebaf5c767383214e7d7acfe333c98c416ae87493bc85dba": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -453,13 +224,13 @@
         "time": "10:00a-10:50a",
         "building": "YORK",
         "room": "2722",
-        "instructor": "",
         "instructors": [],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

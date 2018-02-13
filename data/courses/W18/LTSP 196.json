@@ -3,27 +3,24 @@
   "name": "Honors Thesis",
   "department": "LTSP",
   "id": "196",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "933128",
-      "type": "TU",
-      "section": "002",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Kokotovic, Milos",
-      "instructors": [
-        "Kokotovic, Milos"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "933127",
+      "type": "TU",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Chacon, Gloria Elizabeth"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "933128",
       "type": "TU",
       "section": "002",
@@ -31,19 +28,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Kokotovic, Milos",
       "instructors": [
         "Kokotovic, Milos"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

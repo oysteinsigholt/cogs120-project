@@ -3,31 +3,12 @@
   "name": "Introduction/Vascular Surgery",
   "department": "SURG",
   "id": "260",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930469",
-      "type": "CL",
-      "section": "A00",
-      "days": "Tu",
-      "time": "1:00p-4:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Owens, Erik L.",
-      "instructors": [
-        "Owens, Erik L."
-      ],
-      "start_time": "13:00",
-      "end_time": "16:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "42db7e0cea818dbb1f53fbe047fd130c5908019a2076c30540a1b17930101523": {
         "sectxt": true,
         "sectionID": "930469",
         "type": "CL",
@@ -36,18 +17,15 @@
         "time": "1:00p-4:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Owens, Erik L.",
         "instructors": [
           "Owens, Erik L."
         ],
         "start_time": "13:00",
         "end_time": "16:00"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

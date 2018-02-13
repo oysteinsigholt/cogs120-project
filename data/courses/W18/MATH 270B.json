@@ -3,42 +3,9 @@
   "name": "Numerical Approx&Nonlinear Eqs",
   "department": "MATH",
   "id": "270B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927302",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Bank, Randolph E",
-      "instructors": [
-        "Bank, Randolph E"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "21c1ec338d48606d23917da9f8407eb1be703312e19bdac9cf3c1b9a59e63e74": {
         "sectxt": true,
         "sectionID": "927302",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "11:00a-11:50a",
         "building": "APM",
         "room": "2402",
-        "instructor": "Bank, Randolph E",
         "instructors": [
           "Bank, Randolph E"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "48ce80d67f1914736a9ea5230aa4d0c3e24e3a901b54b4f46b0a9ac53a95d76d": {
         "sectxt": true,
         "sectionID": "927302",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "11:00a-11:50a",
         "building": "APM",
         "room": "2402",
-        "instructor": "Bank, Randolph E",
         "instructors": [
           "Bank, Randolph E"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "8e28bb42e15faeb80d88350fc07e947afb810d4e475302e68e944bf48ecf9490": {
         "sectxt": true,
         "sectionID": "927302",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "11:00a-11:50a",
         "building": "APM",
         "room": "2402",
-        "instructor": "Bank, Randolph E",
         "instructors": [
           "Bank, Randolph E"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,163 +3,9 @@
   "name": "Chem Plant & Process Design I",
   "department": "CENG",
   "id": "124A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926755",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "SOLIS",
-      "room": "104",
-      "instructor": "Talbot, Jan B & Russ, Benjamin Edward",
-      "instructors": [
-        "Talbot, Jan B",
-        "Russ, Benjamin Edward"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/08/2018",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-08T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/22/2018",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-22T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/29/2018",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-29T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/05/2018",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-05T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/12/2018",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-12T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/26/2018",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-26T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/05/2018",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-05T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/12/2018",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-12T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b84321c0ce342de8ad6504c9e9b9efaac8cb666b6b6f6cf7cc8a4fd9a4531d5a": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -168,13 +14,12 @@
       "time": "3:00p-3:50p",
       "building": "WLH",
       "room": "2115",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-08T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "f51011e734506c1569ee4fd507a927e76e8c3eb0f12a475e7d552a9a801f4e4a": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -183,13 +28,12 @@
       "time": "3:00p-3:50p",
       "building": "WLH",
       "room": "2115",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-22T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "c92e84204966dd2cf43da8b068f32f3aeb7a16ef52fdd4a6a6d5b5cb766686a2": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -198,13 +42,12 @@
       "time": "3:00p-3:50p",
       "building": "WLH",
       "room": "2115",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-29T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "f3c3652a89b44fdedee971b607c4722864910502ed5a718bd041873467b6fbf1": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -213,13 +56,12 @@
       "time": "3:00p-3:50p",
       "building": "WLH",
       "room": "2115",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-05T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "893dc50748c5ab3c4353156238f6170072d73511fbc1fabaf27f5b952918c901": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -228,13 +70,12 @@
       "time": "3:00p-3:50p",
       "building": "WLH",
       "room": "2115",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-12T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "29a43bf03c79ea52cdcb3c0fcaebeaf4a2c24c210c579fc71c95b424b84cce69": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -243,13 +84,12 @@
       "time": "3:00p-3:50p",
       "building": "WLH",
       "room": "2115",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-26T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "fbfd92169bf0d7f181c89f38c73729e1df945e363159e3e96c66020c463795ce": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -258,13 +98,12 @@
       "time": "3:00p-3:50p",
       "building": "WLH",
       "room": "2115",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-05T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "17df6754a371be34303a81cfa13d3e4e30e5f1a0e16b6b264a32a0a652d89b5f": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -273,13 +112,12 @@
       "time": "3:00p-3:50p",
       "building": "WLH",
       "room": "2115",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-12T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -288,17 +126,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "a96c0b8fe7f25094e4dccf637c347c4f3364c1e8d886649a62d18fdbdf48a46f": {
         "sectxt": true,
         "sectionID": "926755",
         "type": "LE",
@@ -307,18 +144,15 @@
         "time": "2:00p-2:50p",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "Talbot, Jan B & Russ, Benjamin Edward",
         "instructors": [
-          "Talbot, Jan B",
-          "Russ, Benjamin Edward"
+          "Talbot, Jan B                      \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRuss, Benjamin Edward"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "32d60cdd1e4f73853a2a415e4e1b48e4bb1c3bc52d732cbccb7e8700240dee55": {
         "sectxt": true,
         "sectionID": "926755",
         "type": "LE",
@@ -327,18 +161,15 @@
         "time": "2:00p-2:50p",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "Talbot, Jan B & Russ, Benjamin Edward",
         "instructors": [
-          "Talbot, Jan B",
-          "Russ, Benjamin Edward"
+          "Talbot, Jan B                      \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRuss, Benjamin Edward"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "79c27c43bcdcb54da89b0ec8bb98a9fb32842d0951b3b9feb50aabb9cebb1d6b": {
         "sectxt": true,
         "sectionID": "926755",
         "type": "LE",
@@ -347,16 +178,15 @@
         "time": "2:00p-2:50p",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "Talbot, Jan B & Russ, Benjamin Edward",
         "instructors": [
-          "Talbot, Jan B",
-          "Russ, Benjamin Edward"
+          "Talbot, Jan B                      \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRuss, Benjamin Edward"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

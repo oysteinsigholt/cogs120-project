@@ -3,58 +3,9 @@
   "name": "Second Year Russian",
   "department": "LTRU",
   "id": "2B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "CENTR",
-      "room": "205",
-      "instructor": "Wells, Patricia Rebecca",
-      "instructors": [
-        "Wells, Patricia Rebecca"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920127",
-      "type": "DI",
-      "section": "A01",
-      "days": "MW",
-      "time": "1:00p-1:50p",
-      "building": "SOLIS",
-      "room": "110",
-      "instructor": "Wells, Patricia Rebecca",
-      "instructors": [
-        "Wells, Patricia Rebecca"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "5202edac5800a29b150a0e495e0643dd7739326170fd939af6c0e08e0af70d60": {
         "sectxt": true,
         "sectionID": "920127",
         "type": "DI",
@@ -82,16 +32,15 @@
         "time": "1:00p-1:50p",
         "building": "SOLIS",
         "room": "110",
-        "instructor": "Wells, Patricia Rebecca",
         "instructors": [
           "Wells, Patricia Rebecca"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "77a90d7a8864ca19fd9b8963b8c321ba412d20b52100d010e9805af3b2d06f08": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -100,16 +49,15 @@
         "time": "12:30p-1:50p",
         "building": "CENTR",
         "room": "205",
-        "instructor": "Wells, Patricia Rebecca",
         "instructors": [
           "Wells, Patricia Rebecca"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "7c479d4be04f56cab4da3331ab7d9472dac2f0c3adb339f7d6814d2caa281fca": {
         "sectxt": true,
         "sectionID": "920127",
         "type": "DI",
@@ -118,16 +66,15 @@
         "time": "1:00p-1:50p",
         "building": "SOLIS",
         "room": "110",
-        "instructor": "Wells, Patricia Rebecca",
         "instructors": [
           "Wells, Patricia Rebecca"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f8ad585298e7b342895c254554dd0fa501d6feea536e74d6146ebcf55fb31294": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -136,16 +83,15 @@
         "time": "12:30p-1:50p",
         "building": "CENTR",
         "room": "205",
-        "instructor": "Wells, Patricia Rebecca",
         "instructors": [
           "Wells, Patricia Rebecca"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

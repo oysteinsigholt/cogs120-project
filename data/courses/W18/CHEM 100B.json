@@ -3,58 +3,9 @@
   "name": "Instrumental Chemistry Lab",
   "department": "CHEM",
   "id": "100B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "8:00a-9:20a",
-      "building": "NSB",
-      "room": "2303",
-      "instructor": "Pomeroy, Robert S.",
-      "instructors": [
-        "Pomeroy, Robert S."
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926525",
-      "type": "LA",
-      "section": "A01",
-      "days": "MW",
-      "time": "9:00a-11:50a",
-      "building": "YORK",
-      "room": "1146",
-      "instructor": "Pomeroy, Robert S.",
-      "instructors": [
-        "Pomeroy, Robert S."
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "e546d3337421ad31517ae7d9eab48fb90726842d5d58b63a70fe9cbc933dc5ed": {
         "sectxt": true,
         "sectionID": "926525",
         "type": "LA",
@@ -82,16 +32,15 @@
         "time": "9:00a-11:50a",
         "building": "YORK",
         "room": "1146",
-        "instructor": "Pomeroy, Robert S.",
         "instructors": [
           "Pomeroy, Robert S."
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "e465ded450a51855ecac87097b7a25f20ad1b32d4d66efd5a69c690a29911893": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -100,16 +49,15 @@
         "time": "8:00a-9:20a",
         "building": "NSB",
         "room": "2303",
-        "instructor": "Pomeroy, Robert S.",
         "instructors": [
           "Pomeroy, Robert S."
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "9347fe24e4689da824ff62f4b7d41409dbf7baac3211c1c91ca0ecd3635bf903": {
         "sectxt": true,
         "sectionID": "926525",
         "type": "LA",
@@ -118,16 +66,15 @@
         "time": "9:00a-11:50a",
         "building": "YORK",
         "room": "1146",
-        "instructor": "Pomeroy, Robert S.",
         "instructors": [
           "Pomeroy, Robert S."
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8545ab0c79c23ec92792f48a8a4e9c983955e31d9ddad421339a098929d3ab17": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -136,16 +83,15 @@
         "time": "8:00a-9:20a",
         "building": "NSB",
         "room": "2303",
-        "instructor": "Pomeroy, Robert S.",
         "instructors": [
           "Pomeroy, Robert S."
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,33 +3,14 @@
   "name": "Freshman Seminar",
   "department": "ERC",
   "id": "87",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927871",
-      "type": "SE",
-      "section": "B00",
-      "days": "Tu",
-      "time": "3:00p-3:50p",
-      "building": "ERCA",
-      "room": "115",
-      "instructor": "Herbst, Matthew",
-      "instructors": [
-        "Herbst, Matthew"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [
     "This course includes a mandatory weekend trip to the\n desert and a $95 fee is required.  The field trip dates\n are February 10 and 11, 2018."
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "7f3a643fb9a34fb7a2d9d208e7e78e8759e738fa0ba6b7d5cad5d4d3288641d1": {
         "sectxt": true,
         "sectionID": "927871",
         "type": "SE",
@@ -38,18 +19,16 @@
         "time": "3:00p-3:50p",
         "building": "ERCA",
         "room": "115",
-        "instructor": "Herbst, Matthew",
         "instructors": [
           "Herbst, Matthew"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

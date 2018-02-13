@@ -3,32 +3,12 @@
   "name": "Genre Studies",
   "department": "LTCO",
   "id": "274",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924330",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "2:00p-4:50p",
-      "building": "LIT",
-      "room": "237",
-      "instructor": "duBois, Page Ann",
-      "instructors": [
-        "duBois, Page Ann"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "67beb81dbe7880f2c418339769073076f5ab1ca6b40613e3a3b4fc7177975219": {
         "sectxt": true,
         "sectionID": "924330",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "2:00p-4:50p",
         "building": "LIT",
         "room": "237",
-        "instructor": "duBois, Page Ann",
         "instructors": [
           "duBois, Page Ann"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

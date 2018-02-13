@@ -3,27 +3,89 @@
   "name": "Experimental Methods/Chemistry",
   "department": "CHEM",
   "id": "297",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "940454",
-      "type": "IN",
-      "section": "007",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Hermann, Thomas",
-      "instructors": [
-        "Hermann, Thomas"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "932645",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Opella, Stanley J"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "937864",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Oconnor, Joseph M."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "937865",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Opella, Stanley J"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "937866",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Malinow, Roberto"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "937867",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Wang, Wei"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "940408",
+      "type": "IN",
+      "section": "006",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Durden, Donald L"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "940454",
       "type": "IN",
       "section": "007",
@@ -31,19 +93,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Hermann, Thomas",
       "instructors": [
         "Hermann, Thomas"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

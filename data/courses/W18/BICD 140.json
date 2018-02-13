@@ -3,152 +3,9 @@
   "name": "Immunology",
   "department": "BICD",
   "id": "140",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "8:00a-9:20a",
-      "building": "MANDE",
-      "room": "B-210",
-      "instructor": "Zuniga, Elina I",
-      "instructors": [
-        "Zuniga, Elina I"
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925901",
-      "type": "DI",
-      "section": "A01",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925902",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "217B",
-      "instructor": "Zuniga, Elina I",
-      "instructors": [
-        "Zuniga, Elina I"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925903",
-      "type": "DI",
-      "section": "A03",
-      "days": "M",
-      "time": "10:00a-10:50a",
-      "building": "CENTR",
-      "room": "217B",
-      "instructor": "Zuniga, Elina I",
-      "instructors": [
-        "Zuniga, Elina I"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925904",
-      "type": "DI",
-      "section": "A04",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "HSS",
-      "room": "2154",
-      "instructor": "Zuniga, Elina I",
-      "instructors": [
-        "Zuniga, Elina I"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925905",
-      "type": "DI",
-      "section": "A05",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "HSS",
-      "room": "2154",
-      "instructor": "Zuniga, Elina I",
-      "instructors": [
-        "Zuniga, Elina I"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/27/2018",
-      "days": "S",
-      "time": "10:00a-11:50a",
-      "building": "WLH",
-      "room": "2204",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-27T08:00:00.000Z",
-      "start_time": "10:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/09/2018",
-      "days": "F",
-      "time": "7:00p-8:20p",
-      "building": "PETER",
-      "room": "104",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-09T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "20:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "7cc8493ab4259f4cba3c94650496d5f6a7b3fad2c09e826087c8328e9a91a62e": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -157,13 +14,12 @@
       "time": "10:00a-11:50a",
       "building": "WLH",
       "room": "2204",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-27T08:00:00.000Z",
       "start_time": "10:00",
       "end_time": "11:50"
     },
-    {
+    "32fe3fca85e38eb6b9f831b53174a6bcd1065442453924125333332e1ed509e3": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -172,13 +28,12 @@
       "time": "7:00p-8:20p",
       "building": "PETER",
       "room": "104",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-09T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "20:20"
     },
-    {
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -187,17 +42,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "f16e3e720183df6a09dc5e629cd77d01a44cb705f069eb84a1603a22d28e04f0": {
         "sectxt": true,
         "sectionID": "925902",
         "type": "DI",
@@ -206,14 +60,13 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "217B",
-        "instructor": "Zuniga, Elina I",
         "instructors": [
           "Zuniga, Elina I"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "4d8742c9ccada6e63b46d36b390673b9cf145ebf249ff8d583515e210e4d7a5c": {
         "sectxt": true,
         "sectionID": "925903",
         "type": "DI",
@@ -222,16 +75,15 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "217B",
-        "instructor": "Zuniga, Elina I",
         "instructors": [
           "Zuniga, Elina I"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "e465ded450a51855ecac87097b7a25f20ad1b32d4d66efd5a69c690a29911893": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -240,16 +92,15 @@
         "time": "8:00a-9:20a",
         "building": "MANDE",
         "room": "B-210",
-        "instructor": "Zuniga, Elina I",
         "instructors": [
           "Zuniga, Elina I"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "16a1a339f03eb2a1ecbfd4b53d7309178f8d9d4fe7af0d4be56d08cac92c7cc6": {
         "sectxt": true,
         "sectionID": "925904",
         "type": "DI",
@@ -258,14 +109,13 @@
         "time": "5:00p-5:50p",
         "building": "HSS",
         "room": "2154",
-        "instructor": "Zuniga, Elina I",
         "instructors": [
           "Zuniga, Elina I"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "c01677d2feecab93114da701818379c5595a61fd4cefd4328482d9fcd282b2be": {
         "sectxt": true,
         "sectionID": "925905",
         "type": "DI",
@@ -274,16 +124,15 @@
         "time": "6:00p-6:50p",
         "building": "HSS",
         "room": "2154",
-        "instructor": "Zuniga, Elina I",
         "instructors": [
           "Zuniga, Elina I"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8545ab0c79c23ec92792f48a8a4e9c983955e31d9ddad421339a098929d3ab17": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -292,16 +141,15 @@
         "time": "8:00a-9:20a",
         "building": "MANDE",
         "room": "B-210",
-        "instructor": "Zuniga, Elina I",
         "instructors": [
           "Zuniga, Elina I"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,30 +3,132 @@
   "name": "The Writing Course B",
   "department": "WCWP",
   "id": "10B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "932657",
-      "type": "SE",
-      "section": "026",
-      "days": "MW",
-      "time": "11:00a-12:20p",
-      "building": "EBU3B",
-      "room": "1113",
-      "instructor": "Gagnon, Jeffrey C",
-      "instructors": [
-        "Gagnon, Jeffrey C"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "f54d3cb5ae94aa072170d5d665c308166d1c1dcddc3cf36032cbb628d61ebf1c": {
+        "sectxt": true,
+        "sectionID": "920342",
+        "type": "SE",
+        "section": "018",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "3b785de842770e46a806b11c5b2906dacd3a08f58d235aa4305a42bae5c444ed": {
+        "sectxt": true,
+        "sectionID": "920343",
+        "type": "SE",
+        "section": "019",
+        "days": "MW",
+        "time": "11:00a-12:20p",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "0346c7ec2adbb63e47d06c09927a86a30ddfa1306f3b46e0d2feb575c0bd5d8a": {
+        "sectxt": true,
+        "sectionID": "920344",
+        "type": "SE",
+        "section": "020",
+        "days": "MW",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "c9d8f8e7085dc2522a0ac52ad9d38695ff9171d9d4def7de06c2651013c672ca": {
+        "sectxt": true,
+        "sectionID": "920345",
+        "type": "SE",
+        "section": "021",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "f1b58c2d08e58f4ceda3c8fcf445799318df1933ada5e768736f4016e01083d0": {
+        "sectxt": true,
+        "sectionID": "920346",
+        "type": "SE",
+        "section": "022",
+        "days": "MW",
+        "time": "3:30p-4:50p",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "7fe2117e8dcbef7033051687438c8c4b515eef099355eb4485cc938ed80cb960": {
+        "sectxt": true,
+        "sectionID": "920347",
+        "type": "SE",
+        "section": "023",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "52a016352fb39170b8dd5ced3920a7d6ef3fe3a7bfe8a7135062cb87f0c910e2": {
+        "sectxt": true,
+        "sectionID": "920348",
+        "type": "SE",
+        "section": "024",
+        "days": "MW",
+        "time": "6:30p-7:50p",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      },
+      "7ca2d4e484747b40d120179b4da07dea75d67cd7c969b41f27d474e38645da44": {
+        "sectxt": true,
+        "sectionID": "932656",
+        "type": "SE",
+        "section": "025",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "EBU3B",
+        "room": "1113",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "8a96608ede74e40daef51f3e817be1204fb634b24b9d2af535e88dec500e1762": {
         "sectxt": true,
         "sectionID": "932657",
         "type": "SE",
@@ -35,17 +137,392 @@
         "time": "11:00a-12:20p",
         "building": "EBU3B",
         "room": "1113",
-        "instructor": "Gagnon, Jeffrey C",
         "instructors": [
           "Gagnon, Jeffrey C"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
+      },
+      "979b4e9a4d500abca19d5b10c18589a20d8b7ffe9600e9097f479969c39b273b": {
+        "sectxt": true,
+        "sectionID": "920341",
+        "type": "SE",
+        "section": "017",
+        "days": "MW",
+        "time": "8:00a-9:20a",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "Tu": {
+      "b858b374d1baa91e06dd9557ccbbbd5c0d31e0b40c9c50baca46c2d44ef3cd51": {
+        "sectxt": true,
+        "sectionID": "920325",
+        "type": "SE",
+        "section": "001",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "EBU3B",
+        "room": "1117",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "7822e54125021014e0510331b7a6201e7548094763ac1ecf6add4adcb41031a7": {
+        "sectxt": true,
+        "sectionID": "920326",
+        "type": "SE",
+        "section": "002",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "EBU3B",
+        "room": "1117",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "97c47a7db969e9d64f493e98766f3e8f09ddb9cb17c703c86487005a2e901a58": {
+        "sectxt": true,
+        "sectionID": "920327",
+        "type": "SE",
+        "section": "003",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "EBU3B",
+        "room": "1117",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "c91521641cb78f5d8a186e56042a2a9ff381cf1f335eb8e6a655e3b1552789fb": {
+        "sectxt": true,
+        "sectionID": "920328",
+        "type": "SE",
+        "section": "004",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "EBU3B",
+        "room": "1117",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "054d228b5bbad4a75758f5edb55f32ba585bfe6a905912091e7f690a5701175a": {
+        "sectxt": true,
+        "sectionID": "920329",
+        "type": "SE",
+        "section": "005",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "EBU3B",
+        "room": "1117",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "7d441bdb586e54ebedad6391894c820965684ea1f748ec37fe726c9041a0c1a5": {
+        "sectxt": true,
+        "sectionID": "920330",
+        "type": "SE",
+        "section": "006",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "EBU3B",
+        "room": "1117",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "f05e0d143e3d94e7c15da8f282d1719c68c635d6b524f346011fd540e6a84cf3": {
+        "sectxt": true,
+        "sectionID": "920331",
+        "type": "SE",
+        "section": "007",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "EBU3B",
+        "room": "1113",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "ce39d01fc4141effbd80cfc4afd7d5553fb43a6d456fae4d34a40898451507c0": {
+        "sectxt": true,
+        "sectionID": "920332",
+        "type": "SE",
+        "section": "008",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "EBU3B",
+        "room": "1113",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "070086577263910dee602a9ae12c4cef8ca74efa03022d56e3c6dcbb40d0bc28": {
+        "sectxt": true,
+        "sectionID": "920333",
+        "type": "SE",
+        "section": "009",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "EBU3B",
+        "room": "1113",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "db0e86bdd16683660e30160227dfac5fa98816012f8e320edbbdf8f4355f689a": {
+        "sectxt": true,
+        "sectionID": "920334",
+        "type": "SE",
+        "section": "010",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "EBU3B",
+        "room": "1113",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "3602385117ffee8902abc180c25d6754794464c6627503ddf11f63857ed3182a": {
+        "sectxt": true,
+        "sectionID": "920335",
+        "type": "SE",
+        "section": "011",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "EBU3B",
+        "room": "1113",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "3e61edc5f2b19619f39f818fe5d2450d7cb9da7e86bbe00d323808a16716fe3c": {
+        "sectxt": true,
+        "sectionID": "920336",
+        "type": "SE",
+        "section": "012",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "EBU3B",
+        "room": "1113",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "80343d0de2b0b08fcc1a1e05cce345550440ab513c927fe39f560d08f8973de3": {
+        "sectxt": true,
+        "sectionID": "920337",
+        "type": "SE",
+        "section": "013",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "371f636523ccfdb00a5757082deb47283308947fb99476b0d4004db903acbeef": {
+        "sectxt": true,
+        "sectionID": "920338",
+        "type": "SE",
+        "section": "014",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "0b8297d9af9ae094bcf5cc78fb0e01bef9ff3b4fc017c69c86891bca8313a6db": {
+        "sectxt": true,
+        "sectionID": "920339",
+        "type": "SE",
+        "section": "015",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "60d65f6c53ef64406fb8bfc37c7fccee42b24e15d87dead2f985831dd432bee1": {
+        "sectxt": true,
+        "sectionID": "920340",
+        "type": "SE",
+        "section": "016",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    },
+    "W": {
+      "14b97505cf46a9e968b4610a5af3dd383740830d36086ed295c0a87ccb912806": {
+        "sectxt": true,
+        "sectionID": "920342",
+        "type": "SE",
+        "section": "018",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "2e87300c799c5b9e3a6a9b9de7bacce933a5ffd697dd3fa5fbcaa97037c03166": {
+        "sectxt": true,
+        "sectionID": "920343",
+        "type": "SE",
+        "section": "019",
+        "days": "MW",
+        "time": "11:00a-12:20p",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "dd7f6cb7a9b73100db13a58cb3e39f8d5b628a6d4568604bcf6adc02a56312e1": {
+        "sectxt": true,
+        "sectionID": "920344",
+        "type": "SE",
+        "section": "020",
+        "days": "MW",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "6c1c55d170b5c94d77400e3f897cc8389496ef481ff1b5350128dc360638b500": {
+        "sectxt": true,
+        "sectionID": "920345",
+        "type": "SE",
+        "section": "021",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "ca2c55bfc5b1599cb51d84cd472dacdec99d37a18aa5897aeae285212c72b803": {
+        "sectxt": true,
+        "sectionID": "920346",
+        "type": "SE",
+        "section": "022",
+        "days": "MW",
+        "time": "3:30p-4:50p",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "6d11259dfe060e97b9b0aa4c86f4a8e7cce97666d1cac9d95b16d312552e75b8": {
+        "sectxt": true,
+        "sectionID": "920347",
+        "type": "SE",
+        "section": "023",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "023d60623650246f907e4baf88ba9164a7678c2d54117613463b9763b163fc36": {
+        "sectxt": true,
+        "sectionID": "920348",
+        "type": "SE",
+        "section": "024",
+        "days": "MW",
+        "time": "6:30p-7:50p",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      },
+      "db450ad623f3654708f4ad550b56cc5d5c0a6d43523a68145fcc4d9150189c52": {
+        "sectxt": true,
+        "sectionID": "932656",
+        "type": "SE",
+        "section": "025",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "EBU3B",
+        "room": "1113",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "6d8008f9242fdb989c6e5516354f5a7272c03f1919335e41c65bf3f945ac71d1": {
         "sectxt": true,
         "sectionID": "932657",
         "type": "SE",
@@ -54,17 +531,272 @@
         "time": "11:00a-12:20p",
         "building": "EBU3B",
         "room": "1113",
-        "instructor": "Gagnon, Jeffrey C",
         "instructors": [
           "Gagnon, Jeffrey C"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
+      },
+      "5300c769a23d8c1c208f0cd15be5471cf24049e54ed0de29176f41e5922c5648": {
+        "sectxt": true,
+        "sectionID": "920341",
+        "type": "SE",
+        "section": "017",
+        "days": "MW",
+        "time": "8:00a-9:20a",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "Th": {
+      "70acc3c07c28fd4626bd733177c55dc26b912520026aa3c373a89f6a7de6f894": {
+        "sectxt": true,
+        "sectionID": "920325",
+        "type": "SE",
+        "section": "001",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "EBU3B",
+        "room": "1117",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "4d5058e57694476b009b3ae896f3c1fcad694fd45cc15c027ec658ebb3e40718": {
+        "sectxt": true,
+        "sectionID": "920326",
+        "type": "SE",
+        "section": "002",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "EBU3B",
+        "room": "1117",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "3bd7e0fce9744db910ad8b9c229fb8eaaa3e429b11b884519e348e4e8be73f06": {
+        "sectxt": true,
+        "sectionID": "920327",
+        "type": "SE",
+        "section": "003",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "EBU3B",
+        "room": "1117",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "b8fd9e6abb06cab2a19080d637067248981e692c8c3edf54f66f68b7a098df69": {
+        "sectxt": true,
+        "sectionID": "920328",
+        "type": "SE",
+        "section": "004",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "EBU3B",
+        "room": "1117",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "72f2bc66cf4228ab4cd0ecc2cff49e345c8c490f9fc7be789e9e0240f5a9cdfa": {
+        "sectxt": true,
+        "sectionID": "920329",
+        "type": "SE",
+        "section": "005",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "EBU3B",
+        "room": "1117",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "3db910b0d58aae50f752be83c5037ddfc8af64e62fc96923c98f0effe80aecad": {
+        "sectxt": true,
+        "sectionID": "920330",
+        "type": "SE",
+        "section": "006",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "EBU3B",
+        "room": "1117",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "871f35c479baec5c385fa81a64e604f0571f4ea8576a3dc4cfb93caee878abc3": {
+        "sectxt": true,
+        "sectionID": "920331",
+        "type": "SE",
+        "section": "007",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "EBU3B",
+        "room": "1113",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "9cf2ea7620fa5508fc7ca35237bbe33d7da75243edbf7d78e539a1cc3315220a": {
+        "sectxt": true,
+        "sectionID": "920332",
+        "type": "SE",
+        "section": "008",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "EBU3B",
+        "room": "1113",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "11ebf9f2c453a6df2ec20bd7416d8885f06204d38080eb620f974af88bb12e90": {
+        "sectxt": true,
+        "sectionID": "920333",
+        "type": "SE",
+        "section": "009",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "EBU3B",
+        "room": "1113",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "edfb88592691f35200b5de80120b62f412886585979193e1a4e03fa8aac88bf6": {
+        "sectxt": true,
+        "sectionID": "920334",
+        "type": "SE",
+        "section": "010",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "EBU3B",
+        "room": "1113",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "7e3f698c191ad07547c4ef2fb65738b033c8eaa455abe06eff936b3aca6a186b": {
+        "sectxt": true,
+        "sectionID": "920335",
+        "type": "SE",
+        "section": "011",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "EBU3B",
+        "room": "1113",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "e56f6285cc4ea4ca09842e0fc308338b5c58a440e7dce2855139ee3238605e42": {
+        "sectxt": true,
+        "sectionID": "920336",
+        "type": "SE",
+        "section": "012",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "EBU3B",
+        "room": "1113",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "8a5fa6900b1825197a3f418381034d3b3c123bc8f91c8e4db905468476f7c26d": {
+        "sectxt": true,
+        "sectionID": "920337",
+        "type": "SE",
+        "section": "013",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "f840d984c221fcf3732045e73c20b7ec31b4fd235b23caea449b972ec15ab768": {
+        "sectxt": true,
+        "sectionID": "920338",
+        "type": "SE",
+        "section": "014",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "314cd8adf4ab382aa73a233e902155867b20e564bb3ef80f365db26d8bebdf8f": {
+        "sectxt": true,
+        "sectionID": "920339",
+        "type": "SE",
+        "section": "015",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "f84563240a4e56b3e9ebefdda8c184e9ebd90b022d0646ac4e6b18c71099ea12": {
+        "sectxt": true,
+        "sectionID": "920340",
+        "type": "SE",
+        "section": "016",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Gagnon, Jeffrey C"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    }
+  },
+  "sections": [
+    "0"
+  ]
 }

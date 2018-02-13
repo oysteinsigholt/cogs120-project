@@ -3,50 +3,76 @@
   "name": "Quantitative Methods II",
   "department": "GPCO",
   "id": "454",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930804",
-      "type": "DI",
-      "section": "B02",
-      "days": "F",
-      "time": "9:30a-10:50a",
-      "building": "RBC",
-      "room": "3202",
-      "instructor": "Burney, Jennifer A.",
-      "instructors": [
-        "Burney, Jennifer A."
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930809",
-      "type": "DI",
-      "section": "B03",
-      "days": "F",
-      "time": "9:30a-10:50a",
-      "building": "RBC",
-      "room": "AUD",
-      "instructor": "Burney, Jennifer A.",
-      "instructors": [
-        "Burney, Jennifer A."
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "M": {
+      "81a3a22d044af611950a1935d34caa0c78dde03871e2bb09b4e49874d0b1d18a": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "RBC",
+        "room": "AUD",
+        "instructors": [
+          "Burney, Jennifer A."
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    },
+    "W": {
+      "6ad9337ba6a4f2bae087bcaf77587012bb3622511512a4016bfeb14352c15f53": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "RBC",
+        "room": "AUD",
+        "instructors": [
+          "Burney, Jennifer A."
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    },
+    "F": {
+      "fe2179bc12dcd91813aca31125d1c52b6bff485ee3a08f885ca154b98a0c6877": {
+        "sectxt": true,
+        "sectionID": "930796",
+        "type": "DI",
+        "section": "B01",
+        "days": "F",
+        "time": "9:30a-10:50a",
+        "building": "RBC",
+        "room": "3201",
+        "instructors": [
+          "Burney, Jennifer A."
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "8f339a5349fbb17064ef7cc553f8cac9bc0f9774e49b50aedeb3e796946df039": {
         "sectxt": true,
         "sectionID": "930804",
         "type": "DI",
@@ -55,14 +81,13 @@
         "time": "9:30a-10:50a",
         "building": "RBC",
         "room": "3202",
-        "instructor": "Burney, Jennifer A.",
         "instructors": [
           "Burney, Jennifer A."
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       },
-      {
+      "d8914ec837a70d512db2b0c9ef150e4f181af90c0a5d670aa1e7562dd12d811e": {
         "sectxt": true,
         "sectionID": "930809",
         "type": "DI",
@@ -71,15 +96,16 @@
         "time": "9:30a-10:50a",
         "building": "RBC",
         "room": "AUD",
-        "instructor": "Burney, Jennifer A.",
         "instructors": [
           "Burney, Jennifer A."
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

@@ -3,301 +3,9 @@
   "name": "Design & Analysis of Algorithm",
   "department": "CSE",
   "id": "101",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "6:30p-7:50p",
-      "building": "PETER",
-      "room": "108",
-      "instructor": "Kahng, Andrew Byun",
-      "instructors": [
-        "Kahng, Andrew Byun"
-      ],
-      "start_time": "18:30",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927473",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "8:00p-8:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "Kahng, Andrew Byun",
-      "instructors": [
-        "Kahng, Andrew Byun"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927474",
-      "type": "DI",
-      "section": "A02",
-      "days": "Th",
-      "time": "8:00p-8:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "Kahng, Andrew Byun",
-      "instructors": [
-        "Kahng, Andrew Byun"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927475",
-      "type": "DI",
-      "section": "A03",
-      "days": "F",
-      "time": "10:00a-10:50a",
-      "building": "CENTR",
-      "room": "113",
-      "instructor": "Kahng, Andrew Byun",
-      "instructors": [
-        "Kahng, Andrew Byun"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927476",
-      "type": "DI",
-      "section": "A04",
-      "days": "F",
-      "time": "12:00p-12:50p",
-      "building": "SOLIS",
-      "room": "104",
-      "instructor": "Kahng, Andrew Byun",
-      "instructors": [
-        "Kahng, Andrew Byun"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/12/2018",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-12T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/19/2018",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-19T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/26/2018",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-26T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/02/2018",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-02T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/09/2018",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-09T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/16/2018",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-16T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/23/2018",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-23T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/02/2018",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-02T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/09/2018",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-09T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/16/2018",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-16T07:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/29/2018",
-      "days": "M",
-      "time": "7:00p-8:50p",
-      "building": "GH",
-      "room": "242",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-29T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "03/16/2018",
-      "days": "F",
-      "time": "7:00p-8:50p",
-      "building": "PETER",
-      "room": "108",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-16T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "03/17/2018",
-      "days": "S",
-      "time": "3:00p-4:50p",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-17T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "1290ab1476f4ed6c6c87dd8c22c010bf871beaa8d0466125e8f595ada014a07d": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -306,13 +14,12 @@
       "time": "5:00p-5:50p",
       "building": "WLH",
       "room": "2001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-12T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "f54160de07f5690aa2a72332ca34ecb8cbb75f24dedc52c30a82e3c63d87e1b8": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -321,13 +28,12 @@
       "time": "5:00p-5:50p",
       "building": "WLH",
       "room": "2001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-19T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "1a1ea8f637043c2c0a1db2c6d63bdf9e323fecc74665dd96f1b538bc3f94d949": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -336,13 +42,12 @@
       "time": "5:00p-5:50p",
       "building": "WLH",
       "room": "2001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-26T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "9364e76e0225d1b09bcce09095e670348cb0c75d42539c916fbb0c7486556af4": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -351,13 +56,12 @@
       "time": "5:00p-5:50p",
       "building": "WLH",
       "room": "2001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-02T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "82c4feff2d2633e355fb82ce487834ba498c9cfd96d2493eb9361509b1e6517a": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -366,13 +70,12 @@
       "time": "5:00p-5:50p",
       "building": "WLH",
       "room": "2001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-09T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "8d02e0ead706fd862fd7d13b65ea5358a4d3df426e2caa31e894c1c7bb1e270e": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -381,13 +84,12 @@
       "time": "5:00p-5:50p",
       "building": "WLH",
       "room": "2001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-16T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "bd37d906bddcfe2ec5f666cb73cc0d68825855a0f5c73247a59f46cd1961c886": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -396,13 +98,12 @@
       "time": "5:00p-5:50p",
       "building": "WLH",
       "room": "2001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-23T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "bce160507d2e8a796b00e9ac822000ac4788d8defce986dba4e2026c5d43f667": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -411,13 +112,12 @@
       "time": "5:00p-5:50p",
       "building": "WLH",
       "room": "2001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-02T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "6dd084e00e5bec3f7a647a4091c2f457e77f99df53b263da5697c907ce78c331": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -426,13 +126,12 @@
       "time": "5:00p-5:50p",
       "building": "WLH",
       "room": "2001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-09T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "47c0346389c4541dddf26c808552b9f4ccf29bd2499f208da4823c5c020be812": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -441,13 +140,12 @@
       "time": "5:00p-5:50p",
       "building": "WLH",
       "room": "2001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-16T07:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "4c09bbc57d6a6df464b56d5929e7bc803bbfda5cca1e6b254bc73a4e046d1e26": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -456,13 +154,12 @@
       "time": "7:00p-8:50p",
       "building": "GH",
       "room": "242",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-29T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "20:50"
     },
-    {
+    "75609c2a6c07585f349bd0af77488d0407746209d252655b2a648f8fd6740402": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -471,13 +168,12 @@
       "time": "7:00p-8:50p",
       "building": "PETER",
       "room": "108",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-16T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "20:50"
     },
-    {
+    "b4fba8d645d689aab1dfccb594e5dde56c5b273fd8c2b0c9ea69dff42a34be39": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -486,13 +182,12 @@
       "time": "3:00p-4:50p",
       "building": "WLH",
       "room": "2001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-17T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "16:50"
     },
-    {
+    "83f667703ee5f41443699d3c685d2af7204f58e7d0026726650a8f5259ecf403": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -501,18 +196,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "7fb78df708bc10ae7cbed8c31256c6ff03db90d39a0bcfe7e71ecc8e7cc1a647": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -521,16 +214,15 @@
         "time": "6:30p-7:50p",
         "building": "PETER",
         "room": "108",
-        "instructor": "Kahng, Andrew Byun",
         "instructors": [
           "Kahng, Andrew Byun"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "0a2072cf07629280f56bbe868a0794b372cff0ad73e406107fdd85e30fa6913c": {
         "sectxt": true,
         "sectionID": "927473",
         "type": "DI",
@@ -539,16 +231,15 @@
         "time": "8:00p-8:50p",
         "building": "CSB",
         "room": "002",
-        "instructor": "Kahng, Andrew Byun",
         "instructors": [
           "Kahng, Andrew Byun"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f12164f83e9ec19b35c2ae2e257ad595319959ecbd32e61750cdd0475d11af05": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -557,14 +248,13 @@
         "time": "6:30p-7:50p",
         "building": "PETER",
         "room": "108",
-        "instructor": "Kahng, Andrew Byun",
         "instructors": [
           "Kahng, Andrew Byun"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       },
-      {
+      "cbe07e096bb49f01dfb9274eb271a1408c56e0def427e99cbb41749b30c4ab63": {
         "sectxt": true,
         "sectionID": "927474",
         "type": "DI",
@@ -573,16 +263,15 @@
         "time": "8:00p-8:50p",
         "building": "CSB",
         "room": "002",
-        "instructor": "Kahng, Andrew Byun",
         "instructors": [
           "Kahng, Andrew Byun"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "60675bcc65512bcbd2f3c75d73d44cef5a0a94996b5150723fcd38bef8151fa4": {
         "sectxt": true,
         "sectionID": "927475",
         "type": "DI",
@@ -591,14 +280,13 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Kahng, Andrew Byun",
         "instructors": [
           "Kahng, Andrew Byun"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "7e3f221bbc2b60abddbbab385cb877b4ac329e8e13a12c79c99afbfb162c9302": {
         "sectxt": true,
         "sectionID": "927476",
         "type": "DI",
@@ -607,15 +295,15 @@
         "time": "12:00p-12:50p",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "Kahng, Andrew Byun",
         "instructors": [
           "Kahng, Andrew Byun"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

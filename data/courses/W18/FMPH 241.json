@@ -3,27 +3,63 @@
   "name": "Biostatistics Rotations",
   "department": "FMPH",
   "id": "241",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "935640",
-      "type": "PR",
-      "section": "005",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Tu, Xin",
-      "instructors": [
-        "Tu, Xin"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "930587",
+      "type": "PR",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Natarajan, Loki"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930588",
+      "type": "PR",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Vaida, Florin"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930589",
+      "type": "PR",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Schwartzman, Armin"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930626",
+      "type": "PR",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Messer, Karen Sue"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "935640",
       "type": "PR",
       "section": "005",
@@ -31,19 +67,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Tu, Xin",
       "instructors": [
         "Tu, Xin"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

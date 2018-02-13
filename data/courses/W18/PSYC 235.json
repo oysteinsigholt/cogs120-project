@@ -3,34 +3,12 @@
   "name": "Thought and Language",
   "department": "PSYC",
   "id": "235",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924682",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "1:00p-3:50p",
-      "building": "MNDLR",
-      "room": "3545",
-      "instructor": "Barner, David A.",
-      "instructors": [
-        "Barner, David A."
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "3cbcdb4baad46fbdc348ab10200ec107f6073dfe409552f6eccb57ef00cc83a4": {
         "sectxt": true,
         "sectionID": "924682",
         "type": "SE",
@@ -39,15 +17,15 @@
         "time": "1:00p-3:50p",
         "building": "MNDLR",
         "room": "3545",
-        "instructor": "Barner, David A.",
         "instructors": [
           "Barner, David A."
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

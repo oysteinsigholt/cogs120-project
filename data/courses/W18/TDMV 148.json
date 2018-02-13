@@ -3,30 +3,12 @@
   "name": "Intermediate Hip Hop",
   "department": "TDMV",
   "id": "148",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920474",
-      "type": "ST",
-      "section": "A00",
-      "days": "MW",
-      "time": "10:00a-11:50a",
-      "building": "DANCE",
-      "room": "3",
-      "instructor": "Jun, Grace Shin Hae",
-      "instructors": [
-        "Jun, Grace Shin Hae"
-      ],
-      "start_time": "10:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "360889ec94c64f977c3e62e8d19c20a28526ad2f1f95c6fbce8c7b32eaf44bdf": {
         "sectxt": true,
         "sectionID": "920474",
         "type": "ST",
@@ -35,17 +17,15 @@
         "time": "10:00a-11:50a",
         "building": "DANCE",
         "room": "3",
-        "instructor": "Jun, Grace Shin Hae",
         "instructors": [
           "Jun, Grace Shin Hae"
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "57c0af53b7e74cddaa4ec68d45f66d4a0afc725048308b4899dbf27d9374a72e": {
         "sectxt": true,
         "sectionID": "920474",
         "type": "ST",
@@ -54,17 +34,15 @@
         "time": "10:00a-11:50a",
         "building": "DANCE",
         "room": "3",
-        "instructor": "Jun, Grace Shin Hae",
         "instructors": [
           "Jun, Grace Shin Hae"
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

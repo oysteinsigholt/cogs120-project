@@ -3,32 +3,14 @@
   "name": "Directed Group Study",
   "department": "MAE",
   "id": "198",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930659",
-      "type": "TU",
-      "section": "A00",
-      "days": "MTh",
-      "time": "5:30p-6:50p",
-      "building": "EBU2",
-      "room": "305",
-      "instructor": "de Oliveira, Mauricio",
-      "instructors": [
-        "de Oliveira, Mauricio"
-      ],
-      "start_time": "17:30",
-      "end_time": "18:50"
-    }
-  ],
   "notes": [
     "Title: Introduction to Autonomous Vehicles. Interested\n students should apply through the Google form\n application: https://goo.gl/forms/bb0gWxrcGv6bhnCq1"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "03d22d1f0b52851611289e8f9628881a446f99b34ef1698133afc0a6a2faba5d": {
         "sectxt": true,
         "sectionID": "930659",
         "type": "TU",
@@ -37,18 +19,15 @@
         "time": "5:30p-6:50p",
         "building": "EBU2",
         "room": "305",
-        "instructor": "de Oliveira, Mauricio",
         "instructors": [
           "de Oliveira, Mauricio"
         ],
         "start_time": "17:30",
         "end_time": "18:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "e4e1392533174ba5c87324f595a58d0083fb012e725413f8084847fdb40d31e4": {
         "sectxt": true,
         "sectionID": "930659",
         "type": "TU",
@@ -57,16 +36,15 @@
         "time": "5:30p-6:50p",
         "building": "EBU2",
         "room": "305",
-        "instructor": "de Oliveira, Mauricio",
         "instructors": [
           "de Oliveira, Mauricio"
         ],
         "start_time": "17:30",
         "end_time": "18:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

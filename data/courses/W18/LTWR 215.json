@@ -3,30 +3,12 @@
   "name": "Cross-Genre Workshop",
   "department": "LTWR",
   "id": "215",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924410",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "2:00p-4:50p",
-      "building": "LIT",
-      "room": "237",
-      "instructor": "Forbes, Camille",
-      "instructors": [
-        "Forbes, Camille"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "181900874fd3b142099134e1d56b9e1e5b62ff9b846abbee77af5587cd3105ed": {
         "sectxt": true,
         "sectionID": "924410",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "2:00p-4:50p",
         "building": "LIT",
         "room": "237",
-        "instructor": "Forbes, Camille",
         "instructors": [
           "Forbes, Camille"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

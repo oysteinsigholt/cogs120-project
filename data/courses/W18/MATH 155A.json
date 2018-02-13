@@ -3,89 +3,9 @@
   "name": "Geometric Computer Graphics",
   "department": "MATH",
   "id": "155A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "PETER",
-      "room": "103",
-      "instructor": "Buss, Samuel R",
-      "instructors": [
-        "Buss, Samuel R"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927183",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "8:00p-8:50p",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Buss, Samuel R",
-      "instructors": [
-        "Buss, Samuel R"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927184",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "9:00p-9:50p",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Buss, Samuel R",
-      "instructors": [
-        "Buss, Samuel R"
-      ],
-      "start_time": "21:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "03/05/2018",
-      "days": "M",
-      "time": "5:00p-6:20p",
-      "building": "YORK",
-      "room": "4080A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-05T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "077e1a38edd7cd7835fbfd646f5fc2015168513698fff5b2e299f6865304e6ae": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -94,13 +14,12 @@
       "time": "5:00p-6:20p",
       "building": "YORK",
       "room": "4080A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-05T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "18:20"
     },
-    {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -109,17 +28,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "8f5cd86a955748c71ed3b0524caeeb63a50a0e72fd21fc5f08d1756339b04ec5": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -128,14 +46,13 @@
         "time": "11:00a-11:50a",
         "building": "PETER",
         "room": "103",
-        "instructor": "Buss, Samuel R",
         "instructors": [
           "Buss, Samuel R"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "21da1608032522c7798fe8196e7f7f344b488ca1cee76a84c41c3cc620edb532": {
         "sectxt": true,
         "sectionID": "927183",
         "type": "DI",
@@ -144,14 +61,13 @@
         "time": "8:00p-8:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Buss, Samuel R",
         "instructors": [
           "Buss, Samuel R"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "bb500f37dd4124ee5b382a65643773c80d4b9e1178e8c77cffb3419bf03e2678": {
         "sectxt": true,
         "sectionID": "927184",
         "type": "DI",
@@ -160,17 +76,15 @@
         "time": "9:00p-9:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Buss, Samuel R",
         "instructors": [
           "Buss, Samuel R"
         ],
         "start_time": "21:00",
         "end_time": "21:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "74ea09cb3d01daba039901e3d18030194c0ce47fc0bd239b573a61ed455612f9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -179,17 +93,15 @@
         "time": "11:00a-11:50a",
         "building": "PETER",
         "room": "103",
-        "instructor": "Buss, Samuel R",
         "instructors": [
           "Buss, Samuel R"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "cb478914a4ec4bc4c62867dba462dc925b2849711db7c7bb7d18cd0442892921": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -198,15 +110,15 @@
         "time": "11:00a-11:50a",
         "building": "PETER",
         "room": "103",
-        "instructor": "Buss, Samuel R",
         "instructors": [
           "Buss, Samuel R"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

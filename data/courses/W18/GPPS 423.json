@@ -3,31 +3,12 @@
   "name": "Corp Social Responsibility",
   "department": "GPPS",
   "id": "423",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921723",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "6:30p-9:20p",
-      "building": "RBC",
-      "room": "GARDN",
-      "instructor": "Feinberg, Richard Edward",
-      "instructors": [
-        "Feinberg, Richard Edward"
-      ],
-      "start_time": "18:30",
-      "end_time": "21:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "17c46e87c146e479a3ae972e68428843017eaa92349342207ac05ab938934527": {
         "sectxt": true,
         "sectionID": "921723",
         "type": "LE",
@@ -36,18 +17,15 @@
         "time": "6:30p-9:20p",
         "building": "RBC",
         "room": "GARDN",
-        "instructor": "Feinberg, Richard Edward",
         "instructors": [
           "Feinberg, Richard Edward"
         ],
         "start_time": "18:30",
         "end_time": "21:20"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

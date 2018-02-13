@@ -3,56 +3,9 @@
   "name": "Optical Info Proces&Holography",
   "department": "ECE",
   "id": "184",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925089",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "5:00p-6:20p",
-      "building": "MANDE",
-      "room": "B-152",
-      "instructor": "Fainman, Yeshaiahu",
-      "instructors": [
-        "Fainman, Yeshaiahu"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Fainman, Yeshaiahu",
-      "instructors": [
-        "Fainman, Yeshaiahu"
-      ]
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -61,13 +14,12 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [
     {
       "sectxt": true,
@@ -78,15 +30,14 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Fainman, Yeshaiahu",
       "instructors": [
         "Fainman, Yeshaiahu"
       ]
     }
   ],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "7e2640a43adf5842d935f8601d01604e9d8aadaf6de9ae172ce35f3e9e7f7de2": {
         "sectxt": true,
         "sectionID": "925089",
         "type": "LE",
@@ -95,17 +46,15 @@
         "time": "5:00p-6:20p",
         "building": "MANDE",
         "room": "B-152",
-        "instructor": "Fainman, Yeshaiahu",
         "instructors": [
           "Fainman, Yeshaiahu"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "8ce76a49cb968a5ca10d5bb252eb60925f73e2eca83d97aceeb08b0e134f86f3": {
         "sectxt": true,
         "sectionID": "925089",
         "type": "LE",
@@ -114,17 +63,15 @@
         "time": "5:00p-6:20p",
         "building": "MANDE",
         "room": "B-152",
-        "instructor": "Fainman, Yeshaiahu",
         "instructors": [
           "Fainman, Yeshaiahu"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

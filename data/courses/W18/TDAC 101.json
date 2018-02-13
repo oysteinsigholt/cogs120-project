@@ -3,31 +3,29 @@
   "name": "Acting I",
   "department": "TDAC",
   "id": "101",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920362",
-      "type": "ST",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "10:00a-11:50a",
-      "building": "GH",
-      "room": "170",
-      "instructor": "Walsh, Kim C.",
-      "instructors": [
-        "Walsh, Kim C."
-      ],
-      "start_time": "10:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "299c16979cbe0dd4c98e614e45e6c7e73590693bf97ae18795742fe5324a4ee6": {
+        "sectxt": true,
+        "sectionID": "920361",
+        "type": "ST",
+        "section": "A00",
+        "days": "MW",
+        "time": "9:00a-10:50a",
+        "building": "GH",
+        "room": "247",
+        "instructors": [
+          "Salovey, Todd"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:50"
+      }
+    },
+    "Tu": {
+      "f8f36e80e723f2185cec44accd0b3ef1dd19d4ed99783a399ad81001b71eaf09": {
         "sectxt": true,
         "sectionID": "920362",
         "type": "ST",
@@ -36,17 +34,32 @@
         "time": "10:00a-11:50a",
         "building": "GH",
         "room": "170",
-        "instructor": "Walsh, Kim C.",
         "instructors": [
           "Walsh, Kim C."
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "W": {
+      "b230cd245911b6bd6cb23e6bc1cee97012b5ceef1b3e36ef2b25f51518466df3": {
+        "sectxt": true,
+        "sectionID": "920361",
+        "type": "ST",
+        "section": "A00",
+        "days": "MW",
+        "time": "9:00a-10:50a",
+        "building": "GH",
+        "room": "247",
+        "instructors": [
+          "Salovey, Todd"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:50"
+      }
+    },
+    "Th": {
+      "6c29a2d8e4545fb3893a73e17a3e4d9f35e36e60af751c62bc239d397b575e94": {
         "sectxt": true,
         "sectionID": "920362",
         "type": "ST",
@@ -55,16 +68,16 @@
         "time": "10:00a-11:50a",
         "building": "GH",
         "room": "170",
-        "instructor": "Walsh, Kim C.",
         "instructors": [
           "Walsh, Kim C."
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

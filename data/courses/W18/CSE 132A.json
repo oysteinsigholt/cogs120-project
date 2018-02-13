@@ -3,73 +3,9 @@
   "name": "Database System Principles",
   "department": "CSE",
   "id": "132A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "5:00p-6:20p",
-      "building": "CENTR",
-      "room": "115",
-      "instructor": "Vianu, Victor Dan",
-      "instructors": [
-        "Vianu, Victor Dan"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927511",
-      "type": "DI",
-      "section": "A01",
-      "days": "F",
-      "time": "4:00p-4:50p",
-      "building": "PCYNH",
-      "room": "106",
-      "instructor": "Vianu, Victor Dan",
-      "instructors": [
-        "Vianu, Victor Dan"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/14/2018",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "PCYNH",
-      "room": "109",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-14T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e1ccaf8d1fe4339f80193948eb91b87edc2798c1b4ed0f4b58e17af315e17a65": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -78,13 +14,12 @@
       "time": "4:00p-4:50p",
       "building": "PCYNH",
       "room": "109",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-14T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -93,18 +28,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "503eae0a8858b7b329809768e5967230ac8000e953deadca9a39203641302192": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -113,17 +46,15 @@
         "time": "5:00p-6:20p",
         "building": "CENTR",
         "room": "115",
-        "instructor": "Vianu, Victor Dan",
         "instructors": [
           "Vianu, Victor Dan"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "ad10dc80025b6fae88a6e6bd4b3bc62f48725a5778aa49de4dbf9e9ef718c058": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -132,16 +63,15 @@
         "time": "5:00p-6:20p",
         "building": "CENTR",
         "room": "115",
-        "instructor": "Vianu, Victor Dan",
         "instructors": [
           "Vianu, Victor Dan"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "51f9ab85c6e79f4c31c65b4a182015a57667e0693817584d681053ad31106942": {
         "sectxt": true,
         "sectionID": "927511",
         "type": "DI",
@@ -150,15 +80,15 @@
         "time": "4:00p-4:50p",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Vianu, Victor Dan",
         "instructors": [
           "Vianu, Victor Dan"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

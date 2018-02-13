@@ -3,34 +3,32 @@
   "name": "Skills",
   "department": "TDGR",
   "id": "239",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920400",
-      "type": "ST",
-      "section": "B00",
-      "days": "W",
-      "time": "2:00p-3:50p",
-      "building": "GH",
-      "room": "23",
-      "instructor": "Meyer, Ursula",
-      "instructors": [
-        "Meyer, Ursula"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [
+    "Dance",
     "Alexander Technique"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "Tu": {
+      "1406e5cdb6c76f2820d4c77c858a60c2bf73b919539a05225a527b7d875064f0": {
+        "sectxt": true,
+        "sectionID": "920399",
+        "type": "ST",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "3:00p-4:20p",
+        "building": "GH",
+        "room": "23",
+        "instructors": [
+          "Caligagan, Maria T."
+        ],
+        "start_time": "15:00",
+        "end_time": "16:20"
+      }
+    },
+    "W": {
+      "635999a2e81c5897386446e44299d0a62ff2b39729996cce35cafaaab52f6d2c": {
         "sectxt": true,
         "sectionID": "920400",
         "type": "ST",
@@ -39,17 +37,51 @@
         "time": "2:00p-3:50p",
         "building": "GH",
         "room": "23",
-        "instructor": "Meyer, Ursula",
         "instructors": [
           "Meyer, Ursula"
         ],
         "start_time": "14:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "Th": {
+      "28d5d4bc762a88f504bee2a1f44027c82ebfcee05b7a70822b5a0aec680ad35a": {
+        "sectxt": true,
+        "sectionID": "920399",
+        "type": "ST",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "3:00p-4:20p",
+        "building": "GH",
+        "room": "23",
+        "instructors": [
+          "Caligagan, Maria T."
+        ],
+        "start_time": "15:00",
+        "end_time": "16:20"
+      }
+    },
+    "F": {
+      "8aa8219f366bd15197afd13fecd819101665dcf333fde0d4d38057dca1c81c61": {
+        "sectxt": true,
+        "sectionID": "920401",
+        "type": "ST",
+        "section": "C00",
+        "days": "F",
+        "time": "1:30p-4:20p",
+        "building": "GH",
+        "room": "23",
+        "instructors": [
+          "Troberman, Eileen"
+        ],
+        "start_time": "13:30",
+        "end_time": "16:20"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

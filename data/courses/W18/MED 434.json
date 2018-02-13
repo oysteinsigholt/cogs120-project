@@ -3,24 +3,8 @@
   "name": "Intl Med Primary Care Clerkshp",
   "department": "MED",
   "id": "434",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928478",
-      "type": "CL",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Huang, Yun-San",
-      "instructors": [
-        "Huang, Yun-San"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Huang, Yun-San",
       "instructors": [
         "Huang, Yun-San"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

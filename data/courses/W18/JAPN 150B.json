@@ -3,42 +3,9 @@
   "name": "Advanced Japanese II",
   "department": "JAPN",
   "id": "150B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921029",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "SOLIS",
-      "room": "110",
-      "instructor": "Simpson, Junko Tokuda",
-      "instructors": [
-        "Simpson, Junko Tokuda"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "d108415d8e0f63434c300110ac9e576f86646459d6651f8739525fcac9717ef5": {
         "sectxt": true,
         "sectionID": "921029",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "2:00p-3:20p",
         "building": "SOLIS",
         "room": "110",
-        "instructor": "Simpson, Junko Tokuda",
         "instructors": [
           "Simpson, Junko Tokuda"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f2f5198efc1993183e4e8948291b55bf8017b213d5442d370fa35265e0e2d474": {
         "sectxt": true,
         "sectionID": "921029",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "2:00p-3:20p",
         "building": "SOLIS",
         "room": "110",
-        "instructor": "Simpson, Junko Tokuda",
         "instructors": [
           "Simpson, Junko Tokuda"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

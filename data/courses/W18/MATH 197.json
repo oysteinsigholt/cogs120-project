@@ -3,27 +3,50 @@
   "name": "Mathematics Internship",
   "department": "MATH",
   "id": "197",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "936564",
-      "type": "IN",
-      "section": "004",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Foster, Carroll Baldwin",
-      "instructors": [
-        "Foster, Carroll Baldwin"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "927273",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Kedlaya, Kiran S."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "931824",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Bucur, Alina Ioana"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "935700",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Arias-Castro, Ery"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "936564",
       "type": "IN",
       "section": "004",
@@ -31,19 +54,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Foster, Carroll Baldwin",
       "instructors": [
         "Foster, Carroll Baldwin"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

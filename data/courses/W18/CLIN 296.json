@@ -3,24 +3,8 @@
   "name": "Independent Study",
   "department": "CLIN",
   "id": "296",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "919324",
-      "type": "IN",
-      "section": "001",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Heaton, Robert K",
-      "instructors": [
-        "Heaton, Robert K"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Heaton, Robert K",
       "instructors": [
         "Heaton, Robert K"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

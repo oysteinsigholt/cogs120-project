@@ -3,58 +3,9 @@
   "name": "Brain Disorders and Cognition",
   "department": "COGS",
   "id": "172",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "PETER",
-      "room": "104",
-      "instructor": "Saygin, Ayse P",
-      "instructors": [
-        "Saygin, Ayse P"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925592",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "PETER",
-      "room": "104",
-      "instructor": "Saygin, Ayse P",
-      "instructors": [
-        "Saygin, Ayse P"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "8987b7af87d847c623f8d9e86e86f1d582c28de0cd3bc163ae563b429ae225f9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -83,16 +32,15 @@
         "time": "2:00p-3:20p",
         "building": "PETER",
         "room": "104",
-        "instructor": "Saygin, Ayse P",
         "instructors": [
           "Saygin, Ayse P"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "8f7a8d9eaa884aa5db240559223a9fae6151a69e4dee9da2dff5ce5a416b546e": {
         "sectxt": true,
         "sectionID": "925592",
         "type": "DI",
@@ -101,16 +49,15 @@
         "time": "5:00p-5:50p",
         "building": "PETER",
         "room": "104",
-        "instructor": "Saygin, Ayse P",
         "instructors": [
           "Saygin, Ayse P"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "126816888d61f914f97a4cf223b36ae2f29f5df8aa68f3942a0e9370bddbed90": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -119,16 +66,15 @@
         "time": "2:00p-3:20p",
         "building": "PETER",
         "room": "104",
-        "instructor": "Saygin, Ayse P",
         "instructors": [
           "Saygin, Ayse P"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

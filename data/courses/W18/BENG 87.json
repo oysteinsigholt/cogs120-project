@@ -3,34 +3,30 @@
   "name": "Freshman Seminar",
   "department": "BENG",
   "id": "87",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930509",
-      "type": "SE",
-      "section": "B00",
-      "days": "W",
-      "time": "11:00a-11:50a",
-      "building": "PFBH",
-      "room": "391",
-      "instructor": "Engler, Adam J.",
-      "instructors": [
-        "Engler, Adam J."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [
+    "Dates: 1/10, 1/17, 1/24, 1/31, 2/7, 2/14, 2/21 2/28",
     "Dates: 1/17, 1/31, 2/7, 2/14, 2/21, 2/28, 3/7, and 3/14"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "a099dc93dd9b9384ba96116cfbb6851afa7b18257cb0b4e333cf20d7a6879a3d": {
+        "sectxt": true,
+        "sectionID": "930508",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "12:00p-12:50p",
+        "building": "PFBH",
+        "room": "291",
+        "instructors": [
+          "Gough, David A."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "818c1e5245cd87aef0bc9871394f0964ce6dfa3200a62fdbf3f4b56a7fe71724": {
         "sectxt": true,
         "sectionID": "930509",
         "type": "SE",
@@ -39,17 +35,16 @@
         "time": "11:00a-11:50a",
         "building": "PFBH",
         "room": "391",
-        "instructor": "Engler, Adam J.",
         "instructors": [
           "Engler, Adam J."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

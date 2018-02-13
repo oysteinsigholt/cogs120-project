@@ -3,42 +3,9 @@
   "name": "Gender and Work",
   "department": "SOCI",
   "id": "132",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923193",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "WLH",
-      "room": "2207",
-      "instructor": "Blair-Loy, Mary",
-      "instructors": [
-        "Blair-Loy, Mary"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "eaf7d7baa9e27a99e9c29a3d699babdeddc2ca6b708481487c2be4957e2935b6": {
         "sectxt": true,
         "sectionID": "923193",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "2:00p-3:20p",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Blair-Loy, Mary",
         "instructors": [
           "Blair-Loy, Mary"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "88b805e29e0ae5ff5f47f48867c8b746602c8076aaff0aff1fd675f073760fc0": {
         "sectxt": true,
         "sectionID": "923193",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "2:00p-3:20p",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Blair-Loy, Mary",
         "instructors": [
           "Blair-Loy, Mary"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

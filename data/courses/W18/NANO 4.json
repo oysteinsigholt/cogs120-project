@@ -3,49 +3,93 @@
   "name": "Experience NanoEngineering",
   "department": "NANO",
   "id": "4",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "D00",
-      "days": "Th",
-      "time": "4:00p-4:50p",
-      "building": "SME",
-      "room": "302",
-      "instructor": "Xu, Sheng",
-      "instructors": [
-        "Xu, Sheng"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926730",
-      "type": "LA",
-      "section": "D01",
-      "days": "Th",
-      "time": "5:00p-6:50p",
-      "building": "SME",
-      "room": "302",
-      "instructor": "Xu, Sheng",
-      "instructors": [
-        "Xu, Sheng"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "M": {
+      "827d8e61b0be564cefe3242e8ded91bf3b54cd405249ba4e71bd8ae53b45dd4d": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "4:00p-4:50p",
+        "building": "SME",
+        "room": "302",
+        "instructors": [
+          "Vazquez Mena, Oscar"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "b04a28858fda92cbf67cd39ca4e1b36a5bcbe1a178bd58613d6c4e0949629c2a": {
+        "sectxt": true,
+        "sectionID": "926724",
+        "type": "LA",
+        "section": "A01",
+        "days": "M",
+        "time": "5:00p-6:50p",
+        "building": "SME",
+        "room": "302",
+        "instructors": [
+          "Vazquez Mena, Oscar"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:50"
+      }
+    },
+    "Tu": {
+      "c479fc230c29d01f0899a2b15928cfd97bec5639a68c4b3464a3aec9a52be9ea": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "Tu",
+        "time": "4:00p-4:50p",
+        "building": "SME",
+        "room": "302",
+        "instructors": [
+          "Xu, Sheng"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "5ff08ed4610e09bc59d17a17e03a46dabcce3aef38fe6b718e6f2c267fe82603": {
+        "sectxt": true,
+        "sectionID": "926728",
+        "type": "LA",
+        "section": "C01",
+        "days": "Tu",
+        "time": "5:00p-6:50p",
+        "building": "SME",
+        "room": "302",
+        "instructors": [
+          "Xu, Sheng"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:50"
+      }
+    },
+    "W": {
+      "27e76ff277a7598df5fc63577410ebd41c747b50a8bfb4bd4285fd9f0310a9aa": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "W",
+        "time": "4:00p-4:50p",
+        "building": "SME",
+        "room": "302",
+        "instructors": [
+          "Vazquez Mena, Oscar"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    },
+    "Th": {
+      "96bb16cb413f92ef83c97a6ae41a8c15e6a10e5f49672681f8657a29362a82bb": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -54,14 +98,13 @@
         "time": "4:00p-4:50p",
         "building": "SME",
         "room": "302",
-        "instructor": "Xu, Sheng",
         "instructors": [
           "Xu, Sheng"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "d485f873deab875cf6de888053d51a2019eb16e86e8d86844743ab9e947fb2c3": {
         "sectxt": true,
         "sectionID": "926730",
         "type": "LA",
@@ -70,16 +113,18 @@
         "time": "5:00p-6:50p",
         "building": "SME",
         "room": "302",
-        "instructor": "Xu, Sheng",
         "instructors": [
           "Xu, Sheng"
         ],
         "start_time": "17:00",
         "end_time": "18:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
 }

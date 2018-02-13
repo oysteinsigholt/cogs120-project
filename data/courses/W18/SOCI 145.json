@@ -3,42 +3,9 @@
   "name": "Violence and Society",
   "department": "SOCI",
   "id": "145",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929168",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "PETER",
-      "room": "104",
-      "instructor": "Tirshfield, Jeffrey T",
-      "instructors": [
-        "Tirshfield, Jeffrey T"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1682aa1809301eff1a7628d44d187406d8941421e6e853571571df0356fd8796": {
         "sectxt": true,
         "sectionID": "929168",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "2:00p-2:50p",
         "building": "PETER",
         "room": "104",
-        "instructor": "Tirshfield, Jeffrey T",
         "instructors": [
           "Tirshfield, Jeffrey T"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "32bdfdd54b096578e12bdd93d3d4bead306e00c077f859fa0b2f69f192da5329": {
         "sectxt": true,
         "sectionID": "929168",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "2:00p-2:50p",
         "building": "PETER",
         "room": "104",
-        "instructor": "Tirshfield, Jeffrey T",
         "instructors": [
           "Tirshfield, Jeffrey T"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "eb2589fdc017e8c5c36f49a260676814ef38f6dee91554bce12c489c6e24847a": {
         "sectxt": true,
         "sectionID": "929168",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "2:00p-2:50p",
         "building": "PETER",
         "room": "104",
-        "instructor": "Tirshfield, Jeffrey T",
         "instructors": [
           "Tirshfield, Jeffrey T"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

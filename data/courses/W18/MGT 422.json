@@ -3,42 +3,9 @@
   "name": "Creativity & Innovation",
   "department": "MGT",
   "id": "422",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930368",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "6:30p-9:30p",
-      "building": "OTRSN",
-      "room": "3E107",
-      "instructor": "Mc Kenzie, Craig R.M.",
-      "instructors": [
-        "Mc Kenzie, Craig R.M."
-      ],
-      "start_time": "18:30",
-      "end_time": "21:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "6:30p-9:30p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "18:30",
-      "end_time": "21:30"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e17e87055582fbdd840bd2a83ac199a49c5113c54880e6c5047b2e989944187a": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,19 +14,16 @@
       "time": "6:30p-9:30p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "18:30",
       "end_time": "21:30"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "8bba7ea3e051ee55626fb6785783036b65d2cc0f84718a0528201d16122bf43b": {
         "sectxt": true,
         "sectionID": "930368",
         "type": "LE",
@@ -68,17 +32,15 @@
         "time": "6:30p-9:30p",
         "building": "OTRSN",
         "room": "3E107",
-        "instructor": "Mc Kenzie, Craig R.M.",
         "instructors": [
           "Mc Kenzie, Craig R.M."
         ],
         "start_time": "18:30",
         "end_time": "21:30"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

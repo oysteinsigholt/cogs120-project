@@ -3,31 +3,42 @@
   "name": "Playwriting Workshop I",
   "department": "TDPW",
   "id": "101",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922710",
-      "type": "LA",
-      "section": "D00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "YORK",
-      "room": "4060A",
-      "instructor": "Havis, Allan",
-      "instructors": [
-        "Havis, Allan"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "f38a47a6553caccb291adbc8ae3486d7a3d70a5400a04b2c5e03c0f984bc73b3": {
+        "sectxt": true,
+        "sectionID": "922707",
+        "type": "LA",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "YORK",
+        "room": "4060A",
+        "instructors": [
+          "Havis, Allan"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "cd8a5631eb2b3b9360653a7a512336cca7e438077053a58aec9a219b1696505f": {
+        "sectxt": true,
+        "sectionID": "922709",
+        "type": "LA",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "YORK",
+        "room": "4060A",
+        "instructors": [
+          "Havis, Allan"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "8b58ed86b76e07b883076d78c0b697b0829a346bf14c402ec9cb2164c6251f51": {
         "sectxt": true,
         "sectionID": "922710",
         "type": "LA",
@@ -36,17 +47,45 @@
         "time": "12:30p-1:50p",
         "building": "YORK",
         "room": "4060A",
-        "instructor": "Havis, Allan",
         "instructors": [
           "Havis, Allan"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "4221f842553b0035580fb5a2b6a9db54b9e35e064e3e8834a251fa55939f1c62": {
+        "sectxt": true,
+        "sectionID": "922707",
+        "type": "LA",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "YORK",
+        "room": "4060A",
+        "instructors": [
+          "Havis, Allan"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "a980659c34879feb6966de1d2f7a4454e4e8d3f584c9b4a27a10e7e564003db0": {
+        "sectxt": true,
+        "sectionID": "922709",
+        "type": "LA",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "YORK",
+        "room": "4060A",
+        "instructors": [
+          "Havis, Allan"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "cd05c91cac9bfb72dd6eb4152e9ef074a3f65a43262baefb4b6f0aae04ee74a9": {
         "sectxt": true,
         "sectionID": "922710",
         "type": "LA",
@@ -55,16 +94,17 @@
         "time": "12:30p-1:50p",
         "building": "YORK",
         "room": "4060A",
-        "instructor": "Havis, Allan",
         "instructors": [
           "Havis, Allan"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "C",
+    "D"
+  ]
 }

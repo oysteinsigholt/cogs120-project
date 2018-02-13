@@ -3,31 +3,12 @@
   "name": "Revelle Honors Seminar",
   "department": "REV",
   "id": "20",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "919337",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "3:30p-4:50p",
-      "building": "RVCOM",
-      "room": "FORML",
-      "instructor": "Yu, Paul K L",
-      "instructors": [
-        "Yu, Paul K L"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "585ac94183e99654fbe3ddec1a629b8931c8abd5c9035db1458244c1850478d1": {
         "sectxt": true,
         "sectionID": "919337",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "3:30p-4:50p",
         "building": "RVCOM",
         "room": "FORML",
-        "instructor": "Yu, Paul K L",
         "instructors": [
           "Yu, Paul K L"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

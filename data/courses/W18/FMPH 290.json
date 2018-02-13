@@ -3,30 +3,12 @@
   "name": "Biostat Journal Club & Seminar",
   "department": "FMPH",
   "id": "290",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930096",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "3:00p-5:00p",
-      "building": "MET",
-      "room": "203",
-      "instructor": "Thompson, Wesley Kurt",
-      "instructors": [
-        "Thompson, Wesley Kurt"
-      ],
-      "start_time": "15:00",
-      "end_time": "17:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "c1a3846be869d58cf4f821a3049a1b9111780b67628a729a51bdd0e2fcb2f479": {
         "sectxt": true,
         "sectionID": "930096",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "3:00p-5:00p",
         "building": "MET",
         "room": "203",
-        "instructor": "Thompson, Wesley Kurt",
         "instructors": [
           "Thompson, Wesley Kurt"
         ],
         "start_time": "15:00",
         "end_time": "17:00"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

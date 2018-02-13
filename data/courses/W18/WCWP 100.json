@@ -3,31 +3,104 @@
   "name": "Academic Writing",
   "department": "WCWP",
   "id": "100",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920304",
-      "type": "LE",
-      "section": "G00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "SSB",
-      "room": "106",
-      "instructor": "Young, Mark T",
-      "instructors": [
-        "Young, Mark T"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "1844bd356b6e7a6048ad1a7989c3877a0f0baf46fdad086daceb1aa452879d84": {
+        "sectxt": true,
+        "sectionID": "920301",
+        "type": "LE",
+        "section": "D00",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "McCleary, Keith Long"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "0eac7067e984415e5d7449c7d22c872076832b3cb80466295818f26e37aaf0f8": {
+        "sectxt": true,
+        "sectionID": "920302",
+        "type": "LE",
+        "section": "E00",
+        "days": "MW",
+        "time": "3:30p-4:50p",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "McCleary, Keith Long"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "1f94bc2813567a7bc0d63000693566df7d173b844a8249f9378a3be1f4b15b9e": {
+        "sectxt": true,
+        "sectionID": "920303",
+        "type": "LE",
+        "section": "F00",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "McCleary, Keith Long"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    },
+    "Tu": {
+      "620f384d3d2553825ef21ed5a6e3a112b0a527bd70f33067ffeac0caff6a8c99": {
+        "sectxt": true,
+        "sectionID": "920298",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "Blomstedt, Elizabeth Ann"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "9cf8a0693eb3d8d0a512fbbc0a4679bd92444f8184f3b753ef74ad3a3bf343d0": {
+        "sectxt": true,
+        "sectionID": "920299",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "Young, Mark T"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "2bbbdc4ee971b3caa40a4d91dc29b2b4a3abd596a620bcf12cebfdc5e8a43f4f": {
+        "sectxt": true,
+        "sectionID": "920300",
+        "type": "LE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "Young, Mark T"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "e51827a4ff5f01239829ef6904217da44ccd49ec4c43969b12dec507920a056f": {
         "sectxt": true,
         "sectionID": "920304",
         "type": "LE",
@@ -36,17 +109,107 @@
         "time": "2:00p-3:20p",
         "building": "SSB",
         "room": "106",
-        "instructor": "Young, Mark T",
         "instructors": [
           "Young, Mark T"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "W": {
+      "86a6adbe1fc4d9fc6af22b1de7681034329e12770622c02d2a7da95d1550811e": {
+        "sectxt": true,
+        "sectionID": "920301",
+        "type": "LE",
+        "section": "D00",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "McCleary, Keith Long"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "13e90480cef5ea952174d80630c9773a6ca57fcc8edddf1a7ae9ddbbcde679ad": {
+        "sectxt": true,
+        "sectionID": "920302",
+        "type": "LE",
+        "section": "E00",
+        "days": "MW",
+        "time": "3:30p-4:50p",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "McCleary, Keith Long"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "eaf41f7445c44ddd73fbbd2ea74e221143e60da7d77dc0ecbbdb3fe32a333a7b": {
+        "sectxt": true,
+        "sectionID": "920303",
+        "type": "LE",
+        "section": "F00",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "McCleary, Keith Long"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    },
+    "Th": {
+      "002bf8fa7ac47bf3dc5bd98d63253ef147e31eb3277759f14352142806a52b71": {
+        "sectxt": true,
+        "sectionID": "920298",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "Blomstedt, Elizabeth Ann"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "6e9d5eaadc0f98b4581bfe27bf75d09026490c81f490a357460de961c9a72948": {
+        "sectxt": true,
+        "sectionID": "920299",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "Young, Mark T"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "8f165f9e0e4513a43296c9b125a0d716ef32d8b8981d528140937a266895eb01": {
+        "sectxt": true,
+        "sectionID": "920300",
+        "type": "LE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "Young, Mark T"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "0c28f691893929891dbbdded2c79232b86adf30d1c18d7b48375a5a4e08cf75a": {
         "sectxt": true,
         "sectionID": "920304",
         "type": "LE",
@@ -55,16 +218,21 @@
         "time": "2:00p-3:20p",
         "building": "SSB",
         "room": "106",
-        "instructor": "Young, Mark T",
         "instructors": [
           "Young, Mark T"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G"
+  ]
 }

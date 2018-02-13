@@ -3,138 +3,23 @@
   "name": "Calculus III",
   "department": "MATH",
   "id": "10C",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "12:00p-12:50p",
-      "building": "CENTR",
-      "room": "115",
-      "instructor": "Lamel, Bernhard R",
-      "instructors": [
-        "Lamel, Bernhard R"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926837",
-      "type": "DI",
-      "section": "B01",
-      "days": "Th",
-      "time": "8:00a-8:50a",
-      "building": "APM",
-      "room": "5402",
-      "instructor": "Lamel, Bernhard R",
-      "instructors": [
-        "Lamel, Bernhard R"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926838",
-      "type": "DI",
-      "section": "B02",
-      "days": "Th",
-      "time": "9:00a-9:50a",
-      "building": "APM",
-      "room": "5402",
-      "instructor": "Lamel, Bernhard R",
-      "instructors": [
-        "Lamel, Bernhard R"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926839",
-      "type": "DI",
-      "section": "B03",
-      "days": "Th",
-      "time": "6:00p-6:50p",
-      "building": "HSS",
-      "room": "1315",
-      "instructor": "Lamel, Bernhard R",
-      "instructors": [
-        "Lamel, Bernhard R"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926840",
-      "type": "DI",
-      "section": "B04",
-      "days": "Th",
-      "time": "7:00p-7:50p",
-      "building": "HSS",
-      "room": "1315",
-      "instructor": "Lamel, Bernhard R",
-      "instructors": [
-        "Lamel, Bernhard R"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926841",
-      "type": "DI",
-      "section": "B05",
-      "days": "Th",
-      "time": "8:00p-8:50p",
-      "building": "HSS",
-      "room": "1315",
-      "instructor": "Lamel, Bernhard R",
-      "instructors": [
-        "Lamel, Bernhard R"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926842",
-      "type": "DI",
-      "section": "B06",
-      "days": "Th",
-      "time": "9:00p-9:50p",
-      "building": "HSS",
-      "room": "1315",
-      "instructor": "Lamel, Bernhard R",
-      "instructors": [
-        "Lamel, Bernhard R"
-      ],
-      "start_time": "21:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -143,17 +28,31 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1866918a9e827ca2246c3cdc0800ca8cab9d14fcb63d242959828782dc5e03cc": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "PCYNH",
+        "room": "106",
+        "instructors": [
+          "Szypowski, Ryan S."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "74565c9c0c61347b8ce87f2733cf6296cab8cdd2ce1e890300a60cf208986781": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -162,17 +61,30 @@
         "time": "12:00p-12:50p",
         "building": "CENTR",
         "room": "115",
-        "instructor": "Lamel, Bernhard R",
         "instructors": [
           "Lamel, Bernhard R"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "664fb1192c899ad420c384f1035679fd9aa443bbe17868a3444009b2ce9ed2d0": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "PCYNH",
+        "room": "106",
+        "instructors": [
+          "Szypowski, Ryan S."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "ebd22827eabb3c1aa0b64c9aa6890f1e205e2a2026f9d1f61d888797ef761329": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -181,16 +93,105 @@
         "time": "12:00p-12:50p",
         "building": "CENTR",
         "room": "115",
-        "instructor": "Lamel, Bernhard R",
         "instructors": [
           "Lamel, Bernhard R"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "95d6e1c5b6139bfb6ac78e6c601971616c3fc854f5e33f2a18208bd6b89782ba": {
+        "sectxt": true,
+        "sectionID": "926828",
+        "type": "DI",
+        "section": "A01",
+        "days": "Th",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Szypowski, Ryan S."
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "030cbfa7497ae48fc5b61c8d6ce560188e5fc65bb66d3a7caf7c4ca5c318f998": {
+        "sectxt": true,
+        "sectionID": "926829",
+        "type": "DI",
+        "section": "A02",
+        "days": "Th",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Szypowski, Ryan S."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "5ad45fde142c19270790c2fee11f851afa191e818149a6423434cc2bd863f99a": {
+        "sectxt": true,
+        "sectionID": "926830",
+        "type": "DI",
+        "section": "A03",
+        "days": "Th",
+        "time": "11:00a-11:50a",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Szypowski, Ryan S."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "f6db1c93b53ef422043e8a523fb3cf46d8ed57508d794588c89931893ba663e8": {
+        "sectxt": true,
+        "sectionID": "926831",
+        "type": "DI",
+        "section": "A04",
+        "days": "Th",
+        "time": "12:00p-12:50p",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Szypowski, Ryan S."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "1b7fce6c9bc413c40f93e50ef4abe8660a43a73eca6f1d3bfcc1109c5401e2f4": {
+        "sectxt": true,
+        "sectionID": "926832",
+        "type": "DI",
+        "section": "A05",
+        "days": "Th",
+        "time": "5:00p-5:50p",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Szypowski, Ryan S."
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "fcd5ba37dbe7c2adbf3c899ba244b039500812e07201352d2b40b6cf8d7c6fb1": {
+        "sectxt": true,
+        "sectionID": "926833",
+        "type": "DI",
+        "section": "A06",
+        "days": "Th",
+        "time": "6:00p-6:50p",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Szypowski, Ryan S."
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "04ec24a48fb4930bb88d00deb8b3087fc195d2b93d2046c5c0fe03ded8a9ada4": {
         "sectxt": true,
         "sectionID": "926837",
         "type": "DI",
@@ -199,14 +200,13 @@
         "time": "8:00a-8:50a",
         "building": "APM",
         "room": "5402",
-        "instructor": "Lamel, Bernhard R",
         "instructors": [
           "Lamel, Bernhard R"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "562e4bae754b84170b5e4ef0d2033d245772c18a2e6eb3f3a551321e300c32a4": {
         "sectxt": true,
         "sectionID": "926838",
         "type": "DI",
@@ -215,14 +215,13 @@
         "time": "9:00a-9:50a",
         "building": "APM",
         "room": "5402",
-        "instructor": "Lamel, Bernhard R",
         "instructors": [
           "Lamel, Bernhard R"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "307aa59d6eb3eb43efd7c62e89d8b5dff0338165563f3e7945a786fb0d89ad5e": {
         "sectxt": true,
         "sectionID": "926839",
         "type": "DI",
@@ -231,14 +230,13 @@
         "time": "6:00p-6:50p",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Lamel, Bernhard R",
         "instructors": [
           "Lamel, Bernhard R"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "9759f0469ff5f977babdd5f1930903be81095ca5c810ba023de22bd89b666a7c": {
         "sectxt": true,
         "sectionID": "926840",
         "type": "DI",
@@ -247,14 +245,13 @@
         "time": "7:00p-7:50p",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Lamel, Bernhard R",
         "instructors": [
           "Lamel, Bernhard R"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "ac10741cc4401c1b46943b05d61e146b6d71a49f2be474a0a2dc27a3ac1a0519": {
         "sectxt": true,
         "sectionID": "926841",
         "type": "DI",
@@ -263,14 +260,13 @@
         "time": "8:00p-8:50p",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Lamel, Bernhard R",
         "instructors": [
           "Lamel, Bernhard R"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "bf97e6f18c0ece14920a7c369ee70a6e9756d2e9e4317cca6bd112e59e9bd78d": {
         "sectxt": true,
         "sectionID": "926842",
         "type": "DI",
@@ -279,16 +275,30 @@
         "time": "9:00p-9:50p",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Lamel, Bernhard R",
         "instructors": [
           "Lamel, Bernhard R"
         ],
         "start_time": "21:00",
         "end_time": "21:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "e0c71401fe619db626c079241f95ffbc9af299dc6dba6b446063c58d72b82533": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "PCYNH",
+        "room": "106",
+        "instructors": [
+          "Szypowski, Ryan S."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "5b30d671bc5bbbd5286698c208fc12ffd5f70ca2538f842c45069a45ccd43990": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -297,15 +307,16 @@
         "time": "12:00p-12:50p",
         "building": "CENTR",
         "room": "115",
-        "instructor": "Lamel, Bernhard R",
         "instructors": [
           "Lamel, Bernhard R"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

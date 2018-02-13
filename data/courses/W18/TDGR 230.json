@@ -3,32 +3,29 @@
   "name": "Process III: Actors' Studio",
   "department": "TDGR",
   "id": "230",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920398",
-      "type": "LA",
-      "section": "B00",
-      "days": "W",
-      "time": "10:00a-12:50p",
-      "building": "GH",
-      "room": "155",
-      "instructor": "Chang, Jennifer M.",
-      "instructors": [
-        "Chang, Jennifer M."
-      ],
-      "start_time": "10:00",
-      "end_time": "12:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "M": {
+      "4007e56b05acaddfcfe8fdd224cee7a02e8563f9db0fff9cdafccc6a128fdf46": {
+        "sectxt": true,
+        "sectionID": "920397",
+        "type": "LA",
+        "section": "A00",
+        "days": "M",
+        "time": "10:00a-12:50p",
+        "building": "GH",
+        "room": "155",
+        "instructors": [
+          "Means, Charles E."
+        ],
+        "start_time": "10:00",
+        "end_time": "12:50"
+      }
+    },
+    "W": {
+      "6421b8a7b813a839f939ad16dc2c60223b7466720582b63241f475093923961c": {
         "sectxt": true,
         "sectionID": "920398",
         "type": "LA",
@@ -37,17 +34,16 @@
         "time": "10:00a-12:50p",
         "building": "GH",
         "room": "155",
-        "instructor": "Chang, Jennifer M.",
         "instructors": [
           "Chang, Jennifer M."
         ],
         "start_time": "10:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

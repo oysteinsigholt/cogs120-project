@@ -3,24 +3,8 @@
   "name": "Apprntice Teaching/Ethn Stdies",
   "department": "ETHN",
   "id": "500",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922672",
-      "type": "IN",
-      "section": "001",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Espiritu, Yen",
-      "instructors": [
-        "Espiritu, Yen"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Espiritu, Yen",
       "instructors": [
         "Espiritu, Yen"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

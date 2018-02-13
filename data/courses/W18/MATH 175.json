@@ -3,58 +3,9 @@
   "name": "Numerical Methods for PDE",
   "department": "MATH",
   "id": "175",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "3:00p-3:50p",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Bank, Randolph E",
-      "instructors": [
-        "Bank, Randolph E"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927213",
-      "type": "DI",
-      "section": "A01",
-      "days": "Tu",
-      "time": "10:00a-10:50a",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Bank, Randolph E",
-      "instructors": [
-        "Bank, Randolph E"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "d095058a3c5ca6878be2e5af45056c73925fc6945e80151eaa049f5fb0198342": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -82,16 +32,15 @@
         "time": "3:00p-3:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Bank, Randolph E",
         "instructors": [
           "Bank, Randolph E"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "95e09dffa8d6fed55f5e39179be88cd0cbe50bdd86c3667f763ffe615fddb2ac": {
         "sectxt": true,
         "sectionID": "927213",
         "type": "DI",
@@ -100,16 +49,15 @@
         "time": "10:00a-10:50a",
         "building": "APM",
         "room": "2402",
-        "instructor": "Bank, Randolph E",
         "instructors": [
           "Bank, Randolph E"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "79d74431070cb4a8eb869597224182097a4582db84061fe22372de2962a74f0b": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -118,17 +66,15 @@
         "time": "3:00p-3:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Bank, Randolph E",
         "instructors": [
           "Bank, Randolph E"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "4e9424c9c995e804cbb6cf63305e4e1abb14e40929e3015af5858fba1ddefc1b": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -137,15 +83,15 @@
         "time": "3:00p-3:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Bank, Randolph E",
         "instructors": [
           "Bank, Randolph E"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

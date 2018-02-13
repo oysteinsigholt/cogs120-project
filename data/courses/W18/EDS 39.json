@@ -3,40 +3,8 @@
   "name": "Prac/Sci&MathTeching/Learning",
   "department": "EDS",
   "id": "39",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "3:00p-4:50p",
-      "building": "PCYNH",
-      "room": "304",
-      "instructor": "Heinzman, Erica M.",
-      "instructors": [
-        "Heinzman, Erica M."
-      ],
-      "start_time": "15:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922463",
-      "type": "PR",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Heinzman, Erica M.",
-      "instructors": [
-        "Heinzman, Erica M."
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -47,18 +15,14 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Heinzman, Erica M.",
       "instructors": [
         "Heinzman, Erica M."
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "ae60e8366d1b8b5931f7bca363208ae42d06f5d79045887b8f01337143a6e5bd": {
         "sectxt": true,
         "sectionID": "",
         "type": "SE",
@@ -67,16 +31,15 @@
         "time": "3:00p-4:50p",
         "building": "PCYNH",
         "room": "304",
-        "instructor": "Heinzman, Erica M.",
         "instructors": [
           "Heinzman, Erica M."
         ],
         "start_time": "15:00",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

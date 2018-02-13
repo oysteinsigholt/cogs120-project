@@ -3,97 +3,209 @@
   "name": "Biology and Med of Exercise",
   "department": "BIPN",
   "id": "108",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926207",
-      "type": "DI",
-      "section": "A09",
-      "days": "Th",
-      "time": "7:00p-7:50p",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Hampton, Randolph Y.",
-      "instructors": [
-        "Hampton, Randolph Y."
-      ],
+  "notes": [],
+  "events_single": {
+    "17e8cfd93d6fcab25afa6792809fb26e2edfc03cc55d26bbd4719c166b4770bb": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MI",
+      "section": "02/07/2018",
+      "days": "W",
+      "time": "7:00p-8:50p",
+      "building": "WLH",
+      "room": "2001",
+      "instructors": [],
+      "date": "2018-02-07T08:00:00.000Z",
       "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926208",
-      "type": "DI",
-      "section": "A10",
-      "days": "Th",
-      "time": "8:00p-8:50p",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Hampton, Randolph Y.",
-      "instructors": [
-        "Hampton, Randolph Y."
-      ],
-      "start_time": "20:00",
       "end_time": "20:50"
     },
-    {
-      "sectxt": true,
-      "sectionID": "926209",
-      "type": "DI",
-      "section": "A11",
-      "days": "F",
-      "time": "8:00a-8:50a",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Hampton, Randolph Y.",
-      "instructors": [
-        "Hampton, Randolph Y."
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
+    "5ddf6560fb6a87ee626c8287c3fa3f07915f4e6a3769cd3ca0280d1d7cc042df": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MI",
+      "section": "03/14/2018",
+      "days": "W",
+      "time": "7:00p-8:50p",
+      "building": "WLH",
+      "room": "2001",
+      "instructors": [],
+      "date": "2018-03-14T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "20:50"
     },
-    {
-      "sectxt": true,
-      "sectionID": "926210",
-      "type": "DI",
-      "section": "A12",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Hampton, Randolph Y.",
-      "instructors": [
-        "Hampton, Randolph Y."
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930676",
-      "type": "DI",
-      "section": "A13",
-      "days": "F",
-      "time": "11:00a-11:50a",
-      "building": "CENTR",
-      "room": "218",
-      "instructor": "Hampton, Randolph Y.",
-      "instructors": [
-        "Hampton, Randolph Y."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
     }
-  ],
-  "notes": [],
-  "events_single": [],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "M": {
+      "874ee24124382ebc730307dcf68f1260ffc34d3fd83f6b2b4b29a980c8a41c23": {
+        "sectxt": true,
+        "sectionID": "926199",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "12:00p-12:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Hampton, Randolph Y."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "aae4dd48c47b92fda50fdeb5fb6f167fb602754275ce7881c0e5256dfd1df17d": {
+        "sectxt": true,
+        "sectionID": "926200",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "2150",
+        "instructors": [
+          "Hampton, Randolph Y."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "d27468b46887c497174cdb01289af64d8cb4ae82644e3590eba9c62d8b1de60d": {
+        "sectxt": true,
+        "sectionID": "926201",
+        "type": "DI",
+        "section": "A03",
+        "days": "M",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "2150",
+        "instructors": [
+          "Hampton, Randolph Y."
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "d5ee302424fd0a0c99b65e8ef4ec8710d4ebeb3f37a37933f76982737b4e94b0": {
+        "sectxt": true,
+        "sectionID": "926202",
+        "type": "DI",
+        "section": "A04",
+        "days": "M",
+        "time": "5:00p-5:50p",
+        "building": "HSS",
+        "room": "2150",
+        "instructors": [
+          "Hampton, Randolph Y."
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "df1359a2815c7911d8fe9e6f1a27281d82d0f7f89d74217afaf788bb6ea5ca48": {
+        "sectxt": true,
+        "sectionID": "926203",
+        "type": "DI",
+        "section": "A05",
+        "days": "M",
+        "time": "6:00p-6:50p",
+        "building": "HSS",
+        "room": "2150",
+        "instructors": [
+          "Hampton, Randolph Y."
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "7b93988ebdeb941533a76982efaec24d024ac9775159ca6d1cafeade67ce2ea7": {
+        "sectxt": true,
+        "sectionID": "926204",
+        "type": "DI",
+        "section": "A06",
+        "days": "M",
+        "time": "7:00p-7:50p",
+        "building": "HSS",
+        "room": "2150",
+        "instructors": [
+          "Hampton, Randolph Y."
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      }
+    },
+    "Tu": {
+      "503eae0a8858b7b329809768e5967230ac8000e953deadca9a39203641302192": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "GH",
+        "room": "242",
+        "instructors": [
+          "Hampton, Randolph Y."
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "af1ffca5a26bb3b4d9e884e5fc3d91d56e8d4414fd2a140ce352af4cbb3b95e9": {
+        "sectxt": true,
+        "sectionID": "926205",
+        "type": "DI",
+        "section": "A07",
+        "days": "Tu",
+        "time": "8:00a-8:50a",
+        "building": "CENTR",
+        "room": "207",
+        "instructors": [
+          "Hampton, Randolph Y."
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "3a071e286fa75ce36db78ced728f0b241296693614fde818bbfd208f4c3bcb2a": {
+        "sectxt": true,
+        "sectionID": "926206",
+        "type": "DI",
+        "section": "A08",
+        "days": "Tu",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "218",
+        "instructors": [
+          "Hampton, Randolph Y."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    },
+    "Th": {
+      "ad10dc80025b6fae88a6e6bd4b3bc62f48725a5778aa49de4dbf9e9ef718c058": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "GH",
+        "room": "242",
+        "instructors": [
+          "Hampton, Randolph Y."
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "1571c0efb0c29f6c9ad34f3c1f7993c5852d42c28e182d8ec4b8d4afcf7a4c10": {
         "sectxt": true,
         "sectionID": "926207",
         "type": "DI",
@@ -102,14 +214,13 @@
         "time": "7:00p-7:50p",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Hampton, Randolph Y.",
         "instructors": [
           "Hampton, Randolph Y."
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "2acf75da9da482cf3539edcbaa1a40339fd4068300095513990f6820dd71f71e": {
         "sectxt": true,
         "sectionID": "926208",
         "type": "DI",
@@ -118,16 +229,15 @@
         "time": "8:00p-8:50p",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Hampton, Randolph Y.",
         "instructors": [
           "Hampton, Randolph Y."
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "60a6f3a2aa76ccb1c07083949c0d2356e720af71debad55bbc610b3a774372fb": {
         "sectxt": true,
         "sectionID": "926209",
         "type": "DI",
@@ -136,14 +246,13 @@
         "time": "8:00a-8:50a",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Hampton, Randolph Y.",
         "instructors": [
           "Hampton, Randolph Y."
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "24e332c3f82729a6c96fbea9edf94b25f91383c02f0f1451d79750465e294189": {
         "sectxt": true,
         "sectionID": "926210",
         "type": "DI",
@@ -152,14 +261,13 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Hampton, Randolph Y.",
         "instructors": [
           "Hampton, Randolph Y."
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "b1bacf7a7e0133db4b4ed21f5a37b68ea53631dba2bf119122c7be193b5e995d": {
         "sectxt": true,
         "sectionID": "930676",
         "type": "DI",
@@ -168,15 +276,15 @@
         "time": "11:00a-11:50a",
         "building": "CENTR",
         "room": "218",
-        "instructor": "Hampton, Randolph Y.",
         "instructors": [
           "Hampton, Randolph Y."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,31 +3,12 @@
   "name": "Seminar in Real Analysis",
   "department": "MATH",
   "id": "248",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927295",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "9:40a-10:50a",
-      "building": "APM",
-      "room": "7421",
-      "instructor": "Zlatos, Andrej",
-      "instructors": [
-        "Zlatos, Andrej"
-      ],
-      "start_time": "9:40",
-      "end_time": "10:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "14b88522814e80a07189029ae6b304268b06ab27a7a91527d349dfaa6c26a509": {
         "sectxt": true,
         "sectionID": "927295",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "9:40a-10:50a",
         "building": "APM",
         "room": "7421",
-        "instructor": "Zlatos, Andrej",
         "instructors": [
           "Zlatos, Andrej"
         ],
         "start_time": "9:40",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

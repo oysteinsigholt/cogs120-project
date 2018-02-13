@@ -3,31 +3,12 @@
   "name": "Marshall Directed Group Study",
   "department": "TMC",
   "id": "198",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930567",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "2:00p-3:20p",
-      "building": "TMCA",
-      "room": "127",
-      "instructor": "Carver, Leslie J.",
-      "instructors": [
-        "Carver, Leslie J."
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "54c53aa4b887ae524f11c419decb51cbcd63fd6ba29b314a6013989619656bb3": {
         "sectxt": true,
         "sectionID": "930567",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "2:00p-3:20p",
         "building": "TMCA",
         "room": "127",
-        "instructor": "Carver, Leslie J.",
         "instructors": [
           "Carver, Leslie J."
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

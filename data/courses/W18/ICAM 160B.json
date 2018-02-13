@@ -3,31 +3,12 @@
   "name": "Senior Prjct/Computing Arts II",
   "department": "ICAM",
   "id": "160B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921745",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "3:30p-6:20p",
-      "building": "VAF",
-      "room": "228",
-      "instructor": "Alexander, Amy J",
-      "instructors": [
-        "Alexander, Amy J"
-      ],
-      "start_time": "15:30",
-      "end_time": "18:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "f04a3db058eaa1c3ea5accd75070768c8d301e5127c45cc5bfdace9ddc1db750": {
         "sectxt": true,
         "sectionID": "921745",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "3:30p-6:20p",
         "building": "VAF",
         "room": "228",
-        "instructor": "Alexander, Amy J",
         "instructors": [
           "Alexander, Amy J"
         ],
         "start_time": "15:30",
         "end_time": "18:20"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,31 +3,12 @@
   "name": "Southeast Asian Economies",
   "department": "GPEC",
   "id": "462",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921696",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "RBC",
-      "room": "3201",
-      "instructor": "Samphantharak, Krislert",
-      "instructors": [
-        "Samphantharak, Krislert"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "de41613aa277e33094bb7b78310ec28e4e593f4b1bb7a8363cbe7dc086b92d0d": {
         "sectxt": true,
         "sectionID": "921696",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "3:30p-4:50p",
         "building": "RBC",
         "room": "3201",
-        "instructor": "Samphantharak, Krislert",
         "instructors": [
           "Samphantharak, Krislert"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "1df6bb34ef0ff9a2e8f459f0a325980553bfe63cee6c0a2e3b0de2c6268c54c7": {
         "sectxt": true,
         "sectionID": "921696",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "3:30p-4:50p",
         "building": "RBC",
         "room": "3201",
-        "instructor": "Samphantharak, Krislert",
         "instructors": [
           "Samphantharak, Krislert"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

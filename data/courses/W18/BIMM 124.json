@@ -3,200 +3,9 @@
   "name": "Medical Microbiology",
   "department": "BIMM",
   "id": "124",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "3:00p-3:50p",
-      "building": "SOLIS",
-      "room": "107",
-      "instructor": "Gustafson-Brown, Cindy",
-      "instructors": [
-        "Gustafson-Brown, Cindy"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926147",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "9:00a-9:50a",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Gustafson-Brown, Cindy",
-      "instructors": [
-        "Gustafson-Brown, Cindy"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926148",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "10:00a-10:50a",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Gustafson-Brown, Cindy",
-      "instructors": [
-        "Gustafson-Brown, Cindy"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926149",
-      "type": "DI",
-      "section": "A03",
-      "days": "W",
-      "time": "1:00p-1:50p",
-      "building": "CENTR",
-      "room": "218",
-      "instructor": "Gustafson-Brown, Cindy",
-      "instructors": [
-        "Gustafson-Brown, Cindy"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926150",
-      "type": "DI",
-      "section": "A04",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "CENTR",
-      "room": "218",
-      "instructor": "Gustafson-Brown, Cindy",
-      "instructors": [
-        "Gustafson-Brown, Cindy"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926151",
-      "type": "DI",
-      "section": "A05",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "CENTR",
-      "room": "218",
-      "instructor": "Gustafson-Brown, Cindy",
-      "instructors": [
-        "Gustafson-Brown, Cindy"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926152",
-      "type": "DI",
-      "section": "A06",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "CENTR",
-      "room": "218",
-      "instructor": "Gustafson-Brown, Cindy",
-      "instructors": [
-        "Gustafson-Brown, Cindy"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926153",
-      "type": "DI",
-      "section": "A07",
-      "days": "Th",
-      "time": "5:00p-5:50p",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Gustafson-Brown, Cindy",
-      "instructors": [
-        "Gustafson-Brown, Cindy"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926154",
-      "type": "DI",
-      "section": "A08",
-      "days": "Th",
-      "time": "6:00p-6:50p",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Gustafson-Brown, Cindy",
-      "instructors": [
-        "Gustafson-Brown, Cindy"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/12/2018",
-      "days": "M",
-      "time": "8:00p-9:20p",
-      "building": "CENTR",
-      "room": "109",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-12T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "02/13/2018",
-      "days": "Tu",
-      "time": "8:00p-9:50p",
-      "building": "CENTR",
-      "room": "101",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-13T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "d67eaeead194a775e38e97b2887e95511d0d8f172d8ec7de8de455ec9a87b915": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -205,13 +14,12 @@
       "time": "8:00p-9:20p",
       "building": "CENTR",
       "room": "109",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-12T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:20"
     },
-    {
+    "08074616ad1c26e8aeeb1f8696a585391105750d7dfc734b3fd964ca85e7c935": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -220,13 +28,12 @@
       "time": "8:00p-9:50p",
       "building": "CENTR",
       "room": "101",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-13T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -235,17 +42,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "d095058a3c5ca6878be2e5af45056c73925fc6945e80151eaa049f5fb0198342": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -254,17 +60,15 @@
         "time": "3:00p-3:50p",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Gustafson-Brown, Cindy",
         "instructors": [
           "Gustafson-Brown, Cindy"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "79d74431070cb4a8eb869597224182097a4582db84061fe22372de2962a74f0b": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -273,14 +77,13 @@
         "time": "3:00p-3:50p",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Gustafson-Brown, Cindy",
         "instructors": [
           "Gustafson-Brown, Cindy"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "d1e19e46f885f382d956a071c65552b548d9e869b35ef819be2eea5b0d0b602c": {
         "sectxt": true,
         "sectionID": "926147",
         "type": "DI",
@@ -289,14 +92,13 @@
         "time": "9:00a-9:50a",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Gustafson-Brown, Cindy",
         "instructors": [
           "Gustafson-Brown, Cindy"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "ea01b539d57ea4a4fe9d9ce539532a0c4d52c0e6946c6760a00f6c19d961dd07": {
         "sectxt": true,
         "sectionID": "926148",
         "type": "DI",
@@ -305,14 +107,13 @@
         "time": "10:00a-10:50a",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Gustafson-Brown, Cindy",
         "instructors": [
           "Gustafson-Brown, Cindy"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "6a6e2d1b0ca035d4c10318a70620e4b2384a5d270ee0750b666426cf5b1b2064": {
         "sectxt": true,
         "sectionID": "926149",
         "type": "DI",
@@ -321,14 +122,13 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "218",
-        "instructor": "Gustafson-Brown, Cindy",
         "instructors": [
           "Gustafson-Brown, Cindy"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "2f7b5ebe6cfce443de31730913963d737b25b0067faab469a00da29590b3a1c4": {
         "sectxt": true,
         "sectionID": "926150",
         "type": "DI",
@@ -337,14 +137,13 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "218",
-        "instructor": "Gustafson-Brown, Cindy",
         "instructors": [
           "Gustafson-Brown, Cindy"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "2ec7b8ff0f4e3325ab9be47f23ca589097c3a43bfdb7d1f9b108039ed03fe7a7": {
         "sectxt": true,
         "sectionID": "926151",
         "type": "DI",
@@ -353,14 +152,13 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "218",
-        "instructor": "Gustafson-Brown, Cindy",
         "instructors": [
           "Gustafson-Brown, Cindy"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "1277b0c15687395062983a7c433cab6f7dfd40f2bff25c6258f8bfb0fe874c3a": {
         "sectxt": true,
         "sectionID": "926152",
         "type": "DI",
@@ -369,16 +167,15 @@
         "time": "6:00p-6:50p",
         "building": "CENTR",
         "room": "218",
-        "instructor": "Gustafson-Brown, Cindy",
         "instructors": [
           "Gustafson-Brown, Cindy"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "5986311e122d5be84bedce13bb34502496db794c341dfaa5bdde524e72430d74": {
         "sectxt": true,
         "sectionID": "926153",
         "type": "DI",
@@ -387,14 +184,13 @@
         "time": "5:00p-5:50p",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Gustafson-Brown, Cindy",
         "instructors": [
           "Gustafson-Brown, Cindy"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "a9ca9937f424030b81813ad0a9fa3c239cbf6b93fc819a40e9446ec9d97b7b77": {
         "sectxt": true,
         "sectionID": "926154",
         "type": "DI",
@@ -403,16 +199,15 @@
         "time": "6:00p-6:50p",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Gustafson-Brown, Cindy",
         "instructors": [
           "Gustafson-Brown, Cindy"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "4e9424c9c995e804cbb6cf63305e4e1abb14e40929e3015af5858fba1ddefc1b": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -421,15 +216,15 @@
         "time": "3:00p-3:50p",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Gustafson-Brown, Cindy",
         "instructors": [
           "Gustafson-Brown, Cindy"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

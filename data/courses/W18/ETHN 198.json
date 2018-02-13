@@ -3,34 +3,47 @@
   "name": "Directed Group Studies",
   "department": "ETHN",
   "id": "198",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930667",
-      "type": "IN",
-      "section": "B00",
-      "days": "WF",
-      "time": "1:00p-2:20p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Blanco, John D",
-      "instructors": [
-        "Blanco, John D"
-      ],
-      "start_time": "13:00",
-      "end_time": "14:20"
-    }
-  ],
   "notes": [
+    "ETHN 198 will meet in the Marshall College Room on the\n 2nd floor of Price Center East on 1/22, 1/24, 1/29,\n 2/5, 2/7, 2/21, 2/26, 2/28, 3/5, 3/7, 3/12 and 3/14.",
     "Intro to Pilipin@-American Contemporary Issues\n Location: Conference Room of the Cross-Cultural Center"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "M": {
+      "4035f18c829eed91b122bb9eeffb5dccf60a0be1be0c0aadb22605e1e3989491": {
+        "sectxt": true,
+        "sectionID": "930520",
+        "type": "IN",
+        "section": "A00",
+        "days": "MW",
+        "time": "4:00p-5:30p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Taylor-Garcia, Daphne"
+        ],
+        "start_time": "16:00",
+        "end_time": "17:30"
+      }
+    },
+    "W": {
+      "0c7e7039a41c8c907437940a7c588a1597c6f83b237661dd43f95258df6041e6": {
+        "sectxt": true,
+        "sectionID": "930520",
+        "type": "IN",
+        "section": "A00",
+        "days": "MW",
+        "time": "4:00p-5:30p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Taylor-Garcia, Daphne"
+        ],
+        "start_time": "16:00",
+        "end_time": "17:30"
+      },
+      "6403b0a74158b93c1896b5858e900a0b128130cf468bf7e68f352ef0879ddaae": {
         "sectxt": true,
         "sectionID": "930667",
         "type": "IN",
@@ -39,17 +52,15 @@
         "time": "1:00p-2:20p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Blanco, John D",
         "instructors": [
           "Blanco, John D"
         ],
         "start_time": "13:00",
         "end_time": "14:20"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "d48442bdb83a4fe0e7175be2cc2aff91de0c2ecfd7dd02f840a76f884417320c": {
         "sectxt": true,
         "sectionID": "930667",
         "type": "IN",
@@ -58,15 +69,16 @@
         "time": "1:00p-2:20p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Blanco, John D",
         "instructors": [
           "Blanco, John D"
         ],
         "start_time": "13:00",
         "end_time": "14:20"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

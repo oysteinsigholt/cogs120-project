@@ -3,31 +3,12 @@
   "name": "Speech for the Actor II",
   "department": "TDGR",
   "id": "221B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920393",
-      "type": "ST",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:00a-10:50a",
-      "building": "GH",
-      "room": "15",
-      "instructor": "Barnes, Eva E",
-      "instructors": [
-        "Barnes, Eva E"
-      ],
-      "start_time": "9:00",
-      "end_time": "10:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "d4ce179085172f608313304f18c0a274c479e06b0a0c561306fd1afe2a852d36": {
         "sectxt": true,
         "sectionID": "920393",
         "type": "ST",
@@ -36,17 +17,15 @@
         "time": "9:00a-10:50a",
         "building": "GH",
         "room": "15",
-        "instructor": "Barnes, Eva E",
         "instructors": [
           "Barnes, Eva E"
         ],
         "start_time": "9:00",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "068ff4e87e8fa6d212b592ddf41cb725764ce800df1c254bd7ae5b653e3aa173": {
         "sectxt": true,
         "sectionID": "920393",
         "type": "ST",
@@ -55,16 +34,15 @@
         "time": "9:00a-10:50a",
         "building": "GH",
         "room": "15",
-        "instructor": "Barnes, Eva E",
         "instructors": [
           "Barnes, Eva E"
         ],
         "start_time": "9:00",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,24 +3,8 @@
   "name": "Directed Group Study",
   "department": "MGT",
   "id": "198",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "936343",
-      "type": "SE",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Eberhard, Craig A",
-      "instructors": [
-        "Eberhard, Craig A"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Eberhard, Craig A",
       "instructors": [
         "Eberhard, Craig A"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

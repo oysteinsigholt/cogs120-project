@@ -3,42 +3,9 @@
   "name": "Nonlinear Systems",
   "department": "MAE",
   "id": "281A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922949",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "8:00a-9:20a",
-      "building": "PCYNH",
-      "room": "121",
-      "instructor": "Krstic, Miroslav",
-      "instructors": [
-        "Krstic, Miroslav"
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "cc296b57f1aa93be089f09868c0445bcee755fdaa8fa4cfcfbd64fbf74394c82": {
         "sectxt": true,
         "sectionID": "922949",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "8:00a-9:20a",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "Krstic, Miroslav",
         "instructors": [
           "Krstic, Miroslav"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "e11dcfe7b8757923be2c3d6c1ef9921bbb8dcdfb71cb99cea81a3e2f698d1ea8": {
         "sectxt": true,
         "sectionID": "922949",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "8:00a-9:20a",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "Krstic, Miroslav",
         "instructors": [
           "Krstic, Miroslav"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,74 +3,9 @@
   "name": "Structural Biochemistry",
   "department": "BIBC",
   "id": "100",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "SEQUO",
-      "room": "148",
-      "instructor": "Hui, Enfu",
-      "instructors": [
-        "Hui, Enfu"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925799",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Hui, Enfu",
-      "instructors": [
-        "Hui, Enfu"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925800",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "6:00p-6:50p",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Hui, Enfu",
-      "instructors": [
-        "Hui, Enfu"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -79,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "5fea3a55b400d3c1ac23473d3eb5e343349bdabc17f7cabf54cfc87061e90590": {
         "sectxt": true,
         "sectionID": "925799",
         "type": "DI",
@@ -98,14 +32,13 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Hui, Enfu",
         "instructors": [
           "Hui, Enfu"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "da38569dbc3b3950b77ce462f2ffea4a1fd1d3861582f93931e388ffc9c02f8f": {
         "sectxt": true,
         "sectionID": "925800",
         "type": "DI",
@@ -114,16 +47,15 @@
         "time": "6:00p-6:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Hui, Enfu",
         "instructors": [
           "Hui, Enfu"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "c12e876c286e075f54b31f5190baf1c12afcaa3c60c656df28d942741b529a9a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -132,17 +64,15 @@
         "time": "9:30a-10:50a",
         "building": "SEQUO",
         "room": "148",
-        "instructor": "Hui, Enfu",
         "instructors": [
           "Hui, Enfu"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "1fd76e34fb7865fce7ff5adca312ddc805651e55d9a8d5231108d9552d7045e9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -151,16 +81,15 @@
         "time": "9:30a-10:50a",
         "building": "SEQUO",
         "room": "148",
-        "instructor": "Hui, Enfu",
         "instructors": [
           "Hui, Enfu"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

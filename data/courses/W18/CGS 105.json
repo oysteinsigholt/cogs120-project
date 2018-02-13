@@ -3,42 +3,9 @@
   "name": "Queer Theory",
   "department": "CGS",
   "id": "105",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922336",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "SEQUO",
-      "room": "147",
-      "instructor": "Wesling, Megan E.",
-      "instructors": [
-        "Wesling, Megan E."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "747241700ab7f225303dd99417936dfd64c102a6232af9c3e3c6bcb67b7ae2f1": {
         "sectxt": true,
         "sectionID": "922336",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "11:00a-11:50a",
         "building": "SEQUO",
         "room": "147",
-        "instructor": "Wesling, Megan E.",
         "instructors": [
           "Wesling, Megan E."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "fe55ae58238240172b0970ca50e03901191d633f3bcfb215c925757472682204": {
         "sectxt": true,
         "sectionID": "922336",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "11:00a-11:50a",
         "building": "SEQUO",
         "room": "147",
-        "instructor": "Wesling, Megan E.",
         "instructors": [
           "Wesling, Megan E."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "72cbcd5921beeaeacbbf13acca8a273bd158963b3ac554afbafdf8845b6aff0a": {
         "sectxt": true,
         "sectionID": "922336",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "11:00a-11:50a",
         "building": "SEQUO",
         "room": "147",
-        "instructor": "Wesling, Megan E.",
         "instructors": [
           "Wesling, Megan E."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

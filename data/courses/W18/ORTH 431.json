@@ -3,24 +3,8 @@
   "name": "Clrkshp/Pediatric Orthopaedics",
   "department": "ORTH",
   "id": "431",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928533",
-      "type": "CL",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Pring, Maya Elizabeth",
-      "instructors": [
-        "Pring, Maya Elizabeth"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Pring, Maya Elizabeth",
       "instructors": [
         "Pring, Maya Elizabeth"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

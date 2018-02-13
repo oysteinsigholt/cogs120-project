@@ -3,90 +3,9 @@
   "name": "Fundamntls/Devices & Materials",
   "department": "ECE",
   "id": "103",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "CENTR",
-      "room": "109",
-      "instructor": "Kuzum, Duygu",
-      "instructors": [
-        "Kuzum, Duygu"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925033",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "YORK",
-      "room": "4080A",
-      "instructor": "Kuzum, Duygu",
-      "instructors": [
-        "Kuzum, Duygu"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925034",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "YORK",
-      "room": "4080A",
-      "instructor": "Kuzum, Duygu",
-      "instructors": [
-        "Kuzum, Duygu"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925035",
-      "type": "DI",
-      "section": "A03",
-      "days": "F",
-      "time": "4:00p-4:50p",
-      "building": "YORK",
-      "room": "4080A",
-      "instructor": "Kuzum, Duygu",
-      "instructors": [
-        "Kuzum, Duygu"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -95,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "e55cdbd8a57adcd9f778fe5e8bf269cf1a6aa33122a01e212ba59ade92973113": {
         "sectxt": true,
         "sectionID": "925033",
         "type": "DI",
@@ -114,16 +32,15 @@
         "time": "2:00p-2:50p",
         "building": "YORK",
         "room": "4080A",
-        "instructor": "Kuzum, Duygu",
         "instructors": [
           "Kuzum, Duygu"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "979df717b14bf700ac34786e38e943c17094ef467bc27a99217c634a6e5f885f": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -132,16 +49,15 @@
         "time": "3:30p-4:50p",
         "building": "CENTR",
         "room": "109",
-        "instructor": "Kuzum, Duygu",
         "instructors": [
           "Kuzum, Duygu"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "848619c3427b2322b96c3b2bdd0f2683811a4a8a9ebe4beccbfde9fc169b685a": {
         "sectxt": true,
         "sectionID": "925034",
         "type": "DI",
@@ -150,16 +66,15 @@
         "time": "5:00p-5:50p",
         "building": "YORK",
         "room": "4080A",
-        "instructor": "Kuzum, Duygu",
         "instructors": [
           "Kuzum, Duygu"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "d9a298da955f5b893f4478e3f282466555219d3b8f66ca24bc27d90b59ce58fd": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -168,16 +83,15 @@
         "time": "3:30p-4:50p",
         "building": "CENTR",
         "room": "109",
-        "instructor": "Kuzum, Duygu",
         "instructors": [
           "Kuzum, Duygu"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "f36d2760e09e455a856399d22b96a6b38553981bd85ef5b3d184acd501925146": {
         "sectxt": true,
         "sectionID": "925035",
         "type": "DI",
@@ -186,15 +100,15 @@
         "time": "4:00p-4:50p",
         "building": "YORK",
         "room": "4080A",
-        "instructor": "Kuzum, Duygu",
         "instructors": [
           "Kuzum, Duygu"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

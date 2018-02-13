@@ -3,79 +3,11 @@
   "name": "Physics and Chem of the Oceans",
   "department": "SIO",
   "id": "119",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921054",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "ECKRT",
-      "room": "227",
-      "instructor": "Gille, Sarah T & Andersson, Andreas Jerry",
-      "instructors": [
-        "Gille, Sarah T",
-        "Andersson, Andreas Jerry"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "ECKRT",
-      "room": "227",
-      "instructor": "Gille, Sarah T & Andersson, Andreas Jerry",
-      "instructors": [
-        "Gille, Sarah T",
-        "Andersson, Andreas Jerry"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "1:00p-1:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Gille, Sarah T & Andersson, Andreas Jerry",
-      "instructors": [
-        "Gille, Sarah T",
-        "Andersson, Andreas Jerry"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [
     "Discussion session will be held in the Sea Cave, first\n floor of the Eckart Building."
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -84,17 +16,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "61a39fa99822dd209421a6bd6893932c03bef165d2a17c10b9bb30131b3b7995": {
         "sectxt": true,
         "sectionID": "921054",
         "type": "LE",
@@ -103,18 +34,15 @@
         "time": "2:00p-2:50p",
         "building": "ECKRT",
         "room": "227",
-        "instructor": "Gille, Sarah T & Andersson, Andreas Jerry",
         "instructors": [
-          "Gille, Sarah T",
-          "Andersson, Andreas Jerry"
+          "Gille, Sarah T                     \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAndersson, Andreas Jerry"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "e4ceeda7e7f59418e4c6db10c0bc1bb95d192527c059a596b15a82e0c67aadbc": {
         "sectxt": true,
         "sectionID": "921054",
         "type": "LE",
@@ -123,15 +51,13 @@
         "time": "2:00p-2:50p",
         "building": "ECKRT",
         "room": "227",
-        "instructor": "Gille, Sarah T & Andersson, Andreas Jerry",
         "instructors": [
-          "Gille, Sarah T",
-          "Andersson, Andreas Jerry"
+          "Gille, Sarah T                     \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAndersson, Andreas Jerry"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "3633073d9d8b6da125fa5383f8e2d69f388ed3f16fee8229939fa08c849dabcf": {
         "sectxt": true,
         "sectionID": "",
         "type": "DI",
@@ -140,15 +66,13 @@
         "time": "3:00p-3:50p",
         "building": "ECKRT",
         "room": "227",
-        "instructor": "Gille, Sarah T & Andersson, Andreas Jerry",
         "instructors": [
-          "Gille, Sarah T",
-          "Andersson, Andreas Jerry"
+          "Gille, Sarah T                     \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAndersson, Andreas Jerry"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "272b1dc1e770518a7ccb2b606a5fc2fe31772bb688fd03d7bf93429ba199b782": {
         "sectxt": true,
         "sectionID": "",
         "type": "DI",
@@ -157,18 +81,15 @@
         "time": "1:00p-1:50p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Gille, Sarah T & Andersson, Andreas Jerry",
         "instructors": [
-          "Gille, Sarah T",
-          "Andersson, Andreas Jerry"
+          "Gille, Sarah T                     \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAndersson, Andreas Jerry"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "6bb33c4408fc2f2666175b5ff064833d51d4ecca98ec1bb7e90113cc22f6a943": {
         "sectxt": true,
         "sectionID": "921054",
         "type": "LE",
@@ -177,16 +98,15 @@
         "time": "2:00p-2:50p",
         "building": "ECKRT",
         "room": "227",
-        "instructor": "Gille, Sarah T & Andersson, Andreas Jerry",
         "instructors": [
-          "Gille, Sarah T",
-          "Andersson, Andreas Jerry"
+          "Gille, Sarah T                     \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAndersson, Andreas Jerry"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

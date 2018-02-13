@@ -3,137 +3,9 @@
   "name": "Human Physiology II",
   "department": "BIPN",
   "id": "102",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "7:00p-8:20p",
-      "building": "LEDDN",
-      "room": "AUD",
-      "instructor": "Xu, Yang",
-      "instructors": [
-        "Xu, Yang"
-      ],
-      "start_time": "19:00",
-      "end_time": "20:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926185",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "HSS",
-      "room": "1315",
-      "instructor": "Xu, Yang",
-      "instructors": [
-        "Xu, Yang"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926186",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "5:00p-5:50p",
-      "building": "HSS",
-      "room": "1315",
-      "instructor": "Xu, Yang",
-      "instructors": [
-        "Xu, Yang"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926187",
-      "type": "DI",
-      "section": "A03",
-      "days": "M",
-      "time": "6:00p-6:50p",
-      "building": "HSS",
-      "room": "1315",
-      "instructor": "Xu, Yang",
-      "instructors": [
-        "Xu, Yang"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926188",
-      "type": "DI",
-      "section": "A04",
-      "days": "W",
-      "time": "1:00p-1:50p",
-      "building": "YORK",
-      "room": "3000A",
-      "instructor": "Xu, Yang",
-      "instructors": [
-        "Xu, Yang"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926189",
-      "type": "DI",
-      "section": "A05",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "CENTR",
-      "room": "217B",
-      "instructor": "Xu, Yang",
-      "instructors": [
-        "Xu, Yang"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/10/2018",
-      "days": "S",
-      "time": "12:00p-2:50p",
-      "building": "CENTR",
-      "room": "113",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-10T08:00:00.000Z",
-      "start_time": "12:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "70af23d7ef2e9df5ac0ea4d22405687ef0960a13920a1c9fed68e35a6a072d00": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -142,13 +14,12 @@
       "time": "12:00p-2:50p",
       "building": "CENTR",
       "room": "113",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-10T08:00:00.000Z",
       "start_time": "12:00",
       "end_time": "14:50"
     },
-    {
+    "5139b59900b2a15bbcc9f74995c455a57d46508184478e3e6f3c0cc1534d754d": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -157,17 +28,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "631ef70a467bb341c682a3fe671ba4322981b19b32fe86101b98ea5ac2e04d34": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -176,14 +46,13 @@
         "time": "7:00p-8:20p",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Xu, Yang",
         "instructors": [
           "Xu, Yang"
         ],
         "start_time": "19:00",
         "end_time": "20:20"
       },
-      {
+      "c1a0c6264a697c4627040633b8e4a6ea969f738a05e3fbc3f7c4045a3f927adc": {
         "sectxt": true,
         "sectionID": "926185",
         "type": "DI",
@@ -192,14 +61,13 @@
         "time": "4:00p-4:50p",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Xu, Yang",
         "instructors": [
           "Xu, Yang"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "16d8de0383c46dbf8a88c7d13e67a85cb18a6879e4aff2bbf860adae414d056e": {
         "sectxt": true,
         "sectionID": "926186",
         "type": "DI",
@@ -208,14 +76,13 @@
         "time": "5:00p-5:50p",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Xu, Yang",
         "instructors": [
           "Xu, Yang"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "876f08e77230b44d4f298cecc62778f24744e2569ba7ff0b98a5294714ce207a": {
         "sectxt": true,
         "sectionID": "926187",
         "type": "DI",
@@ -224,17 +91,15 @@
         "time": "6:00p-6:50p",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Xu, Yang",
         "instructors": [
           "Xu, Yang"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "c6632e694e4b20f7e7f9cae429fa2b2d23fb2fbc4369c480346ecd3820765e56": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -243,14 +108,13 @@
         "time": "7:00p-8:20p",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Xu, Yang",
         "instructors": [
           "Xu, Yang"
         ],
         "start_time": "19:00",
         "end_time": "20:20"
       },
-      {
+      "59cf5b8c5c23b5de8db611617df0e33ba074034510f90423432c3cf2e2051fce": {
         "sectxt": true,
         "sectionID": "926188",
         "type": "DI",
@@ -259,17 +123,15 @@
         "time": "1:00p-1:50p",
         "building": "YORK",
         "room": "3000A",
-        "instructor": "Xu, Yang",
         "instructors": [
           "Xu, Yang"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "30da4e8d25c90213bc5e831bd8396dfd7d1abba8a5efdcbcc05dcaa682435d3c": {
         "sectxt": true,
         "sectionID": "926189",
         "type": "DI",
@@ -278,15 +140,15 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "217B",
-        "instructor": "Xu, Yang",
         "instructors": [
           "Xu, Yang"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

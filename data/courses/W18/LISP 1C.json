@@ -3,30 +3,147 @@
   "name": "Spanish Conversation",
   "department": "LISP",
   "id": "1C",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921385",
-      "type": "TU",
-      "section": "H00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Munoz Sanchez, Alicia",
-      "instructors": [
-        "Munoz Sanchez, Alicia"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "ac169716869bde29fdc000fc18cf91c8a71072c6352e0d91008fcadf83618d49": {
+        "sectxt": true,
+        "sectionID": "921395",
+        "type": "TU",
+        "section": "R00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "0ea5614933fdb369e608b7d2616594604d33ffe54ee037f3f654e384a9627ba1": {
+        "sectxt": true,
+        "sectionID": "921397",
+        "type": "TU",
+        "section": "T00",
+        "days": "MWF",
+        "time": "5:00p-5:50p",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "2a9b5257ddfb8b670fde5210a3f6b5654dda4b74e66b37b65018f45cd2588811": {
+        "sectxt": true,
+        "sectionID": "921378",
+        "type": "TU",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "12c33b5090a3ad1e89e1d00a4e5fb92a07e55fab6f7825cc65e767b1e6545b62": {
+        "sectxt": true,
+        "sectionID": "921379",
+        "type": "TU",
+        "section": "B00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "b44a1b5c87991d26f235d52e9e51b66c1f3e85d4a79a3ca060050644ecad4321": {
+        "sectxt": true,
+        "sectionID": "921380",
+        "type": "TU",
+        "section": "C00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "c3d74bfe93f4fe696268d36d90cc93620053b0b6f8606e434fe836a8ae46939b": {
+        "sectxt": true,
+        "sectionID": "921381",
+        "type": "TU",
+        "section": "D00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "3aedfd205966fcc5a05470a82f12f02020148f03d01d82bdebf8d5783029a0c7": {
+        "sectxt": true,
+        "sectionID": "921382",
+        "type": "TU",
+        "section": "E00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "b1e8febe2901b22e178554ede0e7b3bf4f576c703d972a1426135369040d15eb": {
+        "sectxt": true,
+        "sectionID": "921383",
+        "type": "TU",
+        "section": "F00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "d6a8708fa62fdcbfbd6cbd648e088f8e9666b7b59f09ce89043e64421a7a4804": {
+        "sectxt": true,
+        "sectionID": "921384",
+        "type": "TU",
+        "section": "G00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "217B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "1dfe3d335623982240ada210d56a51c579a3bf0f794808d81fd03044f9653d00": {
         "sectxt": true,
         "sectionID": "921385",
         "type": "TU",
@@ -35,17 +152,285 @@
         "time": "11:00a-11:50a",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Munoz Sanchez, Alicia",
         "instructors": [
           "Munoz Sanchez, Alicia"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
+      },
+      "e66d8a5c0531476989be32ade25285058598effacd4e2146a62b9ed45ede8331": {
+        "sectxt": true,
+        "sectionID": "921386",
+        "type": "TU",
+        "section": "I00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "224A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "b0ab055bbaa0ad030da09d1118e7b2030b89f4e99bc97a1afb0b0ce5f1097480": {
+        "sectxt": true,
+        "sectionID": "921387",
+        "type": "TU",
+        "section": "J00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "HSS",
+        "room": "2152",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "74579ecad1417d206c392888103998d2855062f2f08711cbf104c4e200a17a58": {
+        "sectxt": true,
+        "sectionID": "921388",
+        "type": "TU",
+        "section": "K00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "224A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "2de4fa61f3a2809b1876dde08e744603b293ffad2d7cc19587246bca3b7c3024": {
+        "sectxt": true,
+        "sectionID": "921389",
+        "type": "TU",
+        "section": "L00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "HSS",
+        "room": "2152",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "50ce87f14fc9eaf559446251802b9fb1d4fd1481dd2ef1f7c188c300fd3939ff": {
+        "sectxt": true,
+        "sectionID": "921390",
+        "type": "TU",
+        "section": "M00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "c2b94fb90f17f691941bf36edbb0939c6036afd5ea0fce6760b4e853690cf155": {
+        "sectxt": true,
+        "sectionID": "921391",
+        "type": "TU",
+        "section": "N00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "4770cf61ead75b3edf467782cd2ae2db46939c46561275b26bbc4eef7d7e0216": {
+        "sectxt": true,
+        "sectionID": "921392",
+        "type": "TU",
+        "section": "O00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "144fe8f92c3ee3282ba8ef77f9f402ec506c9fc88eda85017ce53d6642272457": {
+        "sectxt": true,
+        "sectionID": "921393",
+        "type": "TU",
+        "section": "P00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "4ddccf2e9d66b8994cf104f7f3dd8ad5af50fcf1acd29d6b4fcbf87b89a84cc7": {
+        "sectxt": true,
+        "sectionID": "921394",
+        "type": "TU",
+        "section": "Q00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "a10a54880cf56c848677e7b967153c4323a7f437a8ea9283dba2eecb556745c8": {
+        "sectxt": true,
+        "sectionID": "921395",
+        "type": "TU",
+        "section": "R00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "4ef3d36c7b69b47e60ed05b525245fbcdb3aa85651b2145f26cfd72af1a38a7e": {
+        "sectxt": true,
+        "sectionID": "921397",
+        "type": "TU",
+        "section": "T00",
+        "days": "MWF",
+        "time": "5:00p-5:50p",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "a1f8ba43c82c270835d13df6a33048828ffa82b4c931976bd2f46b8bc6d2d89e": {
+        "sectxt": true,
+        "sectionID": "921378",
+        "type": "TU",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "910da14aa2d98025c3aa6874fa17cd14ec80c9d3bd9c8de889e9476549de9bdb": {
+        "sectxt": true,
+        "sectionID": "921379",
+        "type": "TU",
+        "section": "B00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "d1276f7677dd610b7eb6b6cf17b0491131c5801fecbcfaba07bf67ee0f9bdda5": {
+        "sectxt": true,
+        "sectionID": "921380",
+        "type": "TU",
+        "section": "C00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "50004a8ee09e895005b3500e8730aab77def8a6611f0c906081d4866ab1c31b2": {
+        "sectxt": true,
+        "sectionID": "921381",
+        "type": "TU",
+        "section": "D00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "a09971aea703f52a0eb12359d3fe3ed85dec5cba293ae2ca2613c08cf8334ea9": {
+        "sectxt": true,
+        "sectionID": "921382",
+        "type": "TU",
+        "section": "E00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "97133b7f6eface309c3c92a06b0b3013f3f8cfa22481a8e616cbbb51d9320a54": {
+        "sectxt": true,
+        "sectionID": "921383",
+        "type": "TU",
+        "section": "F00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "3856f685b1b4b84b8343274e177c31af9f0a8500f6a03e519278f9b1bac0b650": {
+        "sectxt": true,
+        "sectionID": "921384",
+        "type": "TU",
+        "section": "G00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "217B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "80557ddcc15f2c3ad50b6576185d208dae162b600e6008ff0547b71370c0891c": {
         "sectxt": true,
         "sectionID": "921385",
         "type": "TU",
@@ -54,17 +439,285 @@
         "time": "11:00a-11:50a",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Munoz Sanchez, Alicia",
         "instructors": [
           "Munoz Sanchez, Alicia"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
+      },
+      "9a685b37ea7802eaa9482b8e056ada2bccaeb5fc1bcf38c6c4920930b005696c": {
+        "sectxt": true,
+        "sectionID": "921386",
+        "type": "TU",
+        "section": "I00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "224A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "9464065866b47cd03e2ff34554a022c4a5944b2b31e25bf948529c81761f384b": {
+        "sectxt": true,
+        "sectionID": "921387",
+        "type": "TU",
+        "section": "J00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "HSS",
+        "room": "2152",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "8a858ecd9a64b9702d891593af7542f6d81f8cc304f898b471e4a89c9ed0dc17": {
+        "sectxt": true,
+        "sectionID": "921388",
+        "type": "TU",
+        "section": "K00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "224A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "6debe3b939f668e60db90b27b96bfa938998232f2f3ee708e94d5db9d0d12190": {
+        "sectxt": true,
+        "sectionID": "921389",
+        "type": "TU",
+        "section": "L00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "HSS",
+        "room": "2152",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "6a8e229fd642187e834f105d2977129666e35f65a00269f7837ebcc8ac7d5fdf": {
+        "sectxt": true,
+        "sectionID": "921390",
+        "type": "TU",
+        "section": "M00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "6ecb217a312bb08fe16cf3c59e9d691f1c8692602b73dc7216e34a941b2c7e77": {
+        "sectxt": true,
+        "sectionID": "921391",
+        "type": "TU",
+        "section": "N00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "88ee14f1e47b7c509a81b01df1229c9d9f05801cfbdae318fee20c0c7cab2e85": {
+        "sectxt": true,
+        "sectionID": "921392",
+        "type": "TU",
+        "section": "O00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "9e8134831cb97419cd5ea0a0239d9cd215391906776739665bba69f66345518a": {
+        "sectxt": true,
+        "sectionID": "921393",
+        "type": "TU",
+        "section": "P00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "98517edaceb46326fcdaae63b347ebac35ddd4950f54bb793d8e3248b98a9632": {
+        "sectxt": true,
+        "sectionID": "921394",
+        "type": "TU",
+        "section": "Q00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "d3455e1bcd1f18e2d63598e138b232b7df2fe8f4734c1dc7423a8fadf9081f4e": {
+        "sectxt": true,
+        "sectionID": "921395",
+        "type": "TU",
+        "section": "R00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "59345a194a46ef618c3d8dc5e1ba842353534f69c53e414866ef2bf5e5df3b63": {
+        "sectxt": true,
+        "sectionID": "921397",
+        "type": "TU",
+        "section": "T00",
+        "days": "MWF",
+        "time": "5:00p-5:50p",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "3f76a76395d7fcbcf6eec8b4fee7b74afa5182b9366f9bab611c400f73de2623": {
+        "sectxt": true,
+        "sectionID": "921378",
+        "type": "TU",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "d66e1e30a29c7c7f35da475fcef1c88a3ac0376b9dab0092b4326aceb7bacea9": {
+        "sectxt": true,
+        "sectionID": "921379",
+        "type": "TU",
+        "section": "B00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "71327ddf10cb0f96fed6c8c728f7d732249f91084627c0b130615052b2aac9f2": {
+        "sectxt": true,
+        "sectionID": "921380",
+        "type": "TU",
+        "section": "C00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "462d57c18a92626bf310df6b863d1732336dd13d59ccfb87fd7725c8e881acc2": {
+        "sectxt": true,
+        "sectionID": "921381",
+        "type": "TU",
+        "section": "D00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "37b94ad65bc0133844b0d9cd1d5bbf75ca4b412f210c0b351196477010989937": {
+        "sectxt": true,
+        "sectionID": "921382",
+        "type": "TU",
+        "section": "E00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "5c0981c4b9ae0510c2ea928f7904cbc6d77de4e39ceebc4939ea8a753c91cf5b": {
+        "sectxt": true,
+        "sectionID": "921383",
+        "type": "TU",
+        "section": "F00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "e241a00c9bf34a30645e82b283febdb8870c81adb1c6b649829909da14ebafb1": {
+        "sectxt": true,
+        "sectionID": "921384",
+        "type": "TU",
+        "section": "G00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "217B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "0a3b3f5f4697d36862950e2fb300d33cde55976757b0c2e5e8dc649632df4838": {
         "sectxt": true,
         "sectionID": "921385",
         "type": "TU",
@@ -73,15 +726,169 @@
         "time": "11:00a-11:50a",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Munoz Sanchez, Alicia",
         "instructors": [
           "Munoz Sanchez, Alicia"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
+      },
+      "794389fe9d5c3c31240a7ef831d1de8d7ac922f296520a278488191922081b8e": {
+        "sectxt": true,
+        "sectionID": "921386",
+        "type": "TU",
+        "section": "I00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "224A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "87968bc149b83f5564b7dbc3cdc34dcbd44cdf758d49acf11348a8007ba7d360": {
+        "sectxt": true,
+        "sectionID": "921387",
+        "type": "TU",
+        "section": "J00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "HSS",
+        "room": "2152",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "6f0131c7d27ebedaa885cf878cba838d8f4055770d57d8dc63a5b78c7bab1dfc": {
+        "sectxt": true,
+        "sectionID": "921388",
+        "type": "TU",
+        "section": "K00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "224A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "e23453780567fff8ef8ecf8fd1abcb3d407ab44ec22475b81030725034d291ab": {
+        "sectxt": true,
+        "sectionID": "921389",
+        "type": "TU",
+        "section": "L00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "HSS",
+        "room": "2152",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "de963ec75275b8a292c8608edcc0a52263ee5a3092de45f304c8540fd04499f4": {
+        "sectxt": true,
+        "sectionID": "921390",
+        "type": "TU",
+        "section": "M00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "98108a160bedaa66f68ad826e1a7c2810af139cf244753b8d9d73aaef032427b": {
+        "sectxt": true,
+        "sectionID": "921391",
+        "type": "TU",
+        "section": "N00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "2539bb24b156ae3fd25997347f32a9302e618955c62081b9dd3fec785c00ec0e": {
+        "sectxt": true,
+        "sectionID": "921392",
+        "type": "TU",
+        "section": "O00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "308de02e7b908439c01a528df6e72161ae014b6e88a4dec91eaf02dae0ae65e5": {
+        "sectxt": true,
+        "sectionID": "921393",
+        "type": "TU",
+        "section": "P00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "df6d276b04e29008fa07674489aa990803eb2a2a5c50f232fd061d6ec7a3ed5f": {
+        "sectxt": true,
+        "sectionID": "921394",
+        "type": "TU",
+        "section": "Q00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "R",
+    "S",
+    "T",
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q"
+  ]
 }

@@ -3,170 +3,9 @@
   "name": "Econ, Politics & Intn'l Change",
   "department": "INTL",
   "id": "102",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "RBC",
-      "room": "AUD",
-      "instructor": "Haggard, Stephan M.",
-      "instructors": [
-        "Haggard, Stephan M."
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929001",
-      "type": "DI",
-      "section": "A01",
-      "days": "Tu",
-      "time": "8:00a-8:50a",
-      "building": "ASANT",
-      "room": "123C",
-      "instructor": "Haggard, Stephan M.",
-      "instructors": [
-        "Haggard, Stephan M."
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929002",
-      "type": "DI",
-      "section": "A02",
-      "days": "Tu",
-      "time": "9:00a-9:50a",
-      "building": "ASANT",
-      "room": "123C",
-      "instructor": "Haggard, Stephan M.",
-      "instructors": [
-        "Haggard, Stephan M."
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929003",
-      "type": "DI",
-      "section": "A03",
-      "days": "Tu",
-      "time": "10:00a-10:50a",
-      "building": "ASANT",
-      "room": "123C",
-      "instructor": "Haggard, Stephan M.",
-      "instructors": [
-        "Haggard, Stephan M."
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929004",
-      "type": "DI",
-      "section": "A04",
-      "days": "Th",
-      "time": "8:00a-8:50a",
-      "building": "ASANT",
-      "room": "123C",
-      "instructor": "Haggard, Stephan M.",
-      "instructors": [
-        "Haggard, Stephan M."
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929005",
-      "type": "DI",
-      "section": "A05",
-      "days": "Th",
-      "time": "9:00a-9:50a",
-      "building": "ASANT",
-      "room": "123C",
-      "instructor": "Haggard, Stephan M.",
-      "instructors": [
-        "Haggard, Stephan M."
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929006",
-      "type": "DI",
-      "section": "A06",
-      "days": "Th",
-      "time": "10:00a-10:50a",
-      "building": "ASANT",
-      "room": "123C",
-      "instructor": "Haggard, Stephan M.",
-      "instructors": [
-        "Haggard, Stephan M."
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929007",
-      "type": "DI",
-      "section": "A07",
-      "days": "F",
-      "time": "10:00a-10:50a",
-      "building": "ASANT",
-      "room": "123C",
-      "instructor": "Haggard, Stephan M.",
-      "instructors": [
-        "Haggard, Stephan M."
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929008",
-      "type": "DI",
-      "section": "A08",
-      "days": "F",
-      "time": "11:00a-11:50a",
-      "building": "ASANT",
-      "room": "123C",
-      "instructor": "Haggard, Stephan M.",
-      "instructors": [
-        "Haggard, Stephan M."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -175,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "77a90d7a8864ca19fd9b8963b8c321ba412d20b52100d010e9805af3b2d06f08": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -195,14 +32,13 @@
         "time": "12:30p-1:50p",
         "building": "RBC",
         "room": "AUD",
-        "instructor": "Haggard, Stephan M.",
         "instructors": [
           "Haggard, Stephan M."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       },
-      {
+      "34a0dbfe9d1367a4fb7418085a190ccb52025f533a4152969de01b43e5edc4c3": {
         "sectxt": true,
         "sectionID": "929001",
         "type": "DI",
@@ -211,14 +47,13 @@
         "time": "8:00a-8:50a",
         "building": "ASANT",
         "room": "123C",
-        "instructor": "Haggard, Stephan M.",
         "instructors": [
           "Haggard, Stephan M."
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "305f90b70ae2b7ee9907264539c6498105c876bae019b844e1375f1af5d6473c": {
         "sectxt": true,
         "sectionID": "929002",
         "type": "DI",
@@ -227,14 +62,13 @@
         "time": "9:00a-9:50a",
         "building": "ASANT",
         "room": "123C",
-        "instructor": "Haggard, Stephan M.",
         "instructors": [
           "Haggard, Stephan M."
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "034ce3a2302865856a715b4f4e30df748d36ea8c854868914bfc37cadf949e3f": {
         "sectxt": true,
         "sectionID": "929003",
         "type": "DI",
@@ -243,17 +77,15 @@
         "time": "10:00a-10:50a",
         "building": "ASANT",
         "room": "123C",
-        "instructor": "Haggard, Stephan M.",
         "instructors": [
           "Haggard, Stephan M."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f8ad585298e7b342895c254554dd0fa501d6feea536e74d6146ebcf55fb31294": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -262,14 +94,13 @@
         "time": "12:30p-1:50p",
         "building": "RBC",
         "room": "AUD",
-        "instructor": "Haggard, Stephan M.",
         "instructors": [
           "Haggard, Stephan M."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       },
-      {
+      "124e8f5c3916397add6dc035ef5bda9c4b0d5af4ffd3408e91f7446d1fc64866": {
         "sectxt": true,
         "sectionID": "929004",
         "type": "DI",
@@ -278,14 +109,13 @@
         "time": "8:00a-8:50a",
         "building": "ASANT",
         "room": "123C",
-        "instructor": "Haggard, Stephan M.",
         "instructors": [
           "Haggard, Stephan M."
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "f9cc62530443c6ccea7d8be6ae920f2874867b8d35701ca588a16eba044ca2c1": {
         "sectxt": true,
         "sectionID": "929005",
         "type": "DI",
@@ -294,14 +124,13 @@
         "time": "9:00a-9:50a",
         "building": "ASANT",
         "room": "123C",
-        "instructor": "Haggard, Stephan M.",
         "instructors": [
           "Haggard, Stephan M."
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "1937e131546fc5f39267f93c303f9f691fc74576555afe8a1b7dcfd5dc340de6": {
         "sectxt": true,
         "sectionID": "929006",
         "type": "DI",
@@ -310,16 +139,15 @@
         "time": "10:00a-10:50a",
         "building": "ASANT",
         "room": "123C",
-        "instructor": "Haggard, Stephan M.",
         "instructors": [
           "Haggard, Stephan M."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "5295a1c11539b546e3411539f83144f8cc1e0fd0a195c38cc5c18f8647c4bf39": {
         "sectxt": true,
         "sectionID": "929007",
         "type": "DI",
@@ -328,14 +156,13 @@
         "time": "10:00a-10:50a",
         "building": "ASANT",
         "room": "123C",
-        "instructor": "Haggard, Stephan M.",
         "instructors": [
           "Haggard, Stephan M."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "6a04b2562cf5e927ed4b2460680bafe673d036eb0990d653052b94c161e9deb9": {
         "sectxt": true,
         "sectionID": "929008",
         "type": "DI",
@@ -344,15 +171,15 @@
         "time": "11:00a-11:50a",
         "building": "ASANT",
         "room": "123C",
-        "instructor": "Haggard, Stephan M.",
         "instructors": [
           "Haggard, Stephan M."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

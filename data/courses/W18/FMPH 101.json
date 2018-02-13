@@ -3,57 +3,9 @@
   "name": "Epidemiology",
   "department": "FMPH",
   "id": "101",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921094",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "BSB",
-      "room": "1105",
-      "instructor": "Aldelaimy, Wael",
-      "instructors": [
-        "Aldelaimy, Wael"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/09/2018",
-      "days": "F",
-      "time": "5:00p-6:50p",
-      "building": "CENTR",
-      "room": "222",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-09T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c3012ba64027cd62554b858220d7a0d0ffb66f75a9732eca85f8e40000999793": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -62,13 +14,12 @@
       "time": "5:00p-6:50p",
       "building": "CENTR",
       "room": "222",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-09T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "18:50"
     },
-    {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -77,18 +28,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "f4980a57a79f02fbc2cdc7334fe222e18ffd07a28948203c4fe2bcfb1718f3ec": {
         "sectxt": true,
         "sectionID": "921094",
         "type": "LE",
@@ -97,17 +46,15 @@
         "time": "12:30p-1:50p",
         "building": "BSB",
         "room": "1105",
-        "instructor": "Aldelaimy, Wael",
         "instructors": [
           "Aldelaimy, Wael"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "c33325c8c536b0778cb6d98d9f8bacf27431c55bcfa8db483f256e378fbb09bb": {
         "sectxt": true,
         "sectionID": "921094",
         "type": "LE",
@@ -116,16 +63,15 @@
         "time": "12:30p-1:50p",
         "building": "BSB",
         "room": "1105",
-        "instructor": "Aldelaimy, Wael",
         "instructors": [
           "Aldelaimy, Wael"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

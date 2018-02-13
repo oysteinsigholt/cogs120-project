@@ -3,42 +3,9 @@
   "name": "Marine Microbiology Laboratory",
   "department": "SIO",
   "id": "185",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921083",
-      "type": "LA",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "1:00p-5:00p",
-      "building": "HUBBS",
-      "room": "3300",
-      "instructor": "Brahamsha, Bianca M.",
-      "instructors": [
-        "Brahamsha, Bianca M."
-      ],
-      "start_time": "13:00",
-      "end_time": "17:00"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/24/2018",
-      "days": "S",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-24T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "726929bce2e998a371b7e7ad2f17f4cc09139b4f7c73947865396b9592d66621": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-24T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "3503eb53f8c647e9cd336c95d064e97fcf77dde2b13c7195268cc44d19c3aa3d": {
         "sectxt": true,
         "sectionID": "921083",
         "type": "LA",
@@ -67,17 +32,15 @@
         "time": "1:00p-5:00p",
         "building": "HUBBS",
         "room": "3300",
-        "instructor": "Brahamsha, Bianca M.",
         "instructors": [
           "Brahamsha, Bianca M."
         ],
         "start_time": "13:00",
         "end_time": "17:00"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "a2538b105ef46c2da99f5e3d4af4df4639c4daff919b7032aeeaf2a6582d556c": {
         "sectxt": true,
         "sectionID": "921083",
         "type": "LA",
@@ -86,16 +49,15 @@
         "time": "1:00p-5:00p",
         "building": "HUBBS",
         "room": "3300",
-        "instructor": "Brahamsha, Bianca M.",
         "instructors": [
           "Brahamsha, Bianca M."
         ],
         "start_time": "13:00",
         "end_time": "17:00"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

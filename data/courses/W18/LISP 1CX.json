@@ -3,42 +3,79 @@
   "name": "Analysis of Spanish",
   "department": "LISP",
   "id": "1CX",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921405",
-      "type": "DI",
-      "section": "H00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "CENTR",
-      "room": "217B",
-      "instructor": "Munoz Sanchez, Alicia",
-      "instructors": [
-        "Munoz Sanchez, Alicia"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +84,135 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
+    },
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "cf31340dc7e899fd15925946652e22df23126c9bde5138ef15f253b23eb6a714": {
+        "sectxt": true,
+        "sectionID": "921398",
+        "type": "DI",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "38e72ecf082b7548949ead3995fe75e37e1ac5ab9ed3373866c1191a4871b3f4": {
+        "sectxt": true,
+        "sectionID": "921399",
+        "type": "DI",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "ba4874961f06ef31e861fdc8acb27c985d7007ee696424df6d5cd39beccdb9c4": {
+        "sectxt": true,
+        "sectionID": "921400",
+        "type": "DI",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "05ea514ae69c6a2adc86fa115eddeea15a30f151b7c3c1be8d1fa0288c2a0bac": {
+        "sectxt": true,
+        "sectionID": "921401",
+        "type": "DI",
+        "section": "D00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "0dad81a0dff44073a2cf73184fe2f596a977341b5a33e2c3a47f45e08b336cb9": {
+        "sectxt": true,
+        "sectionID": "921402",
+        "type": "DI",
+        "section": "E00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "959bf1ff46404a83d767d8972ab1fe14ac07ccb4af3dbb508599be5079a6f09c": {
+        "sectxt": true,
+        "sectionID": "921403",
+        "type": "DI",
+        "section": "F00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "217B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "43691621aaf335b2ec24ca2df7680ded9acea1ea1ba3bf61a4a4d30a3105b1a3": {
+        "sectxt": true,
+        "sectionID": "921404",
+        "type": "DI",
+        "section": "G00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "bdbb35f23d3773b20ff68b9951a2698b4189ceb19d8f759552cdc4f622c69921": {
         "sectxt": true,
         "sectionID": "921405",
         "type": "DI",
@@ -67,17 +221,150 @@
         "time": "3:30p-4:50p",
         "building": "CENTR",
         "room": "217B",
-        "instructor": "Munoz Sanchez, Alicia",
         "instructors": [
           "Munoz Sanchez, Alicia"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
+      },
+      "6632a1df143364a44ed5f84efe038da54c536422c22263d222956e3ef99a3484": {
+        "sectxt": true,
+        "sectionID": "921406",
+        "type": "DI",
+        "section": "I00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "0bcb0e2d12fb64afd6486a2665a041a48a44a266db90c97b0119c83cca13ca04": {
+        "sectxt": true,
+        "sectionID": "930631",
+        "type": "DI",
+        "section": "J00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "201",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "6367a2356aefb3a20daaf6007034594c0112412f6e0559d2509beffa8940ed18": {
+        "sectxt": true,
+        "sectionID": "921398",
+        "type": "DI",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "6589bae4b216c3eb843057b2dcf1e391a76ce5a58d771e16369a8aee4481db66": {
+        "sectxt": true,
+        "sectionID": "921399",
+        "type": "DI",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "5cfe8aa5319a711dda48c8d43ad4c7838d02d5c6c683c94493cfdb2e4a026da4": {
+        "sectxt": true,
+        "sectionID": "921400",
+        "type": "DI",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "f99ad378ef9d4585c8b0b9b172446b577288905161b934b03204dd0f4dca73ef": {
+        "sectxt": true,
+        "sectionID": "921401",
+        "type": "DI",
+        "section": "D00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "5569d6ed875ddc44e5bbdfa27ac7d800985a754f4bc45b0339dfc854ab0efcc9": {
+        "sectxt": true,
+        "sectionID": "921402",
+        "type": "DI",
+        "section": "E00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "82dd64117a5b1e31c09e7278a74644b4e0712196a640df1d879c842e412ec5fd": {
+        "sectxt": true,
+        "sectionID": "921403",
+        "type": "DI",
+        "section": "F00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "217B",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "1d2c73d1d4cbc615b229e44c9f62347720aa7fc702fcae1b3e6f16b09589fe41": {
+        "sectxt": true,
+        "sectionID": "921404",
+        "type": "DI",
+        "section": "G00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "46f7ff3f06de16f5089fc2ddca5cdfd48d9c88b104daec25ce309c66fcc30dc5": {
         "sectxt": true,
         "sectionID": "921405",
         "type": "DI",
@@ -86,16 +373,54 @@
         "time": "3:30p-4:50p",
         "building": "CENTR",
         "room": "217B",
-        "instructor": "Munoz Sanchez, Alicia",
         "instructors": [
           "Munoz Sanchez, Alicia"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
+      },
+      "65caee0b0f090509ce359082cbcb9afb8390bc0c7ddcecb6f88f630b17dcdd37": {
+        "sectxt": true,
+        "sectionID": "921406",
+        "type": "DI",
+        "section": "I00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "11dab69178afd7fe0554e01b18bbde961371656958c8442dbf2c7c20ac436453": {
+        "sectxt": true,
+        "sectionID": "930631",
+        "type": "DI",
+        "section": "J00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "201",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J"
+  ]
 }

@@ -3,27 +3,63 @@
   "name": "Surgery Independent Study Proj",
   "department": "SURG",
   "id": "299",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928694",
-      "type": "IN",
-      "section": "005",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Staff",
-      "instructors": [
-        "Staff"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "928690",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Jamieson, Christina Agnes"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "928691",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Rapaport, David H."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "928692",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Ciacci, Joseph D."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "928693",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Staff"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "928694",
       "type": "IN",
       "section": "005",
@@ -31,19 +67,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Staff",
       "instructors": [
         "Staff"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

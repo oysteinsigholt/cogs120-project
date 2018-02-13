@@ -3,27 +3,37 @@
   "name": "Honors Studies in Cog. Sci.",
   "department": "COGS",
   "id": "190B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929333",
-      "type": "LE",
-      "section": "H00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "De Sa, Virginia",
-      "instructors": [
-        "De Sa, Virginia"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "929331",
+      "type": "LE",
+      "section": "F00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hollan, James D."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "929332",
+      "type": "LE",
+      "section": "G00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Kirsh, David Joel"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "929333",
       "type": "LE",
       "section": "H00",
@@ -31,19 +41,76 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "De Sa, Virginia",
       "instructors": [
         "De Sa, Virginia"
       ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925600",
+      "type": "LE",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Deak, Gedeon O."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925601",
+      "type": "LE",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Klemmer, Scott R"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "925602",
+      "type": "LE",
+      "section": "C00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Pineda, Jaime A"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "929329",
+      "type": "LE",
+      "section": "D00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Chiba, Andrea"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "929330",
+      "type": "LE",
+      "section": "E00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Creel, Sarah"
+      ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

@@ -3,27 +3,24 @@
   "name": "Independent Study and Research",
   "department": "ETHN",
   "id": "199",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "936362",
-      "type": "IN",
-      "section": "002",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Frank, Ross H.",
-      "instructors": [
-        "Frank, Ross H."
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "936350",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Espiritu, Yen"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "936362",
       "type": "IN",
       "section": "002",
@@ -31,19 +28,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Frank, Ross H.",
       "instructors": [
         "Frank, Ross H."
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

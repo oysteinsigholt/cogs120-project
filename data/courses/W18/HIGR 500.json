@@ -3,27 +3,50 @@
   "name": "Apprentice Teaching",
   "department": "HIGR",
   "id": "500",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924512",
-      "type": "SE",
-      "section": "D00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Edington, Claire Ellen",
-      "instructors": [
-        "Edington, Claire Ellen"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "924509",
+      "type": "SE",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Klein, Rachel"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924510",
+      "type": "SE",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Man, Simeon S"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924511",
+      "type": "SE",
+      "section": "C00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Merrill O'Keefe, Amy Roxanne"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "924512",
       "type": "SE",
       "section": "D00",
@@ -31,19 +54,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Edington, Claire Ellen",
       "instructors": [
         "Edington, Claire Ellen"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

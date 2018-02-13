@@ -3,43 +3,23 @@
   "name": "Special Topics in Economics",
   "department": "ECON",
   "id": "281",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924141",
-      "type": "LE",
-      "section": "B00",
-      "days": "W",
-      "time": "9:00a-11:50a",
-      "building": "ECON",
-      "room": "200",
-      "instructor": "Clemens, Jeffrey & Fadlon, Yizhak",
-      "instructors": [
-        "Clemens, Jeffrey",
-        "Fadlon, Yizhak"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -48,19 +28,33 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "Tu": {
+      "99d8aacd2d3b4d4d46d6338c50250c891c39a6794c26eab0b5f4e414cf74b1ff": {
+        "sectxt": true,
+        "sectionID": "924140",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "ECON",
+        "room": "200",
+        "instructors": [
+          "Machina, Mark Joseph"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    },
+    "W": {
+      "5eb0d879d824c7621ece28752de416affc39d83ca61e32d6f1c44008897634fc": {
         "sectxt": true,
         "sectionID": "924141",
         "type": "LE",
@@ -69,18 +63,49 @@
         "time": "9:00a-11:50a",
         "building": "ECON",
         "room": "200",
-        "instructor": "Clemens, Jeffrey & Fadlon, Yizhak",
         "instructors": [
-          "Clemens, Jeffrey",
-          "Fadlon, Yizhak"
+          "Clemens, Jeffrey                   \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFadlon, Yizhak"
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      },
+      "d0edc36c975f8c288d2a4be140fccf2d78b55eb930a847f7b0c3bd866cf51143": {
+        "sectxt": true,
+        "sectionID": "924142",
+        "type": "LE",
+        "section": "C00",
+        "days": "W",
+        "time": "9:00a-11:50a",
+        "building": "ECON",
+        "room": "300",
+        "instructors": [
+          "Lagakos, David P.                  \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRondina, Giacomo"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "Th": {
+      "9bac3f63d0da2e6565724e6011ee38d4ac63ee1427e51d936f7b7779d3bc0608": {
+        "sectxt": true,
+        "sectionID": "924140",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "ECON",
+        "room": "200",
+        "instructors": [
+          "Machina, Mark Joseph"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

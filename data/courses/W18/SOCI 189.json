@@ -3,44 +3,11 @@
   "name": "Spec Top/Comp-Hist Sociology",
   "department": "SOCI",
   "id": "189",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929339",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "9:00a-11:50a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Thorpe, Charles Robert",
-      "instructors": [
-        "Thorpe, Charles Robert"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [
     "Class location SSB 101\n The Russian Revolution, the Soviet Union and Marxist\n Theory"
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -49,18 +16,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "7ee60ccb7916c46b1983fdddf2ff9136829304c90ed706c5b7cd21965abbd317": {
         "sectxt": true,
         "sectionID": "929339",
         "type": "LE",
@@ -69,18 +34,15 @@
         "time": "9:00a-11:50a",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Thorpe, Charles Robert",
         "instructors": [
           "Thorpe, Charles Robert"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

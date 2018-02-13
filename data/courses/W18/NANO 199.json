@@ -3,27 +3,24 @@
   "name": "Independent Study/Undergrad",
   "department": "NANO",
   "id": "199",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "936358",
-      "type": "IN",
-      "section": "004",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Zhang, Liangfang",
-      "instructors": [
-        "Zhang, Liangfang"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "933142",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Zhang, Liangfang"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "936358",
       "type": "IN",
       "section": "004",
@@ -31,19 +28,115 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Zhang, Liangfang",
       "instructors": [
         "Zhang, Liangfang"
       ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "936359",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Lipomi, Darren John"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939648",
+      "type": "IN",
+      "section": "006",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Vecchio, Kenneth S"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939718",
+      "type": "IN",
+      "section": "007",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Xu, Sheng"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939846",
+      "type": "IN",
+      "section": "008",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Vazquez Mena, Oscar"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939847",
+      "type": "IN",
+      "section": "009",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Chen, Shaochen"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939887",
+      "type": "IN",
+      "section": "010",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Wang, Joseph"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930120",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Lipomi, Darren John"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "933054",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Wang, Joseph"
+      ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

@@ -3,138 +3,9 @@
   "name": "An Introduction to Computing",
   "department": "COGS",
   "id": "3",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "MANDE",
-      "room": "B-210",
-      "instructor": "Boyle, Mary E. T.",
-      "instructors": [
-        "Boyle, Mary E. T."
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925525",
-      "type": "LA",
-      "section": "A01",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "CSB",
-      "room": "115",
-      "instructor": "Boyle, Mary E. T.",
-      "instructors": [
-        "Boyle, Mary E. T."
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925526",
-      "type": "LA",
-      "section": "A02",
-      "days": "W",
-      "time": "2:00p-2:50p",
-      "building": "CSB",
-      "room": "115",
-      "instructor": "Boyle, Mary E. T.",
-      "instructors": [
-        "Boyle, Mary E. T."
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925527",
-      "type": "LA",
-      "section": "A03",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925528",
-      "type": "LA",
-      "section": "A04",
-      "days": "F",
-      "time": "10:00a-10:50a",
-      "building": "CSB",
-      "room": "115",
-      "instructor": "Boyle, Mary E. T.",
-      "instructors": [
-        "Boyle, Mary E. T."
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925529",
-      "type": "LA",
-      "section": "A05",
-      "days": "F",
-      "time": "11:00a-11:50a",
-      "building": "CSB",
-      "room": "115",
-      "instructor": "Boyle, Mary E. T.",
-      "instructors": [
-        "Boyle, Mary E. T."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930573",
-      "type": "LA",
-      "section": "A06",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "CSB",
-      "room": "115",
-      "instructor": "Boyle, Mary E. T.",
-      "instructors": [
-        "Boyle, Mary E. T."
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -143,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "e4a7e0b48e5a74a5039a6a4a5657e3e1413e312642286325ab5d305301b5cae2": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -162,14 +32,13 @@
         "time": "1:00p-1:50p",
         "building": "MANDE",
         "room": "B-210",
-        "instructor": "Boyle, Mary E. T.",
         "instructors": [
           "Boyle, Mary E. T."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "92b727aeecec4a26408e46e5a19973fa70797af9efe770a14cd8be03d974da13": {
         "sectxt": true,
         "sectionID": "925525",
         "type": "LA",
@@ -178,14 +47,13 @@
         "time": "3:00p-3:50p",
         "building": "CSB",
         "room": "115",
-        "instructor": "Boyle, Mary E. T.",
         "instructors": [
           "Boyle, Mary E. T."
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "ddb03ef5853cc5eb02d5e029a8f418791fd9319c14420974b8aa1bdbbb9c9daf": {
         "sectxt": true,
         "sectionID": "930573",
         "type": "LA",
@@ -194,17 +62,15 @@
         "time": "4:00p-4:50p",
         "building": "CSB",
         "room": "115",
-        "instructor": "Boyle, Mary E. T.",
         "instructors": [
           "Boyle, Mary E. T."
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "c15fcf4f9ab3e7d38ca0b0fda612d43843a9400dd321e08de7ed0c9d036f43b0": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -213,14 +79,13 @@
         "time": "1:00p-1:50p",
         "building": "MANDE",
         "room": "B-210",
-        "instructor": "Boyle, Mary E. T.",
         "instructors": [
           "Boyle, Mary E. T."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "7eb3db47dd77ea19c164562e64fa54bf1c5a079b7e001f77dfe8603f66833def": {
         "sectxt": true,
         "sectionID": "925526",
         "type": "LA",
@@ -229,17 +94,15 @@
         "time": "2:00p-2:50p",
         "building": "CSB",
         "room": "115",
-        "instructor": "Boyle, Mary E. T.",
         "instructors": [
           "Boyle, Mary E. T."
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "a1ad73e826e4f3d18db30a6715bb1aece555b7c097097bfe51405b7a3389d35a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -248,14 +111,13 @@
         "time": "1:00p-1:50p",
         "building": "MANDE",
         "room": "B-210",
-        "instructor": "Boyle, Mary E. T.",
         "instructors": [
           "Boyle, Mary E. T."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "f2c1d6d361198c9ccbb212ef553256796389403feacae4b6c8635618a623f702": {
         "sectxt": true,
         "sectionID": "925528",
         "type": "LA",
@@ -264,14 +126,13 @@
         "time": "10:00a-10:50a",
         "building": "CSB",
         "room": "115",
-        "instructor": "Boyle, Mary E. T.",
         "instructors": [
           "Boyle, Mary E. T."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "0364472df0e3fd1a581f25d373cdb8eb07e7bba9cdbdb8adbefc7ec195b80531": {
         "sectxt": true,
         "sectionID": "925529",
         "type": "LA",
@@ -280,15 +141,15 @@
         "time": "11:00a-11:50a",
         "building": "CSB",
         "room": "115",
-        "instructor": "Boyle, Mary E. T.",
         "instructors": [
           "Boyle, Mary E. T."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

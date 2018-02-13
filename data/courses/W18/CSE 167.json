@@ -3,58 +3,9 @@
   "name": "Computer Graphics",
   "department": "CSE",
   "id": "167",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927534",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "6:30p-7:50p",
-      "building": "CENTR",
-      "room": "212",
-      "instructor": "Ochoa, Benjamin Lawrence",
-      "instructors": [
-        "Ochoa, Benjamin Lawrence"
-      ],
-      "start_time": "18:30",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A01",
-      "days": "Th",
-      "time": "5:00p-5:50p",
-      "building": "CENTR",
-      "room": "214",
-      "instructor": "Ochoa, Benjamin Lawrence",
-      "instructors": [
-        "Ochoa, Benjamin Lawrence"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "4014bb1a466c069dc311d33d5ef7495aff7dbbe0834ca64e0d8d595c45fc5253": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "6012b7272727a3dd6821bff41d11d3e6347409e59d63b1de36bd8804ef07ed0e": {
         "sectxt": true,
         "sectionID": "927534",
         "type": "LE",
@@ -82,17 +32,15 @@
         "time": "6:30p-7:50p",
         "building": "CENTR",
         "room": "212",
-        "instructor": "Ochoa, Benjamin Lawrence",
         "instructors": [
           "Ochoa, Benjamin Lawrence"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "2b4d0d9390dcbb95d93551edf209ca5475395c4308afae724b6520fcdd50f272": {
         "sectxt": true,
         "sectionID": "927534",
         "type": "LE",
@@ -101,16 +49,15 @@
         "time": "6:30p-7:50p",
         "building": "CENTR",
         "room": "212",
-        "instructor": "Ochoa, Benjamin Lawrence",
         "instructors": [
           "Ochoa, Benjamin Lawrence"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "09315c9327e089feda185d52868e70cc5daf7274dfab70a010bb16c8ed7757f3": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -119,16 +66,15 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "214",
-        "instructor": "Ochoa, Benjamin Lawrence",
         "instructors": [
           "Ochoa, Benjamin Lawrence"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

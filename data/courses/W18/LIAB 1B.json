@@ -3,30 +3,42 @@
   "name": "Arabic Conversation",
   "department": "LIAB",
   "id": "1B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921290",
-      "type": "TU",
-      "section": "C00",
-      "days": "MWF",
-      "time": "12:00p-12:50p",
-      "building": "HSS",
-      "room": "1106B",
-      "instructor": "Saab, Dima",
-      "instructors": [
-        "Saab, Dima"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1cf7feb41afaceaff2700600275cdffe434d0b8853038f27cacb3caeee4dbb92": {
+        "sectxt": true,
+        "sectionID": "921288",
+        "type": "TU",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "El Cheddadi, Youniss"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "a2c7513b5867a4049cf972dbbd1f822bf224c238bb3070a8301191027b87fb32": {
+        "sectxt": true,
+        "sectionID": "921289",
+        "type": "TU",
+        "section": "B00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Saab, Dima"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "9313f69b7905fce3b1fda06f929763df13f7371ee9f09ab062da44257e4fe3bf": {
         "sectxt": true,
         "sectionID": "921290",
         "type": "TU",
@@ -35,17 +47,45 @@
         "time": "12:00p-12:50p",
         "building": "HSS",
         "room": "1106B",
-        "instructor": "Saab, Dima",
         "instructors": [
           "Saab, Dima"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "2a508f6bbdba51e980f6dabf1aff946cd89e0953ba00e5c55698873f143c5f15": {
+        "sectxt": true,
+        "sectionID": "921288",
+        "type": "TU",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "El Cheddadi, Youniss"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "dc3fc6a79b963d82ac762f310472d267bacc9938813c57c2c1f9368e7fdc33bf": {
+        "sectxt": true,
+        "sectionID": "921289",
+        "type": "TU",
+        "section": "B00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Saab, Dima"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "9ff54c80adcc5b4e6580e51aae195b856b6e89635e2f3d18ccce6762805d5473": {
         "sectxt": true,
         "sectionID": "921290",
         "type": "TU",
@@ -54,17 +94,45 @@
         "time": "12:00p-12:50p",
         "building": "HSS",
         "room": "1106B",
-        "instructor": "Saab, Dima",
         "instructors": [
           "Saab, Dima"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "9760e4b935ba9713c207bb41f954b15f6bf067a47e534cc418e3378e65cc2ff8": {
+        "sectxt": true,
+        "sectionID": "921288",
+        "type": "TU",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "El Cheddadi, Youniss"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "8fca6c4f11b20dbeff8578e0881b7eccc1e8c9cce679089e5f4bf1f878021b3b": {
+        "sectxt": true,
+        "sectionID": "921289",
+        "type": "TU",
+        "section": "B00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Saab, Dima"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "8b2d435a1a5b6e5513756419e2e647a432da7d0b2afbecb6be1416d8305f2ea0": {
         "sectxt": true,
         "sectionID": "921290",
         "type": "TU",
@@ -73,15 +141,17 @@
         "time": "12:00p-12:50p",
         "building": "HSS",
         "room": "1106B",
-        "instructor": "Saab, Dima",
         "instructors": [
           "Saab, Dima"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

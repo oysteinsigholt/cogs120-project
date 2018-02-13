@@ -3,43 +3,9 @@
   "name": "Intro/Quant Evolutionary Bio",
   "department": "BGGN",
   "id": "212",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929104",
-      "type": "LE",
-      "section": "A00",
-      "days": "F",
-      "time": "12:30p-3:30p",
-      "building": "NSB",
-      "room": "4211",
-      "instructor": "Meyer, Justin Raymond & Kryazhimskiy, Sergey A",
-      "instructors": [
-        "Meyer, Justin Raymond",
-        "Kryazhimskiy, Sergey A"
-      ],
-      "start_time": "12:30",
-      "end_time": "15:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -48,21 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "dfc36fe242b3762be44002b986468884a000e69909667689f553dc13f32aa3e2": {
         "sectxt": true,
         "sectionID": "929104",
         "type": "LE",
@@ -71,16 +32,15 @@
         "time": "12:30p-3:30p",
         "building": "NSB",
         "room": "4211",
-        "instructor": "Meyer, Justin Raymond & Kryazhimskiy, Sergey A",
         "instructors": [
-          "Meyer, Justin Raymond",
-          "Kryazhimskiy, Sergey A"
+          "Meyer, Justin Raymond              \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tKryazhimskiy, Sergey A"
         ],
         "start_time": "12:30",
         "end_time": "15:30"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

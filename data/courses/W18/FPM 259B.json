@@ -3,33 +3,14 @@
   "name": "Applied Epidemiology:Sci Writ",
   "department": "FPM",
   "id": "259B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930038",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "9:00a-12:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Silverstein, Donna K",
-      "instructors": [
-        "Silverstein, Donna K"
-      ],
-      "start_time": "9:00",
-      "end_time": "12:00"
-    }
-  ],
   "notes": [
     "Location: MET 231"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "2020078ac22670bc5a2d31d7933d8bf3ba285077e55c420921cd4715aeb89684": {
         "sectxt": true,
         "sectionID": "930038",
         "type": "LE",
@@ -38,18 +19,15 @@
         "time": "9:00a-12:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Silverstein, Donna K",
         "instructors": [
           "Silverstein, Donna K"
         ],
         "start_time": "9:00",
         "end_time": "12:00"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

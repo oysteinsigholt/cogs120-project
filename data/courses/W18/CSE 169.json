@@ -3,24 +3,23 @@
   "name": "Computer Animation",
   "department": "CSE",
   "id": "169",
-  "timeslots": [
-    {
-      "sectxt": true,
+  "notes": [],
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
+      "sectxt": false,
       "sectionID": "",
-      "type": "LA",
-      "section": "A50",
-      "days": "TBA",
-      "time": "TBA",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Rotenberg, Steven Paul",
-      "instructors": [
-        "Rotenberg, Steven Paul"
-      ]
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
     }
-  ],
-  "notes": [],
-  "events_single": [],
+  },
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +30,63 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Rotenberg, Steven Paul",
       "instructors": [
         "Rotenberg, Steven Paul"
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "M": {
+      "c40546eb5f06204d0db488477d1636fef5e62549983441b802976bbe9fc5f928": {
+        "sectxt": true,
+        "sectionID": "927536",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "PETER",
+        "room": "103",
+        "instructors": [
+          "Rotenberg, Steven Paul"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    },
+    "W": {
+      "cb3af202f65fa5c212c3be2348764073b93a663d9b2434829f4ad97cbe6a4444": {
+        "sectxt": true,
+        "sectionID": "927536",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "PETER",
+        "room": "103",
+        "instructors": [
+          "Rotenberg, Steven Paul"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "d67f3046e849d22cf5fef4ca51f008761f39a5dade52d552658d22366f03d6f2": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A01",
+        "days": "W",
+        "time": "8:00p-8:50p",
+        "building": "WLH",
+        "room": "2205",
+        "instructors": [
+          "Rotenberg, Steven Paul"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

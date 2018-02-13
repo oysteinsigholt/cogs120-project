@@ -3,43 +3,10 @@
   "name": "Pharmacologic Anal/Physlg Syst",
   "department": "PHAR",
   "id": "240",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930422",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "2:00p-4:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Roth, David Michael & Villarreal, Francisco Javier",
-      "instructors": [
-        "Roth, David Michael",
-        "Villarreal, Francisco Javier"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:00"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Roth, David Michael",
-      "instructors": [
-        "Roth, David Michael"
-      ]
-    }
-  ],
   "notes": [
     "Location: BSB MDL-6"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -50,16 +17,14 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Roth, David Michael",
       "instructors": [
         "Roth, David Michael"
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "00c0412bb2fbb286cfe3f518188a104f363fbf7e3a3b562f0f0f19c2f8a7a08f": {
         "sectxt": true,
         "sectionID": "930422",
         "type": "LE",
@@ -68,19 +33,15 @@
         "time": "2:00p-4:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Roth, David Michael & Villarreal, Francisco Javier",
         "instructors": [
-          "Roth, David Michael",
-          "Villarreal, Francisco Javier"
+          "Roth, David Michael                \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVillarreal, Francisco Javier"
         ],
         "start_time": "14:00",
         "end_time": "16:00"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,42 +3,9 @@
   "name": "Economic Theories/Pol Behavior",
   "department": "POLI",
   "id": "112A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925304",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "3:00p-3:50p",
-      "building": "CSB",
-      "room": "004",
-      "instructor": "Ingham, Sean",
-      "instructors": [
-        "Ingham, Sean"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "e58ccd5a8a182efe1b0fcdc1a44441d21fe9f1176c98b8aad091de9a877c56c4": {
         "sectxt": true,
         "sectionID": "925304",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "3:00p-3:50p",
         "building": "CSB",
         "room": "004",
-        "instructor": "Ingham, Sean",
         "instructors": [
           "Ingham, Sean"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "652a9b354d2e8271a8ed303b37e86a16962168162a73d63be931ce88310f9018": {
         "sectxt": true,
         "sectionID": "925304",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "3:00p-3:50p",
         "building": "CSB",
         "room": "004",
-        "instructor": "Ingham, Sean",
         "instructors": [
           "Ingham, Sean"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "3abe21a5a012410f9adabc9ab00cf750d156e1445c1cc14a5083fdf82aff1214": {
         "sectxt": true,
         "sectionID": "925304",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "3:00p-3:50p",
         "building": "CSB",
         "room": "004",
-        "instructor": "Ingham, Sean",
         "instructors": [
           "Ingham, Sean"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,30 +3,12 @@
   "name": "Department Colloquium",
   "department": "ANTH",
   "id": "230",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923535",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "3:00p-4:50p",
-      "building": "SSB",
-      "room": "269",
-      "instructor": "Rivera-Collazo, Isabel C",
-      "instructors": [
-        "Rivera-Collazo, Isabel C"
-      ],
-      "start_time": "15:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "7c3826636f2c717a9c4d3c3726961acecadf08f1fc6a259ece9861b4f4d7a01b": {
         "sectxt": true,
         "sectionID": "923535",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "3:00p-4:50p",
         "building": "SSB",
         "room": "269",
-        "instructor": "Rivera-Collazo, Isabel C",
         "instructors": [
           "Rivera-Collazo, Isabel C"
         ],
         "start_time": "15:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

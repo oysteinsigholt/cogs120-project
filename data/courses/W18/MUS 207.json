@@ -3,34 +3,77 @@
   "name": "Theoretical Studies Seminar",
   "department": "MUS",
   "id": "207",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921825",
-      "type": "SE",
-      "section": "C00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    },
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "M": {
+      "d6a69181919aa724aa61a1416fb10ee83f1e8c7ba4e5f6e3d42b5bc0414f85fb": {
+        "sectxt": true,
+        "sectionID": "921823",
+        "type": "SE",
+        "section": "A00",
+        "days": "M",
+        "time": "5:00p-7:50p",
+        "building": "CPMC",
+        "room": "231",
+        "instructors": [
+          "Hankins, Sarah E."
+        ],
+        "start_time": "17:00",
+        "end_time": "19:50"
+      }
+    },
+    "W": {
+      "36fb948a961ba487bcce94d7d651ecd8030046d901002b2e3a40b0c91a871e8c": {
+        "sectxt": true,
+        "sectionID": "921824",
+        "type": "SE",
+        "section": "B00",
+        "days": "W",
+        "time": "2:00p-4:50p",
+        "building": "CPMC",
+        "room": "231",
+        "instructors": [
+          "Pasler, Jann Corinne"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

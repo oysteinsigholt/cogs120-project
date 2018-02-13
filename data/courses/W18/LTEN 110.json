@@ -3,42 +3,9 @@
   "name": "Topics: The Renaissance",
   "department": "LTEN",
   "id": "110",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924354",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "CENTR",
-      "room": "205",
-      "instructor": "Vitkus, Daniel J.",
-      "instructors": [
-        "Vitkus, Daniel J."
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "ff100ceb69806a6ed25b2377fe54733e621cfcec322aa15c4eddf431fd6ff509": {
         "sectxt": true,
         "sectionID": "924354",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "11:00a-12:20p",
         "building": "CENTR",
         "room": "205",
-        "instructor": "Vitkus, Daniel J.",
         "instructors": [
           "Vitkus, Daniel J."
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "ef16f1e026a2dcad8946f794f8cbe07dc7de2d844f517fac7e13450206ee6855": {
         "sectxt": true,
         "sectionID": "924354",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "11:00a-12:20p",
         "building": "CENTR",
         "room": "205",
-        "instructor": "Vitkus, Daniel J.",
         "instructors": [
           "Vitkus, Daniel J."
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,34 +3,25 @@
   "name": "Independent Study",
   "department": "PHYS",
   "id": "99",
-  "timeslots": [
+  "notes": [],
+  "events_single": {},
+  "events_unknown": [
     {
       "sectxt": true,
-      "sectionID": "923753",
+      "sectionID": "923752",
       "type": "IN",
-      "section": "002",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
       "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
+        "Ni, Kaixuan"
+      ]
     }
   ],
-  "notes": [],
-  "events_single": [],
-  "events_unknown": [],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": [
+    "0"
+  ]
 }

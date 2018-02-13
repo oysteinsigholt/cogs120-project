@@ -3,158 +3,27 @@
   "name": "Introduction to Digital Design",
   "department": "ECE",
   "id": "25",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A03",
-      "days": "F",
-      "time": "12:00p-12:50p",
-      "building": "HSS",
-      "room": "1330",
-      "instructor": "Dey, Sujit",
-      "instructors": [
-        "Dey, Sujit"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924980",
-      "type": "LA",
-      "section": "A50",
-      "days": "M",
-      "time": "8:30a-11:30a",
-      "building": "WLH",
-      "room": "2211",
-      "instructor": "Dey, Sujit",
-      "instructors": [
-        "Dey, Sujit"
-      ],
-      "start_time": "8:30",
-      "end_time": "11:30"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924981",
-      "type": "LA",
-      "section": "A51",
-      "days": "M",
-      "time": "12:00p-3:00p",
-      "building": "WLH",
-      "room": "2211",
-      "instructor": "Dey, Sujit",
-      "instructors": [
-        "Dey, Sujit"
-      ],
-      "start_time": "12:00",
-      "end_time": "15:00"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924982",
-      "type": "LA",
-      "section": "A52",
-      "days": "M",
-      "time": "7:00p-10:00p",
-      "building": "WLH",
-      "room": "2211",
-      "instructor": "Dey, Sujit",
-      "instructors": [
-        "Dey, Sujit"
-      ],
-      "start_time": "19:00",
-      "end_time": "22:00"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924983",
-      "type": "LA",
-      "section": "A53",
-      "days": "Tu",
-      "time": "3:30p-6:30p",
-      "building": "WLH",
-      "room": "2211",
-      "instructor": "Dey, Sujit",
-      "instructors": [
-        "Dey, Sujit"
-      ],
-      "start_time": "15:30",
-      "end_time": "18:30"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924984",
-      "type": "LA",
-      "section": "A54",
-      "days": "Th",
-      "time": "7:00p-10:00p",
-      "building": "WLH",
-      "room": "2211",
-      "instructor": "Dey, Sujit",
-      "instructors": [
-        "Dey, Sujit"
-      ],
-      "start_time": "19:00",
-      "end_time": "22:00"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924985",
-      "type": "LA",
-      "section": "A55",
-      "days": "W",
-      "time": "12:00p-3:00p",
-      "building": "WLH",
-      "room": "2211",
-      "instructor": "Dey, Sujit",
-      "instructors": [
-        "Dey, Sujit"
-      ],
-      "start_time": "12:00",
-      "end_time": "15:00"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924986",
-      "type": "LA",
-      "section": "A56",
-      "days": "W",
-      "time": "3:30p-6:30p",
-      "building": "WLH",
-      "room": "2211",
-      "instructor": "Dey, Sujit",
-      "instructors": [
-        "Dey, Sujit"
-      ],
-      "start_time": "15:30",
-      "end_time": "18:30"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924987",
-      "type": "LA",
-      "section": "A57",
-      "days": "W",
-      "time": "7:00p-10:00p",
-      "building": "WLH",
-      "room": "2211",
-      "instructor": "Dey, Sujit",
-      "instructors": [
-        "Dey, Sujit"
-      ],
-      "start_time": "19:00",
-      "end_time": "22:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "9305b022fe2568ed1222a98f256a92d939cbe5e4e14b51d963b3c975bd499893": {
         "sectxt": true,
         "sectionID": "924980",
         "type": "LA",
@@ -163,14 +32,13 @@
         "time": "8:30a-11:30a",
         "building": "WLH",
         "room": "2211",
-        "instructor": "Dey, Sujit",
         "instructors": [
           "Dey, Sujit"
         ],
         "start_time": "8:30",
         "end_time": "11:30"
       },
-      {
+      "f885c0b7642be9632f7a46f2c3c300f091c1ddb37e1543be4a274395b9c6dcef": {
         "sectxt": true,
         "sectionID": "924981",
         "type": "LA",
@@ -179,14 +47,13 @@
         "time": "12:00p-3:00p",
         "building": "WLH",
         "room": "2211",
-        "instructor": "Dey, Sujit",
         "instructors": [
           "Dey, Sujit"
         ],
         "start_time": "12:00",
         "end_time": "15:00"
       },
-      {
+      "bec58b667eeec1cc0bf434a55bd4817d851d6ee35c433bcc8351ed5407879630": {
         "sectxt": true,
         "sectionID": "924982",
         "type": "LA",
@@ -195,16 +62,30 @@
         "time": "7:00p-10:00p",
         "building": "WLH",
         "room": "2211",
-        "instructor": "Dey, Sujit",
         "instructors": [
           "Dey, Sujit"
         ],
         "start_time": "19:00",
         "end_time": "22:00"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "8987b7af87d847c623f8d9e86e86f1d582c28de0cd3bc163ae563b429ae225f9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "101",
+        "instructors": [
+          "Dey, Sujit"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "a2674c2875d659fc41d08e9cea2558b008c022dedcbefa94d43b284271a0b437": {
         "sectxt": true,
         "sectionID": "924983",
         "type": "LA",
@@ -213,16 +94,15 @@
         "time": "3:30p-6:30p",
         "building": "WLH",
         "room": "2211",
-        "instructor": "Dey, Sujit",
         "instructors": [
           "Dey, Sujit"
         ],
         "start_time": "15:30",
         "end_time": "18:30"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "df678f179defefe5cdc6c352eeb93832a74d3dd22052ad923720269a9d7d8dd4": {
         "sectxt": true,
         "sectionID": "924985",
         "type": "LA",
@@ -231,14 +111,13 @@
         "time": "12:00p-3:00p",
         "building": "WLH",
         "room": "2211",
-        "instructor": "Dey, Sujit",
         "instructors": [
           "Dey, Sujit"
         ],
         "start_time": "12:00",
         "end_time": "15:00"
       },
-      {
+      "20d8c6a6c6df50b48c5b22625f7a16d32267c9d86441b1e14c5751c2f4666766": {
         "sectxt": true,
         "sectionID": "924986",
         "type": "LA",
@@ -247,14 +126,13 @@
         "time": "3:30p-6:30p",
         "building": "WLH",
         "room": "2211",
-        "instructor": "Dey, Sujit",
         "instructors": [
           "Dey, Sujit"
         ],
         "start_time": "15:30",
         "end_time": "18:30"
       },
-      {
+      "9a5d49e372fd6455f5e66d68cd31479ada322e0498b9bce703df1e1ae7478011": {
         "sectxt": true,
         "sectionID": "924987",
         "type": "LA",
@@ -263,16 +141,30 @@
         "time": "7:00p-10:00p",
         "building": "WLH",
         "room": "2211",
-        "instructor": "Dey, Sujit",
         "instructors": [
           "Dey, Sujit"
         ],
         "start_time": "19:00",
         "end_time": "22:00"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "126816888d61f914f97a4cf223b36ae2f29f5df8aa68f3942a0e9370bddbed90": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "101",
+        "instructors": [
+          "Dey, Sujit"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "f12317eebd3431b772e78cd0246ab0a2a2a7ee132f7ab31c933c6d3647120502": {
         "sectxt": true,
         "sectionID": "924984",
         "type": "LA",
@@ -281,16 +173,30 @@
         "time": "7:00p-10:00p",
         "building": "WLH",
         "room": "2211",
-        "instructor": "Dey, Sujit",
         "instructors": [
           "Dey, Sujit"
         ],
         "start_time": "19:00",
         "end_time": "22:00"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "77a4ed4f464cee7dab46369503787a735da8520a808d1d04f508c1c97ca82028": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A02",
+        "days": "F",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "216",
+        "instructors": [
+          "Dey, Sujit"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "b0c5d44ba066e70c2ce954708b2c36c48581d36c00c946822d8b0a1f58ca7f8e": {
         "sectxt": true,
         "sectionID": "",
         "type": "DI",
@@ -299,15 +205,15 @@
         "time": "12:00p-12:50p",
         "building": "HSS",
         "room": "1330",
-        "instructor": "Dey, Sujit",
         "instructors": [
           "Dey, Sujit"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

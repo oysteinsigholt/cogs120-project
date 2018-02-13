@@ -3,30 +3,12 @@
   "name": "American Sign Lang Conversatn",
   "department": "LISL",
   "id": "1C",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921355",
-      "type": "TU",
-      "section": "A00",
-      "days": "MWF",
-      "time": "9:00a-9:50a",
-      "building": "APM",
-      "room": "3321",
-      "instructor": "Lott, Margaret S.",
-      "instructors": [
-        "Lott, Margaret S."
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "6263de77ab941c82034ac8ade424f958adba62e1c71d25fb40bd8f36d4909999": {
         "sectxt": true,
         "sectionID": "921355",
         "type": "TU",
@@ -35,17 +17,45 @@
         "time": "9:00a-9:50a",
         "building": "APM",
         "room": "3321",
-        "instructor": "Lott, Margaret S.",
         "instructors": [
           "Lott, Margaret S."
         ],
         "start_time": "9:00",
         "end_time": "9:50"
+      },
+      "7917481de30a8a501e61bd67e3219c9b7b52f8b076d39d155db384e412dbc62d": {
+        "sectxt": true,
+        "sectionID": "921356",
+        "type": "TU",
+        "section": "B00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "APM",
+        "room": "3321",
+        "instructors": [
+          "Lott, Margaret S."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "b02e047aeb6ea3587de8279309903b283841b61df105fb44e652628c4909bacb": {
+        "sectxt": true,
+        "sectionID": "921357",
+        "type": "TU",
+        "section": "C00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "APM",
+        "room": "3321",
+        "instructors": [
+          "Lott, Margaret S."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "6b22d1560b4e6800fb23b05f2c530ced380933c937dda964b57e0819cc7de776": {
         "sectxt": true,
         "sectionID": "921355",
         "type": "TU",
@@ -54,17 +64,45 @@
         "time": "9:00a-9:50a",
         "building": "APM",
         "room": "3321",
-        "instructor": "Lott, Margaret S.",
         "instructors": [
           "Lott, Margaret S."
         ],
         "start_time": "9:00",
         "end_time": "9:50"
+      },
+      "d597942e9f47ea3569a23c6415fb168d23b9a2d778f3a8d8a4c09ade78468ce3": {
+        "sectxt": true,
+        "sectionID": "921356",
+        "type": "TU",
+        "section": "B00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "APM",
+        "room": "3321",
+        "instructors": [
+          "Lott, Margaret S."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "dd3b9fd667c89c7baf8109baa9607c26ff47456af4e439a845fe1fface7d2a40": {
+        "sectxt": true,
+        "sectionID": "921357",
+        "type": "TU",
+        "section": "C00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "APM",
+        "room": "3321",
+        "instructors": [
+          "Lott, Margaret S."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "5a66d6fe358b7801c99f61c7328b37ed2d18353043d50db515b8071e29dadd87": {
         "sectxt": true,
         "sectionID": "921355",
         "type": "TU",
@@ -73,15 +111,47 @@
         "time": "9:00a-9:50a",
         "building": "APM",
         "room": "3321",
-        "instructor": "Lott, Margaret S.",
         "instructors": [
           "Lott, Margaret S."
         ],
         "start_time": "9:00",
         "end_time": "9:50"
+      },
+      "f59b25ccaa856b936b6c37bf53bac8a0262be6b9c3724e303cee51e992a138bf": {
+        "sectxt": true,
+        "sectionID": "921356",
+        "type": "TU",
+        "section": "B00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "APM",
+        "room": "3321",
+        "instructors": [
+          "Lott, Margaret S."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "b9040a4704163eb5bcfb49065e639315a3db95e365eaa39262a7b67a50a0bc88": {
+        "sectxt": true,
+        "sectionID": "921357",
+        "type": "TU",
+        "section": "C00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "APM",
+        "room": "3321",
+        "instructors": [
+          "Lott, Margaret S."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

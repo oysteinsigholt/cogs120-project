@@ -3,42 +3,9 @@
   "name": "Topics in Math Logic",
   "department": "MATH",
   "id": "267A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927300",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "9:00a-9:50a",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Buss, Samuel R",
-      "instructors": [
-        "Buss, Samuel R"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "b1132219733a33213e1abadd40a103eee7dfec5875c27c2dde98eb1ff812d4d1": {
         "sectxt": true,
         "sectionID": "927300",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "9:00a-9:50a",
         "building": "APM",
         "room": "2402",
-        "instructor": "Buss, Samuel R",
         "instructors": [
           "Buss, Samuel R"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "89375f30629e7f61bf26c71e6129be2ccc42905bbdc6eb36247e8c0b623215ca": {
         "sectxt": true,
         "sectionID": "927300",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "9:00a-9:50a",
         "building": "APM",
         "room": "2402",
-        "instructor": "Buss, Samuel R",
         "instructors": [
           "Buss, Samuel R"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "a644163d74f492d56d15797940991f61d80456ee143e647f2c38f0d25bdd6299": {
         "sectxt": true,
         "sectionID": "927300",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "9:00a-9:50a",
         "building": "APM",
         "room": "2402",
-        "instructor": "Buss, Samuel R",
         "instructors": [
           "Buss, Samuel R"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

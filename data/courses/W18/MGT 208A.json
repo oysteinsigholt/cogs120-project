@@ -3,42 +3,9 @@
   "name": "Intro to Mgmt Research A",
   "department": "MGT",
   "id": "208A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930360",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "10:00a-1:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Gneezy, Uri",
-      "instructors": [
-        "Gneezy, Uri"
-      ],
-      "start_time": "10:00",
-      "end_time": "13:00"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,19 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "3d519f44b4d7ad5fdf21672fc38ed9f59811de40c90e62327d7bed3f168b8418": {
         "sectxt": true,
         "sectionID": "930360",
         "type": "LE",
@@ -68,17 +32,15 @@
         "time": "10:00a-1:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Gneezy, Uri",
         "instructors": [
           "Gneezy, Uri"
         ],
         "start_time": "10:00",
         "end_time": "13:00"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

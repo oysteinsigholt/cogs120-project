@@ -3,30 +3,12 @@
   "name": "Freedom, Equality, and the Law",
   "department": "PHIL",
   "id": "165",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924814",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "10:00a-10:50a",
-      "building": "PETER",
-      "room": "102",
-      "instructor": "Rickless, Samuel Charles",
-      "instructors": [
-        "Rickless, Samuel Charles"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "294c7927fe505a25858037effdee87a00947f34991d7aaa19bbcbd456a044f75": {
         "sectxt": true,
         "sectionID": "924814",
         "type": "LE",
@@ -35,17 +17,15 @@
         "time": "10:00a-10:50a",
         "building": "PETER",
         "room": "102",
-        "instructor": "Rickless, Samuel Charles",
         "instructors": [
           "Rickless, Samuel Charles"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "f7f0cc2c6bd1a64a51ad476e4504146f7831c91229b9e1e9f9df395093a4f365": {
         "sectxt": true,
         "sectionID": "924814",
         "type": "LE",
@@ -54,17 +34,15 @@
         "time": "10:00a-10:50a",
         "building": "PETER",
         "room": "102",
-        "instructor": "Rickless, Samuel Charles",
         "instructors": [
           "Rickless, Samuel Charles"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "3064b7accb2d8c4a767433b39c025c93562ee9d725b2bb72eaa92aca644441ae": {
         "sectxt": true,
         "sectionID": "924814",
         "type": "LE",
@@ -73,15 +51,15 @@
         "time": "10:00a-10:50a",
         "building": "PETER",
         "room": "102",
-        "instructor": "Rickless, Samuel Charles",
         "instructors": [
           "Rickless, Samuel Charles"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

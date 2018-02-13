@@ -3,44 +3,12 @@
   "name": "Process II: Classical Text II",
   "department": "TDGR",
   "id": "220B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920391",
-      "type": "ST",
-      "section": "A00",
-      "days": "MW",
-      "time": "1:00p-3:50p",
-      "building": "GH",
-      "room": "15",
-      "instructor": "Barricelli, Marc Alexander",
-      "instructors": [
-        "Barricelli, Marc Alexander"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "ST",
-      "section": "A00",
-      "days": "F",
-      "time": "10:00a-11:50a",
-      "building": "GH",
-      "room": "15",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "10:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "7a3cf51d092f7246f1ae43b5213fe60d2588f6e945395ca56fcbf0230832a7fb": {
         "sectxt": true,
         "sectionID": "920391",
         "type": "ST",
@@ -49,17 +17,15 @@
         "time": "1:00p-3:50p",
         "building": "GH",
         "room": "15",
-        "instructor": "Barricelli, Marc Alexander",
         "instructors": [
           "Barricelli, Marc Alexander"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "d17a8852611af5f4bb864e55f45b9cbc3d284d6db8992e50d9c7d177a77f552c": {
         "sectxt": true,
         "sectionID": "920391",
         "type": "ST",
@@ -68,17 +34,15 @@
         "time": "1:00p-3:50p",
         "building": "GH",
         "room": "15",
-        "instructor": "Barricelli, Marc Alexander",
         "instructors": [
           "Barricelli, Marc Alexander"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "df3d50c63362fa789ad7cc94f21bd77c9c121543e9b0a0566b5a498f33ac1a6c": {
         "sectxt": false,
         "sectionID": "",
         "type": "ST",
@@ -87,13 +51,13 @@
         "time": "10:00a-11:50a",
         "building": "GH",
         "room": "15",
-        "instructor": "",
         "instructors": [],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

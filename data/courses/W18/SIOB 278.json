@@ -3,34 +3,61 @@
   "name": "Seminar in Ocean Biosciences",
   "department": "SIOB",
   "id": "278",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930429",
-      "type": "SE",
-      "section": "C00",
-      "days": "F",
-      "time": "2:00p-4:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Franks, Peter",
-      "instructors": [
-        "Franks, Peter"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "M": {
+      "2bec31c22433d2f668ad8be36c23d45c7556effae8eadfc4d38368a87ddffbd4": {
+        "sectxt": true,
+        "sectionID": "930430",
+        "type": "SE",
+        "section": "D00",
+        "days": "M",
+        "time": "2:00p-4:00p",
+        "building": "VAUGN",
+        "room": "300",
+        "instructors": [
+          "Franks, Peter"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:00"
+      },
+      "4a51c1ef0c52db37c1b4a5baf1b69e0e5adc2efccabbce0086a73f0fcea66ee1": {
+        "sectxt": true,
+        "sectionID": "921957",
+        "type": "SE",
+        "section": "A00",
+        "days": "M",
+        "time": "9:00a-10:50a",
+        "building": "VAUGN",
+        "room": "300",
+        "instructors": [
+          "Ohman, Mark D"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:50"
+      }
+    },
+    "Tu": {
+      "19cfe083a938185dfaa090e94417a05870acec11433f467f886e4e3cb462c196": {
+        "sectxt": true,
+        "sectionID": "929963",
+        "type": "SE",
+        "section": "B00",
+        "days": "Tu",
+        "time": "2:00p-3:20p",
+        "building": "HUBBS",
+        "room": "4135",
+        "instructors": [
+          "Azam, Farooq"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      }
+    },
+    "F": {
+      "c14e1f14ce38ecaf5c232f48dfb5a64e1417dae9bf756904c9c7540f0aed5ac7": {
         "sectxt": true,
         "sectionID": "930429",
         "type": "SE",
@@ -39,15 +66,18 @@
         "time": "2:00p-4:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Franks, Peter",
         "instructors": [
           "Franks, Peter"
         ],
         "start_time": "14:00",
         "end_time": "16:00"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "B",
+    "C",
+    "D",
+    "A"
+  ]
 }

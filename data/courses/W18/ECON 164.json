@@ -3,147 +3,9 @@
   "name": "The Indian Economy",
   "department": "ECON",
   "id": "164",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924104",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "PETER",
-      "room": "104",
-      "instructor": "Muralidharan, Karthik",
-      "instructors": [
-        "Muralidharan, Karthik"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/22/2018",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "CSB",
-      "room": "004",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-22T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/29/2018",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "CSB",
-      "room": "004",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-29T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/05/2018",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "CSB",
-      "room": "004",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-05T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/12/2018",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "CSB",
-      "room": "004",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-12T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/26/2018",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "CSB",
-      "room": "004",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-26T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/05/2018",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "CSB",
-      "room": "004",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-05T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/12/2018",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "CSB",
-      "room": "004",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-12T07:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "08e0fe1cdc0fd09616bbde2796588772efde555f8636d166fa5b917c1374befa": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -152,13 +14,12 @@
       "time": "4:00p-4:50p",
       "building": "CSB",
       "room": "004",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-22T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "9ce9dd9b0414a1bbb054e892f173a39170d555b8231635e1fb000af185575f68": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -167,13 +28,12 @@
       "time": "4:00p-4:50p",
       "building": "CSB",
       "room": "004",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-29T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "2e040bcd295ba53657f94d989d1020f402443d04739865dbe6b9e9c190d897c8": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -182,13 +42,12 @@
       "time": "4:00p-4:50p",
       "building": "CSB",
       "room": "004",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-05T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "92c62c9a586048d39ef060429a1163505e85cf1819a6e11e09cce76ef532a876": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -197,13 +56,12 @@
       "time": "4:00p-4:50p",
       "building": "CSB",
       "room": "004",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-12T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "f84fe2636c303c12686091fedc15a5ba4c47e11d4a3a8394868001bf741b79a8": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -212,13 +70,12 @@
       "time": "4:00p-4:50p",
       "building": "CSB",
       "room": "004",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-26T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "540efb721ce0b65fd25048cd0876e92445d2b1178a8cb531add8e10f67f7fca3": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -227,13 +84,12 @@
       "time": "4:00p-4:50p",
       "building": "CSB",
       "room": "004",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-05T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "dfaba93e9c7d87e5668e3c7def3afc1e48556acf21a60d62ecbc9d652494f983": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -242,13 +98,12 @@
       "time": "4:00p-4:50p",
       "building": "CSB",
       "room": "004",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-12T07:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -257,18 +112,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "089b0bc250ed32f02c115dca3d39877bf0a45d72aa3a6571cb17c19eb06326d7": {
         "sectxt": true,
         "sectionID": "924104",
         "type": "LE",
@@ -277,17 +130,15 @@
         "time": "12:30p-1:50p",
         "building": "PETER",
         "room": "104",
-        "instructor": "Muralidharan, Karthik",
         "instructors": [
           "Muralidharan, Karthik"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8628709dec41b7b4c6ed7bab1510d3d20c261b0b7b72df9528c208188bf3c650": {
         "sectxt": true,
         "sectionID": "924104",
         "type": "LE",
@@ -296,16 +147,15 @@
         "time": "12:30p-1:50p",
         "building": "PETER",
         "room": "104",
-        "instructor": "Muralidharan, Karthik",
         "instructors": [
           "Muralidharan, Karthik"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

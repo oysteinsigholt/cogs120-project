@@ -3,34 +3,12 @@
   "name": "Current Literatre/Glycobiology",
   "department": "BIOM",
   "id": "246",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929406",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "12:00p-1:00p",
-      "building": "BRF2",
-      "room": "4103",
-      "instructor": "Bode, Lars",
-      "instructors": [
-        "Bode, Lars"
-      ],
-      "start_time": "12:00",
-      "end_time": "13:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "44c21a5b859846d60f11eeaf114be13e78146dc1a257c1544109f93d8b84f369": {
         "sectxt": true,
         "sectionID": "929406",
         "type": "SE",
@@ -39,15 +17,15 @@
         "time": "12:00p-1:00p",
         "building": "BRF2",
         "room": "4103",
-        "instructor": "Bode, Lars",
         "instructors": [
           "Bode, Lars"
         ],
         "start_time": "12:00",
         "end_time": "13:00"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

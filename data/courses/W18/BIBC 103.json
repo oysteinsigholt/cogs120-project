@@ -3,78 +3,27 @@
   "name": "Biochemical Techniques",
   "department": "BIBC",
   "id": "103",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "D00",
-      "days": "MWF",
-      "time": "9:00a-9:50a",
-      "building": "WLH",
-      "room": "2205",
-      "instructor": "Mohan, Swarna",
-      "instructors": [
-        "Mohan, Swarna"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925847",
-      "type": "LA",
-      "section": "D01",
-      "days": "WF",
-      "time": "10:00a-1:50p",
-      "building": "BONN",
-      "room": "1309",
-      "instructor": "Mohan, Swarna",
-      "instructors": [
-        "Mohan, Swarna"
-      ],
-      "start_time": "10:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925848",
-      "type": "LA",
-      "section": "D02",
-      "days": "WF",
-      "time": "10:00a-1:50p",
-      "building": "BONN",
-      "room": "1329",
-      "instructor": "Mohan, Swarna",
-      "instructors": [
-        "Mohan, Swarna"
-      ],
-      "start_time": "10:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925849",
-      "type": "LA",
-      "section": "D03",
-      "days": "WF",
-      "time": "10:00a-1:50p",
-      "building": "BONN",
-      "room": "1413",
-      "instructor": "Mohan, Swarna",
-      "instructors": [
-        "Mohan, Swarna"
-      ],
-      "start_time": "10:00",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "e818ad97db118bd59a00493aaffa937df8b74e8528cfbe291cae6920a08f53c1": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/03/2018",
+      "days": "S",
+      "time": "1:00p-3:50p",
+      "building": "CSB",
+      "room": "004",
+      "instructors": [],
+      "date": "2018-02-03T08:00:00.000Z",
+      "start_time": "13:00",
+      "end_time": "15:50"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "49492e3a86c08d0ddfbbc2f75eac93db9dbbffcd648551f8f12921fa859ccc0e": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -83,33 +32,152 @@
         "time": "9:00a-9:50a",
         "building": "WLH",
         "room": "2205",
-        "instructor": "Mohan, Swarna",
-        "instructors": [
-          "Mohan, Swarna"
-        ],
-        "start_time": "9:00",
-        "end_time": "9:50"
-      }
-    ],
-    "Tu": [],
-    "W": [
-      {
-        "sectxt": true,
-        "sectionID": "",
-        "type": "LE",
-        "section": "D00",
-        "days": "MWF",
-        "time": "9:00a-9:50a",
-        "building": "WLH",
-        "room": "2205",
-        "instructor": "Mohan, Swarna",
         "instructors": [
           "Mohan, Swarna"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "adb6cbcbb012d123e8479169d1a765acb22b4e2b9328532b948d46e37a87ab2a": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "WLH",
+        "room": "2205",
+        "instructors": [
+          "Bozinovic, Goran"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    },
+    "Tu": {
+      "e465ded450a51855ecac87097b7a25f20ad1b32d4d66efd5a69c690a29911893": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "HSS",
+        "room": "1330",
+        "instructors": [
+          "Soowal, Lara"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "2396f773686772ac09c4f947924b89a2d0c4ba4de8532d3e3a93090eabd78894": {
+        "sectxt": true,
+        "sectionID": "925835",
+        "type": "LA",
+        "section": "A01",
+        "days": "TuTh",
+        "time": "9:30a-1:20p",
+        "building": "BONN",
+        "room": "1309",
+        "instructors": [
+          "Soowal, Lara"
+        ],
+        "start_time": "9:30",
+        "end_time": "13:20"
+      },
+      "4685672fdc9dedee6bc31d628154523250aed16dd752cf432b2126ee069a9cc8": {
+        "sectxt": true,
+        "sectionID": "925837",
+        "type": "LA",
+        "section": "A03",
+        "days": "TuTh",
+        "time": "9:30a-1:20p",
+        "building": "BONN",
+        "room": "1413",
+        "instructors": [
+          "Soowal, Lara"
+        ],
+        "start_time": "9:30",
+        "end_time": "13:20"
+      },
+      "fe821aab338ac01fb110301ba0d89370bd1bfcc54bf4729eab74248390226f50": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "WLH",
+        "room": "2205",
+        "instructors": [
+          "Burg, Michael"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "3f1ea2b1e4968fba0279e0c7d57fea0c6f1a5062d7fbbda80e4d091d8bfd0194": {
+        "sectxt": true,
+        "sectionID": "925843",
+        "type": "LA",
+        "section": "C01",
+        "days": "TuTh",
+        "time": "2:30p-6:20p",
+        "building": "BONN",
+        "room": "1309",
+        "instructors": [
+          "Burg, Michael"
+        ],
+        "start_time": "14:30",
+        "end_time": "18:20"
+      },
+      "cbdbe50ecd529fc083396280f6a634dde92926b8f079cd256b8c642da9fbeae1": {
+        "sectxt": true,
+        "sectionID": "925844",
+        "type": "LA",
+        "section": "C02",
+        "days": "TuTh",
+        "time": "2:30p-6:20p",
+        "building": "BONN",
+        "room": "1329",
+        "instructors": [
+          "Burg, Michael"
+        ],
+        "start_time": "14:30",
+        "end_time": "18:20"
+      },
+      "15cd87acee107a6d905f5ab0588e1cbd09b5a1e1df7af8e9c43e0f6a0e433230": {
+        "sectxt": true,
+        "sectionID": "925845",
+        "type": "LA",
+        "section": "C03",
+        "days": "TuTh",
+        "time": "2:30p-6:20p",
+        "building": "BONN",
+        "room": "1413",
+        "instructors": [
+          "Burg, Michael"
+        ],
+        "start_time": "14:30",
+        "end_time": "18:20"
+      }
+    },
+    "W": {
+      "de25451a62eddccadba3b6496a5ecb1dd27918fd33d62e178fecf35376231fbe": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "WLH",
+        "room": "2205",
+        "instructors": [
+          "Mohan, Swarna"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "9794582f9d0e3a276d6fd462f564cac363ad80da0bc7598e10a0f5659bcd6533": {
         "sectxt": true,
         "sectionID": "925847",
         "type": "LA",
@@ -118,14 +186,13 @@
         "time": "10:00a-1:50p",
         "building": "BONN",
         "room": "1309",
-        "instructor": "Mohan, Swarna",
         "instructors": [
           "Mohan, Swarna"
         ],
         "start_time": "10:00",
         "end_time": "13:50"
       },
-      {
+      "3058914ca9cbcb7524c174d4daf41fe0b2779da5985ef776a996d38635c8d6bd": {
         "sectxt": true,
         "sectionID": "925848",
         "type": "LA",
@@ -134,14 +201,13 @@
         "time": "10:00a-1:50p",
         "building": "BONN",
         "room": "1329",
-        "instructor": "Mohan, Swarna",
         "instructors": [
           "Mohan, Swarna"
         ],
         "start_time": "10:00",
         "end_time": "13:50"
       },
-      {
+      "b3f5eaa49b38f679efd00029355f100155380c2af82872ac49f75d6349e99c8e": {
         "sectxt": true,
         "sectionID": "925849",
         "type": "LA",
@@ -150,17 +216,182 @@
         "time": "10:00a-1:50p",
         "building": "BONN",
         "room": "1413",
-        "instructor": "Mohan, Swarna",
         "instructors": [
           "Mohan, Swarna"
         ],
         "start_time": "10:00",
         "end_time": "13:50"
+      },
+      "f8f7570f9e16215d811e11b96d05079a48607cd7f7c681d0f45b68db1cd236bf": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "WLH",
+        "room": "2205",
+        "instructors": [
+          "Bozinovic, Goran"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "a70e906951c13528baf2796e025b1a77e6c75110ee6303ab3f33e6c342914240": {
+        "sectxt": true,
+        "sectionID": "925839",
+        "type": "LA",
+        "section": "B01",
+        "days": "WF",
+        "time": "3:00p-6:50p",
+        "building": "BONN",
+        "room": "1309",
+        "instructors": [
+          "Bozinovic, Goran"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:50"
+      },
+      "aa7334f2ca6753c60fe4e0fe1c10e7eae97856209e103511fc42b703a49ff91a": {
+        "sectxt": true,
+        "sectionID": "925840",
+        "type": "LA",
+        "section": "B02",
+        "days": "WF",
+        "time": "3:00p-6:50p",
+        "building": "BONN",
+        "room": "1329",
+        "instructors": [
+          "Bozinovic, Goran"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:50"
+      },
+      "a3ef0777048b154ebbc4fb7103da91b3d9286b0ea701f93fd96918c36694f73d": {
+        "sectxt": true,
+        "sectionID": "925841",
+        "type": "LA",
+        "section": "B03",
+        "days": "WF",
+        "time": "3:00p-6:50p",
+        "building": "BONN",
+        "room": "1413",
+        "instructors": [
+          "Bozinovic, Goran"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "Th": {
+      "8545ab0c79c23ec92792f48a8a4e9c983955e31d9ddad421339a098929d3ab17": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "HSS",
+        "room": "1330",
+        "instructors": [
+          "Soowal, Lara"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "009cb37fb040616879b0e66177de41c614266d9b6c9d675d17277558d42ef500": {
+        "sectxt": true,
+        "sectionID": "925835",
+        "type": "LA",
+        "section": "A01",
+        "days": "TuTh",
+        "time": "9:30a-1:20p",
+        "building": "BONN",
+        "room": "1309",
+        "instructors": [
+          "Soowal, Lara"
+        ],
+        "start_time": "9:30",
+        "end_time": "13:20"
+      },
+      "17ad95fa0ef3397f193214485ce7364020c8ac3b05e4b7ba9ee362d6bdae2509": {
+        "sectxt": true,
+        "sectionID": "925837",
+        "type": "LA",
+        "section": "A03",
+        "days": "TuTh",
+        "time": "9:30a-1:20p",
+        "building": "BONN",
+        "room": "1413",
+        "instructors": [
+          "Soowal, Lara"
+        ],
+        "start_time": "9:30",
+        "end_time": "13:20"
+      },
+      "2f302de828e5a7690bf1736580e6e6d4a4661daff47937611eb8cd2d08b5720b": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "WLH",
+        "room": "2205",
+        "instructors": [
+          "Burg, Michael"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "89bd54844b39508e847df78844d835fe9e2d006b7aa70eb74fb1481a2fc30aea": {
+        "sectxt": true,
+        "sectionID": "925843",
+        "type": "LA",
+        "section": "C01",
+        "days": "TuTh",
+        "time": "2:30p-6:20p",
+        "building": "BONN",
+        "room": "1309",
+        "instructors": [
+          "Burg, Michael"
+        ],
+        "start_time": "14:30",
+        "end_time": "18:20"
+      },
+      "355a92ec3afe60688c45aff6f48a8b1397e8ff6ee820f9ef2e9409ff90526eed": {
+        "sectxt": true,
+        "sectionID": "925844",
+        "type": "LA",
+        "section": "C02",
+        "days": "TuTh",
+        "time": "2:30p-6:20p",
+        "building": "BONN",
+        "room": "1329",
+        "instructors": [
+          "Burg, Michael"
+        ],
+        "start_time": "14:30",
+        "end_time": "18:20"
+      },
+      "8a979348c853e5e90cb00734dc397f63ae3eb4f42df72d279d8614146da0535e": {
+        "sectxt": true,
+        "sectionID": "925845",
+        "type": "LA",
+        "section": "C03",
+        "days": "TuTh",
+        "time": "2:30p-6:20p",
+        "building": "BONN",
+        "room": "1413",
+        "instructors": [
+          "Burg, Michael"
+        ],
+        "start_time": "14:30",
+        "end_time": "18:20"
+      }
+    },
+    "F": {
+      "4e145f36d26de84670cfe5c9054b618fd8a777b383c5fd3b2d41e58b173bd77f": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -169,14 +400,13 @@
         "time": "9:00a-9:50a",
         "building": "WLH",
         "room": "2205",
-        "instructor": "Mohan, Swarna",
         "instructors": [
           "Mohan, Swarna"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "046861486c40959dc6c672fcd2f6e5313b5820acbd00be82df8e6c844d9af55e": {
         "sectxt": true,
         "sectionID": "925847",
         "type": "LA",
@@ -185,14 +415,13 @@
         "time": "10:00a-1:50p",
         "building": "BONN",
         "room": "1309",
-        "instructor": "Mohan, Swarna",
         "instructors": [
           "Mohan, Swarna"
         ],
         "start_time": "10:00",
         "end_time": "13:50"
       },
-      {
+      "c0068a637ee2b036c3059db88a125ee17083e2c7d7639db46f5fc007451455fd": {
         "sectxt": true,
         "sectionID": "925848",
         "type": "LA",
@@ -201,14 +430,13 @@
         "time": "10:00a-1:50p",
         "building": "BONN",
         "room": "1329",
-        "instructor": "Mohan, Swarna",
         "instructors": [
           "Mohan, Swarna"
         ],
         "start_time": "10:00",
         "end_time": "13:50"
       },
-      {
+      "6bf094d4419a32c33da36ff4b65eefb893228a9bd60bfeb8b62e2b1ce871d245": {
         "sectxt": true,
         "sectionID": "925849",
         "type": "LA",
@@ -217,15 +445,78 @@
         "time": "10:00a-1:50p",
         "building": "BONN",
         "room": "1413",
-        "instructor": "Mohan, Swarna",
         "instructors": [
           "Mohan, Swarna"
         ],
         "start_time": "10:00",
         "end_time": "13:50"
+      },
+      "0034e6eab238179ba7c5fa5f987c9cff49c424c9a5defd0d8e49625a76a3da83": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "WLH",
+        "room": "2205",
+        "instructors": [
+          "Bozinovic, Goran"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "adff8dbc490910801c09d09e79679a0483ce45a9e18b4f3b1cf97f1080b2a566": {
+        "sectxt": true,
+        "sectionID": "925839",
+        "type": "LA",
+        "section": "B01",
+        "days": "WF",
+        "time": "3:00p-6:50p",
+        "building": "BONN",
+        "room": "1309",
+        "instructors": [
+          "Bozinovic, Goran"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:50"
+      },
+      "ab504e895d239a57cdc11e809d47cf702b4a616cec7712f2064311c71f87b782": {
+        "sectxt": true,
+        "sectionID": "925840",
+        "type": "LA",
+        "section": "B02",
+        "days": "WF",
+        "time": "3:00p-6:50p",
+        "building": "BONN",
+        "room": "1329",
+        "instructors": [
+          "Bozinovic, Goran"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:50"
+      },
+      "63a8eaf752e5538077c776984aeac1bdb8a4944afd8e16b2a8134fb6ea2bcdec": {
+        "sectxt": true,
+        "sectionID": "925841",
+        "type": "LA",
+        "section": "B03",
+        "days": "WF",
+        "time": "3:00p-6:50p",
+        "building": "BONN",
+        "room": "1413",
+        "instructors": [
+          "Bozinovic, Goran"
+        ],
+        "start_time": "15:00",
+        "end_time": "18:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "D",
+    "A",
+    "B",
+    "C"
+  ]
 }

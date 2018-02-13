@@ -3,46 +3,12 @@
   "name": "Design Implmnt Informatcs BENG",
   "department": "BENG",
   "id": "126B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923302",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "8:00a-8:50a",
-      "building": "PFBH",
-      "room": "226",
-      "instructor": "Wheeler, Bruce Christopher",
-      "instructors": [
-        "Wheeler, Bruce Christopher"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A01",
-      "days": "M",
-      "time": "9:00a-9:50a",
-      "building": "PFBH",
-      "room": "108",
-      "instructor": "Wheeler, Bruce Christopher",
-      "instructors": [
-        "Wheeler, Bruce Christopher"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "d852a072005ebe10581a1ea62b972be54370c7021feb230dfc715a07a84f02b9": {
         "sectxt": true,
         "sectionID": "923302",
         "type": "LE",
@@ -51,14 +17,13 @@
         "time": "8:00a-8:50a",
         "building": "PFBH",
         "room": "226",
-        "instructor": "Wheeler, Bruce Christopher",
         "instructors": [
           "Wheeler, Bruce Christopher"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "217cf51d5cb1f1ac841ea4354cec446878925a2b1586f2fb43f676629246af8c": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -67,19 +32,15 @@
         "time": "9:00a-9:50a",
         "building": "PFBH",
         "room": "108",
-        "instructor": "Wheeler, Bruce Christopher",
         "instructors": [
           "Wheeler, Bruce Christopher"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

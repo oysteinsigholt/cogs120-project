@@ -3,34 +3,12 @@
   "name": "Topic/Communication/ProSeminar",
   "department": "COGR",
   "id": "275",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924271",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "9:00a-11:50a",
-      "building": "MCC",
-      "room": "127",
-      "instructor": "Goldfarb, Brian",
-      "instructors": [
-        "Goldfarb, Brian"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "c0d3150e0cba37f101a33d3ad1ee60a3bfb11d33f36115cf9ba53681a8a2dc51": {
         "sectxt": true,
         "sectionID": "924271",
         "type": "SE",
@@ -39,15 +17,15 @@
         "time": "9:00a-11:50a",
         "building": "MCC",
         "room": "127",
-        "instructor": "Goldfarb, Brian",
         "instructors": [
           "Goldfarb, Brian"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

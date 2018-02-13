@@ -3,30 +3,12 @@
   "name": "Molecular Pathology of Cancer",
   "department": "BIOM",
   "id": "256",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929414",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "10:00a-12:00p",
-      "building": "LFFB",
-      "room": "205",
-      "instructor": "Yang, Jing",
-      "instructors": [
-        "Yang, Jing"
-      ],
-      "start_time": "10:00",
-      "end_time": "12:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "5cf8a9d123eec1ec6da2e340baa75cbac9ff11377da59b482e3f33d41c98f76c": {
         "sectxt": true,
         "sectionID": "929414",
         "type": "LE",
@@ -35,17 +17,15 @@
         "time": "10:00a-12:00p",
         "building": "LFFB",
         "room": "205",
-        "instructor": "Yang, Jing",
         "instructors": [
           "Yang, Jing"
         ],
         "start_time": "10:00",
         "end_time": "12:00"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "4860120120abd0fdf4f3b1660535abbf425efe54d2d39e68b3e03c34c37f47ad": {
         "sectxt": true,
         "sectionID": "929414",
         "type": "LE",
@@ -54,17 +34,15 @@
         "time": "10:00a-12:00p",
         "building": "LFFB",
         "room": "205",
-        "instructor": "Yang, Jing",
         "instructors": [
           "Yang, Jing"
         ],
         "start_time": "10:00",
         "end_time": "12:00"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

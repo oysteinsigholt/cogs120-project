@@ -3,105 +3,9 @@
   "name": "Chem Physics: Stat Thermo I",
   "department": "CHEM",
   "id": "131",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "PCYNH",
-      "room": "122",
-      "instructor": "Weare, John H.",
-      "instructors": [
-        "Weare, John H."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926565",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "8:00a-8:50a",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "Weare, John H.",
-      "instructors": [
-        "Weare, John H."
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926566",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "9:00a-9:50a",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "Weare, John H.",
-      "instructors": [
-        "Weare, John H."
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926567",
-      "type": "DI",
-      "section": "A03",
-      "days": "W",
-      "time": "12:00p-12:50p",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "Weare, John H.",
-      "instructors": [
-        "Weare, John H."
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/10/2018",
-      "days": "S",
-      "time": "1:00p-2:50p",
-      "building": "PETER",
-      "room": "102",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-10T08:00:00.000Z",
-      "start_time": "13:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e4aa48fd85fe9967ae22da23e2570f165af8faaf83478ca7ba961d937785bdec": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -110,13 +14,12 @@
       "time": "1:00p-2:50p",
       "building": "PETER",
       "room": "102",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-10T08:00:00.000Z",
       "start_time": "13:00",
       "end_time": "14:50"
     },
-    {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -125,17 +28,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "8f5cd86a955748c71ed3b0524caeeb63a50a0e72fd21fc5f08d1756339b04ec5": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -144,17 +46,15 @@
         "time": "11:00a-11:50a",
         "building": "PCYNH",
         "room": "122",
-        "instructor": "Weare, John H.",
         "instructors": [
           "Weare, John H."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "74ea09cb3d01daba039901e3d18030194c0ce47fc0bd239b573a61ed455612f9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -163,14 +63,13 @@
         "time": "11:00a-11:50a",
         "building": "PCYNH",
         "room": "122",
-        "instructor": "Weare, John H.",
         "instructors": [
           "Weare, John H."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "85351e01ef242e48cacfca3570810b171dfab3c1406b2be18c79860c7835283a": {
         "sectxt": true,
         "sectionID": "926565",
         "type": "DI",
@@ -179,14 +78,13 @@
         "time": "8:00a-8:50a",
         "building": "WLH",
         "room": "2115",
-        "instructor": "Weare, John H.",
         "instructors": [
           "Weare, John H."
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "c7b95adf6e0a87ed5400d2f7707517b3d21f0ce523ed641457a2437f71ce47bf": {
         "sectxt": true,
         "sectionID": "926566",
         "type": "DI",
@@ -195,14 +93,13 @@
         "time": "9:00a-9:50a",
         "building": "WLH",
         "room": "2115",
-        "instructor": "Weare, John H.",
         "instructors": [
           "Weare, John H."
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "0508a514d256130a51106be144daa80ec62304944d417196b60fc810543c6fdf": {
         "sectxt": true,
         "sectionID": "926567",
         "type": "DI",
@@ -211,17 +108,15 @@
         "time": "12:00p-12:50p",
         "building": "WLH",
         "room": "2115",
-        "instructor": "Weare, John H.",
         "instructors": [
           "Weare, John H."
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "cb478914a4ec4bc4c62867dba462dc925b2849711db7c7bb7d18cd0442892921": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -230,15 +125,15 @@
         "time": "11:00a-11:50a",
         "building": "PCYNH",
         "room": "122",
-        "instructor": "Weare, John H.",
         "instructors": [
           "Weare, John H."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

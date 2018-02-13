@@ -3,31 +3,12 @@
   "name": "Workshop in Econometrics",
   "department": "ECON",
   "id": "222B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924130",
-      "type": "LA",
-      "section": "A00",
-      "days": "Tu",
-      "time": "3:30p-4:50p",
-      "building": "ECON",
-      "room": "300",
-      "instructor": "Wuthrich, Kaspar",
-      "instructors": [
-        "Wuthrich, Kaspar"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "ceb06dd66a824ddc507b8fdb4869ace5ec53615a9b259f40ea97da1505ebb161": {
         "sectxt": true,
         "sectionID": "924130",
         "type": "LA",
@@ -36,18 +17,15 @@
         "time": "3:30p-4:50p",
         "building": "ECON",
         "room": "300",
-        "instructor": "Wuthrich, Kaspar",
         "instructors": [
           "Wuthrich, Kaspar"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

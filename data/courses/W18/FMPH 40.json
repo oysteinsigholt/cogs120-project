@@ -3,57 +3,9 @@
   "name": "Introduction to Public Health",
   "department": "FMPH",
   "id": "40",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921092",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "PCYNH",
-      "room": "106",
-      "instructor": "Larsen, Britta Ann",
-      "instructors": [
-        "Larsen, Britta Ann"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/03/2018",
-      "days": "S",
-      "time": "10:30a-11:50a",
-      "building": "CENTR",
-      "room": "217A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-03T08:00:00.000Z",
-      "start_time": "10:30",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "54c574c93105aa4306cc0a6451ddb383dabb366c605e778913d3e97773a5dc08": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -62,13 +14,12 @@
       "time": "10:30a-11:50a",
       "building": "CENTR",
       "room": "217A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-03T08:00:00.000Z",
       "start_time": "10:30",
       "end_time": "11:50"
     },
-    {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -77,18 +28,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "383d2d3da1b69d18dd8854da9c6c65d75ea6cc07c49fa096123d7746d167da5c": {
         "sectxt": true,
         "sectionID": "921092",
         "type": "LE",
@@ -97,17 +46,15 @@
         "time": "11:00a-12:20p",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Larsen, Britta Ann",
         "instructors": [
           "Larsen, Britta Ann"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "2472de4d03937cf4eb1fcf70a832c3d7bad56a800ad9a0c7ff3a270a2f5e59f8": {
         "sectxt": true,
         "sectionID": "921092",
         "type": "LE",
@@ -116,16 +63,15 @@
         "time": "11:00a-12:20p",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Larsen, Britta Ann",
         "instructors": [
           "Larsen, Britta Ann"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

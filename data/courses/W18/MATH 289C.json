@@ -3,120 +3,9 @@
   "name": "Data Analysis and Inference",
   "department": "MATH",
   "id": "289C",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "5:00p-6:20p",
-      "building": "CENTR",
-      "room": "105",
-      "instructor": "Bradic, Jelena",
-      "instructors": [
-        "Bradic, Jelena"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927318",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "APM",
-      "room": "B432",
-      "instructor": "Bradic, Jelena",
-      "instructors": [
-        "Bradic, Jelena"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927319",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "APM",
-      "room": "B432",
-      "instructor": "Bradic, Jelena",
-      "instructors": [
-        "Bradic, Jelena"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927320",
-      "type": "DI",
-      "section": "A03",
-      "days": "W",
-      "time": "7:00p-7:50p",
-      "building": "APM",
-      "room": "B432",
-      "instructor": "Bradic, Jelena",
-      "instructors": [
-        "Bradic, Jelena"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927321",
-      "type": "DI",
-      "section": "A04",
-      "days": "W",
-      "time": "8:00p-8:50p",
-      "building": "APM",
-      "room": "B432",
-      "instructor": "Bradic, Jelena",
-      "instructors": [
-        "Bradic, Jelena"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A50",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Bradic, Jelena",
-      "instructors": [
-        "Bradic, Jelena"
-      ]
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -125,13 +14,12 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [
     {
       "sectxt": true,
@@ -142,16 +30,14 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Bradic, Jelena",
       "instructors": [
         "Bradic, Jelena"
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "503eae0a8858b7b329809768e5967230ac8000e953deadca9a39203641302192": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -160,16 +46,15 @@
         "time": "5:00p-6:20p",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Bradic, Jelena",
         "instructors": [
           "Bradic, Jelena"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "48e0420560d5254e6ca6f28b0c17312540cfb89d14a7b0ea5536967f81ae1acf": {
         "sectxt": true,
         "sectionID": "927318",
         "type": "DI",
@@ -178,14 +63,13 @@
         "time": "5:00p-5:50p",
         "building": "APM",
         "room": "B432",
-        "instructor": "Bradic, Jelena",
         "instructors": [
           "Bradic, Jelena"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "dd08e229fb63b83e3bbc61b8a53dba9e07678251ce56acbc66c5fa3a759502b1": {
         "sectxt": true,
         "sectionID": "927319",
         "type": "DI",
@@ -194,14 +78,13 @@
         "time": "6:00p-6:50p",
         "building": "APM",
         "room": "B432",
-        "instructor": "Bradic, Jelena",
         "instructors": [
           "Bradic, Jelena"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "8ffa6568341823138f0da596862e01c6e0d26227de89c93b45a3f3687de3465d": {
         "sectxt": true,
         "sectionID": "927320",
         "type": "DI",
@@ -210,14 +93,13 @@
         "time": "7:00p-7:50p",
         "building": "APM",
         "room": "B432",
-        "instructor": "Bradic, Jelena",
         "instructors": [
           "Bradic, Jelena"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "2c6dfa724f6c3a9d2d30d684c8f939a6437804299f93c6618540c0400541da57": {
         "sectxt": true,
         "sectionID": "927321",
         "type": "DI",
@@ -226,16 +108,15 @@
         "time": "8:00p-8:50p",
         "building": "APM",
         "room": "B432",
-        "instructor": "Bradic, Jelena",
         "instructors": [
           "Bradic, Jelena"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "ad10dc80025b6fae88a6e6bd4b3bc62f48725a5778aa49de4dbf9e9ef718c058": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -244,16 +125,15 @@
         "time": "5:00p-6:20p",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Bradic, Jelena",
         "instructors": [
           "Bradic, Jelena"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

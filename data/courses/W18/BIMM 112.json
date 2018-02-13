@@ -3,153 +3,9 @@
   "name": "Regulatn/Eucarytc Gene Exp",
   "department": "BIMM",
   "id": "112",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "PCYNH",
-      "room": "106",
-      "instructor": "Kadonaga, James T",
-      "instructors": [
-        "Kadonaga, James T"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926109",
-      "type": "DI",
-      "section": "A01",
-      "days": "Tu",
-      "time": "5:00p-5:50p",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Kadonaga, James T",
-      "instructors": [
-        "Kadonaga, James T"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926110",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Kadonaga, James T",
-      "instructors": [
-        "Kadonaga, James T"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926111",
-      "type": "DI",
-      "section": "A03",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "CENTR",
-      "room": "207",
-      "instructor": "Kadonaga, James T",
-      "instructors": [
-        "Kadonaga, James T"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926112",
-      "type": "DI",
-      "section": "A04",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "HSS",
-      "room": "2321",
-      "instructor": "Kadonaga, James T",
-      "instructors": [
-        "Kadonaga, James T"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926113",
-      "type": "DI",
-      "section": "A05",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "HSS",
-      "room": "1315",
-      "instructor": "Kadonaga, James T",
-      "instructors": [
-        "Kadonaga, James T"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926114",
-      "type": "DI",
-      "section": "A06",
-      "days": "Th",
-      "time": "6:00p-6:50p",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Kadonaga, James T",
-      "instructors": [
-        "Kadonaga, James T"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/04/2018",
-      "days": "Sun",
-      "time": "7:00p-8:50p",
-      "building": "CENTR",
-      "room": "115",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-04T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "a213fdaaa460d2aecaa8ca11a44d385ded8b3da21f0c50384d459d26477982f9": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -158,13 +14,12 @@
       "time": "7:00p-8:50p",
       "building": "CENTR",
       "room": "115",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-04T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "20:50"
     },
-    {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -173,18 +28,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "77a90d7a8864ca19fd9b8963b8c321ba412d20b52100d010e9805af3b2d06f08": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -193,14 +46,13 @@
         "time": "12:30p-1:50p",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Kadonaga, James T",
         "instructors": [
           "Kadonaga, James T"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       },
-      {
+      "f98fccd8aea4a05efeea81db2e587c8ad3a7f6ca440b8a191ee45965aa2e6697": {
         "sectxt": true,
         "sectionID": "926109",
         "type": "DI",
@@ -209,16 +61,15 @@
         "time": "5:00p-5:50p",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Kadonaga, James T",
         "instructors": [
           "Kadonaga, James T"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "72cbe92dc9903196cea72c6658fd6f06c54da6ecbe045491d2cdac7236dc7318": {
         "sectxt": true,
         "sectionID": "926110",
         "type": "DI",
@@ -227,14 +78,13 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Kadonaga, James T",
         "instructors": [
           "Kadonaga, James T"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "00b55a98a2c8a5dfa84e19bcda3b810d3c884057e8c77bf619bb076f03951c5f": {
         "sectxt": true,
         "sectionID": "926111",
         "type": "DI",
@@ -243,14 +93,13 @@
         "time": "3:00p-3:50p",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Kadonaga, James T",
         "instructors": [
           "Kadonaga, James T"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "f0229b3cac02e3df965e2b8ba0e278bb199dc0a32a59944fd2dd047becb722bc": {
         "sectxt": true,
         "sectionID": "926112",
         "type": "DI",
@@ -259,14 +108,13 @@
         "time": "4:00p-4:50p",
         "building": "HSS",
         "room": "2321",
-        "instructor": "Kadonaga, James T",
         "instructors": [
           "Kadonaga, James T"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "156a92bde1958cd28e611987e8fc9721672c80ba67c715c1e476226de39ca748": {
         "sectxt": true,
         "sectionID": "926113",
         "type": "DI",
@@ -275,16 +123,15 @@
         "time": "6:00p-6:50p",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Kadonaga, James T",
         "instructors": [
           "Kadonaga, James T"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f8ad585298e7b342895c254554dd0fa501d6feea536e74d6146ebcf55fb31294": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -293,14 +140,13 @@
         "time": "12:30p-1:50p",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Kadonaga, James T",
         "instructors": [
           "Kadonaga, James T"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       },
-      {
+      "75cb3d21cbe117501164b677514b6644b00c4afce4c5b2c17af251b5f2d18aa2": {
         "sectxt": true,
         "sectionID": "926114",
         "type": "DI",
@@ -309,16 +155,15 @@
         "time": "6:00p-6:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Kadonaga, James T",
         "instructors": [
           "Kadonaga, James T"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,24 +3,8 @@
   "name": "Subint/Otol-Head&Neck Surgery",
   "department": "SURG",
   "id": "433",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928705",
-      "type": "CL",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Husseman, Jacob Wade",
-      "instructors": [
-        "Husseman, Jacob Wade"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Husseman, Jacob Wade",
       "instructors": [
         "Husseman, Jacob Wade"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

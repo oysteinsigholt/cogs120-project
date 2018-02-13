@@ -3,33 +3,31 @@
   "name": "Adv Topics in Modern Biology",
   "department": "BISP",
   "id": "194",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926249",
-      "type": "SE",
-      "section": "B00",
-      "days": "Tu",
-      "time": "4:00p-5:20p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Muotri, Alysson",
-      "instructors": [
-        "Muotri, Alysson"
-      ],
-      "start_time": "16:00",
-      "end_time": "17:20"
-    }
-  ],
   "notes": [
     "BISP 194 B00 will meet at the Sanford Consortium for\n Regenerative Medicine located at 2880 Torrey Pines\n Scenic Drive, La Jolla, CA 92037 Room 1013 A & B."
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "a1fd7b95af215824d3890c2c1db4f45747e2f241e0989f0ba123a8399932651b": {
+        "sectxt": true,
+        "sectionID": "926248",
+        "type": "SE",
+        "section": "A00",
+        "days": "M",
+        "time": "6:00p-7:20p",
+        "building": "YORK",
+        "room": "3010",
+        "instructors": [
+          "Newsam, John"
+        ],
+        "start_time": "18:00",
+        "end_time": "19:20"
+      }
+    },
+    "Tu": {
+      "8fa2bf29872db3b058a756cc2058dfc942426cdba476b9678b7c723f096572a4": {
         "sectxt": true,
         "sectionID": "926249",
         "type": "SE",
@@ -38,18 +36,16 @@
         "time": "4:00p-5:20p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Muotri, Alysson",
         "instructors": [
           "Muotri, Alysson"
         ],
         "start_time": "16:00",
         "end_time": "17:20"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

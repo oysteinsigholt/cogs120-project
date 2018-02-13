@@ -3,34 +3,12 @@
   "name": "Stage Management 2",
   "department": "TDGR",
   "id": "280B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920423",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "10:00a-12:50p",
-      "building": "GH",
-      "room": "254",
-      "instructor": "Means, Charles E.",
-      "instructors": [
-        "Means, Charles E."
-      ],
-      "start_time": "10:00",
-      "end_time": "12:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "3ff4ab743fbe8ad569553b20d8194b3a0b2c490add7fddfd382c6ad55be74b2f": {
         "sectxt": true,
         "sectionID": "920423",
         "type": "SE",
@@ -39,15 +17,15 @@
         "time": "10:00a-12:50p",
         "building": "GH",
         "room": "254",
-        "instructor": "Means, Charles E.",
         "instructors": [
           "Means, Charles E."
         ],
         "start_time": "10:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

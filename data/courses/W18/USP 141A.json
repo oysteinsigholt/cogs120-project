@@ -3,42 +3,9 @@
   "name": "Life Course Scholars Research",
   "department": "USP",
   "id": "141A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922173",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "9:00a-11:50a",
-      "building": "SSB",
-      "room": "102",
-      "instructor": "Bussell, Mirle Rabinowitz",
-      "instructors": [
-        "Bussell, Mirle Rabinowitz"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,19 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "1cd34a264be69de37cea0ddf53ec0641d50d99dcb2198045373753d4e06848e5": {
         "sectxt": true,
         "sectionID": "922173",
         "type": "LE",
@@ -68,17 +32,15 @@
         "time": "9:00a-11:50a",
         "building": "SSB",
         "room": "102",
-        "instructor": "Bussell, Mirle Rabinowitz",
         "instructors": [
           "Bussell, Mirle Rabinowitz"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,24 +3,8 @@
   "name": "Independent Study",
   "department": "SOCI",
   "id": "199",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930652",
-      "type": "IN",
-      "section": "001",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Lewis, Kevin Michael",
-      "instructors": [
-        "Lewis, Kevin Michael"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Lewis, Kevin Michael",
       "instructors": [
         "Lewis, Kevin Michael"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

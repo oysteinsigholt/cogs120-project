@@ -3,33 +3,12 @@
   "name": "Advanced Scenic Design",
   "department": "TDGR",
   "id": "274",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920414",
-      "type": "ST",
-      "section": "A00",
-      "days": "Th",
-      "time": "1:00p-3:50p",
-      "building": "GH",
-      "room": "111",
-      "instructor": "Brill, Robert L.",
-      "instructors": [
-        "Brill, Robert L."
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "3f4f07f953ceaa07a11efc7d39976a953dc8aa1d6446bb146f369c2e12bc25ac": {
         "sectxt": true,
         "sectionID": "920414",
         "type": "ST",
@@ -38,16 +17,15 @@
         "time": "1:00p-3:50p",
         "building": "GH",
         "room": "111",
-        "instructor": "Brill, Robert L.",
         "instructors": [
           "Brill, Robert L."
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

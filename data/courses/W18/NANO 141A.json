@@ -3,42 +3,9 @@
   "name": "Eng Mech I: Analysis of Equil",
   "department": "NANO",
   "id": "141A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926743",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "WLH",
-      "room": "2207",
-      "instructor": "Lubarda, Vlado",
-      "instructors": [
-        "Lubarda, Vlado"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1b8af742ab7931e78f4ac5602fbd7216e7eb42275d042e9c4a0e5543ea5678f5": {
         "sectxt": true,
         "sectionID": "926743",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "2:00p-2:50p",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Lubarda, Vlado",
         "instructors": [
           "Lubarda, Vlado"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "0a36f9e453ae996a06a7cda6e435b42584339b0e6844dc18f7b5f2833f3c9c5b": {
         "sectxt": true,
         "sectionID": "926743",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "2:00p-2:50p",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Lubarda, Vlado",
         "instructors": [
           "Lubarda, Vlado"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "d70549e9f7f80b744adffd00ad6ca05a4f9ac78dbeff99be0265093dc6b2a2e0": {
         "sectxt": true,
         "sectionID": "926743",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "2:00p-2:50p",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Lubarda, Vlado",
         "instructors": [
           "Lubarda, Vlado"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

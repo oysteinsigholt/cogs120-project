@@ -3,33 +3,14 @@
   "name": "Molecular Biophysics Seminar",
   "department": "CHEM",
   "id": "291",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926646",
-      "type": "SE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "MCGIL",
-      "room": "2342",
-      "instructor": "Komives, Elizabeth A",
-      "instructors": [
-        "Komives, Elizabeth A"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [
     "Course is by invitation-only to students selected for\n the Molecular Biophysics Training Grant (MBTG) Program."
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "2f8bded00125dc422f7820aa72bd3dc18487d2366ceffa73efa9c06d60dfac93": {
         "sectxt": true,
         "sectionID": "926646",
         "type": "SE",
@@ -38,17 +19,15 @@
         "time": "3:30p-4:50p",
         "building": "MCGIL",
         "room": "2342",
-        "instructor": "Komives, Elizabeth A",
         "instructors": [
           "Komives, Elizabeth A"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "5315a1dccbe094feab191f4fa1e5d2319d6b97b1934e31c56e503108f540b0dd": {
         "sectxt": true,
         "sectionID": "926646",
         "type": "SE",
@@ -57,16 +36,15 @@
         "time": "3:30p-4:50p",
         "building": "MCGIL",
         "room": "2342",
-        "instructor": "Komives, Elizabeth A",
         "instructors": [
           "Komives, Elizabeth A"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

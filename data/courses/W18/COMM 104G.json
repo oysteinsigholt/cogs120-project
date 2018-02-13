@@ -3,42 +3,9 @@
   "name": "CMS: Latin America & Caribbean",
   "department": "COMM",
   "id": "104G",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924185",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Hallin, Daniel C",
-      "instructors": [
-        "Hallin, Daniel C"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "6bd1a2a25be5784166302f0b3bc244dc6a90d8f9a0981550566a00cac2ca35b2": {
         "sectxt": true,
         "sectionID": "924185",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "9:30a-10:50a",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Hallin, Daniel C",
         "instructors": [
           "Hallin, Daniel C"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "1da01c539246e1293d10ee30b7c41739b3b949673b813ef2e9af1434367ae123": {
         "sectxt": true,
         "sectionID": "924185",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "9:30a-10:50a",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Hallin, Daniel C",
         "instructors": [
           "Hallin, Daniel C"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

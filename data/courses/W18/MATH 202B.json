@@ -3,42 +3,9 @@
   "name": "Applied Algebra II",
   "department": "MATH",
   "id": "202B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927281",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "APM",
-      "room": "5402",
-      "instructor": "Rhoades, Brendon Patrick",
-      "instructors": [
-        "Rhoades, Brendon Patrick"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "cb937cdbeacd1daa5794d86455134f538ea1778593e1f943f5694190da35b0ec": {
         "sectxt": true,
         "sectionID": "927281",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "1:00p-1:50p",
         "building": "APM",
         "room": "5402",
-        "instructor": "Rhoades, Brendon Patrick",
         "instructors": [
           "Rhoades, Brendon Patrick"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "f0350868c0026bc0fd8b3a4195b2b83cf4074d416950b01314065215410584df": {
         "sectxt": true,
         "sectionID": "927281",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "1:00p-1:50p",
         "building": "APM",
         "room": "5402",
-        "instructor": "Rhoades, Brendon Patrick",
         "instructors": [
           "Rhoades, Brendon Patrick"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "5007d9ffda9a0558f018a6ac7f0b19de89fa502ce5ad2e21e5545b1e1d97a16b": {
         "sectxt": true,
         "sectionID": "927281",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "1:00p-1:50p",
         "building": "APM",
         "room": "5402",
-        "instructor": "Rhoades, Brendon Patrick",
         "instructors": [
           "Rhoades, Brendon Patrick"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

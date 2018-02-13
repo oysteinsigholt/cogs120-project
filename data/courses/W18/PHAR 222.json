@@ -3,44 +3,11 @@
   "name": "Molecular Pathology of Cancer",
   "department": "PHAR",
   "id": "222",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930486",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "10:00a-12:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Yang, Jing",
-      "instructors": [
-        "Yang, Jing"
-      ],
-      "start_time": "10:00",
-      "end_time": "12:00"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [
     "Location: LFFB 205"
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -49,17 +16,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "e0e1441731434504fc678a8ddf7d6ffe4ae91c65a00afa7a7a603f52e2c7d51a": {
         "sectxt": true,
         "sectionID": "930486",
         "type": "LE",
@@ -68,17 +34,15 @@
         "time": "10:00a-12:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Yang, Jing",
         "instructors": [
           "Yang, Jing"
         ],
         "start_time": "10:00",
         "end_time": "12:00"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "eefad45fd5f07680bebe7b47150bc2d7576322792789072ec095ef73c19e1e7d": {
         "sectxt": true,
         "sectionID": "930486",
         "type": "LE",
@@ -87,17 +51,15 @@
         "time": "10:00a-12:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Yang, Jing",
         "instructors": [
           "Yang, Jing"
         ],
         "start_time": "10:00",
         "end_time": "12:00"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

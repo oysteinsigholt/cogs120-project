@@ -3,102 +3,9 @@
   "name": "Financial Accounting",
   "department": "ECON",
   "id": "4",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924028",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "6:30p-7:50p",
-      "building": "CENTR",
-      "room": "101",
-      "instructor": "Levkoff, Steven B.",
-      "instructors": [
-        "Levkoff, Steven B."
-      ],
-      "start_time": "18:30",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/26/2018",
-      "days": "F",
-      "time": "6:30p-7:50p",
-      "building": "GH",
-      "room": "242",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-26T08:00:00.000Z",
-      "start_time": "18:30",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/31/2018",
-      "days": "W",
-      "time": "8:00p-9:50p",
-      "building": "CENTR",
-      "room": "101",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-31T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/21/2018",
-      "days": "W",
-      "time": "5:30p-6:50p",
-      "building": "SOLIS",
-      "room": "107",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-21T08:00:00.000Z",
-      "start_time": "17:30",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/28/2018",
-      "days": "W",
-      "time": "8:00p-9:20p",
-      "building": "CENTR",
-      "room": "101",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-28T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b587e2ff0fcff6a6cd0a9754fa36e4934f99e7b9e2c95cd8f78e69cb3334f2e7": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -107,13 +14,12 @@
       "time": "6:30p-7:50p",
       "building": "GH",
       "room": "242",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-26T08:00:00.000Z",
       "start_time": "18:30",
       "end_time": "19:50"
     },
-    {
+    "e024bed4fc8a49689ead56b80b84a9e914c72b2835b4d61d353d97d9535f8166": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -122,13 +28,12 @@
       "time": "8:00p-9:50p",
       "building": "CENTR",
       "room": "101",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-31T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "5e8e10a55d635141c7d1bcef0df052e34c82dcb41785a453f1c65309a34b7510": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -137,13 +42,12 @@
       "time": "5:30p-6:50p",
       "building": "SOLIS",
       "room": "107",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-21T08:00:00.000Z",
       "start_time": "17:30",
       "end_time": "18:50"
     },
-    {
+    "0af35e7fb93def9297ced09bb479f37d1694df1e5fad1a8d27a4d33fa5e84e87": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -152,13 +56,12 @@
       "time": "8:00p-9:20p",
       "building": "CENTR",
       "room": "101",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-28T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:20"
     },
-    {
+    "83f667703ee5f41443699d3c685d2af7204f58e7d0026726650a8f5259ecf403": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -167,18 +70,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "664de4abe035cf53964f0ebae0d893fa53815f49a45154476f3d34fa3aae630b": {
         "sectxt": true,
         "sectionID": "924028",
         "type": "LE",
@@ -187,17 +88,15 @@
         "time": "6:30p-7:50p",
         "building": "CENTR",
         "room": "101",
-        "instructor": "Levkoff, Steven B.",
         "instructors": [
           "Levkoff, Steven B."
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "d715fff4861eff3c2ea98ed5aacfefe7c9281876abee44a9323604e4d381fd5a": {
         "sectxt": true,
         "sectionID": "924028",
         "type": "LE",
@@ -206,16 +105,15 @@
         "time": "6:30p-7:50p",
         "building": "CENTR",
         "room": "101",
-        "instructor": "Levkoff, Steven B.",
         "instructors": [
           "Levkoff, Steven B."
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

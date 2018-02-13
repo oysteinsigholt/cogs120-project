@@ -3,30 +3,12 @@
   "name": "Workshop:International Relatns",
   "department": "POLI",
   "id": "283",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925383",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "12:00p-2:50p",
-      "building": "SSB",
-      "room": "104",
-      "instructor": "Schneider, Christina",
-      "instructors": [
-        "Schneider, Christina"
-      ],
-      "start_time": "12:00",
-      "end_time": "14:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "77fc6e38045574af8d4aded64c296e40c49a345e390e9d85f1a3e2e50ba9e5ce": {
         "sectxt": true,
         "sectionID": "925383",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "12:00p-2:50p",
         "building": "SSB",
         "room": "104",
-        "instructor": "Schneider, Christina",
         "instructors": [
           "Schneider, Christina"
         ],
         "start_time": "12:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

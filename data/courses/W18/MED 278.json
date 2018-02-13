@@ -3,35 +3,14 @@
   "name": "Cancer Genomics Journal Club",
   "department": "MED",
   "id": "278",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930455",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "2:00p-3:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Harismendy, Olivier & Carter, Hannah Kathryn & Mesirov, Jill P.",
-      "instructors": [
-        "Harismendy, Olivier",
-        "Carter, Hannah Kathryn",
-        "Mesirov, Jill P."
-      ],
-      "start_time": "14:00",
-      "end_time": "15:00"
-    }
-  ],
   "notes": [
     "Location: BRF2, 5A03"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "49ad8ea2676c823c9d7d340c47638f55339fc00876964e0d6cf8bcf4229ba3e0": {
         "sectxt": true,
         "sectionID": "930455",
         "type": "SE",
@@ -40,20 +19,15 @@
         "time": "2:00p-3:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Harismendy, Olivier & Carter, Hannah Kathryn & Mesirov, Jill P.",
         "instructors": [
-          "Harismendy, Olivier",
-          "Carter, Hannah Kathryn",
-          "Mesirov, Jill P."
+          "Harismendy, Olivier                \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCarter, Hannah Kathryn             \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMesirov, Jill P."
         ],
         "start_time": "14:00",
         "end_time": "15:00"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

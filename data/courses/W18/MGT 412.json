@@ -3,43 +3,9 @@
   "name": "Lab to Market:Bus Model Analys",
   "department": "MGT",
   "id": "412",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930334",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "6:30p-9:30p",
-      "building": "OTRSN",
-      "room": "1E106",
-      "instructor": "Amir, On & Meyer, Michael Wayne",
-      "instructors": [
-        "Amir, On",
-        "Meyer, Michael Wayne"
-      ],
-      "start_time": "18:30",
-      "end_time": "21:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "6:30p-9:30p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "18:30",
-      "end_time": "21:30"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "23b7303abbf3e678287869ea7924b3fa7b0bc4069be6e350aa32ebbf59533de8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -48,18 +14,16 @@
       "time": "6:30p-9:30p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "18:30",
       "end_time": "21:30"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "ba871ba6265b514095cef47d0ae43ad17d2fb3b931beec6ea1d6599a309ee60d": {
         "sectxt": true,
         "sectionID": "930334",
         "type": "LE",
@@ -68,19 +32,15 @@
         "time": "6:30p-9:30p",
         "building": "OTRSN",
         "room": "1E106",
-        "instructor": "Amir, On & Meyer, Michael Wayne",
         "instructors": [
-          "Amir, On",
-          "Meyer, Michael Wayne"
+          "Amir, On                           \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMeyer, Michael Wayne"
         ],
         "start_time": "18:30",
         "end_time": "21:30"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,30 +3,12 @@
   "name": "Translational Resrch Jrl Club",
   "department": "MED",
   "id": "243",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930449",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "12:00p-1:00p",
-      "building": "MET",
-      "room": "215",
-      "instructor": "Chi, Neil C.",
-      "instructors": [
-        "Chi, Neil C."
-      ],
-      "start_time": "12:00",
-      "end_time": "13:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "5a8300500da217a0ffd9a930b40bf6f6ac93b6d7b9990bdca069a6f588e10c47": {
         "sectxt": true,
         "sectionID": "930449",
         "type": "LE",
@@ -35,19 +17,15 @@
         "time": "12:00p-1:00p",
         "building": "MET",
         "room": "215",
-        "instructor": "Chi, Neil C.",
         "instructors": [
           "Chi, Neil C."
         ],
         "start_time": "12:00",
         "end_time": "13:00"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

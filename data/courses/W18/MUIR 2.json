@@ -3,64 +3,12 @@
   "name": "Transfer Year Experience",
   "department": "MUIR",
   "id": "2",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "WLH",
-      "room": "2112",
-      "instructor": "Wastal, Carrie King",
-      "instructors": [
-        "Wastal, Carrie King"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "928330",
-      "type": "DI",
-      "section": "A01",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "HSS",
-      "room": "2305B",
-      "instructor": "Wastal, Carrie King",
-      "instructors": [
-        "Wastal, Carrie King"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "928331",
-      "type": "DI",
-      "section": "A02",
-      "days": "F",
-      "time": "1:00p-1:50p",
-      "building": "HSS",
-      "room": "2305B",
-      "instructor": "Wastal, Carrie King",
-      "instructors": [
-        "Wastal, Carrie King"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "827d8e61b0be564cefe3242e8ded91bf3b54cd405249ba4e71bd8ae53b45dd4d": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -69,17 +17,15 @@
         "time": "4:00p-4:50p",
         "building": "WLH",
         "room": "2112",
-        "instructor": "Wastal, Carrie King",
         "instructors": [
           "Wastal, Carrie King"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "21dee5de0bd89b809e605bc79935856ab9f0676bac56b41d3388b96383bbd019": {
         "sectxt": true,
         "sectionID": "928330",
         "type": "DI",
@@ -88,14 +34,13 @@
         "time": "9:00a-9:50a",
         "building": "HSS",
         "room": "2305B",
-        "instructor": "Wastal, Carrie King",
         "instructors": [
           "Wastal, Carrie King"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "b3b1e005381e3aeeedf37d422ba7a86827e4edf429f9ee78588ee7472808b8c0": {
         "sectxt": true,
         "sectionID": "928331",
         "type": "DI",
@@ -104,15 +49,15 @@
         "time": "1:00p-1:50p",
         "building": "HSS",
         "room": "2305B",
-        "instructor": "Wastal, Carrie King",
         "instructors": [
           "Wastal, Carrie King"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,34 +3,12 @@
   "name": "Wrkshp: Intl Law & Regulation",
   "department": "POLI",
   "id": "280",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930602",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "3:00p-5:50p",
-      "building": "SSB",
-      "room": "104",
-      "instructor": "Hafner-Burton, Emilie",
-      "instructors": [
-        "Hafner-Burton, Emilie"
-      ],
-      "start_time": "15:00",
-      "end_time": "17:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "6bbbbf7d9072c3504c8f4cf970313909fff0e4b133688fe9a1e106345f064a00": {
         "sectxt": true,
         "sectionID": "930602",
         "type": "SE",
@@ -39,15 +17,15 @@
         "time": "3:00p-5:50p",
         "building": "SSB",
         "room": "104",
-        "instructor": "Hafner-Burton, Emilie",
         "instructors": [
           "Hafner-Burton, Emilie"
         ],
         "start_time": "15:00",
         "end_time": "17:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

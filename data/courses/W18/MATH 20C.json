@@ -3,157 +3,111 @@
   "name": "Calculus&Analyt Geom/Sci&Engnr",
   "department": "MATH",
   "id": "20C",
-  "timeslots": [
-    {
-      "sectxt": true,
+  "notes": [],
+  "events_single": {
+    "b9b4ec5af540606b238988bee0286fc3a4cc4d540b7785beb08dccae4a0227c9": {
+      "sectxt": false,
       "sectionID": "",
-      "type": "LE",
-      "section": "E00",
-      "days": "MWF",
-      "time": "4:00p-4:50p",
-      "building": "CENTR",
-      "room": "115",
-      "instructor": "Chow, Bennett",
-      "instructors": [
-        "Chow, Bennett"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
     },
-    {
-      "sectxt": true,
-      "sectionID": "927002",
-      "type": "DI",
-      "section": "E01",
-      "days": "Tu",
-      "time": "8:00a-8:50a",
-      "building": "SOLIS",
-      "room": "111",
-      "instructor": "Chow, Bennett",
-      "instructors": [
-        "Chow, Bennett"
-      ],
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
-      "end_time": "8:50"
+      "end_time": "10:59"
     },
-    {
-      "sectxt": true,
-      "sectionID": "927003",
-      "type": "DI",
-      "section": "E02",
+    "74e4f83ad84c748163f01b77dff51f77629ffd3c8d0a86898673e654d25c5ff0": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "01/30/2018",
       "days": "Tu",
-      "time": "5:00p-5:50p",
-      "building": "APM",
-      "room": "2301",
-      "instructor": "Chow, Bennett",
-      "instructors": [
-        "Chow, Bennett"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927004",
-      "type": "DI",
-      "section": "E03",
-      "days": "Tu",
-      "time": "6:00p-6:50p",
-      "building": "APM",
-      "room": "2301",
-      "instructor": "Chow, Bennett",
-      "instructors": [
-        "Chow, Bennett"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927005",
-      "type": "DI",
-      "section": "E04",
-      "days": "Tu",
-      "time": "7:00p-7:50p",
-      "building": "SOLIS",
-      "room": "111",
-      "instructor": "Chow, Bennett",
-      "instructors": [
-        "Chow, Bennett"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927006",
-      "type": "DI",
-      "section": "E05",
-      "days": "Tu",
-      "time": "8:00p-8:50p",
-      "building": "SOLIS",
-      "room": "111",
-      "instructor": "Chow, Bennett",
-      "instructors": [
-        "Chow, Bennett"
-      ],
+      "time": "8:00p-9:50p",
+      "building": "YORK",
+      "room": "2622",
+      "instructors": [],
+      "date": "2018-01-30T08:00:00.000Z",
       "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927007",
-      "type": "DI",
-      "section": "E06",
-      "days": "Tu",
-      "time": "9:00p-9:50p",
-      "building": "SOLIS",
-      "room": "111",
-      "instructor": "Chow, Bennett",
-      "instructors": [
-        "Chow, Bennett"
-      ],
-      "start_time": "21:00",
       "end_time": "21:50"
     },
-    {
+    "84e641ee6a092798e8e177b58970967c8f0b6bfe514568c0d7bc7d819b1291db": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/28/2018",
+      "days": "W",
+      "time": "6:00p-7:20p",
+      "building": "CENTR",
+      "room": "216",
+      "instructors": [],
+      "date": "2018-02-28T08:00:00.000Z",
+      "start_time": "18:00",
+      "end_time": "19:20"
+    },
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
       "section": "03/23/2018",
       "days": "F",
-      "time": "3:00p-5:59p",
+      "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
-  "notes": [],
-  "events_single": [
-    {
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
       "section": "03/23/2018",
       "days": "F",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
+      "date": "2018-03-21T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "88d6ab60e6a2649569b7a41d9836784179b7d5b6e733ee11bb0131c4e720ab3c": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -162,16 +116,75 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "115",
-        "instructor": "Chow, Bennett",
         "instructors": [
           "Chow, Bennett"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
+      },
+      "1866918a9e827ca2246c3cdc0800ca8cab9d14fcb63d242959828782dc5e03cc": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "115",
+        "instructors": [
+          "Bowers, Adam R."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "72ac370e0955fe955311014007158cbda925595ae1c9e7b223e5a659fa5e61e4": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "PCYNH",
+        "room": "109",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "948ee0ed02bc4477cc3c3acc5f32f53ea902f22d59ff0888b47932d052cfb53e": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "119",
+        "instructors": [
+          "Allen, Grant Warren"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "b5412fe1fec507d7cbe6210a97608ae25503673cc7d699eb611f0fb47e098db8": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "115",
+        "instructors": [
+          "Tesler, Glenn"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "283924c2801a6c5e920f6492f2f93364db5843eed94e2e879733cd23089fc5ac": {
         "sectxt": true,
         "sectionID": "927002",
         "type": "DI",
@@ -180,14 +193,13 @@
         "time": "8:00a-8:50a",
         "building": "SOLIS",
         "room": "111",
-        "instructor": "Chow, Bennett",
         "instructors": [
           "Chow, Bennett"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "465b823955b0fa9fb2d42292f5b77f7e49cc1461ed40da67274fd4ccd7f64d65": {
         "sectxt": true,
         "sectionID": "927003",
         "type": "DI",
@@ -196,14 +208,13 @@
         "time": "5:00p-5:50p",
         "building": "APM",
         "room": "2301",
-        "instructor": "Chow, Bennett",
         "instructors": [
           "Chow, Bennett"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "76e19f6b49f9340cfb490c849193bc8e18cf00885d2025a25661b320ef8374cf": {
         "sectxt": true,
         "sectionID": "927004",
         "type": "DI",
@@ -212,14 +223,13 @@
         "time": "6:00p-6:50p",
         "building": "APM",
         "room": "2301",
-        "instructor": "Chow, Bennett",
         "instructors": [
           "Chow, Bennett"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "4484cda9dc879d9007744f6c83a86551958a29de24e9d2e913526bd901ad8f5f": {
         "sectxt": true,
         "sectionID": "927005",
         "type": "DI",
@@ -228,14 +238,13 @@
         "time": "7:00p-7:50p",
         "building": "SOLIS",
         "room": "111",
-        "instructor": "Chow, Bennett",
         "instructors": [
           "Chow, Bennett"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "95b4e15a57515c322c1ec3ebfe96d97ea0536bb07e3320d414cb72e32cc70257": {
         "sectxt": true,
         "sectionID": "927006",
         "type": "DI",
@@ -244,14 +253,13 @@
         "time": "8:00p-8:50p",
         "building": "SOLIS",
         "room": "111",
-        "instructor": "Chow, Bennett",
         "instructors": [
           "Chow, Bennett"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "fb8170df750e13748c163c2ad89d62a00378987a426b3a38446df84216f4efcb": {
         "sectxt": true,
         "sectionID": "927007",
         "type": "DI",
@@ -260,16 +268,405 @@
         "time": "9:00p-9:50p",
         "building": "SOLIS",
         "room": "111",
-        "instructor": "Chow, Bennett",
         "instructors": [
           "Chow, Bennett"
         ],
         "start_time": "21:00",
         "end_time": "21:50"
+      },
+      "42605aac27b95b8a10b143578bd16f8cf79355357f16b9d727f7c4c6b0dda479": {
+        "sectxt": true,
+        "sectionID": "926972",
+        "type": "DI",
+        "section": "A01",
+        "days": "Tu",
+        "time": "8:00p-8:50p",
+        "building": "APM",
+        "room": "5402",
+        "instructors": [
+          "Bowers, Adam R."
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "2856edfde62a431e9098445e250602881b3b0aeec55290f00b4b10cb987fb5d0": {
+        "sectxt": true,
+        "sectionID": "926973",
+        "type": "DI",
+        "section": "A02",
+        "days": "Tu",
+        "time": "9:00p-9:50p",
+        "building": "APM",
+        "room": "5402",
+        "instructors": [
+          "Bowers, Adam R."
+        ],
+        "start_time": "21:00",
+        "end_time": "21:50"
+      },
+      "e86089d69aea51c0be1037d125c0145cc25b1f3c3a3998bf92f63ae9e2853216": {
+        "sectxt": true,
+        "sectionID": "926974",
+        "type": "DI",
+        "section": "A03",
+        "days": "Tu",
+        "time": "5:00p-5:50p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Bowers, Adam R."
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "b583160d802ab4b3981d07e46e9c1a4ef3fd093d271932af80c22e49e01a9888": {
+        "sectxt": true,
+        "sectionID": "926975",
+        "type": "DI",
+        "section": "A04",
+        "days": "Tu",
+        "time": "6:00p-6:50p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Bowers, Adam R."
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "6ea6a71bb4fac38e778e08ab053c1270342d8e64680ed0b6b4cb9125e30449bc": {
+        "sectxt": true,
+        "sectionID": "926976",
+        "type": "DI",
+        "section": "A05",
+        "days": "Tu",
+        "time": "7:00p-7:50p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Bowers, Adam R."
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "646e02263b7192735396be7223bf4979fe0bfde9366faaa107dad1c4951330f2": {
+        "sectxt": true,
+        "sectionID": "926977",
+        "type": "DI",
+        "section": "A06",
+        "days": "Tu",
+        "time": "8:00p-8:50p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Bowers, Adam R."
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "196ae7b060b18d991e3402a553cac5b124bb0e4a536c24e8bd04e6d50f702409": {
+        "sectxt": true,
+        "sectionID": "926979",
+        "type": "DI",
+        "section": "B01",
+        "days": "Tu",
+        "time": "8:00a-8:50a",
+        "building": "SOLIS",
+        "room": "109",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "fbd22c88d7e7281f93deb9162d321005c0bfdfc15aee958e384fc27d479e0043": {
+        "sectxt": true,
+        "sectionID": "926980",
+        "type": "DI",
+        "section": "B02",
+        "days": "Tu",
+        "time": "4:00p-4:50p",
+        "building": "APM",
+        "room": "5402",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "6dc145a688e0c86c7722db10aaa793920d3501c9410814dda1a3300dc2bab131": {
+        "sectxt": true,
+        "sectionID": "926981",
+        "type": "DI",
+        "section": "B03",
+        "days": "Tu",
+        "time": "5:00p-5:50p",
+        "building": "APM",
+        "room": "B412",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "05e3300792b47c7075e5890725edcafbe6b105c312bd16baf3b844e7957540fb": {
+        "sectxt": true,
+        "sectionID": "926982",
+        "type": "DI",
+        "section": "B04",
+        "days": "Tu",
+        "time": "11:00a-11:50a",
+        "building": "SOLIS",
+        "room": "111",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "d4b9e9148bc99bc6552fdd9a1d9aa4d6e155b8d561cdbd937b02e43ebff9644c": {
+        "sectxt": true,
+        "sectionID": "926983",
+        "type": "DI",
+        "section": "B05",
+        "days": "Tu",
+        "time": "12:00p-12:50p",
+        "building": "SOLIS",
+        "room": "111",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "5c3ea2bbb655c03379dc8999c1eb20afe2b8db4bcb908ce332c10945c47d941a": {
+        "sectxt": true,
+        "sectionID": "926984",
+        "type": "DI",
+        "section": "B06",
+        "days": "Tu",
+        "time": "7:00p-7:50p",
+        "building": "WLH",
+        "room": "2112",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "4e800e2c95d3499200cc624dba970255acd516c1117b3bfba2474c0ee6008ec2": {
+        "sectxt": true,
+        "sectionID": "926985",
+        "type": "DI",
+        "section": "B07",
+        "days": "Tu",
+        "time": "8:00p-8:50p",
+        "building": "WLH",
+        "room": "2112",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "d33e83a36d8a763144887bb661b15f041ff520ee6ddfcfa06ecb30ab991657ed": {
+        "sectxt": true,
+        "sectionID": "926986",
+        "type": "DI",
+        "section": "B08",
+        "days": "Tu",
+        "time": "9:00p-9:50p",
+        "building": "WLH",
+        "room": "2112",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "21:00",
+        "end_time": "21:50"
+      },
+      "e3035468ca73960b2eb3019cefa72997cd9a0d0518a835b1756dfca4327e6e34": {
+        "sectxt": true,
+        "sectionID": "926988",
+        "type": "DI",
+        "section": "C01",
+        "days": "Tu",
+        "time": "1:00p-1:50p",
+        "building": "SOLIS",
+        "room": "111",
+        "instructors": [
+          "Allen, Grant Warren"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "7e98696b5a9d315bbb8c0d974b76d8df4b6fc003c4c14d8bc351818f4fb33edb": {
+        "sectxt": true,
+        "sectionID": "926989",
+        "type": "DI",
+        "section": "C02",
+        "days": "Tu",
+        "time": "2:00p-2:50p",
+        "building": "SOLIS",
+        "room": "111",
+        "instructors": [
+          "Allen, Grant Warren"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "d1d61502c788fae24e725a665d38237a0d2a8d894a211acba7c61d50c6661cd9": {
+        "sectxt": true,
+        "sectionID": "926990",
+        "type": "DI",
+        "section": "C03",
+        "days": "Tu",
+        "time": "3:00p-3:50p",
+        "building": "SOLIS",
+        "room": "111",
+        "instructors": [
+          "Allen, Grant Warren"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "8355ea3363b11abb4658dba8bb13b08e6c2f04a367da14610dce50e88bb8e508": {
+        "sectxt": true,
+        "sectionID": "926991",
+        "type": "DI",
+        "section": "C04",
+        "days": "Tu",
+        "time": "4:00p-4:50p",
+        "building": "SOLIS",
+        "room": "111",
+        "instructors": [
+          "Allen, Grant Warren"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "69bea341d553dff9de143bca4b706e00f768501acd4cd5e14152bbdecae11ce9": {
+        "sectxt": true,
+        "sectionID": "926992",
+        "type": "DI",
+        "section": "C05",
+        "days": "Tu",
+        "time": "5:00p-5:50p",
+        "building": "SOLIS",
+        "room": "111",
+        "instructors": [
+          "Allen, Grant Warren"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "d829beda42fc05d4a8295cc8b7ecd9fd181e42f2ee2a49b94fd560acdec86b01": {
+        "sectxt": true,
+        "sectionID": "926993",
+        "type": "DI",
+        "section": "C06",
+        "days": "Tu",
+        "time": "6:00p-6:50p",
+        "building": "SOLIS",
+        "room": "111",
+        "instructors": [
+          "Allen, Grant Warren"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "3592282e2e449b365fe7d10d2c699241a11e262e723de0348519c036c2c79a39": {
+        "sectxt": true,
+        "sectionID": "926995",
+        "type": "DI",
+        "section": "D01",
+        "days": "Tu",
+        "time": "8:00a-8:50a",
+        "building": "TM102",
+        "room": "1",
+        "instructors": [
+          "Tesler, Glenn"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "12e315a2c26eb085da175b9996a71b8754bba19214af09c71f022f6b85df4c7e": {
+        "sectxt": true,
+        "sectionID": "926996",
+        "type": "DI",
+        "section": "D02",
+        "days": "Tu",
+        "time": "5:00p-5:50p",
+        "building": "TM102",
+        "room": "1",
+        "instructors": [
+          "Tesler, Glenn"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "dda9386c03fc16f01306fa5417092e406a8999bfbc2249ef145b43e7a35a9f8a": {
+        "sectxt": true,
+        "sectionID": "926997",
+        "type": "DI",
+        "section": "D03",
+        "days": "Tu",
+        "time": "6:00p-6:50p",
+        "building": "TM102",
+        "room": "1",
+        "instructors": [
+          "Tesler, Glenn"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "920c4b8874d31d2e87daf3aaaf959c23ed13f7c619832dc08b37cffd3ab1c868": {
+        "sectxt": true,
+        "sectionID": "926998",
+        "type": "DI",
+        "section": "D04",
+        "days": "Tu",
+        "time": "7:00p-7:50p",
+        "building": "TM102",
+        "room": "1",
+        "instructors": [
+          "Tesler, Glenn"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "6c136e8c1dc10c15babadf83ab2ff9551254220eeb021ebe1f88bdbf62f0d767": {
+        "sectxt": true,
+        "sectionID": "926999",
+        "type": "DI",
+        "section": "D05",
+        "days": "Tu",
+        "time": "8:00p-8:50p",
+        "building": "TM102",
+        "room": "1",
+        "instructors": [
+          "Tesler, Glenn"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "ce86c45b2d5b0c1e00420a83eccc34c8bca164bb8d1e50c8e36b0b7482f57f9b": {
+        "sectxt": true,
+        "sectionID": "927000",
+        "type": "DI",
+        "section": "D06",
+        "days": "Tu",
+        "time": "9:00p-9:50p",
+        "building": "TM102",
+        "room": "1",
+        "instructors": [
+          "Tesler, Glenn"
+        ],
+        "start_time": "21:00",
+        "end_time": "21:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "be976ffbae2ada2b8f63579be680cbd2c91fa3521b64fc03081c6cc565de374f": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -278,17 +675,75 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "115",
-        "instructor": "Chow, Bennett",
         "instructors": [
           "Chow, Bennett"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
+      },
+      "664fb1192c899ad420c384f1035679fd9aa443bbe17868a3444009b2ce9ed2d0": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "115",
+        "instructors": [
+          "Bowers, Adam R."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "733b13bd9eacee06cd2c519cc2f59f0e259009f4d0a45d9d8362542b9cdd6c1b": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "PCYNH",
+        "room": "109",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "1e86b7b114dfc35a6e2266026dd965e113e84738c71ae055d03c42b1ce71cb3b": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "119",
+        "instructors": [
+          "Allen, Grant Warren"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "7d2b4b351fccec8258134506a47d5c42820dc0bb22b8154e5495d0eabbd15ebb": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "115",
+        "instructors": [
+          "Tesler, Glenn"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "c9b735abe78ad79128806a7333849b84c960be140f8ae5361dba7da1ba95ea15": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -297,15 +752,79 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "115",
-        "instructor": "Chow, Bennett",
         "instructors": [
           "Chow, Bennett"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
+      },
+      "e0c71401fe619db626c079241f95ffbc9af299dc6dba6b446063c58d72b82533": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "115",
+        "instructors": [
+          "Bowers, Adam R."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "41ac43cb18b3624692cf807f4a1e4a48c6dd9d84387b3e1773af7a3cfa484e8f": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "PCYNH",
+        "room": "109",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "6e712ae3cfec69e3e7dca78ce4afe43cbb265162cb01d9ad3ae49185d3bebc14": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "119",
+        "instructors": [
+          "Allen, Grant Warren"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "0c7fa54693659353db5196a1e505b40de60918a4bd4044ef1093d3545b2bc3b9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "115",
+        "instructors": [
+          "Tesler, Glenn"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "E",
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
 }

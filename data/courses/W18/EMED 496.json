@@ -3,27 +3,37 @@
   "name": "Clinical Independent Study",
   "department": "EMED",
   "id": "496",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928427",
-      "type": "IN",
-      "section": "003",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Staff",
-      "instructors": [
-        "Staff"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "928425",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Guluma, Kama"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "928426",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Staff"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "928427",
       "type": "IN",
       "section": "003",
@@ -31,19 +41,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Staff",
       "instructors": [
         "Staff"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

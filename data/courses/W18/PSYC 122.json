@@ -3,42 +3,9 @@
   "name": "Mechanisms of Animal Behavior",
   "department": "PSYC",
   "id": "122",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924624",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "10:00a-10:50a",
-      "building": "CENTR",
-      "room": "212",
-      "instructor": "Miller, Cory T.",
-      "instructors": [
-        "Miller, Cory T."
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "d811fddb3648c219ed7c8b53abb2f067c6aba1c4cb091135c4c428fc5c6cbe27": {
         "sectxt": true,
         "sectionID": "924624",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "212",
-        "instructor": "Miller, Cory T.",
         "instructors": [
           "Miller, Cory T."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "7c4d53059ab185ebf9f8073fb5e7933ca2aaaaed59cc4bcafd399d82eb862f30": {
         "sectxt": true,
         "sectionID": "924624",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "212",
-        "instructor": "Miller, Cory T.",
         "instructors": [
           "Miller, Cory T."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "2c9ac5b7976a8df25a8f9dcdde47528e4b010c7a327641066d34eb831eb16c1c": {
         "sectxt": true,
         "sectionID": "924624",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "212",
-        "instructor": "Miller, Cory T.",
         "instructors": [
           "Miller, Cory T."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

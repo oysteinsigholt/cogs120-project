@@ -3,30 +3,12 @@
   "name": "Cross-DisciplinarySpecialTopic",
   "department": "GPGN",
   "id": "491",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929166",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "5:00p-6:20p",
-      "building": "RBC",
-      "room": "3203",
-      "instructor": "Victor, David Gardiner",
-      "instructors": [
-        "Victor, David Gardiner"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "616c1172a58026fcdc3b66da099aadd992bdf3aba50d458f59e8117aaa1b99b3": {
         "sectxt": true,
         "sectionID": "929166",
         "type": "LE",
@@ -35,17 +17,15 @@
         "time": "5:00p-6:20p",
         "building": "RBC",
         "room": "3203",
-        "instructor": "Victor, David Gardiner",
         "instructors": [
           "Victor, David Gardiner"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "9dfc447e8375a3a6dcad1f9212540809735d45fa07313fe4d8c3e222289d2db1": {
         "sectxt": true,
         "sectionID": "929166",
         "type": "LE",
@@ -54,17 +34,15 @@
         "time": "5:00p-6:20p",
         "building": "RBC",
         "room": "3203",
-        "instructor": "Victor, David Gardiner",
         "instructors": [
           "Victor, David Gardiner"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,54 +3,9 @@
   "name": "Analysis of Arabic",
   "department": "LIAB",
   "id": "1EX",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921297",
-      "type": "DI",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "HSS",
-      "room": "2321",
-      "instructor": "Akjeje, Abdelhak",
-      "instructors": [
-        "Akjeje, Abdelhak"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": []
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -59,13 +14,12 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [
     {
       "sectxt": true,
@@ -76,14 +30,12 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": []
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "6e53c8e505365b2d550aa306f762d5ec5b75d477243b0b584bd500e5c2fda2d8": {
         "sectxt": true,
         "sectionID": "921297",
         "type": "DI",
@@ -92,17 +44,15 @@
         "time": "2:00p-3:20p",
         "building": "HSS",
         "room": "2321",
-        "instructor": "Akjeje, Abdelhak",
         "instructors": [
           "Akjeje, Abdelhak"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "04bc618249f1463cda7ea104e651e383254f597c061301a63a2270ceb644205b": {
         "sectxt": true,
         "sectionID": "921297",
         "type": "DI",
@@ -111,16 +61,15 @@
         "time": "2:00p-3:20p",
         "building": "HSS",
         "room": "2321",
-        "instructor": "Akjeje, Abdelhak",
         "instructors": [
           "Akjeje, Abdelhak"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

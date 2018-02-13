@@ -3,88 +3,9 @@
   "name": "Tissue Biomechanics",
   "department": "BENG",
   "id": "112A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "WLH",
-      "room": "2205",
-      "instructor": "Omens, Jeffrey Howard",
-      "instructors": [
-        "Omens, Jeffrey Howard"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "PETER",
-      "room": "102",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923292",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "CENTR",
-      "room": "217B",
-      "instructor": "Omens, Jeffrey Howard",
-      "instructors": [
-        "Omens, Jeffrey Howard"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923293",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2112",
-      "instructor": "Omens, Jeffrey Howard",
-      "instructors": [
-        "Omens, Jeffrey Howard"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -93,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "018cc1a752252308ee42801237efc82acc3bb83359d25d15d65ae9d9dadfc192": {
         "sectxt": true,
         "sectionID": "923292",
         "type": "DI",
@@ -112,16 +32,15 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "217B",
-        "instructor": "Omens, Jeffrey Howard",
         "instructors": [
           "Omens, Jeffrey Howard"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "d76bcf043f1041aeae848254fedd3b9af18897231d4c3398c9af555ce5e62306": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -130,16 +49,15 @@
         "time": "11:00a-12:20p",
         "building": "WLH",
         "room": "2205",
-        "instructor": "Omens, Jeffrey Howard",
         "instructors": [
           "Omens, Jeffrey Howard"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "d095058a3c5ca6878be2e5af45056c73925fc6945e80151eaa049f5fb0198342": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -148,12 +66,11 @@
         "time": "3:00p-3:50p",
         "building": "PETER",
         "room": "102",
-        "instructor": "",
         "instructors": [],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "6e5b908b8ee13921b6c9b48fcb0ed81e28a33208a2ca15f631673f88b3027ee2": {
         "sectxt": true,
         "sectionID": "923293",
         "type": "DI",
@@ -162,16 +79,15 @@
         "time": "3:00p-3:50p",
         "building": "WLH",
         "room": "2112",
-        "instructor": "Omens, Jeffrey Howard",
         "instructors": [
           "Omens, Jeffrey Howard"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "055dab9e4efb54208a1d7f8ffd64e8d079ba2cc9fe681a6ccf684c385c6a7818": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -180,16 +96,15 @@
         "time": "11:00a-12:20p",
         "building": "WLH",
         "room": "2205",
-        "instructor": "Omens, Jeffrey Howard",
         "instructors": [
           "Omens, Jeffrey Howard"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

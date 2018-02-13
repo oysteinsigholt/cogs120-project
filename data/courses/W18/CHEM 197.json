@@ -3,27 +3,50 @@
   "name": "Chemistry Internship",
   "department": "CHEM",
   "id": "197",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930506",
-      "type": "IT",
-      "section": "001",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Tor, Yitzhak",
-      "instructors": [
-        "Tor, Yitzhak"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "931802",
+      "type": "IT",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Rinehart, Jeffrey Dennis"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "931803",
+      "type": "IT",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Oconnor, Joseph M."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "933096",
+      "type": "IT",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Rinehart, Jeffrey Dennis"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "930506",
       "type": "IT",
       "section": "001",
@@ -31,19 +54,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Tor, Yitzhak",
       "instructors": [
         "Tor, Yitzhak"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

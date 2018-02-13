@@ -3,31 +3,12 @@
   "name": "Low Intermediate Bahasa",
   "department": "GPLA",
   "id": "461B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921734",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "5:00p-6:20p",
-      "building": "RBC",
-      "room": "1428",
-      "instructor": "Jong, Ka Mi",
-      "instructors": [
-        "Jong, Ka Mi"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "5ff430ae1c83b892acea54041d73ca6c00110a49ad3597e5c1e72d830ad892b2": {
         "sectxt": true,
         "sectionID": "921734",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "5:00p-6:20p",
         "building": "RBC",
         "room": "1428",
-        "instructor": "Jong, Ka Mi",
         "instructors": [
           "Jong, Ka Mi"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "44b28741b890e2bca26ff1eef83b796743c3df07388de8b0715120bafb8776b3": {
         "sectxt": true,
         "sectionID": "921734",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "5:00p-6:20p",
         "building": "RBC",
         "room": "1428",
-        "instructor": "Jong, Ka Mi",
         "instructors": [
           "Jong, Ka Mi"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

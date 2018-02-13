@@ -3,31 +3,12 @@
   "name": "Intl Relations of Asia-Pacific",
   "department": "GPPS",
   "id": "400",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921721",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "RBC",
-      "room": "3201",
-      "instructor": "Haggard, Stephan M.",
-      "instructors": [
-        "Haggard, Stephan M."
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "44e8143247b39d8a1db94f4d6062186b00a4fb99d5917da87ff0387c41ba2771": {
         "sectxt": true,
         "sectionID": "921721",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "9:30a-10:50a",
         "building": "RBC",
         "room": "3201",
-        "instructor": "Haggard, Stephan M.",
         "instructors": [
           "Haggard, Stephan M."
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "38e12db18fb3fe1bff504c0ec96fec2f09c3e4cd3aefffe827e4a344b510d2a0": {
         "sectxt": true,
         "sectionID": "921721",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "9:30a-10:50a",
         "building": "RBC",
         "room": "3201",
-        "instructor": "Haggard, Stephan M.",
         "instructors": [
           "Haggard, Stephan M."
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,33 +3,14 @@
   "name": "Graduate Seminar",
   "department": "SOCG",
   "id": "290",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923218",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "9:00a-11:50a",
-      "building": "SSB",
-      "room": "101",
-      "instructor": "Thorpe, Charles Robert",
-      "instructors": [
-        "Thorpe, Charles Robert"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [
     "The Russian Revolution, the Soviet Union, and Marxist\n Theory"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "c2c7713accce4e59c4ae4c6a77fd0f7be3b00a6c3e150307254fa5912211ff3d": {
         "sectxt": true,
         "sectionID": "923218",
         "type": "SE",
@@ -38,18 +19,15 @@
         "time": "9:00a-11:50a",
         "building": "SSB",
         "room": "101",
-        "instructor": "Thorpe, Charles Robert",
         "instructors": [
           "Thorpe, Charles Robert"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

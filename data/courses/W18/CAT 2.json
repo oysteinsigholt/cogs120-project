@@ -3,234 +3,65 @@
   "name": "Culture, Art & Technology II",
   "department": "CAT",
   "id": "2",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "C00",
-      "days": "MWF",
-      "time": "12:00p-12:50p",
-      "building": "LEDDN",
-      "room": "AUD",
-      "instructor": "Pantoja, Jennifer Metten",
-      "instructors": [
-        "Pantoja, Jennifer Metten"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921448",
-      "type": "DI",
-      "section": "C01",
-      "days": "MW",
-      "time": "8:00a-8:50a",
-      "building": "MANDE",
-      "room": "B-152",
-      "instructor": "Pantoja, Jennifer Metten",
-      "instructors": [
-        "Pantoja, Jennifer Metten"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921449",
-      "type": "DI",
-      "section": "C02",
-      "days": "MW",
-      "time": "9:00a-9:50a",
-      "building": "MANDE",
-      "room": "B-152",
-      "instructor": "Pantoja, Jennifer Metten",
-      "instructors": [
-        "Pantoja, Jennifer Metten"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921450",
-      "type": "DI",
-      "section": "C03",
-      "days": "MW",
-      "time": "10:00a-10:50a",
-      "building": "MANDE",
-      "room": "B-152",
-      "instructor": "Pantoja, Jennifer Metten",
-      "instructors": [
-        "Pantoja, Jennifer Metten"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921451",
-      "type": "DI",
-      "section": "C04",
-      "days": "MW",
-      "time": "11:00a-11:50a",
-      "building": "MANDE",
-      "room": "B-152",
-      "instructor": "Pantoja, Jennifer Metten",
-      "instructors": [
-        "Pantoja, Jennifer Metten"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921452",
-      "type": "DI",
-      "section": "C05",
-      "days": "MW",
-      "time": "1:00p-1:50p",
-      "building": "CENTR",
-      "room": "207",
-      "instructor": "Pantoja, Jennifer Metten",
-      "instructors": [
-        "Pantoja, Jennifer Metten"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921453",
-      "type": "DI",
-      "section": "C06",
-      "days": "MW",
-      "time": "2:00p-2:50p",
-      "building": "CENTR",
-      "room": "207",
-      "instructor": "Pantoja, Jennifer Metten",
-      "instructors": [
-        "Pantoja, Jennifer Metten"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921454",
-      "type": "DI",
-      "section": "C07",
-      "days": "MW",
-      "time": "3:00p-3:50p",
-      "building": "HSS",
-      "room": "1106A",
-      "instructor": "Pantoja, Jennifer Metten",
-      "instructors": [
-        "Pantoja, Jennifer Metten"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921455",
-      "type": "DI",
-      "section": "C08",
-      "days": "MW",
-      "time": "4:00p-4:50p",
-      "building": "HSS",
-      "room": "1106A",
-      "instructor": "Pantoja, Jennifer Metten",
-      "instructors": [
-        "Pantoja, Jennifer Metten"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921456",
-      "type": "DI",
-      "section": "C09",
-      "days": "MW",
-      "time": "5:00p-5:50p",
-      "building": "HSS",
-      "room": "1106A",
-      "instructor": "Pantoja, Jennifer Metten",
-      "instructors": [
-        "Pantoja, Jennifer Metten"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921457",
-      "type": "DI",
-      "section": "C10",
-      "days": "MW",
-      "time": "6:00p-6:50p",
-      "building": "HSS",
-      "room": "1106A",
-      "instructor": "Pantoja, Jennifer Metten",
-      "instructors": [
-        "Pantoja, Jennifer Metten"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921458",
-      "type": "DI",
-      "section": "C11",
-      "days": "MW",
-      "time": "7:00p-7:50p",
-      "building": "HSS",
-      "room": "1106A",
-      "instructor": "Pantoja, Jennifer Metten",
-      "instructors": [
-        "Pantoja, Jennifer Metten"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921459",
-      "type": "DI",
-      "section": "C12",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    },
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -239,17 +70,181 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "ab246a2c2cdf4a7fd0c3cf90e6b5431299dd3c6c9f16078a77bd52c98d69654d": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "E00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "MANDE",
+        "room": "B-210",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "7031890218fc71c4e86ada1c79b63d8fad8ac0e05f2d08fede76ebad36cf9a67": {
+        "sectxt": true,
+        "sectionID": "921474",
+        "type": "DI",
+        "section": "E01",
+        "days": "MW",
+        "time": "9:00a-9:50a",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "ffc95ba15448659fa12c49d7a5fdc481db4bb8a89e6f0bb444aa3818a9523bd7": {
+        "sectxt": true,
+        "sectionID": "921475",
+        "type": "DI",
+        "section": "E02",
+        "days": "MW",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2110",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "7daa6af9b56ca703b826afa94163fff2ef3b12d3030a9284661887ef91504f77": {
+        "sectxt": true,
+        "sectionID": "921476",
+        "type": "DI",
+        "section": "E03",
+        "days": "MW",
+        "time": "9:00a-9:50a",
+        "building": "WLH",
+        "room": "2110",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "47f87d4f21eab4143b1b3e7ecdd844cc11314727519617e0253245365a11379e": {
+        "sectxt": true,
+        "sectionID": "921477",
+        "type": "DI",
+        "section": "E04",
+        "days": "MW",
+        "time": "11:00a-11:50a",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "dd68da38a9414e6c8156178396f103e64ad7be7721b09359f228ca1fb741a1f6": {
+        "sectxt": true,
+        "sectionID": "921478",
+        "type": "DI",
+        "section": "E05",
+        "days": "MW",
+        "time": "12:00p-12:50p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "70952b70a974d2837f317304088e7489edee297c59c9d8c38d3aa961c9add1f4": {
+        "sectxt": true,
+        "sectionID": "921479",
+        "type": "DI",
+        "section": "E06",
+        "days": "MW",
+        "time": "1:00p-1:50p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "99259986b5373416b323d1239e57047cf29c866abad69a5ec4069f9fe4fa43e1": {
+        "sectxt": true,
+        "sectionID": "921480",
+        "type": "DI",
+        "section": "E07",
+        "days": "MW",
+        "time": "2:00p-2:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "77e0387f56d6950ed2c39ecd6d956570c8cd1aa01c226206155d5178d1e69c45": {
+        "sectxt": true,
+        "sectionID": "921481",
+        "type": "DI",
+        "section": "E08",
+        "days": "MW",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "b559502ba20b51b13fc90b693854105d9cea00007645f3f10e4105461b6cd8b9": {
+        "sectxt": true,
+        "sectionID": "921482",
+        "type": "DI",
+        "section": "E09",
+        "days": "MW",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "49dabaf829413516dc96c9c2444b7f1d77c191a9d6478119759d427cf43d24b5": {
+        "sectxt": true,
+        "sectionID": "921483",
+        "type": "DI",
+        "section": "E10",
+        "days": "MW",
+        "time": "5:00p-5:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "f213bf63d6f8826c044fa0cd59a4e64aade222e65c2925d26cedc9ca975f3fdf": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -258,14 +253,13 @@
         "time": "12:00p-12:50p",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "9fdb478a3e236bddf64d4acbb0c7cf1006c5c330d0fc6a4d1f52aafa75bd7fb5": {
         "sectxt": true,
         "sectionID": "921448",
         "type": "DI",
@@ -274,14 +268,13 @@
         "time": "8:00a-8:50a",
         "building": "MANDE",
         "room": "B-152",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "e6010b2c2b70b6eb04a55bf6a73f5dc5be63494d4fbd37ad385372e93d4ec5ea": {
         "sectxt": true,
         "sectionID": "921449",
         "type": "DI",
@@ -290,14 +283,13 @@
         "time": "9:00a-9:50a",
         "building": "MANDE",
         "room": "B-152",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "40e9616bd24295dd08d75038daa61c614167ec8d74f230222f974feb6533271c": {
         "sectxt": true,
         "sectionID": "921450",
         "type": "DI",
@@ -306,14 +298,13 @@
         "time": "10:00a-10:50a",
         "building": "MANDE",
         "room": "B-152",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "0db057b30d79f134d601ef399d50fa8710a21642d85e7ebd4f1258b57357a476": {
         "sectxt": true,
         "sectionID": "921451",
         "type": "DI",
@@ -322,14 +313,13 @@
         "time": "11:00a-11:50a",
         "building": "MANDE",
         "room": "B-152",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "908cbf998136d98350f88da6155482349452ff7e20ccb6087b8aa66d9f6b57e4": {
         "sectxt": true,
         "sectionID": "921452",
         "type": "DI",
@@ -338,14 +328,13 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "e989505802a273ac9d37e591c5e5f4b83a068889c7115340627e8ca4aa4f346f": {
         "sectxt": true,
         "sectionID": "921453",
         "type": "DI",
@@ -354,14 +343,13 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "e7ff139d8c5f7ccdf83721e1ffa9ea834b4a4a89494301b5fd43c625f5281113": {
         "sectxt": true,
         "sectionID": "921454",
         "type": "DI",
@@ -370,14 +358,13 @@
         "time": "3:00p-3:50p",
         "building": "HSS",
         "room": "1106A",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "4bc01ffca053962911d880de0b700bd569c59aa9967dba06f7bb53791df70376": {
         "sectxt": true,
         "sectionID": "921455",
         "type": "DI",
@@ -386,14 +373,13 @@
         "time": "4:00p-4:50p",
         "building": "HSS",
         "room": "1106A",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "788ab7c833a11d979b696525d6ae7c6d523accbc23ee3659515c7d26eb272105": {
         "sectxt": true,
         "sectionID": "921456",
         "type": "DI",
@@ -402,14 +388,13 @@
         "time": "5:00p-5:50p",
         "building": "HSS",
         "room": "1106A",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "28f090723cbc3f54e7bf1af486f70755fbd86f1de706c8feef5939977e3e7268": {
         "sectxt": true,
         "sectionID": "921457",
         "type": "DI",
@@ -418,14 +403,13 @@
         "time": "6:00p-6:50p",
         "building": "HSS",
         "room": "1106A",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "6b55188b5a62d8d94e020db8a3e6a4f15d650e7d10cd3790c2264e185287cf5f": {
         "sectxt": true,
         "sectionID": "921458",
         "type": "DI",
@@ -434,17 +418,737 @@
         "time": "7:00p-7:50p",
         "building": "HSS",
         "room": "1106A",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "Tu": {
+      "a3cd628d92befba70011e59f222e45413199682cd4f2e92845ae94422b73bae2": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "00a73df799d7919d00d5bbea09f00fba8a83494bd81eb48f00e04ab4b25f2a80": {
+        "sectxt": true,
+        "sectionID": "921461",
+        "type": "DI",
+        "section": "D01",
+        "days": "TuTh",
+        "time": "4:00p-4:50p",
+        "building": "MANDE",
+        "room": "B-152",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "69e040242800efe7c438087b432f6f77167c6fedd33d5fdc932bbbf6e3f5d3ed": {
+        "sectxt": true,
+        "sectionID": "921462",
+        "type": "DI",
+        "section": "D02",
+        "days": "TuTh",
+        "time": "7:00p-7:50p",
+        "building": "HSS",
+        "room": "1106A",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "9f90b30089d45a6da33bc8ec993f29ec08d319e6d0fa77dd42eb5afef9edd2d9": {
+        "sectxt": true,
+        "sectionID": "921463",
+        "type": "DI",
+        "section": "D03",
+        "days": "TuTh",
+        "time": "4:00p-4:50p",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "349bed0c044f376b38068f17604265eb87634b48096515ea213bc6a94dc65a48": {
+        "sectxt": true,
+        "sectionID": "921464",
+        "type": "DI",
+        "section": "D04",
+        "days": "TuTh",
+        "time": "7:00p-7:50p",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "215bc911ff13e000927396807050e4e749466bf8a9602a1c242510979e3a7f54": {
+        "sectxt": true,
+        "sectionID": "921465",
+        "type": "DI",
+        "section": "D05",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "6831291b357507285d134a22443235ab8fff703df516563a5fa495f1f7080e7e": {
+        "sectxt": true,
+        "sectionID": "921466",
+        "type": "DI",
+        "section": "D06",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "bdd1a1aee1be078148ecc3ee79dfdf6e977da89e8610594d413393cd58c2ba1a": {
+        "sectxt": true,
+        "sectionID": "921467",
+        "type": "DI",
+        "section": "D07",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "220",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "864e880b879a8d474100c656952e15657191f22360cff6dc08150bb4d8dce485": {
+        "sectxt": true,
+        "sectionID": "921468",
+        "type": "DI",
+        "section": "D08",
+        "days": "TuTh",
+        "time": "8:00p-8:50p",
+        "building": "HSS",
+        "room": "1106A",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "f4060c705dca93cfa1c0b0f922ff2fbf432b838fcd1cc33224f5460da6268d3a": {
+        "sectxt": true,
+        "sectionID": "921469",
+        "type": "DI",
+        "section": "D09",
+        "days": "TuTh",
+        "time": "8:00p-8:50p",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "f9a682bb2fe5acd25c3e654b8842adc0084f067b7ab0f255d2d5f35b03128c27": {
+        "sectxt": true,
+        "sectionID": "921470",
+        "type": "DI",
+        "section": "D10",
+        "days": "TuTh",
+        "time": "9:00a-9:50a",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "da67ce798f30e30dfe20b9436d92c25be1bc1d5d0993b9233ccabcedef58a57a": {
+        "sectxt": true,
+        "sectionID": "921471",
+        "type": "DI",
+        "section": "D11",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "a486f4148d87c206183ef59d963ad21880466ada7adc10e26c23b3e2862ebbf5": {
+        "sectxt": true,
+        "sectionID": "921472",
+        "type": "DI",
+        "section": "D12",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "979df717b14bf700ac34786e38e943c17094ef467bc27a99217c634a6e5f885f": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "d637b9fbc8dd564a523be1a47d4f1f2d1b2ef2c86d0202a61e22010bb4fb3ae1": {
+        "sectxt": true,
+        "sectionID": "921422",
+        "type": "DI",
+        "section": "A01",
+        "days": "TuTh",
+        "time": "8:00a-8:50a",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "6ffabd3a3255960201ef8918907a25f121886740d29ea63e8398162da6f675e7": {
+        "sectxt": true,
+        "sectionID": "921423",
+        "type": "DI",
+        "section": "A02",
+        "days": "TuTh",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "5371190d0c166479eefa104ce328a68aed3d0bc72ef4ee1bfed3d39faaf785ea": {
+        "sectxt": true,
+        "sectionID": "921424",
+        "type": "DI",
+        "section": "A03",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "2b80f4cdc6d6636ac2f39d3062f08ba81761c1037cae0b4306f55353b5d03b6b": {
+        "sectxt": true,
+        "sectionID": "921425",
+        "type": "DI",
+        "section": "A04",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "8817543b893ef280c6774b81f8e1a662202ad2b697aa81ec5bd30eeb3d987da2": {
+        "sectxt": true,
+        "sectionID": "921426",
+        "type": "DI",
+        "section": "A05",
+        "days": "TuTh",
+        "time": "12:00p-12:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "876a823de5d899e4b9dd6a07fa1ead4aa79268d11ccf948d73a9814d1c79ce7b": {
+        "sectxt": true,
+        "sectionID": "921427",
+        "type": "DI",
+        "section": "A06",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "2a9545ea39455d7b8ef05b9b31c5b1df69c3603c5e770a6810073aec8bfb3d3c": {
+        "sectxt": true,
+        "sectionID": "921428",
+        "type": "DI",
+        "section": "A07",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "eb1415c94f67699d0321b7c4822189f6e12051eb3008adbaf0de0d3d81983711": {
+        "sectxt": true,
+        "sectionID": "921429",
+        "type": "DI",
+        "section": "A08",
+        "days": "TuTh",
+        "time": "5:00p-5:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "7ccc4cf186ca619119f080ddb96dcb8f197acfe50b480d4eb42c420b3927043a": {
+        "sectxt": true,
+        "sectionID": "921430",
+        "type": "DI",
+        "section": "A09",
+        "days": "TuTh",
+        "time": "6:00p-6:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "a325527bd8f5c0f888786cf01d1e6af0348aba3eaa6e1785fc25cf18a8c09ae4": {
+        "sectxt": true,
+        "sectionID": "921431",
+        "type": "DI",
+        "section": "A10",
+        "days": "TuTh",
+        "time": "7:00p-7:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "a616bfe4ecf97f841fcbe47eae7fdf2de2cfdfd8ce7b8d895dc187711c2b61c1": {
+        "sectxt": true,
+        "sectionID": "921433",
+        "type": "DI",
+        "section": "A12",
+        "days": "TuTh",
+        "time": "5:00p-5:50p",
+        "building": "HSS",
+        "room": "1106A",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "80483300f1843284167ade4659e2f9a13530b47463ed596be32b712259733b7f": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "39601adaa49526fe732e356a25ca752e5d5fc11dd947760f13cd873e50c4ca39": {
+        "sectxt": true,
+        "sectionID": "921435",
+        "type": "DI",
+        "section": "B01",
+        "days": "TuTh",
+        "time": "8:00a-8:50a",
+        "building": "HSS",
+        "room": "1106A",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "e984f06dcfbbb0c258327eaf5a13b0c2d9f48db127292faba45ab9b972f8a9c6": {
+        "sectxt": true,
+        "sectionID": "921436",
+        "type": "DI",
+        "section": "B02",
+        "days": "TuTh",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "1106A",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "2532f786b54d416065df8c85c6182a124a3236160422b2656bcda1f47ab6cb99": {
+        "sectxt": true,
+        "sectionID": "921437",
+        "type": "DI",
+        "section": "B03",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "1106A",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "3feec2093dd5a9282c7e8a944a2b59f8754bf94b7ef9847d7b29a9b1f3461f89": {
+        "sectxt": true,
+        "sectionID": "921438",
+        "type": "DI",
+        "section": "B04",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "HSS",
+        "room": "1106A",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "3a82f1d45255e18475c5bf11c60ac4a0a9c4c8c723d2d9534ff3333f6fc335ad": {
+        "sectxt": true,
+        "sectionID": "921440",
+        "type": "DI",
+        "section": "B06",
+        "days": "TuTh",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "67b6b1b8eea5b344c447ee2a3eff0314af673e7a71e1d836747c26f4394d8f94": {
+        "sectxt": true,
+        "sectionID": "921441",
+        "type": "DI",
+        "section": "B07",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "fbb34b62b7f81033a21354bccb9af4f668bf78897853a5effe01309e6eeaa9e8": {
+        "sectxt": true,
+        "sectionID": "921442",
+        "type": "DI",
+        "section": "B08",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "2c32dc6d5facc323262007a823357055b3bcf397fed0c924d84d30cbf7716388": {
+        "sectxt": true,
+        "sectionID": "921443",
+        "type": "DI",
+        "section": "B09",
+        "days": "TuTh",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2110",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "11143cd64863f72c395a5e117627dc63e1d2a0f2d0511b849f3196e48dc6050e": {
+        "sectxt": true,
+        "sectionID": "921444",
+        "type": "DI",
+        "section": "B10",
+        "days": "TuTh",
+        "time": "9:00a-9:50a",
+        "building": "WLH",
+        "room": "2110",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "903159353e2e8601fe304be5165fc2641c50b830bde7168ee095a39f8d996f58": {
+        "sectxt": true,
+        "sectionID": "921445",
+        "type": "DI",
+        "section": "B11",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2110",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "f864d151f053064a4423b0fa71e4bc60b7c399ba675110c91b893c72a40102dc": {
+        "sectxt": true,
+        "sectionID": "921446",
+        "type": "DI",
+        "section": "B12",
+        "days": "TuTh",
+        "time": "5:00p-5:50p",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    },
+    "W": {
+      "24c46a56a5935b716695edb21e6dca0d98198a724d464f915c2250053114d141": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "E00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "MANDE",
+        "room": "B-210",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "40b290b8106a08f71f1844efecb0f0c26995b93a93fb48844bfa22e89493a5ed": {
+        "sectxt": true,
+        "sectionID": "921474",
+        "type": "DI",
+        "section": "E01",
+        "days": "MW",
+        "time": "9:00a-9:50a",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "fb427550620bf7fb3cfde09b832ec6f2f54aa939b34f0acb21d743a0aea21ee5": {
+        "sectxt": true,
+        "sectionID": "921475",
+        "type": "DI",
+        "section": "E02",
+        "days": "MW",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2110",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "dede9141ae59b6bdf2aad3e1570421fdc3cba4e914ba2459d0a267a862eb3b21": {
+        "sectxt": true,
+        "sectionID": "921476",
+        "type": "DI",
+        "section": "E03",
+        "days": "MW",
+        "time": "9:00a-9:50a",
+        "building": "WLH",
+        "room": "2110",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "6195ba196c8e984d3708c3fea28e188075762865aa29d4bb3f893d64510ed199": {
+        "sectxt": true,
+        "sectionID": "921477",
+        "type": "DI",
+        "section": "E04",
+        "days": "MW",
+        "time": "11:00a-11:50a",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "67f574bd4db0e5efdee834754b34d7630972320bd82922fe0ddc8ea3c34d7f5e": {
+        "sectxt": true,
+        "sectionID": "921478",
+        "type": "DI",
+        "section": "E05",
+        "days": "MW",
+        "time": "12:00p-12:50p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "59885175e440a318bac61e2d4e1fe81828848c16ca154c612baa0853043e1163": {
+        "sectxt": true,
+        "sectionID": "921479",
+        "type": "DI",
+        "section": "E06",
+        "days": "MW",
+        "time": "1:00p-1:50p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "4d22bebe12f76f0cf242d1050c808cd1f931578df419f8b0c6f7deeaad4ed4d8": {
+        "sectxt": true,
+        "sectionID": "921480",
+        "type": "DI",
+        "section": "E07",
+        "days": "MW",
+        "time": "2:00p-2:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "1c30f18c0485eae5ce7845ce868a942ba95e43035da4ed54bc58017cdc25268d": {
+        "sectxt": true,
+        "sectionID": "921481",
+        "type": "DI",
+        "section": "E08",
+        "days": "MW",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "bc0faad72fdc7f4acbe03e3f4210f255aa7ee7048f092faaef85838bd8c33d45": {
+        "sectxt": true,
+        "sectionID": "921482",
+        "type": "DI",
+        "section": "E09",
+        "days": "MW",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "567fc6b2076d3f00c87113984d862dbcf62be41d8177a274388d7252e676d1e6": {
+        "sectxt": true,
+        "sectionID": "921483",
+        "type": "DI",
+        "section": "E10",
+        "days": "MW",
+        "time": "5:00p-5:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "2d64310fc2d85eac69c87062346fae7c58fd297365cfd716531ed4b07bde9a5c": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -453,14 +1157,13 @@
         "time": "12:00p-12:50p",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "8fe175e9e31c0fa5d25dc5ae391cf0250d8295195f03e073ae3841ff736ff285": {
         "sectxt": true,
         "sectionID": "921448",
         "type": "DI",
@@ -469,14 +1172,13 @@
         "time": "8:00a-8:50a",
         "building": "MANDE",
         "room": "B-152",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "32e2f173876d292f2028eed905685471ec7001d9425265c318e943989d962dfd": {
         "sectxt": true,
         "sectionID": "921449",
         "type": "DI",
@@ -485,14 +1187,13 @@
         "time": "9:00a-9:50a",
         "building": "MANDE",
         "room": "B-152",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "4c298cd74d809be4e909ac0a14a159da0339b2a11f39ab5963a12024f73a4128": {
         "sectxt": true,
         "sectionID": "921450",
         "type": "DI",
@@ -501,14 +1202,13 @@
         "time": "10:00a-10:50a",
         "building": "MANDE",
         "room": "B-152",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "9e6c0fedee6e787138f11aba889dd256370d5f211191e862beadcc5711de37ce": {
         "sectxt": true,
         "sectionID": "921451",
         "type": "DI",
@@ -517,14 +1217,13 @@
         "time": "11:00a-11:50a",
         "building": "MANDE",
         "room": "B-152",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "225159a8b6c6db34333eae03150a8be10ad545b77da7ea3cafcc8e844cf279fe": {
         "sectxt": true,
         "sectionID": "921452",
         "type": "DI",
@@ -533,14 +1232,13 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "5c7d06c691143277d914ff04deb14130a9a5c2489140a06cbb65e47f5fc74ff7": {
         "sectxt": true,
         "sectionID": "921453",
         "type": "DI",
@@ -549,14 +1247,13 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "47d7b15de8b0b680f4e215f17484aebb7d28135a8301e688c9f6276163a7db48": {
         "sectxt": true,
         "sectionID": "921454",
         "type": "DI",
@@ -565,14 +1262,13 @@
         "time": "3:00p-3:50p",
         "building": "HSS",
         "room": "1106A",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "59b4e32e4663f9320207ed5e92d999e27359d5e8cf3f76eb60bd44f030b5e7a6": {
         "sectxt": true,
         "sectionID": "921455",
         "type": "DI",
@@ -581,14 +1277,13 @@
         "time": "4:00p-4:50p",
         "building": "HSS",
         "room": "1106A",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "7f7be19f42e6a2ec821e4befb55073275d89ca56ee31bea940860726b310cf06": {
         "sectxt": true,
         "sectionID": "921456",
         "type": "DI",
@@ -597,14 +1292,13 @@
         "time": "5:00p-5:50p",
         "building": "HSS",
         "room": "1106A",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "f8685ffad5ae93ca0276aa67c06bd19092d7a680ffc5bd5b953513b10d4f6787": {
         "sectxt": true,
         "sectionID": "921457",
         "type": "DI",
@@ -613,14 +1307,13 @@
         "time": "6:00p-6:50p",
         "building": "HSS",
         "room": "1106A",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "45c3813f80d54f6f64508d6430a9e81155359ffb92fe4f6d640e34a678c7f493": {
         "sectxt": true,
         "sectionID": "921458",
         "type": "DI",
@@ -629,17 +1322,587 @@
         "time": "7:00p-7:50p",
         "building": "HSS",
         "room": "1106A",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "Th": {
+      "e1d2395e969d83bde0c929fa2b2195cf1e24751ba6e95c6e3854bdacc231e035": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "4ecffaf34f1e12b7e3332c1ae1ce4a10205a0bed9193bfc8c52d1359369b4416": {
+        "sectxt": true,
+        "sectionID": "921461",
+        "type": "DI",
+        "section": "D01",
+        "days": "TuTh",
+        "time": "4:00p-4:50p",
+        "building": "MANDE",
+        "room": "B-152",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "460ac69d90dc33aafc9c60c6615282450df57044b6ca6d0851aa9bb4733d5ef7": {
+        "sectxt": true,
+        "sectionID": "921462",
+        "type": "DI",
+        "section": "D02",
+        "days": "TuTh",
+        "time": "7:00p-7:50p",
+        "building": "HSS",
+        "room": "1106A",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "034c21568e48400684e53b3e0f2e9c09ec00e611478712106d5afebcf6a2edf4": {
+        "sectxt": true,
+        "sectionID": "921463",
+        "type": "DI",
+        "section": "D03",
+        "days": "TuTh",
+        "time": "4:00p-4:50p",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "a2628097119a9f33369e9b37192d7690407a5ddbaba8573647be94dc311ed864": {
+        "sectxt": true,
+        "sectionID": "921464",
+        "type": "DI",
+        "section": "D04",
+        "days": "TuTh",
+        "time": "7:00p-7:50p",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "97cff9fdf90d42530d333d04120099413e1836e07eccd6d48c18c9bceddc2604": {
+        "sectxt": true,
+        "sectionID": "921465",
+        "type": "DI",
+        "section": "D05",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "91ee71cf89a2eaa760414a843b6bca1faa92f6f199775cf05ccab5674ddfbb63": {
+        "sectxt": true,
+        "sectionID": "921466",
+        "type": "DI",
+        "section": "D06",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "050098032f7a72b893bf543abb499ca1a13c1827568db4f950f7969914037863": {
+        "sectxt": true,
+        "sectionID": "921467",
+        "type": "DI",
+        "section": "D07",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "220",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "0ae1352eebe31266b2068596330cd0ec0c7f5107fdbee0a2d9b96dc27e45ea72": {
+        "sectxt": true,
+        "sectionID": "921468",
+        "type": "DI",
+        "section": "D08",
+        "days": "TuTh",
+        "time": "8:00p-8:50p",
+        "building": "HSS",
+        "room": "1106A",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "2955814c80d8a6be8b90ca37ee5e0c49b6b6808c3e1c46501a01f085992977fc": {
+        "sectxt": true,
+        "sectionID": "921469",
+        "type": "DI",
+        "section": "D09",
+        "days": "TuTh",
+        "time": "8:00p-8:50p",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "f9e3378aac671e6b77afcd2863436c286b180e5d32164a43334f89afbb92ae65": {
+        "sectxt": true,
+        "sectionID": "921470",
+        "type": "DI",
+        "section": "D10",
+        "days": "TuTh",
+        "time": "9:00a-9:50a",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "9f53a53265592b611d3a3a7b0db178cc3f99a68e17fccaf8fd53aedd7f8a8a4a": {
+        "sectxt": true,
+        "sectionID": "921471",
+        "type": "DI",
+        "section": "D11",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "588972fb259311924ec570c1fa3c39dd0976095867f29ed0dadd4acd8f23ec19": {
+        "sectxt": true,
+        "sectionID": "921472",
+        "type": "DI",
+        "section": "D12",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [
+          "Bigham, David Joseph"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "d9a298da955f5b893f4478e3f282466555219d3b8f66ca24bc27d90b59ce58fd": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "7a0da8269c6f48ab04e5a04ca32e95a9c86c48fb528b0699144feff739ebb37f": {
+        "sectxt": true,
+        "sectionID": "921422",
+        "type": "DI",
+        "section": "A01",
+        "days": "TuTh",
+        "time": "8:00a-8:50a",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "4f17386a15c69d241efdd25fe3957ca2eeb9c4f6c76f5efe3162c43879449e32": {
+        "sectxt": true,
+        "sectionID": "921423",
+        "type": "DI",
+        "section": "A02",
+        "days": "TuTh",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "de678ba7fa9151d82b5bae906449f326a2204e89c0e4130bd861443c3c3eac29": {
+        "sectxt": true,
+        "sectionID": "921424",
+        "type": "DI",
+        "section": "A03",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "1e731199ed65bf34072d79762dbe718dbce63afe2431afc0f9aa7d1cb44430f2": {
+        "sectxt": true,
+        "sectionID": "921425",
+        "type": "DI",
+        "section": "A04",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "435d68f9c93f5f50cd9b4f3a7c5444e68988b9882cac08eb13597fd7acef8b25": {
+        "sectxt": true,
+        "sectionID": "921426",
+        "type": "DI",
+        "section": "A05",
+        "days": "TuTh",
+        "time": "12:00p-12:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "f5f4e561f87d17ca1ccd5bc083f43bb770d2459297123dc23c735ec0089ed3a5": {
+        "sectxt": true,
+        "sectionID": "921427",
+        "type": "DI",
+        "section": "A06",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "c448da5ff351fc7a47af095a49761fe25ffde0ab1d74a571b106d69e473f30d4": {
+        "sectxt": true,
+        "sectionID": "921428",
+        "type": "DI",
+        "section": "A07",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "f87302fb8d995fcb38a1d9e640393b2dacc0bfe2c148e75f311b2f0f5ab84230": {
+        "sectxt": true,
+        "sectionID": "921429",
+        "type": "DI",
+        "section": "A08",
+        "days": "TuTh",
+        "time": "5:00p-5:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "e52df871dcf4b3c0cea2db8aed79c079e57b733c3f280c1e7114beee62899740": {
+        "sectxt": true,
+        "sectionID": "921430",
+        "type": "DI",
+        "section": "A09",
+        "days": "TuTh",
+        "time": "6:00p-6:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "f39aa9830f7408fca660c9fa56131c369552aae82d291513231504291fd06195": {
+        "sectxt": true,
+        "sectionID": "921431",
+        "type": "DI",
+        "section": "A10",
+        "days": "TuTh",
+        "time": "7:00p-7:50p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "09c4e6e89a969843aa14c66eb0834beb04927f4cd5ea1a16ad134a46fcecf6d2": {
+        "sectxt": true,
+        "sectionID": "921433",
+        "type": "DI",
+        "section": "A12",
+        "days": "TuTh",
+        "time": "5:00p-5:50p",
+        "building": "HSS",
+        "room": "1106A",
+        "instructors": [
+          "Trigilio, Michael"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "9ecb4349bcf3cf1b21e5a0d8ad6c42f695a59786e4be06c5748fb2365d7e0bcd": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "da5ee9de481b3154cead463a25b41fd5fb89b3b4ace64025197bb78c1e30f9eb": {
+        "sectxt": true,
+        "sectionID": "921435",
+        "type": "DI",
+        "section": "B01",
+        "days": "TuTh",
+        "time": "8:00a-8:50a",
+        "building": "HSS",
+        "room": "1106A",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "129ff5426a6b727af34af8a9d539ed15d85d8a6d5e65bb45252ef3bef90aafd1": {
+        "sectxt": true,
+        "sectionID": "921436",
+        "type": "DI",
+        "section": "B02",
+        "days": "TuTh",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "1106A",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "0e247936b49a1a2c52cccdbebcbbbc75f9e7b49c80898397a974d3b00c1c7f55": {
+        "sectxt": true,
+        "sectionID": "921437",
+        "type": "DI",
+        "section": "B03",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "1106A",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "623006da23ecd02a17cfa557df7b9ab77ec9d543a6450655a2db10e9442567dd": {
+        "sectxt": true,
+        "sectionID": "921438",
+        "type": "DI",
+        "section": "B04",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "HSS",
+        "room": "1106A",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "3a3b18de1a7ff737a50a4a27e684b999e93fa7aa20eb891c107a08f8460aea54": {
+        "sectxt": true,
+        "sectionID": "921440",
+        "type": "DI",
+        "section": "B06",
+        "days": "TuTh",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "b72cc08eb2d1abb2394ad458e2c55cd77af342683c3d1ca19c061ed42eac69be": {
+        "sectxt": true,
+        "sectionID": "921441",
+        "type": "DI",
+        "section": "B07",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "97da159320fb398458dccd61b50b8f4bce6b0c1f594ae4bd5f890de710205d83": {
+        "sectxt": true,
+        "sectionID": "921442",
+        "type": "DI",
+        "section": "B08",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "5df6d000b1081add9e6288596d9430548102dbc56e2f49f164ad0fa6502f8e86": {
+        "sectxt": true,
+        "sectionID": "921443",
+        "type": "DI",
+        "section": "B09",
+        "days": "TuTh",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2110",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "72a00e5b6df26929d3a0a8927c2d9e8c68c938615ff2596324893c135b8243af": {
+        "sectxt": true,
+        "sectionID": "921444",
+        "type": "DI",
+        "section": "B10",
+        "days": "TuTh",
+        "time": "9:00a-9:50a",
+        "building": "WLH",
+        "room": "2110",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "732316de146c485a98d9c0fa2ba330ac930c45a3e7b33d9b0d65439ba573b3b4": {
+        "sectxt": true,
+        "sectionID": "921445",
+        "type": "DI",
+        "section": "B11",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2110",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "1c56174390b3200b0ad079e09b18351f9ded9f866b5f3c96cb31f4f179024339": {
+        "sectxt": true,
+        "sectionID": "921446",
+        "type": "DI",
+        "section": "B12",
+        "days": "TuTh",
+        "time": "5:00p-5:50p",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Glaser, Amelia"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    },
+    "F": {
+      "ac0aa429eaa0884a346db88de89d92f61768c6566f691499b5050a1984bbafbf": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "E00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "MANDE",
+        "room": "B-210",
+        "instructors": [
+          "Bronstein, Phoebe Malan"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "ca0679a6a428ae3fe5f014f06378a81c6eabcfee423ff21ec197239510753ce3": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -648,15 +1911,19 @@
         "time": "12:00p-12:50p",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Pantoja, Jennifer Metten",
         "instructors": [
           "Pantoja, Jennifer Metten"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "D",
+    "E",
+    "A",
+    "B",
+    "C"
+  ]
 }

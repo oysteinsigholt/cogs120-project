@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-	<link rel="stylesheet" href="style/style.css">
+	<link rel="stylesheet" href="/style/style.css">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -16,48 +16,53 @@
     <![endif]-->
 </head>
 
-<body class="grayscale">
+<body>
 	<nav class="top-nav">
     <div class="nav-wrapper">
 			<ul class="left">
         <li><a href="/"><i class="material-icons">keyboard_arrow_left</i></a></li>
       </ul>
-      <span class="brand-logo course-name">{{ code }}: {{ name }}</span>
+      <span class="brand-logo course-name">{{ course.code }}: {{ course.name }}</span>
     </div>
   </nav>
 	<main>
-		<div class="container">
-			<center><h5>Select Your Section</h5></center>
-			<div class="section-select">
-	      <label for="section-A"><input type="checkbox" class="filled-in" id="section-A" checked="checked" /><span>A</span></label>
-				<label for="section-B"><input type="checkbox" class="filled-in" id="section-B" /><span>B</span></label>
-	    </div>
-		</div>
+		{{#if course.sections}}
+			<div class="container">
+				<center><h5>Select Your Section</h5></center>
+				<div class="section-select">
+					{{#each course.sections}}
+			      <label for="section-{{ this }}"><input type="checkbox" class="filled-in" id="section-{{ this }}" data-section="{{ this }}" /><span>{{ this }}</span></label>
+					{{/each}}
+		    </div>
+			</div>
+		{{/if}}
 		<div class="container">
 			<center><h5>Customize Schedule</h5></center>
 		</div>
-		{{#each days}}
-			<div class="container">
-				<h5>{{ name }}</h5>
-			</div>
-			<div class="event-row">
-				{{#each events}}
-	        <div class="event card-panel teal">
-						<div class="card-content white-text">
-	            <p class="event-details event-time">{{ time }} <span class="event-details event-section">{{ section }}</span></p>
-	            <h5 class="event-title">{{ type }}</h5>
-							<p class="event-details event-location">{{ building }} {{ room }}</p>
-							<p class="event-details">{{ instructor }}</p>
-							<div class="switch">
-								<label class="event-toggle">
-									<input type="checkbox"{{#if checked }} checked{{/if}}>
-									<span class="lever"></span>
-								</label>
-							</div>
-	          </div>
-	        </div>
-				{{/each}}
-    	</div>
+		{{#each course.events_repeating}}
+			{{#if this}}
+				<div class="container">
+					<h5>{{unabbreviateDay @key }}</h5>
+				</div>
+				<div class="event-row">
+					{{#each this}}
+		        <div class="event card-panel teal">
+							<div class="card-content white-text">
+		            <p class="event-details event-time">{{ time }} <span class="event-details event-section">{{ section }}</span></p>
+		            <h5 class="event-title">{{unabbreviateType type }}</h5>
+								<p class="event-details event-location">{{ building }} {{ room }}</p>
+								<p class="event-details">{{#each instructors}}{{ this }} {{/each}}</p>
+								<div class="switch">
+									<label class="event-toggle">
+										<input type="checkbox" name="timeslot" value="{{ @key }}" {{#if checked }} checked{{/if}}>
+										<span class="lever"></span>
+									</label>
+								</div>
+		          </div>
+		        </div>
+					{{/each}}
+	    	</div>
+			{{/if}}
 		{{/each}}
 	</main>
 	<footer>

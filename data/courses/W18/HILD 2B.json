@@ -3,34 +3,151 @@
   "name": "United States History",
   "department": "HILD",
   "id": "2B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924533",
-      "type": "DI",
-      "section": "A06",
-      "days": "F",
-      "time": "1:00p-1:50p",
-      "building": "APM",
-      "room": "2301",
-      "instructor": "Klein, Rachel",
-      "instructors": [
-        "Klein, Rachel"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "M": {
+      "8f5cd86a955748c71ed3b0524caeeb63a50a0e72fd21fc5f08d1756339b04ec5": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "119",
+        "instructors": [
+          "Klein, Rachel"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      }
+    },
+    "W": {
+      "74ea09cb3d01daba039901e3d18030194c0ce47fc0bd239b573a61ed455612f9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "119",
+        "instructors": [
+          "Klein, Rachel"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "d26e9072af9b105036e71bcc674bbcb46c05be29f95da21835a212ebb8f95c58": {
+        "sectxt": true,
+        "sectionID": "924528",
+        "type": "DI",
+        "section": "A01",
+        "days": "W",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Klein, Rachel"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "39736a382d8cfc711fa8a421090d1d6a11c888d8fb09e7ff0a0cdd9a905b378e": {
+        "sectxt": true,
+        "sectionID": "924529",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "217B",
+        "instructors": [
+          "Klein, Rachel"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    },
+    "F": {
+      "cb478914a4ec4bc4c62867dba462dc925b2849711db7c7bb7d18cd0442892921": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "119",
+        "instructors": [
+          "Klein, Rachel"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "1345240b84777c824c25155c83ec9224300d9ba24fe372bf8c7ceaa22ed7619f": {
+        "sectxt": true,
+        "sectionID": "924530",
+        "type": "DI",
+        "section": "A03",
+        "days": "F",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "217B",
+        "instructors": [
+          "Klein, Rachel"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "031d16739063b100b2a3970d0a099fc0cb2a5b89a1264a471924347d63804651": {
+        "sectxt": true,
+        "sectionID": "924531",
+        "type": "DI",
+        "section": "A04",
+        "days": "F",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "217B",
+        "instructors": [
+          "Klein, Rachel"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "e9a671fffb59c9355192f794bb06fd67dc92f33bc03b37bc26893538b3176644": {
+        "sectxt": true,
+        "sectionID": "924532",
+        "type": "DI",
+        "section": "A05",
+        "days": "F",
+        "time": "12:00p-12:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Klein, Rachel"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "1ae522a06d122d661a803c7364747e19c2035257942c5c6eafb9a71ef28911e1": {
         "sectxt": true,
         "sectionID": "924533",
         "type": "DI",
@@ -39,15 +156,15 @@
         "time": "1:00p-1:50p",
         "building": "APM",
         "room": "2301",
-        "instructor": "Klein, Rachel",
         "instructors": [
           "Klein, Rachel"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

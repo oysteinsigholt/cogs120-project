@@ -3,42 +3,9 @@
   "name": "Musical Analysis",
   "department": "MUS",
   "id": "210",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921826",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "5:00p-7:50p",
-      "building": "CPMC",
-      "room": "231",
-      "instructor": "Davis, Anthony Curtis",
-      "instructors": [
-        "Davis, Anthony Curtis"
-      ],
-      "start_time": "17:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,19 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "d26e1a177d437e1c7bd8df158ef89f423637c5e54f3c3e00b477775154266c58": {
         "sectxt": true,
         "sectionID": "921826",
         "type": "SE",
@@ -68,17 +32,15 @@
         "time": "5:00p-7:50p",
         "building": "CPMC",
         "room": "231",
-        "instructor": "Davis, Anthony Curtis",
         "instructors": [
           "Davis, Anthony Curtis"
         ],
         "start_time": "17:00",
         "end_time": "19:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,33 +3,12 @@
   "name": "Special Topics in CGS",
   "department": "CGS",
   "id": "280",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930862",
-      "type": "SE",
-      "section": "B00",
-      "days": "Th",
-      "time": "4:00p-7:00p",
-      "building": "SSB",
-      "room": "103",
-      "instructor": "Hernandez, Jillian",
-      "instructors": [
-        "Hernandez, Jillian"
-      ],
-      "start_time": "16:00",
-      "end_time": "19:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "634ea731c9bfb91649f1d8f2d7ebf1a3e68c3da499b1c9c328290529e0a02698": {
         "sectxt": true,
         "sectionID": "930862",
         "type": "SE",
@@ -38,16 +17,16 @@
         "time": "4:00p-7:00p",
         "building": "SSB",
         "room": "103",
-        "instructor": "Hernandez, Jillian",
         "instructors": [
           "Hernandez, Jillian"
         ],
         "start_time": "16:00",
         "end_time": "19:00"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

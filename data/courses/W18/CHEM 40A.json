@@ -3,152 +3,37 @@
   "name": "Organic Chemistry I",
   "department": "CHEM",
   "id": "40A",
-  "timeslots": [
-    {
-      "sectxt": true,
+  "notes": [],
+  "events_single": {
+    "a5e589a9ec55ff5d9bb1ac87ad24eb0b6cd60384775e97f66f428e13a8a7f125": {
+      "sectxt": false,
       "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "6:30p-7:50p",
-      "building": "GH",
-      "room": "242",
-      "instructor": "Albizati, Kim F.",
-      "instructors": [
-        "Albizati, Kim F."
-      ],
-      "start_time": "18:30",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926415",
-      "type": "DI",
-      "section": "B01",
-      "days": "M",
-      "time": "10:00a-10:50a",
-      "building": "MANDE",
-      "room": "B-104",
-      "instructor": "Albizati, Kim F.",
-      "instructors": [
-        "Albizati, Kim F."
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926416",
-      "type": "DI",
-      "section": "B02",
-      "days": "M",
-      "time": "11:00a-11:50a",
-      "building": "MANDE",
-      "room": "B-104",
-      "instructor": "Albizati, Kim F.",
-      "instructors": [
-        "Albizati, Kim F."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926417",
-      "type": "DI",
-      "section": "B03",
-      "days": "F",
-      "time": "8:00a-8:50a",
-      "building": "MANDE",
-      "room": "B-104",
-      "instructor": "Albizati, Kim F.",
-      "instructors": [
-        "Albizati, Kim F."
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926418",
-      "type": "DI",
-      "section": "B04",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "MANDE",
-      "room": "B-104",
-      "instructor": "Albizati, Kim F.",
-      "instructors": [
-        "Albizati, Kim F."
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926419",
-      "type": "DI",
-      "section": "B05",
-      "days": "F",
-      "time": "10:00a-10:50a",
-      "building": "MANDE",
-      "room": "B-104",
-      "instructor": "Albizati, Kim F.",
-      "instructors": [
-        "Albizati, Kim F."
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926420",
-      "type": "DI",
-      "section": "B06",
+      "type": "RE",
+      "section": "02/02/2018",
       "days": "F",
       "time": "4:00p-4:50p",
-      "building": "MANDE",
-      "room": "B-104",
-      "instructor": "Albizati, Kim F.",
-      "instructors": [
-        "Albizati, Kim F."
-      ],
+      "building": "YORK",
+      "room": "2722",
+      "instructors": [],
+      "date": "2018-02-02T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
-      "sectxt": true,
-      "sectionID": "926421",
-      "type": "DI",
-      "section": "B07",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "MANDE",
-      "room": "B-104",
-      "instructor": "Albizati, Kim F.",
-      "instructors": [
-        "Albizati, Kim F."
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
     },
-    {
-      "sectxt": true,
-      "sectionID": "926422",
-      "type": "DI",
-      "section": "B08",
-      "days": "F",
-      "time": "6:00p-6:50p",
-      "building": "MANDE",
-      "room": "B-104",
-      "instructor": "Albizati, Kim F.",
-      "instructors": [
-        "Albizati, Kim F."
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
+    "58b3faa2978edd6ff44fec1b50ce446542e0741fc0dfb38d869e3f22d430f2b6": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -157,13 +42,12 @@
       "time": "8:00p-9:50p",
       "building": "PETER",
       "room": "110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-01T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "b19ec81a072731425ce26debbe371e8ca9a7984f2328a3b3004c145373e88a1a": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -172,13 +56,12 @@
       "time": "8:00p-9:50p",
       "building": "PETER",
       "room": "110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-01T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "29c15437b3dac21a224ecb2eebf1b65277fe38acd5aa2abdf9f94b0fabfcef04": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -187,13 +70,12 @@
       "time": "7:00p-9:50p",
       "building": "GH",
       "room": "242",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-18T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:50"
     },
-    {
+    "a2091ec1570f40906f010976d956b0935142ec453e4c05b6e8b792359b40a1b2": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -202,13 +84,12 @@
       "time": "11:00a-12:50p",
       "building": "PETER",
       "room": "108",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-03T08:00:00.000Z",
       "start_time": "11:00",
       "end_time": "12:50"
     },
-    {
+    "dfd1acfad2e8cf634de01f6cb5d0b12640c4076d5140bbf094ab295f2a0ae9cf": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -217,13 +98,12 @@
       "time": "11:00a-12:50p",
       "building": "PETER",
       "room": "108",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-03T08:00:00.000Z",
       "start_time": "11:00",
       "end_time": "12:50"
     },
-    {
+    "83f667703ee5f41443699d3c685d2af7204f58e7d0026726650a8f5259ecf403": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -232,110 +112,106 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
-  "notes": [],
-  "events_single": [
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/01/2018",
-      "days": "Th",
-      "time": "8:00p-9:50p",
-      "building": "PETER",
-      "room": "110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-01T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "03/01/2018",
-      "days": "Th",
-      "time": "8:00p-9:50p",
-      "building": "PETER",
-      "room": "110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-01T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "03/18/2018",
-      "days": "Sun",
-      "time": "7:00p-9:50p",
-      "building": "GH",
-      "room": "242",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-18T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "02/03/2018",
-      "days": "S",
-      "time": "11:00a-12:50p",
-      "building": "PETER",
-      "room": "108",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-03T08:00:00.000Z",
-      "start_time": "11:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "03/03/2018",
-      "days": "S",
-      "time": "11:00a-12:50p",
-      "building": "PETER",
-      "room": "108",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-03T08:00:00.000Z",
-      "start_time": "11:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1866918a9e827ca2246c3cdc0800ca8cab9d14fcb63d242959828782dc5e03cc": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "YORK",
+        "room": "2722",
+        "instructors": [
+          "Bertrand, Guy"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "43207e850fe32e7f523cbca377b037cacf3f8bf1407effa2f661708ac5fc94a6": {
+        "sectxt": true,
+        "sectionID": "926405",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Bertrand, Guy"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "1a4eedf9ce1a801a97df7d8f1e09f8cde7cb11b89a3dd44c9754e7828c154dc7": {
+        "sectxt": true,
+        "sectionID": "926406",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "11:00a-11:50a",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Bertrand, Guy"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "8070bfa5a9e775bbbcf09333a375bb4b4bc20618c02686bd8db97735e731b335": {
+        "sectxt": true,
+        "sectionID": "926407",
+        "type": "DI",
+        "section": "A03",
+        "days": "M",
+        "time": "12:00p-12:50p",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Bertrand, Guy"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "c162cac6b4f8d394f1e172ff888269e852d1f4b5214a101660a38b613d1939ff": {
+        "sectxt": true,
+        "sectionID": "926408",
+        "type": "DI",
+        "section": "A04",
+        "days": "M",
+        "time": "1:00p-1:50p",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Bertrand, Guy"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "394a7edc573861ffaffabab66172412f17fd47b57f3b9c02f08439834789d52b": {
+        "sectxt": true,
+        "sectionID": "926409",
+        "type": "DI",
+        "section": "A05",
+        "days": "M",
+        "time": "4:00p-4:50p",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Bertrand, Guy"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "4d437840769c3ea87eafe4230c8f58c7ce533f824aa655a4ca86103e8ad06650": {
         "sectxt": true,
         "sectionID": "926415",
         "type": "DI",
@@ -344,14 +220,13 @@
         "time": "10:00a-10:50a",
         "building": "MANDE",
         "room": "B-104",
-        "instructor": "Albizati, Kim F.",
         "instructors": [
           "Albizati, Kim F."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "d3eea80eb293da2e1825251d34f6c64dbac861b9f169b0a8df5a22165e08b68c": {
         "sectxt": true,
         "sectionID": "926416",
         "type": "DI",
@@ -360,16 +235,15 @@
         "time": "11:00a-11:50a",
         "building": "MANDE",
         "room": "B-104",
-        "instructor": "Albizati, Kim F.",
         "instructors": [
           "Albizati, Kim F."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "3ad71f1f60ca9c790d2366c1f41549c64ea893c7957c874dacfef561d2277378": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -378,17 +252,32 @@
         "time": "6:30p-7:50p",
         "building": "GH",
         "room": "242",
-        "instructor": "Albizati, Kim F.",
         "instructors": [
           "Albizati, Kim F."
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "W": {
+      "664fb1192c899ad420c384f1035679fd9aa443bbe17868a3444009b2ce9ed2d0": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "YORK",
+        "room": "2722",
+        "instructors": [
+          "Bertrand, Guy"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      }
+    },
+    "Th": {
+      "313bab4ce3cbe71182ceaeea67722706a5c47060a143129addf810aacd6eb9cd": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -397,16 +286,90 @@
         "time": "6:30p-7:50p",
         "building": "GH",
         "room": "242",
-        "instructor": "Albizati, Kim F.",
         "instructors": [
           "Albizati, Kim F."
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "e0c71401fe619db626c079241f95ffbc9af299dc6dba6b446063c58d72b82533": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "YORK",
+        "room": "2722",
+        "instructors": [
+          "Bertrand, Guy"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "ec72633a0a8297628616c5ecabefb3189aae93e700caff5190a91f74635356f0": {
+        "sectxt": true,
+        "sectionID": "926410",
+        "type": "DI",
+        "section": "A06",
+        "days": "F",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Bertrand, Guy"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "a0667983719390c5c51c4aeccdffe086b955dca3620efa0c9f8aac43788e1034": {
+        "sectxt": true,
+        "sectionID": "926411",
+        "type": "DI",
+        "section": "A07",
+        "days": "F",
+        "time": "1:00p-1:50p",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Bertrand, Guy"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "6cfd76bac6ae1f9d436b44d3845fa12b6638fcc756fefeef2f0833797ed3d025": {
+        "sectxt": true,
+        "sectionID": "926412",
+        "type": "DI",
+        "section": "A08",
+        "days": "F",
+        "time": "2:00p-2:50p",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Bertrand, Guy"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "9b3e2923015158bf64ce4511f4ab117f5523c272881de4dae04b8ad1dd190b11": {
+        "sectxt": true,
+        "sectionID": "926413",
+        "type": "DI",
+        "section": "A09",
+        "days": "F",
+        "time": "8:00p-8:50p",
+        "building": "HSS",
+        "room": "1128A",
+        "instructors": [
+          "Bertrand, Guy"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "bea6cbdfdb5e7411a02aec9feb9ccea8e0ae7dac3fc6a1670d6dbe73b48e5b1c": {
         "sectxt": true,
         "sectionID": "926417",
         "type": "DI",
@@ -415,14 +378,13 @@
         "time": "8:00a-8:50a",
         "building": "MANDE",
         "room": "B-104",
-        "instructor": "Albizati, Kim F.",
         "instructors": [
           "Albizati, Kim F."
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "eb6b8e99dd97e700c2b493d9593a2bc84964a7dd57e34b6ab771456c0e34754b": {
         "sectxt": true,
         "sectionID": "926418",
         "type": "DI",
@@ -431,14 +393,13 @@
         "time": "9:00a-9:50a",
         "building": "MANDE",
         "room": "B-104",
-        "instructor": "Albizati, Kim F.",
         "instructors": [
           "Albizati, Kim F."
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "508f56ba8bdc2c9ad3ed14752f951039b95e29ab3ea3ea31247b47208de776bf": {
         "sectxt": true,
         "sectionID": "926419",
         "type": "DI",
@@ -447,14 +408,13 @@
         "time": "10:00a-10:50a",
         "building": "MANDE",
         "room": "B-104",
-        "instructor": "Albizati, Kim F.",
         "instructors": [
           "Albizati, Kim F."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "70f1dc82244b65106b39bc3a68e26371d09942fc9757595416f9475ebd87232f": {
         "sectxt": true,
         "sectionID": "926420",
         "type": "DI",
@@ -463,14 +423,13 @@
         "time": "4:00p-4:50p",
         "building": "MANDE",
         "room": "B-104",
-        "instructor": "Albizati, Kim F.",
         "instructors": [
           "Albizati, Kim F."
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "cb54446c7aa8b84a9f778eccb57ac734f168df011d6b2d644368467f42234550": {
         "sectxt": true,
         "sectionID": "926421",
         "type": "DI",
@@ -479,14 +438,13 @@
         "time": "5:00p-5:50p",
         "building": "MANDE",
         "room": "B-104",
-        "instructor": "Albizati, Kim F.",
         "instructors": [
           "Albizati, Kim F."
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "caf57e25caa4a39b7a4602276e0d9c2f2e21f9b9dda15e91664b8b09fe4ce4d1": {
         "sectxt": true,
         "sectionID": "926422",
         "type": "DI",
@@ -495,15 +453,16 @@
         "time": "6:00p-6:50p",
         "building": "MANDE",
         "room": "B-104",
-        "instructor": "Albizati, Kim F.",
         "instructors": [
           "Albizati, Kim F."
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

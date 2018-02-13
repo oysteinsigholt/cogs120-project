@@ -3,42 +3,9 @@
   "name": "Visuality, Sexuality, and Race",
   "department": "ETHN",
   "id": "150",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922630",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Taylor-Garcia, Daphne",
-      "instructors": [
-        "Taylor-Garcia, Daphne"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "713d3ca3df14ed9f752959d5e92861bee434079704484c052adef74d59d6adf0": {
         "sectxt": true,
         "sectionID": "922630",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "12:30p-1:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Taylor-Garcia, Daphne",
         "instructors": [
           "Taylor-Garcia, Daphne"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "9644cbdc2751c73ed0e33ceb9f4c12c69eb8733e88f870adf8a8e7038744a2e6": {
         "sectxt": true,
         "sectionID": "922630",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "12:30p-1:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Taylor-Garcia, Daphne",
         "instructors": [
           "Taylor-Garcia, Daphne"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

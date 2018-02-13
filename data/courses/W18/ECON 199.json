@@ -3,27 +3,37 @@
   "name": "Independent Study",
   "department": "ECON",
   "id": "199",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "939000",
-      "type": "IN",
-      "section": "003",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Dahl, Gordon B.",
-      "instructors": [
-        "Dahl, Gordon B."
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "937243",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Santamaria, Martin I"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "937902",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Famulari, Melissa"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "939000",
       "type": "IN",
       "section": "003",
@@ -31,19 +41,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Dahl, Gordon B.",
       "instructors": [
         "Dahl, Gordon B."
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

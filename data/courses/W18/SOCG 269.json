@@ -3,30 +3,12 @@
   "name": "The Citizenship Debates",
   "department": "SOCG",
   "id": "269",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930569",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "12:00p-2:50p",
-      "building": "SSB",
-      "room": "101",
-      "instructor": "Shafir, Gershon",
-      "instructors": [
-        "Shafir, Gershon"
-      ],
-      "start_time": "12:00",
-      "end_time": "14:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "0b8c324a57c41c18e297cedfd01131975e83bf881020840685ed45ed42e72db2": {
         "sectxt": true,
         "sectionID": "930569",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "12:00p-2:50p",
         "building": "SSB",
         "room": "101",
-        "instructor": "Shafir, Gershon",
         "instructors": [
           "Shafir, Gershon"
         ],
         "start_time": "12:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

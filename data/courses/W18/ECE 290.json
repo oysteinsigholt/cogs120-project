@@ -3,34 +3,11 @@
   "name": "Seminar/Current ECE Research",
   "department": "ECE",
   "id": "290",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930118",
-      "type": "SE",
-      "section": "A00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": [
+    "A"
+  ]
 }

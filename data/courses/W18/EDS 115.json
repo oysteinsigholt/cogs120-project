@@ -3,31 +3,12 @@
   "name": "Cog Development & Education",
   "department": "EDS",
   "id": "115",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922469",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "PCYNH",
-      "room": "340",
-      "instructor": "Cohen, Shana R",
-      "instructors": [
-        "Cohen, Shana R"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "7136b1e247a1cdda513c4b7f26359b9c1a114a6e58aeefe04263639d70014945": {
         "sectxt": true,
         "sectionID": "922469",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "9:30a-10:50a",
         "building": "PCYNH",
         "room": "340",
-        "instructor": "Cohen, Shana R",
         "instructors": [
           "Cohen, Shana R"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "693ad44a9f56ee0d89f1e5c9e8501ca4c5b9d69647930bd273518e20adf3af1b": {
         "sectxt": true,
         "sectionID": "922469",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "9:30a-10:50a",
         "building": "PCYNH",
         "room": "340",
-        "instructor": "Cohen, Shana R",
         "instructors": [
           "Cohen, Shana R"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

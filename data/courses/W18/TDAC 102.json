@@ -3,31 +3,12 @@
   "name": "Acting II",
   "department": "TDAC",
   "id": "102",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920363",
-      "type": "ST",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "10:00a-12:20p",
-      "building": "GH",
-      "room": "155",
-      "instructor": "Harting, Carla Kelso",
-      "instructors": [
-        "Harting, Carla Kelso"
-      ],
-      "start_time": "10:00",
-      "end_time": "12:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "cdedc13339edd595279f8e6b423b1f2add354425d8e80c4159ecdc408929f71e": {
         "sectxt": true,
         "sectionID": "920363",
         "type": "ST",
@@ -36,17 +17,15 @@
         "time": "10:00a-12:20p",
         "building": "GH",
         "room": "155",
-        "instructor": "Harting, Carla Kelso",
         "instructors": [
           "Harting, Carla Kelso"
         ],
         "start_time": "10:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "e29e0dcbde21a7d53f2f59bf7873474c87e111d39b6951e3be8fe3c9440131f5": {
         "sectxt": true,
         "sectionID": "920363",
         "type": "ST",
@@ -55,16 +34,15 @@
         "time": "10:00a-12:20p",
         "building": "GH",
         "room": "155",
-        "instructor": "Harting, Carla Kelso",
         "instructors": [
           "Harting, Carla Kelso"
         ],
         "start_time": "10:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

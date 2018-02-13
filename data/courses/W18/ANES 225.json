@@ -3,32 +3,14 @@
   "name": "Business in Medicine",
   "department": "ANES",
   "id": "225",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930436",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "3:00p-5:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Hertzka, Robert Ernest",
-      "instructors": [
-        "Hertzka, Robert Ernest"
-      ],
-      "start_time": "15:00",
-      "end_time": "17:00"
-    }
-  ],
   "notes": [
     "Location: MTF 215"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "11121d4fce9d08df2f4b240ca3c66c42a8d278124c12fb1190117ceee114133d": {
         "sectxt": true,
         "sectionID": "930436",
         "type": "LE",
@@ -37,19 +19,15 @@
         "time": "3:00p-5:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Hertzka, Robert Ernest",
         "instructors": [
           "Hertzka, Robert Ernest"
         ],
         "start_time": "15:00",
         "end_time": "17:00"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

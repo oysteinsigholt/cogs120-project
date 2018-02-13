@@ -3,33 +3,12 @@
   "name": "Wind Ensemble",
   "department": "MUS",
   "id": "95L",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921929",
-      "type": "ST",
-      "section": "A00",
-      "days": "Th",
-      "time": "7:00p-9:50p",
-      "building": "CPMC",
-      "room": "136",
-      "instructor": "Beauton, James Alan",
-      "instructors": [
-        "Beauton, James Alan"
-      ],
-      "start_time": "19:00",
-      "end_time": "21:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "eff488a56867c290a47d718d4fcaa000b9fcba127e6490852ec76ea23b3e1630": {
         "sectxt": true,
         "sectionID": "921929",
         "type": "ST",
@@ -38,16 +17,15 @@
         "time": "7:00p-9:50p",
         "building": "CPMC",
         "room": "136",
-        "instructor": "Beauton, James Alan",
         "instructors": [
           "Beauton, James Alan"
         ],
         "start_time": "19:00",
         "end_time": "21:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

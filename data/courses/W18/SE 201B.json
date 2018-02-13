@@ -3,86 +3,9 @@
   "name": "Nonlinear Structural Analysis",
   "department": "SE",
   "id": "201B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923056",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "PCYNH",
-      "room": "120",
-      "instructor": "Conte, Joel P",
-      "instructors": [
-        "Conte, Joel P"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "PCYNH",
-      "room": "121",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/17/2018",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "SEQUO",
-      "room": "147",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-17T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/17/2018",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "SEQUO",
-      "room": "147",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-17T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "3ff43bab0a09c09dd2e679c3a2212fb54ed0ac0e299e375fa96539b37bc203da": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -91,13 +14,68 @@
       "time": "4:00p-4:50p",
       "building": "SEQUO",
       "room": "147",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-17T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "cdbafa51c8353a0348a9eb35a797b59834921792d905a092a2ae80b97e1273e6": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "PB",
+      "section": "02/12/2018",
+      "days": "M",
+      "time": "5:00p-6:20p",
+      "building": "WLH",
+      "room": "2113",
+      "instructors": [],
+      "date": "2018-02-12T08:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "18:20"
+    },
+    "664062ef47530cb04f3c24aea5ae459306ba19dfb24d2f25a8be2e5b57bdef85": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "PB",
+      "section": "02/26/2018",
+      "days": "M",
+      "time": "5:00p-6:20p",
+      "building": "WLH",
+      "room": "2113",
+      "instructors": [],
+      "date": "2018-02-26T08:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "18:20"
+    },
+    "b082cf7c7132525a4faaa4e3d29af4e9dae420fdc3bc03da9ea0392738cf796c": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "PB",
+      "section": "03/05/2018",
+      "days": "M",
+      "time": "5:00p-6:20p",
+      "building": "WLH",
+      "room": "2113",
+      "instructors": [],
+      "date": "2018-03-05T08:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "18:20"
+    },
+    "c4398c9c2bc59b70aff0ace5fbeb5324087523cadea7db9f56cd0914a356476c": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "PB",
+      "section": "03/12/2018",
+      "days": "M",
+      "time": "5:00p-6:20p",
+      "building": "WLH",
+      "room": "2113",
+      "instructors": [],
+      "date": "2018-03-12T07:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "18:20"
+    },
+    "8068695ebed821eb603d68612f9abd8217b73c5ca93984a63d25d6fa7c4151f4": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -106,13 +84,12 @@
       "time": "5:00p-5:50p",
       "building": "SEQUO",
       "room": "147",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-17T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -121,17 +98,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "ee8c82f39be5a6b7e4f3e26b777f2b2253788280045a77c46acefe9148554fa6": {
         "sectxt": true,
         "sectionID": "923056",
         "type": "LE",
@@ -140,16 +116,15 @@
         "time": "3:00p-3:50p",
         "building": "PCYNH",
         "room": "120",
-        "instructor": "Conte, Joel P",
         "instructors": [
           "Conte, Joel P"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "d76bcf043f1041aeae848254fedd3b9af18897231d4c3398c9af555ce5e62306": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -158,15 +133,13 @@
         "time": "11:00a-12:20p",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "",
         "instructors": [],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "055dab9e4efb54208a1d7f8ffd64e8d079ba2cc9fe681a6ccf684c385c6a7818": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -175,14 +148,13 @@
         "time": "11:00a-12:20p",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "",
         "instructors": [],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

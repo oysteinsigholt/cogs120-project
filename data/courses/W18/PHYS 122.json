@@ -3,47 +3,12 @@
   "name": "Experimental Techniques",
   "department": "PHYS",
   "id": "122",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "MYR-A",
-      "room": "3544",
-      "instructor": "Smith, Douglas E",
-      "instructors": [
-        "Smith, Douglas E"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923765",
-      "type": "LA",
-      "section": "A01",
-      "days": "TuTh",
-      "time": "11:00a-12:50p",
-      "building": "MYR-A",
-      "room": "3544",
-      "instructor": "Smith, Douglas E",
-      "instructors": [
-        "Smith, Douglas E"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "c12e876c286e075f54b31f5190baf1c12afcaa3c60c656df28d942741b529a9a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -52,14 +17,13 @@
         "time": "9:30a-10:50a",
         "building": "MYR-A",
         "room": "3544",
-        "instructor": "Smith, Douglas E",
         "instructors": [
           "Smith, Douglas E"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       },
-      {
+      "af1127b03d157c8d9c7150ba4d4d40daf3a3472b7747e9cd773cea447bc9e5ea": {
         "sectxt": true,
         "sectionID": "923765",
         "type": "LA",
@@ -68,17 +32,15 @@
         "time": "11:00a-12:50p",
         "building": "MYR-A",
         "room": "3544",
-        "instructor": "Smith, Douglas E",
         "instructors": [
           "Smith, Douglas E"
         ],
         "start_time": "11:00",
         "end_time": "12:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "1fd76e34fb7865fce7ff5adca312ddc805651e55d9a8d5231108d9552d7045e9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -87,14 +49,13 @@
         "time": "9:30a-10:50a",
         "building": "MYR-A",
         "room": "3544",
-        "instructor": "Smith, Douglas E",
         "instructors": [
           "Smith, Douglas E"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       },
-      {
+      "53a0782681fd1599799a969e2701b78a3e752ac099ea17c1d29550df4c1ac616": {
         "sectxt": true,
         "sectionID": "923765",
         "type": "LA",
@@ -103,16 +64,15 @@
         "time": "11:00a-12:50p",
         "building": "MYR-A",
         "room": "3544",
-        "instructor": "Smith, Douglas E",
         "instructors": [
           "Smith, Douglas E"
         ],
         "start_time": "11:00",
         "end_time": "12:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

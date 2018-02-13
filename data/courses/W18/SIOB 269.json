@@ -3,31 +3,12 @@
   "name": "IFER Forum",
   "department": "SIOB",
   "id": "269",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922164",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "4:00p-5:50p",
-      "building": "HUBBS",
-      "room": "4500",
-      "instructor": "Braswell, Geoffrey E.",
-      "instructors": [
-        "Braswell, Geoffrey E."
-      ],
-      "start_time": "16:00",
-      "end_time": "17:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "ef5bf71b2f4458c032100adc42e902e5c37d0f0fca76258374e457e81e034e80": {
         "sectxt": true,
         "sectionID": "922164",
         "type": "LE",
@@ -36,18 +17,15 @@
         "time": "4:00p-5:50p",
         "building": "HUBBS",
         "room": "4500",
-        "instructor": "Braswell, Geoffrey E.",
         "instructors": [
           "Braswell, Geoffrey E."
         ],
         "start_time": "16:00",
         "end_time": "17:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

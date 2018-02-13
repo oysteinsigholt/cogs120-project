@@ -3,105 +3,9 @@
   "name": "Neuroanatomy and Physiology",
   "department": "COGS",
   "id": "107A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "Rangel, Lara M",
-      "instructors": [
-        "Rangel, Lara M"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925793",
-      "type": "LA",
-      "section": "A01",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "CENTR",
-      "room": "222",
-      "instructor": "Rangel, Lara M",
-      "instructors": [
-        "Rangel, Lara M"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925794",
-      "type": "LA",
-      "section": "A02",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "CENTR",
-      "room": "222",
-      "instructor": "Rangel, Lara M",
-      "instructors": [
-        "Rangel, Lara M"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "928797",
-      "type": "LA",
-      "section": "A03",
-      "days": "W",
-      "time": "2:00p-2:50p",
-      "building": "CENTR",
-      "room": "222",
-      "instructor": "Rangel, Lara M",
-      "instructors": [
-        "Rangel, Lara M"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/22/2018",
-      "days": "M",
-      "time": "8:00p-9:20p",
-      "building": "CENTR",
-      "room": "212",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-22T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e574deeeb08760b5460648c2fc497cd98f9daaffa03d82443d28128834ada03e": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -110,13 +14,12 @@
       "time": "8:00p-9:20p",
       "building": "CENTR",
       "room": "212",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-22T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:20"
     },
-    {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -125,17 +28,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "58e714bda86425fc87ec86fa43113ceaeb9f841f2df5a08779cf92c49e140726": {
         "sectxt": true,
         "sectionID": "925793",
         "type": "LA",
@@ -144,14 +46,13 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "222",
-        "instructor": "Rangel, Lara M",
         "instructors": [
           "Rangel, Lara M"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "de1a445e87363941203c6190fb535618841a7d3eb0225cb7e8596c390f72230f": {
         "sectxt": true,
         "sectionID": "925794",
         "type": "LA",
@@ -160,16 +61,15 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "222",
-        "instructor": "Rangel, Lara M",
         "instructors": [
           "Rangel, Lara M"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "77a90d7a8864ca19fd9b8963b8c321ba412d20b52100d010e9805af3b2d06f08": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -178,16 +78,15 @@
         "time": "12:30p-1:50p",
         "building": "CSB",
         "room": "002",
-        "instructor": "Rangel, Lara M",
         "instructors": [
           "Rangel, Lara M"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "413b600cffffdb80852ea217dad0e08d280f223aa83f5703f585b55d92629572": {
         "sectxt": true,
         "sectionID": "928797",
         "type": "LA",
@@ -196,16 +95,15 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "222",
-        "instructor": "Rangel, Lara M",
         "instructors": [
           "Rangel, Lara M"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f8ad585298e7b342895c254554dd0fa501d6feea536e74d6146ebcf55fb31294": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -214,16 +112,15 @@
         "time": "12:30p-1:50p",
         "building": "CSB",
         "room": "002",
-        "instructor": "Rangel, Lara M",
         "instructors": [
           "Rangel, Lara M"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

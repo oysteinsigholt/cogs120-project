@@ -3,33 +3,14 @@
   "name": "Rsch Topics/Vasclr Bio/Hemosts",
   "department": "MED",
   "id": "241",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930448",
-      "type": "SE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "8:30a-9:30a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Gingras, Alexandre",
-      "instructors": [
-        "Gingras, Alexandre"
-      ],
-      "start_time": "8:30",
-      "end_time": "9:30"
-    }
-  ],
   "notes": [
     "Location: Leichtag"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "828fe3b771a334e8e872c49b7cc56b9bf5f886d23b79f9d0eaeaf93097ae0bc9": {
         "sectxt": true,
         "sectionID": "930448",
         "type": "SE",
@@ -38,17 +19,15 @@
         "time": "8:30a-9:30a",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Gingras, Alexandre",
         "instructors": [
           "Gingras, Alexandre"
         ],
         "start_time": "8:30",
         "end_time": "9:30"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "e943e86a1f606dd755547dbec41505d3e720b6260dd7db148fdaa4ce0b91bfb5": {
         "sectxt": true,
         "sectionID": "930448",
         "type": "SE",
@@ -57,16 +36,15 @@
         "time": "8:30a-9:30a",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Gingras, Alexandre",
         "instructors": [
           "Gingras, Alexandre"
         ],
         "start_time": "8:30",
         "end_time": "9:30"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

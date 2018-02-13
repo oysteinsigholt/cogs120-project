@@ -3,185 +3,9 @@
   "name": "Human Reproduction",
   "department": "BIPN",
   "id": "134",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "PRICE",
-      "room": "THTRE",
-      "instructor": "Cooke, James Edward",
-      "instructors": [
-        "Cooke, James Edward"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926223",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "8:00a-8:50a",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "Cooke, James Edward",
-      "instructors": [
-        "Cooke, James Edward"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926224",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "9:00a-9:50a",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "Cooke, James Edward",
-      "instructors": [
-        "Cooke, James Edward"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926225",
-      "type": "DI",
-      "section": "A03",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "APM",
-      "room": "2301",
-      "instructor": "Cooke, James Edward",
-      "instructors": [
-        "Cooke, James Edward"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926226",
-      "type": "DI",
-      "section": "A04",
-      "days": "M",
-      "time": "5:00p-5:50p",
-      "building": "APM",
-      "room": "2301",
-      "instructor": "Cooke, James Edward",
-      "instructors": [
-        "Cooke, James Edward"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926227",
-      "type": "DI",
-      "section": "A05",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Cooke, James Edward",
-      "instructors": [
-        "Cooke, James Edward"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926228",
-      "type": "DI",
-      "section": "A06",
-      "days": "W",
-      "time": "7:00p-7:50p",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Cooke, James Edward",
-      "instructors": [
-        "Cooke, James Edward"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926229",
-      "type": "DI",
-      "section": "A07",
-      "days": "Th",
-      "time": "8:00a-8:50a",
-      "building": "CENTR",
-      "room": "218",
-      "instructor": "Cooke, James Edward",
-      "instructors": [
-        "Cooke, James Edward"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930619",
-      "type": "DI",
-      "section": "A08",
-      "days": "Tu",
-      "time": "4:00p-4:50p",
-      "building": "CENTR",
-      "room": "218",
-      "instructor": "Cooke, James Edward",
-      "instructors": [
-        "Cooke, James Edward"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/28/2018",
-      "days": "Sun",
-      "time": "2:00p-4:50p",
-      "building": "LEDDN",
-      "room": "AUD",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-28T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c865283a843ee60d70ac801da7b648b7c0f76ea60eee60db7ecd8fdf7d489de1": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -190,13 +14,12 @@
       "time": "2:00p-4:50p",
       "building": "LEDDN",
       "room": "AUD",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-28T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "16:50"
     },
-    {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -205,17 +28,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "8f5cd86a955748c71ed3b0524caeeb63a50a0e72fd21fc5f08d1756339b04ec5": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -224,14 +46,13 @@
         "time": "11:00a-11:50a",
         "building": "PRICE",
         "room": "THTRE",
-        "instructor": "Cooke, James Edward",
         "instructors": [
           "Cooke, James Edward"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "8e5a987744149f65b8f4970ac0130a89a1cb3257495847b30791a738324ad2b8": {
         "sectxt": true,
         "sectionID": "926223",
         "type": "DI",
@@ -240,14 +61,13 @@
         "time": "8:00a-8:50a",
         "building": "HSS",
         "room": "2150",
-        "instructor": "Cooke, James Edward",
         "instructors": [
           "Cooke, James Edward"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "fb057a012673939e8ad9926ff17721f7eb1b16a3191484be47ed7131b7504a5b": {
         "sectxt": true,
         "sectionID": "926224",
         "type": "DI",
@@ -256,14 +76,13 @@
         "time": "9:00a-9:50a",
         "building": "HSS",
         "room": "2150",
-        "instructor": "Cooke, James Edward",
         "instructors": [
           "Cooke, James Edward"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "18a5c4119ea66993214d28f03df945bbf70b18b7e708ca9006f9e32ebe7251a8": {
         "sectxt": true,
         "sectionID": "926225",
         "type": "DI",
@@ -272,14 +91,13 @@
         "time": "4:00p-4:50p",
         "building": "APM",
         "room": "2301",
-        "instructor": "Cooke, James Edward",
         "instructors": [
           "Cooke, James Edward"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "fa883fb52a2c6635e6a895e959e16ab9ffcf54271209f784ab058a6ad326dcb8": {
         "sectxt": true,
         "sectionID": "926226",
         "type": "DI",
@@ -288,16 +106,15 @@
         "time": "5:00p-5:50p",
         "building": "APM",
         "room": "2301",
-        "instructor": "Cooke, James Edward",
         "instructors": [
           "Cooke, James Edward"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "0997a7b421da1fbd85838328cf7838923a641cf2e9410f8e1df761e3c48bdd30": {
         "sectxt": true,
         "sectionID": "930619",
         "type": "DI",
@@ -306,16 +123,15 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "218",
-        "instructor": "Cooke, James Edward",
         "instructors": [
           "Cooke, James Edward"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "74ea09cb3d01daba039901e3d18030194c0ce47fc0bd239b573a61ed455612f9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -324,14 +140,13 @@
         "time": "11:00a-11:50a",
         "building": "PRICE",
         "room": "THTRE",
-        "instructor": "Cooke, James Edward",
         "instructors": [
           "Cooke, James Edward"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "be5b3908a35cca8594b7396a83cb2be16636eae21aee0a247b12bf6ebb9f62bb": {
         "sectxt": true,
         "sectionID": "926227",
         "type": "DI",
@@ -340,14 +155,13 @@
         "time": "6:00p-6:50p",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Cooke, James Edward",
         "instructors": [
           "Cooke, James Edward"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "6ff2a1e029483656ebe81762b6f42c8371e444e9df96cd5a256d175269b45ab2": {
         "sectxt": true,
         "sectionID": "926228",
         "type": "DI",
@@ -356,16 +170,15 @@
         "time": "7:00p-7:50p",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Cooke, James Edward",
         "instructors": [
           "Cooke, James Edward"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "5b4edb5835b004d72cff35e6b1a9598488f888114687cb71b22ffae5e4ba94ca": {
         "sectxt": true,
         "sectionID": "926229",
         "type": "DI",
@@ -374,16 +187,15 @@
         "time": "8:00a-8:50a",
         "building": "CENTR",
         "room": "218",
-        "instructor": "Cooke, James Edward",
         "instructors": [
           "Cooke, James Edward"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "cb478914a4ec4bc4c62867dba462dc925b2849711db7c7bb7d18cd0442892921": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -392,15 +204,15 @@
         "time": "11:00a-11:50a",
         "building": "PRICE",
         "room": "THTRE",
-        "instructor": "Cooke, James Edward",
         "instructors": [
           "Cooke, James Edward"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

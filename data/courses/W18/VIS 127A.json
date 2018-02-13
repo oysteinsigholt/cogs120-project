@@ -3,42 +3,9 @@
   "name": "Contemporary Arts in S. Korea",
   "department": "VIS",
   "id": "127A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922777",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "1:30p-2:50p",
-      "building": "SME",
-      "room": "149",
-      "instructor": "Park, Kyong Dong",
-      "instructors": [
-        "Park, Kyong Dong"
-      ],
-      "start_time": "13:30",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "61741074a92840be7169de5b0e6325ae3db7796af87aa0bf246d64db4e455389": {
         "sectxt": true,
         "sectionID": "922777",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "1:30p-2:50p",
         "building": "SME",
         "room": "149",
-        "instructor": "Park, Kyong Dong",
         "instructors": [
           "Park, Kyong Dong"
         ],
         "start_time": "13:30",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "669be10e3ee65fe3b9af13aef7a7f40884726862476d09def8a1a438a576d159": {
         "sectxt": true,
         "sectionID": "922777",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "1:30p-2:50p",
         "building": "SME",
         "room": "149",
-        "instructor": "Park, Kyong Dong",
         "instructors": [
           "Park, Kyong Dong"
         ],
         "start_time": "13:30",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,31 +3,12 @@
   "name": "Topics in History of Ethics",
   "department": "PHIL",
   "id": "161",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924813",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "WLH",
-      "room": "2113",
-      "instructor": "Bazargan-Forward, Saba",
-      "instructors": [
-        "Bazargan-Forward, Saba"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "6a05dd5176e1595fce18ddd1d1da309cdd27938ec9fcd83fc628ee02de534d62": {
         "sectxt": true,
         "sectionID": "924813",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "2:00p-3:20p",
         "building": "WLH",
         "room": "2113",
-        "instructor": "Bazargan-Forward, Saba",
         "instructors": [
           "Bazargan-Forward, Saba"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "ed028ec0a909f60836279b1ddee7d2d569495ddc7d50fce24ccbf3b7b9c80169": {
         "sectxt": true,
         "sectionID": "924813",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "2:00p-3:20p",
         "building": "WLH",
         "room": "2113",
-        "instructor": "Bazargan-Forward, Saba",
         "instructors": [
           "Bazargan-Forward, Saba"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

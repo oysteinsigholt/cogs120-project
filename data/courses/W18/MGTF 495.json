@@ -3,42 +3,51 @@
   "name": "Special Topics",
   "department": "MGTF",
   "id": "495",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930367",
-      "type": "LE",
-      "section": "D00",
-      "days": "F",
-      "time": "2:30p-5:30p",
-      "building": "WFH",
-      "room": "1W102",
-      "instructor": "Markowitz, Harry M.",
-      "instructors": [
-        "Markowitz, Harry M."
-      ],
-      "start_time": "14:30",
-      "end_time": "17:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "2:30p-5:30p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "14:30",
-      "end_time": "17:30"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "ac612523fc62653f96e5e0951c5166893d86fe8e449ffb4cc3ee888beb192cbd": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:30a-11:30a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:30",
+      "end_time": "11:30"
+    },
+    "ae2e7cb368cc4502ce3076212ba836800dad38e8a4e7512c289ea11cd6541388": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "1:00p-4:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "13:00",
+      "end_time": "16:00"
+    },
+    "a8b3a46ca98c7d7e6dcae132d8d95fa1c5a829f8b76257867e34c51db348b995": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "8:30a-11:30a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "8:30",
+      "end_time": "11:30"
+    },
+    "b4b75f7720db991b07e6ab9feff2aa25316213a476e444df21fde45aef260ffa": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,21 +56,65 @@
       "time": "2:30p-5:30p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "14:30",
       "end_time": "17:30"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "Tu": {
+      "b813a320f9785b161a051158400c22d767f5fe41529869676b6137936409929f": {
+        "sectxt": true,
+        "sectionID": "930346",
+        "type": "LE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "8:30a-11:30a",
+        "building": "WFH",
+        "room": "4N128",
+        "instructors": [
+          "Breon-Drish, Bradyn"
+        ],
+        "start_time": "8:30",
+        "end_time": "11:30"
+      },
+      "1a8e413f9cc439858e5e2be91b6b3a470f20cab947d5e474b6ccffa63e4ccdd7": {
+        "sectxt": true,
+        "sectionID": "930347",
+        "type": "LE",
+        "section": "B00",
+        "days": "Tu",
+        "time": "1:00p-4:00p",
+        "building": "WFH",
+        "room": "4N128",
+        "instructors": [
+          "Breon-Drish, Bradyn"
+        ],
+        "start_time": "13:00",
+        "end_time": "16:00"
+      }
+    },
+    "Th": {
+      "889bb5efdfb59022f6cce2cd28ef75e96d05001467146a320ffb1e870f4cbb3c": {
+        "sectxt": true,
+        "sectionID": "930348",
+        "type": "LE",
+        "section": "C00",
+        "days": "Th",
+        "time": "8:30a-11:30a",
+        "building": "WFH",
+        "room": "4N128",
+        "instructors": [
+          "Breon-Drish, Bradyn"
+        ],
+        "start_time": "8:30",
+        "end_time": "11:30"
+      }
+    },
+    "F": {
+      "c45a5b686ffe96cbc1a3c0e94b7e42d74118a8bdfe82e73f0934663fd16636e2": {
         "sectxt": true,
         "sectionID": "930367",
         "type": "LE",
@@ -70,15 +123,18 @@
         "time": "2:30p-5:30p",
         "building": "WFH",
         "room": "1W102",
-        "instructor": "Markowitz, Harry M.",
         "instructors": [
           "Markowitz, Harry M."
         ],
         "start_time": "14:30",
         "end_time": "17:30"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
 }

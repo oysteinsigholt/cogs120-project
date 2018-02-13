@@ -3,42 +3,9 @@
   "name": "Gender,Modernity&Globalization",
   "department": "CGS",
   "id": "101",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922335",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "CSB",
-      "room": "005",
-      "instructor": "Zarate, Salvador Elias",
-      "instructors": [
-        "Zarate, Salvador Elias"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "385718385587085b91c147f8c2d99c5012f26b35eda667479237c9fa66950204": {
         "sectxt": true,
         "sectionID": "922335",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "3:30p-4:50p",
         "building": "CSB",
         "room": "005",
-        "instructor": "Zarate, Salvador Elias",
         "instructors": [
           "Zarate, Salvador Elias"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "484371037e40e88891ac6547d133c70be6f62953d5a495c4397f255c81e7f47b": {
         "sectxt": true,
         "sectionID": "922335",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "3:30p-4:50p",
         "building": "CSB",
         "room": "005",
-        "instructor": "Zarate, Salvador Elias",
         "instructors": [
           "Zarate, Salvador Elias"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

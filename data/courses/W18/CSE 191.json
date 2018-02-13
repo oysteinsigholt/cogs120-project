@@ -3,32 +3,26 @@
   "name": "Semnr/Computer Sci & Engineer",
   "department": "CSE",
   "id": "191",
-  "timeslots": [
+  "notes": [],
+  "events_single": {},
+  "events_unknown": [
     {
       "sectxt": true,
-      "sectionID": "927547",
+      "sectionID": "930052",
       "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "11:00a-11:50a",
-      "building": "EBU3B",
-      "room": "2154",
-      "instructor": "Halicioglu, Daniel T",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
       "instructors": [
-        "Halicioglu, Daniel T"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
+        "Minnes Kemp, Mor Mia"
+      ]
     }
   ],
-  "notes": [],
-  "events_single": [],
-  "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "d35e9f388c25a6243625aedf177bcc139f19fd27e911534d6b846a8cead036b1": {
         "sectxt": true,
         "sectionID": "927547",
         "type": "SE",
@@ -37,17 +31,15 @@
         "time": "11:00a-11:50a",
         "building": "EBU3B",
         "room": "2154",
-        "instructor": "Halicioglu, Daniel T",
         "instructors": [
           "Halicioglu, Daniel T"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

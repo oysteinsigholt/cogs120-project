@@ -3,297 +3,9 @@
   "name": "Mechanics of Nanomaterials",
   "department": "NANO",
   "id": "150",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926744",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "YORK",
-      "room": "4080A",
-      "instructor": "Meyers, Marc",
-      "instructors": [
-        "Meyers, Marc"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/10/2018",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-10T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/17/2018",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-17T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/22/2018",
-      "days": "M",
-      "time": "6:00p-6:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-22T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/24/2018",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-24T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/29/2018",
-      "days": "M",
-      "time": "6:00p-6:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-29T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/31/2018",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-31T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/05/2018",
-      "days": "M",
-      "time": "6:00p-6:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-05T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/07/2018",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-07T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/12/2018",
-      "days": "M",
-      "time": "6:00p-6:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-12T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/14/2018",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-14T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/21/2018",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-21T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/26/2018",
-      "days": "M",
-      "time": "6:00p-6:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-26T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/28/2018",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-28T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/05/2018",
-      "days": "M",
-      "time": "6:00p-6:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-05T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/07/2018",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-07T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/12/2018",
-      "days": "M",
-      "time": "6:00p-6:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-12T07:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/14/2018",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-14T07:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "7c2c95fd2d104157f42b7ceb7e05678527c5aaa73eb62ffe6db6c2143ee45196": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -302,13 +14,12 @@
       "time": "6:00p-6:50p",
       "building": "MCGIL",
       "room": "2315",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-10T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "18:50"
     },
-    {
+    "3eacb87e3b8145757a81919a88358168cf363496d2ec41f33a153297aac4cb40": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -317,13 +28,12 @@
       "time": "6:00p-6:50p",
       "building": "MCGIL",
       "room": "2315",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-17T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "18:50"
     },
-    {
+    "ca2e90d1521b45ae665dcaf5eff799fd24076bbb71bf4b29b438ca9ef5cbce8c": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -332,13 +42,12 @@
       "time": "6:00p-6:50p",
       "building": "MCGIL",
       "room": "2315",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-22T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "18:50"
     },
-    {
+    "fdbeb75938c0bcd171bdfd5f8eb1df4cc9836892573804491825e0ba7149fafc": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -347,13 +56,12 @@
       "time": "6:00p-6:50p",
       "building": "MCGIL",
       "room": "2315",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-24T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "18:50"
     },
-    {
+    "acbd228838099dae21b0198a6eec7b7f2765999554673f44ab7d0deffbfac0fd": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -362,13 +70,12 @@
       "time": "6:00p-6:50p",
       "building": "MCGIL",
       "room": "2315",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-29T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "18:50"
     },
-    {
+    "89126298bd175b22afe8f4cada96c9194f06bad62cfeb2354a5effefeb083b77": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -377,13 +84,12 @@
       "time": "6:00p-6:50p",
       "building": "MCGIL",
       "room": "2315",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-31T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "18:50"
     },
-    {
+    "14d76dbc8ba969483cde91a2aca16f40fecc3dca89a0e6094baf4d87715c595d": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -392,13 +98,12 @@
       "time": "6:00p-6:50p",
       "building": "MCGIL",
       "room": "2315",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-05T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "18:50"
     },
-    {
+    "1406ca5e58f04b2443925681fd647389ce9d718f283f033b86f4eee5659d7979": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -407,13 +112,12 @@
       "time": "6:00p-6:50p",
       "building": "MCGIL",
       "room": "2315",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-07T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "18:50"
     },
-    {
+    "ce005d77c6d40be00c594ab488fdd176057bff4b0ed366bef6185d356b91791f": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -422,13 +126,12 @@
       "time": "6:00p-6:50p",
       "building": "MCGIL",
       "room": "2315",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-12T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "18:50"
     },
-    {
+    "b2e4a3db522a1af932ef0b7af0ce085d4d45b436dda9e119926444359a8d1976": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -437,13 +140,12 @@
       "time": "6:00p-6:50p",
       "building": "MCGIL",
       "room": "2315",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-14T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "18:50"
     },
-    {
+    "c9c4cc662e8548146507281c7e0bd31eca62da4c29fb61eebeb5e7f142146dd8": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -452,13 +154,12 @@
       "time": "6:00p-6:50p",
       "building": "MCGIL",
       "room": "2315",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-21T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "18:50"
     },
-    {
+    "d4fa1a0e59b830cad8e9daa6f8f7f2a4bd29467852b530c7c13dde456a042c30": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -467,13 +168,12 @@
       "time": "6:00p-6:50p",
       "building": "MCGIL",
       "room": "2315",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-26T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "18:50"
     },
-    {
+    "8bd049e93007a7d95130c82bc8406fb9769d98e9478f49042976c213bd201085": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -482,13 +182,12 @@
       "time": "6:00p-6:50p",
       "building": "MCGIL",
       "room": "2315",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-28T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "18:50"
     },
-    {
+    "e3abcc58c03387db5777706e71e12d892f0524818f83e93e4372c5dfb88e1ef4": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -497,13 +196,12 @@
       "time": "6:00p-6:50p",
       "building": "MCGIL",
       "room": "2315",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-05T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "18:50"
     },
-    {
+    "25718af6e70be9a7224eb9e38cfdc1c23ac31aa9665f8e2fe0496027bd302bf2": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -512,13 +210,12 @@
       "time": "6:00p-6:50p",
       "building": "MCGIL",
       "room": "2315",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-07T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "18:50"
     },
-    {
+    "e8e641701887764fc1ea2882bb43456f48ea65eb2464ed11113cbbd3c097f277": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -527,13 +224,12 @@
       "time": "6:00p-6:50p",
       "building": "MCGIL",
       "room": "2315",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-12T07:00:00.000Z",
       "start_time": "18:00",
       "end_time": "18:50"
     },
-    {
+    "4fcb04cf9cdb7e8b91731f2d3d2e6bf7a35d4b67ff7255006485d57f5eeb0ece": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -542,13 +238,12 @@
       "time": "6:00p-6:50p",
       "building": "MCGIL",
       "room": "2315",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-14T07:00:00.000Z",
       "start_time": "18:00",
       "end_time": "18:50"
     },
-    {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -557,17 +252,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "0cf07e146dde70931942be874926bbfa714bca5f1c59c8707967518bf6047bb6": {
         "sectxt": true,
         "sectionID": "926744",
         "type": "LE",
@@ -576,17 +270,15 @@
         "time": "1:00p-1:50p",
         "building": "YORK",
         "room": "4080A",
-        "instructor": "Meyers, Marc",
         "instructors": [
           "Meyers, Marc"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "3f9398147e3d2d1bbcdf003011593cca7a2e1d0a0dd29858160f69bf442a6462": {
         "sectxt": true,
         "sectionID": "926744",
         "type": "LE",
@@ -595,17 +287,15 @@
         "time": "1:00p-1:50p",
         "building": "YORK",
         "room": "4080A",
-        "instructor": "Meyers, Marc",
         "instructors": [
           "Meyers, Marc"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "a0a77ab0190d33de822ec35b51c9f78d5e8f7934a0f992b4aca3904a33a48a0b": {
         "sectxt": true,
         "sectionID": "926744",
         "type": "LE",
@@ -614,15 +304,15 @@
         "time": "1:00p-1:50p",
         "building": "YORK",
         "room": "4080A",
-        "instructor": "Meyers, Marc",
         "instructors": [
           "Meyers, Marc"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

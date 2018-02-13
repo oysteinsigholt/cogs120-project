@@ -3,31 +3,12 @@
   "name": "Spec Topics/Physical Oceanogra",
   "department": "SIOC",
   "id": "219",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "933834",
-      "type": "SE",
-      "section": "C00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "OAR",
-      "room": "150",
-      "instructor": "Send, Uwe",
-      "instructors": [
-        "Send, Uwe"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "f75add910815114c2d51b93635468fe94f1168f02455ae4a0c8327bcb8da476e": {
         "sectxt": true,
         "sectionID": "933834",
         "type": "SE",
@@ -36,17 +17,15 @@
         "time": "2:00p-3:20p",
         "building": "OAR",
         "room": "150",
-        "instructor": "Send, Uwe",
         "instructors": [
           "Send, Uwe"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "9101d05a110cb5efb37c7041cbc99e955a5e5c2eabe72370a4e1a842230fc183": {
         "sectxt": true,
         "sectionID": "933834",
         "type": "SE",
@@ -55,16 +34,34 @@
         "time": "2:00p-3:20p",
         "building": "OAR",
         "room": "150",
-        "instructor": "Send, Uwe",
         "instructors": [
           "Send, Uwe"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "F": {
+      "7a91c45c392b445e64674b31abda9bcb19caa3ae1cebb8dd3c863e60e91b79c0": {
+        "sectxt": true,
+        "sectionID": "921980",
+        "type": "SE",
+        "section": "A00",
+        "days": "F",
+        "time": "12:00p-12:50p",
+        "building": "OAR",
+        "room": "150",
+        "instructors": [
+          "Send, Uwe"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    }
+  },
+  "sections": [
+    "B",
+    "C",
+    "A"
+  ]
 }

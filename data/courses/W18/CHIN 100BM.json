@@ -3,42 +3,9 @@
   "name": "Third Yr Chinese/Heritage SpII",
   "department": "CHIN",
   "id": "100BM",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920657",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Anderson, Qin-Hong",
-      "instructors": [
-        "Anderson, Qin-Hong"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "242b1779b444942e2fa37477b389bf8f517f0a593a02874f0c6dad70c7adc812": {
         "sectxt": true,
         "sectionID": "920657",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "11:00a-12:20p",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Anderson, Qin-Hong",
         "instructors": [
           "Anderson, Qin-Hong"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "d67d92ef7bd3485a57d99fe0fca6c5d420ebcb5aef20b85b6b0c0c6f5ba1c03f": {
         "sectxt": true,
         "sectionID": "920657",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "11:00a-12:20p",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Anderson, Qin-Hong",
         "instructors": [
           "Anderson, Qin-Hong"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,24 +3,8 @@
   "name": "Introduction to Neurosurgery",
   "department": "SURG",
   "id": "410",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928696",
-      "type": "CL",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Ben-Haim, Sharona",
-      "instructors": [
-        "Ben-Haim, Sharona"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Ben-Haim, Sharona",
       "instructors": [
         "Ben-Haim, Sharona"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

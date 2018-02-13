@@ -3,42 +3,37 @@
   "name": "Topics in Innovation",
   "department": "MGT",
   "id": "459",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930639",
-      "type": "LE",
-      "section": "D00",
-      "days": "Tu",
-      "time": "9:30a-12:50p",
-      "building": "WFH",
-      "room": "3N129",
-      "instructor": "Gneezy, Ayelet",
-      "instructors": [
-        "Gneezy, Ayelet"
-      ],
-      "start_time": "9:30",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "9:30a-12:30p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "9:30",
-      "end_time": "12:30"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "f8424d42c462a95de37972f399a1269f878309bc6faf2d1358de239c47561525": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/24/2018",
+      "days": "S",
+      "time": "8:00a-11:00a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-24T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "11:00"
+    },
+    "b4b75f7720db991b07e6ab9feff2aa25316213a476e444df21fde45aef260ffa": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "2:30p-5:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "14:30",
+      "end_time": "17:30"
+    },
+    "84136d941b881d960703a64f8f7f561ce9f0c58097d842d8de58cbbc52a4e33e": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +42,16 @@
       "time": "9:30a-12:30p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "9:30",
       "end_time": "12:30"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "f7a63e34a86f0118d3fad6131f9f1b81db4bf74edce809233ddf2272c561fbaf": {
         "sectxt": true,
         "sectionID": "930639",
         "type": "LE",
@@ -67,18 +60,35 @@
         "time": "9:30a-12:50p",
         "building": "WFH",
         "room": "3N129",
-        "instructor": "Gneezy, Ayelet",
         "instructors": [
           "Gneezy, Ayelet"
         ],
         "start_time": "9:30",
         "end_time": "12:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "F": {
+      "e6b66638663246ca959ff7c060a1a445264897f8219df5e551602b5a9b1689e2": {
+        "sectxt": true,
+        "sectionID": "930381",
+        "type": "LE",
+        "section": "C00",
+        "days": "F",
+        "time": "2:30p-5:30p",
+        "building": "WFH",
+        "room": "3N129",
+        "instructors": [
+          "Sankey, Darius"
+        ],
+        "start_time": "14:30",
+        "end_time": "17:30"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
 }

@@ -3,27 +3,24 @@
   "name": "Thesis Research",
   "department": "TDGR",
   "id": "297",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "940640",
-      "type": "IN",
-      "section": "002",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Porter, Lisa",
-      "instructors": [
-        "Porter, Lisa"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "920435",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Iizuka, Naomi Hisako"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "940640",
       "type": "IN",
       "section": "002",
@@ -31,19 +28,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Porter, Lisa",
       "instructors": [
         "Porter, Lisa"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

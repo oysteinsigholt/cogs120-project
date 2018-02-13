@@ -3,32 +3,12 @@
   "name": "Sel Topcs/Contmp Japn Studies",
   "department": "JAPN",
   "id": "190",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920968",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "2:00p-5:00p",
-      "building": "HSS",
-      "room": "3027",
-      "instructor": "Turner, Christena L.",
-      "instructors": [
-        "Turner, Christena L."
-      ],
-      "start_time": "14:00",
-      "end_time": "17:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "11b2c69e2e5d7c8bbe13fcbf4de519506580f61624c62368e49a5c77385c1b37": {
         "sectxt": true,
         "sectionID": "920968",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "2:00p-5:00p",
         "building": "HSS",
         "room": "3027",
-        "instructor": "Turner, Christena L.",
         "instructors": [
           "Turner, Christena L."
         ],
         "start_time": "14:00",
         "end_time": "17:00"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

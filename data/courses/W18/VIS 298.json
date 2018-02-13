@@ -3,29 +3,40 @@
   "name": "Directed Group Study",
   "department": "VIS",
   "id": "298",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "936495",
-      "type": "SE",
-      "section": "C00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Alexander, Amy J",
-      "instructors": [
-        "Alexander, Amy J"
-      ]
-    }
-  ],
   "notes": [
+    "MFA 2018 Show Curatorial Practice",
     "The Art of Making a Living"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "930424",
+      "type": "SE",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Gallaccio, Anya"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930534",
+      "type": "SE",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Shen, Kuiyi"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "936495",
       "type": "SE",
       "section": "C00",
@@ -33,19 +44,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Alexander, Amy J",
       "instructors": [
         "Alexander, Amy J"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

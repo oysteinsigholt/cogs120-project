@@ -3,32 +3,12 @@
   "name": "Spec Topics/Anthro Archeology",
   "department": "ANTH",
   "id": "201",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923533",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "3:00p-5:50p",
-      "building": "SSB",
-      "room": "130",
-      "instructor": "Levy, Thomas E",
-      "instructors": [
-        "Levy, Thomas E"
-      ],
-      "start_time": "15:00",
-      "end_time": "17:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "e10497cc1e21ea3f3483bf90e5c511c097da882c9a0fe4003be6e2ec7d10c113": {
         "sectxt": true,
         "sectionID": "923533",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "3:00p-5:50p",
         "building": "SSB",
         "room": "130",
-        "instructor": "Levy, Thomas E",
         "instructors": [
           "Levy, Thomas E"
         ],
         "start_time": "15:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

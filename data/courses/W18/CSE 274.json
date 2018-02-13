@@ -3,31 +3,12 @@
   "name": "Selected Topics in Graphics",
   "department": "CSE",
   "id": "274",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927575",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "EBU3B",
-      "room": "2154",
-      "instructor": "Ramamoorthi, Ravi",
-      "instructors": [
-        "Ramamoorthi, Ravi"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "ac260243783a10ae8df1f650b29043c1269e01ff89afdd0cd3c626026f1dd62c": {
         "sectxt": true,
         "sectionID": "927575",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "9:30a-10:50a",
         "building": "EBU3B",
         "room": "2154",
-        "instructor": "Ramamoorthi, Ravi",
         "instructors": [
           "Ramamoorthi, Ravi"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "eccf39260c9c0e1041627d323b13ea0d0bba5324ca3132053a6b42996427f886": {
         "sectxt": true,
         "sectionID": "927575",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "9:30a-10:50a",
         "building": "EBU3B",
         "room": "2154",
-        "instructor": "Ramamoorthi, Ravi",
         "instructors": [
           "Ramamoorthi, Ravi"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

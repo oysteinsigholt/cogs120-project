@@ -3,202 +3,9 @@
   "name": "Ethics And Society II",
   "department": "PHIL",
   "id": "28",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "PETER",
-      "room": "110",
-      "instructor": "Doppelt, Gerald D.",
-      "instructors": [
-        "Doppelt, Gerald D."
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924795",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "1128A",
-      "instructor": "Doppelt, Gerald D.",
-      "instructors": [
-        "Doppelt, Gerald D."
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924796",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "HSS",
-      "room": "1128A",
-      "instructor": "Doppelt, Gerald D.",
-      "instructors": [
-        "Doppelt, Gerald D."
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924797",
-      "type": "DI",
-      "section": "A03",
-      "days": "W",
-      "time": "12:00p-12:50p",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Doppelt, Gerald D.",
-      "instructors": [
-        "Doppelt, Gerald D."
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924798",
-      "type": "DI",
-      "section": "A04",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924799",
-      "type": "DI",
-      "section": "A05",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924800",
-      "type": "DI",
-      "section": "A06",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924801",
-      "type": "DI",
-      "section": "A07",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "SOLIS",
-      "room": "111",
-      "instructor": "Doppelt, Gerald D.",
-      "instructors": [
-        "Doppelt, Gerald D."
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924802",
-      "type": "DI",
-      "section": "A08",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930537",
-      "type": "DI",
-      "section": "A09",
-      "days": "W",
-      "time": "1:00p-1:50p",
-      "building": "APM",
-      "room": "2301",
-      "instructor": "Doppelt, Gerald D.",
-      "instructors": [
-        "Doppelt, Gerald D."
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930538",
-      "type": "DI",
-      "section": "A10",
-      "days": "F",
-      "time": "1:00p-1:50p",
-      "building": "WLH",
-      "room": "2208",
-      "instructor": "Doppelt, Gerald D.",
-      "instructors": [
-        "Doppelt, Gerald D."
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -207,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "4b7f4f10245801a6b671154901bb480faee753d5c09cff45f1aad0e2a0702b3b": {
         "sectxt": true,
         "sectionID": "924795",
         "type": "DI",
@@ -226,14 +32,13 @@
         "time": "2:00p-2:50p",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Doppelt, Gerald D.",
         "instructors": [
           "Doppelt, Gerald D."
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "27b6e895e6fcff78158bc870a680814cc4ad186a85879124e6ca55ea42f4b377": {
         "sectxt": true,
         "sectionID": "924796",
         "type": "DI",
@@ -242,14 +47,13 @@
         "time": "3:00p-3:50p",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Doppelt, Gerald D.",
         "instructors": [
           "Doppelt, Gerald D."
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "8eb40fd305ea5975f91dbd75617dc75f4da3f0ed802e7726fe44d8b86c0beea0": {
         "sectxt": true,
         "sectionID": "924801",
         "type": "DI",
@@ -258,16 +62,15 @@
         "time": "4:00p-4:50p",
         "building": "SOLIS",
         "room": "111",
-        "instructor": "Doppelt, Gerald D.",
         "instructors": [
           "Doppelt, Gerald D."
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "d76bcf043f1041aeae848254fedd3b9af18897231d4c3398c9af555ce5e62306": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -276,16 +79,15 @@
         "time": "11:00a-12:20p",
         "building": "PETER",
         "room": "110",
-        "instructor": "Doppelt, Gerald D.",
         "instructors": [
           "Doppelt, Gerald D."
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "0369ba2a5899cb9674483888bcbb774ca6faa85a8bad42793a6b8de7a36e1d1e": {
         "sectxt": true,
         "sectionID": "924797",
         "type": "DI",
@@ -294,14 +96,13 @@
         "time": "12:00p-12:50p",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Doppelt, Gerald D.",
         "instructors": [
           "Doppelt, Gerald D."
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "83dfdb60488b653b4b8a889bcb492de287f38b78527ddbba72c736fe7d581bf5": {
         "sectxt": true,
         "sectionID": "930537",
         "type": "DI",
@@ -310,16 +111,15 @@
         "time": "1:00p-1:50p",
         "building": "APM",
         "room": "2301",
-        "instructor": "Doppelt, Gerald D.",
         "instructors": [
           "Doppelt, Gerald D."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "055dab9e4efb54208a1d7f8ffd64e8d079ba2cc9fe681a6ccf684c385c6a7818": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -328,16 +128,15 @@
         "time": "11:00a-12:20p",
         "building": "PETER",
         "room": "110",
-        "instructor": "Doppelt, Gerald D.",
         "instructors": [
           "Doppelt, Gerald D."
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "d8444bb6b90379332de08d621763ccbdeb6fc45986be3237add5d98ad5ad71be": {
         "sectxt": true,
         "sectionID": "930538",
         "type": "DI",
@@ -346,15 +145,15 @@
         "time": "1:00p-1:50p",
         "building": "WLH",
         "room": "2208",
-        "instructor": "Doppelt, Gerald D.",
         "instructors": [
           "Doppelt, Gerald D."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

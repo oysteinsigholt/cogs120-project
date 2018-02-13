@@ -3,42 +3,9 @@
   "name": "Digital Cinema-Theory/Productn",
   "department": "VIS",
   "id": "171",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922806",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-3:20p",
-      "building": "MANDE",
-      "room": "103",
-      "instructor": "Tonies, Joshua Vanjaymes",
-      "instructors": [
-        "Tonies, Joshua Vanjaymes"
-      ],
-      "start_time": "12:30",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "d5cf59beb3ead12915ce829f2ebd7f738fa57d5b3a7da442d2b2d5c1b36490c9": {
         "sectxt": true,
         "sectionID": "922806",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "12:30p-3:20p",
         "building": "MANDE",
         "room": "103",
-        "instructor": "Tonies, Joshua Vanjaymes",
         "instructors": [
           "Tonies, Joshua Vanjaymes"
         ],
         "start_time": "12:30",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "33b2d8ac2161afe98686f169d852d1aa4437da354fccdb4fea6f53e225a0d1bb": {
         "sectxt": true,
         "sectionID": "922806",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "12:30p-3:20p",
         "building": "MANDE",
         "room": "103",
-        "instructor": "Tonies, Joshua Vanjaymes",
         "instructors": [
           "Tonies, Joshua Vanjaymes"
         ],
         "start_time": "12:30",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

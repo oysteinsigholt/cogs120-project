@@ -3,42 +3,9 @@
   "name": "Immigration, Race, & Ethnicity",
   "department": "SOCI",
   "id": "127",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929141",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "4:00p-4:50p",
-      "building": "WLH",
-      "room": "2207",
-      "instructor": "Schneider, Heidi L.",
-      "instructors": [
-        "Schneider, Heidi L."
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b9b4ec5af540606b238988bee0286fc3a4cc4d540b7785beb08dccae4a0227c9": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "2f4cbfd632b63afefc3a61c480958ec2ad11509945c0006a7f76cac1f5f3952d": {
         "sectxt": true,
         "sectionID": "929141",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "4:00p-4:50p",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Schneider, Heidi L.",
         "instructors": [
           "Schneider, Heidi L."
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "39ef7063adfa8e3efea011ad055448d51093d1a23775c1bf9b0b0e170718474e": {
         "sectxt": true,
         "sectionID": "929141",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "4:00p-4:50p",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Schneider, Heidi L.",
         "instructors": [
           "Schneider, Heidi L."
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "ad0b7dcec211eae74d4f0ad3a644ca581420dc9fdb4a0b5b3326e276c73ff81e": {
         "sectxt": true,
         "sectionID": "929141",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "4:00p-4:50p",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Schneider, Heidi L.",
         "instructors": [
           "Schneider, Heidi L."
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

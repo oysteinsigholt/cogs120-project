@@ -3,30 +3,12 @@
   "name": "Intro to Critical Studies",
   "department": "MUS",
   "id": "213",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921827",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "2:00p-4:50p",
-      "building": "WLH",
-      "room": "2155",
-      "instructor": "Pasler, Jann Corinne",
-      "instructors": [
-        "Pasler, Jann Corinne"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "631d4fea8fe28e3e5676f90407389d64074d99dea8ee4a6a50e661da57b62898": {
         "sectxt": true,
         "sectionID": "921827",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "2:00p-4:50p",
         "building": "WLH",
         "room": "2155",
-        "instructor": "Pasler, Jann Corinne",
         "instructors": [
           "Pasler, Jann Corinne"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

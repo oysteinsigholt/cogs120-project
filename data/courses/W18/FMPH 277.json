@@ -3,36 +3,14 @@
   "name": "HlthPolicy / Tech / PubHlth",
   "department": "FMPH",
   "id": "277",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930047",
-      "type": "LE",
-      "section": "A00",
-      "days": "F",
-      "time": "1:00p-4:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Bloss, Cinnamon Sue",
-      "instructors": [
-        "Bloss, Cinnamon Sue"
-      ],
-      "start_time": "13:00",
-      "end_time": "16:00"
-    }
-  ],
   "notes": [
     "Class location: Altman-CTRI 1W-516"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "64193ccf2ae13d22b24607d07cb0cb1afdbfb0b870972d627597d2f71dc3f0f5": {
         "sectxt": true,
         "sectionID": "930047",
         "type": "LE",
@@ -41,15 +19,15 @@
         "time": "1:00p-4:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Bloss, Cinnamon Sue",
         "instructors": [
           "Bloss, Cinnamon Sue"
         ],
         "start_time": "13:00",
         "end_time": "16:00"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

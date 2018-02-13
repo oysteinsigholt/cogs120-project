@@ -3,57 +3,9 @@
   "name": "Economic Stabilization",
   "department": "ECON",
   "id": "146",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924102",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "CENTR",
-      "room": "105",
-      "instructor": "Cohen, Darrel Steven",
-      "instructors": [
-        "Cohen, Darrel Steven"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/10/2018",
-      "days": "S",
-      "time": "9:00a-10:50a",
-      "building": "CENTR",
-      "room": "105",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-10T08:00:00.000Z",
-      "start_time": "9:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "64f40e19950e3e0b4bc2dbe92498cbeab6232e520664bd5baea3eba5466fc79d": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -62,13 +14,12 @@
       "time": "9:00a-10:50a",
       "building": "CENTR",
       "room": "105",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-10T08:00:00.000Z",
       "start_time": "9:00",
       "end_time": "10:50"
     },
-    {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -77,18 +28,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "5bbba9ca1c601027dc3b61626d6f4b3ab75b17f48faeec5d3ac968cf45b3a8c4": {
         "sectxt": true,
         "sectionID": "924102",
         "type": "LE",
@@ -97,17 +46,15 @@
         "time": "9:30a-10:50a",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Cohen, Darrel Steven",
         "instructors": [
           "Cohen, Darrel Steven"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "cd3dda089d8d43dfa3c9ebdc3eccd20fec8206f20cd5418c4988b2208c99f688": {
         "sectxt": true,
         "sectionID": "924102",
         "type": "LE",
@@ -116,16 +63,15 @@
         "time": "9:30a-10:50a",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Cohen, Darrel Steven",
         "instructors": [
           "Cohen, Darrel Steven"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

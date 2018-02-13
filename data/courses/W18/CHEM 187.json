@@ -3,42 +3,9 @@
   "name": "Foundn of Teach&Learn Science",
   "department": "CHEM",
   "id": "187",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926583",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "1:00p-2:50p",
-      "building": "NSB",
-      "room": "3211",
-      "instructor": "Bussey, Thomas J",
-      "instructors": [
-        "Bussey, Thomas J"
-      ],
-      "start_time": "13:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/24/2018",
-      "days": "S",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-24T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "726929bce2e998a371b7e7ad2f17f4cc09139b4f7c73947865396b9592d66621": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-24T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "d619e7c49a40f30f248183dd65f7b142918c2a153b2d4149dee2fb341b9fb7da": {
         "sectxt": true,
         "sectionID": "926583",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "1:00p-2:50p",
         "building": "NSB",
         "room": "3211",
-        "instructor": "Bussey, Thomas J",
         "instructors": [
           "Bussey, Thomas J"
         ],
         "start_time": "13:00",
         "end_time": "14:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "be64e60fa607ab11d00970fd4c8b328c5e2a09b03c04117496dfb495291e4044": {
         "sectxt": true,
         "sectionID": "926583",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "1:00p-2:50p",
         "building": "NSB",
         "room": "3211",
-        "instructor": "Bussey, Thomas J",
         "instructors": [
           "Bussey, Thomas J"
         ],
         "start_time": "13:00",
         "end_time": "14:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

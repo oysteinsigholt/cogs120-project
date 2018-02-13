@@ -3,31 +3,209 @@
   "name": "Critical Writing",
   "department": "MCWP",
   "id": "40",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920527",
-      "type": "TU",
-      "section": "024",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "HSS",
-      "room": "2305B",
-      "instructor": "Wastal, Carrie King",
-      "instructors": [
-        "Wastal, Carrie King"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "2d60c99da46b1c250b9ab187727e2e7a69e27402297f11a7e0da98f676c1a9b1": {
+        "sectxt": true,
+        "sectionID": "920516",
+        "type": "TU",
+        "section": "013",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "e6943eb1e6d742d5e2104ad8b65fcb5b70e77fa2a601e1968ba5e4d3237a3120": {
+        "sectxt": true,
+        "sectionID": "920517",
+        "type": "TU",
+        "section": "014",
+        "days": "MW",
+        "time": "11:00a-12:20p",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "ebaf389ef71a1df86c45124998d1a580225efcc4a7df20d709c3474579afdf63": {
+        "sectxt": true,
+        "sectionID": "920520",
+        "type": "TU",
+        "section": "017",
+        "days": "MW",
+        "time": "3:30p-4:50p",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "90ac90511262a5dfe3b32453ae0ce0e09b412e20b1ff9cca73409005040bf356": {
+        "sectxt": true,
+        "sectionID": "920521",
+        "type": "TU",
+        "section": "018",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "1ea909e9b9d39d4627a6ddacbafd5bd6288e066778d23928329401d367c3b83b": {
+        "sectxt": true,
+        "sectionID": "920506",
+        "type": "TU",
+        "section": "003",
+        "days": "MW",
+        "time": "12:30p-1:50p",
+        "building": "HSS",
+        "room": "2346A",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "66bae581cedb8d0b5528a1e6c366b75f1e2a4730f724740bd4d2d36c4722e0ed": {
+        "sectxt": true,
+        "sectionID": "920507",
+        "type": "TU",
+        "section": "004",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "HSS",
+        "room": "2346A",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "d4e45271bf378c3cdbaaee8d48b0df9a59872ff97a5ff2a60fe6d04b55a0e449": {
+        "sectxt": true,
+        "sectionID": "920508",
+        "type": "TU",
+        "section": "005",
+        "days": "MW",
+        "time": "3:30p-4:50p",
+        "building": "HSS",
+        "room": "2346A",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "ca1d74884811e0b35e23617f387b3c8834332e4bcefe3d21344deaa4b63674ac": {
+        "sectxt": true,
+        "sectionID": "920509",
+        "type": "TU",
+        "section": "006",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "HSS",
+        "room": "2346A",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "b5ef8ad544674e3aa03f3356a88aa90a14ef0c19fc2ae540d072cec19bbd6e90": {
+        "sectxt": true,
+        "sectionID": "920504",
+        "type": "TU",
+        "section": "001",
+        "days": "MW",
+        "time": "8:00a-9:20a",
+        "building": "HSS",
+        "room": "2346A",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "c53f136efdaf025d9da51333e178a8463da71fbdea524aeafc3bbc43f9983360": {
+        "sectxt": true,
+        "sectionID": "920505",
+        "type": "TU",
+        "section": "002",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "HSS",
+        "room": "2346A",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    },
+    "Tu": {
+      "b242ca23eb6dfad8bedce20fbb3a121dab0cf565f7f8fb87968c34b4aa9f234f": {
+        "sectxt": true,
+        "sectionID": "920524",
+        "type": "TU",
+        "section": "021",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "9431d17063a50eb04beb79881a1c72dddf0c43c9a8122db18cba2d37c7feb8cc": {
+        "sectxt": true,
+        "sectionID": "920525",
+        "type": "TU",
+        "section": "022",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "8ee8a1ef2173aabce23b530620ad09bf1bbed84b47cb10a97aa84258e203ca58": {
+        "sectxt": true,
+        "sectionID": "920526",
+        "type": "TU",
+        "section": "023",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "9d7d4c6f2dca47ac46906ee2676bb827efd2d489e514599ed05249fb25787c3c": {
         "sectxt": true,
         "sectionID": "920527",
         "type": "TU",
@@ -36,17 +214,287 @@
         "time": "3:30p-4:50p",
         "building": "HSS",
         "room": "2305B",
-        "instructor": "Wastal, Carrie King",
         "instructors": [
           "Wastal, Carrie King"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
+      },
+      "76140a60db3ae90aa2692815310d686d05122e9076175ffd778dde0769e1f557": {
+        "sectxt": true,
+        "sectionID": "920510",
+        "type": "TU",
+        "section": "007",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "HSS",
+        "room": "1138",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "5d7fe49fb809193691c5a4304ce4f8cce698c1f6da0f3622989aebbfc7048888": {
+        "sectxt": true,
+        "sectionID": "920511",
+        "type": "TU",
+        "section": "008",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "HSS",
+        "room": "1138",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "db2441c874f688a02be6513629a80e8e10fa067531c3f192d52c5f7760ea96cb": {
+        "sectxt": true,
+        "sectionID": "920512",
+        "type": "TU",
+        "section": "009",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "HSS",
+        "room": "2346A",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "cbdba6989f8efd28eb666f3ca82e4ba9d5be8e562ae9e707b0603b1264d0085d": {
+        "sectxt": true,
+        "sectionID": "920514",
+        "type": "TU",
+        "section": "011",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "HSS",
+        "room": "2346A",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "2741b22e747bfd6c4a0efd955245aa846410537dea83d443d73dc615fcbe413b": {
+        "sectxt": true,
+        "sectionID": "920515",
+        "type": "TU",
+        "section": "012",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "W": {
+      "29d3aa3f1911128b06e081694a3318ff910067edd2d4ba0e51b2d44c8d78a71e": {
+        "sectxt": true,
+        "sectionID": "920516",
+        "type": "TU",
+        "section": "013",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "98ef4419bc429954dca135f539a3e854ad882075b19deb5815aeb8fea2290a22": {
+        "sectxt": true,
+        "sectionID": "920517",
+        "type": "TU",
+        "section": "014",
+        "days": "MW",
+        "time": "11:00a-12:20p",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "9c1b5e36319c866408839f8574969cd883529c408eaf84cf922fe16a84ac2943": {
+        "sectxt": true,
+        "sectionID": "920520",
+        "type": "TU",
+        "section": "017",
+        "days": "MW",
+        "time": "3:30p-4:50p",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "e0dbc3bb2ef254dde0493dfd9ef386ad36a22637b9e40700f0fc6bd6407d5804": {
+        "sectxt": true,
+        "sectionID": "920521",
+        "type": "TU",
+        "section": "018",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "1d60a4e68034176e7675ea1a8abf35dc6fb52da33d5ab9c35a9b3b6387e506a5": {
+        "sectxt": true,
+        "sectionID": "920506",
+        "type": "TU",
+        "section": "003",
+        "days": "MW",
+        "time": "12:30p-1:50p",
+        "building": "HSS",
+        "room": "2346A",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "c0dc3f5597656c907948751ca90a1d9bee5073eb59d487bfd0865a6c4d4e5d81": {
+        "sectxt": true,
+        "sectionID": "920507",
+        "type": "TU",
+        "section": "004",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "HSS",
+        "room": "2346A",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "8a3ada8a13f013bccc501e4420dbe73558f83e1d8c03e148fc7438b2830bf91c": {
+        "sectxt": true,
+        "sectionID": "920508",
+        "type": "TU",
+        "section": "005",
+        "days": "MW",
+        "time": "3:30p-4:50p",
+        "building": "HSS",
+        "room": "2346A",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "aee266fa03b7f19f724c112708490d7305f7dcd07ac60fb3abe089feb59a9f63": {
+        "sectxt": true,
+        "sectionID": "920509",
+        "type": "TU",
+        "section": "006",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "HSS",
+        "room": "2346A",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "8b68bd4ac5f7317bb3bfc1aa46012afa588e7c23496e52ffaef3ab66df54c5f2": {
+        "sectxt": true,
+        "sectionID": "920504",
+        "type": "TU",
+        "section": "001",
+        "days": "MW",
+        "time": "8:00a-9:20a",
+        "building": "HSS",
+        "room": "2346A",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "7788d362b5eae75d9e0620ef60c0e1bd9cf6846209bf31060bd57cb4261e428c": {
+        "sectxt": true,
+        "sectionID": "920505",
+        "type": "TU",
+        "section": "002",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "HSS",
+        "room": "2346A",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    },
+    "Th": {
+      "2e77fec67d5f392d8457a736ff8687ab78a1e3930d7697170b2ad9b18c06a4ea": {
+        "sectxt": true,
+        "sectionID": "920524",
+        "type": "TU",
+        "section": "021",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "1efadff0a3b8c3ea391cb59d6db45832975d32aa3a474eb86ba2942163192270": {
+        "sectxt": true,
+        "sectionID": "920525",
+        "type": "TU",
+        "section": "022",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "f9139cc4b718a61d44724a69caa659658911015cdfb9799de6daa1a0c46137d7": {
+        "sectxt": true,
+        "sectionID": "920526",
+        "type": "TU",
+        "section": "023",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "d934ada52d1de7028bacf10b310b744bfbf6b615b553c33256874cdd200fab3a": {
         "sectxt": true,
         "sectionID": "920527",
         "type": "TU",
@@ -55,16 +503,90 @@
         "time": "3:30p-4:50p",
         "building": "HSS",
         "room": "2305B",
-        "instructor": "Wastal, Carrie King",
         "instructors": [
           "Wastal, Carrie King"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
+      },
+      "e2af96294c67318b491850ebe0b3e369bec07b6298bb13b648b89bc19b522e85": {
+        "sectxt": true,
+        "sectionID": "920510",
+        "type": "TU",
+        "section": "007",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "HSS",
+        "room": "1138",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "a76f614179e43014af8d929fd738f654eff6e4a5fdc79067e7b6c0a3e2763e5e": {
+        "sectxt": true,
+        "sectionID": "920511",
+        "type": "TU",
+        "section": "008",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "HSS",
+        "room": "1138",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "3e9169cd1e6e74e75da9fe0e92cbaa913b9840da2a82eed75c234be936d9bb6a": {
+        "sectxt": true,
+        "sectionID": "920512",
+        "type": "TU",
+        "section": "009",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "HSS",
+        "room": "2346A",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "3548a41746651c3dea97c385081c8c466b6810cb563bd8221ca35351f48c2714": {
+        "sectxt": true,
+        "sectionID": "920514",
+        "type": "TU",
+        "section": "011",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "HSS",
+        "room": "2346A",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "11b0c81e61960fa86c32eebe5f03d33319dfe823b7206e5cfc8df001753c64e3": {
+        "sectxt": true,
+        "sectionID": "920515",
+        "type": "TU",
+        "section": "012",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "Wastal, Carrie King"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "0"
+  ]
 }

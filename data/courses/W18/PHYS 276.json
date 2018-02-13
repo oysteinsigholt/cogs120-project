@@ -3,42 +3,9 @@
   "name": "Quantitative Molecular Biology",
   "department": "PHYS",
   "id": "276",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923849",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "11:00a-12:20p",
-      "building": "MYR-A",
-      "room": "5623",
-      "instructor": "Hwa, Terence T.",
-      "instructors": [
-        "Hwa, Terence T."
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "d39f2776b84674f33f82a212c3e54211fa697941a9138e7a0c45ba0bcd1ba0d5": {
         "sectxt": true,
         "sectionID": "923849",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "11:00a-12:20p",
         "building": "MYR-A",
         "room": "5623",
-        "instructor": "Hwa, Terence T.",
         "instructors": [
           "Hwa, Terence T."
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "e0185211698ab51c3721e249823edeb59fc7e7b23d5e0c64b040890087b7184c": {
         "sectxt": true,
         "sectionID": "923849",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "11:00a-12:20p",
         "building": "MYR-A",
         "room": "5623",
-        "instructor": "Hwa, Terence T.",
         "instructors": [
           "Hwa, Terence T."
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

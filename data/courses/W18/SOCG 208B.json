@@ -3,36 +3,33 @@
   "name": "Graduate Student Seminar",
   "department": "SOCG",
   "id": "208B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929940",
-      "type": "SE",
-      "section": "A00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    }
-  ],
   "notes": [
+    "Class will meet on Odd Weeks: 1/9, 1/23, 2/6, 2/20, 3/6",
     "Class will meet on Odd Weeks: 1/9, 1/23, 2/6, 2/20, 3/6"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "Tu": {
+      "f426153bd542593d8665ca064aa4d9e20d34fb76ed77bf2bb3d2178e433c46b6": {
+        "sectxt": true,
+        "sectionID": "930991",
+        "type": "SE",
+        "section": "B00",
+        "days": "Tu",
+        "time": "2:00p-3:50p",
+        "building": "SSB",
+        "room": "414",
+        "instructors": [
+          "Ng, Kwai"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

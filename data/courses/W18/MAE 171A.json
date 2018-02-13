@@ -3,179 +3,9 @@
   "name": "Mechanical Engineering Lab I",
   "department": "MAE",
   "id": "171A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "5:00p-6:50p",
-      "building": "CENTR",
-      "room": "113",
-      "instructor": "Seshadri, Kalyanasundaram & Lal, Ratnesh",
-      "instructors": [
-        "Seshadri, Kalyanasundaram",
-        "Lal, Ratnesh"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922926",
-      "type": "LA",
-      "section": "A01",
-      "days": "Tu",
-      "time": "9:00a-11:50a",
-      "building": "EBU2",
-      "room": "107",
-      "instructor": "Seshadri, Kalyanasundaram & Lal, Ratnesh",
-      "instructors": [
-        "Seshadri, Kalyanasundaram",
-        "Lal, Ratnesh"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922927",
-      "type": "LA",
-      "section": "A02",
-      "days": "Tu",
-      "time": "12:30p-3:20p",
-      "building": "EBU2",
-      "room": "107",
-      "instructor": "Seshadri, Kalyanasundaram & Lal, Ratnesh",
-      "instructors": [
-        "Seshadri, Kalyanasundaram",
-        "Lal, Ratnesh"
-      ],
-      "start_time": "12:30",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922928",
-      "type": "LA",
-      "section": "A03",
-      "days": "W",
-      "time": "9:00a-11:50a",
-      "building": "EBU2",
-      "room": "107",
-      "instructor": "Seshadri, Kalyanasundaram & Lal, Ratnesh",
-      "instructors": [
-        "Seshadri, Kalyanasundaram",
-        "Lal, Ratnesh"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922929",
-      "type": "LA",
-      "section": "A04",
-      "days": "W",
-      "time": "1:00p-3:50p",
-      "building": "EBU2",
-      "room": "107",
-      "instructor": "Seshadri, Kalyanasundaram & Lal, Ratnesh",
-      "instructors": [
-        "Seshadri, Kalyanasundaram",
-        "Lal, Ratnesh"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922930",
-      "type": "LA",
-      "section": "A05",
-      "days": "Th",
-      "time": "9:00a-11:50a",
-      "building": "EBU2",
-      "room": "107",
-      "instructor": "Seshadri, Kalyanasundaram & Lal, Ratnesh",
-      "instructors": [
-        "Seshadri, Kalyanasundaram",
-        "Lal, Ratnesh"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922931",
-      "type": "LA",
-      "section": "A06",
-      "days": "Th",
-      "time": "12:30p-3:20p",
-      "building": "EBU2",
-      "room": "107",
-      "instructor": "Seshadri, Kalyanasundaram & Lal, Ratnesh",
-      "instructors": [
-        "Seshadri, Kalyanasundaram",
-        "Lal, Ratnesh"
-      ],
-      "start_time": "12:30",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922932",
-      "type": "LA",
-      "section": "A07",
-      "days": "F",
-      "time": "9:00a-11:50a",
-      "building": "EBU2",
-      "room": "107",
-      "instructor": "Seshadri, Kalyanasundaram & Lal, Ratnesh",
-      "instructors": [
-        "Seshadri, Kalyanasundaram",
-        "Lal, Ratnesh"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922933",
-      "type": "LA",
-      "section": "A08",
-      "days": "F",
-      "time": "1:00p-3:50p",
-      "building": "EBU2",
-      "room": "107",
-      "instructor": "Seshadri, Kalyanasundaram & Lal, Ratnesh",
-      "instructors": [
-        "Seshadri, Kalyanasundaram",
-        "Lal, Ratnesh"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -184,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "de54d94559ffb14cc4959822bf6c7ac02d7fad63f781b2c11e6f682632d3ee48": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -203,17 +32,15 @@
         "time": "5:00p-6:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Seshadri, Kalyanasundaram & Lal, Ratnesh",
         "instructors": [
-          "Seshadri, Kalyanasundaram",
-          "Lal, Ratnesh"
+          "Seshadri, Kalyanasundaram          \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLal, Ratnesh"
         ],
         "start_time": "17:00",
         "end_time": "18:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "f253ae09db14102c60f0d1d7ffc5e55ffc061ae58b9cd139d3fa40473a68aeb1": {
         "sectxt": true,
         "sectionID": "922926",
         "type": "LA",
@@ -222,15 +49,13 @@
         "time": "9:00a-11:50a",
         "building": "EBU2",
         "room": "107",
-        "instructor": "Seshadri, Kalyanasundaram & Lal, Ratnesh",
         "instructors": [
-          "Seshadri, Kalyanasundaram",
-          "Lal, Ratnesh"
+          "Seshadri, Kalyanasundaram          \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLal, Ratnesh"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       },
-      {
+      "e1bbf05729174166d9c5c6208417adf104a0bb955edfb34162e1816127d3683c": {
         "sectxt": true,
         "sectionID": "922927",
         "type": "LA",
@@ -239,17 +64,15 @@
         "time": "12:30p-3:20p",
         "building": "EBU2",
         "room": "107",
-        "instructor": "Seshadri, Kalyanasundaram & Lal, Ratnesh",
         "instructors": [
-          "Seshadri, Kalyanasundaram",
-          "Lal, Ratnesh"
+          "Seshadri, Kalyanasundaram          \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLal, Ratnesh"
         ],
         "start_time": "12:30",
         "end_time": "15:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "05df8e734fb2688a54093596c9b85ae0f33b77ca00975a23b4c54d992fde18fe": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -258,15 +81,13 @@
         "time": "5:00p-6:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Seshadri, Kalyanasundaram & Lal, Ratnesh",
         "instructors": [
-          "Seshadri, Kalyanasundaram",
-          "Lal, Ratnesh"
+          "Seshadri, Kalyanasundaram          \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLal, Ratnesh"
         ],
         "start_time": "17:00",
         "end_time": "18:50"
       },
-      {
+      "091aaf41481f846f626fa16a6c0013daf0ebdadb287fe94b4ba038e2fc4db320": {
         "sectxt": true,
         "sectionID": "922928",
         "type": "LA",
@@ -275,15 +96,13 @@
         "time": "9:00a-11:50a",
         "building": "EBU2",
         "room": "107",
-        "instructor": "Seshadri, Kalyanasundaram & Lal, Ratnesh",
         "instructors": [
-          "Seshadri, Kalyanasundaram",
-          "Lal, Ratnesh"
+          "Seshadri, Kalyanasundaram          \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLal, Ratnesh"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       },
-      {
+      "1f8303c77f9485618b2e6d2b4792540603116573ee20b54c14a4467476768945": {
         "sectxt": true,
         "sectionID": "922929",
         "type": "LA",
@@ -292,17 +111,15 @@
         "time": "1:00p-3:50p",
         "building": "EBU2",
         "room": "107",
-        "instructor": "Seshadri, Kalyanasundaram & Lal, Ratnesh",
         "instructors": [
-          "Seshadri, Kalyanasundaram",
-          "Lal, Ratnesh"
+          "Seshadri, Kalyanasundaram          \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLal, Ratnesh"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "28fe52697d6dd2417ae0d88caebcf45ac5a223f259ce234d114265004575a780": {
         "sectxt": true,
         "sectionID": "922930",
         "type": "LA",
@@ -311,15 +128,13 @@
         "time": "9:00a-11:50a",
         "building": "EBU2",
         "room": "107",
-        "instructor": "Seshadri, Kalyanasundaram & Lal, Ratnesh",
         "instructors": [
-          "Seshadri, Kalyanasundaram",
-          "Lal, Ratnesh"
+          "Seshadri, Kalyanasundaram          \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLal, Ratnesh"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       },
-      {
+      "0f09036a88635aa2628120e42d4aa425ab3ff4868dae0654cb0cddaeff751c4a": {
         "sectxt": true,
         "sectionID": "922931",
         "type": "LA",
@@ -328,17 +143,15 @@
         "time": "12:30p-3:20p",
         "building": "EBU2",
         "room": "107",
-        "instructor": "Seshadri, Kalyanasundaram & Lal, Ratnesh",
         "instructors": [
-          "Seshadri, Kalyanasundaram",
-          "Lal, Ratnesh"
+          "Seshadri, Kalyanasundaram          \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLal, Ratnesh"
         ],
         "start_time": "12:30",
         "end_time": "15:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "f0fe752b6f415854eef8fbb0760d6d2b8bd06b60cdc1329a7418a51e5f1a67a1": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -347,15 +160,13 @@
         "time": "5:00p-6:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Seshadri, Kalyanasundaram & Lal, Ratnesh",
         "instructors": [
-          "Seshadri, Kalyanasundaram",
-          "Lal, Ratnesh"
+          "Seshadri, Kalyanasundaram          \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLal, Ratnesh"
         ],
         "start_time": "17:00",
         "end_time": "18:50"
       },
-      {
+      "ba9dc8141ac74ce397767ba8a2c15acf212843d8b18ecfa2e6838ee2f685aa5d": {
         "sectxt": true,
         "sectionID": "922932",
         "type": "LA",
@@ -364,15 +175,13 @@
         "time": "9:00a-11:50a",
         "building": "EBU2",
         "room": "107",
-        "instructor": "Seshadri, Kalyanasundaram & Lal, Ratnesh",
         "instructors": [
-          "Seshadri, Kalyanasundaram",
-          "Lal, Ratnesh"
+          "Seshadri, Kalyanasundaram          \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLal, Ratnesh"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       },
-      {
+      "c015afd3033bad92d79eaebcf09c5dbce8d8fe3151e65733b8cb08134cc35622": {
         "sectxt": true,
         "sectionID": "922933",
         "type": "LA",
@@ -381,16 +190,15 @@
         "time": "1:00p-3:50p",
         "building": "EBU2",
         "room": "107",
-        "instructor": "Seshadri, Kalyanasundaram & Lal, Ratnesh",
         "instructors": [
-          "Seshadri, Kalyanasundaram",
-          "Lal, Ratnesh"
+          "Seshadri, Kalyanasundaram          \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLal, Ratnesh"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

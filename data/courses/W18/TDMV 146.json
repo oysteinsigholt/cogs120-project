@@ -3,30 +3,12 @@
   "name": "Intermediate Latin Dance",
   "department": "TDMV",
   "id": "146",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920473",
-      "type": "ST",
-      "section": "A00",
-      "days": "MW",
-      "time": "2:00p-3:50p",
-      "building": "DANCE",
-      "room": "3",
-      "instructor": "Caligagan, Tony",
-      "instructors": [
-        "Caligagan, Tony"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "5f43a61b0de15b681227e8561fc59d9c398981318fe1aac94ae41fd764a4e57a": {
         "sectxt": true,
         "sectionID": "920473",
         "type": "ST",
@@ -35,17 +17,15 @@
         "time": "2:00p-3:50p",
         "building": "DANCE",
         "room": "3",
-        "instructor": "Caligagan, Tony",
         "instructors": [
           "Caligagan, Tony"
         ],
         "start_time": "14:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "3a690680d860e2f675340da5110478f1324e8d926409cb82f1b11dd273466470": {
         "sectxt": true,
         "sectionID": "920473",
         "type": "ST",
@@ -54,17 +34,15 @@
         "time": "2:00p-3:50p",
         "building": "DANCE",
         "room": "3",
-        "instructor": "Caligagan, Tony",
         "instructors": [
           "Caligagan, Tony"
         ],
         "start_time": "14:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

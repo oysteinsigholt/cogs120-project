@@ -3,34 +3,12 @@
   "name": "Contemp Sociological Theory",
   "department": "SOCG",
   "id": "202",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923214",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "1:00p-3:50p",
-      "building": "SSB",
-      "room": "414",
-      "instructor": "Goldman, Harvey Stern",
-      "instructors": [
-        "Goldman, Harvey Stern"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "af7a5151b0c4abbf3794afe42d8435dd3509399dcf86cb672552788a09185e47": {
         "sectxt": true,
         "sectionID": "923214",
         "type": "SE",
@@ -39,15 +17,15 @@
         "time": "1:00p-3:50p",
         "building": "SSB",
         "room": "414",
-        "instructor": "Goldman, Harvey Stern",
         "instructors": [
           "Goldman, Harvey Stern"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

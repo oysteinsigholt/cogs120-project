@@ -3,42 +3,9 @@
   "name": "Topology",
   "department": "MATH",
   "id": "290B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927323",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "APM",
-      "room": "5402",
-      "instructor": "Roberts, Justin Deritter",
-      "instructors": [
-        "Roberts, Justin Deritter"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "a3758889a8a7d547c75c717ada26323bb6995391232ff8dc505a3308c033d58f": {
         "sectxt": true,
         "sectionID": "927323",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "2:00p-2:50p",
         "building": "APM",
         "room": "5402",
-        "instructor": "Roberts, Justin Deritter",
         "instructors": [
           "Roberts, Justin Deritter"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "0c28ca9f4735fed4513ed430d60486b937c757fb71c992b1d840f413b3dcf036": {
         "sectxt": true,
         "sectionID": "927323",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "2:00p-2:50p",
         "building": "APM",
         "room": "5402",
-        "instructor": "Roberts, Justin Deritter",
         "instructors": [
           "Roberts, Justin Deritter"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "77e3525a4141a8f2915bbecb8a90adec531d1e9b77001a6d24c7c7d277238264": {
         "sectxt": true,
         "sectionID": "927323",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "2:00p-2:50p",
         "building": "APM",
         "room": "5402",
-        "instructor": "Roberts, Justin Deritter",
         "instructors": [
           "Roberts, Justin Deritter"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

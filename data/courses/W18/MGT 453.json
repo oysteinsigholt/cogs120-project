@@ -3,42 +3,9 @@
   "name": "Supply Chain Management",
   "department": "MGT",
   "id": "453",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930353",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "6:30p-9:30p",
-      "building": "WFH",
-      "room": "3N129",
-      "instructor": "Erat, Sanjiv",
-      "instructors": [
-        "Erat, Sanjiv"
-      ],
-      "start_time": "18:30",
-      "end_time": "21:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "6:30p-9:30p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "18:30",
-      "end_time": "21:30"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "bed5fecd81eba970e10c50d81c0c202dd3e6ba4fd584b4cd687d2d894adaba94": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "6:30p-9:30p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "18:30",
       "end_time": "21:30"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "6d4063ecf89d149c27ce86d99834c84f2defebd577706ef15b0017c371ca49d0": {
         "sectxt": true,
         "sectionID": "930353",
         "type": "LE",
@@ -66,19 +32,15 @@
         "time": "6:30p-9:30p",
         "building": "WFH",
         "room": "3N129",
-        "instructor": "Erat, Sanjiv",
         "instructors": [
           "Erat, Sanjiv"
         ],
         "start_time": "18:30",
         "end_time": "21:30"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,34 +3,12 @@
   "name": "Senior Seminar in Physics",
   "department": "PHYS",
   "id": "192",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925480",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "MYR-A",
-      "room": "5623",
-      "instructor": "Sharma, Vivek A.",
-      "instructors": [
-        "Sharma, Vivek A."
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "02658feac61055c0753b98ab0aaa56865076ce43ee12c190d97e6cb7defd5de5": {
         "sectxt": true,
         "sectionID": "925480",
         "type": "SE",
@@ -39,15 +17,15 @@
         "time": "2:00p-2:50p",
         "building": "MYR-A",
         "room": "5623",
-        "instructor": "Sharma, Vivek A.",
         "instructors": [
           "Sharma, Vivek A."
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

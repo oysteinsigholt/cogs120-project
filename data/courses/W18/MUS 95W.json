@@ -3,32 +3,12 @@
   "name": "World Music Ensembles",
   "department": "MUS",
   "id": "95W",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921931",
-      "type": "ST",
-      "section": "B00",
-      "days": "W",
-      "time": "5:00p-7:50p",
-      "building": "CPMC",
-      "room": "264",
-      "instructor": "Seshadri, Kartik",
-      "instructors": [
-        "Seshadri, Kartik"
-      ],
-      "start_time": "17:00",
-      "end_time": "19:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "8317e487558dab2fd9620ab4524114dcbff9508bca01a59ddfef2eb2abb1ec2a": {
         "sectxt": true,
         "sectionID": "921931",
         "type": "ST",
@@ -37,17 +17,31 @@
         "time": "5:00p-7:50p",
         "building": "CPMC",
         "room": "264",
-        "instructor": "Seshadri, Kartik",
+        "instructors": [
+          "Seshadri, Kartik"
+        ],
+        "start_time": "17:00",
+        "end_time": "19:50"
+      },
+      "a1b15e745320435ab7165005cf727a33d31810805c1b05e081af516a950311b6": {
+        "sectxt": true,
+        "sectionID": "921930",
+        "type": "ST",
+        "section": "A00",
+        "days": "W",
+        "time": "5:00p-7:50p",
+        "building": "CPMC",
+        "room": "265",
         "instructors": [
           "Seshadri, Kartik"
         ],
         "start_time": "17:00",
         "end_time": "19:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "B",
+    "A"
+  ]
 }

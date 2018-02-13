@@ -3,30 +3,12 @@
   "name": "Painting:  Image Making",
   "department": "VIS",
   "id": "106A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922767",
-      "type": "ST",
-      "section": "A00",
-      "days": "MW",
-      "time": "12:00p-2:50p",
-      "building": "MANDE",
-      "room": "220B",
-      "instructor": "Vangenderen, Monique Luise",
-      "instructors": [
-        "Vangenderen, Monique Luise"
-      ],
-      "start_time": "12:00",
-      "end_time": "14:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "8c88771eb335f4ab1a7f6715ea8e3996e1c51b709466c31d8163fa68d8337b74": {
         "sectxt": true,
         "sectionID": "922767",
         "type": "ST",
@@ -35,17 +17,15 @@
         "time": "12:00p-2:50p",
         "building": "MANDE",
         "room": "220B",
-        "instructor": "Vangenderen, Monique Luise",
         "instructors": [
           "Vangenderen, Monique Luise"
         ],
         "start_time": "12:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "cead25427a047d76cb25b05376fa32174ce97aa45057be2baaba51e8687188b6": {
         "sectxt": true,
         "sectionID": "922767",
         "type": "ST",
@@ -54,17 +34,15 @@
         "time": "12:00p-2:50p",
         "building": "MANDE",
         "room": "220B",
-        "instructor": "Vangenderen, Monique Luise",
         "instructors": [
           "Vangenderen, Monique Luise"
         ],
         "start_time": "12:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

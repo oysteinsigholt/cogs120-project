@@ -3,33 +3,14 @@
   "name": "Adv Rsch/Eval Methods B- Qual",
   "department": "EDS",
   "id": "288B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922526",
-      "type": "SE",
-      "section": "B00",
-      "days": "Tu",
-      "time": "10:00a-1:00p",
-      "building": "PCYNH",
-      "room": "448",
-      "instructor": "Hopkins, Megan Beth",
-      "instructors": [
-        "Hopkins, Megan Beth"
-      ],
-      "start_time": "10:00",
-      "end_time": "13:00"
-    }
-  ],
   "notes": [
     "Course is for EDS Ph.D. Students."
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "0a66091f7679f94115409b657a2634fb896a926c5d9c8f05aec33e4c7f313618": {
         "sectxt": true,
         "sectionID": "922526",
         "type": "SE",
@@ -38,18 +19,33 @@
         "time": "10:00a-1:00p",
         "building": "PCYNH",
         "room": "448",
-        "instructor": "Hopkins, Megan Beth",
         "instructors": [
           "Hopkins, Megan Beth"
         ],
         "start_time": "10:00",
         "end_time": "13:00"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "W": {
+      "4d6c3558ffee6ac5be23dea3c82e60dbadc6a5bb42395ed133d06bfd3b159169": {
+        "sectxt": true,
+        "sectionID": "922525",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "6:00p-9:00p",
+        "building": "PCYNH",
+        "room": "304",
+        "instructors": [
+          "Fine, Sarah"
+        ],
+        "start_time": "18:00",
+        "end_time": "21:00"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

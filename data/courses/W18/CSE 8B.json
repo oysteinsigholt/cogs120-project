@@ -3,120 +3,12 @@
   "name": "Intro/Computer Sci. Java (II)",
   "department": "CSE",
   "id": "8B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "C00",
-      "days": "MWF",
-      "time": "12:00p-12:50p",
-      "building": "PCYNH",
-      "room": "106",
-      "instructor": "Cao, Yingjun",
-      "instructors": [
-        "Cao, Yingjun"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927420",
-      "type": "DI",
-      "section": "C01",
-      "days": "Tu",
-      "time": "8:00p-8:50p",
-      "building": "PCYNH",
-      "room": "109",
-      "instructor": "Cao, Yingjun",
-      "instructors": [
-        "Cao, Yingjun"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/18/2018",
-      "days": "Th",
-      "time": "7:00p-7:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-18T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/08/2018",
-      "days": "Th",
-      "time": "7:00p-7:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-08T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "01/29/2018",
-      "days": "M",
-      "time": "8:00p-9:20p",
-      "building": "YORK",
-      "room": "2622",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-29T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "02/21/2018",
-      "days": "W",
-      "time": "8:00p-9:20p",
-      "building": "YORK",
-      "room": "2622",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-21T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/17/2018",
-      "days": "S",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-17T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [
+    "Review Sessions for CSE 8B B00 will meet in same\n location as CSE 8B A00.",
     "Review Sessions for CSE 8B C00 will meet in same\n location as CSE 8B A00"
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "775f23719fc5e9270e9ab01bad0f6bae646b0ac066f2761d259b38b61c8e9c66": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -125,13 +17,12 @@
       "time": "7:00p-7:50p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-18T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "19:50"
     },
-    {
+    "ad30f2968b8a5ea7a0bd6a1d7c660cddab7c17110113c174cbb453f868f2b130": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -140,43 +31,40 @@
       "time": "7:00p-7:50p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-08T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "19:50"
     },
-    {
+    "cd4041925a9fd5305151733f6e1ce4ecf00dd1f91e33fb4116c490de6235592a": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
       "section": "01/29/2018",
       "days": "M",
-      "time": "8:00p-9:20p",
-      "building": "YORK",
-      "room": "2622",
-      "instructor": "",
+      "time": "8:00p-9:50p",
+      "building": "MANDE",
+      "room": "B-210",
       "instructors": [],
       "date": "2018-01-29T08:00:00.000Z",
       "start_time": "20:00",
-      "end_time": "21:20"
+      "end_time": "21:50"
     },
-    {
+    "0c9250f6cd640ab13aa644988924c628490b6dfcac2669dec1a49485d936614b": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
       "section": "02/21/2018",
       "days": "W",
-      "time": "8:00p-9:20p",
-      "building": "YORK",
-      "room": "2622",
-      "instructor": "",
+      "time": "8:00p-9:50p",
+      "building": "MANDE",
+      "room": "B-210",
       "instructors": [],
       "date": "2018-02-21T08:00:00.000Z",
       "start_time": "20:00",
-      "end_time": "21:20"
+      "end_time": "21:50"
     },
-    {
+    "8775cdfecb79b7ae02a50e79d04f28c9bf2886a8cf1b9d35d69e5a38fdd31977": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -185,17 +73,118 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-17T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
+    },
+    "ccbe7f4e2b4a8f14d35bb60c4c8c64c15f66913837ddbe1da7b4514825b792e0": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/17/2018",
+      "days": "S",
+      "time": "8:00a-10:58a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-17T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:58"
+    },
+    "1b1549be8160c64799b11a35b37dd3d8dd6ab9179747ede133f945a80c695a79": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MI",
+      "section": "01/29/2018",
+      "days": "M",
+      "time": "8:00p-9:20p",
+      "building": "YORK",
+      "room": "2622",
+      "instructors": [],
+      "date": "2018-01-29T08:00:00.000Z",
+      "start_time": "20:00",
+      "end_time": "21:20"
+    },
+    "6a2c7ecbed4ac697ff08a4e2b8cf350e4e0a23f2707d916aeb5a87f8550a8c33": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MI",
+      "section": "02/21/2018",
+      "days": "W",
+      "time": "8:00p-9:20p",
+      "building": "YORK",
+      "room": "2622",
+      "instructors": [],
+      "date": "2018-02-21T08:00:00.000Z",
+      "start_time": "20:00",
+      "end_time": "21:20"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1866918a9e827ca2246c3cdc0800ca8cab9d14fcb63d242959828782dc5e03cc": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "1330",
+        "instructors": [
+          "Cao, Yingjun"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "1754c452611acd8f955b2654d7da6642ac5b125d9c0ba8969a4da1d05f898dc3": {
+        "sectxt": true,
+        "sectionID": "927416",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "7:00p-7:50p",
+        "building": "CENTR",
+        "room": "113",
+        "instructors": [
+          "Cao, Yingjun"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "7b590151cd28db772cb5f38ee83595f178c8f3cb089eb9bf525519f33a482289": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "PCYNH",
+        "room": "106",
+        "instructors": [
+          "Cao, Yingjun"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "80294b27ab1fb4355607ee8abf32b43afead6682a30f4f67a07db4954ca26033": {
+        "sectxt": true,
+        "sectionID": "927418",
+        "type": "DI",
+        "section": "B01",
+        "days": "M",
+        "time": "8:00p-8:50p",
+        "building": "PCYNH",
+        "room": "106",
+        "instructors": [
+          "Cao, Yingjun"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "f213bf63d6f8826c044fa0cd59a4e64aade222e65c2925d26cedc9ca975f3fdf": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -204,16 +193,15 @@
         "time": "12:00p-12:50p",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Cao, Yingjun",
         "instructors": [
           "Cao, Yingjun"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "70aabc063bf3d4efe8d7aa1a01a6a44658e9d0dd10f76768467bc8ca2fb08cba": {
         "sectxt": true,
         "sectionID": "927420",
         "type": "DI",
@@ -222,16 +210,45 @@
         "time": "8:00p-8:50p",
         "building": "PCYNH",
         "room": "109",
-        "instructor": "Cao, Yingjun",
         "instructors": [
           "Cao, Yingjun"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "664fb1192c899ad420c384f1035679fd9aa443bbe17868a3444009b2ce9ed2d0": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "1330",
+        "instructors": [
+          "Cao, Yingjun"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "346e9d97d27f467115ca4e2e6de0756325a93bb7f40c6a9873a7fede3f635bf6": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "PCYNH",
+        "room": "106",
+        "instructors": [
+          "Cao, Yingjun"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "2d64310fc2d85eac69c87062346fae7c58fd297365cfd716531ed4b07bde9a5c": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -240,17 +257,45 @@
         "time": "12:00p-12:50p",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Cao, Yingjun",
         "instructors": [
           "Cao, Yingjun"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "e0c71401fe619db626c079241f95ffbc9af299dc6dba6b446063c58d72b82533": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "1330",
+        "instructors": [
+          "Cao, Yingjun"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "db676cfa4db9f005bd4fc295e9df4adca15ad5bf78ff6727da09101f2f711219": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "PCYNH",
+        "room": "106",
+        "instructors": [
+          "Cao, Yingjun"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "ca0679a6a428ae3fe5f014f06378a81c6eabcfee423ff21ec197239510753ce3": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -259,15 +304,17 @@
         "time": "12:00p-12:50p",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Cao, Yingjun",
         "instructors": [
           "Cao, Yingjun"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

@@ -3,104 +3,9 @@
   "name": "First Yr Chinese/Mandarin II",
   "department": "CHIN",
   "id": "10BM",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "CENTR",
-      "room": "207",
-      "instructor": "Xu, Li",
-      "instructors": [
-        "Xu, Li"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920622",
-      "type": "TU",
-      "section": "A01",
-      "days": "MW",
-      "time": "10:00a-10:50a",
-      "building": "MCGIL",
-      "room": "2330",
-      "instructor": "Xu, Li",
-      "instructors": [
-        "Xu, Li"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920623",
-      "type": "TU",
-      "section": "A02",
-      "days": "MW",
-      "time": "12:00p-12:50p",
-      "building": "MCGIL",
-      "room": "2330",
-      "instructor": "Xu, Li",
-      "instructors": [
-        "Xu, Li"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920624",
-      "type": "TU",
-      "section": "A03",
-      "days": "MW",
-      "time": "2:00p-2:50p",
-      "building": "MCGIL",
-      "room": "2330",
-      "instructor": "Xu, Li",
-      "instructors": [
-        "Xu, Li"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A50",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Xu, Li",
-      "instructors": [
-        "Xu, Li"
-      ]
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -109,13 +14,12 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [
     {
       "sectxt": true,
@@ -126,15 +30,14 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Xu, Li",
       "instructors": [
         "Xu, Li"
       ]
     }
   ],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "c7f5629dc82997569ed0a6f5cf6e5c0cda4d38d28d031829c63ffcee5d5dae62": {
         "sectxt": true,
         "sectionID": "920622",
         "type": "TU",
@@ -143,14 +46,13 @@
         "time": "10:00a-10:50a",
         "building": "MCGIL",
         "room": "2330",
-        "instructor": "Xu, Li",
         "instructors": [
           "Xu, Li"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "944f34a0c943873d1f25007dfbdaa1ecf6140919203b9099b58082c204c2e185": {
         "sectxt": true,
         "sectionID": "920623",
         "type": "TU",
@@ -159,14 +61,13 @@
         "time": "12:00p-12:50p",
         "building": "MCGIL",
         "room": "2330",
-        "instructor": "Xu, Li",
         "instructors": [
           "Xu, Li"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "c2f15f069531212b4bb80207b0b95a85a4df0d8711956cbdd2a7324e6457c469": {
         "sectxt": true,
         "sectionID": "920624",
         "type": "TU",
@@ -175,16 +76,15 @@
         "time": "2:00p-2:50p",
         "building": "MCGIL",
         "room": "2330",
-        "instructor": "Xu, Li",
         "instructors": [
           "Xu, Li"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "979df717b14bf700ac34786e38e943c17094ef467bc27a99217c634a6e5f885f": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -193,16 +93,15 @@
         "time": "3:30p-4:50p",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Xu, Li",
         "instructors": [
           "Xu, Li"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "1b635970ea7e206d8f1e16f019fdb535039711aa64529a7d8e422f08ad252b83": {
         "sectxt": true,
         "sectionID": "920622",
         "type": "TU",
@@ -211,14 +110,13 @@
         "time": "10:00a-10:50a",
         "building": "MCGIL",
         "room": "2330",
-        "instructor": "Xu, Li",
         "instructors": [
           "Xu, Li"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "ee6608c396a8f10a51eba1932097df4db2ecadb32efb5be38469d64511063297": {
         "sectxt": true,
         "sectionID": "920623",
         "type": "TU",
@@ -227,14 +125,13 @@
         "time": "12:00p-12:50p",
         "building": "MCGIL",
         "room": "2330",
-        "instructor": "Xu, Li",
         "instructors": [
           "Xu, Li"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "d0b211a88b5ad498f03ff9da8af756c760332d22586a893a6ff1a6a1834c2039": {
         "sectxt": true,
         "sectionID": "920624",
         "type": "TU",
@@ -243,16 +140,15 @@
         "time": "2:00p-2:50p",
         "building": "MCGIL",
         "room": "2330",
-        "instructor": "Xu, Li",
         "instructors": [
           "Xu, Li"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "d9a298da955f5b893f4478e3f282466555219d3b8f66ca24bc27d90b59ce58fd": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -261,16 +157,15 @@
         "time": "3:30p-4:50p",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Xu, Li",
         "instructors": [
           "Xu, Li"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,32 +3,12 @@
   "name": "Tutor Apprentice",
   "department": "CSE",
   "id": "95",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927467",
-      "type": "PR",
-      "section": "A00",
-      "days": "W",
-      "time": "1:00p-1:50p",
-      "building": "EBU3B",
-      "room": "1202",
-      "instructor": "Gillespie, Gary N",
-      "instructors": [
-        "Gillespie, Gary N"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "b4a0583b23712dcf8e1ede0263c5d033b8d4c13f42e410e2736c82a4b330d629": {
         "sectxt": true,
         "sectionID": "927467",
         "type": "PR",
@@ -37,17 +17,15 @@
         "time": "1:00p-1:50p",
         "building": "EBU3B",
         "room": "1202",
-        "instructor": "Gillespie, Gary N",
         "instructors": [
           "Gillespie, Gary N"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

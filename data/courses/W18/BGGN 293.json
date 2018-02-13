@@ -3,32 +3,12 @@
   "name": "Scientific Writing in Biology",
   "department": "BGGN",
   "id": "293",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921656",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "1:00p-3:00p",
-      "building": "BONN",
-      "room": "2130",
-      "instructor": "Tour, Ella",
-      "instructors": [
-        "Tour, Ella"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "80d99866b946fb9afc26bfcfa23b108dbae8ab443abd1e10663da18012a6a8bb": {
         "sectxt": true,
         "sectionID": "921656",
         "type": "LE",
@@ -37,17 +17,15 @@
         "time": "1:00p-3:00p",
         "building": "BONN",
         "room": "2130",
-        "instructor": "Tour, Ella",
         "instructors": [
           "Tour, Ella"
         ],
         "start_time": "13:00",
         "end_time": "15:00"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

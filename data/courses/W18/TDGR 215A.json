@@ -3,31 +3,12 @@
   "name": "Special Topics in Dance Making",
   "department": "TDGR",
   "id": "215A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920389",
-      "type": "LA",
-      "section": "A00",
-      "days": "Tu",
-      "time": "2:00p-4:50p",
-      "building": "GH",
-      "room": "254",
-      "instructor": "Geiger, Eric",
-      "instructors": [
-        "Geiger, Eric"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "7283e963c17d8d2b5db0247dd14b0627e68963e13f0746e3550d475fcef2cc89": {
         "sectxt": true,
         "sectionID": "920389",
         "type": "LA",
@@ -36,18 +17,15 @@
         "time": "2:00p-4:50p",
         "building": "GH",
         "room": "254",
-        "instructor": "Geiger, Eric",
         "instructors": [
           "Geiger, Eric"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

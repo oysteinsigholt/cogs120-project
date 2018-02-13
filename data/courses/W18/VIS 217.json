@@ -3,33 +3,12 @@
   "name": "Communities and Subcultures",
   "department": "VIS",
   "id": "217",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922818",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "12:30p-3:20p",
-      "building": "VAF",
-      "room": "366",
-      "instructor": "Kelley, Jeff J",
-      "instructors": [
-        "Kelley, Jeff J"
-      ],
-      "start_time": "12:30",
-      "end_time": "15:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "0b167e78ffbc08ec0ca6980b6e9cc4f5d8ac3c4bc435a2b8b949232033851c32": {
         "sectxt": true,
         "sectionID": "922818",
         "type": "SE",
@@ -38,16 +17,15 @@
         "time": "12:30p-3:20p",
         "building": "VAF",
         "room": "366",
-        "instructor": "Kelley, Jeff J",
         "instructors": [
           "Kelley, Jeff J"
         ],
         "start_time": "12:30",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

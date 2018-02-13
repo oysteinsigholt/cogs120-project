@@ -3,31 +3,12 @@
   "name": "Movement for Theatre II",
   "department": "TDGR",
   "id": "223B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920394",
-      "type": "ST",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:50p",
-      "building": "GH",
-      "room": "23",
-      "instructor": "Means, Charles E.",
-      "instructors": [
-        "Means, Charles E."
-      ],
-      "start_time": "11:00",
-      "end_time": "12:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "08ffe6bec152914ca75d2df944bae659c47deb54ca41ee3ece87da37823eb108": {
         "sectxt": true,
         "sectionID": "920394",
         "type": "ST",
@@ -36,17 +17,15 @@
         "time": "11:00a-12:50p",
         "building": "GH",
         "room": "23",
-        "instructor": "Means, Charles E.",
         "instructors": [
           "Means, Charles E."
         ],
         "start_time": "11:00",
         "end_time": "12:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f3d81b02e154dc2bb1c49c2c9d94a68cee29a24f61d6c662a865b651b202b7f8": {
         "sectxt": true,
         "sectionID": "920394",
         "type": "ST",
@@ -55,16 +34,15 @@
         "time": "11:00a-12:50p",
         "building": "GH",
         "room": "23",
-        "instructor": "Means, Charles E.",
         "instructors": [
           "Means, Charles E."
         ],
         "start_time": "11:00",
         "end_time": "12:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

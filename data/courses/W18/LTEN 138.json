@@ -3,42 +3,9 @@
   "name": "British Novel: 1680-1790",
   "department": "LTEN",
   "id": "138",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924355",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Nicolazzo, Sarah E.",
-      "instructors": [
-        "Nicolazzo, Sarah E."
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "15a8fe6d45e579bbdae5236c89ccd4dee1b10690bcff52d1ac0c56bad9175914": {
         "sectxt": true,
         "sectionID": "924355",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "3:30p-4:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Nicolazzo, Sarah E.",
         "instructors": [
           "Nicolazzo, Sarah E."
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "46869fad22b5647325d785919d01d325ab29b16368a0311e0fce0da7573500ed": {
         "sectxt": true,
         "sectionID": "924355",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "3:30p-4:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Nicolazzo, Sarah E.",
         "instructors": [
           "Nicolazzo, Sarah E."
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

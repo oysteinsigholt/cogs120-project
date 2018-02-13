@@ -3,27 +3,63 @@
   "name": "Independent Study Project",
   "department": "EMED",
   "id": "299",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928418",
-      "type": "IN",
-      "section": "005",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Staff",
-      "instructors": [
-        "Staff"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "928414",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Vilke, Gary Michael"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "928415",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Castillo, Edward Michael"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "928416",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Staff"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "928417",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Staff"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "928418",
       "type": "IN",
       "section": "005",
@@ -31,19 +67,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Staff",
       "instructors": [
         "Staff"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

@@ -3,27 +3,89 @@
   "name": "Instruction in Psychology",
   "department": "PSYC",
   "id": "195",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "936512",
-      "type": "IN",
-      "section": "007",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Frederick, David A",
-      "instructors": [
-        "Frederick, David A"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "936506",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Lowe, Angela Beth"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "936507",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Geller, Emma Harlan"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "936508",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Walker, Caren Michelle"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "936509",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Gentner, Tim"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "936510",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Winward, Jennifer Laven"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "936511",
+      "type": "IN",
+      "section": "006",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hunt, Matthew James"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "936512",
       "type": "IN",
       "section": "007",
@@ -31,19 +93,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Frederick, David A",
       "instructors": [
         "Frederick, David A"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

@@ -3,35 +3,12 @@
   "name": "Studies/Perform-Winter Product",
   "department": "TDPF",
   "id": "161",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920475",
-      "type": "ST",
-      "section": "A00",
-      "days": "F",
-      "time": "12:00p-1:50p",
-      "building": "DANCE",
-      "room": "3",
-      "instructor": "Snaith, Yolande & Smith, Alison D",
-      "instructors": [
-        "Snaith, Yolande",
-        "Smith, Alison D"
-      ],
-      "start_time": "12:00",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "fcf8cb738a980d37fac08251b457c1fe1ee234b36cea3b3997e1b81d2543f238": {
         "sectxt": true,
         "sectionID": "920475",
         "type": "ST",
@@ -40,16 +17,15 @@
         "time": "12:00p-1:50p",
         "building": "DANCE",
         "room": "3",
-        "instructor": "Snaith, Yolande & Smith, Alison D",
         "instructors": [
-          "Snaith, Yolande",
-          "Smith, Alison D"
+          "Snaith, Yolande                    \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSmith, Alison D"
         ],
         "start_time": "12:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

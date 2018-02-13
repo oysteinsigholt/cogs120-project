@@ -3,24 +3,8 @@
   "name": "Independent Study",
   "department": "USP",
   "id": "99H",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922196",
-      "type": "IN",
-      "section": "001",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Pezzoli, Keith",
-      "instructors": [
-        "Pezzoli, Keith"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Pezzoli, Keith",
       "instructors": [
         "Pezzoli, Keith"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

@@ -3,34 +3,30 @@
   "name": "Freshman Seminar",
   "department": "MUS",
   "id": "87",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921804",
-      "type": "SE",
-      "section": "B00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "Tu": {
+      "f30798a48174eb423680ed8fc3366cdd0d8950e2e1b5fcd6d3e07d9b88c9fb07": {
+        "sectxt": true,
+        "sectionID": "921803",
+        "type": "SE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "6:00p-7:50p",
+        "building": "CPMC",
+        "room": "145",
+        "instructors": [
+          "Borgo, David Garcia"
+        ],
+        "start_time": "18:00",
+        "end_time": "19:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

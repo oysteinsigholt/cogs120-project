@@ -3,42 +3,9 @@
   "name": "Honors Macroeconomics A",
   "department": "ECON",
   "id": "110AH",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924069",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "2:00p-2:50p",
-      "building": "SEQUO",
-      "room": "244",
-      "instructor": "Porzio, Tommaso",
-      "instructors": [
-        "Porzio, Tommaso"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "3591f3a9008b2f3206ba0dbc9da66d799da6a6e6444b74fc18f79dccc00d1529": {
         "sectxt": true,
         "sectionID": "924069",
         "type": "LE",
@@ -67,18 +32,15 @@
         "time": "2:00p-2:50p",
         "building": "SEQUO",
         "room": "244",
-        "instructor": "Porzio, Tommaso",
         "instructors": [
           "Porzio, Tommaso"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

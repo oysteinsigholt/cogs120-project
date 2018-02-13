@@ -3,27 +3,89 @@
   "name": "Independent Study",
   "department": "MATS",
   "id": "296",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920856",
-      "type": "IN",
-      "section": "007",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Nesterenko, Vitali F",
-      "instructors": [
-        "Nesterenko, Vitali F"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "920850",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Maple, M. Brian"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920851",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Sailor, Michael Joseph"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920852",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Vecchio, Kenneth S"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920853",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Meyers, Marc"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920854",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Schuller, Ivan K"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920855",
+      "type": "IN",
+      "section": "006",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Talbot, Jan B"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "920856",
       "type": "IN",
       "section": "007",
@@ -31,19 +93,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Nesterenko, Vitali F",
       "instructors": [
         "Nesterenko, Vitali F"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

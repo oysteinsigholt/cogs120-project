@@ -3,27 +3,24 @@
   "name": "Special Studies",
   "department": "HUM",
   "id": "199",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920238",
-      "type": "IN",
-      "section": "B00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Lyon, Antony J.",
-      "instructors": [
-        "Lyon, Antony J."
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "920237",
+      "type": "IN",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Cox, Stephen D."
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "920238",
       "type": "IN",
       "section": "B00",
@@ -31,19 +28,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Lyon, Antony J.",
       "instructors": [
         "Lyon, Antony J."
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

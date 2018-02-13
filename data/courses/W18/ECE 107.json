@@ -3,74 +3,9 @@
   "name": "Electromagnetism",
   "department": "ECE",
   "id": "107",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "5:00p-6:20p",
-      "building": "WLH",
-      "room": "2111",
-      "instructor": "Kante, Boubacar",
-      "instructors": [
-        "Kante, Boubacar"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925037",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "7:00p-7:50p",
-      "building": "HSS",
-      "room": "1315",
-      "instructor": "Kante, Boubacar",
-      "instructors": [
-        "Kante, Boubacar"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925038",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "2:00p-2:50p",
-      "building": "APM",
-      "room": "2301",
-      "instructor": "Kante, Boubacar",
-      "instructors": [
-        "Kante, Boubacar"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -79,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "a946f05d2569a3ab1b97c827330ecb00cc205c612756050423c7a83dabbe600e": {
         "sectxt": true,
         "sectionID": "925037",
         "type": "DI",
@@ -98,16 +32,15 @@
         "time": "7:00p-7:50p",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Kante, Boubacar",
         "instructors": [
           "Kante, Boubacar"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "503eae0a8858b7b329809768e5967230ac8000e953deadca9a39203641302192": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -116,16 +49,15 @@
         "time": "5:00p-6:20p",
         "building": "WLH",
         "room": "2111",
-        "instructor": "Kante, Boubacar",
         "instructors": [
           "Kante, Boubacar"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "c3c9807831f73568907e6f899c12ffe0e8669a6539449dd339960e115ce7b40b": {
         "sectxt": true,
         "sectionID": "925038",
         "type": "DI",
@@ -134,16 +66,15 @@
         "time": "2:00p-2:50p",
         "building": "APM",
         "room": "2301",
-        "instructor": "Kante, Boubacar",
         "instructors": [
           "Kante, Boubacar"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "ad10dc80025b6fae88a6e6bd4b3bc62f48725a5778aa49de4dbf9e9ef718c058": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -152,16 +83,15 @@
         "time": "5:00p-6:20p",
         "building": "WLH",
         "room": "2111",
-        "instructor": "Kante, Boubacar",
         "instructors": [
           "Kante, Boubacar"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

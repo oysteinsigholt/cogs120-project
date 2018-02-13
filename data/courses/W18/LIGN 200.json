@@ -3,30 +3,12 @@
   "name": "Research Forum",
   "department": "LIGN",
   "id": "200",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922292",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "2:00p-3:50p",
-      "building": "APM",
-      "room": "4301",
-      "instructor": "Wittenberg, Eva H",
-      "instructors": [
-        "Wittenberg, Eva H"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "f507b9c39d71acd8b25846f658f1612c02d380297472f3362a2d6dafa030e922": {
         "sectxt": true,
         "sectionID": "922292",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "2:00p-3:50p",
         "building": "APM",
         "room": "4301",
-        "instructor": "Wittenberg, Eva H",
         "instructors": [
           "Wittenberg, Eva H"
         ],
         "start_time": "14:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

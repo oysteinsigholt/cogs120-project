@@ -3,42 +3,9 @@
   "name": "International Business",
   "department": "GPIM",
   "id": "470",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921719",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "RBC",
-      "room": "3201",
-      "instructor": "Lyons, Elizabeth Deirdre",
-      "instructors": [
-        "Lyons, Elizabeth Deirdre"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "9f1a5412f47dfc2874bd8b1fa9d10964b9783acb72b0ec29917ee9d0e14df699": {
         "sectxt": true,
         "sectionID": "921719",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "12:30p-1:50p",
         "building": "RBC",
         "room": "3201",
-        "instructor": "Lyons, Elizabeth Deirdre",
         "instructors": [
           "Lyons, Elizabeth Deirdre"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "a45728ed3536558315df47fb0f00324ea8e956b85f286173aee0dcba7a22e219": {
         "sectxt": true,
         "sectionID": "921719",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "12:30p-1:50p",
         "building": "RBC",
         "room": "3201",
-        "instructor": "Lyons, Elizabeth Deirdre",
         "instructors": [
           "Lyons, Elizabeth Deirdre"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

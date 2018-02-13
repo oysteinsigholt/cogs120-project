@@ -3,42 +3,9 @@
   "name": "Jazz Theory and Improvisation",
   "department": "MUS",
   "id": "137B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921936",
-      "type": "LA",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "WLH",
-      "room": "2154",
-      "instructor": "Kenyatta, Kamau",
-      "instructors": [
-        "Kenyatta, Kamau"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "cd1d62ebdb6a67d9555b8d7d26113fde3735c5a2e4062bb31182bad731d45388": {
         "sectxt": true,
         "sectionID": "921936",
         "type": "LA",
@@ -67,17 +32,15 @@
         "time": "12:30p-1:50p",
         "building": "WLH",
         "room": "2154",
-        "instructor": "Kenyatta, Kamau",
         "instructors": [
           "Kenyatta, Kamau"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "19e2bc1e89e3c4d58c34b3bbc800a6cfa69b8272a91807b5e9a31fc149858cfc": {
         "sectxt": true,
         "sectionID": "921936",
         "type": "LA",
@@ -86,16 +49,15 @@
         "time": "12:30p-1:50p",
         "building": "WLH",
         "room": "2154",
-        "instructor": "Kenyatta, Kamau",
         "instructors": [
           "Kenyatta, Kamau"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

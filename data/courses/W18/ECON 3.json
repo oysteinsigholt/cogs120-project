@@ -3,136 +3,9 @@
   "name": "Principles of Macroeconomics",
   "department": "ECON",
   "id": "3",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "12:00p-12:50p",
-      "building": "PETER",
-      "room": "110",
-      "instructor": "Ramey, Valerie A",
-      "instructors": [
-        "Ramey, Valerie A"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924024",
-      "type": "DI",
-      "section": "B01",
-      "days": "M",
-      "time": "6:00p-6:50p",
-      "building": "PETER",
-      "room": "104",
-      "instructor": "Ramey, Valerie A",
-      "instructors": [
-        "Ramey, Valerie A"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924025",
-      "type": "DI",
-      "section": "B02",
-      "days": "M",
-      "time": "7:00p-7:50p",
-      "building": "PETER",
-      "room": "104",
-      "instructor": "Ramey, Valerie A",
-      "instructors": [
-        "Ramey, Valerie A"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924026",
-      "type": "DI",
-      "section": "B03",
-      "days": "M",
-      "time": "8:00p-8:50p",
-      "building": "PETER",
-      "room": "104",
-      "instructor": "Ramey, Valerie A",
-      "instructors": [
-        "Ramey, Valerie A"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924027",
-      "type": "DI",
-      "section": "B04",
-      "days": "M",
-      "time": "9:00p-9:50p",
-      "building": "PETER",
-      "room": "104",
-      "instructor": "Ramey, Valerie A",
-      "instructors": [
-        "Ramey, Valerie A"
-      ],
-      "start_time": "21:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "01/31/2018",
-      "days": "W",
-      "time": "8:00p-9:20p",
-      "building": "PETER",
-      "room": "110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-31T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "02/21/2018",
-      "days": "W",
-      "time": "8:00p-9:20p",
-      "building": "PETER",
-      "room": "110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-21T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "53e53906900bb294c35e856534cc765962a43c57c9348fe67c7fe3f15b14abde": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -141,13 +14,12 @@
       "time": "8:00p-9:20p",
       "building": "PETER",
       "room": "110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-31T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:20"
     },
-    {
+    "6a2c7ecbed4ac697ff08a4e2b8cf350e4e0a23f2707d916aeb5a87f8550a8c33": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -156,13 +28,26 @@
       "time": "8:00p-9:20p",
       "building": "PETER",
       "room": "110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-21T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:20"
     },
-    {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -171,17 +56,31 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "8f5cd86a955748c71ed3b0524caeeb63a50a0e72fd21fc5f08d1756339b04ec5": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "PETER",
+        "room": "110",
+        "instructors": [
+          "Ramey, Valerie A"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "74565c9c0c61347b8ce87f2733cf6296cab8cdd2ce1e890300a60cf208986781": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -190,14 +89,13 @@
         "time": "12:00p-12:50p",
         "building": "PETER",
         "room": "110",
-        "instructor": "Ramey, Valerie A",
         "instructors": [
           "Ramey, Valerie A"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "cd55c2a4b54116f84401c2922d8e792d10fab29637a8cb728c52a9320eefd104": {
         "sectxt": true,
         "sectionID": "924024",
         "type": "DI",
@@ -206,14 +104,13 @@
         "time": "6:00p-6:50p",
         "building": "PETER",
         "room": "104",
-        "instructor": "Ramey, Valerie A",
         "instructors": [
           "Ramey, Valerie A"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "33c7daf65f36c62149d2220ca0970b837daecdb0695d19bc108bedc28a70dfb7": {
         "sectxt": true,
         "sectionID": "924025",
         "type": "DI",
@@ -222,14 +119,13 @@
         "time": "7:00p-7:50p",
         "building": "PETER",
         "room": "104",
-        "instructor": "Ramey, Valerie A",
         "instructors": [
           "Ramey, Valerie A"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "33f50970ef3e2c0c52a53d0312f190e02007c1d49065229b3cb6135e1b4566c4": {
         "sectxt": true,
         "sectionID": "924026",
         "type": "DI",
@@ -238,14 +134,13 @@
         "time": "8:00p-8:50p",
         "building": "PETER",
         "room": "104",
-        "instructor": "Ramey, Valerie A",
         "instructors": [
           "Ramey, Valerie A"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "7390977f2cb92604ffedb68b3f54dc96536346d607fb0af4c8496b9ceea3f207": {
         "sectxt": true,
         "sectionID": "924027",
         "type": "DI",
@@ -254,17 +149,62 @@
         "time": "9:00p-9:50p",
         "building": "PETER",
         "room": "104",
-        "instructor": "Ramey, Valerie A",
         "instructors": [
           "Ramey, Valerie A"
         ],
         "start_time": "21:00",
         "end_time": "21:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "Tu": {
+      "318cea1e5f755a5df21e947da4d91782c0f2e225a61ad9e450b1206c05588820": {
+        "sectxt": true,
+        "sectionID": "924019",
+        "type": "DI",
+        "section": "A01",
+        "days": "Tu",
+        "time": "8:00p-8:50p",
+        "building": "PCYNH",
+        "room": "122",
+        "instructors": [
+          "Ramey, Valerie A"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "94b87e6e8e0e3ed17f41c41d1d10d7a75a8108f3b10ba7f790dc76661f4f353f": {
+        "sectxt": true,
+        "sectionID": "924020",
+        "type": "DI",
+        "section": "A02",
+        "days": "Tu",
+        "time": "9:00p-9:50p",
+        "building": "PCYNH",
+        "room": "122",
+        "instructors": [
+          "Ramey, Valerie A"
+        ],
+        "start_time": "21:00",
+        "end_time": "21:50"
+      }
+    },
+    "W": {
+      "74ea09cb3d01daba039901e3d18030194c0ce47fc0bd239b573a61ed455612f9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "PETER",
+        "room": "110",
+        "instructors": [
+          "Ramey, Valerie A"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "ebd22827eabb3c1aa0b64c9aa6890f1e205e2a2026f9d1f61d888797ef761329": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -273,17 +213,62 @@
         "time": "12:00p-12:50p",
         "building": "PETER",
         "room": "110",
-        "instructor": "Ramey, Valerie A",
         "instructors": [
           "Ramey, Valerie A"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "Th": {
+      "7ff94674a880391d6416fb892685c9c314772fc2da0572f3c89ab3eec60dfce5": {
+        "sectxt": true,
+        "sectionID": "924021",
+        "type": "DI",
+        "section": "A03",
+        "days": "Th",
+        "time": "7:00p-7:50p",
+        "building": "PCYNH",
+        "room": "122",
+        "instructors": [
+          "Ramey, Valerie A"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "bb9f96e4c976ef3dc9f725b74435ab8aaf02e8d860b80b1c2f92f2c87b0b78ed": {
+        "sectxt": true,
+        "sectionID": "924022",
+        "type": "DI",
+        "section": "A04",
+        "days": "Th",
+        "time": "8:00p-8:50p",
+        "building": "PCYNH",
+        "room": "122",
+        "instructors": [
+          "Ramey, Valerie A"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      }
+    },
+    "F": {
+      "cb478914a4ec4bc4c62867dba462dc925b2849711db7c7bb7d18cd0442892921": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "PETER",
+        "room": "110",
+        "instructors": [
+          "Ramey, Valerie A"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "5b30d671bc5bbbd5286698c208fc12ffd5f70ca2538f842c45069a45ccd43990": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -292,15 +277,16 @@
         "time": "12:00p-12:50p",
         "building": "PETER",
         "room": "110",
-        "instructor": "Ramey, Valerie A",
         "instructors": [
           "Ramey, Valerie A"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

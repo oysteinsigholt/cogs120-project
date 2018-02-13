@@ -3,138 +3,23 @@
   "name": "Calculus I",
   "department": "MATH",
   "id": "10A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "4:00p-4:50p",
-      "building": "LEDDN",
-      "room": "AUD",
-      "instructor": "Quarfoot, David James",
-      "instructors": [
-        "Quarfoot, David James"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926794",
-      "type": "DI",
-      "section": "B01",
-      "days": "Th",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Quarfoot, David James",
-      "instructors": [
-        "Quarfoot, David James"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926795",
-      "type": "DI",
-      "section": "B02",
-      "days": "Th",
-      "time": "4:00p-4:50p",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Quarfoot, David James",
-      "instructors": [
-        "Quarfoot, David James"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926796",
-      "type": "DI",
-      "section": "B03",
-      "days": "Th",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Quarfoot, David James",
-      "instructors": [
-        "Quarfoot, David James"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926797",
-      "type": "DI",
-      "section": "B04",
-      "days": "Th",
-      "time": "6:00p-6:50p",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Quarfoot, David James",
-      "instructors": [
-        "Quarfoot, David James"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926798",
-      "type": "DI",
-      "section": "B05",
-      "days": "Th",
-      "time": "7:00p-7:50p",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Quarfoot, David James",
-      "instructors": [
-        "Quarfoot, David James"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926799",
-      "type": "DI",
-      "section": "B06",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "b9b4ec5af540606b238988bee0286fc3a4cc4d540b7785beb08dccae4a0227c9": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -143,17 +28,31 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "0bc129e6e61dc97d6817c5924c61d5d7c996b7c7ee1c4510193b45b64c905c72": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "PETER",
+        "room": "108",
+        "instructors": [
+          "Um, Ko Woon"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "27e76ff277a7598df5fc63577410ebd41c747b50a8bfb4bd4285fd9f0310a9aa": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -162,17 +61,30 @@
         "time": "4:00p-4:50p",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Quarfoot, David James",
         "instructors": [
           "Quarfoot, David James"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "a24b1c34899aaa03f2ed258c49f7b8e31d66672638d55b3d5fd4e75b41ce8aa5": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "PETER",
+        "room": "108",
+        "instructors": [
+          "Um, Ko Woon"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "2202faa4167e150f407b92c9e79ffd4daaaf52a73ca690ab52efbea748c2bfd5": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -181,16 +93,135 @@
         "time": "4:00p-4:50p",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Quarfoot, David James",
         "instructors": [
           "Quarfoot, David James"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "44f573f4ec8d74740b48039f9074b2117e8d1eeeba95e59d3ac25be141e8b2fc": {
+        "sectxt": true,
+        "sectionID": "926787",
+        "type": "DI",
+        "section": "A01",
+        "days": "Th",
+        "time": "7:00p-7:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Um, Ko Woon"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "42d4c98024cd994c24e165b4e3bbd09026803cbedf273e18eae79b09982008a3": {
+        "sectxt": true,
+        "sectionID": "926788",
+        "type": "DI",
+        "section": "A02",
+        "days": "Th",
+        "time": "8:00p-8:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Um, Ko Woon"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "7394c76cb7d3b8b9d34e0f983f247f895959b945f200f9e032dc8d15c34f599e": {
+        "sectxt": true,
+        "sectionID": "926789",
+        "type": "DI",
+        "section": "A03",
+        "days": "Th",
+        "time": "6:00p-6:50p",
+        "building": "CENTR",
+        "room": "217B",
+        "instructors": [
+          "Um, Ko Woon"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "5eabff3e892e1b3aa513a7b8c27e6785d368d261121cc8607726f5f52965297e": {
+        "sectxt": true,
+        "sectionID": "926790",
+        "type": "DI",
+        "section": "A04",
+        "days": "Th",
+        "time": "7:00p-7:50p",
+        "building": "CENTR",
+        "room": "217B",
+        "instructors": [
+          "Um, Ko Woon"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "54c29bf8270162bf39a8a78fac00353789cf14790dd17b94ab539ee8ed520918": {
+        "sectxt": true,
+        "sectionID": "926791",
+        "type": "DI",
+        "section": "A05",
+        "days": "Th",
+        "time": "8:00p-8:50p",
+        "building": "CENTR",
+        "room": "217B",
+        "instructors": [
+          "Um, Ko Woon"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "c8e0405cef96e7466fca61aef24dfe87a159907c86f2909116f01b58d616c52a": {
+        "sectxt": true,
+        "sectionID": "926792",
+        "type": "DI",
+        "section": "A06",
+        "days": "Th",
+        "time": "9:00p-9:50p",
+        "building": "CENTR",
+        "room": "217B",
+        "instructors": [
+          "Um, Ko Woon"
+        ],
+        "start_time": "21:00",
+        "end_time": "21:50"
+      },
+      "7a9b3e55dba45d0c053babd6894723529f4ebeae5fd082d59aebeb4ad076467d": {
+        "sectxt": true,
+        "sectionID": "929209",
+        "type": "DI",
+        "section": "A07",
+        "days": "Th",
+        "time": "7:00p-7:50p",
+        "building": "WLH",
+        "room": "2112",
+        "instructors": [
+          "Um, Ko Woon"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "13b03c650bddfdc0225bb52ea6c8ead3bcb3f75746f1678e09239da179350dd1": {
+        "sectxt": true,
+        "sectionID": "929208",
+        "type": "DI",
+        "section": "A08",
+        "days": "Th",
+        "time": "8:00p-8:50p",
+        "building": "WLH",
+        "room": "2112",
+        "instructors": [
+          "Um, Ko Woon"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "d0ff41ff364bfa12a199e6d72ae9179f7e40b7d7f3ef654c36e1f405b2d0f6cc": {
         "sectxt": true,
         "sectionID": "926794",
         "type": "DI",
@@ -199,14 +230,13 @@
         "time": "3:00p-3:50p",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Quarfoot, David James",
         "instructors": [
           "Quarfoot, David James"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "b8cc706311ccb89f236794a676ee44ea87c58a169c04eaf0b7b1cc97c61b3758": {
         "sectxt": true,
         "sectionID": "926795",
         "type": "DI",
@@ -215,14 +245,13 @@
         "time": "4:00p-4:50p",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Quarfoot, David James",
         "instructors": [
           "Quarfoot, David James"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "39b04b250f206a9ae2a72a5288683debe2a0db272a4829ea0533e983f0cf0af9": {
         "sectxt": true,
         "sectionID": "926796",
         "type": "DI",
@@ -231,14 +260,13 @@
         "time": "5:00p-5:50p",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Quarfoot, David James",
         "instructors": [
           "Quarfoot, David James"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "e0d031b06948bd7c2f9dab46e7be539b74bc076bef03a80beaac954b766f5e1a": {
         "sectxt": true,
         "sectionID": "926797",
         "type": "DI",
@@ -247,14 +275,13 @@
         "time": "6:00p-6:50p",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Quarfoot, David James",
         "instructors": [
           "Quarfoot, David James"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "eab7ce5eafe2c521ec58e8217fceb7d91ed96eeaa8a64e665a3407fd2b5f5c6c": {
         "sectxt": true,
         "sectionID": "926798",
         "type": "DI",
@@ -263,16 +290,30 @@
         "time": "7:00p-7:50p",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Quarfoot, David James",
         "instructors": [
           "Quarfoot, David James"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "5be3008a2a51c9e55489e9fa2e0a4a9f5529a85da3cde8b17730cb0e71d532aa": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "PETER",
+        "room": "108",
+        "instructors": [
+          "Um, Ko Woon"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "0382e42bf7b12cd4e0c7ad349dd7bb22439d378b1c7de3f515f672949b24521e": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -281,15 +322,16 @@
         "time": "4:00p-4:50p",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Quarfoot, David James",
         "instructors": [
           "Quarfoot, David James"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

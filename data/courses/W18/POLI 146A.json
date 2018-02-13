@@ -3,42 +3,9 @@
   "name": "US & Latin Amer:Pol&Econ Rel",
   "department": "POLI",
   "id": "146A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925319",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "6:30p-7:50p",
-      "building": "WLH",
-      "room": "2204",
-      "instructor": "Mares, David R",
-      "instructors": [
-        "Mares, David R"
-      ],
-      "start_time": "18:30",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "83f667703ee5f41443699d3c685d2af7204f58e7d0026726650a8f5259ecf403": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "8c9b413ad981fcb30edaf935c263af9b2b3c03be4d992f95e452e4d7c4daaee9": {
         "sectxt": true,
         "sectionID": "925319",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "6:30p-7:50p",
         "building": "WLH",
         "room": "2204",
-        "instructor": "Mares, David R",
         "instructors": [
           "Mares, David R"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "d0ac61e9425e86834d4c80b037ef47d65722a6c0c4389c38a6b9dd72d57a4357": {
         "sectxt": true,
         "sectionID": "925319",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "6:30p-7:50p",
         "building": "WLH",
         "room": "2204",
-        "instructor": "Mares, David R",
         "instructors": [
           "Mares, David R"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

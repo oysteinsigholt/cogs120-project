@@ -3,89 +3,9 @@
   "name": "Game Theory",
   "department": "ECON",
   "id": "109",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "8:00a-9:20a",
-      "building": "CENTR",
-      "room": "105",
-      "instructor": "Watson, Joel Christopher",
-      "instructors": [
-        "Watson, Joel Christopher"
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924060",
-      "type": "DI",
-      "section": "A01",
-      "days": "F",
-      "time": "6:00p-6:50p",
-      "building": "WLH",
-      "room": "2204",
-      "instructor": "Watson, Joel Christopher",
-      "instructors": [
-        "Watson, Joel Christopher"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924061",
-      "type": "DI",
-      "section": "A02",
-      "days": "F",
-      "time": "7:00p-7:50p",
-      "building": "WLH",
-      "room": "2204",
-      "instructor": "Watson, Joel Christopher",
-      "instructors": [
-        "Watson, Joel Christopher"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/03/2018",
-      "days": "S",
-      "time": "5:00p-6:20p",
-      "building": "PETER",
-      "room": "110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-03T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "ca86f37552a97efe3f1b27a92a3e60c344a807e0a0bdf433ee8fe40ca3ae0e15": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -94,13 +14,12 @@
       "time": "5:00p-6:20p",
       "building": "PETER",
       "room": "110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-03T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "18:20"
     },
-    {
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -109,18 +28,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "e465ded450a51855ecac87097b7a25f20ad1b32d4d66efd5a69c690a29911893": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -129,17 +46,15 @@
         "time": "8:00a-9:20a",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Watson, Joel Christopher",
         "instructors": [
           "Watson, Joel Christopher"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8545ab0c79c23ec92792f48a8a4e9c983955e31d9ddad421339a098929d3ab17": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -148,16 +63,15 @@
         "time": "8:00a-9:20a",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Watson, Joel Christopher",
         "instructors": [
           "Watson, Joel Christopher"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "edf7233cda68c2c39ee4dc77998df3a91f881bc7bd0d24ec415a3e20ee47996b": {
         "sectxt": true,
         "sectionID": "924060",
         "type": "DI",
@@ -166,14 +80,13 @@
         "time": "6:00p-6:50p",
         "building": "WLH",
         "room": "2204",
-        "instructor": "Watson, Joel Christopher",
         "instructors": [
           "Watson, Joel Christopher"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "d152386877440c49698d32d4e85cb648f74467b5fc47543c2f08e6a42346a70d": {
         "sectxt": true,
         "sectionID": "924061",
         "type": "DI",
@@ -182,15 +95,15 @@
         "time": "7:00p-7:50p",
         "building": "WLH",
         "room": "2204",
-        "instructor": "Watson, Joel Christopher",
         "instructors": [
           "Watson, Joel Christopher"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,42 +3,9 @@
   "name": "Negotiation",
   "department": "MGT",
   "id": "162",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929997",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "2:00p-4:20p",
-      "building": "OTRSN",
-      "room": "1S114",
-      "instructor": "Baca, Katherine Marie",
-      "instructors": [
-        "Baca, Katherine Marie"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "d0a2062937d08305b7ee978b70fcd0dad0bef561c0d39c3af1860aa1b715921e": {
         "sectxt": true,
         "sectionID": "929997",
         "type": "LE",
@@ -66,19 +32,15 @@
         "time": "2:00p-4:20p",
         "building": "OTRSN",
         "room": "1S114",
-        "instructor": "Baca, Katherine Marie",
         "instructors": [
           "Baca, Katherine Marie"
         ],
         "start_time": "14:00",
         "end_time": "16:20"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

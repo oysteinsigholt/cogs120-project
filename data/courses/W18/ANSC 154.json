@@ -3,42 +3,9 @@
   "name": "Gender and Religion",
   "department": "ANSC",
   "id": "154",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923507",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "12:00p-2:50p",
-      "building": "SSB",
-      "room": "269",
-      "instructor": "Brenner, Suzanne A",
-      "instructors": [
-        "Brenner, Suzanne A"
-      ],
-      "start_time": "12:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "4c022b8cfcecaac14d1bcb29c7e961278e483e5b2cae22f1aef99a44ecb5c48e": {
         "sectxt": true,
         "sectionID": "923507",
         "type": "LE",
@@ -66,19 +32,15 @@
         "time": "12:00p-2:50p",
         "building": "SSB",
         "room": "269",
-        "instructor": "Brenner, Suzanne A",
         "instructors": [
           "Brenner, Suzanne A"
         ],
         "start_time": "12:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

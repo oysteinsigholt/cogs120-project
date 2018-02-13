@@ -3,32 +3,12 @@
   "name": "Literature & Society Studies",
   "department": "LTSP",
   "id": "272",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924374",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "2:00p-4:50p",
-      "building": "LIT",
-      "room": "437",
-      "instructor": "Chacon, Gloria Elizabeth",
-      "instructors": [
-        "Chacon, Gloria Elizabeth"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "c71c43ae9bf8e41744a90b88ceb02e71800713281859acf738baaedcd59677f4": {
         "sectxt": true,
         "sectionID": "924374",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "2:00p-4:50p",
         "building": "LIT",
         "room": "437",
-        "instructor": "Chacon, Gloria Elizabeth",
         "instructors": [
           "Chacon, Gloria Elizabeth"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

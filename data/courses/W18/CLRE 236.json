@@ -3,42 +3,9 @@
   "name": "TranslationalResrchFundamntals",
   "department": "CLRE",
   "id": "236",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929386",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "2:00p-4:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Mehta, Ravindra L.",
-      "instructors": [
-        "Mehta, Ravindra L."
-      ],
-      "start_time": "14:00",
-      "end_time": "16:00"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "55c17693db750bffe371959f80d992110bf4975b2023c90ce98b79b0e155ff48": {
         "sectxt": true,
         "sectionID": "929386",
         "type": "LE",
@@ -67,18 +32,15 @@
         "time": "2:00p-4:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Mehta, Ravindra L.",
         "instructors": [
           "Mehta, Ravindra L."
         ],
         "start_time": "14:00",
         "end_time": "16:00"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

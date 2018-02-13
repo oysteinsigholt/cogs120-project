@@ -3,48 +3,8 @@
   "name": "Renal System I",
   "department": "SOMC",
   "id": "225",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928659",
-      "type": "LE",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Laiken, Nora D.",
-      "instructors": [
-        "Laiken, Nora D."
-      ]
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "SE",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": []
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A50",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": []
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -55,7 +15,6 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Laiken, Nora D.",
       "instructors": [
         "Laiken, Nora D."
       ]
@@ -69,7 +28,6 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": []
     },
     {
@@ -81,17 +39,9 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": []
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

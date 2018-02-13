@@ -3,30 +3,12 @@
   "name": "Workshop in Applied Economics",
   "department": "ECON",
   "id": "235B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924132",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "2:00p-3:20p",
-      "building": "ECON",
-      "room": "300",
-      "instructor": "Clemens, Jeffrey",
-      "instructors": [
-        "Clemens, Jeffrey"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "b7550bf103262c106ab14995583d221c79faa06db481fb2c1f5b595c5a459116": {
         "sectxt": true,
         "sectionID": "924132",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "2:00p-3:20p",
         "building": "ECON",
         "room": "300",
-        "instructor": "Clemens, Jeffrey",
         "instructors": [
           "Clemens, Jeffrey"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

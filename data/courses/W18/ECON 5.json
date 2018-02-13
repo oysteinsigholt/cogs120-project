@@ -3,106 +3,9 @@
   "name": "Data Analytics/Social Sciences",
   "department": "ECON",
   "id": "5",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "12:00p-12:50p",
-      "building": "SOLIS",
-      "room": "104",
-      "instructor": "Xu, Yiqing",
-      "instructors": [
-        "Xu, Yiqing"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924030",
-      "type": "LA",
-      "section": "A01",
-      "days": "F",
-      "time": "11:00a-11:50a",
-      "building": "ECON",
-      "room": "100",
-      "instructor": "Xu, Yiqing",
-      "instructors": [
-        "Xu, Yiqing"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924031",
-      "type": "LA",
-      "section": "A02",
-      "days": "F",
-      "time": "12:00p-12:50p",
-      "building": "ECON",
-      "room": "100",
-      "instructor": "Xu, Yiqing",
-      "instructors": [
-        "Xu, Yiqing"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924033",
-      "type": "LA",
-      "section": "A03",
-      "days": "Th",
-      "time": "4:00p-4:50p",
-      "building": "SEQUO",
-      "room": "142",
-      "instructor": "Xu, Yiqing",
-      "instructors": [
-        "Xu, Yiqing"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924034",
-      "type": "LA",
-      "section": "A04",
-      "days": "Th",
-      "time": "5:00p-5:50p",
-      "building": "SEQUO",
-      "room": "142",
-      "instructor": "Xu, Yiqing",
-      "instructors": [
-        "Xu, Yiqing"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -111,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "0bc129e6e61dc97d6817c5924c61d5d7c996b7c7ee1c4510193b45b64c905c72": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -130,17 +32,15 @@
         "time": "12:00p-12:50p",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "Xu, Yiqing",
         "instructors": [
           "Xu, Yiqing"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "a24b1c34899aaa03f2ed258c49f7b8e31d66672638d55b3d5fd4e75b41ce8aa5": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -149,16 +49,15 @@
         "time": "12:00p-12:50p",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "Xu, Yiqing",
         "instructors": [
           "Xu, Yiqing"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8bcea99f29a4f72113828f52501322dd05332aed5a35878f5d23288acb6f9fff": {
         "sectxt": true,
         "sectionID": "924033",
         "type": "LA",
@@ -167,14 +66,13 @@
         "time": "4:00p-4:50p",
         "building": "SEQUO",
         "room": "142",
-        "instructor": "Xu, Yiqing",
         "instructors": [
           "Xu, Yiqing"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "3afc8ef3ce3595966762bfaabb9b36a8e0683ea3ad7b8b005286699a8ded9205": {
         "sectxt": true,
         "sectionID": "924034",
         "type": "LA",
@@ -183,16 +81,15 @@
         "time": "5:00p-5:50p",
         "building": "SEQUO",
         "room": "142",
-        "instructor": "Xu, Yiqing",
         "instructors": [
           "Xu, Yiqing"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "6ca4a00441504f426059c0e76931618cd61d76c97c16dbaa72fca37ded2e2f96": {
         "sectxt": true,
         "sectionID": "924030",
         "type": "LA",
@@ -201,14 +98,13 @@
         "time": "11:00a-11:50a",
         "building": "ECON",
         "room": "100",
-        "instructor": "Xu, Yiqing",
         "instructors": [
           "Xu, Yiqing"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "916e5b79b2b76254b7ab3016604d4e1c4c65eaf5ff774c110b60db380d802105": {
         "sectxt": true,
         "sectionID": "924031",
         "type": "LA",
@@ -217,15 +113,15 @@
         "time": "12:00p-12:50p",
         "building": "ECON",
         "room": "100",
-        "instructor": "Xu, Yiqing",
         "instructors": [
           "Xu, Yiqing"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,27 +3,24 @@
   "name": "Independent Study",
   "department": "JAPN",
   "id": "199",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "939722",
-      "type": "IN",
-      "section": "002",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Miyao, Daisuke",
-      "instructors": [
-        "Miyao, Daisuke"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "939442",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Turner, Christena L."
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "939722",
       "type": "IN",
       "section": "002",
@@ -31,19 +28,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Miyao, Daisuke",
       "instructors": [
         "Miyao, Daisuke"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

@@ -3,43 +3,9 @@
   "name": "Intro Climate Science & Policy",
   "department": "SIOC",
   "id": "292",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921984",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "6:00p-8:50p",
-      "building": "NIERN",
-      "room": "101",
-      "instructor": "Conway, Erik Meade & Ricke, Katharine L",
-      "instructors": [
-        "Conway, Erik Meade",
-        "Ricke, Katharine L"
-      ],
-      "start_time": "18:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "83f667703ee5f41443699d3c685d2af7204f58e7d0026726650a8f5259ecf403": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -48,18 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "2cfb7c00440da4a3279395573ccc9fdf25cf23931f1eb1f05758c8902e890d95": {
         "sectxt": true,
         "sectionID": "921984",
         "type": "LE",
@@ -68,19 +32,15 @@
         "time": "6:00p-8:50p",
         "building": "NIERN",
         "room": "101",
-        "instructor": "Conway, Erik Meade & Ricke, Katharine L",
         "instructors": [
-          "Conway, Erik Meade",
-          "Ricke, Katharine L"
+          "Conway, Erik Meade                 \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRicke, Katharine L"
         ],
         "start_time": "18:00",
         "end_time": "20:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

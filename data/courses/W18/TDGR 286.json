@@ -3,32 +3,12 @@
   "name": "Spec Topics/Stage Management",
   "department": "TDGR",
   "id": "286",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920425",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "1:00p-3:50p",
-      "building": "GH",
-      "room": "144",
-      "instructor": "Porter, Lisa",
-      "instructors": [
-        "Porter, Lisa"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "9ad1aa69d788be21e519be72de0170170522d77ef50fe321f6413dc666d35163": {
         "sectxt": true,
         "sectionID": "920425",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "1:00p-3:50p",
         "building": "GH",
         "room": "144",
-        "instructor": "Porter, Lisa",
         "instructors": [
           "Porter, Lisa"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

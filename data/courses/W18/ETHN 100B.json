@@ -3,31 +3,12 @@
   "name": "InterdisciplinaryMethodologies",
   "department": "ETHN",
   "id": "100B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922674",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Marez, Curtis F.",
-      "instructors": [
-        "Marez, Curtis F."
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "8c878872feea29393ef776581b038157e6680666abb32b3637977b3e341b4acb": {
         "sectxt": true,
         "sectionID": "922674",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "11:00a-12:20p",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Marez, Curtis F.",
         "instructors": [
           "Marez, Curtis F."
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "a4bc65f3a0b93d3dad45f7e4bc828fd6a42850070dc874c6c0d46fffc8899d1b": {
         "sectxt": true,
         "sectionID": "922674",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "11:00a-12:20p",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Marez, Curtis F.",
         "instructors": [
           "Marez, Curtis F."
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

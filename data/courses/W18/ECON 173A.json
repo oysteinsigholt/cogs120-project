@@ -3,89 +3,9 @@
   "name": "Financial Markets",
   "department": "ECON",
   "id": "173A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "8:00a-8:50a",
-      "building": "CENTR",
-      "room": "115",
-      "instructor": "O, Mun Pyung",
-      "instructors": [
-        "O, Mun Pyung"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924116",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "8:00p-8:50p",
-      "building": "HSS",
-      "room": "1330",
-      "instructor": "O, Mun Pyung",
-      "instructors": [
-        "O, Mun Pyung"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924117",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "9:00p-9:50p",
-      "building": "HSS",
-      "room": "1330",
-      "instructor": "O, Mun Pyung",
-      "instructors": [
-        "O, Mun Pyung"
-      ],
-      "start_time": "21:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/29/2018",
-      "days": "M",
-      "time": "8:00p-9:50p",
-      "building": "CENTR",
-      "room": "113",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-29T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "aa404b1d9c80e5cd333b751cf45f0a9067214173c95f3b4c5057f5dc2055f266": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -94,13 +14,12 @@
       "time": "8:00p-9:50p",
       "building": "CENTR",
       "room": "113",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-29T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "99084e85dcbf5c5064e8677480f27cc1eb8ff5538061a54d6a1f44628193757c": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -109,17 +28,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "4ec817ccdc88e3e0dc29eddfa2b87654757697262afdf15326e4d0d4d98658ca": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -128,17 +46,15 @@
         "time": "8:00a-8:50a",
         "building": "CENTR",
         "room": "115",
-        "instructor": "O, Mun Pyung",
         "instructors": [
           "O, Mun Pyung"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "970c4cf3c48a9d2f246a192e6758c8f9b57a8863dca3783380839aec16d4f52b": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -147,14 +63,13 @@
         "time": "8:00a-8:50a",
         "building": "CENTR",
         "room": "115",
-        "instructor": "O, Mun Pyung",
         "instructors": [
           "O, Mun Pyung"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "4b61c48dd4eb5ca15da3137cf4f24a96670e8743a5159b26c055174b31af39cd": {
         "sectxt": true,
         "sectionID": "924116",
         "type": "DI",
@@ -163,14 +78,13 @@
         "time": "8:00p-8:50p",
         "building": "HSS",
         "room": "1330",
-        "instructor": "O, Mun Pyung",
         "instructors": [
           "O, Mun Pyung"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "c85daf9f6e44dd3149c0672e0e9c371abc1b4c18a8883092b4d2112cbc990b1d": {
         "sectxt": true,
         "sectionID": "924117",
         "type": "DI",
@@ -179,17 +93,15 @@
         "time": "9:00p-9:50p",
         "building": "HSS",
         "room": "1330",
-        "instructor": "O, Mun Pyung",
         "instructors": [
           "O, Mun Pyung"
         ],
         "start_time": "21:00",
         "end_time": "21:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "0fa53a4e71d75b330d5dce8797d8f3400a4bb91d601337836c51d9290c9239bc": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -198,15 +110,15 @@
         "time": "8:00a-8:50a",
         "building": "CENTR",
         "room": "115",
-        "instructor": "O, Mun Pyung",
         "instructors": [
           "O, Mun Pyung"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

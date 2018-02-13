@@ -3,33 +3,12 @@
   "name": "Sem/Communication&Info Resrch",
   "department": "PSYC",
   "id": "280",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924690",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "11:00a-12:20p",
-      "building": "MNDLR",
-      "room": "3545",
-      "instructor": "Ferreira, Victor",
-      "instructors": [
-        "Ferreira, Victor"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "6723d4d7932d4fd8478a6aff19d3f83bfc55046ff151a965619aa546ea8e6fa7": {
         "sectxt": true,
         "sectionID": "924690",
         "type": "SE",
@@ -38,16 +17,15 @@
         "time": "11:00a-12:20p",
         "building": "MNDLR",
         "room": "3545",
-        "instructor": "Ferreira, Victor",
         "instructors": [
           "Ferreira, Victor"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

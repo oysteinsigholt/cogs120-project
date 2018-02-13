@@ -3,34 +3,79 @@
   "name": "Special Topics/Ethnic Studies",
   "department": "ETHN",
   "id": "189",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922640",
-      "type": "SE",
-      "section": "B00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "M": {
+      "381a4ce50c70774a5d58a2addf2776bb07dc1f0c3c8d9470a0f35e32c36981d0": {
+        "sectxt": true,
+        "sectionID": "922639",
+        "type": "SE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "WLH",
+        "room": "2114",
+        "instructors": [
+          "Hidalgo, Melissa Martha"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    },
+    "W": {
+      "c4b6490f9178eac82fa13263ea55d34428d48962280ef1e50895f08ab2788f40": {
+        "sectxt": true,
+        "sectionID": "922639",
+        "type": "SE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "WLH",
+        "room": "2114",
+        "instructors": [
+          "Hidalgo, Melissa Martha"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    },
+    "F": {
+      "64fc7c9f9fb29709298b7bd80d41365599781130a2106dbed18da49171c5f2af": {
+        "sectxt": true,
+        "sectionID": "922639",
+        "type": "SE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "WLH",
+        "room": "2114",
+        "instructors": [
+          "Hidalgo, Melissa Martha"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

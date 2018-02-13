@@ -3,42 +3,9 @@
   "name": "Genres/English&American Lit",
   "department": "LTEN",
   "id": "148",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924357",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "CENTR",
-      "room": "205",
-      "instructor": "Walkiewicz, Kathryn A",
-      "instructors": [
-        "Walkiewicz, Kathryn A"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "fe70d09b912b317370d51bdf387b20646183a3930d935fefd3974532474ba894": {
         "sectxt": true,
         "sectionID": "924357",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "205",
-        "instructor": "Walkiewicz, Kathryn A",
         "instructors": [
           "Walkiewicz, Kathryn A"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "50b6adfc707c520dedab47fd160b69f278ae16d789e94348a9fd79f664c5929a": {
         "sectxt": true,
         "sectionID": "924357",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "205",
-        "instructor": "Walkiewicz, Kathryn A",
         "instructors": [
           "Walkiewicz, Kathryn A"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "430a56a69d79f42f0966776305bf174dce79643aabe6588dc50663dd190d1dcc": {
         "sectxt": true,
         "sectionID": "924357",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "205",
-        "instructor": "Walkiewicz, Kathryn A",
         "instructors": [
           "Walkiewicz, Kathryn A"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

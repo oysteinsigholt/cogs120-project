@@ -3,34 +3,77 @@
   "name": "Independent Study",
   "department": "ANTH",
   "id": "199",
-  "timeslots": [
+  "notes": [],
+  "events_single": {},
+  "events_unknown": [
     {
       "sectxt": true,
-      "sectionID": "939611",
+      "sectionID": "930693",
       "type": "TU",
-      "section": "006",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
       "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
+        "Saravia, Paula F"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "935689",
+      "type": "TU",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Goldstein, Paul S"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "935941",
+      "type": "TU",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Postero, Nancy Grey"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "937238",
+      "type": "TU",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Non, Amy L"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "937892",
+      "type": "TU",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "D'Alpoim Guedes, Jade A"
+      ]
     }
   ],
-  "notes": [],
-  "events_single": [],
-  "events_unknown": [],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": [
+    "0"
+  ]
 }

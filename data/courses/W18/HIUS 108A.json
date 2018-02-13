@@ -3,42 +3,9 @@
   "name": "History/Native Americans/US I",
   "department": "HIUS",
   "id": "108A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924585",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "222",
-      "instructor": "Klann, Mary Cameron",
-      "instructors": [
-        "Klann, Mary Cameron"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "694724641ff985f806f1896057b84863e72a65539de57a30906be5e53dd59ccf": {
         "sectxt": true,
         "sectionID": "924585",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "222",
-        "instructor": "Klann, Mary Cameron",
         "instructors": [
           "Klann, Mary Cameron"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "00907c9c9298b6386dee6bb2aa6e503ff7bbeeae1cfee969a27882004648962d": {
         "sectxt": true,
         "sectionID": "924585",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "222",
-        "instructor": "Klann, Mary Cameron",
         "instructors": [
           "Klann, Mary Cameron"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "335af2037f7737ef25b33fa6f20cf8bc8091436df8b9f00ea13b6c4488d47ff5": {
         "sectxt": true,
         "sectionID": "924585",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "222",
-        "instructor": "Klann, Mary Cameron",
         "instructors": [
           "Klann, Mary Cameron"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

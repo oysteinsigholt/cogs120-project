@@ -3,90 +3,23 @@
   "name": "Intro/Math Statistics I",
   "department": "MATH",
   "id": "181A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "Politis, Dimitris",
-      "instructors": [
-        "Politis, Dimitris"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927235",
-      "type": "DI",
-      "section": "B01",
-      "days": "Th",
-      "time": "4:00p-4:50p",
-      "building": "APM",
-      "room": "B402A",
-      "instructor": "Politis, Dimitris",
-      "instructors": [
-        "Politis, Dimitris"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927236",
-      "type": "DI",
-      "section": "B02",
-      "days": "Th",
-      "time": "5:00p-5:50p",
-      "building": "APM",
-      "room": "B402A",
-      "instructor": "Politis, Dimitris",
-      "instructors": [
-        "Politis, Dimitris"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "933061",
-      "type": "DI",
-      "section": "B03",
-      "days": "Th",
-      "time": "8:00p-8:50p",
-      "building": "APM",
-      "room": "6402",
-      "instructor": "Politis, Dimitris",
-      "instructors": [
-        "Politis, Dimitris"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -95,17 +28,31 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1866918a9e827ca2246c3cdc0800ca8cab9d14fcb63d242959828782dc5e03cc": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "214",
+        "instructors": [
+          "Zhang, Danna"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "7b590151cd28db772cb5f38ee83595f178c8f3cb089eb9bf525519f33a482289": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -114,17 +61,90 @@
         "time": "11:00a-11:50a",
         "building": "CSB",
         "room": "002",
-        "instructor": "Politis, Dimitris",
         "instructors": [
           "Politis, Dimitris"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "664fb1192c899ad420c384f1035679fd9aa443bbe17868a3444009b2ce9ed2d0": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "214",
+        "instructors": [
+          "Zhang, Danna"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "72abdf4cc0aa37b168275ec27ba88e04391e8de3312156bd33f4985b004facd6": {
+        "sectxt": true,
+        "sectionID": "927232",
+        "type": "DI",
+        "section": "A01",
+        "days": "W",
+        "time": "7:00p-7:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Zhang, Danna"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "07b5c1f2699390c55d9e287c40eb16f5d84e82ea2a93bf6904475b9e783fd7db": {
+        "sectxt": true,
+        "sectionID": "927233",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "8:00p-8:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Zhang, Danna"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "08b5ed0d7c1edd2ebd0a3e8b6dc7cae3d68e9365b31189244d134ceb064e1a6f": {
+        "sectxt": true,
+        "sectionID": "930648",
+        "type": "DI",
+        "section": "A03",
+        "days": "W",
+        "time": "7:00p-7:50p",
+        "building": "APM",
+        "room": "5402",
+        "instructors": [
+          "Zhang, Danna"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "02b40c139e6305c3f69f3e3df2e6426ee6559a6e873432d12d3346435de98f15": {
+        "sectxt": true,
+        "sectionID": "930649",
+        "type": "DI",
+        "section": "A04",
+        "days": "W",
+        "time": "8:00p-8:50p",
+        "building": "APM",
+        "room": "B412",
+        "instructors": [
+          "Zhang, Danna"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "346e9d97d27f467115ca4e2e6de0756325a93bb7f40c6a9873a7fede3f635bf6": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -133,16 +153,15 @@
         "time": "11:00a-11:50a",
         "building": "CSB",
         "room": "002",
-        "instructor": "Politis, Dimitris",
         "instructors": [
           "Politis, Dimitris"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "871b03c4f90ec2c1ca3ac0769cc794cfa3972771b23f430764e2960caac694dc": {
         "sectxt": true,
         "sectionID": "927235",
         "type": "DI",
@@ -151,14 +170,13 @@
         "time": "4:00p-4:50p",
         "building": "APM",
         "room": "B402A",
-        "instructor": "Politis, Dimitris",
         "instructors": [
           "Politis, Dimitris"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "21625a49f0e7a796f25f0126db26845945722c441f4cfcb7899bc536738f4420": {
         "sectxt": true,
         "sectionID": "927236",
         "type": "DI",
@@ -167,14 +185,13 @@
         "time": "5:00p-5:50p",
         "building": "APM",
         "room": "B402A",
-        "instructor": "Politis, Dimitris",
         "instructors": [
           "Politis, Dimitris"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "8615e05a60b548c4c6699772abce7cea709d798090d9017246355f782cbd0d44": {
         "sectxt": true,
         "sectionID": "933061",
         "type": "DI",
@@ -183,16 +200,30 @@
         "time": "8:00p-8:50p",
         "building": "APM",
         "room": "6402",
-        "instructor": "Politis, Dimitris",
         "instructors": [
           "Politis, Dimitris"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "e0c71401fe619db626c079241f95ffbc9af299dc6dba6b446063c58d72b82533": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "214",
+        "instructors": [
+          "Zhang, Danna"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "db676cfa4db9f005bd4fc295e9df4adca15ad5bf78ff6727da09101f2f711219": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -201,15 +232,16 @@
         "time": "11:00a-11:50a",
         "building": "CSB",
         "room": "002",
-        "instructor": "Politis, Dimitris",
         "instructors": [
           "Politis, Dimitris"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

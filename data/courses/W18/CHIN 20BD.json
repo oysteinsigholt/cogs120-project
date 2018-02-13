@@ -3,90 +3,9 @@
   "name": "Second Yr Chinese-Dialect SpII",
   "department": "CHIN",
   "id": "20BD",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "CENTR",
-      "room": "207",
-      "instructor": "Wang, Xiao",
-      "instructors": [
-        "Wang, Xiao"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920642",
-      "type": "TU",
-      "section": "A01",
-      "days": "MW",
-      "time": "10:00a-10:50a",
-      "building": "CENTR",
-      "room": "202",
-      "instructor": "Wang, Xiao",
-      "instructors": [
-        "Wang, Xiao"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920643",
-      "type": "TU",
-      "section": "A02",
-      "days": "MW",
-      "time": "11:00a-11:50a",
-      "building": "CENTR",
-      "room": "224A",
-      "instructor": "Wang, Xiao",
-      "instructors": [
-        "Wang, Xiao"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920644",
-      "type": "TU",
-      "section": "A03",
-      "days": "MW",
-      "time": "2:00p-2:50p",
-      "building": "MCGIL",
-      "room": "2342",
-      "instructor": "Wang, Xiao",
-      "instructors": [
-        "Wang, Xiao"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -95,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "b575af6c1079038999f4c0d631a5f0956d10e44bfff232583882397a5daf9395": {
         "sectxt": true,
         "sectionID": "920642",
         "type": "TU",
@@ -114,14 +32,13 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "202",
-        "instructor": "Wang, Xiao",
         "instructors": [
           "Wang, Xiao"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "2add4cd456eca976f1c59dc61e6b6dd2e51ae0de7656c77442f5f27087c34109": {
         "sectxt": true,
         "sectionID": "920643",
         "type": "TU",
@@ -130,14 +47,13 @@
         "time": "11:00a-11:50a",
         "building": "CENTR",
         "room": "224A",
-        "instructor": "Wang, Xiao",
         "instructors": [
           "Wang, Xiao"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "45c4e7477c557b145368d553634bf72b47080042d91034c567a6a38be0a8a3c5": {
         "sectxt": true,
         "sectionID": "920644",
         "type": "TU",
@@ -146,16 +62,15 @@
         "time": "2:00p-2:50p",
         "building": "MCGIL",
         "room": "2342",
-        "instructor": "Wang, Xiao",
         "instructors": [
           "Wang, Xiao"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "8987b7af87d847c623f8d9e86e86f1d582c28de0cd3bc163ae563b429ae225f9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -164,16 +79,15 @@
         "time": "2:00p-3:20p",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Wang, Xiao",
         "instructors": [
           "Wang, Xiao"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "4de3585ec4ffd340f4d58a5cf739d26a544ba6bb524354221ef31deaffadcddd": {
         "sectxt": true,
         "sectionID": "920642",
         "type": "TU",
@@ -182,14 +96,13 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "202",
-        "instructor": "Wang, Xiao",
         "instructors": [
           "Wang, Xiao"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "cb298723cdd2540eca115172e9b1633e734b33e65c3a9030f22ce83b788e4432": {
         "sectxt": true,
         "sectionID": "920643",
         "type": "TU",
@@ -198,14 +111,13 @@
         "time": "11:00a-11:50a",
         "building": "CENTR",
         "room": "224A",
-        "instructor": "Wang, Xiao",
         "instructors": [
           "Wang, Xiao"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "fdfe6b42dd95eea4b099ead9f1e8cd510d42892a1609c751213f17b355be7951": {
         "sectxt": true,
         "sectionID": "920644",
         "type": "TU",
@@ -214,16 +126,15 @@
         "time": "2:00p-2:50p",
         "building": "MCGIL",
         "room": "2342",
-        "instructor": "Wang, Xiao",
         "instructors": [
           "Wang, Xiao"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "126816888d61f914f97a4cf223b36ae2f29f5df8aa68f3942a0e9370bddbed90": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -232,16 +143,15 @@
         "time": "2:00p-3:20p",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Wang, Xiao",
         "instructors": [
           "Wang, Xiao"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

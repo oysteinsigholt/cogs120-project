@@ -3,32 +3,12 @@
   "name": "Honors Studies in Anthropology",
   "department": "ANTH",
   "id": "196B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923532",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "11:00a-1:50p",
-      "building": "SSB",
-      "room": "269",
-      "instructor": "Semendeferi, Ekaterini",
-      "instructors": [
-        "Semendeferi, Ekaterini"
-      ],
-      "start_time": "11:00",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "cbfaed3f662bd3e83c0653cba26adf5fc8a8c98b80e2e544de4a07a6a2d738d0": {
         "sectxt": true,
         "sectionID": "923532",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "11:00a-1:50p",
         "building": "SSB",
         "room": "269",
-        "instructor": "Semendeferi, Ekaterini",
         "instructors": [
           "Semendeferi, Ekaterini"
         ],
         "start_time": "11:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

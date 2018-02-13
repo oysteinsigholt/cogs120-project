@@ -3,58 +3,9 @@
   "name": "Applications of Phylogenetics",
   "department": "SIO",
   "id": "147",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "12:30p-1:50p",
-      "building": "ECKRT",
-      "room": "236",
-      "instructor": "Rouse, Gregory W.",
-      "instructors": [
-        "Rouse, Gregory W."
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921075",
-      "type": "LA",
-      "section": "A01",
-      "days": "MW",
-      "time": "2:00p-5:50p",
-      "building": "ECKRT",
-      "room": "225",
-      "instructor": "Rouse, Gregory W.",
-      "instructors": [
-        "Rouse, Gregory W."
-      ],
-      "start_time": "14:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "77a90d7a8864ca19fd9b8963b8c321ba412d20b52100d010e9805af3b2d06f08": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -82,14 +32,13 @@
         "time": "12:30p-1:50p",
         "building": "ECKRT",
         "room": "236",
-        "instructor": "Rouse, Gregory W.",
         "instructors": [
           "Rouse, Gregory W."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       },
-      {
+      "2221675f0ec3d59eb8b8c4cf824be4ac254bdd6304079ae881314be2d8955cc9": {
         "sectxt": true,
         "sectionID": "921075",
         "type": "LA",
@@ -98,17 +47,15 @@
         "time": "2:00p-5:50p",
         "building": "ECKRT",
         "room": "225",
-        "instructor": "Rouse, Gregory W.",
         "instructors": [
           "Rouse, Gregory W."
         ],
         "start_time": "14:00",
         "end_time": "17:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "f8ad585298e7b342895c254554dd0fa501d6feea536e74d6146ebcf55fb31294": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -117,14 +64,13 @@
         "time": "12:30p-1:50p",
         "building": "ECKRT",
         "room": "236",
-        "instructor": "Rouse, Gregory W.",
         "instructors": [
           "Rouse, Gregory W."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       },
-      {
+      "5c81aa728024338e4ce386da01f4b665c06635186b8f02f023f9ac0a9207496f": {
         "sectxt": true,
         "sectionID": "921075",
         "type": "LA",
@@ -133,17 +79,15 @@
         "time": "2:00p-5:50p",
         "building": "ECKRT",
         "room": "225",
-        "instructor": "Rouse, Gregory W.",
         "instructors": [
           "Rouse, Gregory W."
         ],
         "start_time": "14:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

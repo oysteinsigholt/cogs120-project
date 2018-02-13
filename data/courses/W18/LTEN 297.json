@@ -3,27 +3,24 @@
   "name": "Directed Studies:Readng Course",
   "department": "LTEN",
   "id": "297",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "939694",
-      "type": "IN",
-      "section": "002",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Sanchez, Rosaura",
-      "instructors": [
-        "Sanchez, Rosaura"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "930453",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Vitkus, Daniel J."
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "939694",
       "type": "IN",
       "section": "002",
@@ -31,19 +28,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Sanchez, Rosaura",
       "instructors": [
         "Sanchez, Rosaura"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

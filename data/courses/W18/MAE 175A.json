@@ -3,138 +3,9 @@
   "name": "Aerospace Engineering Lab",
   "department": "MAE",
   "id": "175A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "5:00p-6:50p",
-      "building": "CSB",
-      "room": "001",
-      "instructor": "de Callafon, Raymond A",
-      "instructors": [
-        "de Callafon, Raymond A"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922935",
-      "type": "LA",
-      "section": "A01",
-      "days": "Tu",
-      "time": "9:00a-11:50a",
-      "building": "EBU2",
-      "room": "121",
-      "instructor": "de Callafon, Raymond A",
-      "instructors": [
-        "de Callafon, Raymond A"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922936",
-      "type": "LA",
-      "section": "A02",
-      "days": "Tu",
-      "time": "12:30p-3:20p",
-      "building": "EBU2",
-      "room": "121",
-      "instructor": "de Callafon, Raymond A",
-      "instructors": [
-        "de Callafon, Raymond A"
-      ],
-      "start_time": "12:30",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922937",
-      "type": "LA",
-      "section": "A03",
-      "days": "W",
-      "time": "9:00a-11:50a",
-      "building": "EBU2",
-      "room": "121",
-      "instructor": "de Callafon, Raymond A",
-      "instructors": [
-        "de Callafon, Raymond A"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922938",
-      "type": "LA",
-      "section": "A04",
-      "days": "Th",
-      "time": "9:00a-11:50a",
-      "building": "EBU2",
-      "room": "121",
-      "instructor": "de Callafon, Raymond A",
-      "instructors": [
-        "de Callafon, Raymond A"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922939",
-      "type": "LA",
-      "section": "A05",
-      "days": "Th",
-      "time": "12:30p-3:20p",
-      "building": "EBU2",
-      "room": "121",
-      "instructor": "de Callafon, Raymond A",
-      "instructors": [
-        "de Callafon, Raymond A"
-      ],
-      "start_time": "12:30",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922940",
-      "type": "LA",
-      "section": "A06",
-      "days": "F",
-      "time": "9:00a-11:50a",
-      "building": "EBU2",
-      "room": "121",
-      "instructor": "de Callafon, Raymond A",
-      "instructors": [
-        "de Callafon, Raymond A"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -143,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "de54d94559ffb14cc4959822bf6c7ac02d7fad63f781b2c11e6f682632d3ee48": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -162,16 +32,15 @@
         "time": "5:00p-6:50p",
         "building": "CSB",
         "room": "001",
-        "instructor": "de Callafon, Raymond A",
         "instructors": [
           "de Callafon, Raymond A"
         ],
         "start_time": "17:00",
         "end_time": "18:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "7db4ce4212ab77f4e5ddb078a5f391450d22d8cfae614279a8b994304e79ce6a": {
         "sectxt": true,
         "sectionID": "922935",
         "type": "LA",
@@ -180,14 +49,13 @@
         "time": "9:00a-11:50a",
         "building": "EBU2",
         "room": "121",
-        "instructor": "de Callafon, Raymond A",
         "instructors": [
           "de Callafon, Raymond A"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       },
-      {
+      "bc80b0851ae08f0517c63c026cfd1bde83c5dc0883c10c3ccb2582f081c62f69": {
         "sectxt": true,
         "sectionID": "922936",
         "type": "LA",
@@ -196,16 +64,15 @@
         "time": "12:30p-3:20p",
         "building": "EBU2",
         "room": "121",
-        "instructor": "de Callafon, Raymond A",
         "instructors": [
           "de Callafon, Raymond A"
         ],
         "start_time": "12:30",
         "end_time": "15:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "05df8e734fb2688a54093596c9b85ae0f33b77ca00975a23b4c54d992fde18fe": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -214,14 +81,13 @@
         "time": "5:00p-6:50p",
         "building": "CSB",
         "room": "001",
-        "instructor": "de Callafon, Raymond A",
         "instructors": [
           "de Callafon, Raymond A"
         ],
         "start_time": "17:00",
         "end_time": "18:50"
       },
-      {
+      "d83632d5d9803db55fde268ef487d6698601d1b5b98414c2303aab81f2662408": {
         "sectxt": true,
         "sectionID": "922937",
         "type": "LA",
@@ -230,16 +96,15 @@
         "time": "9:00a-11:50a",
         "building": "EBU2",
         "room": "121",
-        "instructor": "de Callafon, Raymond A",
         "instructors": [
           "de Callafon, Raymond A"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "0d65dd0729456246a92780fbab7fc4ff082b14c959aee81a4d0d97fcaa01c75e": {
         "sectxt": true,
         "sectionID": "922938",
         "type": "LA",
@@ -248,14 +113,13 @@
         "time": "9:00a-11:50a",
         "building": "EBU2",
         "room": "121",
-        "instructor": "de Callafon, Raymond A",
         "instructors": [
           "de Callafon, Raymond A"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       },
-      {
+      "d8cc359a1cca32318f7c804261467a6986a10b9a94120c81bf29f00ee3550037": {
         "sectxt": true,
         "sectionID": "922939",
         "type": "LA",
@@ -264,16 +128,15 @@
         "time": "12:30p-3:20p",
         "building": "EBU2",
         "room": "121",
-        "instructor": "de Callafon, Raymond A",
         "instructors": [
           "de Callafon, Raymond A"
         ],
         "start_time": "12:30",
         "end_time": "15:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "f0fe752b6f415854eef8fbb0760d6d2b8bd06b60cdc1329a7418a51e5f1a67a1": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -282,14 +145,13 @@
         "time": "5:00p-6:50p",
         "building": "CSB",
         "room": "001",
-        "instructor": "de Callafon, Raymond A",
         "instructors": [
           "de Callafon, Raymond A"
         ],
         "start_time": "17:00",
         "end_time": "18:50"
       },
-      {
+      "45b9468d6feb6d40a4d29829bdf7c03f793913d2e994f628a2bff020ac62c48b": {
         "sectxt": true,
         "sectionID": "922940",
         "type": "LA",
@@ -298,15 +160,15 @@
         "time": "9:00a-11:50a",
         "building": "EBU2",
         "room": "121",
-        "instructor": "de Callafon, Raymond A",
         "instructors": [
           "de Callafon, Raymond A"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

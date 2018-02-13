@@ -3,30 +3,12 @@
   "name": "Precep/Pediatric Gastroenterol",
   "department": "PEDS",
   "id": "245",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930462",
-      "type": "CL",
-      "section": "A00",
-      "days": "MTuTh",
-      "time": "1:00p-5:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Yu, Elizabeth Louise",
-      "instructors": [
-        "Yu, Elizabeth Louise"
-      ],
-      "start_time": "13:00",
-      "end_time": "17:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "55399ccd6746de213a5f1aafe77949b771f4b0238a00bbaf66bf14967e97c45f": {
         "sectxt": true,
         "sectionID": "930462",
         "type": "CL",
@@ -35,16 +17,15 @@
         "time": "1:00p-5:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Yu, Elizabeth Louise",
         "instructors": [
           "Yu, Elizabeth Louise"
         ],
         "start_time": "13:00",
         "end_time": "17:00"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "f98c90f1046d1b63556ae018514d99c749abc4a9ae6b5f607369601b3e6efb24": {
         "sectxt": true,
         "sectionID": "930462",
         "type": "CL",
@@ -53,17 +34,15 @@
         "time": "1:00p-5:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Yu, Elizabeth Louise",
         "instructors": [
           "Yu, Elizabeth Louise"
         ],
         "start_time": "13:00",
         "end_time": "17:00"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "dca6b0be5cccf78577abcf876c3aa45732b8cc81b96d389c5fb3e06496d33c70": {
         "sectxt": true,
         "sectionID": "930462",
         "type": "CL",
@@ -72,16 +51,15 @@
         "time": "1:00p-5:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Yu, Elizabeth Louise",
         "instructors": [
           "Yu, Elizabeth Louise"
         ],
         "start_time": "13:00",
         "end_time": "17:00"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

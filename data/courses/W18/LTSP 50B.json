@@ -3,42 +3,9 @@
   "name": "Readings/Latin Amer Literature",
   "department": "LTSP",
   "id": "50B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920138",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "CENTR",
-      "room": "205",
-      "instructor": "Pita, Beatrice M",
-      "instructors": [
-        "Pita, Beatrice M"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/17/2018",
-      "days": "S",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-17T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "0661b43854330255f61ff5ff8c407b79408893f3aaadf48fc64ce3ecaa664ec7": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-17T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "854707ea74b529ebaa3b5407cc454897d2bc4ecdcaea56ff61a4e094c5534f5a": {
         "sectxt": true,
         "sectionID": "920138",
         "type": "LE",
@@ -66,17 +32,30 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "205",
-        "instructor": "Pita, Beatrice M",
         "instructors": [
           "Pita, Beatrice M"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
+      },
+      "4c6b2f6fe6765cd27e30348c110b631be4cf6671b438b7c118178b7933f1032d": {
+        "sectxt": true,
+        "sectionID": "920137",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "205",
+        "instructors": [
+          "Pita, Beatrice M"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "ba8d77b236618992451b6962f70546f45aba223d6c5e5f958b057c3bd6ebda0a": {
         "sectxt": true,
         "sectionID": "920138",
         "type": "LE",
@@ -85,17 +64,30 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "205",
-        "instructor": "Pita, Beatrice M",
         "instructors": [
           "Pita, Beatrice M"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
+      },
+      "da349a9de186b9a6d74138fee04ac4fd90934caadfb2a248a9373dc9ee7a751b": {
+        "sectxt": true,
+        "sectionID": "920137",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "205",
+        "instructors": [
+          "Pita, Beatrice M"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "87a19c2be8df30c9a48879862a6c204009fa5cb9874e5adb5a3d05b29328d90e": {
         "sectxt": true,
         "sectionID": "920138",
         "type": "LE",
@@ -104,15 +96,31 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "205",
-        "instructor": "Pita, Beatrice M",
         "instructors": [
           "Pita, Beatrice M"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
+      },
+      "e181147f1214375747ee6510c20061a5dac130edc8cb2276b875dc2f6af930f6": {
+        "sectxt": true,
+        "sectionID": "920137",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "205",
+        "instructors": [
+          "Pita, Beatrice M"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "B",
+    "A"
+  ]
 }

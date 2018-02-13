@@ -3,106 +3,9 @@
   "name": "Quantitative Computer Skills",
   "department": "MAE",
   "id": "5",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "8:00a-9:20a",
-      "building": "CENTR",
-      "room": "222",
-      "instructor": "Gibson, Carl H.",
-      "instructors": [
-        "Gibson, Carl H."
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922824",
-      "type": "LA",
-      "section": "A01",
-      "days": "Tu",
-      "time": "9:30a-11:20a",
-      "building": "EBU2",
-      "room": "205",
-      "instructor": "Gibson, Carl H.",
-      "instructors": [
-        "Gibson, Carl H."
-      ],
-      "start_time": "9:30",
-      "end_time": "11:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922825",
-      "type": "LA",
-      "section": "A02",
-      "days": "W",
-      "time": "10:00a-11:50a",
-      "building": "EBU2",
-      "room": "205",
-      "instructor": "Gibson, Carl H.",
-      "instructors": [
-        "Gibson, Carl H."
-      ],
-      "start_time": "10:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922826",
-      "type": "LA",
-      "section": "A03",
-      "days": "W",
-      "time": "1:00p-2:50p",
-      "building": "EBU2",
-      "room": "205",
-      "instructor": "Gibson, Carl H.",
-      "instructors": [
-        "Gibson, Carl H."
-      ],
-      "start_time": "13:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922827",
-      "type": "LA",
-      "section": "A04",
-      "days": "Th",
-      "time": "2:00p-3:50p",
-      "building": "EBU2",
-      "room": "205",
-      "instructor": "Gibson, Carl H.",
-      "instructors": [
-        "Gibson, Carl H."
-      ],
-      "start_time": "14:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -111,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "e465ded450a51855ecac87097b7a25f20ad1b32d4d66efd5a69c690a29911893": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -131,14 +32,13 @@
         "time": "8:00a-9:20a",
         "building": "CENTR",
         "room": "222",
-        "instructor": "Gibson, Carl H.",
         "instructors": [
           "Gibson, Carl H."
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       },
-      {
+      "e3105700e813295fcf28ab0a22f219d5dcc89511692fe0a25142b3bac6fa52a1": {
         "sectxt": true,
         "sectionID": "922824",
         "type": "LA",
@@ -147,16 +47,15 @@
         "time": "9:30a-11:20a",
         "building": "EBU2",
         "room": "205",
-        "instructor": "Gibson, Carl H.",
         "instructors": [
           "Gibson, Carl H."
         ],
         "start_time": "9:30",
         "end_time": "11:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "d82dfab6851c8dbd3fb63954a57e6c3d9b09faaefd1cd9ed45ee54596b715139": {
         "sectxt": true,
         "sectionID": "922825",
         "type": "LA",
@@ -165,14 +64,13 @@
         "time": "10:00a-11:50a",
         "building": "EBU2",
         "room": "205",
-        "instructor": "Gibson, Carl H.",
         "instructors": [
           "Gibson, Carl H."
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       },
-      {
+      "576ed352475ac30a454c6daf0791cdb326ae827ce84a190ab7c7202753204ae4": {
         "sectxt": true,
         "sectionID": "922826",
         "type": "LA",
@@ -181,16 +79,15 @@
         "time": "1:00p-2:50p",
         "building": "EBU2",
         "room": "205",
-        "instructor": "Gibson, Carl H.",
         "instructors": [
           "Gibson, Carl H."
         ],
         "start_time": "13:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8545ab0c79c23ec92792f48a8a4e9c983955e31d9ddad421339a098929d3ab17": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -199,14 +96,13 @@
         "time": "8:00a-9:20a",
         "building": "CENTR",
         "room": "222",
-        "instructor": "Gibson, Carl H.",
         "instructors": [
           "Gibson, Carl H."
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       },
-      {
+      "265d6718071d4202f859ab774da44e3db2ad8744db9e185fba3f4a6a76b3e6e4": {
         "sectxt": true,
         "sectionID": "922827",
         "type": "LA",
@@ -215,16 +111,15 @@
         "time": "2:00p-3:50p",
         "building": "EBU2",
         "room": "205",
-        "instructor": "Gibson, Carl H.",
         "instructors": [
           "Gibson, Carl H."
         ],
         "start_time": "14:00",
         "end_time": "15:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

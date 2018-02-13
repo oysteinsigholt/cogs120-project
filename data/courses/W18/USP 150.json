@@ -3,42 +3,9 @@
   "name": "Real Estate/Law & Regulation",
   "department": "USP",
   "id": "150",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929318",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "WLH",
-      "room": "2112",
-      "instructor": "Yetwin, Richard Mark",
-      "instructors": [
-        "Yetwin, Richard Mark"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "05725fa3f70f70bcfed9efd761c2f6982daf74438e5dcf46e1b4ed7e4cf57ee4": {
         "sectxt": true,
         "sectionID": "929318",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "12:30p-1:50p",
         "building": "WLH",
         "room": "2112",
-        "instructor": "Yetwin, Richard Mark",
         "instructors": [
           "Yetwin, Richard Mark"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "c7e62f907935385f2d3683fcbdf67074fd76a5d37ec12e1325fb700974d79b1e": {
         "sectxt": true,
         "sectionID": "929318",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "12:30p-1:50p",
         "building": "WLH",
         "room": "2112",
-        "instructor": "Yetwin, Richard Mark",
         "instructors": [
           "Yetwin, Richard Mark"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

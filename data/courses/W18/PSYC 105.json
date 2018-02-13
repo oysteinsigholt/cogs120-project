@@ -3,42 +3,9 @@
   "name": "Cognitive Psychology",
   "department": "PSYC",
   "id": "105",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924613",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "5:00p-7:50p",
-      "building": "PETER",
-      "room": "110",
-      "instructor": "Brady, Timothy Francis",
-      "instructors": [
-        "Brady, Timothy Francis"
-      ],
-      "start_time": "17:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "25ad43d7ce157c4301d487c7095b14eb1280905dfba20ac76c3d9bbe791a1c9b": {
         "sectxt": true,
         "sectionID": "924613",
         "type": "LE",
@@ -67,18 +32,15 @@
         "time": "5:00p-7:50p",
         "building": "PETER",
         "room": "110",
-        "instructor": "Brady, Timothy Francis",
         "instructors": [
           "Brady, Timothy Francis"
         ],
         "start_time": "17:00",
         "end_time": "19:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

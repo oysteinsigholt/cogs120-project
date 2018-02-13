@@ -3,24 +3,8 @@
   "name": "Cross-Cultural Clerkship",
   "department": "FPM",
   "id": "433",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928445",
-      "type": "CL",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Simon, Harold J.",
-      "instructors": [
-        "Simon, Harold J."
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Simon, Harold J.",
       "instructors": [
         "Simon, Harold J."
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

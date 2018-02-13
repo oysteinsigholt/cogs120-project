@@ -3,24 +3,8 @@
   "name": "Directed Group Study",
   "department": "FMPH",
   "id": "198",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "935997",
-      "type": "IN",
-      "section": "004",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Pratt, Michael",
-      "instructors": [
-        "Pratt, Michael"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,50 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Pratt, Michael",
       "instructors": [
         "Pratt, Michael"
       ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930490",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Wilkinson, Lesley Denise"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930495",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Marquez, Becky"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "935993",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Anderson, Cheryl Ann Marie"
+      ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

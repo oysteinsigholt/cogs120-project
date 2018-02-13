@@ -3,136 +3,39 @@
   "name": "Microeconomics C",
   "department": "ECON",
   "id": "100C",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "3:00p-3:50p",
-      "building": "PCYNH",
-      "room": "106",
-      "instructor": "Sinitsyn, Maxim",
-      "instructors": [
-        "Sinitsyn, Maxim"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924056",
-      "type": "DI",
-      "section": "B01",
-      "days": "Tu",
-      "time": "8:00p-8:50p",
-      "building": "CENTR",
-      "room": "216",
-      "instructor": "Sinitsyn, Maxim",
-      "instructors": [
-        "Sinitsyn, Maxim"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924057",
-      "type": "DI",
-      "section": "B02",
-      "days": "Tu",
-      "time": "9:00p-9:50p",
-      "building": "CENTR",
-      "room": "216",
-      "instructor": "Sinitsyn, Maxim",
-      "instructors": [
-        "Sinitsyn, Maxim"
-      ],
-      "start_time": "21:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "02/02/2018",
-      "days": "F",
-      "time": "8:00p-8:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-02T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "03/05/2018",
-      "days": "M",
-      "time": "8:00p-8:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-05T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [
     "Midterm exams for ECONC B00 will meet in same location\n as ECONC A00."
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "5d6cb7229c083f3c3fbde69a3bf5b3704534f9bf7a8c5c1c1d97e78e08363140": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
       "section": "02/02/2018",
       "days": "F",
       "time": "8:00p-8:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
+      "building": "GH",
+      "room": "242",
       "instructors": [],
       "date": "2018-02-02T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "20:50"
     },
-    {
+    "1417946869207ceca5cd9b3301eca458d12bb5a985f5f1cfe91b19cc5fb94031": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
       "section": "03/05/2018",
       "days": "M",
       "time": "8:00p-8:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
+      "building": "GH",
+      "room": "242",
       "instructors": [],
       "date": "2018-03-05T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "20:50"
     },
-    {
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -141,17 +44,30 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
+    },
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "469cdc09b5101b407eb89da7b06b01cccacb7dd0ccd3576cdf3d9b6b3109367f": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -160,16 +76,30 @@
         "time": "3:00p-3:50p",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Sinitsyn, Maxim",
         "instructors": [
           "Sinitsyn, Maxim"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
+      },
+      "6721ec3568dcd8f8a49712a671b801dfee4ddaabbc63506c0e935ab456b7dffd": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "PCYNH",
+        "room": "106",
+        "instructors": [
+          "Sinitsyn, Maxim"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "39abce3929bbb69a34270c1889612529b44e2fab1fb4c0dc0d1c31f2eaf82a83": {
         "sectxt": true,
         "sectionID": "924056",
         "type": "DI",
@@ -178,14 +108,13 @@
         "time": "8:00p-8:50p",
         "building": "CENTR",
         "room": "216",
-        "instructor": "Sinitsyn, Maxim",
         "instructors": [
           "Sinitsyn, Maxim"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "e0b1af80b3cd216701ecc17dc331feeed14e4732bf69516faa453876cd00b740": {
         "sectxt": true,
         "sectionID": "924057",
         "type": "DI",
@@ -194,16 +123,15 @@
         "time": "9:00p-9:50p",
         "building": "CENTR",
         "room": "216",
-        "instructor": "Sinitsyn, Maxim",
         "instructors": [
           "Sinitsyn, Maxim"
         ],
         "start_time": "21:00",
         "end_time": "21:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "30bd40d2384ee804446ac89095ee6c906544884b5cc86afef9b74e9c527cfaaf": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -212,17 +140,62 @@
         "time": "3:00p-3:50p",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Sinitsyn, Maxim",
         "instructors": [
           "Sinitsyn, Maxim"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
+      },
+      "03db29512c920154c8251b4bab8a52a294794a0af7dbbc2424d2ef4b9cb7ee87": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "PCYNH",
+        "room": "106",
+        "instructors": [
+          "Sinitsyn, Maxim"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "Th": {
+      "dfc4a9c0e2c17d70a86533bd722c472a9d5c1059a5d46a9b201290dfec009f5d": {
+        "sectxt": true,
+        "sectionID": "924053",
+        "type": "DI",
+        "section": "A01",
+        "days": "Th",
+        "time": "8:00p-8:50p",
+        "building": "CENTR",
+        "room": "216",
+        "instructors": [
+          "Sinitsyn, Maxim"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "2e4592c0646cc8e6c82fe911e6161b3517cdea4f0bb02e8cbcebf0cd9551f622": {
+        "sectxt": true,
+        "sectionID": "924054",
+        "type": "DI",
+        "section": "A02",
+        "days": "Th",
+        "time": "9:00p-9:50p",
+        "building": "CENTR",
+        "room": "216",
+        "instructors": [
+          "Sinitsyn, Maxim"
+        ],
+        "start_time": "21:00",
+        "end_time": "21:50"
+      }
+    },
+    "F": {
+      "6be16414718c35f2cb6b96403951c306a4fa08109672727e72828be512a90fa7": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -231,15 +204,31 @@
         "time": "3:00p-3:50p",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Sinitsyn, Maxim",
         "instructors": [
           "Sinitsyn, Maxim"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
+      },
+      "d279da4a3d7ccd6f447b5cb8f0bddd178e11c77d67d14b93ba22188196cebe12": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "PCYNH",
+        "room": "106",
+        "instructors": [
+          "Sinitsyn, Maxim"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "B",
+    "A"
+  ]
 }

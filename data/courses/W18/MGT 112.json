@@ -3,42 +3,51 @@
   "name": "Global Business Strategy",
   "department": "MGT",
   "id": "112",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929953",
-      "type": "LE",
-      "section": "E00",
-      "days": "Th",
-      "time": "5:00p-7:50p",
-      "building": "OTRSN",
-      "room": "1S113",
-      "instructor": "Somasundaram, Tyagarajan",
-      "instructors": [
-        "Somasundaram, Tyagarajan"
-      ],
-      "start_time": "17:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    },
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,20 +56,127 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "M": {
+      "b5a423ecbb70b2e0aff2a809879ae5ceda52213dac3144d6511627dc62e731a8": {
+        "sectxt": true,
+        "sectionID": "922578",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "12:30p-1:50p",
+        "building": "WFH",
+        "room": "1N108",
+        "instructors": [
+          "Fuller, Robert L."
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "1cc6795d542178768aaa82938307895d52e9654ed8d9af045333b34c1ff21e94": {
+        "sectxt": true,
+        "sectionID": "922579",
+        "type": "LE",
+        "section": "B00",
+        "days": "MW",
+        "time": "3:30p-4:50p",
+        "building": "WFH",
+        "room": "1N108",
+        "instructors": [
+          "Fuller, Robert L."
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "ddc5d6ccf94a72b0fc37c734f8c33acf030370bdfa50a3275e0f0fe4674ec0af": {
+        "sectxt": true,
+        "sectionID": "922580",
+        "type": "LE",
+        "section": "C00",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "WFH",
+        "room": "1N108",
+        "instructors": [
+          "Fuller, Robert L."
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    },
+    "Tu": {
+      "67dd52580c3216910e242288f57101660f655a3ad1cce6197e127f90543d684d": {
+        "sectxt": true,
+        "sectionID": "929952",
+        "type": "LE",
+        "section": "D00",
+        "days": "Tu",
+        "time": "5:00p-7:50p",
+        "building": "OTRSN",
+        "room": "1S113",
+        "instructors": [
+          "Somasundaram, Tyagarajan"
+        ],
+        "start_time": "17:00",
+        "end_time": "19:50"
+      }
+    },
+    "W": {
+      "e7555c01a12af9b2fbf731a5043dc6ae461f9ff4796bc0cef946a3b648fc963d": {
+        "sectxt": true,
+        "sectionID": "922578",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "12:30p-1:50p",
+        "building": "WFH",
+        "room": "1N108",
+        "instructors": [
+          "Fuller, Robert L."
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "9bec0ad69f354d102478f4db67234dd64d3fbc30e410108500aa16ac602ddbfb": {
+        "sectxt": true,
+        "sectionID": "922579",
+        "type": "LE",
+        "section": "B00",
+        "days": "MW",
+        "time": "3:30p-4:50p",
+        "building": "WFH",
+        "room": "1N108",
+        "instructors": [
+          "Fuller, Robert L."
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "41aa913061f17d5182e0037d65edc50dce2dbc9afcfa14d983ced7fe81fd6498": {
+        "sectxt": true,
+        "sectionID": "922580",
+        "type": "LE",
+        "section": "C00",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "WFH",
+        "room": "1N108",
+        "instructors": [
+          "Fuller, Robert L."
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    },
+    "Th": {
+      "c887b6a74cfbf5987fa8effeb80854122d92b2458f890b76dd9c34ae4b51d631": {
         "sectxt": true,
         "sectionID": "929953",
         "type": "LE",
@@ -69,16 +185,19 @@
         "time": "5:00p-7:50p",
         "building": "OTRSN",
         "room": "1S113",
-        "instructor": "Somasundaram, Tyagarajan",
         "instructors": [
           "Somasundaram, Tyagarajan"
         ],
         "start_time": "17:00",
         "end_time": "19:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ]
 }

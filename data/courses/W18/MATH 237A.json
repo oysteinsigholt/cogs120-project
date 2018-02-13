@@ -3,42 +3,9 @@
   "name": "Topics in Diff Equations",
   "department": "MATH",
   "id": "237A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927291",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "APM",
-      "room": "5402",
-      "instructor": "Zlatos, Andrej",
-      "instructors": [
-        "Zlatos, Andrej"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "9bf1c04242123b290c9a7a4ee92d233daaa3ed17de61266f71485d2b14bcc3cb": {
         "sectxt": true,
         "sectionID": "927291",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "2:00p-3:20p",
         "building": "APM",
         "room": "5402",
-        "instructor": "Zlatos, Andrej",
         "instructors": [
           "Zlatos, Andrej"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "5537311885987b0fcd75dbc2cd12e7b4f3df67df8620901b8a25159c67959c79": {
         "sectxt": true,
         "sectionID": "927291",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "2:00p-3:20p",
         "building": "APM",
         "room": "5402",
-        "instructor": "Zlatos, Andrej",
         "instructors": [
           "Zlatos, Andrej"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

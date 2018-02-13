@@ -3,138 +3,9 @@
   "name": "Introduction to Analog Design",
   "department": "ECE",
   "id": "35",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "8:00a-8:50a",
-      "building": "CENTR",
-      "room": "214",
-      "instructor": "Ford, Joseph Earl",
-      "instructors": [
-        "Ford, Joseph Earl"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A01",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "CENTR",
-      "room": "214",
-      "instructor": "Ford, Joseph Earl",
-      "instructors": [
-        "Ford, Joseph Earl"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924995",
-      "type": "LA",
-      "section": "A50",
-      "days": "M",
-      "time": "12:00p-3:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Ford, Joseph Earl",
-      "instructors": [
-        "Ford, Joseph Earl"
-      ],
-      "start_time": "12:00",
-      "end_time": "15:00"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924996",
-      "type": "LA",
-      "section": "A51",
-      "days": "M",
-      "time": "3:30p-6:30p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Ford, Joseph Earl",
-      "instructors": [
-        "Ford, Joseph Earl"
-      ],
-      "start_time": "15:30",
-      "end_time": "18:30"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924997",
-      "type": "LA",
-      "section": "A52",
-      "days": "Tu",
-      "time": "7:00p-10:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Ford, Joseph Earl",
-      "instructors": [
-        "Ford, Joseph Earl"
-      ],
-      "start_time": "19:00",
-      "end_time": "22:00"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924998",
-      "type": "LA",
-      "section": "A53",
-      "days": "W",
-      "time": "3:30p-6:30p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Ford, Joseph Earl",
-      "instructors": [
-        "Ford, Joseph Earl"
-      ],
-      "start_time": "15:30",
-      "end_time": "18:30"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924999",
-      "type": "LA",
-      "section": "A54",
-      "days": "W",
-      "time": "7:00p-10:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Ford, Joseph Earl",
-      "instructors": [
-        "Ford, Joseph Earl"
-      ],
-      "start_time": "19:00",
-      "end_time": "22:00"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "99084e85dcbf5c5064e8677480f27cc1eb8ff5538061a54d6a1f44628193757c": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -143,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "4ec817ccdc88e3e0dc29eddfa2b87654757697262afdf15326e4d0d4d98658ca": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -162,14 +32,13 @@
         "time": "8:00a-8:50a",
         "building": "CENTR",
         "room": "214",
-        "instructor": "Ford, Joseph Earl",
         "instructors": [
           "Ford, Joseph Earl"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "c6f3137141edc010039a5db6af55097cc032432ab867ab16ee8bae26454b9137": {
         "sectxt": true,
         "sectionID": "924995",
         "type": "LA",
@@ -178,14 +47,13 @@
         "time": "12:00p-3:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Ford, Joseph Earl",
         "instructors": [
           "Ford, Joseph Earl"
         ],
         "start_time": "12:00",
         "end_time": "15:00"
       },
-      {
+      "e0d559c403ef4d89a1a86adffb53f4abc78dad557ffaf664af24632e3ff2f4d9": {
         "sectxt": true,
         "sectionID": "924996",
         "type": "LA",
@@ -194,16 +62,15 @@
         "time": "3:30p-6:30p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Ford, Joseph Earl",
         "instructors": [
           "Ford, Joseph Earl"
         ],
         "start_time": "15:30",
         "end_time": "18:30"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "aa1ccd41673e00aa5663191cd3fdf1dbd76d3c75b220de61cad169880f6d0cc8": {
         "sectxt": true,
         "sectionID": "924997",
         "type": "LA",
@@ -212,16 +79,15 @@
         "time": "7:00p-10:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Ford, Joseph Earl",
         "instructors": [
           "Ford, Joseph Earl"
         ],
         "start_time": "19:00",
         "end_time": "22:00"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "970c4cf3c48a9d2f246a192e6758c8f9b57a8863dca3783380839aec16d4f52b": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -230,14 +96,13 @@
         "time": "8:00a-8:50a",
         "building": "CENTR",
         "room": "214",
-        "instructor": "Ford, Joseph Earl",
         "instructors": [
           "Ford, Joseph Earl"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "77c15c40b4080bf246513ce9a35ca85a0dcb11ffa73408c7c0c5835120705c20": {
         "sectxt": true,
         "sectionID": "924998",
         "type": "LA",
@@ -246,14 +111,13 @@
         "time": "3:30p-6:30p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Ford, Joseph Earl",
         "instructors": [
           "Ford, Joseph Earl"
         ],
         "start_time": "15:30",
         "end_time": "18:30"
       },
-      {
+      "46e7a90a2dc22ab47af3d917281d4398228f3629cc5b7c8ef2d6415e1466ef6f": {
         "sectxt": true,
         "sectionID": "924999",
         "type": "LA",
@@ -262,17 +126,15 @@
         "time": "7:00p-10:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Ford, Joseph Earl",
         "instructors": [
           "Ford, Joseph Earl"
         ],
         "start_time": "19:00",
         "end_time": "22:00"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "0fa53a4e71d75b330d5dce8797d8f3400a4bb91d601337836c51d9290c9239bc": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -281,14 +143,13 @@
         "time": "8:00a-8:50a",
         "building": "CENTR",
         "room": "214",
-        "instructor": "Ford, Joseph Earl",
         "instructors": [
           "Ford, Joseph Earl"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "92bf86e99396dbba4dad7b49afeb9cd5d45bdc48064a787137662af25febb255": {
         "sectxt": true,
         "sectionID": "",
         "type": "DI",
@@ -297,15 +158,15 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "214",
-        "instructor": "Ford, Joseph Earl",
         "instructors": [
           "Ford, Joseph Earl"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

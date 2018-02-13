@@ -3,31 +3,12 @@
   "name": "Working Critique",
   "department": "VIS",
   "id": "203",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "939367",
-      "type": "SE",
-      "section": "B00",
-      "days": "Tu",
-      "time": "11:30a-2:20p",
-      "building": "VAF",
-      "room": "366",
-      "instructor": "Mangolte, Babette",
-      "instructors": [
-        "Mangolte, Babette"
-      ],
-      "start_time": "11:30",
-      "end_time": "14:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "30c60cfd74cff83218e27c3d7606c3881c731eec500d7e513a159f95b01c3f0f": {
         "sectxt": true,
         "sectionID": "939367",
         "type": "SE",
@@ -36,18 +17,16 @@
         "time": "11:30a-2:20p",
         "building": "VAF",
         "room": "366",
-        "instructor": "Mangolte, Babette",
         "instructors": [
           "Mangolte, Babette"
         ],
         "start_time": "11:30",
         "end_time": "14:20"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

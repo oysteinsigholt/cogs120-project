@@ -3,192 +3,9 @@
   "name": "Mechanics",
   "department": "PHYS",
   "id": "1A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923644",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "YORK",
-      "room": "2622",
-      "instructor": "Tsai, Philbert S",
-      "instructors": [
-        "Tsai, Philbert S"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/09/2018",
-      "days": "Tu",
-      "time": "8:00p-9:50p",
-      "building": "MANDE",
-      "room": "B-210",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-09T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/16/2018",
-      "days": "Tu",
-      "time": "8:00p-9:50p",
-      "building": "MANDE",
-      "room": "B-210",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-16T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/23/2018",
-      "days": "Tu",
-      "time": "8:00p-9:50p",
-      "building": "MANDE",
-      "room": "B-210",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-23T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/30/2018",
-      "days": "Tu",
-      "time": "8:00p-9:50p",
-      "building": "MANDE",
-      "room": "B-210",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-30T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/06/2018",
-      "days": "Tu",
-      "time": "8:00p-9:50p",
-      "building": "MANDE",
-      "room": "B-210",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-06T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/13/2018",
-      "days": "Tu",
-      "time": "8:00p-9:50p",
-      "building": "MANDE",
-      "room": "B-210",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-13T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/20/2018",
-      "days": "Tu",
-      "time": "8:00p-9:50p",
-      "building": "MANDE",
-      "room": "B-210",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-20T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/27/2018",
-      "days": "Tu",
-      "time": "8:00p-9:50p",
-      "building": "MANDE",
-      "room": "B-210",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-27T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/06/2018",
-      "days": "Tu",
-      "time": "8:00p-9:50p",
-      "building": "MANDE",
-      "room": "B-210",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-06T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/13/2018",
-      "days": "Tu",
-      "time": "8:00p-9:50p",
-      "building": "MANDE",
-      "room": "B-210",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-13T07:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "048ea6c11837b7fdfca71fe0e46540cc7429077d8a7d8dabb640b0974c08d29d": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -197,13 +14,12 @@
       "time": "8:00p-9:50p",
       "building": "MANDE",
       "room": "B-210",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-09T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "870014b996233e4537b7fbf021e3382d21607122b18f36dbcb449f374d4125d6": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -212,13 +28,12 @@
       "time": "8:00p-9:50p",
       "building": "MANDE",
       "room": "B-210",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-16T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "e51d414e979cad030f5eb78ac96d5cbef01133302c69bd783186df29c107fdaa": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -227,13 +42,12 @@
       "time": "8:00p-9:50p",
       "building": "MANDE",
       "room": "B-210",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-23T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "9d8c92969e2ff3bf8d9766da4284d6a99937026a16338d120b7c356d54ee6f43": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -242,13 +56,12 @@
       "time": "8:00p-9:50p",
       "building": "MANDE",
       "room": "B-210",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-30T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "f6884a4578cc3f5d9362e2db94ab66955bc91987bf74b902fad0bfe81a9373f5": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -257,13 +70,12 @@
       "time": "8:00p-9:50p",
       "building": "MANDE",
       "room": "B-210",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-06T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "3b68cc1c3d1b89bcc26eadc764046e2c82aee51db66d61594bbca8035dfd117e": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -272,13 +84,12 @@
       "time": "8:00p-9:50p",
       "building": "MANDE",
       "room": "B-210",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-13T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "f5219dc07a30b7828c7b549bcd72edb1b28116234d9a68cd09ec5fa907a235af": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -287,13 +98,12 @@
       "time": "8:00p-9:50p",
       "building": "MANDE",
       "room": "B-210",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-20T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "c7844a83793f6f500dd9f4e5bd1180703c2a4b9c53247e52918ce4ac2b954ea1": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -302,13 +112,12 @@
       "time": "8:00p-9:50p",
       "building": "MANDE",
       "room": "B-210",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-27T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "cbfd6e073498754a6ffc18ad5baf9f36377989819f687b849a289b5aa528f3b0": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -317,13 +126,12 @@
       "time": "8:00p-9:50p",
       "building": "MANDE",
       "room": "B-210",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-06T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "917aa7b6c599d66dcd578de40154d6a72f369ab8e7bee1da26d2f1aa300b4c24": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -332,13 +140,12 @@
       "time": "8:00p-9:50p",
       "building": "MANDE",
       "room": "B-210",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-13T07:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -347,17 +154,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "19828e86125726b505b8d8a5284bcce7adf16783e52ec93006ffca55cdd5b2bd": {
         "sectxt": true,
         "sectionID": "923644",
         "type": "LE",
@@ -366,17 +172,15 @@
         "time": "2:00p-2:50p",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Tsai, Philbert S",
         "instructors": [
           "Tsai, Philbert S"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "7efd1f68d30dceefabdf7e51b127cf6ad0c85a257a9c95c5bd34ce2e2257a655": {
         "sectxt": true,
         "sectionID": "923644",
         "type": "LE",
@@ -385,17 +189,15 @@
         "time": "2:00p-2:50p",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Tsai, Philbert S",
         "instructors": [
           "Tsai, Philbert S"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "aa04f272215a5697b7186ad66002c136d4e0125665e0b617872ed14923d34841": {
         "sectxt": true,
         "sectionID": "923644",
         "type": "LE",
@@ -404,15 +206,15 @@
         "time": "2:00p-2:50p",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Tsai, Philbert S",
         "instructors": [
           "Tsai, Philbert S"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

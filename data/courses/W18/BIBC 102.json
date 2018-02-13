@@ -3,231 +3,65 @@
   "name": "Metabolic Biochemistry",
   "department": "BIBC",
   "id": "102",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "4:00p-4:50p",
-      "building": "SOLIS",
-      "room": "107",
-      "instructor": "Zhao, Yunde",
-      "instructors": [
-        "Zhao, Yunde"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925824",
-      "type": "DI",
-      "section": "B01",
-      "days": "M",
-      "time": "8:00a-8:50a",
-      "building": "CENTR",
-      "room": "203",
-      "instructor": "Zhao, Yunde",
-      "instructors": [
-        "Zhao, Yunde"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925825",
-      "type": "DI",
-      "section": "B02",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "HSS",
-      "room": "1315",
-      "instructor": "Zhao, Yunde",
-      "instructors": [
-        "Zhao, Yunde"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925826",
-      "type": "DI",
-      "section": "B03",
-      "days": "M",
-      "time": "7:00p-7:50p",
-      "building": "YORK",
-      "room": "3000A",
-      "instructor": "Zhao, Yunde",
-      "instructors": [
-        "Zhao, Yunde"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925827",
-      "type": "DI",
-      "section": "B04",
-      "days": "M",
-      "time": "8:00p-8:50p",
-      "building": "YORK",
-      "room": "3000A",
-      "instructor": "Zhao, Yunde",
-      "instructors": [
-        "Zhao, Yunde"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925828",
-      "type": "DI",
-      "section": "B05",
-      "days": "W",
-      "time": "10:00a-10:50a",
-      "building": "APM",
-      "room": "2301",
-      "instructor": "Zhao, Yunde",
-      "instructors": [
-        "Zhao, Yunde"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925829",
-      "type": "DI",
-      "section": "B06",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "CENTR",
-      "room": "217A",
-      "instructor": "Zhao, Yunde",
-      "instructors": [
-        "Zhao, Yunde"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925830",
-      "type": "DI",
-      "section": "B07",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "CENTR",
-      "room": "217A",
-      "instructor": "Zhao, Yunde",
-      "instructors": [
-        "Zhao, Yunde"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925831",
-      "type": "DI",
-      "section": "B08",
-      "days": "F",
-      "time": "8:00a-8:50a",
-      "building": "HSS",
-      "room": "1315",
-      "instructor": "Zhao, Yunde",
-      "instructors": [
-        "Zhao, Yunde"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925832",
-      "type": "DI",
-      "section": "B09",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "HSS",
-      "room": "2154",
-      "instructor": "Zhao, Yunde",
-      "instructors": [
-        "Zhao, Yunde"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/26/2018",
-      "days": "F",
-      "time": "6:00p-7:50p",
-      "building": "CENTR",
-      "room": "101",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-26T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/23/2018",
-      "days": "F",
-      "time": "6:00p-7:50p",
-      "building": "CENTR",
-      "room": "101",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-23T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "03/16/2018",
-      "days": "F",
-      "time": "6:00p-7:50p",
-      "building": "CENTR",
-      "room": "101",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-16T07:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "969424a627cb7890bfd64c9429cbf8ac9a371358aae680cf3978c35c76a32510": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "01/28/2018",
+      "days": "Sun",
+      "time": "12:00p-1:50p",
+      "building": "CENTR",
+      "room": "101",
+      "instructors": [],
+      "date": "2018-01-28T08:00:00.000Z",
+      "start_time": "12:00",
+      "end_time": "13:50"
+    },
+    "9038fbb8dd834c623f6aecdcb528d69b02b2e80ab3860527f11c505f37349cc2": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/25/2018",
+      "days": "Sun",
+      "time": "12:00p-1:50p",
+      "building": "CENTR",
+      "room": "101",
+      "instructors": [],
+      "date": "2018-02-25T08:00:00.000Z",
+      "start_time": "12:00",
+      "end_time": "13:50"
+    },
+    "13f7b8348a8c92547d116f89a6d6b5764a4b20b936358996eee5557ee107c116": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "03/18/2018",
+      "days": "Sun",
+      "time": "12:00p-1:50p",
+      "building": "CENTR",
+      "room": "101",
+      "instructors": [],
+      "date": "2018-03-18T07:00:00.000Z",
+      "start_time": "12:00",
+      "end_time": "13:50"
+    },
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "fe8de42bd7eeb7481c1fafdbbdaf0426a10fc17b04ad2efec19bfbbd1ff6ec3a": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -236,13 +70,12 @@
       "time": "6:00p-7:50p",
       "building": "CENTR",
       "room": "101",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-26T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "19:50"
     },
-    {
+    "6348a423c87eb7fa7e2317982bbf52c0f181d6531539acae37e3217a9921c352": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -251,13 +84,12 @@
       "time": "6:00p-7:50p",
       "building": "CENTR",
       "room": "101",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-23T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "19:50"
     },
-    {
+    "399377305cbab0fe9dcf563ea1c34916aa79c558c726df1285b1a11b7b89a819": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -266,13 +98,12 @@
       "time": "6:00p-7:50p",
       "building": "CENTR",
       "room": "101",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-16T07:00:00.000Z",
       "start_time": "18:00",
       "end_time": "19:50"
     },
-    {
+    "b9b4ec5af540606b238988bee0286fc3a4cc4d540b7785beb08dccae4a0227c9": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -281,17 +112,91 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "c9fc40ff4434ff54cd7cc23be5de888716d441c0db38fb0d3ff6b3174e5f14ec": {
+        "sectxt": true,
+        "sectionID": "925813",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "8:00a-8:50a",
+        "building": "HSS",
+        "room": "1305",
+        "instructors": [
+          "Herndon, Jenny Dyann"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "e15e6e742e09366e1e2e34c60d197585c9f5730de94809c8650d38727867b408": {
+        "sectxt": true,
+        "sectionID": "925814",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "1305",
+        "instructors": [
+          "Herndon, Jenny Dyann"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "2af245de5ed4ffe561179fad279675fa6ff9a408d4ee8689df212eea88b2a004": {
+        "sectxt": true,
+        "sectionID": "925815",
+        "type": "DI",
+        "section": "A03",
+        "days": "M",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Herndon, Jenny Dyann"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "74649e2d638e46744962fab41224f02be2c46b1c8fbcc03799fbc40cc31bafda": {
+        "sectxt": true,
+        "sectionID": "925818",
+        "type": "DI",
+        "section": "A06",
+        "days": "M",
+        "time": "7:00p-7:50p",
+        "building": "HSS",
+        "room": "1305",
+        "instructors": [
+          "Herndon, Jenny Dyann"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "9cd368cf2550dd72c741b55e43dc3e17c1b7667306d3167daec55fb980c5b94a": {
+        "sectxt": true,
+        "sectionID": "925819",
+        "type": "DI",
+        "section": "A07",
+        "days": "M",
+        "time": "8:00p-8:50p",
+        "building": "HSS",
+        "room": "1305",
+        "instructors": [
+          "Herndon, Jenny Dyann"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "27e76ff277a7598df5fc63577410ebd41c747b50a8bfb4bd4285fd9f0310a9aa": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -300,14 +205,13 @@
         "time": "4:00p-4:50p",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Zhao, Yunde",
         "instructors": [
           "Zhao, Yunde"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "15ce97442f90aa8154d9465f11933d0cd21b270c2ce07e37b5234060e8cbbe62": {
         "sectxt": true,
         "sectionID": "925824",
         "type": "DI",
@@ -316,14 +220,13 @@
         "time": "8:00a-8:50a",
         "building": "CENTR",
         "room": "203",
-        "instructor": "Zhao, Yunde",
         "instructors": [
           "Zhao, Yunde"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "1c0cd00ce386c61b757f74f842138f29986756bc58566d1b0653be6452bcc731": {
         "sectxt": true,
         "sectionID": "925825",
         "type": "DI",
@@ -332,14 +235,13 @@
         "time": "3:00p-3:50p",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Zhao, Yunde",
         "instructors": [
           "Zhao, Yunde"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "66c73ccef68eecf42c8e424249a3afbdb9f90e853583082be94533e35c123329": {
         "sectxt": true,
         "sectionID": "925826",
         "type": "DI",
@@ -348,14 +250,13 @@
         "time": "7:00p-7:50p",
         "building": "YORK",
         "room": "3000A",
-        "instructor": "Zhao, Yunde",
         "instructors": [
           "Zhao, Yunde"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "0922036b6578e600f454c3a6493b53975c07e0202a7651412de39e0330956cb9": {
         "sectxt": true,
         "sectionID": "925827",
         "type": "DI",
@@ -364,17 +265,77 @@
         "time": "8:00p-8:50p",
         "building": "YORK",
         "room": "3000A",
-        "instructor": "Zhao, Yunde",
         "instructors": [
           "Zhao, Yunde"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "Tu": {
+      "979df717b14bf700ac34786e38e943c17094ef467bc27a99217c634a6e5f885f": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "PETER",
+        "room": "108",
+        "instructors": [
+          "Herndon, Jenny Dyann"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "65bf15cbc404995a1acb187eaf09dd56757be3ef52f8d62bccb93ca0a5636a8e": {
+        "sectxt": true,
+        "sectionID": "925816",
+        "type": "DI",
+        "section": "A04",
+        "days": "Tu",
+        "time": "6:00p-6:50p",
+        "building": "HSS",
+        "room": "1305",
+        "instructors": [
+          "Herndon, Jenny Dyann"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "6c44c4812df272c3ca6193af3116e49239a73fe58381bfb0f6796582377c5679": {
+        "sectxt": true,
+        "sectionID": "925817",
+        "type": "DI",
+        "section": "A05",
+        "days": "Tu",
+        "time": "7:00p-7:50p",
+        "building": "HSS",
+        "room": "1305",
+        "instructors": [
+          "Herndon, Jenny Dyann"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      }
+    },
+    "W": {
+      "c9822d47758b9b58efe565afb6e69479fd60e524c6ce4dbab46261a2fe8a8a70": {
+        "sectxt": true,
+        "sectionID": "925820",
+        "type": "DI",
+        "section": "A08",
+        "days": "W",
+        "time": "8:00p-8:50p",
+        "building": "CENTR",
+        "room": "207",
+        "instructors": [
+          "Herndon, Jenny Dyann"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "2202faa4167e150f407b92c9e79ffd4daaaf52a73ca690ab52efbea748c2bfd5": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -383,14 +344,13 @@
         "time": "4:00p-4:50p",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Zhao, Yunde",
         "instructors": [
           "Zhao, Yunde"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "dc4605b1d08a6159c35074410046176e9243a120133ce88c7e369e1627f18c63": {
         "sectxt": true,
         "sectionID": "925828",
         "type": "DI",
@@ -399,14 +359,13 @@
         "time": "10:00a-10:50a",
         "building": "APM",
         "room": "2301",
-        "instructor": "Zhao, Yunde",
         "instructors": [
           "Zhao, Yunde"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "830e2ab6d6b44d2f4e338283b19114a5c20c865d0ef8f43080eec7c2ad47b51b": {
         "sectxt": true,
         "sectionID": "925829",
         "type": "DI",
@@ -415,14 +374,13 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "217A",
-        "instructor": "Zhao, Yunde",
         "instructors": [
           "Zhao, Yunde"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "370fa3de1fb02e2d6ac352456d58c3524a3a88b07386a9e447291fa7e1745939": {
         "sectxt": true,
         "sectionID": "925830",
         "type": "DI",
@@ -431,17 +389,47 @@
         "time": "6:00p-6:50p",
         "building": "CENTR",
         "room": "217A",
-        "instructor": "Zhao, Yunde",
         "instructors": [
           "Zhao, Yunde"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "Th": {
+      "d9a298da955f5b893f4478e3f282466555219d3b8f66ca24bc27d90b59ce58fd": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "PETER",
+        "room": "108",
+        "instructors": [
+          "Herndon, Jenny Dyann"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    },
+    "F": {
+      "8d23a5486c5504b0e5ec4c6b4a8fb80089c5a57c5727e6d55c8e0a67c6d5a7b2": {
+        "sectxt": true,
+        "sectionID": "925821",
+        "type": "DI",
+        "section": "A09",
+        "days": "F",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "2150",
+        "instructors": [
+          "Herndon, Jenny Dyann"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "0382e42bf7b12cd4e0c7ad349dd7bb22439d378b1c7de3f515f672949b24521e": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -450,14 +438,13 @@
         "time": "4:00p-4:50p",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Zhao, Yunde",
         "instructors": [
           "Zhao, Yunde"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "8fb54e86a4ec3920883e9097b55bf1f981f700486f5a17c488be74ec41d5591c": {
         "sectxt": true,
         "sectionID": "925831",
         "type": "DI",
@@ -466,14 +453,13 @@
         "time": "8:00a-8:50a",
         "building": "HSS",
         "room": "1315",
-        "instructor": "Zhao, Yunde",
         "instructors": [
           "Zhao, Yunde"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "253bc9c762f33ca5ee907830752cf157fb056d99647932fb0e0015dd2cfd8839": {
         "sectxt": true,
         "sectionID": "925832",
         "type": "DI",
@@ -482,15 +468,16 @@
         "time": "3:00p-3:50p",
         "building": "HSS",
         "room": "2154",
-        "instructor": "Zhao, Yunde",
         "instructors": [
           "Zhao, Yunde"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

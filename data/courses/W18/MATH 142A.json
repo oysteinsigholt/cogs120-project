@@ -3,74 +3,23 @@
   "name": "Introduction to Analysis I",
   "department": "MATH",
   "id": "142A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "8:00a-8:50a",
-      "building": "PETER",
-      "room": "103",
-      "instructor": "Sterbenz, Jacob",
-      "instructors": [
-        "Sterbenz, Jacob"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "934565",
-      "type": "DI",
-      "section": "B01",
-      "days": "Th",
-      "time": "8:00a-8:50a",
-      "building": "APM",
-      "room": "B402A",
-      "instructor": "Sterbenz, Jacob",
-      "instructors": [
-        "Sterbenz, Jacob"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "934571",
-      "type": "DI",
-      "section": "B02",
-      "days": "Th",
-      "time": "10:00a-10:50a",
-      "building": "APM",
-      "room": "5402",
-      "instructor": "Sterbenz, Jacob",
-      "instructors": [
-        "Sterbenz, Jacob"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "99084e85dcbf5c5064e8677480f27cc1eb8ff5538061a54d6a1f44628193757c": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -79,17 +28,31 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1866918a9e827ca2246c3cdc0800ca8cab9d14fcb63d242959828782dc5e03cc": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "105",
+        "instructors": [
+          "Curry, Sean N"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "8e0947ae086951cd616eabed4be76943f8fa9c5af3bda429906f2bb37479450d": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -98,17 +61,30 @@
         "time": "8:00a-8:50a",
         "building": "PETER",
         "room": "103",
-        "instructor": "Sterbenz, Jacob",
         "instructors": [
           "Sterbenz, Jacob"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "664fb1192c899ad420c384f1035679fd9aa443bbe17868a3444009b2ce9ed2d0": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "105",
+        "instructors": [
+          "Curry, Sean N"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "69073098d5998620ccbd988b1e868ec5f76b2dfdc60a06cc6f992f756bc037a1": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -117,16 +93,75 @@
         "time": "8:00a-8:50a",
         "building": "PETER",
         "room": "103",
-        "instructor": "Sterbenz, Jacob",
         "instructors": [
           "Sterbenz, Jacob"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "574471b5c2836b46585863daca07264154769aa16e69e350f221508331854258": {
+        "sectxt": true,
+        "sectionID": "927158",
+        "type": "DI",
+        "section": "A01",
+        "days": "Th",
+        "time": "4:00p-4:50p",
+        "building": "APM",
+        "room": "5402",
+        "instructors": [
+          "Curry, Sean N"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "fec06dc3cfa27b32297182f0429c07980afeaf52dffa5fdf1074ff2b0e36d646": {
+        "sectxt": true,
+        "sectionID": "927159",
+        "type": "DI",
+        "section": "A02",
+        "days": "Th",
+        "time": "5:00p-5:50p",
+        "building": "APM",
+        "room": "B412",
+        "instructors": [
+          "Curry, Sean N"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "499d41224d1357082fd09dafc0108da287cbe33cc16de56a081b14643749fc93": {
+        "sectxt": true,
+        "sectionID": "927160",
+        "type": "DI",
+        "section": "A03",
+        "days": "Th",
+        "time": "6:00p-6:50p",
+        "building": "APM",
+        "room": "B412",
+        "instructors": [
+          "Curry, Sean N"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "39b07230ff841c063cf2d4d9829cb255f9064403283e0843fce205ea90b2f289": {
+        "sectxt": true,
+        "sectionID": "927161",
+        "type": "DI",
+        "section": "A04",
+        "days": "Th",
+        "time": "7:00p-7:50p",
+        "building": "APM",
+        "room": "5402",
+        "instructors": [
+          "Curry, Sean N"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "f9f5f0e065d3859b01b3286359394c60c59807f8460f6081626c767add31f8b4": {
         "sectxt": true,
         "sectionID": "934565",
         "type": "DI",
@@ -135,14 +170,13 @@
         "time": "8:00a-8:50a",
         "building": "APM",
         "room": "B402A",
-        "instructor": "Sterbenz, Jacob",
         "instructors": [
           "Sterbenz, Jacob"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "e42516f084ddd70266069c5cc8e00cd482328b64142c73e73227ba4c71870f09": {
         "sectxt": true,
         "sectionID": "934571",
         "type": "DI",
@@ -151,16 +185,30 @@
         "time": "10:00a-10:50a",
         "building": "APM",
         "room": "5402",
-        "instructor": "Sterbenz, Jacob",
         "instructors": [
           "Sterbenz, Jacob"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "e0c71401fe619db626c079241f95ffbc9af299dc6dba6b446063c58d72b82533": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "105",
+        "instructors": [
+          "Curry, Sean N"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "6b83abdee5d344b2c89c3d546b4e22a168363924233412720d415f575315a8ec": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -169,15 +217,16 @@
         "time": "8:00a-8:50a",
         "building": "PETER",
         "room": "103",
-        "instructor": "Sterbenz, Jacob",
         "instructors": [
           "Sterbenz, Jacob"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

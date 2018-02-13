@@ -3,33 +3,12 @@
   "name": "Climate Science & Policy Forum",
   "department": "SIOC",
   "id": "296",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921985",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "4:00p-7:00p",
-      "building": "VAUGN",
-      "room": "300",
-      "instructor": "Gabriel, Corey John",
-      "instructors": [
-        "Gabriel, Corey John"
-      ],
-      "start_time": "16:00",
-      "end_time": "19:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "213a2cc5541c79e48e462ac07332e5a6eae580efeb9e52e149400b6dc37731c0": {
         "sectxt": true,
         "sectionID": "921985",
         "type": "SE",
@@ -38,16 +17,15 @@
         "time": "4:00p-7:00p",
         "building": "VAUGN",
         "room": "300",
-        "instructor": "Gabriel, Corey John",
         "instructors": [
           "Gabriel, Corey John"
         ],
         "start_time": "16:00",
         "end_time": "19:00"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,48 +3,91 @@
   "name": "Energy Conversion",
   "department": "ECE",
   "id": "121B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925051",
-      "type": "LA",
-      "section": "A52",
-      "days": "W",
-      "time": "1:00p-3:50p",
-      "building": "WLH",
-      "room": "2213B",
-      "instructor": "Esmaili, Gholamreza",
-      "instructors": [
-        "Esmaili, Gholamreza"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925052",
-      "type": "LA",
-      "section": "A53",
-      "days": "F",
-      "time": "1:00p-4:00p",
-      "building": "WLH",
-      "room": "2213B",
-      "instructor": "Esmaili, Gholamreza",
-      "instructors": [
-        "Esmaili, Gholamreza"
-      ],
-      "start_time": "13:00",
-      "end_time": "16:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "M": {
+      "37264739f5e769ded8f5637c092f33b7ff3115bf0de4851bb1182eb47f5444ef": {
+        "sectxt": true,
+        "sectionID": "925049",
+        "type": "LA",
+        "section": "A50",
+        "days": "M",
+        "time": "10:00a-1:00p",
+        "building": "WLH",
+        "room": "2213B",
+        "instructors": [
+          "Esmaili, Gholamreza"
+        ],
+        "start_time": "10:00",
+        "end_time": "13:00"
+      }
+    },
+    "Tu": {
+      "503eae0a8858b7b329809768e5967230ac8000e953deadca9a39203641302192": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "WLH",
+        "room": "2204",
+        "instructors": [
+          "Esmaili, Gholamreza"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "d67f3046e849d22cf5fef4ca51f008761f39a5dade52d552658d22366f03d6f2": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A01",
+        "days": "Tu",
+        "time": "8:00p-8:50p",
+        "building": "PETER",
+        "room": "103",
+        "instructors": [
+          "Esmaili, Gholamreza"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      }
+    },
+    "W": {
+      "360bcb6e6134ffa6e7fc2081912cfa438da3caebf3441403ad103c7099e487f6": {
+        "sectxt": true,
+        "sectionID": "925050",
+        "type": "LA",
+        "section": "A51",
+        "days": "W",
+        "time": "10:00a-12:50p",
+        "building": "WLH",
+        "room": "2213B",
+        "instructors": [
+          "Esmaili, Gholamreza"
+        ],
+        "start_time": "10:00",
+        "end_time": "12:50"
+      },
+      "6ea80d1c51cda1cbea9ea685c679dd230f33c595919e65198d2ae734a34bf021": {
         "sectxt": true,
         "sectionID": "925051",
         "type": "LA",
@@ -53,17 +96,32 @@
         "time": "1:00p-3:50p",
         "building": "WLH",
         "room": "2213B",
-        "instructor": "Esmaili, Gholamreza",
         "instructors": [
           "Esmaili, Gholamreza"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "Th": {
+      "ad10dc80025b6fae88a6e6bd4b3bc62f48725a5778aa49de4dbf9e9ef718c058": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "WLH",
+        "room": "2204",
+        "instructors": [
+          "Esmaili, Gholamreza"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    },
+    "F": {
+      "19e092b9451112313c6b66f62bf9bb2230343e57a021c83e2f72f4d25343e9d9": {
         "sectxt": true,
         "sectionID": "925052",
         "type": "LA",
@@ -72,15 +130,15 @@
         "time": "1:00p-4:00p",
         "building": "WLH",
         "room": "2213B",
-        "instructor": "Esmaili, Gholamreza",
         "instructors": [
           "Esmaili, Gholamreza"
         ],
         "start_time": "13:00",
         "end_time": "16:00"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

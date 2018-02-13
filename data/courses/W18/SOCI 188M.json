@@ -3,42 +3,9 @@
   "name": "Social Movements in Latin Amer",
   "department": "SOCI",
   "id": "188M",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929337",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "5:00p-6:20p",
-      "building": "MANDE",
-      "room": "B-104",
-      "instructor": "Calderon-Zaks, Michael Aar",
-      "instructors": [
-        "Calderon-Zaks, Michael Aar"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "df12f096f527e5c678ecdc9e007d7fecaff1f3fc5c1737191b9520f90d799d8c": {
         "sectxt": true,
         "sectionID": "929337",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "5:00p-6:20p",
         "building": "MANDE",
         "room": "B-104",
-        "instructor": "Calderon-Zaks, Michael Aar",
         "instructors": [
           "Calderon-Zaks, Michael Aar"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f706bb17bdf961e2268b67aa648ffb89c68cc4b16a42cfd7ed0d4a8ed27534bc": {
         "sectxt": true,
         "sectionID": "929337",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "5:00p-6:20p",
         "building": "MANDE",
         "room": "B-104",
-        "instructor": "Calderon-Zaks, Michael Aar",
         "instructors": [
           "Calderon-Zaks, Michael Aar"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

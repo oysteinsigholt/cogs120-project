@@ -3,40 +3,8 @@
   "name": "Quant Theory/Population&Commun",
   "department": "SIOB",
   "id": "276",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "12:00p-2:00p",
-      "building": "IGPP",
-      "room": "3110",
-      "instructor": "Sugihara, George",
-      "instructors": [
-        "Sugihara, George"
-      ],
-      "start_time": "12:00",
-      "end_time": "14:00"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929353",
-      "type": "OT",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Sugihara, George",
-      "instructors": [
-        "Sugihara, George"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -47,16 +15,14 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Sugihara, George",
       "instructors": [
         "Sugihara, George"
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "70faa5943730ed85bda2929a76a4098e8f0560a00f36fb4077132c011fd651d9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -65,18 +31,15 @@
         "time": "12:00p-2:00p",
         "building": "IGPP",
         "room": "3110",
-        "instructor": "Sugihara, George",
         "instructors": [
           "Sugihara, George"
         ],
         "start_time": "12:00",
         "end_time": "14:00"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

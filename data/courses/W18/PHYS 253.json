@@ -3,32 +3,12 @@
   "name": "Astrophysics&Space Physics Sem",
   "department": "PHYS",
   "id": "253",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923819",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "SERF",
-      "room": "383",
-      "instructor": "Grinstein, Benjamin",
-      "instructors": [
-        "Grinstein, Benjamin"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "0ca4a0b161d05f3cd2758804b21c6ff1d7af11b9e70cd1e82b160362eae25f85": {
         "sectxt": true,
         "sectionID": "923819",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "4:00p-4:50p",
         "building": "SERF",
         "room": "383",
-        "instructor": "Grinstein, Benjamin",
         "instructors": [
           "Grinstein, Benjamin"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,42 +3,9 @@
   "name": "Water",
   "department": "SIO",
   "id": "35",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921043",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "WLH",
-      "room": "2005",
-      "instructor": "Driscoll, Neal W.",
-      "instructors": [
-        "Driscoll, Neal W."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "393d92b04affe6f4dfefac09e24659604b095b00ac4118b2d10b54e25ef208f5": {
         "sectxt": true,
         "sectionID": "921043",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "11:00a-11:50a",
         "building": "WLH",
         "room": "2005",
-        "instructor": "Driscoll, Neal W.",
         "instructors": [
           "Driscoll, Neal W."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "9ccc936ffefb7c5ba350c42058e55f0b127cbb4e916f45cdd8148f168384c9e5": {
         "sectxt": true,
         "sectionID": "921043",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "11:00a-11:50a",
         "building": "WLH",
         "room": "2005",
-        "instructor": "Driscoll, Neal W.",
         "instructors": [
           "Driscoll, Neal W."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "d7822e5256fecd87eba869b670e795126efb5a0e4cc9774a64b232f0ebf06748": {
         "sectxt": true,
         "sectionID": "921043",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "11:00a-11:50a",
         "building": "WLH",
         "room": "2005",
-        "instructor": "Driscoll, Neal W.",
         "instructors": [
           "Driscoll, Neal W."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,249 +3,65 @@
   "name": "The Cell",
   "department": "BILD",
   "id": "1",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MW",
-      "time": "5:00p-6:20p",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "Burg, Michael",
-      "instructors": [
-        "Burg, Michael"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925963",
-      "type": "DI",
-      "section": "B01",
-      "days": "M",
-      "time": "10:00a-10:50a",
-      "building": "APM",
-      "room": "2301",
-      "instructor": "Burg, Michael",
-      "instructors": [
-        "Burg, Michael"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925964",
-      "type": "DI",
-      "section": "B02",
-      "days": "M",
-      "time": "11:00a-11:50a",
-      "building": "APM",
-      "room": "2301",
-      "instructor": "Burg, Michael",
-      "instructors": [
-        "Burg, Michael"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925965",
-      "type": "DI",
-      "section": "B03",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "HSS",
-      "room": "2154",
-      "instructor": "Burg, Michael",
-      "instructors": [
-        "Burg, Michael"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925966",
-      "type": "DI",
-      "section": "B04",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "HSS",
-      "room": "2154",
-      "instructor": "Burg, Michael",
-      "instructors": [
-        "Burg, Michael"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925967",
-      "type": "DI",
-      "section": "B05",
-      "days": "Tu",
-      "time": "1:00p-1:50p",
-      "building": "YORK",
-      "room": "3000A",
-      "instructor": "Burg, Michael",
-      "instructors": [
-        "Burg, Michael"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925968",
-      "type": "DI",
-      "section": "B06",
-      "days": "Tu",
-      "time": "5:00p-5:50p",
-      "building": "HSS",
-      "room": "2154",
-      "instructor": "Burg, Michael",
-      "instructors": [
-        "Burg, Michael"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925969",
-      "type": "DI",
-      "section": "B07",
-      "days": "Tu",
-      "time": "6:00p-6:50p",
-      "building": "HSS",
-      "room": "2154",
-      "instructor": "Burg, Michael",
-      "instructors": [
-        "Burg, Michael"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925970",
-      "type": "DI",
-      "section": "B08",
-      "days": "Tu",
-      "time": "7:00p-7:50p",
-      "building": "HSS",
-      "room": "2154",
-      "instructor": "Burg, Michael",
-      "instructors": [
-        "Burg, Michael"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925971",
-      "type": "DI",
-      "section": "B09",
-      "days": "W",
-      "time": "7:00p-7:50p",
-      "building": "CENTR",
-      "room": "217A",
-      "instructor": "Burg, Michael",
-      "instructors": [
-        "Burg, Michael"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925972",
-      "type": "DI",
-      "section": "B10",
-      "days": "W",
-      "time": "8:00p-8:50p",
-      "building": "CENTR",
-      "room": "217A",
-      "instructor": "Burg, Michael",
-      "instructors": [
-        "Burg, Michael"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925973",
-      "type": "DI",
-      "section": "B11",
-      "days": "F",
-      "time": "8:00a-8:50a",
-      "building": "YORK",
-      "room": "3000A",
-      "instructor": "Burg, Michael",
-      "instructors": [
-        "Burg, Michael"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925974",
-      "type": "DI",
-      "section": "B12",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "CENTR",
-      "room": "203",
-      "instructor": "Burg, Michael",
-      "instructors": [
-        "Burg, Michael"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/10/2018",
-      "days": "S",
-      "time": "10:00a-11:50a",
-      "building": "GH",
-      "room": "242",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-10T08:00:00.000Z",
-      "start_time": "10:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9238d48aff4e5f6db0922489f9449fcce79aeb8ae04455d644e9efc6125d289f": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "01/28/2018",
+      "days": "Sun",
+      "time": "3:30p-5:20p",
+      "building": "CENTR",
+      "room": "115",
+      "instructors": [],
+      "date": "2018-01-28T08:00:00.000Z",
+      "start_time": "15:30",
+      "end_time": "17:20"
+    },
+    "50ba04322c7e190e8692d1b6ef3b87c08cd6f28c241a47a91ece4d572699ccd4": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/25/2018",
+      "days": "Sun",
+      "time": "3:30p-5:20p",
+      "building": "CENTR",
+      "room": "115",
+      "instructors": [],
+      "date": "2018-02-25T08:00:00.000Z",
+      "start_time": "15:30",
+      "end_time": "17:20"
+    },
+    "af4599bde95afc0d4e5e15747e28619865a28c97e30b6578420edd82d0167089": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "03/13/2018",
+      "days": "Tu",
+      "time": "8:00p-9:50p",
+      "building": "CENTR",
+      "room": "119",
+      "instructors": [],
+      "date": "2018-03-13T07:00:00.000Z",
+      "start_time": "20:00",
+      "end_time": "21:50"
+    },
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "672a550a591621354a4af339d8786afc53ad17db845f122c6e9781f85347f849": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -254,13 +70,12 @@
       "time": "10:00a-11:50a",
       "building": "GH",
       "room": "242",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-10T08:00:00.000Z",
       "start_time": "10:00",
       "end_time": "11:50"
     },
-    {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -269,17 +84,91 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "6721ec3568dcd8f8a49712a671b801dfee4ddaabbc63506c0e935ab456b7dffd": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "GH",
+        "room": "242",
+        "instructors": [
+          "Chu, Monica W"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "4e4710e70c2cd9f05b2e445d7019fb8f7fe3ac3ca864a7a2d2916b071fb7ce70": {
+        "sectxt": true,
+        "sectionID": "925954",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "5:00p-5:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Chu, Monica W"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "4144858d5f862eb0520ad6e7ecf2a342a8c801a209e614e65a6ec3890270fb35": {
+        "sectxt": true,
+        "sectionID": "925955",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "6:00p-6:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Chu, Monica W"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "8ccc5b3cb8d6ea9c0bba4885f34ddd92acbdd73faa3ded58a76e17eaef7a61a6": {
+        "sectxt": true,
+        "sectionID": "925956",
+        "type": "DI",
+        "section": "A03",
+        "days": "M",
+        "time": "7:00p-7:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Chu, Monica W"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "4f97b71ff6b107e3b0dc8ea50b20f7bd7d94ee9833e4d38c45c2da1488cc3fa7": {
+        "sectxt": true,
+        "sectionID": "925957",
+        "type": "DI",
+        "section": "A04",
+        "days": "M",
+        "time": "8:00p-8:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Chu, Monica W"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "cac8894f82fd707f3baa45b0772763f0dc42533185d4420469598ba9d401f44a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -288,14 +177,13 @@
         "time": "5:00p-6:20p",
         "building": "WLH",
         "room": "2001",
-        "instructor": "Burg, Michael",
         "instructors": [
           "Burg, Michael"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       },
-      {
+      "143a072d2ad720d359ef7935fb89ac1b29df4f3d14777d6c47c4ddeb693012f6": {
         "sectxt": true,
         "sectionID": "925963",
         "type": "DI",
@@ -304,14 +192,13 @@
         "time": "10:00a-10:50a",
         "building": "APM",
         "room": "2301",
-        "instructor": "Burg, Michael",
         "instructors": [
           "Burg, Michael"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "19a609b960e0971163794c94c399c960e948d2d5c2c1fb9d8db4770f8f362ad3": {
         "sectxt": true,
         "sectionID": "925964",
         "type": "DI",
@@ -320,14 +207,13 @@
         "time": "11:00a-11:50a",
         "building": "APM",
         "room": "2301",
-        "instructor": "Burg, Michael",
         "instructors": [
           "Burg, Michael"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "772aba90437f13fed6e3973708ad87819939356011965fa99d09e6f76b504e63": {
         "sectxt": true,
         "sectionID": "925965",
         "type": "DI",
@@ -336,14 +222,13 @@
         "time": "3:00p-3:50p",
         "building": "HSS",
         "room": "2154",
-        "instructor": "Burg, Michael",
         "instructors": [
           "Burg, Michael"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "956d805010e8ced97a0be902fa18b85c2091075555af6bd3fc951a1677c9f62a": {
         "sectxt": true,
         "sectionID": "925966",
         "type": "DI",
@@ -352,16 +237,15 @@
         "time": "4:00p-4:50p",
         "building": "HSS",
         "room": "2154",
-        "instructor": "Burg, Michael",
         "instructors": [
           "Burg, Michael"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "504e56db33aa75d7350868e7a3515263121abfd22dac29804f1abd27a265a685": {
         "sectxt": true,
         "sectionID": "925967",
         "type": "DI",
@@ -370,14 +254,13 @@
         "time": "1:00p-1:50p",
         "building": "YORK",
         "room": "3000A",
-        "instructor": "Burg, Michael",
         "instructors": [
           "Burg, Michael"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "613614f7c4976d3feb46fbff2c147c5f746296120e698fc7a88c8b37c7574eb4": {
         "sectxt": true,
         "sectionID": "925968",
         "type": "DI",
@@ -386,14 +269,13 @@
         "time": "5:00p-5:50p",
         "building": "HSS",
         "room": "2154",
-        "instructor": "Burg, Michael",
         "instructors": [
           "Burg, Michael"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "41e016b69aa70a90450195abacb6a6ef345a3f3a1931eb5c3924d229156f4be4": {
         "sectxt": true,
         "sectionID": "925969",
         "type": "DI",
@@ -402,14 +284,13 @@
         "time": "6:00p-6:50p",
         "building": "HSS",
         "room": "2154",
-        "instructor": "Burg, Michael",
         "instructors": [
           "Burg, Michael"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "b70ee2127527613f60b6a9afa156abcc63bbc9da2cade6224c3278e83f2a7dd1": {
         "sectxt": true,
         "sectionID": "925970",
         "type": "DI",
@@ -418,16 +299,45 @@
         "time": "7:00p-7:50p",
         "building": "HSS",
         "room": "2154",
-        "instructor": "Burg, Michael",
         "instructors": [
           "Burg, Michael"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "03db29512c920154c8251b4bab8a52a294794a0af7dbbc2424d2ef4b9cb7ee87": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "GH",
+        "room": "242",
+        "instructors": [
+          "Chu, Monica W"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "ec16476e198a9f308312daf42bc50bc444a88ff86aea0dd295fbaad3b27bf58f": {
+        "sectxt": true,
+        "sectionID": "925958",
+        "type": "DI",
+        "section": "A05",
+        "days": "W",
+        "time": "8:00a-8:50a",
+        "building": "YORK",
+        "room": "3000A",
+        "instructors": [
+          "Chu, Monica W"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "543b345feb7259ed776415a7c0c9cc83dc747d07e22f5ca46ee94b56c062a156": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -436,14 +346,13 @@
         "time": "5:00p-6:20p",
         "building": "WLH",
         "room": "2001",
-        "instructor": "Burg, Michael",
         "instructors": [
           "Burg, Michael"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       },
-      {
+      "5eeee0790dd8cec5a13fb353f2b9a88658e14c648d8982ec5f83c55a27d18213": {
         "sectxt": true,
         "sectionID": "925971",
         "type": "DI",
@@ -452,14 +361,13 @@
         "time": "7:00p-7:50p",
         "building": "CENTR",
         "room": "217A",
-        "instructor": "Burg, Michael",
         "instructors": [
           "Burg, Michael"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "a6585fc469479fd4b4271ce025579b51a2bbbc0947cc00c09b976cd3ad5d0091": {
         "sectxt": true,
         "sectionID": "925972",
         "type": "DI",
@@ -468,17 +376,77 @@
         "time": "8:00p-8:50p",
         "building": "CENTR",
         "room": "217A",
-        "instructor": "Burg, Michael",
         "instructors": [
           "Burg, Michael"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "Th": {
+      "2d257d4d8f8210fcf980442c38f4755d8c4da409ba3f67ddf0aace22062b806f": {
+        "sectxt": true,
+        "sectionID": "925959",
+        "type": "DI",
+        "section": "A06",
+        "days": "Th",
+        "time": "8:00a-8:50a",
+        "building": "CENTR",
+        "room": "207",
+        "instructors": [
+          "Chu, Monica W"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "640cbfd1d2e9de598757cf0e04a380666d5591177b232d5867695d0095f67648": {
+        "sectxt": true,
+        "sectionID": "925960",
+        "type": "DI",
+        "section": "A07",
+        "days": "Th",
+        "time": "1:00p-1:50p",
+        "building": "YORK",
+        "room": "3000A",
+        "instructors": [
+          "Chu, Monica W"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    },
+    "F": {
+      "d279da4a3d7ccd6f447b5cb8f0bddd178e11c77d67d14b93ba22188196cebe12": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "GH",
+        "room": "242",
+        "instructors": [
+          "Chu, Monica W"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "8ece7322ca04212bb59439e76fc3e47525f71e1f06e3e3ad237e8d27f73bd284": {
+        "sectxt": true,
+        "sectionID": "925961",
+        "type": "DI",
+        "section": "A08",
+        "days": "F",
+        "time": "8:00a-8:50a",
+        "building": "CENTR",
+        "room": "218",
+        "instructors": [
+          "Chu, Monica W"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "768ac934524be3b015ab43c98992c61e220f6999c65c4cb84b233a5bceb525fe": {
         "sectxt": true,
         "sectionID": "925973",
         "type": "DI",
@@ -487,14 +455,13 @@
         "time": "8:00a-8:50a",
         "building": "YORK",
         "room": "3000A",
-        "instructor": "Burg, Michael",
         "instructors": [
           "Burg, Michael"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "438ac0f543bfc604e145b67ac850ed3888d1e7b20e0711a81a08591e0912437f": {
         "sectxt": true,
         "sectionID": "925974",
         "type": "DI",
@@ -503,15 +470,16 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "203",
-        "instructor": "Burg, Michael",
         "instructors": [
           "Burg, Michael"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

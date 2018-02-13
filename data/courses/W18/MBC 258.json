@@ -3,36 +3,8 @@
   "name": "MAS-MBC Forum",
   "department": "MBC",
   "id": "258",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922160",
-      "type": "IN",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Murray, Samantha J.",
-      "instructors": [
-        "Murray, Samantha J."
-      ]
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": []
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -43,7 +15,6 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Murray, Samantha J.",
       "instructors": [
         "Murray, Samantha J."
       ]
@@ -57,17 +28,9 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": []
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

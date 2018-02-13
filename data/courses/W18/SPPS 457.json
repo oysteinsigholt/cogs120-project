@@ -3,27 +3,24 @@
   "name": "Medicatn Utilization Eval APPE",
   "department": "SPPS",
   "id": "457",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "919919",
-      "type": "CL",
-      "section": "B00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Colbert, James",
-      "instructors": [
-        "Colbert, James"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "919918",
+      "type": "CL",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Colbert, James"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "919919",
       "type": "CL",
       "section": "B00",
@@ -31,19 +28,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Colbert, James",
       "instructors": [
         "Colbert, James"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

@@ -3,32 +3,12 @@
   "name": "Contemporary Critical Issues",
   "department": "VIS",
   "id": "201",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922814",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "12:00p-2:50p",
-      "building": "VAF",
-      "room": "366",
-      "instructor": "Cartwright, Lisa",
-      "instructors": [
-        "Cartwright, Lisa"
-      ],
-      "start_time": "12:00",
-      "end_time": "14:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "8dd43ac7cec452bf038bc5142b37ba491b5fdda87e85f492eb3cefe092ae2373": {
         "sectxt": true,
         "sectionID": "922814",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "12:00p-2:50p",
         "building": "VAF",
         "room": "366",
-        "instructor": "Cartwright, Lisa",
         "instructors": [
           "Cartwright, Lisa"
         ],
         "start_time": "12:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,30 +3,12 @@
   "name": "Assistant Designer",
   "department": "TDDE",
   "id": "130",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920371",
-      "type": "LA",
-      "section": "A00",
-      "days": "MTuWThF",
-      "time": "5:30p-10:20p",
-      "building": "GH",
-      "room": "111",
-      "instructor": "Guirguis, Mark C",
-      "instructors": [
-        "Guirguis, Mark C"
-      ],
-      "start_time": "17:30",
-      "end_time": "22:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "b079c75dc6e53901da0e169396b6c72f3ff85a0ca8ccedd12262f6ee7f9e2e8a": {
         "sectxt": true,
         "sectionID": "920371",
         "type": "LA",
@@ -35,16 +17,15 @@
         "time": "5:30p-10:20p",
         "building": "GH",
         "room": "111",
-        "instructor": "Guirguis, Mark C",
         "instructors": [
           "Guirguis, Mark C"
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "3eb7d7bf50f3804bd487d67c3c7edd354e0ee6f5d968f199ace2423f97bd4f25": {
         "sectxt": true,
         "sectionID": "920371",
         "type": "LA",
@@ -53,16 +34,15 @@
         "time": "5:30p-10:20p",
         "building": "GH",
         "room": "111",
-        "instructor": "Guirguis, Mark C",
         "instructors": [
           "Guirguis, Mark C"
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "f20cc269587ea25616ffa073391f0129fde1e860c274f715ee426e335722b10b": {
         "sectxt": true,
         "sectionID": "920371",
         "type": "LA",
@@ -71,16 +51,15 @@
         "time": "5:30p-10:20p",
         "building": "GH",
         "room": "111",
-        "instructor": "Guirguis, Mark C",
         "instructors": [
           "Guirguis, Mark C"
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "6d3ba938ab4bc6685ad1bd6a634eabcab5d411727d8a2f2ad22fd8f60901da66": {
         "sectxt": true,
         "sectionID": "920371",
         "type": "LA",
@@ -89,16 +68,15 @@
         "time": "5:30p-10:20p",
         "building": "GH",
         "room": "111",
-        "instructor": "Guirguis, Mark C",
         "instructors": [
           "Guirguis, Mark C"
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "d085cb8b059b33a9b6fa5681f62e0e458053b7e8f1f835424ac5a8b7762f9e41": {
         "sectxt": true,
         "sectionID": "920371",
         "type": "LA",
@@ -107,15 +85,15 @@
         "time": "5:30p-10:20p",
         "building": "GH",
         "room": "111",
-        "instructor": "Guirguis, Mark C",
         "instructors": [
           "Guirguis, Mark C"
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

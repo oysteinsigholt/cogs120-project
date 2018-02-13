@@ -3,56 +3,9 @@
   "name": "Mechanics III: Vibrations",
   "department": "MAE",
   "id": "130C",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922898",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "CENTR",
-      "room": "113",
-      "instructor": "Nesterenko, Vitali F",
-      "instructors": [
-        "Nesterenko, Vitali F"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "7:00p-7:50p",
-      "building": "MANDE",
-      "room": "B-210",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -61,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "b81f4a9fefb9f35845828f1ec55c7d82cf81d8f539cc021008f4192683d71b31": {
         "sectxt": true,
         "sectionID": "922898",
         "type": "LE",
@@ -81,14 +32,13 @@
         "time": "3:30p-4:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Nesterenko, Vitali F",
         "instructors": [
           "Nesterenko, Vitali F"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       },
-      {
+      "3e08a9c5a0bc74f6cd0e95230a38ee890638d9a82f8b8716ac809e2960f8fe02": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -97,15 +47,13 @@
         "time": "7:00p-7:50p",
         "building": "MANDE",
         "room": "B-210",
-        "instructor": "",
         "instructors": [],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "be56913c8755fbb9db704852618516a1d1ed3adc26155e54ff4c7c9aa60a4438": {
         "sectxt": true,
         "sectionID": "922898",
         "type": "LE",
@@ -114,16 +62,15 @@
         "time": "3:30p-4:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Nesterenko, Vitali F",
         "instructors": [
           "Nesterenko, Vitali F"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

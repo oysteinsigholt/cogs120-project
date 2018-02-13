@@ -3,31 +3,12 @@
   "name": "CI: Internet Industry",
   "department": "COMM",
   "id": "106I",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930085",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "WLH",
-      "room": "2205",
-      "instructor": "Irani, Lilly C",
-      "instructors": [
-        "Irani, Lilly C"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "3f56f9b99857db228304d8725fabe8a9847ebe7acf4a73e8778c055fbee825ce": {
         "sectxt": true,
         "sectionID": "930085",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "2:00p-3:20p",
         "building": "WLH",
         "room": "2205",
-        "instructor": "Irani, Lilly C",
         "instructors": [
           "Irani, Lilly C"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "e25f648a75abd5a477d1958121e5f827cd3a042fe22eb98d86c2c6d1d4f3aac4": {
         "sectxt": true,
         "sectionID": "930085",
         "type": "LE",
@@ -55,16 +34,16 @@
         "time": "2:00p-3:20p",
         "building": "WLH",
         "room": "2205",
-        "instructor": "Irani, Lilly C",
         "instructors": [
           "Irani, Lilly C"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

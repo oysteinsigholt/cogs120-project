@@ -3,73 +3,9 @@
   "name": "Language Development",
   "department": "COGS",
   "id": "156",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "WLH",
-      "room": "2111",
-      "instructor": "Creel, Sarah",
-      "instructors": [
-        "Creel, Sarah"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925587",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "PCYNH",
-      "room": "121",
-      "instructor": "Creel, Sarah",
-      "instructors": [
-        "Creel, Sarah"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/30/2018",
-      "days": "Tu",
-      "time": "6:30p-7:50p",
-      "building": "PCYNH",
-      "room": "121",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-30T08:00:00.000Z",
-      "start_time": "18:30",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "3ce4432804ffe1a832c98ba8d53670d3e1d219434ca9bd22e1a78e55a4924176": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -78,13 +14,12 @@
       "time": "6:30p-7:50p",
       "building": "PCYNH",
       "room": "121",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-30T08:00:00.000Z",
       "start_time": "18:30",
       "end_time": "19:50"
     },
-    {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -93,17 +28,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "f3fa7da01901c41d95820df92d768510a07eba1d26e1ef8a7a56111668ba3cdd": {
         "sectxt": true,
         "sectionID": "925587",
         "type": "DI",
@@ -112,16 +46,15 @@
         "time": "2:00p-2:50p",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "Creel, Sarah",
         "instructors": [
           "Creel, Sarah"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "77a90d7a8864ca19fd9b8963b8c321ba412d20b52100d010e9805af3b2d06f08": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -130,17 +63,15 @@
         "time": "12:30p-1:50p",
         "building": "WLH",
         "room": "2111",
-        "instructor": "Creel, Sarah",
         "instructors": [
           "Creel, Sarah"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f8ad585298e7b342895c254554dd0fa501d6feea536e74d6146ebcf55fb31294": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -149,16 +80,15 @@
         "time": "12:30p-1:50p",
         "building": "WLH",
         "room": "2111",
-        "instructor": "Creel, Sarah",
         "instructors": [
           "Creel, Sarah"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

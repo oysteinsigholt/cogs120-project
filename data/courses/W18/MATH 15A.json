@@ -3,106 +3,9 @@
   "name": "Intro/Discrete Mathematics",
   "department": "MATH",
   "id": "15A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "4:00p-4:50p",
-      "building": "CENTR",
-      "room": "212",
-      "instructor": "Knop, Aleksandr",
-      "instructors": [
-        "Knop, Aleksandr"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926860",
-      "type": "DI",
-      "section": "A01",
-      "days": "Th",
-      "time": "2:00p-2:50p",
-      "building": "WLH",
-      "room": "2208",
-      "instructor": "Knop, Aleksandr",
-      "instructors": [
-        "Knop, Aleksandr"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926861",
-      "type": "DI",
-      "section": "A02",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926862",
-      "type": "DI",
-      "section": "A03",
-      "days": "Th",
-      "time": "4:00p-4:50p",
-      "building": "WLH",
-      "room": "2208",
-      "instructor": "Knop, Aleksandr",
-      "instructors": [
-        "Knop, Aleksandr"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926863",
-      "type": "DI",
-      "section": "A04",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b9b4ec5af540606b238988bee0286fc3a4cc4d540b7785beb08dccae4a0227c9": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -111,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "827d8e61b0be564cefe3242e8ded91bf3b54cd405249ba4e71bd8ae53b45dd4d": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -130,17 +32,15 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "212",
-        "instructor": "Knop, Aleksandr",
         "instructors": [
           "Knop, Aleksandr"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "77e4ef4f5c961a7ec147a3ff6cc6346072c465cf4d729938bdc40fc2c3b04f3d": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -149,16 +49,15 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "212",
-        "instructor": "Knop, Aleksandr",
         "instructors": [
           "Knop, Aleksandr"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "b078a510f73d4179a8a9ed59ceb0793ef8f7d93f178cd51e1af26e96e628e820": {
         "sectxt": true,
         "sectionID": "926860",
         "type": "DI",
@@ -167,14 +66,13 @@
         "time": "2:00p-2:50p",
         "building": "WLH",
         "room": "2208",
-        "instructor": "Knop, Aleksandr",
         "instructors": [
           "Knop, Aleksandr"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "cdb4df8c89d7140664c963e2d260b022c66bfd467c245b72ccd4f2ffd917b12c": {
         "sectxt": true,
         "sectionID": "926862",
         "type": "DI",
@@ -183,16 +81,15 @@
         "time": "4:00p-4:50p",
         "building": "WLH",
         "room": "2208",
-        "instructor": "Knop, Aleksandr",
         "instructors": [
           "Knop, Aleksandr"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "8d2cf69a2f10e29d11598efd4f3a13b2565737a4fa81d866a0dc0a402488cda1": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -201,15 +98,15 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "212",
-        "instructor": "Knop, Aleksandr",
         "instructors": [
           "Knop, Aleksandr"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

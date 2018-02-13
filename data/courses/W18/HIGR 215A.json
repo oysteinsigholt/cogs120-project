@@ -3,30 +3,12 @@
   "name": "Res. Sem./Modern Chinese Hist.",
   "department": "HIGR",
   "id": "215A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924561",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "8:30a-11:20a",
-      "building": "HSS",
-      "room": "6008",
-      "instructor": "Gerth, Karl G.",
-      "instructors": [
-        "Gerth, Karl G."
-      ],
-      "start_time": "8:30",
-      "end_time": "11:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "12b917384637d442e326758f6d61d87ea7694dc0e90fbe9d8a0e8bd29b936cc1": {
         "sectxt": true,
         "sectionID": "924561",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "8:30a-11:20a",
         "building": "HSS",
         "room": "6008",
-        "instructor": "Gerth, Karl G.",
         "instructors": [
           "Gerth, Karl G."
         ],
         "start_time": "8:30",
         "end_time": "11:20"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

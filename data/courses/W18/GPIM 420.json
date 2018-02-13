@@ -3,30 +3,12 @@
   "name": "Marketing",
   "department": "GPIM",
   "id": "420",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921717",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "9:30a-10:50a",
-      "building": "RBC",
-      "room": "GARDN",
-      "instructor": "Karmarkar, Uma R",
-      "instructors": [
-        "Karmarkar, Uma R"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "4b81d914c0f5d3a7f4ee5f273143155a3b541cdd2edb572b0b555a6a8d566d4d": {
         "sectxt": true,
         "sectionID": "921717",
         "type": "LE",
@@ -35,17 +17,15 @@
         "time": "9:30a-10:50a",
         "building": "RBC",
         "room": "GARDN",
-        "instructor": "Karmarkar, Uma R",
         "instructors": [
           "Karmarkar, Uma R"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "308909b6b6b5010763e625dcc95486104dea875c5f033f410b8b00801a034c32": {
         "sectxt": true,
         "sectionID": "921717",
         "type": "LE",
@@ -54,17 +34,15 @@
         "time": "9:30a-10:50a",
         "building": "RBC",
         "room": "GARDN",
-        "instructor": "Karmarkar, Uma R",
         "instructors": [
           "Karmarkar, Uma R"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

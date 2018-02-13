@@ -3,73 +3,65 @@
   "name": "Mathematical Reasoning",
   "department": "MATH",
   "id": "109",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "E00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "APM",
-      "room": "B412",
-      "instructor": "Ioana, Adrian",
-      "instructors": [
-        "Ioana, Adrian"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927138",
-      "type": "DI",
-      "section": "E01",
-      "days": "F",
-      "time": "4:00p-4:50p",
-      "building": "APM",
-      "room": "B412",
-      "instructor": "Ioana, Adrian",
-      "instructors": [
-        "Ioana, Adrian"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/24/2018",
-      "days": "W",
-      "time": "5:00p-6:20p",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-24T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "4eb92b101793a8b1b464c08386cf1c91c3267097e28fd3a19f7a455e0b6151d4": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -78,13 +70,12 @@
       "time": "5:00p-6:20p",
       "building": "WLH",
       "room": "2114",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-24T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "18:20"
     },
-    {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -93,18 +84,123 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "40cdd3ea393878439ebaf5c767383214e7d7acfe333c98c416ae87493bc85dba": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "105",
+        "instructors": [
+          "Carter, Anne Toulson"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "7b590151cd28db772cb5f38ee83595f178c8f3cb089eb9bf525519f33a482289": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "212",
+        "instructors": [
+          "Licht, Martin W"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "01a27efc910c2441b6e37ad20f58279c8d5550a062e7c7213b0d2a43ce4a2ddb": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "216",
+        "instructors": [
+          "Rabin, Jeffrey Mark"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "b5412fe1fec507d7cbe6210a97608ae25503673cc7d699eb611f0fb47e098db8": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "109",
+        "instructors": [
+          "Chow, Bennett"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    },
+    "Tu": {
+      "96aabcbcc6e8c683612d9c5fe55e4fcddf83f6a650f97d8fcdbd41dc593c6357": {
+        "sectxt": true,
+        "sectionID": "927121",
+        "type": "DI",
+        "section": "A01",
+        "days": "Tu",
+        "time": "8:00p-8:50p",
+        "building": "APM",
+        "room": "B412",
+        "instructors": [
+          "Carter, Anne Toulson"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "1173b04e93dded72c742aafae991b5a57194e8b005c3f4e826626847c4737cc4": {
+        "sectxt": true,
+        "sectionID": "927123",
+        "type": "DI",
+        "section": "A02",
+        "days": "Tu",
+        "time": "9:00p-9:50p",
+        "building": "APM",
+        "room": "B412",
+        "instructors": [
+          "Carter, Anne Toulson"
+        ],
+        "start_time": "21:00",
+        "end_time": "21:50"
+      },
+      "6c4933466a9093d3eebd8db88ee074bb86cec3771792e1267f124648c70f239e": {
+        "sectxt": true,
+        "sectionID": "927124",
+        "type": "DI",
+        "section": "A03",
+        "days": "Tu",
+        "time": "7:00p-7:50p",
+        "building": "APM",
+        "room": "B412",
+        "instructors": [
+          "Carter, Anne Toulson"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "e8359755f5c87874a6f2f46d9560af355db0284150a0f0249dae490d69fc88ab": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -113,17 +209,212 @@
         "time": "9:30a-10:50a",
         "building": "APM",
         "room": "B412",
-        "instructor": "Ioana, Adrian",
         "instructors": [
           "Ioana, Adrian"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "W": {
+      "9e7000e2f88be7b1f47b2ec9cdc4cadb0aac4f8df501aa444c431665ffa5d103": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "105",
+        "instructors": [
+          "Carter, Anne Toulson"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "346e9d97d27f467115ca4e2e6de0756325a93bb7f40c6a9873a7fede3f635bf6": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "212",
+        "instructors": [
+          "Licht, Martin W"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "9451c2b328de35147450b2bda3097b7425772eca230307172796c3b2da6b4432": {
+        "sectxt": true,
+        "sectionID": "927126",
+        "type": "DI",
+        "section": "B01",
+        "days": "W",
+        "time": "4:00p-4:50p",
+        "building": "APM",
+        "room": "B412",
+        "instructors": [
+          "Licht, Martin W"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "f5a93bf531e479521cdd592661d4875b2c4acca1892ce76107efa8aadb4239f6": {
+        "sectxt": true,
+        "sectionID": "927127",
+        "type": "DI",
+        "section": "B02",
+        "days": "W",
+        "time": "5:00p-5:50p",
+        "building": "APM",
+        "room": "B412",
+        "instructors": [
+          "Licht, Martin W"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "f144a3194ed6763286588c1d442e9bc7ceeaccf352903998f3f704ada6454a8e": {
+        "sectxt": true,
+        "sectionID": "927128",
+        "type": "DI",
+        "section": "B03",
+        "days": "W",
+        "time": "6:00p-6:50p",
+        "building": "APM",
+        "room": "B412",
+        "instructors": [
+          "Licht, Martin W"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "2f573f774df51e370271d6382b7064b4dba2dfdd0d4592312ef2b117be645848": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "216",
+        "instructors": [
+          "Rabin, Jeffrey Mark"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "7d2b4b351fccec8258134506a47d5c42820dc0bb22b8154e5495d0eabbd15ebb": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "109",
+        "instructors": [
+          "Chow, Bennett"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      }
+    },
+    "Th": {
+      "836fae1426c9630a105dcab2a25d72df4ddd0795ac7a604672bf437dc24f0dd2": {
+        "sectxt": true,
+        "sectionID": "927130",
+        "type": "DI",
+        "section": "C01",
+        "days": "Th",
+        "time": "8:00p-8:50p",
+        "building": "APM",
+        "room": "2402",
+        "instructors": [
+          "Rabin, Jeffrey Mark"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "d576e7c5f91c09f802f8fc6aef292d48d0e3e3c7f98994f7d02e60f14c37054a": {
+        "sectxt": true,
+        "sectionID": "927131",
+        "type": "DI",
+        "section": "C02",
+        "days": "Th",
+        "time": "9:00p-9:50p",
+        "building": "APM",
+        "room": "2402",
+        "instructors": [
+          "Rabin, Jeffrey Mark"
+        ],
+        "start_time": "21:00",
+        "end_time": "21:50"
+      },
+      "4b3b2e086961c6123e4dd5510d165ddeb4776cfae57acfbb46605871dacab653": {
+        "sectxt": true,
+        "sectionID": "927132",
+        "type": "DI",
+        "section": "C03",
+        "days": "Th",
+        "time": "7:00p-7:50p",
+        "building": "APM",
+        "room": "B412",
+        "instructors": [
+          "Rabin, Jeffrey Mark"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "aecafc09eb9f599a0343fb6e8c1be12476f65e12d8cf589e3d588cb5b0210484": {
+        "sectxt": true,
+        "sectionID": "927134",
+        "type": "DI",
+        "section": "D01",
+        "days": "Th",
+        "time": "8:00a-8:50a",
+        "building": "APM",
+        "room": "2402",
+        "instructors": [
+          "Chow, Bennett"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "90dde1c1c01e1c6443d00a52a78d3f3dd050d9c7238241487de4eee7dafdc2bc": {
+        "sectxt": true,
+        "sectionID": "927135",
+        "type": "DI",
+        "section": "D02",
+        "days": "Th",
+        "time": "9:00a-9:50a",
+        "building": "APM",
+        "room": "2402",
+        "instructors": [
+          "Chow, Bennett"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "a3a1cc4f9918560dd6b84abfb9476456e1bd589d5698f563ab5ff03d51b5927a": {
+        "sectxt": true,
+        "sectionID": "927136",
+        "type": "DI",
+        "section": "D03",
+        "days": "Th",
+        "time": "10:00a-10:50a",
+        "building": "APM",
+        "room": "2402",
+        "instructors": [
+          "Chow, Bennett"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "d4c9e2eb7b238d176a6f605125ab9acbc4a91543963a86351108b3b3cb782abb": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -132,16 +423,75 @@
         "time": "9:30a-10:50a",
         "building": "APM",
         "room": "B412",
-        "instructor": "Ioana, Adrian",
         "instructors": [
           "Ioana, Adrian"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "57d13ebef86c1f21d3cb4f95dd18b6de95918f2164de032cc92a04d5a99151c4": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "105",
+        "instructors": [
+          "Carter, Anne Toulson"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "db676cfa4db9f005bd4fc295e9df4adca15ad5bf78ff6727da09101f2f711219": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "212",
+        "instructors": [
+          "Licht, Martin W"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "4f24bfec141ab18ff3b5c19b66ac27bb1f95f83dec7ae9d3f964a74ab12a484b": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "216",
+        "instructors": [
+          "Rabin, Jeffrey Mark"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "0c7fa54693659353db5196a1e505b40de60918a4bd4044ef1093d3545b2bc3b9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "109",
+        "instructors": [
+          "Chow, Bennett"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "8518a0d87a3a43770142b6c10442d61eb37026fbd218f10bc0ffb34909f33c88": {
         "sectxt": true,
         "sectionID": "927138",
         "type": "DI",
@@ -150,15 +500,19 @@
         "time": "4:00p-4:50p",
         "building": "APM",
         "room": "B412",
-        "instructor": "Ioana, Adrian",
         "instructors": [
           "Ioana, Adrian"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ]
 }

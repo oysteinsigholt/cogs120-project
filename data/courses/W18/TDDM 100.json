@@ -3,30 +3,12 @@
   "name": "Dance Making 1",
   "department": "TDDM",
   "id": "100",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929122",
-      "type": "ST",
-      "section": "A00",
-      "days": "MW",
-      "time": "2:00p-3:50p",
-      "building": "DANCE",
-      "room": "1",
-      "instructor": "Snaith, Yolande",
-      "instructors": [
-        "Snaith, Yolande"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "a1fa2c557e0d0319fd3d5fabb704d0a65af7ebf7cb7a82b45052b35fa9b77825": {
         "sectxt": true,
         "sectionID": "929122",
         "type": "ST",
@@ -35,17 +17,15 @@
         "time": "2:00p-3:50p",
         "building": "DANCE",
         "room": "1",
-        "instructor": "Snaith, Yolande",
         "instructors": [
           "Snaith, Yolande"
         ],
         "start_time": "14:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "5ec67815098274f2853a3843c5470c220dfa6b7942d691dd26969420fa868be1": {
         "sectxt": true,
         "sectionID": "929122",
         "type": "ST",
@@ -54,17 +34,15 @@
         "time": "2:00p-3:50p",
         "building": "DANCE",
         "room": "1",
-        "instructor": "Snaith, Yolande",
         "instructors": [
           "Snaith, Yolande"
         ],
         "start_time": "14:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

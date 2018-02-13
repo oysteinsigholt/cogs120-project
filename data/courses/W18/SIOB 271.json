@@ -3,58 +3,9 @@
   "name": "Marine Zooplankton",
   "department": "SIOB",
   "id": "271",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-11:50a",
-      "building": "VAUGN",
-      "room": "147",
-      "instructor": "Ohman, Mark D",
-      "instructors": [
-        "Ohman, Mark D"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925487",
-      "type": "LA",
-      "section": "A01",
-      "days": "F",
-      "time": "8:00a-12:00p",
-      "building": "VAUGN",
-      "room": "147",
-      "instructor": "Ohman, Mark D",
-      "instructors": [
-        "Ohman, Mark D"
-      ],
-      "start_time": "8:00",
-      "end_time": "12:00"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "8f5cd86a955748c71ed3b0524caeeb63a50a0e72fd21fc5f08d1756339b04ec5": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -83,17 +32,15 @@
         "time": "11:00a-11:50a",
         "building": "VAUGN",
         "room": "147",
-        "instructor": "Ohman, Mark D",
         "instructors": [
           "Ohman, Mark D"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "74ea09cb3d01daba039901e3d18030194c0ce47fc0bd239b573a61ed455612f9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -102,16 +49,15 @@
         "time": "11:00a-11:50a",
         "building": "VAUGN",
         "room": "147",
-        "instructor": "Ohman, Mark D",
         "instructors": [
           "Ohman, Mark D"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "cfb5f3009cace2fc1c9f3ddada5b15e3fd87771dbdbfa57d96b18545b7e465fb": {
         "sectxt": true,
         "sectionID": "925487",
         "type": "LA",
@@ -120,15 +66,15 @@
         "time": "8:00a-12:00p",
         "building": "VAUGN",
         "room": "147",
-        "instructor": "Ohman, Mark D",
         "instructors": [
           "Ohman, Mark D"
         ],
         "start_time": "8:00",
         "end_time": "12:00"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

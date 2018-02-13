@@ -3,24 +3,8 @@
   "name": "Research Conference",
   "department": "MATS",
   "id": "295",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920849",
-      "type": "CO",
-      "section": "I00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Graeve, Olivia A",
-      "instructors": [
-        "Graeve, Olivia A"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,115 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Graeve, Olivia A",
       "instructors": [
         "Graeve, Olivia A"
       ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920841",
+      "type": "CO",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Talbot, Jan B"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920842",
+      "type": "CO",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Yu, Paul K L"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920843",
+      "type": "CO",
+      "section": "C00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Bandaru, Prabhakar"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920844",
+      "type": "CO",
+      "section": "D00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Nesterenko, Vitali F"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920845",
+      "type": "CO",
+      "section": "E00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Vecchio, Kenneth S"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920846",
+      "type": "CO",
+      "section": "F00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "McKittrick, Joanna M"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920847",
+      "type": "CO",
+      "section": "G00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Schuller, Ivan K"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920848",
+      "type": "CO",
+      "section": "H00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Maple, M. Brian"
+      ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

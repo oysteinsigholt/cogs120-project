@@ -3,34 +3,43 @@
   "name": "Theatre Practicum",
   "department": "TDPR",
   "id": "6",
-  "timeslots": [
+  "notes": [
+    "The Practicum lottery will be held Friday, January 12th\n at 2:30pm in GH 155"
+  ],
+  "events_single": {},
+  "events_unknown": [
     {
       "sectxt": true,
-      "sectionID": "920481",
-      "type": "PR",
-      "section": "A02",
-      "days": "F",
-      "time": "2:30p-4:20p",
-      "building": "MWEIS",
-      "room": "THEA",
-      "instructor": "Guirguis, Mark C",
+      "sectionID": "",
+      "type": "LE",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
       "instructors": [
         "Guirguis, Mark C"
-      ],
-      "start_time": "14:30",
-      "end_time": "16:20"
+      ]
     }
   ],
-  "notes": [],
-  "events_single": [],
-  "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "e98a6b619b01360d777a0ef3fd89ad9b0a6401d896697abd99029886d712e0fe": {
+        "sectxt": true,
+        "sectionID": "920480",
+        "type": "PR",
+        "section": "A01",
+        "days": "F",
+        "time": "2:30p-4:20p",
+        "building": "GH",
+        "room": "102",
+        "instructors": [
+          "Guirguis, Mark C"
+        ],
+        "start_time": "14:30",
+        "end_time": "16:20"
+      },
+      "4834b0cdc8d4182665413642868f8db2efe2e7e4967790bdaea1977cc038adb9": {
         "sectxt": true,
         "sectionID": "920481",
         "type": "PR",
@@ -39,15 +48,15 @@
         "time": "2:30p-4:20p",
         "building": "MWEIS",
         "room": "THEA",
-        "instructor": "Guirguis, Mark C",
         "instructors": [
           "Guirguis, Mark C"
         ],
         "start_time": "14:30",
         "end_time": "16:20"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,192 +3,9 @@
   "name": "Introduction to NanoEngineerng",
   "department": "NANO",
   "id": "101",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926733",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "113",
-      "instructor": "Lipomi, Darren John",
-      "instructors": [
-        "Lipomi, Darren John"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/12/2018",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-12T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/19/2018",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-19T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/26/2018",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-26T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/02/2018",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-02T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/09/2018",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-09T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/16/2018",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-16T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/23/2018",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-23T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/02/2018",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-02T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/09/2018",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-09T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/16/2018",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-16T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "8a75978453ad3627756cbb2d1945630c2d4e844336ec2d2a4000e3533a58dac3": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -197,13 +14,12 @@
       "time": "3:00p-3:50p",
       "building": "WLH",
       "room": "2110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-12T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "b4d933d9214d9fcc3f8c7d33207bfe916039039898d8d190775ea9152b69afe1": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -212,13 +28,12 @@
       "time": "3:00p-3:50p",
       "building": "WLH",
       "room": "2110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-19T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "9aa71c79dd599bf72d8847219e2bb8de8d7069d90930ea99f0382c5c3ab8c8e4": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -227,13 +42,12 @@
       "time": "3:00p-3:50p",
       "building": "WLH",
       "room": "2110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-26T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "f512ed550d8b3a2f5df8250cf7143a17c51378419aafc86c60310517b0e55ee6": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -242,13 +56,12 @@
       "time": "3:00p-3:50p",
       "building": "WLH",
       "room": "2110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-02T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "6e6efd5ee49171843281bfdaa4c104e54897d541a1b50a352163a336543e6d8e": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -257,13 +70,12 @@
       "time": "3:00p-3:50p",
       "building": "WLH",
       "room": "2110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-09T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "aabd180d601dae9a9fef5a194fba01c859edc305f57f86c5d1e2df20bad676b9": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -272,13 +84,12 @@
       "time": "3:00p-3:50p",
       "building": "WLH",
       "room": "2110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-16T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "1dce30835ce50090f10a6cab29b347f3547c94ce52637e34a9f13ede48deeb8d": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -287,13 +98,12 @@
       "time": "3:00p-3:50p",
       "building": "WLH",
       "room": "2110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-23T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "c125ee84b167fc2aa20c6342cb91fc01167fc28b618fc31550f05ba03bbdd6d9": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -302,13 +112,12 @@
       "time": "3:00p-3:50p",
       "building": "WLH",
       "room": "2110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-02T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "4af7c994873f9f1b536fe3f4dfe13e240f01bbaa8c96f82bb503b54f3fa20958": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -317,13 +126,12 @@
       "time": "3:00p-3:50p",
       "building": "WLH",
       "room": "2110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-09T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "f69d9696e5afbccb0e6db927b99db9e99f909d2dbfbfbb1db37fb30211a9807e": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -332,13 +140,12 @@
       "time": "3:00p-3:50p",
       "building": "WLH",
       "room": "2110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-16T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -347,17 +154,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "e89ed47e28e414c7a88abaec2b97094eefada3daed70bbed521c58107dda5979": {
         "sectxt": true,
         "sectionID": "926733",
         "type": "LE",
@@ -366,17 +172,15 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Lipomi, Darren John",
         "instructors": [
           "Lipomi, Darren John"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "97c1adc169fd1a3b6ed766d4a7f62598b73cca53402e678fb9727ae601927f15": {
         "sectxt": true,
         "sectionID": "926733",
         "type": "LE",
@@ -385,17 +189,15 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Lipomi, Darren John",
         "instructors": [
           "Lipomi, Darren John"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "4e00c19a88f32962d1721cd7497aa45dc46e4d1e1b92c4720df0788289a5928b": {
         "sectxt": true,
         "sectionID": "926733",
         "type": "LE",
@@ -404,15 +206,15 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Lipomi, Darren John",
         "instructors": [
           "Lipomi, Darren John"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

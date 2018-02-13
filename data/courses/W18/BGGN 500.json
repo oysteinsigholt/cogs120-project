@@ -3,34 +3,48 @@
   "name": "Intro to College Bio Ed",
   "department": "BGGN",
   "id": "500",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929077",
-      "type": "PR",
-      "section": "C00",
-      "days": "W",
-      "time": "4:00p-5:20p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Lo, Stanley Malvin Ming-Hi",
-      "instructors": [
-        "Lo, Stanley Malvin Ming-Hi"
-      ],
-      "start_time": "16:00",
-      "end_time": "17:20"
-    }
-  ],
   "notes": [
+    "BGGN 500 A00 will meet the first six weeks of the\n quarter on January 9, 16, 23, 30, February 6 and 13 in\n PACIF 3500",
+    "BGGN 500 will meet the first six weeks of the quarter\n on January 10, 17, 24, 31, February 7 and 14 in\n PACIf 3500.",
     "BGGN 500 will meet the first six weeks of the quarter\n on January 10, 17, 24, 31, February 7 and 14 in\n PACIF 3500."
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "Tu": {
+      "85f186d025841214733b4f7bbfc57216825af46ca99b314b093d7b04516c73e1": {
+        "sectxt": true,
+        "sectionID": "921657",
+        "type": "PR",
+        "section": "A00",
+        "days": "Tu",
+        "time": "3:30p-4:50p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Lo, Stanley Malvin Ming-Hi"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    },
+    "W": {
+      "299681ecb0abffa78247bf86c8d60e82912ebff42739f909c4cdef78b300fbc4": {
+        "sectxt": true,
+        "sectionID": "929076",
+        "type": "PR",
+        "section": "B00",
+        "days": "W",
+        "time": "12:00p-1:20p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Lo, Stanley Malvin Ming-Hi"
+        ],
+        "start_time": "12:00",
+        "end_time": "13:20"
+      },
+      "af11d7cdaecac0d18542a4229c8aebb488eb64a4beb9095ec1fba8b85099b425": {
         "sectxt": true,
         "sectionID": "929077",
         "type": "PR",
@@ -39,17 +53,17 @@
         "time": "4:00p-5:20p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Lo, Stanley Malvin Ming-Hi",
         "instructors": [
           "Lo, Stanley Malvin Ming-Hi"
         ],
         "start_time": "16:00",
         "end_time": "17:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

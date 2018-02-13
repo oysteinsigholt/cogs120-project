@@ -3,30 +3,12 @@
   "name": "Proseminar/Social Psychology",
   "department": "PSYC",
   "id": "220",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924679",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "1:00p-3:50p",
-      "building": "MNDLR",
-      "room": "3545",
-      "instructor": "Winkielman, Piotr",
-      "instructors": [
-        "Winkielman, Piotr"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "06aee9c5dec140c7f94ae633b0a1a686f6515b10ac7a3ac2ea8e0ecb04388f49": {
         "sectxt": true,
         "sectionID": "924679",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "1:00p-3:50p",
         "building": "MNDLR",
         "room": "3545",
-        "instructor": "Winkielman, Piotr",
         "instructors": [
           "Winkielman, Piotr"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

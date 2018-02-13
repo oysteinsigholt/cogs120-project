@@ -3,58 +3,9 @@
   "name": "Circuits and Electronics",
   "department": "PHYS",
   "id": "120",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "YORK",
-      "room": "2622",
-      "instructor": "Arnold, Kam S",
-      "instructors": [
-        "Arnold, Kam S"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929192",
-      "type": "LA",
-      "section": "A01",
-      "days": "W",
-      "time": "2:00p-5:50p",
-      "building": "MYR-A",
-      "room": "3544",
-      "instructor": "Arnold, Kam S",
-      "instructors": [
-        "Arnold, Kam S"
-      ],
-      "start_time": "14:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "77a90d7a8864ca19fd9b8963b8c321ba412d20b52100d010e9805af3b2d06f08": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -83,16 +32,15 @@
         "time": "12:30p-1:50p",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Arnold, Kam S",
         "instructors": [
           "Arnold, Kam S"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "629f63564cb71855b19cd4570e0cf98c54f71aaf33fbbb887c7f0cd60581b6f6": {
         "sectxt": true,
         "sectionID": "929192",
         "type": "LA",
@@ -101,16 +49,15 @@
         "time": "2:00p-5:50p",
         "building": "MYR-A",
         "room": "3544",
-        "instructor": "Arnold, Kam S",
         "instructors": [
           "Arnold, Kam S"
         ],
         "start_time": "14:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f8ad585298e7b342895c254554dd0fa501d6feea536e74d6146ebcf55fb31294": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -119,16 +66,15 @@
         "time": "12:30p-1:50p",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Arnold, Kam S",
         "instructors": [
           "Arnold, Kam S"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

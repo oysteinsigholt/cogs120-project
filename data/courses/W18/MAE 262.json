@@ -3,31 +3,12 @@
   "name": "Biological Fluid Mechanics",
   "department": "MAE",
   "id": "262",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922844",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "EBU2",
-      "room": "105",
-      "instructor": "Saintillan, David",
-      "instructors": [
-        "Saintillan, David"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "e58c9cd3316ccad5b8427ecebd083340de9c42ebf25f8d48fe7f87bf854033d7": {
         "sectxt": true,
         "sectionID": "922844",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "9:30a-10:50a",
         "building": "EBU2",
         "room": "105",
-        "instructor": "Saintillan, David",
         "instructors": [
           "Saintillan, David"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "c783596fbd8f7e199b62d1277b55c9077b47109613bf92bd68c93d23b53539d6": {
         "sectxt": true,
         "sectionID": "922844",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "9:30a-10:50a",
         "building": "EBU2",
         "room": "105",
-        "instructor": "Saintillan, David",
         "instructors": [
           "Saintillan, David"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

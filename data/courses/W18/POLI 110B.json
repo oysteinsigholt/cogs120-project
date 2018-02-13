@@ -3,42 +3,9 @@
   "name": "Sovereigns,Subj & Modern State",
   "department": "POLI",
   "id": "110B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925303",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "9:00a-9:50a",
-      "building": "CSB",
-      "room": "005",
-      "instructor": "Morgan, Sean Thomas",
-      "instructors": [
-        "Morgan, Sean Thomas"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "db288d0a15515a61efdb7f8b0309ec68445e7ec06791a18881b57c8a9ec0e367": {
         "sectxt": true,
         "sectionID": "925303",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "9:00a-9:50a",
         "building": "CSB",
         "room": "005",
-        "instructor": "Morgan, Sean Thomas",
         "instructors": [
           "Morgan, Sean Thomas"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "91f24466fdf9d5e4f15a8d462562dbaf538b4fcd606200928390e29f8de797c6": {
         "sectxt": true,
         "sectionID": "925303",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "9:00a-9:50a",
         "building": "CSB",
         "room": "005",
-        "instructor": "Morgan, Sean Thomas",
         "instructors": [
           "Morgan, Sean Thomas"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "e64ec2aa826983cc188c47128e2dda4ed8b22cabe8b9f10d5657702ed7cb6d4c": {
         "sectxt": true,
         "sectionID": "925303",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "9:00a-9:50a",
         "building": "CSB",
         "room": "005",
-        "instructor": "Morgan, Sean Thomas",
         "instructors": [
           "Morgan, Sean Thomas"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

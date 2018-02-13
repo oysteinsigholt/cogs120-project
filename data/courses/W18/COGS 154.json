@@ -3,42 +3,9 @@
   "name": "Comm Disorders/Children&Adults",
   "department": "COGS",
   "id": "154",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925585",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "8:00a-9:20a",
-      "building": "PETER",
-      "room": "104",
-      "instructor": "Yang, Dorothy Daw-Shin",
-      "instructors": [
-        "Yang, Dorothy Daw-Shin"
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "dd676d16fe40282f569d964407ee43ef59fe83f9bfe362961f8f8fc7117be01a": {
         "sectxt": true,
         "sectionID": "925585",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "8:00a-9:20a",
         "building": "PETER",
         "room": "104",
-        "instructor": "Yang, Dorothy Daw-Shin",
         "instructors": [
           "Yang, Dorothy Daw-Shin"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "762a6953730fe02421a02912ed7fcec21578a92638cfafe5e8574b2f1cd47a4e": {
         "sectxt": true,
         "sectionID": "925585",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "8:00a-9:20a",
         "building": "PETER",
         "room": "104",
-        "instructor": "Yang, Dorothy Daw-Shin",
         "instructors": [
           "Yang, Dorothy Daw-Shin"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

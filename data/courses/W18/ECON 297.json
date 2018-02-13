@@ -3,27 +3,89 @@
   "name": "Independent Study",
   "department": "ECON",
   "id": "297",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "932632",
-      "type": "IN",
-      "section": "007",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Jacobsen, Mark",
-      "instructors": [
-        "Jacobsen, Mark"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "931510",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Bharadwaj, Prashant"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "931512",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Callen, Michael J"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "931513",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Cullen, Julie"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "931514",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Lagakos, David P."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "931511",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Sobel, Joel"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "931780",
+      "type": "IN",
+      "section": "006",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hamilton, James D."
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "932632",
       "type": "IN",
       "section": "007",
@@ -31,19 +93,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Jacobsen, Mark",
       "instructors": [
         "Jacobsen, Mark"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

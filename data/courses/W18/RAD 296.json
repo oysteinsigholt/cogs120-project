@@ -3,27 +3,50 @@
   "name": "Radiology Independent Research",
   "department": "RAD",
   "id": "296",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928613",
-      "type": "IN",
-      "section": "004",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Norbash, Alexander",
-      "instructors": [
-        "Norbash, Alexander"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "928610",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Brouha, Sharon S"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "928611",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Ward, Samuel R."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "928612",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hsiao, Albert"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "928613",
       "type": "IN",
       "section": "004",
@@ -31,19 +54,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Norbash, Alexander",
       "instructors": [
         "Norbash, Alexander"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

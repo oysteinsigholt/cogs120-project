@@ -3,27 +3,37 @@
   "name": "Methods of Teaching Chemistry",
   "department": "CHEM",
   "id": "195",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "931786",
-      "type": "SE",
-      "section": "C00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Weizman, Haim",
-      "instructors": [
-        "Weizman, Haim"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "931784",
+      "type": "SE",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Ternansky, Robert J."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "931785",
+      "type": "SE",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hoeger, Carl"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "931786",
       "type": "SE",
       "section": "C00",
@@ -31,19 +41,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Weizman, Haim",
       "instructors": [
         "Weizman, Haim"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

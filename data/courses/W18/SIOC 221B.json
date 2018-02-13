@@ -3,42 +3,9 @@
   "name": "Analysis/Physical Ocean Data",
   "department": "SIOC",
   "id": "221B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921983",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "SPIES",
-      "room": "330",
-      "instructor": "Rudnick, Daniel Lars",
-      "instructors": [
-        "Rudnick, Daniel Lars"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "be06d78c6cf3e7cc59325f135f6e0e22a8753259f0d131043d985710f9e1a427": {
         "sectxt": true,
         "sectionID": "921983",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "2:00p-2:50p",
         "building": "SPIES",
         "room": "330",
-        "instructor": "Rudnick, Daniel Lars",
         "instructors": [
           "Rudnick, Daniel Lars"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "9f0054bb15073d8dda4d333b2557424d03aa4bcc5e9f2efdc0d007c6feb3f3ee": {
         "sectxt": true,
         "sectionID": "921983",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "2:00p-2:50p",
         "building": "SPIES",
         "room": "330",
-        "instructor": "Rudnick, Daniel Lars",
         "instructors": [
           "Rudnick, Daniel Lars"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "6dee36d1d3280dde5f9ed0af7b27b68df9fe13541572166b061ab54bb77d54d4": {
         "sectxt": true,
         "sectionID": "921983",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "2:00p-2:50p",
         "building": "SPIES",
         "room": "330",
-        "instructor": "Rudnick, Daniel Lars",
         "instructors": [
           "Rudnick, Daniel Lars"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

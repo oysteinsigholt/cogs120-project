@@ -3,30 +3,12 @@
   "name": "Seminar/Probability&Statistics",
   "department": "MATH",
   "id": "288",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927316",
-      "type": "SE",
-      "section": "B00",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "APM",
-      "room": "7218",
-      "instructor": "Bradic, Jelena",
-      "instructors": [
-        "Bradic, Jelena"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "99e37215fcd19ec6b30f3f9e3b0e64db740f7ae533dca6ad5c1749379289ed39": {
         "sectxt": true,
         "sectionID": "927316",
         "type": "SE",
@@ -35,19 +17,33 @@
         "time": "4:00p-4:50p",
         "building": "APM",
         "room": "7218",
-        "instructor": "Bradic, Jelena",
         "instructors": [
           "Bradic, Jelena"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "Th": {
+      "1221d0c607c26795c70706dfa9c3e1d4f9ec6266eaa6c9617643016555714ae5": {
+        "sectxt": true,
+        "sectionID": "927315",
+        "type": "SE",
+        "section": "A00",
+        "days": "Th",
+        "time": "10:00a-11:20a",
+        "building": "APM",
+        "room": "6402",
+        "instructors": [
+          "Zheng, Tianyi"
+        ],
+        "start_time": "10:00",
+        "end_time": "11:20"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

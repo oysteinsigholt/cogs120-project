@@ -3,30 +3,12 @@
   "name": "West African Dance",
   "department": "TDMV",
   "id": "143",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920472",
-      "type": "ST",
-      "section": "A00",
-      "days": "MW",
-      "time": "4:00p-5:50p",
-      "building": "DANCE",
-      "room": "3",
-      "instructor": "Foster-King, Sandra",
-      "instructors": [
-        "Foster-King, Sandra"
-      ],
-      "start_time": "16:00",
-      "end_time": "17:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "8c725cf8e22c3421ebae3ec9cb56fbd268db261af229f242520e4f6660a74747": {
         "sectxt": true,
         "sectionID": "920472",
         "type": "ST",
@@ -35,17 +17,15 @@
         "time": "4:00p-5:50p",
         "building": "DANCE",
         "room": "3",
-        "instructor": "Foster-King, Sandra",
         "instructors": [
           "Foster-King, Sandra"
         ],
         "start_time": "16:00",
         "end_time": "17:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "a15b856d115109b2705d9e2a19cb2c28a8bcd6de6f26da00c1819a1f94137bc1": {
         "sectxt": true,
         "sectionID": "920472",
         "type": "ST",
@@ -54,17 +34,15 @@
         "time": "4:00p-5:50p",
         "building": "DANCE",
         "room": "3",
-        "instructor": "Foster-King, Sandra",
         "instructors": [
           "Foster-King, Sandra"
         ],
         "start_time": "16:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

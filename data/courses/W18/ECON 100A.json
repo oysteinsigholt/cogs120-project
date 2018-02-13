@@ -3,167 +3,11 @@
   "name": "Microeconomics A",
   "department": "ECON",
   "id": "100A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "SOLIS",
-      "room": "107",
-      "instructor": "Famulari, Melissa",
-      "instructors": [
-        "Famulari, Melissa"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924041",
-      "type": "DI",
-      "section": "B01",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "PETER",
-      "room": "104",
-      "instructor": "Famulari, Melissa",
-      "instructors": [
-        "Famulari, Melissa"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924042",
-      "type": "DI",
-      "section": "B02",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924043",
-      "type": "DI",
-      "section": "B03",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "MANDE",
-      "room": "B-210",
-      "instructor": "Famulari, Melissa",
-      "instructors": [
-        "Famulari, Melissa"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/21/2018",
-      "days": "Sun",
-      "time": "2:00p-3:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-21T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/18/2018",
-      "days": "Sun",
-      "time": "2:00p-3:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-18T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "03/11/2018",
-      "days": "Sun",
-      "time": "2:00p-3:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-11T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "01/26/2018",
-      "days": "F",
-      "time": "7:00p-8:20p",
-      "building": "PETER",
-      "room": "110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-26T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "20:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "02/23/2018",
-      "days": "F",
-      "time": "7:00p-8:20p",
-      "building": "PETER",
-      "room": "110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-23T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "20:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/17/2018",
-      "days": "S",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-17T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [
     "Review Sessions for ECON 100A B00 will meet in same\n location as ECON 100A A00."
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "b24c519d3c206b30c2f05a4134d0bd69b60fa57b5e784e849631b93dc41c70db": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -172,13 +16,12 @@
       "time": "2:00p-3:50p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-21T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "15:50"
     },
-    {
+    "437372e733c9a1865efd643535dfd95363f31b976ba301bbd6640a211612983e": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -187,13 +30,12 @@
       "time": "2:00p-3:50p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-18T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "15:50"
     },
-    {
+    "b0be04a32d1d6ba4abe4bd68d2364fe5527e06b1317baad5fa5b23534128604b": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -202,13 +44,12 @@
       "time": "2:00p-3:50p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-11T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "15:50"
     },
-    {
+    "e8cc480e20f527822be038f4887f26c89c6ff8fe3190bfb7f70a37f0a4c7a007": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -217,13 +58,12 @@
       "time": "7:00p-8:20p",
       "building": "PETER",
       "room": "110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-26T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "20:20"
     },
-    {
+    "32e5184051d4fdd4450a0470a085e615830de5ea8a3ee9db15b843898fea764c": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -232,13 +72,12 @@
       "time": "7:00p-8:20p",
       "building": "PETER",
       "room": "110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-23T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "20:20"
     },
-    {
+    "1f41d219eea3fb14a870fb9f3a13485fa4ab97edffa53bebd2d2ffbcadf4db61": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -247,18 +86,31 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-17T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "8987b7af87d847c623f8d9e86e86f1d582c28de0cd3bc163ae563b429ae225f9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "SOLIS",
+        "room": "107",
+        "instructors": [
+          "Famulari, Melissa"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "1d4ebc7ab651956b6685b1bcc2af7566a2a56df81f9b66b342c4cfe7898f878e": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -267,16 +119,60 @@
         "time": "3:30p-4:50p",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Famulari, Melissa",
         "instructors": [
           "Famulari, Melissa"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "dbfb539eff1e92c5b540402cbe629a62ac5a60a2ec0deb4fb316e82cc9c15bda": {
+        "sectxt": true,
+        "sectionID": "924036",
+        "type": "DI",
+        "section": "A01",
+        "days": "W",
+        "time": "6:00p-6:50p",
+        "building": "WLH",
+        "room": "2204",
+        "instructors": [
+          "Famulari, Melissa"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "047309d6e257cbe5fb7e2e8e6d9ef512762e96ef0897c709da0c917b45241c2a": {
+        "sectxt": true,
+        "sectionID": "924037",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "7:00p-7:50p",
+        "building": "WLH",
+        "room": "2204",
+        "instructors": [
+          "Famulari, Melissa"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "9b8df20ca72ba699b04016d89898da790a3ad66d34f1dfb597fd13d87529a46e": {
+        "sectxt": true,
+        "sectionID": "924038",
+        "type": "DI",
+        "section": "A03",
+        "days": "W",
+        "time": "12:00p-12:50p",
+        "building": "MANDE",
+        "room": "B-210",
+        "instructors": [
+          "Famulari, Melissa"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "6b42caf52946a8355b5608ad1300b7f15b6f35a49b22fc5d70722a6cb7dbddf8": {
         "sectxt": true,
         "sectionID": "924041",
         "type": "DI",
@@ -285,14 +181,13 @@
         "time": "6:00p-6:50p",
         "building": "PETER",
         "room": "104",
-        "instructor": "Famulari, Melissa",
         "instructors": [
           "Famulari, Melissa"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "b1c6174e3266e54956802e39bbaa6453283a5e68a211049f2c4e0f28c70a46b6": {
         "sectxt": true,
         "sectionID": "924043",
         "type": "DI",
@@ -301,16 +196,30 @@
         "time": "4:00p-4:50p",
         "building": "MANDE",
         "room": "B-210",
-        "instructor": "Famulari, Melissa",
         "instructors": [
           "Famulari, Melissa"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "126816888d61f914f97a4cf223b36ae2f29f5df8aa68f3942a0e9370bddbed90": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "SOLIS",
+        "room": "107",
+        "instructors": [
+          "Famulari, Melissa"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "2485f8912106c93fdb8b10fcb1b03640f7d7649f507a70b04e67efcffeeb2f35": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -319,16 +228,16 @@
         "time": "3:30p-4:50p",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Famulari, Melissa",
         "instructors": [
           "Famulari, Melissa"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

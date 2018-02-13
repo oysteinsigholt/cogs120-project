@@ -3,44 +3,44 @@
   "name": "Mechanics II: Dynamics",
   "department": "MAE",
   "id": "130B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "933075",
-      "type": "LE",
-      "section": "E00",
-      "days": "MWF",
-      "time": "4:00p-4:50p",
-      "building": "CENTR",
-      "room": "109",
-      "instructor": "Eliasson, Veronica",
-      "instructors": [
-        "Eliasson, Veronica"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
+  "notes": [
+    "Location: CENTR 109\n 4th Hour: CSB 002"
+  ],
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
-      "type": "LE",
-      "section": "E00",
-      "days": "F",
-      "time": "1:00p-1:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
       "instructors": [],
-      "start_time": "13:00",
-      "end_time": "13:50"
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
     }
-  ],
-  "notes": [],
-  "events_single": [],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "23664ac3f185228235cf4702394964181ae547a34b3f785a774d35381bef7cf6": {
+        "sectxt": true,
+        "sectionID": "933074",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Eliasson, Veronica"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "e5b56876a40d83f83638f9f11bfc2a674621dd94a5dc85268393bcc2206af77f": {
         "sectxt": true,
         "sectionID": "933075",
         "type": "LE",
@@ -49,17 +49,30 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "109",
-        "instructor": "Eliasson, Veronica",
         "instructors": [
           "Eliasson, Veronica"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "3b4788cd49b98eb9fd999901869b85a278c43e0f7d372e43bdcff827c41105bd": {
+        "sectxt": true,
+        "sectionID": "933074",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Eliasson, Veronica"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "2f2541db8ca038ebaae4bf984c084f9f6bd6da6373d16933f3757af09c64a53c": {
         "sectxt": true,
         "sectionID": "933075",
         "type": "LE",
@@ -68,17 +81,43 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "109",
-        "instructor": "Eliasson, Veronica",
         "instructors": [
           "Eliasson, Veronica"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "b76829f8fcb2306e5688616dc94e0fe5f30b4d8c14847e4e8c5ede8b7f6fd8aa": {
+        "sectxt": true,
+        "sectionID": "933074",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Eliasson, Veronica"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "4e775e54b05269c64959b8c4c2fdcd5fa3ffb4f5e0f788b0a853f0a375d10eb4": {
+        "sectxt": false,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "F",
+        "time": "12:00p-12:50p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "1bc049828e59d049b50cef6d7a0d8fdb3324d75a982f3f1d883965bea6c472bb": {
         "sectxt": true,
         "sectionID": "933075",
         "type": "LE",
@@ -87,14 +126,13 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "109",
-        "instructor": "Eliasson, Veronica",
         "instructors": [
           "Eliasson, Veronica"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "6da54e0e012915eae305b58feea9bc655d6ce6f7b83c64c8af2a7c746fef8d19": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -103,13 +141,17 @@
         "time": "1:00p-1:50p",
         "building": "CSB",
         "room": "002",
-        "instructor": "",
         "instructors": [],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ]
 }

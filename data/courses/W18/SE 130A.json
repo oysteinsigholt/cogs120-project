@@ -3,71 +3,9 @@
   "name": "Structural Analysis I",
   "department": "SE",
   "id": "130A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923012",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "WLH",
-      "room": "2113",
-      "instructor": "Loh, Kenneth J. H.",
-      "instructors": [
-        "Loh, Kenneth J. H."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "F",
-      "time": "1:00p-1:50p",
-      "building": "WLH",
-      "room": "2113",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/19/2018",
-      "days": "F",
-      "time": "4:00p-4:50p",
-      "building": "CENTR",
-      "room": "207",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-19T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "77699059d86f2310b9d45b258e4a921091cab606dbd050c06a177361a77beacf": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -76,13 +14,12 @@
       "time": "4:00p-4:50p",
       "building": "CENTR",
       "room": "207",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-19T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -91,17 +28,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "20be8fad004a4c0a7a10f04b3535d35a7128b6324ac3a127b1e51362e5ccaab9": {
         "sectxt": true,
         "sectionID": "923012",
         "type": "LE",
@@ -110,17 +46,15 @@
         "time": "11:00a-11:50a",
         "building": "WLH",
         "room": "2113",
-        "instructor": "Loh, Kenneth J. H.",
         "instructors": [
           "Loh, Kenneth J. H."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "56ace4e6716d81328bd41982fb5329bfabfda5b4d3bc1a2e87f2c9720cbeb348": {
         "sectxt": true,
         "sectionID": "923012",
         "type": "LE",
@@ -129,17 +63,15 @@
         "time": "11:00a-11:50a",
         "building": "WLH",
         "room": "2113",
-        "instructor": "Loh, Kenneth J. H.",
         "instructors": [
           "Loh, Kenneth J. H."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "ae278e71714237f2eb10b8bd71184e8c97abfc3a6e84efceeb4712bcd5a4bfbc": {
         "sectxt": true,
         "sectionID": "923012",
         "type": "LE",
@@ -148,14 +80,13 @@
         "time": "11:00a-11:50a",
         "building": "WLH",
         "room": "2113",
-        "instructor": "Loh, Kenneth J. H.",
         "instructors": [
           "Loh, Kenneth J. H."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "e4a7e0b48e5a74a5039a6a4a5657e3e1413e312642286325ab5d305301b5cae2": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -164,13 +95,13 @@
         "time": "1:00p-1:50p",
         "building": "WLH",
         "room": "2113",
-        "instructor": "",
         "instructors": [],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

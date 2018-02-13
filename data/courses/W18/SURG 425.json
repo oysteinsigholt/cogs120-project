@@ -3,24 +3,8 @@
   "name": "Subinternship in Trauma Unit",
   "department": "SURG",
   "id": "425",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928699",
-      "type": "CL",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Doucet, Jay",
-      "instructors": [
-        "Doucet, Jay"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Doucet, Jay",
       "instructors": [
         "Doucet, Jay"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

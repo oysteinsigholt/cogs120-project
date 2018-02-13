@@ -3,34 +3,360 @@
   "name": "Analytical Writing",
   "department": "AWP",
   "id": "1",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920700",
-      "type": "SE",
-      "section": "P00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "Tu": {
+      "2f6481679638e2e43250c4b5b8d084338cfd790fe5f404287e2b91983066205e": {
+        "sectxt": true,
+        "sectionID": "920685",
+        "type": "SE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Sheredos, Benjamin C"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "0d3055ec13eef8be1ae1cba08f1e9a2da7016cbb63cacf339d058303ebc7cb08": {
+        "sectxt": true,
+        "sectionID": "920687",
+        "type": "SE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "MCGIL",
+        "room": "2315",
+        "instructors": [
+          "Sanders, Suzanne J"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "da5e5bcee0cf31dd6e6df1b08c54842fbed335bb8be80ff82d0cef31330dc756": {
+        "sectxt": true,
+        "sectionID": "920688",
+        "type": "SE",
+        "section": "D00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CENTR",
+        "room": "224C",
+        "instructors": [
+          "Given, William Allan"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "604e4d27a8e6344806238cc6ada40a4bf1529cf01a731804149b76b634b9eb59": {
+        "sectxt": true,
+        "sectionID": "920689",
+        "type": "SE",
+        "section": "E00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "MANDE",
+        "room": "B-152",
+        "instructors": [
+          "Hiebert, Patricia M"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "ba528dec2fe2a61f267e30196749af62262401bf66bad526e87ade0bcc4754bc": {
+        "sectxt": true,
+        "sectionID": "920690",
+        "type": "SE",
+        "section": "F00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "224A",
+        "instructors": [
+          "Given, William Allan"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "b6d812f2ca22501ae10b28494277ed15fc4fdff41e177850ba4905c9e480ee38": {
+        "sectxt": true,
+        "sectionID": "920691",
+        "type": "SE",
+        "section": "G00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "224C",
+        "instructors": [
+          "Chandler, Bailee Daniele"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "e099f05790233e277f853ffcc8829abc58f518039337bb3732d889b203ad2e34": {
+        "sectxt": true,
+        "sectionID": "920692",
+        "type": "SE",
+        "section": "H00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "MANDE",
+        "room": "B-152",
+        "instructors": [
+          "Sanders, Suzanne J"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "24301696a2165e13ba6dd47dd595dd606101686a9b77c54fba16e2eaec31dc82": {
+        "sectxt": true,
+        "sectionID": "920693",
+        "type": "SE",
+        "section": "I00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "224A",
+        "instructors": [
+          "Given, William Allan"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "2c8fe42bfac4744d6d9a7dff990774bf1554872db288da495bca4770ed0c9b90": {
+        "sectxt": true,
+        "sectionID": "920695",
+        "type": "SE",
+        "section": "K00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Sheredos, Benjamin C"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "72efced923ab1f257c6bc22998e23df232e041aacc49822515b9d87a83bae2bb": {
+        "sectxt": true,
+        "sectionID": "920697",
+        "type": "SE",
+        "section": "M00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "CENTR",
+        "room": "224A",
+        "instructors": [
+          "Hiebert, Patricia M"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "1a6ad40017b26cff5629e915034129045daccac3da3109287663d0ccb840923d": {
+        "sectxt": true,
+        "sectionID": "920699",
+        "type": "SE",
+        "section": "O00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "CENTR",
+        "room": "224A",
+        "instructors": [
+          "Sheredos, Benjamin C"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    },
+    "Th": {
+      "0fae19f8c8bd42074e1c19f3c95fda45106583fc01da98102a21192362939a97": {
+        "sectxt": true,
+        "sectionID": "920685",
+        "type": "SE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Sheredos, Benjamin C"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "e97fcec1df947cd348fd879870672d07959a367f10c7e25ae7fe4da76e6c9f41": {
+        "sectxt": true,
+        "sectionID": "920687",
+        "type": "SE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "MCGIL",
+        "room": "2315",
+        "instructors": [
+          "Sanders, Suzanne J"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "af83429e321c7bf54ec849c80395b6aa9ac2bb14d25ae8e70cbc54151a19a145": {
+        "sectxt": true,
+        "sectionID": "920688",
+        "type": "SE",
+        "section": "D00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CENTR",
+        "room": "224C",
+        "instructors": [
+          "Given, William Allan"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "823620d1012b70d9281a1c286a780a81b0f183258bd0a9ae049f4ac297121bf6": {
+        "sectxt": true,
+        "sectionID": "920689",
+        "type": "SE",
+        "section": "E00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "MANDE",
+        "room": "B-152",
+        "instructors": [
+          "Hiebert, Patricia M"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "a4ca3c0595655978ab17b440a7a825ff15297c0645ca21d0a381c58b49ef46be": {
+        "sectxt": true,
+        "sectionID": "920690",
+        "type": "SE",
+        "section": "F00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "224A",
+        "instructors": [
+          "Given, William Allan"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "b577c8e7776bc7e06794acefad7beabeb654c61da177d44f256f46a1c7805864": {
+        "sectxt": true,
+        "sectionID": "920691",
+        "type": "SE",
+        "section": "G00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "224C",
+        "instructors": [
+          "Chandler, Bailee Daniele"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "251d79d04224f34f6f0a91ea5b5be781d880f68d8f4252a690762d77fac03915": {
+        "sectxt": true,
+        "sectionID": "920692",
+        "type": "SE",
+        "section": "H00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "MANDE",
+        "room": "B-152",
+        "instructors": [
+          "Sanders, Suzanne J"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "a04fe1fc97dce9ea357550b418aa93cbfda606c5017f10ab8ceb80aab86c2390": {
+        "sectxt": true,
+        "sectionID": "920693",
+        "type": "SE",
+        "section": "I00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "224A",
+        "instructors": [
+          "Given, William Allan"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "dad31db622204d2a640bf890f5c812af4403ebc9fc41ee637763cc843d7e4502": {
+        "sectxt": true,
+        "sectionID": "920695",
+        "type": "SE",
+        "section": "K00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "HSS",
+        "room": "1128B",
+        "instructors": [
+          "Sheredos, Benjamin C"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "3c1cd7eff26329c4a4efd74ab97883887ce0c23a9ec737d3929ac172c8d01acc": {
+        "sectxt": true,
+        "sectionID": "920697",
+        "type": "SE",
+        "section": "M00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "CENTR",
+        "room": "224A",
+        "instructors": [
+          "Hiebert, Patricia M"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "ac66f6a7d36d3d2c75d06679881bc521cdcd51085516618dc0194f5c91d1be20": {
+        "sectxt": true,
+        "sectionID": "920699",
+        "type": "SE",
+        "section": "O00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "CENTR",
+        "room": "224A",
+        "instructors": [
+          "Sheredos, Benjamin C"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P"
+  ]
 }

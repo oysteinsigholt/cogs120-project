@@ -3,33 +3,12 @@
   "name": "New Plays Workshop",
   "department": "TDGR",
   "id": "244",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920403",
-      "type": "LA",
-      "section": "A00",
-      "days": "Th",
-      "time": "2:00p-4:50p",
-      "building": "GH",
-      "room": "144",
-      "instructor": "Iizuka, Naomi Hisako",
-      "instructors": [
-        "Iizuka, Naomi Hisako"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "2f38d68837d2b535e8eb879a9d65af99257afa409190ed14a12343085bd6916b": {
         "sectxt": true,
         "sectionID": "920403",
         "type": "LA",
@@ -38,16 +17,15 @@
         "time": "2:00p-4:50p",
         "building": "GH",
         "room": "144",
-        "instructor": "Iizuka, Naomi Hisako",
         "instructors": [
           "Iizuka, Naomi Hisako"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

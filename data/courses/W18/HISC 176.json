@@ -3,34 +3,12 @@
   "name": "History/Medicine/E & SE Asia",
   "department": "HISC",
   "id": "176",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930090",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "9:00a-11:50a",
-      "building": "HSS",
-      "room": "4025",
-      "instructor": "Edington, Claire Ellen",
-      "instructors": [
-        "Edington, Claire Ellen"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "e9d002f96c97a6418e7c8b49a60ce4035e3f960e6ac54ef278c2bbab1591a5de": {
         "sectxt": true,
         "sectionID": "930090",
         "type": "SE",
@@ -39,15 +17,15 @@
         "time": "9:00a-11:50a",
         "building": "HSS",
         "room": "4025",
-        "instructor": "Edington, Claire Ellen",
         "instructors": [
           "Edington, Claire Ellen"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

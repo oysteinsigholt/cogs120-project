@@ -3,43 +3,9 @@
   "name": "Climate Change Solutions",
   "department": "POLI",
   "id": "117",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925306",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "12:30p-1:50p",
-      "building": "ECKRT",
-      "room": "227",
-      "instructor": "Ramanathan, Veerabhadran & Forman, Fonna",
-      "instructors": [
-        "Ramanathan, Veerabhadran",
-        "Forman, Fonna"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -48,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "d82749f643284b863736bcee5675596b306dd26a2dc0847b0b44070abe0a14f6": {
         "sectxt": true,
         "sectionID": "925306",
         "type": "LE",
@@ -67,18 +32,15 @@
         "time": "12:30p-1:50p",
         "building": "ECKRT",
         "room": "227",
-        "instructor": "Ramanathan, Veerabhadran & Forman, Fonna",
         "instructors": [
-          "Ramanathan, Veerabhadran",
-          "Forman, Fonna"
+          "Ramanathan, Veerabhadran           \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tForman, Fonna"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "dec8249ceb4990fe2e4907d1efc3d6152134a0b4a1bb5d113a847111ddcd9afe": {
         "sectxt": true,
         "sectionID": "925306",
         "type": "LE",
@@ -87,18 +49,15 @@
         "time": "12:30p-1:50p",
         "building": "ECKRT",
         "room": "227",
-        "instructor": "Ramanathan, Veerabhadran & Forman, Fonna",
         "instructors": [
-          "Ramanathan, Veerabhadran",
-          "Forman, Fonna"
+          "Ramanathan, Veerabhadran           \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tForman, Fonna"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

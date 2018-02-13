@@ -3,24 +3,8 @@
   "name": "Independent Study",
   "department": "MUS",
   "id": "199",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921817",
-      "type": "IN",
-      "section": "001",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Hankins, Sarah E.",
-      "instructors": [
-        "Hankins, Sarah E."
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,37 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Hankins, Sarah E.",
       "instructors": [
         "Hankins, Sarah E."
       ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "937965",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Kenyatta, Kamau"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939966",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Erbe, Tom"
+      ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

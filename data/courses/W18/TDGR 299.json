@@ -3,27 +3,102 @@
   "name": "Thesis Project",
   "department": "TDGR",
   "id": "299",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929921",
-      "type": "IN",
-      "section": "008",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Porter, Lisa",
-      "instructors": [
-        "Porter, Lisa"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "920436",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Dolan, Judith A."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920437",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Brill, Robert L."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920438",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Burrett, Alan"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920439",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Iizuka, Naomi Hisako"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920440",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Clancy, Liam"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920441",
+      "type": "IN",
+      "section": "006",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Means, Charles E."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "929366",
+      "type": "IN",
+      "section": "007",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Barricelli, Marc Alexander"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "929921",
       "type": "IN",
       "section": "008",
@@ -31,19 +106,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Porter, Lisa",
       "instructors": [
         "Porter, Lisa"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

@@ -3,31 +3,12 @@
   "name": "Predicting the Future",
   "department": "SOCI",
   "id": "165",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929335",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "SOLIS",
-      "room": "110",
-      "instructor": "Rona-Tas, Akos",
-      "instructors": [
-        "Rona-Tas, Akos"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "a65690ac859593679c9efcd6eb8668df6e6feb73c9b09b4a45602a47c948db58": {
         "sectxt": true,
         "sectionID": "929335",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "11:00a-12:20p",
         "building": "SOLIS",
         "room": "110",
-        "instructor": "Rona-Tas, Akos",
         "instructors": [
           "Rona-Tas, Akos"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "18eb162f05c83def941e2c9997a1e7fac6f804147b1834a817c9938a4be52a61": {
         "sectxt": true,
         "sectionID": "929335",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "11:00a-12:20p",
         "building": "SOLIS",
         "room": "110",
-        "instructor": "Rona-Tas, Akos",
         "instructors": [
           "Rona-Tas, Akos"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

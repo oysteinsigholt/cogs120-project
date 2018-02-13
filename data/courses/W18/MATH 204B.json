@@ -3,42 +3,9 @@
   "name": "Number Theory II",
   "department": "MATH",
   "id": "204B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927283",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "APM",
-      "room": "5829",
-      "instructor": "Popescu, Cristian D.",
-      "instructors": [
-        "Popescu, Cristian D."
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "725cf7c30a68c3ec224c9a94b9cf96f7853488068e242b3d970b8061ab0a4396": {
         "sectxt": true,
         "sectionID": "927283",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "9:30a-10:50a",
         "building": "APM",
         "room": "5829",
-        "instructor": "Popescu, Cristian D.",
         "instructors": [
           "Popescu, Cristian D."
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "491e49bff0c6f9862f960bc9c799346965b50b081b890955f844f84114046ccf": {
         "sectxt": true,
         "sectionID": "927283",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "9:30a-10:50a",
         "building": "APM",
         "room": "5829",
-        "instructor": "Popescu, Cristian D.",
         "instructors": [
           "Popescu, Cristian D."
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

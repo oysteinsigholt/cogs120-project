@@ -3,216 +3,51 @@
   "name": "Organismic&Evolutionary Biol",
   "department": "BILD",
   "id": "3",
-  "timeslots": [
-    {
-      "sectxt": true,
+  "notes": [],
+  "events_single": {
+    "6cec732b97ced7477f24d2d227aef86452ddb8e9639b18689d7807e09dece774": {
+      "sectxt": false,
       "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "Reuther, Keefe",
-      "instructors": [
-        "Reuther, Keefe"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926009",
-      "type": "DI",
-      "section": "B01",
-      "days": "M",
-      "time": "8:00a-8:50a",
-      "building": "CENTR",
-      "room": "207",
-      "instructor": "Reuther, Keefe",
-      "instructors": [
-        "Reuther, Keefe"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926010",
-      "type": "DI",
-      "section": "B02",
-      "days": "M",
-      "time": "10:00a-10:50a",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Reuther, Keefe",
-      "instructors": [
-        "Reuther, Keefe"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926011",
-      "type": "DI",
-      "section": "B03",
-      "days": "M",
-      "time": "6:00p-6:50p",
-      "building": "APM",
-      "room": "2301",
-      "instructor": "Reuther, Keefe",
-      "instructors": [
-        "Reuther, Keefe"
-      ],
+      "type": "RE",
+      "section": "02/08/2018",
+      "days": "Th",
+      "time": "6:00p-7:50p",
+      "building": "PETER",
+      "room": "110",
+      "instructors": [],
+      "date": "2018-02-08T08:00:00.000Z",
       "start_time": "18:00",
+      "end_time": "19:50"
+    },
+    "5b18e7640fe6b10108d59ec7525283b26984e25ec4942e8dfad074cf338bac20": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "03/16/2018",
+      "days": "F",
+      "time": "5:00p-6:50p",
+      "building": "GH",
+      "room": "242",
+      "instructors": [],
+      "date": "2018-03-16T07:00:00.000Z",
+      "start_time": "17:00",
       "end_time": "18:50"
     },
-    {
-      "sectxt": true,
-      "sectionID": "926012",
-      "type": "DI",
-      "section": "B04",
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
       "days": "M",
-      "time": "7:00p-7:50p",
-      "building": "APM",
-      "room": "2301",
-      "instructor": "Reuther, Keefe",
-      "instructors": [
-        "Reuther, Keefe"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926013",
-      "type": "DI",
-      "section": "B05",
-      "days": "M",
-      "time": "8:00p-8:50p",
-      "building": "APM",
-      "room": "2301",
-      "instructor": "Reuther, Keefe",
-      "instructors": [
-        "Reuther, Keefe"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926014",
-      "type": "DI",
-      "section": "B06",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "CENTR",
-      "room": "217A",
-      "instructor": "Reuther, Keefe",
-      "instructors": [
-        "Reuther, Keefe"
-      ],
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
-      "end_time": "15:50"
+      "end_time": "17:59"
     },
-    {
-      "sectxt": true,
-      "sectionID": "926015",
-      "type": "DI",
-      "section": "B07",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Reuther, Keefe",
-      "instructors": [
-        "Reuther, Keefe"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926016",
-      "type": "DI",
-      "section": "B08",
-      "days": "Th",
-      "time": "7:00p-7:50p",
-      "building": "CENTR",
-      "room": "218",
-      "instructor": "Reuther, Keefe",
-      "instructors": [
-        "Reuther, Keefe"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926017",
-      "type": "DI",
-      "section": "B09",
-      "days": "Th",
-      "time": "8:00p-8:50p",
-      "building": "CENTR",
-      "room": "218",
-      "instructor": "Reuther, Keefe",
-      "instructors": [
-        "Reuther, Keefe"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926018",
-      "type": "DI",
-      "section": "B10",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Reuther, Keefe",
-      "instructors": [
-        "Reuther, Keefe"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926019",
-      "type": "DI",
-      "section": "B11",
-      "days": "F",
-      "time": "1:00p-1:50p",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Reuther, Keefe",
-      "instructors": [
-        "Reuther, Keefe"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926020",
-      "type": "DI",
-      "section": "B12",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Reuther, Keefe",
-      "instructors": [
-        "Reuther, Keefe"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
+    "78e39469ec1e068596c46ce633abd529d4373da283514843f3f8dec2bdcfd551": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -221,13 +56,12 @@
       "time": "11:00a-1:50p",
       "building": "WLH",
       "room": "2001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-27T08:00:00.000Z",
       "start_time": "11:00",
       "end_time": "13:50"
     },
-    {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -236,50 +70,61 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
-  "notes": [],
-  "events_single": [
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/27/2018",
-      "days": "S",
-      "time": "11:00a-1:50p",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-27T08:00:00.000Z",
-      "start_time": "11:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "6721ec3568dcd8f8a49712a671b801dfee4ddaabbc63506c0e935ab456b7dffd": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "WLH",
+        "room": "2001",
+        "instructors": [
+          "Stockwell, Sarah R"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "016cad353bb46eb6648940f3b40e6bf3b591a1f51207a177c7b0e27e6080c15f": {
+        "sectxt": true,
+        "sectionID": "925995",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "217B",
+        "instructors": [
+          "Stockwell, Sarah R"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "d78b74afc274fb8469e75ba16e19022c8f22c5294ef56049ebbca29cdf8df310": {
+        "sectxt": true,
+        "sectionID": "925996",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "217B",
+        "instructors": [
+          "Stockwell, Sarah R"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "060f496423b5e1252a86742733761b7adc8cdd044400f3d3bc443e05c5e53ba7": {
         "sectxt": true,
         "sectionID": "926009",
         "type": "DI",
@@ -288,14 +133,13 @@
         "time": "8:00a-8:50a",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Reuther, Keefe",
         "instructors": [
           "Reuther, Keefe"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "3a15239d75086263f9dde07b76ca47b699ac95e60efc28bf25e53a5c056b53d3": {
         "sectxt": true,
         "sectionID": "926010",
         "type": "DI",
@@ -304,14 +148,13 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Reuther, Keefe",
         "instructors": [
           "Reuther, Keefe"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "d7d2fb76d87eb5b2aeef18af0cd7b14847a107b7c9005e30c6d50f813741f2b3": {
         "sectxt": true,
         "sectionID": "926011",
         "type": "DI",
@@ -320,14 +163,13 @@
         "time": "6:00p-6:50p",
         "building": "APM",
         "room": "2301",
-        "instructor": "Reuther, Keefe",
         "instructors": [
           "Reuther, Keefe"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "aa406800a3e025221392f84ae9f44ebe93a7f9fafeb81de084606f8b73906983": {
         "sectxt": true,
         "sectionID": "926012",
         "type": "DI",
@@ -336,14 +178,13 @@
         "time": "7:00p-7:50p",
         "building": "APM",
         "room": "2301",
-        "instructor": "Reuther, Keefe",
         "instructors": [
           "Reuther, Keefe"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "abc109085067348b425d34560d2f7ed369d5e712f052978cad1096aa650d6300": {
         "sectxt": true,
         "sectionID": "926013",
         "type": "DI",
@@ -352,16 +193,60 @@
         "time": "8:00p-8:50p",
         "building": "APM",
         "room": "2301",
-        "instructor": "Reuther, Keefe",
         "instructors": [
           "Reuther, Keefe"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "472dea6247a27473b2bdd6b9e6fc8d7f1be566d1108661f8f8490e665f79add1": {
+        "sectxt": true,
+        "sectionID": "925997",
+        "type": "DI",
+        "section": "A03",
+        "days": "Tu",
+        "time": "8:00a-8:50a",
+        "building": "YORK",
+        "room": "3000A",
+        "instructors": [
+          "Stockwell, Sarah R"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "b6f60346c550f4ea951c648f44a13b2e4f6a810d1ec0b2a6932fa215f2d45d33": {
+        "sectxt": true,
+        "sectionID": "925998",
+        "type": "DI",
+        "section": "A04",
+        "days": "Tu",
+        "time": "5:00p-5:50p",
+        "building": "CENTR",
+        "room": "220",
+        "instructors": [
+          "Stockwell, Sarah R"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "20cda3e9e15924f6548399b2335a534c40d4dda2f98e5030dd6ed71210bc908d": {
+        "sectxt": true,
+        "sectionID": "925999",
+        "type": "DI",
+        "section": "A05",
+        "days": "Tu",
+        "time": "6:00p-6:50p",
+        "building": "CENTR",
+        "room": "220",
+        "instructors": [
+          "Stockwell, Sarah R"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "847a50f2fa5395561c0d5d1ceca2bbd45036602b9ceaf53fb929d6688c468394": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -370,16 +255,90 @@
         "time": "2:00p-3:20p",
         "building": "WLH",
         "room": "2001",
-        "instructor": "Reuther, Keefe",
         "instructors": [
           "Reuther, Keefe"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "03db29512c920154c8251b4bab8a52a294794a0af7dbbc2424d2ef4b9cb7ee87": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "WLH",
+        "room": "2001",
+        "instructors": [
+          "Stockwell, Sarah R"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "3de068af76d79eec0aa1cad65939137006cf78976d407e41d2c3a5f2e16431fb": {
+        "sectxt": true,
+        "sectionID": "926000",
+        "type": "DI",
+        "section": "A06",
+        "days": "W",
+        "time": "5:00p-5:50p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Stockwell, Sarah R"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "656c4b12dd51b04337e148bb98d6c8a7a0a3247a61c7ad55677710878f5f1280": {
+        "sectxt": true,
+        "sectionID": "926001",
+        "type": "DI",
+        "section": "A07",
+        "days": "W",
+        "time": "6:00p-6:50p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Stockwell, Sarah R"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "b9997934a4d696a8f6cd94d3e71fc930fa0acf64966929d9256e913f4bc4a077": {
+        "sectxt": true,
+        "sectionID": "926002",
+        "type": "DI",
+        "section": "A08",
+        "days": "W",
+        "time": "7:00p-7:50p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Stockwell, Sarah R"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "add01e8bb8bcae9cc071217b0a730cd920b1b7a6aa07a40e5b281fd253bb8cd6": {
+        "sectxt": true,
+        "sectionID": "926003",
+        "type": "DI",
+        "section": "A09",
+        "days": "W",
+        "time": "8:00p-8:50p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Stockwell, Sarah R"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "1166011d0d9e167075dfe2c070095eb91614ec9852d781ee0272ec269970ed93": {
         "sectxt": true,
         "sectionID": "926014",
         "type": "DI",
@@ -388,14 +347,13 @@
         "time": "3:00p-3:50p",
         "building": "CENTR",
         "room": "217A",
-        "instructor": "Reuther, Keefe",
         "instructors": [
           "Reuther, Keefe"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "d7de050b3a373940f33159396635502f96b413b5a7bfbbdc283257d99f0d36ba": {
         "sectxt": true,
         "sectionID": "926015",
         "type": "DI",
@@ -404,16 +362,15 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Reuther, Keefe",
         "instructors": [
           "Reuther, Keefe"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "d3759d59a75d35ecdfe759ce2719eea41f8123ebe815a112a38701afec5bd9d1": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -422,14 +379,13 @@
         "time": "2:00p-3:20p",
         "building": "WLH",
         "room": "2001",
-        "instructor": "Reuther, Keefe",
         "instructors": [
           "Reuther, Keefe"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       },
-      {
+      "26d6b4d0965836e86d7e6156baf36489910d4f1751af91998b574c27799f3a01": {
         "sectxt": true,
         "sectionID": "926016",
         "type": "DI",
@@ -438,14 +394,13 @@
         "time": "7:00p-7:50p",
         "building": "CENTR",
         "room": "218",
-        "instructor": "Reuther, Keefe",
         "instructors": [
           "Reuther, Keefe"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "179af9d0173f6401bd857cb8746c1b2ed055de86e989159ed00a2ecbe7bceb31": {
         "sectxt": true,
         "sectionID": "926017",
         "type": "DI",
@@ -454,16 +409,75 @@
         "time": "8:00p-8:50p",
         "building": "CENTR",
         "room": "218",
-        "instructor": "Reuther, Keefe",
         "instructors": [
           "Reuther, Keefe"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "d279da4a3d7ccd6f447b5cb8f0bddd178e11c77d67d14b93ba22188196cebe12": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "WLH",
+        "room": "2001",
+        "instructors": [
+          "Stockwell, Sarah R"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "79729e59fe91be3321751eda7910710b792140578e3d3e399e260e3b3c596ca0": {
+        "sectxt": true,
+        "sectionID": "926005",
+        "type": "DI",
+        "section": "A11",
+        "days": "F",
+        "time": "9:00a-9:50a",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Stockwell, Sarah R"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "3547e7ede809068a4e4c7d0a54c5abc716423a6985ce5e769ed308145ee3d348": {
+        "sectxt": true,
+        "sectionID": "926006",
+        "type": "DI",
+        "section": "A12",
+        "days": "F",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Stockwell, Sarah R"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "5d8a8fc6d55f8cd24c98e0b2d38ef8d88638e1087ee3a142c91379a905876fbf": {
+        "sectxt": true,
+        "sectionID": "926007",
+        "type": "DI",
+        "section": "A13",
+        "days": "F",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "1305",
+        "instructors": [
+          "Stockwell, Sarah R"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "b5c4505f49b141d39ad17d1b07506eb056c78d20785ac468041a4cb634152b16": {
         "sectxt": true,
         "sectionID": "926018",
         "type": "DI",
@@ -472,14 +486,13 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Reuther, Keefe",
         "instructors": [
           "Reuther, Keefe"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "11af9970ac6ab830121e97763997f9071572a121289d55f8794286aaf21400d4": {
         "sectxt": true,
         "sectionID": "926019",
         "type": "DI",
@@ -488,14 +501,13 @@
         "time": "1:00p-1:50p",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Reuther, Keefe",
         "instructors": [
           "Reuther, Keefe"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "5168a4875e4283b7fd8ca8e6be2c1820fc1ed8ba7e300ecb65c40c7032484732": {
         "sectxt": true,
         "sectionID": "926020",
         "type": "DI",
@@ -504,15 +516,16 @@
         "time": "5:00p-5:50p",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Reuther, Keefe",
         "instructors": [
           "Reuther, Keefe"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

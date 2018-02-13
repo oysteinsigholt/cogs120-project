@@ -3,34 +3,31 @@
   "name": "Intro to Quantitative Analysis",
   "department": "EDS",
   "id": "254",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922520",
-      "type": "SE",
-      "section": "A00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "Th": {
+      "4bc0686c0ea6cc6fcc7125d489f011e17d12827e15f2ab4f62ab0e546bf4c055": {
+        "sectxt": true,
+        "sectionID": "931812",
+        "type": "SE",
+        "section": "C00",
+        "days": "Th",
+        "time": "2:00p-5:00p",
+        "building": "PCYNH",
+        "room": "348",
+        "instructors": [
+          "Wishard Guerra, Alison G."
+        ],
+        "start_time": "14:00",
+        "end_time": "17:00"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

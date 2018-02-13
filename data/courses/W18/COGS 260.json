@@ -3,31 +3,44 @@
   "name": "Seminar on Special Topics",
   "department": "COGS",
   "id": "260",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925664",
-      "type": "SE",
-      "section": "E00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "CSB",
-      "room": "272",
-      "instructor": "Frank, Lawrence Robert",
-      "instructors": [
-        "Frank, Lawrence Robert"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "62abf6f002dff3cd5c3ec770ffb31ca4e0a0c57c095f057093b612c4ecf5bbd3": {
+        "sectxt": true,
+        "sectionID": "925660",
+        "type": "SE",
+        "section": "A00",
+        "days": "M",
+        "time": "11:00a-1:50p",
+        "building": "CSB",
+        "room": "180",
+        "instructors": [
+          "De Sa, Virginia"
+        ],
+        "start_time": "11:00",
+        "end_time": "13:50"
+      },
+      "0d13056b9c9a708e22b678c601683a4aac0ca552662017e6669d2421f1325b6e": {
+        "sectxt": true,
+        "sectionID": "925663",
+        "type": "SE",
+        "section": "D00",
+        "days": "M",
+        "time": "1:00p-3:50p",
+        "building": "CSB",
+        "room": "272",
+        "instructors": [
+          "Creel, Sarah"
+        ],
+        "start_time": "13:00",
+        "end_time": "15:50"
+      }
+    },
+    "Tu": {
+      "9cc2544a6ea4b96aafcd9a29fd49c8fe15ded44abab1ebf76380cd583ab801cb": {
         "sectxt": true,
         "sectionID": "925664",
         "type": "SE",
@@ -36,17 +49,32 @@
         "time": "2:00p-3:20p",
         "building": "CSB",
         "room": "272",
-        "instructor": "Frank, Lawrence Robert",
         "instructors": [
           "Frank, Lawrence Robert"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "W": {
+      "419856b111747da924cea4f303c0aa3f8b2b6fd09bff6900c760312f56075197": {
+        "sectxt": true,
+        "sectionID": "925662",
+        "type": "SE",
+        "section": "C00",
+        "days": "W",
+        "time": "2:00p-4:50p",
+        "building": "CSB",
+        "room": "272",
+        "instructors": [
+          "Saygin, Ayse P"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:50"
+      }
+    },
+    "Th": {
+      "2da4ed3e8e2840d8a67159b7a8ed21bf0a2d4679e4a83eac08ba805a496d15e0": {
         "sectxt": true,
         "sectionID": "925664",
         "type": "SE",
@@ -55,16 +83,18 @@
         "time": "2:00p-3:20p",
         "building": "CSB",
         "room": "272",
-        "instructor": "Frank, Lawrence Robert",
         "instructors": [
           "Frank, Lawrence Robert"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "C",
+    "D",
+    "E"
+  ]
 }

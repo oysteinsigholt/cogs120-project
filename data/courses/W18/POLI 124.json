@@ -3,44 +3,11 @@
   "name": "Israeli-Palestinian Conflict",
   "department": "POLI",
   "id": "124",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925476",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "9:00a-9:50a",
-      "building": "CSB",
-      "room": "001",
-      "instructor": "Shafir, Gershon",
-      "instructors": [
-        "Shafir, Gershon"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [
     "POLI 124 is cross listed with SOCI 188I. For additional\n seats, please enroll in SOCI 188I."
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -49,17 +16,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "7fe8da90f40f1d25aef1215e4143a5f955a7e48540daf92fd2cb8de8cacfe9cc": {
         "sectxt": true,
         "sectionID": "925476",
         "type": "LE",
@@ -68,17 +34,15 @@
         "time": "9:00a-9:50a",
         "building": "CSB",
         "room": "001",
-        "instructor": "Shafir, Gershon",
         "instructors": [
           "Shafir, Gershon"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "e322dc3fc16205b3c43e0eab453dadc7f69f50ddebbf6f0e684617776e4d22e5": {
         "sectxt": true,
         "sectionID": "925476",
         "type": "LE",
@@ -87,17 +51,15 @@
         "time": "9:00a-9:50a",
         "building": "CSB",
         "room": "001",
-        "instructor": "Shafir, Gershon",
         "instructors": [
           "Shafir, Gershon"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "c4bade4f9fc7e806977de8f13bc0b70d596351d211645a75547c23c2eefa3aa4": {
         "sectxt": true,
         "sectionID": "925476",
         "type": "LE",
@@ -106,15 +68,15 @@
         "time": "9:00a-9:50a",
         "building": "CSB",
         "room": "001",
-        "instructor": "Shafir, Gershon",
         "instructors": [
           "Shafir, Gershon"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

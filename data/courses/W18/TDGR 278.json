@@ -3,34 +3,29 @@
   "name": "Spec Topics in Theatre Design",
   "department": "TDGR",
   "id": "278",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920418",
-      "type": "ST",
-      "section": "B00",
-      "days": "F",
-      "time": "11:00a-1:50p",
-      "building": "GH",
-      "room": "111",
-      "instructor": "Patrick, Ian Thomas",
-      "instructors": [
-        "Patrick, Ian Thomas"
-      ],
-      "start_time": "11:00",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "W": {
+      "87d56a86fbf034d496d84017642aef9ee90fdedb5b3c2f4cad385d295ce20165": {
+        "sectxt": true,
+        "sectionID": "920417",
+        "type": "ST",
+        "section": "A00",
+        "days": "W",
+        "time": "9:00a-11:50a",
+        "building": "GH",
+        "room": "18B",
+        "instructors": [
+          "Humphres, Justin M"
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      }
+    },
+    "F": {
+      "09a6aed994d5e453e0c74dc9ec5cc979f14cbb6a9a5f1903aaa21ce23023f55e": {
         "sectxt": true,
         "sectionID": "920418",
         "type": "ST",
@@ -39,15 +34,16 @@
         "time": "11:00a-1:50p",
         "building": "GH",
         "room": "111",
-        "instructor": "Patrick, Ian Thomas",
         "instructors": [
           "Patrick, Ian Thomas"
         ],
         "start_time": "11:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

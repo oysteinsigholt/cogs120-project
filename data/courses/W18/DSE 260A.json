@@ -3,34 +3,12 @@
   "name": "Data Science Capstone Design 1",
   "department": "DSE",
   "id": "260A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929207",
-      "type": "LE",
-      "section": "A00",
-      "days": "F",
-      "time": "9:00a-4:30p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Altintas De Callaf, Ilkay",
-      "instructors": [
-        "Altintas De Callaf, Ilkay"
-      ],
-      "start_time": "9:00",
-      "end_time": "16:30"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "53faeab101cbdfad8b5bc1b93bbd7983fe1e523a7eb4a8589fd3c6a0225cea55": {
         "sectxt": true,
         "sectionID": "929207",
         "type": "LE",
@@ -39,15 +17,15 @@
         "time": "9:00a-4:30p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Altintas De Callaf, Ilkay",
         "instructors": [
           "Altintas De Callaf, Ilkay"
         ],
         "start_time": "9:00",
         "end_time": "16:30"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

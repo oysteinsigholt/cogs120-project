@@ -3,58 +3,9 @@
   "name": "Introduction to Global Health",
   "department": "GLBH",
   "id": "20",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "9:00a-9:50a",
-      "building": "WLH",
-      "room": "2111",
-      "instructor": "Saravia, Paula F",
-      "instructors": [
-        "Saravia, Paula F"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930121",
-      "type": "DI",
-      "section": "B01",
-      "days": "M",
-      "time": "12:00p-12:50p",
-      "building": "WLH",
-      "room": "2111",
-      "instructor": "Saravia, Paula F",
-      "instructors": [
-        "Saravia, Paula F"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "467a04643c312b6e75eb7b65790966ad1c16aae38e729654614ce0e8bdf51fdc": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -82,14 +32,13 @@
         "time": "9:00a-9:50a",
         "building": "WLH",
         "room": "2111",
-        "instructor": "Saravia, Paula F",
         "instructors": [
           "Saravia, Paula F"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "673c581bec91effb29b929c237432f8db98f6ab3a07c0cb1fb782bf25e12c834": {
         "sectxt": true,
         "sectionID": "930121",
         "type": "DI",
@@ -98,17 +47,15 @@
         "time": "12:00p-12:50p",
         "building": "WLH",
         "room": "2111",
-        "instructor": "Saravia, Paula F",
         "instructors": [
           "Saravia, Paula F"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "3c7c14573898e201dd8ab56e46ba2e55792bcb3006bd8b56f2ec5209c193ea93": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -117,17 +64,15 @@
         "time": "9:00a-9:50a",
         "building": "WLH",
         "room": "2111",
-        "instructor": "Saravia, Paula F",
         "instructors": [
           "Saravia, Paula F"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "0d5e149067785881267f7c98a1033d779533d331f296da88a0b6a1ada251a204": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -136,15 +81,16 @@
         "time": "9:00a-9:50a",
         "building": "WLH",
         "room": "2111",
-        "instructor": "Saravia, Paula F",
         "instructors": [
           "Saravia, Paula F"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

@@ -3,30 +3,72 @@
   "name": "French Conversation",
   "department": "LIFR",
   "id": "1C",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921312",
-      "type": "TU",
-      "section": "E00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "HSS",
-      "room": "2305A",
-      "instructor": "Riebeling, Elke",
-      "instructors": [
-        "Riebeling, Elke"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "c8b0bc21d7f839ef5424161022fa9595da76d6f01a0cd4828e87f97c5471623c": {
+        "sectxt": true,
+        "sectionID": "921308",
+        "type": "TU",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "CENTR",
+        "room": "224A",
+        "instructors": [
+          "Riebeling, Elke"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "2d774dfa568453c9a6edec7a75b5a933c47225cfdb662c8095c0e5c32452d6a3": {
+        "sectxt": true,
+        "sectionID": "921309",
+        "type": "TU",
+        "section": "B00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "224A",
+        "instructors": [
+          "Riebeling, Elke"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "528d9dfdcdce996454c48aa3e6ac7502c96c391e5d45782b4aacfb0c1e62497e": {
+        "sectxt": true,
+        "sectionID": "921310",
+        "type": "TU",
+        "section": "C00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "APM",
+        "room": "5420",
+        "instructors": [
+          "Riebeling, Elke"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "365267ef4790b2a2fd93480a8a5d24d23f4563a2421d95c3568ced82beddcfbb": {
+        "sectxt": true,
+        "sectionID": "921311",
+        "type": "TU",
+        "section": "D00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "MCGIL",
+        "room": "2322",
+        "instructors": [
+          "Riebeling, Elke"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "836d67f707d79e289877e23516cd7156700baa7087f6244b39555a101d3ffa62": {
         "sectxt": true,
         "sectionID": "921312",
         "type": "TU",
@@ -35,17 +77,75 @@
         "time": "1:00p-1:50p",
         "building": "HSS",
         "room": "2305A",
-        "instructor": "Riebeling, Elke",
         "instructors": [
           "Riebeling, Elke"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "54da3073400cad7ffb656bfbaca4acc58c8c834a5223b952c99198e16d5357ca": {
+        "sectxt": true,
+        "sectionID": "921308",
+        "type": "TU",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "CENTR",
+        "room": "224A",
+        "instructors": [
+          "Riebeling, Elke"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "d3b659854543e15e8039f21c1cca5b18be22d20903b9e852a454e396233e4e81": {
+        "sectxt": true,
+        "sectionID": "921309",
+        "type": "TU",
+        "section": "B00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "224A",
+        "instructors": [
+          "Riebeling, Elke"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "290a7be647db399e63b26ce236402c5c355607fbc77c457bf3ee0975e82687dd": {
+        "sectxt": true,
+        "sectionID": "921310",
+        "type": "TU",
+        "section": "C00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "APM",
+        "room": "5420",
+        "instructors": [
+          "Riebeling, Elke"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "06505723ede5f3acfb85af538c8c43c7174a12a9e8b04c82ca82a07b50c33817": {
+        "sectxt": true,
+        "sectionID": "921311",
+        "type": "TU",
+        "section": "D00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "MCGIL",
+        "room": "2322",
+        "instructors": [
+          "Riebeling, Elke"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "c72dc007a1a2df53084b44cd7404b59aff9884b8ebcc859e6958f940e75d0081": {
         "sectxt": true,
         "sectionID": "921312",
         "type": "TU",
@@ -54,17 +154,75 @@
         "time": "1:00p-1:50p",
         "building": "HSS",
         "room": "2305A",
-        "instructor": "Riebeling, Elke",
         "instructors": [
           "Riebeling, Elke"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "642cda0f508791a09c32339bf8b2b7f5bcd13d2ecab3dff3d6135fd76c94de50": {
+        "sectxt": true,
+        "sectionID": "921308",
+        "type": "TU",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "CENTR",
+        "room": "224A",
+        "instructors": [
+          "Riebeling, Elke"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "69572bdff01243175b329f8e6be35f696d9d0d41b0e7bdc1e72509b1c5e2b44a": {
+        "sectxt": true,
+        "sectionID": "921309",
+        "type": "TU",
+        "section": "B00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "224A",
+        "instructors": [
+          "Riebeling, Elke"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "1e1eb59fbbeafdb8b05cb49da8aa35622f0de21d91cf2cc8415348566cd480be": {
+        "sectxt": true,
+        "sectionID": "921310",
+        "type": "TU",
+        "section": "C00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "APM",
+        "room": "5420",
+        "instructors": [
+          "Riebeling, Elke"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "ddad52bb4a30551e2c64a83647686fd2130db68b43de87ffd68053348e112774": {
+        "sectxt": true,
+        "sectionID": "921311",
+        "type": "TU",
+        "section": "D00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "MCGIL",
+        "room": "2322",
+        "instructors": [
+          "Riebeling, Elke"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "a67e898e28d9366dc8c35703e28ebf7d239a03e240dce0aa11fbf6d1f346b3ab": {
         "sectxt": true,
         "sectionID": "921312",
         "type": "TU",
@@ -73,15 +231,19 @@
         "time": "1:00p-1:50p",
         "building": "HSS",
         "room": "2305A",
-        "instructor": "Riebeling, Elke",
         "instructors": [
           "Riebeling, Elke"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ]
 }

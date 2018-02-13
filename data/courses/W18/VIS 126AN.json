@@ -3,42 +3,9 @@
   "name": "PreColumbian Art/Anc Mex&C Amr",
   "department": "VIS",
   "id": "126AN",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922776",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "12:00p-1:20p",
-      "building": "SME",
-      "room": "149",
-      "instructor": "Newsome, Elizabeth Ann",
-      "instructors": [
-        "Newsome, Elizabeth Ann"
-      ],
-      "start_time": "12:00",
-      "end_time": "13:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "495a525c45489f0ce692a06a74a1b1b63156ed95fd73cea580e6ac3b2f786c11": {
         "sectxt": true,
         "sectionID": "922776",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "12:00p-1:20p",
         "building": "SME",
         "room": "149",
-        "instructor": "Newsome, Elizabeth Ann",
         "instructors": [
           "Newsome, Elizabeth Ann"
         ],
         "start_time": "12:00",
         "end_time": "13:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "5753625ad8918fbbc6cff1c904056c1f241e9c2ce7b76f1715ec4ba19ed630ee": {
         "sectxt": true,
         "sectionID": "922776",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "12:00p-1:20p",
         "building": "SME",
         "room": "149",
-        "instructor": "Newsome, Elizabeth Ann",
         "instructors": [
           "Newsome, Elizabeth Ann"
         ],
         "start_time": "12:00",
         "end_time": "13:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

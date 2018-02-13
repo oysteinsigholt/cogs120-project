@@ -3,34 +3,573 @@
   "name": "Electricity & Magnetism Lab",
   "department": "PHYS",
   "id": "1BL",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "932658",
-      "type": "LA",
-      "section": "039",
-      "days": "F",
-      "time": "5:00p-6:50p",
-      "building": "MAYER",
-      "room": "2130",
-      "instructor": "Yagil, Avi",
-      "instructors": [
-        "Yagil, Avi"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "Tu": {
+      "42b8435149f8a2653ba45c696a7ea29488ecdd782e6dceb8eaaf97ae150a4c72": {
+        "sectxt": true,
+        "sectionID": "923657",
+        "type": "LA",
+        "section": "002",
+        "days": "Tu",
+        "time": "9:00a-10:50a",
+        "building": "MAYER",
+        "room": "2326",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:50"
+      },
+      "5f9da781e4a6018eb4dc2bbe816a97ae060bcd6b99fed0a72b31581bc1e59aa2": {
+        "sectxt": true,
+        "sectionID": "923658",
+        "type": "LA",
+        "section": "003",
+        "days": "Tu",
+        "time": "11:00a-12:50p",
+        "building": "MAYER",
+        "room": "2130",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:50"
+      },
+      "f27b515df040d5a1e2f43964d5872cceb4176d5d88f59cf08b42db1fce59767e": {
+        "sectxt": true,
+        "sectionID": "923659",
+        "type": "LA",
+        "section": "004",
+        "days": "Tu",
+        "time": "11:00a-12:50p",
+        "building": "MAYER",
+        "room": "2326",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:50"
+      },
+      "8352b368533cc0fa75dd2a67bbf2e50d643d910f1612defc43f3716ec56b9b3b": {
+        "sectxt": true,
+        "sectionID": "923660",
+        "type": "LA",
+        "section": "005",
+        "days": "Tu",
+        "time": "1:00p-2:50p",
+        "building": "MAYER",
+        "room": "2130",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "13:00",
+        "end_time": "14:50"
+      },
+      "a89001346d30266d4e094da4230bd24e4de72cdc7d23d1dcd82b3b518ffdc257": {
+        "sectxt": true,
+        "sectionID": "923661",
+        "type": "LA",
+        "section": "006",
+        "days": "Tu",
+        "time": "1:00p-2:50p",
+        "building": "MAYER",
+        "room": "2326",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "13:00",
+        "end_time": "14:50"
+      },
+      "239fd467d1c0392cdecb1c4c08ff0f563011f74c41aca094a0b27a0802510248": {
+        "sectxt": true,
+        "sectionID": "923662",
+        "type": "LA",
+        "section": "007",
+        "days": "Tu",
+        "time": "3:00p-4:50p",
+        "building": "MAYER",
+        "room": "2130",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "15:00",
+        "end_time": "16:50"
+      },
+      "0ff0f4a8290a1112876bb17e8d3ad5894a933253fb71e5652880f413eada2f89": {
+        "sectxt": true,
+        "sectionID": "923663",
+        "type": "LA",
+        "section": "008",
+        "days": "Tu",
+        "time": "3:00p-4:50p",
+        "building": "MAYER",
+        "room": "2326",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "15:00",
+        "end_time": "16:50"
+      },
+      "3fa690917cb733e81d0fe682dbaacb36eb3b7bbcdeb2438e848e4d6b553f016c": {
+        "sectxt": true,
+        "sectionID": "923664",
+        "type": "LA",
+        "section": "009",
+        "days": "Tu",
+        "time": "5:00p-6:50p",
+        "building": "MAYER",
+        "room": "2130",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:50"
+      },
+      "553290651b677696048e7c55fb4c7d2c3448967b576731d8eeacfb972112c6b9": {
+        "sectxt": true,
+        "sectionID": "923665",
+        "type": "LA",
+        "section": "010",
+        "days": "Tu",
+        "time": "5:00p-6:50p",
+        "building": "MAYER",
+        "room": "2326",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:50"
+      },
+      "544a5b4f02f6542b15d7eb4fff36d0bfa55f978e802fceb74340b6409459cf8b": {
+        "sectxt": true,
+        "sectionID": "923656",
+        "type": "LA",
+        "section": "001",
+        "days": "Tu",
+        "time": "9:00a-10:50a",
+        "building": "MAYER",
+        "room": "2130",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:50"
+      }
+    },
+    "W": {
+      "230314b68198d96b6e0d4639c55549b1a61bb9cadc34a1e92b4a8f0a504f8d4c": {
+        "sectxt": true,
+        "sectionID": "923667",
+        "type": "LA",
+        "section": "012",
+        "days": "W",
+        "time": "9:00a-10:50a",
+        "building": "MAYER",
+        "room": "2326",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:50"
+      },
+      "e94c6053a01d34450434835406285c3b95c59c07d05b136d81fa894788122a5d": {
+        "sectxt": true,
+        "sectionID": "923668",
+        "type": "LA",
+        "section": "013",
+        "days": "W",
+        "time": "11:00a-12:50p",
+        "building": "MAYER",
+        "room": "2130",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:50"
+      },
+      "49626f23e067cc7bb7712811db331710fe50b0f9d0e6b397c6a82f9b3cc217e7": {
+        "sectxt": true,
+        "sectionID": "923669",
+        "type": "LA",
+        "section": "014",
+        "days": "W",
+        "time": "11:00a-12:50p",
+        "building": "MAYER",
+        "room": "2326",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:50"
+      },
+      "189536288dd0fc608f7bb1fd645fa6eca07fa02a3bcb44d33dacd28dd7ebb39c": {
+        "sectxt": true,
+        "sectionID": "923670",
+        "type": "LA",
+        "section": "015",
+        "days": "W",
+        "time": "1:00p-2:50p",
+        "building": "MAYER",
+        "room": "2130",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "13:00",
+        "end_time": "14:50"
+      },
+      "a4481b5e020b6d16da922b4b3f7aa3c51024fe62bedf593bbf5a2eedbded331e": {
+        "sectxt": true,
+        "sectionID": "923671",
+        "type": "LA",
+        "section": "016",
+        "days": "W",
+        "time": "1:00p-2:50p",
+        "building": "MAYER",
+        "room": "2326",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "13:00",
+        "end_time": "14:50"
+      },
+      "f47d3f9fe0ffbb4096320216d0a6500894fccbaffa577301c56e126103eaba41": {
+        "sectxt": true,
+        "sectionID": "923672",
+        "type": "LA",
+        "section": "017",
+        "days": "W",
+        "time": "3:00p-4:50p",
+        "building": "MAYER",
+        "room": "2130",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "15:00",
+        "end_time": "16:50"
+      },
+      "b187c39a4b3639b4557f6ee84f63e1aa1c29ee416976cf0107f97809fcb30529": {
+        "sectxt": true,
+        "sectionID": "923673",
+        "type": "LA",
+        "section": "018",
+        "days": "W",
+        "time": "3:00p-4:50p",
+        "building": "MAYER",
+        "room": "2326",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "15:00",
+        "end_time": "16:50"
+      },
+      "896a8f245469b4e960f9c7d9ef3e71b2dfbbdf7f312dbf2de0b0b3b95f0142a8": {
+        "sectxt": true,
+        "sectionID": "923674",
+        "type": "LA",
+        "section": "019",
+        "days": "W",
+        "time": "5:00p-6:50p",
+        "building": "MAYER",
+        "room": "2130",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:50"
+      },
+      "6b11c2a0eefafda80c9c60fb218f39c2bdb56b3a70bea4b5c9e5cab915520383": {
+        "sectxt": true,
+        "sectionID": "923675",
+        "type": "LA",
+        "section": "020",
+        "days": "W",
+        "time": "5:00p-6:50p",
+        "building": "MAYER",
+        "room": "2326",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:50"
+      },
+      "7b2aa665284f8b6a26264012118a0c060ed37e75dacc74fa8c9d8785e1111b76": {
+        "sectxt": true,
+        "sectionID": "923666",
+        "type": "LA",
+        "section": "011",
+        "days": "W",
+        "time": "9:00a-10:50a",
+        "building": "MAYER",
+        "room": "2130",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:50"
+      }
+    },
+    "Th": {
+      "816d96162312d877020de93f3bd3d34f010b3f1288ddb39ccd60205d6c108107": {
+        "sectxt": true,
+        "sectionID": "923676",
+        "type": "LA",
+        "section": "021",
+        "days": "Th",
+        "time": "9:00a-10:50a",
+        "building": "MAYER",
+        "room": "2130",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:50"
+      },
+      "906e802cc4422ba957267d69cb72f5f6e4dd8c4edd9602848b3c1212359b9845": {
+        "sectxt": true,
+        "sectionID": "923677",
+        "type": "LA",
+        "section": "022",
+        "days": "Th",
+        "time": "9:00a-10:50a",
+        "building": "MAYER",
+        "room": "2326",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:50"
+      },
+      "2278a49c78abff6027b58d2510c4a1ef3a0a63037c74795f542e11260fd80955": {
+        "sectxt": true,
+        "sectionID": "923678",
+        "type": "LA",
+        "section": "023",
+        "days": "Th",
+        "time": "11:00a-12:50p",
+        "building": "MAYER",
+        "room": "2130",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:50"
+      },
+      "ec079b18b7817da808da21b985a59195375ff51045767d337d2fbfe23e020826": {
+        "sectxt": true,
+        "sectionID": "923679",
+        "type": "LA",
+        "section": "024",
+        "days": "Th",
+        "time": "11:00a-12:50p",
+        "building": "MAYER",
+        "room": "2326",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:50"
+      },
+      "630aab6727d5caaa29f089a0ed8d9031eb49a93006cef9bd6a31230455de18be": {
+        "sectxt": true,
+        "sectionID": "923680",
+        "type": "LA",
+        "section": "025",
+        "days": "Th",
+        "time": "1:00p-2:50p",
+        "building": "MAYER",
+        "room": "2130",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "13:00",
+        "end_time": "14:50"
+      },
+      "9b393090e2afc0cb932977f99ca4be68f132273339d3819ea94c5b30100dfda5": {
+        "sectxt": true,
+        "sectionID": "923681",
+        "type": "LA",
+        "section": "026",
+        "days": "Th",
+        "time": "1:00p-2:50p",
+        "building": "MAYER",
+        "room": "2326",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "13:00",
+        "end_time": "14:50"
+      },
+      "451d4d3fd2cd6e9ca24a6575f73bd87c877c23ef6e8085127349ed96b8b05f75": {
+        "sectxt": true,
+        "sectionID": "923682",
+        "type": "LA",
+        "section": "027",
+        "days": "Th",
+        "time": "3:00p-4:50p",
+        "building": "MAYER",
+        "room": "2130",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "15:00",
+        "end_time": "16:50"
+      },
+      "23cd54d5c76a08f55e15f5fb7ba8cf9b64bcce6701c6d529d151a7188c2e5643": {
+        "sectxt": true,
+        "sectionID": "923683",
+        "type": "LA",
+        "section": "028",
+        "days": "Th",
+        "time": "3:00p-4:50p",
+        "building": "MAYER",
+        "room": "2326",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "15:00",
+        "end_time": "16:50"
+      },
+      "990869ebb4ee27bbf165f0658884259caaa2028b76748edaf59213f307986bac": {
+        "sectxt": true,
+        "sectionID": "923684",
+        "type": "LA",
+        "section": "029",
+        "days": "Th",
+        "time": "5:00p-6:50p",
+        "building": "MAYER",
+        "room": "2130",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:50"
+      },
+      "78667b50350f5444ebb423dc0f3f02609084f432ae1230df96dc4e004a4831f5": {
+        "sectxt": true,
+        "sectionID": "923685",
+        "type": "LA",
+        "section": "030",
+        "days": "Th",
+        "time": "5:00p-6:50p",
+        "building": "MAYER",
+        "room": "2326",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:50"
+      }
+    },
+    "F": {
+      "785844054ba2a6c4233ce163c0d1ce54ac34d7694c12ce42c2a8e29d0b374549": {
+        "sectxt": true,
+        "sectionID": "923687",
+        "type": "LA",
+        "section": "032",
+        "days": "F",
+        "time": "9:00a-10:50a",
+        "building": "MAYER",
+        "room": "2326",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:50"
+      },
+      "9a2401f0fade3d37a6caa677b31a40e9a31447572af53e2c730f25cc48137b7c": {
+        "sectxt": true,
+        "sectionID": "923688",
+        "type": "LA",
+        "section": "033",
+        "days": "F",
+        "time": "11:00a-12:50p",
+        "building": "MAYER",
+        "room": "2130",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:50"
+      },
+      "8c5fb5e0337fc3d612df3181a2b5845c9bbd4dbc08da51f146a1a1fff9d17ade": {
+        "sectxt": true,
+        "sectionID": "923689",
+        "type": "LA",
+        "section": "034",
+        "days": "F",
+        "time": "11:00a-12:50p",
+        "building": "MAYER",
+        "room": "2326",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:50"
+      },
+      "bce2e2424c3973e79350ade93d91cb1f54443c2ed180c86d9e9e971050a1c1de": {
+        "sectxt": true,
+        "sectionID": "923690",
+        "type": "LA",
+        "section": "035",
+        "days": "F",
+        "time": "1:00p-2:50p",
+        "building": "MAYER",
+        "room": "2130",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "13:00",
+        "end_time": "14:50"
+      },
+      "ba88d7d7f6b686b6e3cb1c6f57be655a7a0182a25d01e8cc74ae4c325865b466": {
+        "sectxt": true,
+        "sectionID": "923691",
+        "type": "LA",
+        "section": "036",
+        "days": "F",
+        "time": "1:00p-2:50p",
+        "building": "MAYER",
+        "room": "2326",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "13:00",
+        "end_time": "14:50"
+      },
+      "4aefda0809b23f56590bcf8503a6ec2261157abef68c7d6c1368080f5304be6e": {
+        "sectxt": true,
+        "sectionID": "923692",
+        "type": "LA",
+        "section": "037",
+        "days": "F",
+        "time": "3:00p-4:50p",
+        "building": "MAYER",
+        "room": "2130",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "15:00",
+        "end_time": "16:50"
+      },
+      "58ee95bea173cc3be25c86c32932660c90e0bffac10ed825d7e1064573bea611": {
+        "sectxt": true,
+        "sectionID": "930608",
+        "type": "LA",
+        "section": "038",
+        "days": "F",
+        "time": "3:00p-4:50p",
+        "building": "MAYER",
+        "room": "2326",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "15:00",
+        "end_time": "16:50"
+      },
+      "5b01dd279bd3deb10a5217b378318ca9c4b7cee4474fa23ca993667def4e2ea4": {
         "sectxt": true,
         "sectionID": "932658",
         "type": "LA",
@@ -39,15 +578,30 @@
         "time": "5:00p-6:50p",
         "building": "MAYER",
         "room": "2130",
-        "instructor": "Yagil, Avi",
         "instructors": [
           "Yagil, Avi"
         ],
         "start_time": "17:00",
         "end_time": "18:50"
+      },
+      "cc2142c666bdf5e9dd10a7f80ada731c82296118844ecfc963fe381dcac94f3b": {
+        "sectxt": true,
+        "sectionID": "923686",
+        "type": "LA",
+        "section": "031",
+        "days": "F",
+        "time": "9:00a-10:50a",
+        "building": "MAYER",
+        "room": "2130",
+        "instructors": [
+          "Yagil, Avi"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "0"
+  ]
 }

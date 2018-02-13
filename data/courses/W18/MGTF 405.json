@@ -3,42 +3,23 @@
   "name": "Business Forecasting",
   "department": "MGTF",
   "id": "405",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930393",
-      "type": "LE",
-      "section": "B00",
-      "days": "M",
-      "time": "1:00p-4:00p",
-      "building": "WFH",
-      "room": "4N128",
-      "instructor": "Timmermann, Allan",
-      "instructors": [
-        "Timmermann, Allan"
-      ],
-      "start_time": "13:00",
-      "end_time": "16:00"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "1:00p-4:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "13:00",
-      "end_time": "16:00"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "88de374bd1a8fe25e8db055e692b8190ae048336b9734fb36b6d992fe5398e0b": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "8:30a-11:30a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "8:30",
+      "end_time": "11:30"
+    },
+    "295309235a054c9a0a4fcd265041fbe83740b4cfbbda266f577470971a8a8ffb": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +28,31 @@
       "time": "1:00p-4:00p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "13:00",
       "end_time": "16:00"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "27595bdd24627946a9e232b22482740679ea86b2e9cd1f2dacf63040e8e85584": {
+        "sectxt": true,
+        "sectionID": "930392",
+        "type": "LE",
+        "section": "A00",
+        "days": "M",
+        "time": "8:30a-11:30a",
+        "building": "WFH",
+        "room": "4N128",
+        "instructors": [
+          "Timmermann, Allan"
+        ],
+        "start_time": "8:30",
+        "end_time": "11:30"
+      },
+      "a709ce974b0b6709263ec48645fee4a903fd9eb953cda59b872f171085609586": {
         "sectxt": true,
         "sectionID": "930393",
         "type": "LE",
@@ -66,19 +61,16 @@
         "time": "1:00p-4:00p",
         "building": "WFH",
         "room": "4N128",
-        "instructor": "Timmermann, Allan",
         "instructors": [
           "Timmermann, Allan"
         ],
         "start_time": "13:00",
         "end_time": "16:00"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

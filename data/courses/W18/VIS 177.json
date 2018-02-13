@@ -3,42 +3,9 @@
   "name": "Scripting Strategies",
   "department": "VIS",
   "id": "177",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922810",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "3:30p-6:20p",
-      "building": "MANDE",
-      "room": "103",
-      "instructor": "Crandall, Jordan",
-      "instructors": [
-        "Crandall, Jordan"
-      ],
-      "start_time": "15:30",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/29/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-29T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "31a8b38224f0078eccbded1129abbe38f903b787cf00f9c3ab8d2b2448a5ec9f": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-29T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "ce00bfa637175659435f95c8c8af6992ee8d083b564fd0327e94b829b05f101a": {
         "sectxt": true,
         "sectionID": "922810",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "3:30p-6:20p",
         "building": "MANDE",
         "room": "103",
-        "instructor": "Crandall, Jordan",
         "instructors": [
           "Crandall, Jordan"
         ],
         "start_time": "15:30",
         "end_time": "18:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f3e2c39c715ce386d0d86fb4b034a851419a6a761b8d0edfe81060a4e8d3f248": {
         "sectxt": true,
         "sectionID": "922810",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "3:30p-6:20p",
         "building": "MANDE",
         "room": "103",
-        "instructor": "Crandall, Jordan",
         "instructors": [
           "Crandall, Jordan"
         ],
         "start_time": "15:30",
         "end_time": "18:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

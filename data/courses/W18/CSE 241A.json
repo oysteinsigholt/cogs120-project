@@ -3,177 +3,9 @@
   "name": "VLSI Integr Cmputing Circuitry",
   "department": "CSE",
   "id": "241A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927564",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "8:00p-9:20p",
-      "building": "HSS",
-      "room": "1330",
-      "instructor": "Kahng, Andrew Byun",
-      "instructors": [
-        "Kahng, Andrew Byun"
-      ],
-      "start_time": "20:00",
-      "end_time": "21:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/19/2018",
-      "days": "F",
-      "time": "3:00p-4:20p",
-      "building": "EBU3B",
-      "room": "2154",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-19T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "16:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/26/2018",
-      "days": "F",
-      "time": "3:00p-4:20p",
-      "building": "EBU3B",
-      "room": "2154",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-26T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "16:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/02/2018",
-      "days": "F",
-      "time": "3:00p-4:20p",
-      "building": "EBU3B",
-      "room": "2154",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-02T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "16:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/09/2018",
-      "days": "F",
-      "time": "3:00p-4:20p",
-      "building": "EBU3B",
-      "room": "2154",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-09T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "16:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/16/2018",
-      "days": "F",
-      "time": "3:00p-4:20p",
-      "building": "EBU3B",
-      "room": "2154",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-16T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "16:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/23/2018",
-      "days": "F",
-      "time": "3:00p-4:20p",
-      "building": "EBU3B",
-      "room": "2154",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-23T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "16:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/02/2018",
-      "days": "F",
-      "time": "3:00p-4:20p",
-      "building": "EBU3B",
-      "room": "2154",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-02T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "16:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/09/2018",
-      "days": "F",
-      "time": "3:00p-4:20p",
-      "building": "EBU3B",
-      "room": "2154",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-09T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "16:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/16/2018",
-      "days": "F",
-      "time": "3:00p-4:20p",
-      "building": "EBU3B",
-      "room": "2154",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-16T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "16:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "a326f2b79d2c6db94ede2bc90949b5aadb3f952d93c88f441095b99d9b0ad95e": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -182,13 +14,12 @@
       "time": "3:00p-4:20p",
       "building": "EBU3B",
       "room": "2154",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-19T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "16:20"
     },
-    {
+    "2d246c5d9bae2fef2189a02adf7341cb239757010815cc2d704063e3447c3f69": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -197,13 +28,12 @@
       "time": "3:00p-4:20p",
       "building": "EBU3B",
       "room": "2154",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-26T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "16:20"
     },
-    {
+    "5fddc54502367c8f07ec11d0e41a29336d2585960214813f70739767d10ddb48": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -212,13 +42,12 @@
       "time": "3:00p-4:20p",
       "building": "EBU3B",
       "room": "2154",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-02T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "16:20"
     },
-    {
+    "3a6bd16fb7564dcfe917ba65a747e060e947416d3d88d14673d5f5bf3718805d": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -227,13 +56,12 @@
       "time": "3:00p-4:20p",
       "building": "EBU3B",
       "room": "2154",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-09T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "16:20"
     },
-    {
+    "6c0d53a640ccd39193012606411671aea16a6246743ff3097eecf31168c33d66": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -242,13 +70,12 @@
       "time": "3:00p-4:20p",
       "building": "EBU3B",
       "room": "2154",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-16T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "16:20"
     },
-    {
+    "a9b84acf9f42388a043b4f1b02482c7f0565a17fdad083c7cfe42f95e2c50975": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -257,13 +84,12 @@
       "time": "3:00p-4:20p",
       "building": "EBU3B",
       "room": "2154",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-23T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "16:20"
     },
-    {
+    "96d754592ba2c9d0c7e3a62e804fb480fea3f844569e162a1f7c7bced09c9181": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -272,13 +98,12 @@
       "time": "3:00p-4:20p",
       "building": "EBU3B",
       "room": "2154",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-02T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "16:20"
     },
-    {
+    "f8056f858dd603a79c6e6f11326f3473b26b202a660472457f5b2ccba1079141": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -287,13 +112,12 @@
       "time": "3:00p-4:20p",
       "building": "EBU3B",
       "room": "2154",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-09T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "16:20"
     },
-    {
+    "583642a759b7c31dc98c6e94ddacc1841d8e568bb50d9fe67e3efc5a0deb5f39": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -302,13 +126,12 @@
       "time": "3:00p-4:20p",
       "building": "EBU3B",
       "room": "2154",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-16T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "16:20"
     },
-    {
+    "4014bb1a466c069dc311d33d5ef7495aff7dbbe0834ca64e0d8d595c45fc5253": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -317,18 +140,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "44e3cdba844fb0b90d1e76f44b172828f84c6fb574a2e53b79cf240cc27c6e14": {
         "sectxt": true,
         "sectionID": "927564",
         "type": "LE",
@@ -337,17 +158,15 @@
         "time": "8:00p-9:20p",
         "building": "HSS",
         "room": "1330",
-        "instructor": "Kahng, Andrew Byun",
         "instructors": [
           "Kahng, Andrew Byun"
         ],
         "start_time": "20:00",
         "end_time": "21:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "40e506f6e56ba60d5e0555e7a7438a0d23752e2c969934c2874f746042096f06": {
         "sectxt": true,
         "sectionID": "927564",
         "type": "LE",
@@ -356,16 +175,15 @@
         "time": "8:00p-9:20p",
         "building": "HSS",
         "room": "1330",
-        "instructor": "Kahng, Andrew Byun",
         "instructors": [
           "Kahng, Andrew Byun"
         ],
         "start_time": "20:00",
         "end_time": "21:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

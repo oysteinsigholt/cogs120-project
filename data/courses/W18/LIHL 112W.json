@@ -3,42 +3,9 @@
   "name": "Filipino for Filipino Speakers",
   "department": "LIHL",
   "id": "112W",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921327",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Alicio, Atilio",
-      "instructors": [
-        "Alicio, Atilio"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "1bde85fdf0e77a6add11336c1a6666f27ace61a13d7fb45432e1f7b9440b924c": {
         "sectxt": true,
         "sectionID": "921327",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "9:30a-10:50a",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Alicio, Atilio",
         "instructors": [
           "Alicio, Atilio"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "da259ee4cedd50dde5b22a8ac2e7543ceabe183edb0141fb29985ef63c9793a5": {
         "sectxt": true,
         "sectionID": "921327",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "9:30a-10:50a",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Alicio, Atilio",
         "instructors": [
           "Alicio, Atilio"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

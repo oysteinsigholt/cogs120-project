@@ -3,192 +3,254 @@
   "name": "Intro:CirculationsofDifference",
   "department": "ETHN",
   "id": "2",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922613",
-      "type": "DI",
-      "section": "A14",
-      "days": "W",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2152",
-      "instructor": "Espiritu, Yen",
-      "instructors": [
-        "Espiritu, Yen"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922614",
-      "type": "DI",
-      "section": "A15",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "YORK",
-      "room": "3050A",
-      "instructor": "Espiritu, Yen",
-      "instructors": [
-        "Espiritu, Yen"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922615",
-      "type": "DI",
-      "section": "A16",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "Espiritu, Yen",
-      "instructors": [
-        "Espiritu, Yen"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922616",
-      "type": "DI",
-      "section": "A17",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "Espiritu, Yen",
-      "instructors": [
-        "Espiritu, Yen"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922617",
-      "type": "DI",
-      "section": "A18",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922618",
-      "type": "DI",
-      "section": "A19",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922619",
-      "type": "DI",
-      "section": "A20",
-      "days": "F",
-      "time": "12:00p-12:50p",
-      "building": "HSS",
-      "room": "2305B",
-      "instructor": "Espiritu, Yen",
-      "instructors": [
-        "Espiritu, Yen"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922620",
-      "type": "DI",
-      "section": "A21",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2305B",
-      "instructor": "Espiritu, Yen",
-      "instructors": [
-        "Espiritu, Yen"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922621",
-      "type": "DI",
-      "section": "A22",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "MANDE",
-      "room": "B-146",
-      "instructor": "Espiritu, Yen",
-      "instructors": [
-        "Espiritu, Yen"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922622",
-      "type": "DI",
-      "section": "A23",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "HSS",
-      "room": "2305B",
-      "instructor": "Espiritu, Yen",
-      "instructors": [
-        "Espiritu, Yen"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922623",
-      "type": "DI",
-      "section": "A24",
-      "days": "F",
-      "time": "4:00p-4:50p",
-      "building": "HSS",
-      "room": "2305B",
-      "instructor": "Espiritu, Yen",
-      "instructors": [
-        "Espiritu, Yen"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "M": {
+      "e4a7e0b48e5a74a5039a6a4a5657e3e1413e312642286325ab5d305301b5cae2": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "PETER",
+        "room": "108",
+        "instructors": [
+          "Espiritu, Yen"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "2f37bc7fb85227526e80c326d6e53db438b6dc47ec46ccab72831ef2224d67cf": {
+        "sectxt": true,
+        "sectionID": "922600",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "9:00a-9:50a",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Espiritu, Yen"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "51faa4bcd2deaf57472983f95a07043cd1586f986f463ed5bfbed27579f6336c": {
+        "sectxt": true,
+        "sectionID": "922601",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "10:00a-10:50a",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Espiritu, Yen"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "5b7984b1d07fd0ae4d2eafdc1c9b8fcb9cbf413ec6a4d705694b1d06023c91b6": {
+        "sectxt": true,
+        "sectionID": "922602",
+        "type": "DI",
+        "section": "A03",
+        "days": "M",
+        "time": "11:00a-11:50a",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Espiritu, Yen"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "acc415f4a06c721c5b6b1ab22631802977a6b8ebd06c3ee3c3fb3d38c7ae5030": {
+        "sectxt": true,
+        "sectionID": "922603",
+        "type": "DI",
+        "section": "A04",
+        "days": "M",
+        "time": "12:00p-12:50p",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Espiritu, Yen"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "12e7f03f0a020084c12bf01ac23c32ff5e7a25a7e9d21fb4dd70c3dec8c7980b": {
+        "sectxt": true,
+        "sectionID": "922604",
+        "type": "DI",
+        "section": "A05",
+        "days": "M",
+        "time": "2:00p-2:50p",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Espiritu, Yen"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "f37cabeaeb423adeeb85fef8cd6087a29429a6acee489625d828d3bee0eeb4fc": {
+        "sectxt": true,
+        "sectionID": "922605",
+        "type": "DI",
+        "section": "A06",
+        "days": "M",
+        "time": "3:00p-3:50p",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Espiritu, Yen"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "52cad4645307e5d1c4b4fef54ed2ea908ffa4300ecb300229b36c3876af75a0a": {
+        "sectxt": true,
+        "sectionID": "922606",
+        "type": "DI",
+        "section": "A07",
+        "days": "M",
+        "time": "4:00p-4:50p",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Espiritu, Yen"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "7ae86f69c834b4b415d4f891d08d0f68f26e6324292de7ed48513dac6c89b1d6": {
+        "sectxt": true,
+        "sectionID": "922607",
+        "type": "DI",
+        "section": "A08",
+        "days": "M",
+        "time": "4:00p-4:50p",
+        "building": "YORK",
+        "room": "3050A",
+        "instructors": [
+          "Espiritu, Yen"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "32bc53eeaa025b8f83c17085e2502e92d6ba0ffb37b4dac026d304e700480c7b": {
+        "sectxt": true,
+        "sectionID": "922608",
+        "type": "DI",
+        "section": "A09",
+        "days": "M",
+        "time": "5:00p-5:50p",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Espiritu, Yen"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "bfd484d2ef55a8126174717830f177aa4e68bb3eed907e37f68c5a3ae8d9d9cc": {
+        "sectxt": true,
+        "sectionID": "922609",
+        "type": "DI",
+        "section": "A10",
+        "days": "M",
+        "time": "6:00p-6:50p",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Espiritu, Yen"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      }
+    },
+    "W": {
+      "c15fcf4f9ab3e7d38ca0b0fda612d43843a9400dd321e08de7ed0c9d036f43b0": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "PETER",
+        "room": "108",
+        "instructors": [
+          "Espiritu, Yen"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "d095adb5d1d965a4cf56ea0de12e5feb7a19cc40f1734e8ca53e7181d5d09349": {
+        "sectxt": true,
+        "sectionID": "922610",
+        "type": "DI",
+        "section": "A11",
+        "days": "W",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Espiritu, Yen"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "ccf5e2988e16d14612828f14b6a40003dde143d786224a541bdfc3ce3cf5afa1": {
+        "sectxt": true,
+        "sectionID": "922611",
+        "type": "DI",
+        "section": "A12",
+        "days": "W",
+        "time": "11:00a-11:50a",
+        "building": "MCGIL",
+        "room": "2315",
+        "instructors": [
+          "Espiritu, Yen"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "808727fc7a4eaaf56e75badf915ba72b4c753b2b036e5a9359b20ab43dfcdc84": {
+        "sectxt": true,
+        "sectionID": "922612",
+        "type": "DI",
+        "section": "A13",
+        "days": "W",
+        "time": "12:00p-12:50p",
+        "building": "MANDE",
+        "room": "B-152",
+        "instructors": [
+          "Espiritu, Yen"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "276030532aa74bef0f53a7ecf8fa9d39b5c1615198ba77116f8f5a135e691c23": {
         "sectxt": true,
         "sectionID": "922613",
         "type": "DI",
@@ -197,14 +259,13 @@
         "time": "2:00p-2:50p",
         "building": "HSS",
         "room": "2152",
-        "instructor": "Espiritu, Yen",
         "instructors": [
           "Espiritu, Yen"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "85d8cf92be1bf5ad3b6b11168c21f6d64479b3d9b73e0721554be309aa4e1eba": {
         "sectxt": true,
         "sectionID": "922614",
         "type": "DI",
@@ -213,14 +274,13 @@
         "time": "3:00p-3:50p",
         "building": "YORK",
         "room": "3050A",
-        "instructor": "Espiritu, Yen",
         "instructors": [
           "Espiritu, Yen"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "9bd12d074ec036f697d15886c01535a69e13605729f7e6b95251ef2b57dec0cf": {
         "sectxt": true,
         "sectionID": "922615",
         "type": "DI",
@@ -229,14 +289,13 @@
         "time": "3:00p-3:50p",
         "building": "MCGIL",
         "room": "2315",
-        "instructor": "Espiritu, Yen",
         "instructors": [
           "Espiritu, Yen"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "8779044a307f99c94e5f52ee31c6eb8ab16b13bcabd3dcda212e809b62cc2c8b": {
         "sectxt": true,
         "sectionID": "922616",
         "type": "DI",
@@ -245,17 +304,30 @@
         "time": "4:00p-4:50p",
         "building": "MCGIL",
         "room": "2315",
-        "instructor": "Espiritu, Yen",
         "instructors": [
           "Espiritu, Yen"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "a1ad73e826e4f3d18db30a6715bb1aece555b7c097097bfe51405b7a3389d35a": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "PETER",
+        "room": "108",
+        "instructors": [
+          "Espiritu, Yen"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "e2070a69855f0d436cfc540a28ed09b1d3607c712b0493d926cd4e49c7223b7a": {
         "sectxt": true,
         "sectionID": "922619",
         "type": "DI",
@@ -264,14 +336,13 @@
         "time": "12:00p-12:50p",
         "building": "HSS",
         "room": "2305B",
-        "instructor": "Espiritu, Yen",
         "instructors": [
           "Espiritu, Yen"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "5462131bebb53a72781f130d24daa435c862b4ff565ae5cd2a89793f75e457d0": {
         "sectxt": true,
         "sectionID": "922620",
         "type": "DI",
@@ -280,14 +351,13 @@
         "time": "2:00p-2:50p",
         "building": "HSS",
         "room": "2305B",
-        "instructor": "Espiritu, Yen",
         "instructors": [
           "Espiritu, Yen"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "3cd5ac86abacd7523c3b3aa56588b6d23cfb54936ead367242918dbeece6ab85": {
         "sectxt": true,
         "sectionID": "922621",
         "type": "DI",
@@ -296,14 +366,13 @@
         "time": "2:00p-2:50p",
         "building": "MANDE",
         "room": "B-146",
-        "instructor": "Espiritu, Yen",
         "instructors": [
           "Espiritu, Yen"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "19022997a3444e944ad67a1dcf6ca5012756bb07c7d1917ea32eabbd187b0250": {
         "sectxt": true,
         "sectionID": "922622",
         "type": "DI",
@@ -312,14 +381,13 @@
         "time": "3:00p-3:50p",
         "building": "HSS",
         "room": "2305B",
-        "instructor": "Espiritu, Yen",
         "instructors": [
           "Espiritu, Yen"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "78e9d853661d7bff066cf931c44f36da8eadbe0c8777adf6b860b4739c4bdda6": {
         "sectxt": true,
         "sectionID": "922623",
         "type": "DI",
@@ -328,15 +396,15 @@
         "time": "4:00p-4:50p",
         "building": "HSS",
         "room": "2305B",
-        "instructor": "Espiritu, Yen",
         "instructors": [
           "Espiritu, Yen"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

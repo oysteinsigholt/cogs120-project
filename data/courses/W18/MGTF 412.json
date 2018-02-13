@@ -3,34 +3,45 @@
   "name": "Financial Statement Analysis",
   "department": "MGTF",
   "id": "412",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930344",
-      "type": "LE",
-      "section": "B00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "84136d941b881d960703a64f8f7f561ce9f0c58097d842d8de58cbbc52a4e33e": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "9:30a-12:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "9:30",
+      "end_time": "12:30"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "W": {
+      "ac5073fe0bba9b85c1e7aba28afe37280cc1f5465ff3128e0edf8523c670c9a5": {
+        "sectxt": true,
+        "sectionID": "930343",
+        "type": "LE",
+        "section": "A00",
+        "days": "W",
+        "time": "9:30a-12:30p",
+        "building": "OTRSN",
+        "room": "1E106",
+        "instructors": [
+          "Bertomeu, Jeremy"
+        ],
+        "start_time": "9:30",
+        "end_time": "12:30"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

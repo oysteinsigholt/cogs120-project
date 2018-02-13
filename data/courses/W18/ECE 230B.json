@@ -3,42 +3,9 @@
   "name": "Solid State Electronics II",
   "department": "ECE",
   "id": "230B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925160",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "HSS",
-      "room": "2154",
-      "instructor": "Taur, Yuan",
-      "instructors": [
-        "Taur, Yuan"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "de65ad8be8ceda3fabccd323547445498b0cebec4ddedac5e2f98c9fc5b390ed": {
         "sectxt": true,
         "sectionID": "925160",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "11:00a-11:50a",
         "building": "HSS",
         "room": "2154",
-        "instructor": "Taur, Yuan",
         "instructors": [
           "Taur, Yuan"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "c41003436e7c444ae20302be9b7972487247aaa5bdf9dcf60d6a02cfe1697690": {
         "sectxt": true,
         "sectionID": "925160",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "11:00a-11:50a",
         "building": "HSS",
         "room": "2154",
-        "instructor": "Taur, Yuan",
         "instructors": [
           "Taur, Yuan"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "b8cd2e44e10b7cb43ab9271e9d184968cd35c545939d0b79831b52db8bda1a04": {
         "sectxt": true,
         "sectionID": "925160",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "11:00a-11:50a",
         "building": "HSS",
         "room": "2154",
-        "instructor": "Taur, Yuan",
         "instructors": [
           "Taur, Yuan"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

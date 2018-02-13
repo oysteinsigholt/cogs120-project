@@ -3,89 +3,9 @@
   "name": "Linear Systems Fundamentals",
   "department": "ECE",
   "id": "101",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "6:30p-7:50p",
-      "building": "CSB",
-      "room": "001",
-      "instructor": "Baghdadchi, Saharnaz",
-      "instructors": [
-        "Baghdadchi, Saharnaz"
-      ],
-      "start_time": "18:30",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925021",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "5:00p-5:50p",
-      "building": "PETER",
-      "room": "104",
-      "instructor": "Baghdadchi, Saharnaz",
-      "instructors": [
-        "Baghdadchi, Saharnaz"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925022",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "8:00p-8:50p",
-      "building": "WLH",
-      "room": "2204",
-      "instructor": "Baghdadchi, Saharnaz",
-      "instructors": [
-        "Baghdadchi, Saharnaz"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/07/2018",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "CENTR",
-      "room": "217A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-07T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "66a702874e778ef52d7fb3e0bb1410b9326f291a75e1ab97e400b92d1a5699d2": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -94,13 +14,12 @@
       "time": "4:00p-4:50p",
       "building": "CENTR",
       "room": "217A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-07T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "83f667703ee5f41443699d3c685d2af7204f58e7d0026726650a8f5259ecf403": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -109,17 +28,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "9118b6452a97c956052ef55287ab58608ae5f541f5653145a3820cfc9dc838bf": {
         "sectxt": true,
         "sectionID": "925021",
         "type": "DI",
@@ -128,14 +46,13 @@
         "time": "5:00p-5:50p",
         "building": "PETER",
         "room": "104",
-        "instructor": "Baghdadchi, Saharnaz",
         "instructors": [
           "Baghdadchi, Saharnaz"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "401b255c26512cd12776542cc82163def606b0cd7056fa696ca80f894975d2f4": {
         "sectxt": true,
         "sectionID": "925022",
         "type": "DI",
@@ -144,16 +61,15 @@
         "time": "8:00p-8:50p",
         "building": "WLH",
         "room": "2204",
-        "instructor": "Baghdadchi, Saharnaz",
         "instructors": [
           "Baghdadchi, Saharnaz"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "7fb78df708bc10ae7cbed8c31256c6ff03db90d39a0bcfe7e71ecc8e7cc1a647": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -162,17 +78,15 @@
         "time": "6:30p-7:50p",
         "building": "CSB",
         "room": "001",
-        "instructor": "Baghdadchi, Saharnaz",
         "instructors": [
           "Baghdadchi, Saharnaz"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f12164f83e9ec19b35c2ae2e257ad595319959ecbd32e61750cdd0475d11af05": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -181,16 +95,15 @@
         "time": "6:30p-7:50p",
         "building": "CSB",
         "room": "001",
-        "instructor": "Baghdadchi, Saharnaz",
         "instructors": [
           "Baghdadchi, Saharnaz"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

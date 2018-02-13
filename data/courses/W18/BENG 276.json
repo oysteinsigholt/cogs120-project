@@ -3,42 +3,8 @@
   "name": "Numerical Anlys/MultiScale Bio",
   "department": "BENG",
   "id": "276",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923388",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "PFBH",
-      "room": "161",
-      "instructor": "Mc Culloch, Andrew Douglas & McCammon, James Andrew",
-      "instructors": [
-        "Mc Culloch, Andrew Douglas",
-        "McCammon, James Andrew"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Mc Culloch, Andrew Douglas & McCammon, James Andrew",
-      "instructors": [
-        "Mc Culloch, Andrew Douglas",
-        "McCammon, James Andrew"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -49,17 +15,14 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Mc Culloch, Andrew Douglas & McCammon, James Andrew",
       "instructors": [
-        "Mc Culloch, Andrew Douglas",
-        "McCammon, James Andrew"
+        "Mc Culloch, Andrew Douglas         \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMcCammon, James Andrew"
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "8883d6ab2331efef73cad7031704a8ce4a72d5e5631fe8edcaff66c12d201661": {
         "sectxt": true,
         "sectionID": "923388",
         "type": "LE",
@@ -68,18 +31,15 @@
         "time": "3:30p-4:50p",
         "building": "PFBH",
         "room": "161",
-        "instructor": "Mc Culloch, Andrew Douglas & McCammon, James Andrew",
         "instructors": [
-          "Mc Culloch, Andrew Douglas",
-          "McCammon, James Andrew"
+          "Mc Culloch, Andrew Douglas         \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMcCammon, James Andrew"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "3043d904339f9ef9f60e1ce5505ac85ffc0f9401b71db46b94ab4d1b2dc30936": {
         "sectxt": true,
         "sectionID": "923388",
         "type": "LE",
@@ -88,17 +48,15 @@
         "time": "3:30p-4:50p",
         "building": "PFBH",
         "room": "161",
-        "instructor": "Mc Culloch, Andrew Douglas & McCammon, James Andrew",
         "instructors": [
-          "Mc Culloch, Andrew Douglas",
-          "McCammon, James Andrew"
+          "Mc Culloch, Andrew Douglas         \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMcCammon, James Andrew"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

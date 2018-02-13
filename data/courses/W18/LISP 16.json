@@ -3,42 +3,37 @@
   "name": "Intermediate Spanish/Soc Sci",
   "department": "LISP",
   "id": "16",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921363",
-      "type": "TU",
-      "section": "C00",
-      "days": "MW",
-      "time": "11:00a-11:50a",
-      "building": "MCGIL",
-      "room": "2322",
-      "instructor": "Munoz Sanchez, Alicia",
-      "instructors": [
-        "Munoz Sanchez, Alicia"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +42,46 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "d1051b9b8b8408d5d0178e6ae8bf9d840ac241bd8e5b1d055a650c63dd44328d": {
+        "sectxt": true,
+        "sectionID": "921361",
+        "type": "TU",
+        "section": "A00",
+        "days": "MW",
+        "time": "9:00a-9:50a",
+        "building": "MCGIL",
+        "room": "2322",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "9a5ac93cda46a77a0d8158e9386dbe37abe7c353fd268302ae9ccac237f08a8e": {
+        "sectxt": true,
+        "sectionID": "921362",
+        "type": "TU",
+        "section": "B00",
+        "days": "MW",
+        "time": "10:00a-10:50a",
+        "building": "MCGIL",
+        "room": "2322",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "48350d3945803ddf660fa457b17ea0fb9876b31c2a14dc20bd3ed13f899dd068": {
         "sectxt": true,
         "sectionID": "921363",
         "type": "TU",
@@ -66,17 +90,45 @@
         "time": "11:00a-11:50a",
         "building": "MCGIL",
         "room": "2322",
-        "instructor": "Munoz Sanchez, Alicia",
         "instructors": [
           "Munoz Sanchez, Alicia"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "3012fb19877b29c25092dffdcc08dcb18dff8a08f80e5951562a1ff8aa1d4e92": {
+        "sectxt": true,
+        "sectionID": "921361",
+        "type": "TU",
+        "section": "A00",
+        "days": "MW",
+        "time": "9:00a-9:50a",
+        "building": "MCGIL",
+        "room": "2322",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "b654cbb4ed56c38f431a7886ca55f77df57805713cf5ce577a9013ff4bd53df2": {
+        "sectxt": true,
+        "sectionID": "921362",
+        "type": "TU",
+        "section": "B00",
+        "days": "MW",
+        "time": "10:00a-10:50a",
+        "building": "MCGIL",
+        "room": "2322",
+        "instructors": [
+          "Munoz Sanchez, Alicia"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "7a5c3bf213b4ab0961950da91f178c532a0498fce08aaa7f35d1b65b781f1aa0": {
         "sectxt": true,
         "sectionID": "921363",
         "type": "TU",
@@ -85,17 +137,17 @@
         "time": "11:00a-11:50a",
         "building": "MCGIL",
         "room": "2322",
-        "instructor": "Munoz Sanchez, Alicia",
         "instructors": [
           "Munoz Sanchez, Alicia"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

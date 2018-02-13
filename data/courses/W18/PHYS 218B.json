@@ -3,177 +3,9 @@
   "name": "Plasma Physics II",
   "department": "PHYS",
   "id": "218B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923810",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "11:00a-12:20p",
-      "building": "SERF",
-      "room": "329",
-      "instructor": "Diamond, Patrick H",
-      "instructors": [
-        "Diamond, Patrick H"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/17/2018",
-      "days": "W",
-      "time": "6:30p-8:30p",
-      "building": "SERF",
-      "room": "329",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-17T08:00:00.000Z",
-      "start_time": "18:30",
-      "end_time": "20:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/24/2018",
-      "days": "W",
-      "time": "6:30p-8:30p",
-      "building": "SERF",
-      "room": "329",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-24T08:00:00.000Z",
-      "start_time": "18:30",
-      "end_time": "20:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/31/2018",
-      "days": "W",
-      "time": "6:30p-8:30p",
-      "building": "SERF",
-      "room": "329",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-31T08:00:00.000Z",
-      "start_time": "18:30",
-      "end_time": "20:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/07/2018",
-      "days": "W",
-      "time": "6:30p-8:30p",
-      "building": "SERF",
-      "room": "329",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-07T08:00:00.000Z",
-      "start_time": "18:30",
-      "end_time": "20:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/14/2018",
-      "days": "W",
-      "time": "6:30p-8:30p",
-      "building": "SERF",
-      "room": "329",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-14T08:00:00.000Z",
-      "start_time": "18:30",
-      "end_time": "20:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/21/2018",
-      "days": "W",
-      "time": "6:30p-8:30p",
-      "building": "SERF",
-      "room": "329",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-21T08:00:00.000Z",
-      "start_time": "18:30",
-      "end_time": "20:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/28/2018",
-      "days": "W",
-      "time": "6:30p-8:30p",
-      "building": "SERF",
-      "room": "329",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-28T08:00:00.000Z",
-      "start_time": "18:30",
-      "end_time": "20:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/07/2018",
-      "days": "W",
-      "time": "6:30p-8:30p",
-      "building": "SERF",
-      "room": "329",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-07T08:00:00.000Z",
-      "start_time": "18:30",
-      "end_time": "20:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/14/2018",
-      "days": "W",
-      "time": "6:30p-8:30p",
-      "building": "SERF",
-      "room": "329",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-14T07:00:00.000Z",
-      "start_time": "18:30",
-      "end_time": "20:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5fef5283dc719efb29dda17ea0df9f12f618ece999bf6c6213df51e3ffd55a2e": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -182,13 +14,12 @@
       "time": "6:30p-8:30p",
       "building": "SERF",
       "room": "329",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-17T08:00:00.000Z",
       "start_time": "18:30",
       "end_time": "20:30"
     },
-    {
+    "451723ed9754a83b122e1b5afb5e4e3b38bbead71af9318b737b07879fe9a158": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -197,13 +28,12 @@
       "time": "6:30p-8:30p",
       "building": "SERF",
       "room": "329",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-24T08:00:00.000Z",
       "start_time": "18:30",
       "end_time": "20:30"
     },
-    {
+    "5007a0815353d4c76267baaaf0735272e09e839730f63cc8140a298bfa993618": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -212,13 +42,12 @@
       "time": "6:30p-8:30p",
       "building": "SERF",
       "room": "329",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-31T08:00:00.000Z",
       "start_time": "18:30",
       "end_time": "20:30"
     },
-    {
+    "2a0a6f2a7991a212b8cac7932d248964eedac2ca52b1f2e644e933cc201895c3": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -227,13 +56,12 @@
       "time": "6:30p-8:30p",
       "building": "SERF",
       "room": "329",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-07T08:00:00.000Z",
       "start_time": "18:30",
       "end_time": "20:30"
     },
-    {
+    "723f63fe4bde3b11940b73d69c8a9e7b6fe0597e054734be64d60e14ea548a45": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -242,13 +70,12 @@
       "time": "6:30p-8:30p",
       "building": "SERF",
       "room": "329",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-14T08:00:00.000Z",
       "start_time": "18:30",
       "end_time": "20:30"
     },
-    {
+    "0e7e75029cb7cde86ce280c9f4a1baa9fd1e5a197cb2e4b6fd18f5ed39674e4d": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -257,13 +84,12 @@
       "time": "6:30p-8:30p",
       "building": "SERF",
       "room": "329",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-21T08:00:00.000Z",
       "start_time": "18:30",
       "end_time": "20:30"
     },
-    {
+    "0c459b0887a8ae101263d5aa07faa14d53647e30f63f843af41616fcaf385dd6": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -272,13 +98,12 @@
       "time": "6:30p-8:30p",
       "building": "SERF",
       "room": "329",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-28T08:00:00.000Z",
       "start_time": "18:30",
       "end_time": "20:30"
     },
-    {
+    "2b850f4efe374badde2124171e39481304478828d36bb66947ff0448728d74e6": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -287,13 +112,12 @@
       "time": "6:30p-8:30p",
       "building": "SERF",
       "room": "329",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-07T08:00:00.000Z",
       "start_time": "18:30",
       "end_time": "20:30"
     },
-    {
+    "405c98af04e8a729699df2006311f04e748825b2bcec6cba7b0fe680237b104a": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -302,13 +126,12 @@
       "time": "6:30p-8:30p",
       "building": "SERF",
       "room": "329",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-14T07:00:00.000Z",
       "start_time": "18:30",
       "end_time": "20:30"
     },
-    {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -317,17 +140,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "9a75c6b205f7475fe4988f2e025c920cf36361f308faa128bf74a4ddaa39211a": {
         "sectxt": true,
         "sectionID": "923810",
         "type": "LE",
@@ -336,17 +158,15 @@
         "time": "11:00a-12:20p",
         "building": "SERF",
         "room": "329",
-        "instructor": "Diamond, Patrick H",
         "instructors": [
           "Diamond, Patrick H"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "224f75df7a7ced4f6f761a179b0922b7795d9729a64a494b743614dd763b10e8": {
         "sectxt": true,
         "sectionID": "923810",
         "type": "LE",
@@ -355,17 +175,15 @@
         "time": "11:00a-12:20p",
         "building": "SERF",
         "room": "329",
-        "instructor": "Diamond, Patrick H",
         "instructors": [
           "Diamond, Patrick H"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

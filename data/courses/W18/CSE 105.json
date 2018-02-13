@@ -3,65 +3,182 @@
   "name": "Theory of Computation",
   "department": "CSE",
   "id": "105",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927484",
-      "type": "DI",
-      "section": "B02",
-      "days": "Th",
-      "time": "10:00a-10:50a",
-      "building": "HSS",
-      "room": "1128A",
-      "instructor": "Minnes Kemp, Mor Mia",
-      "instructors": [
-        "Minnes Kemp, Mor Mia"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927485",
-      "type": "DI",
-      "section": "B03",
-      "days": "Th",
-      "time": "5:00p-5:50p",
-      "building": "HSS",
-      "room": "1128A",
-      "instructor": "Minnes Kemp, Mor Mia",
-      "instructors": [
-        "Minnes Kemp, Mor Mia"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927486",
-      "type": "DI",
-      "section": "B04",
-      "days": "Th",
-      "time": "6:00p-6:50p",
-      "building": "HSS",
-      "room": "1128A",
-      "instructor": "Minnes Kemp, Mor Mia",
-      "instructors": [
-        "Minnes Kemp, Mor Mia"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    }
+  "notes": [
+    "Review Session for CSE 105 B00 will meet in same\n location as CSE 105 A00."
   ],
-  "notes": [],
-  "events_single": [],
+  "events_single": {
+    "a75dc483df5616a5347f912a351ab8dc587782efb53c7bdc917c6e0d82ee62bb": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/05/2018",
+      "days": "M",
+      "time": "7:00p-8:50p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-02-05T08:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "20:50"
+    },
+    "42be5c11e5aed639787dcf3991db0969e0d26a8b34da5d3764fa5e59c516ba42": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/28/2018",
+      "days": "W",
+      "time": "7:00p-8:50p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-02-28T08:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "20:50"
+    },
+    "fa35c1848ea8fac9e70a80524eabee10a9b0d41b1cebe2bbc57fc3ffbf95d051": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "03/14/2018",
+      "days": "W",
+      "time": "7:00p-8:50p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-14T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "20:50"
+    },
+    "ace250a1febe77920a79e7f2214332e774880653bfaf3605da95f69e1b691332": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/17/2018",
+      "days": "S",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-17T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "M": {
+      "4ec817ccdc88e3e0dc29eddfa2b87654757697262afdf15326e4d0d4d98658ca": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2005",
+        "instructors": [
+          "Jones, Miles E"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "24017a74fa28bf66c3fdd65208e571f30776f867bbb0b596dad54c87a0661a66": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "SOLIS",
+        "room": "104",
+        "instructors": [
+          "Minnes Kemp, Mor Mia"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    },
+    "Tu": {
+      "c9efcf04fea7aacc92d20e61620bae668dd7f19a8b2a75ef7d96008a761b9054": {
+        "sectxt": true,
+        "sectionID": "927483",
+        "type": "DI",
+        "section": "B01",
+        "days": "Tu",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "1128A",
+        "instructors": [
+          "Minnes Kemp, Mor Mia"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      }
+    },
+    "W": {
+      "970c4cf3c48a9d2f246a192e6758c8f9b57a8863dca3783380839aec16d4f52b": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2005",
+        "instructors": [
+          "Jones, Miles E"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "62a1ddba90806f04bd0962e216b7f2d8f7881ed4ae5398498649d5e2e9bd6d60": {
+        "sectxt": true,
+        "sectionID": "927478",
+        "type": "DI",
+        "section": "A01",
+        "days": "W",
+        "time": "6:00p-6:50p",
+        "building": "CSB",
+        "room": "005",
+        "instructors": [
+          "Jones, Miles E"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "7906a21d8a5e2c4ae1686e17eb8c0d7ac21de39c0edda7a8a4143b162b69929d": {
+        "sectxt": true,
+        "sectionID": "927479",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "7:00p-7:50p",
+        "building": "CSB",
+        "room": "005",
+        "instructors": [
+          "Jones, Miles E"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "0abf89a3ce8bbb5f2405aeea3b841a1f2d3aadc82089b086ba3365cbfcb4a155": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "SOLIS",
+        "room": "104",
+        "instructors": [
+          "Minnes Kemp, Mor Mia"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    },
+    "Th": {
+      "1cf391a7ffc6e4ffd2c4af827971cc1de25b595987808c4d14e3b82eac222de9": {
         "sectxt": true,
         "sectionID": "927484",
         "type": "DI",
@@ -70,14 +187,13 @@
         "time": "10:00a-10:50a",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Minnes Kemp, Mor Mia",
         "instructors": [
           "Minnes Kemp, Mor Mia"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "25a29921dffc2654661437bf1dc8ac38e6322c4d138a507ba7bb3625e7c520af": {
         "sectxt": true,
         "sectionID": "927485",
         "type": "DI",
@@ -86,14 +202,13 @@
         "time": "5:00p-5:50p",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Minnes Kemp, Mor Mia",
         "instructors": [
           "Minnes Kemp, Mor Mia"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "f7ebd9b45ea81c8a2c49b82b2693b151fc138c92a4026ce0a2c075922d415331": {
         "sectxt": true,
         "sectionID": "927486",
         "type": "DI",
@@ -102,16 +217,78 @@
         "time": "6:00p-6:50p",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Minnes Kemp, Mor Mia",
         "instructors": [
           "Minnes Kemp, Mor Mia"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "F": {
+      "0fa53a4e71d75b330d5dce8797d8f3400a4bb91d601337836c51d9290c9239bc": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2005",
+        "instructors": [
+          "Jones, Miles E"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "55d36752ee4aa0c9b4360f0c0233ccc7b0a8290fd5d99328e6068edf5fa3396c": {
+        "sectxt": true,
+        "sectionID": "927480",
+        "type": "DI",
+        "section": "A03",
+        "days": "F",
+        "time": "1:00p-1:50p",
+        "building": "PCYNH",
+        "room": "120",
+        "instructors": [
+          "Jones, Miles E"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "036503d67deeafe45051598eb06bb78a57541da818f8dee6545c80837ffbe112": {
+        "sectxt": true,
+        "sectionID": "927481",
+        "type": "DI",
+        "section": "A04",
+        "days": "F",
+        "time": "2:00p-2:50p",
+        "building": "PCYNH",
+        "room": "120",
+        "instructors": [
+          "Jones, Miles E"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "3b5c80694b986838946e3eba24860ef3dbb5b66426b0265a538784f52fcec108": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "SOLIS",
+        "room": "104",
+        "instructors": [
+          "Minnes Kemp, Mor Mia"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

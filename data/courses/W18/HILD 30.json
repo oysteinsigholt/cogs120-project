@@ -3,138 +3,9 @@
   "name": "History of Public Health",
   "department": "HILD",
   "id": "30",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "12:00p-12:50p",
-      "building": "WLH",
-      "room": "2005",
-      "instructor": "Edington, Claire Ellen",
-      "instructors": [
-        "Edington, Claire Ellen"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924521",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "1:00p-1:50p",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Edington, Claire Ellen",
-      "instructors": [
-        "Edington, Claire Ellen"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924522",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "2:00p-2:50p",
-      "building": "WLH",
-      "room": "2113",
-      "instructor": "Edington, Claire Ellen",
-      "instructors": [
-        "Edington, Claire Ellen"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924523",
-      "type": "DI",
-      "section": "A03",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924524",
-      "type": "DI",
-      "section": "A04",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924525",
-      "type": "DI",
-      "section": "A05",
-      "days": "F",
-      "time": "10:00a-10:50a",
-      "building": "APM",
-      "room": "2301",
-      "instructor": "Edington, Claire Ellen",
-      "instructors": [
-        "Edington, Claire Ellen"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924526",
-      "type": "DI",
-      "section": "A06",
-      "days": "F",
-      "time": "11:00a-11:50a",
-      "building": "APM",
-      "room": "2301",
-      "instructor": "Edington, Claire Ellen",
-      "instructors": [
-        "Edington, Claire Ellen"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -143,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "0bc129e6e61dc97d6817c5924c61d5d7c996b7c7ee1c4510193b45b64c905c72": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -162,17 +32,15 @@
         "time": "12:00p-12:50p",
         "building": "WLH",
         "room": "2005",
-        "instructor": "Edington, Claire Ellen",
         "instructors": [
           "Edington, Claire Ellen"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "a24b1c34899aaa03f2ed258c49f7b8e31d66672638d55b3d5fd4e75b41ce8aa5": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -181,14 +49,13 @@
         "time": "12:00p-12:50p",
         "building": "WLH",
         "room": "2005",
-        "instructor": "Edington, Claire Ellen",
         "instructors": [
           "Edington, Claire Ellen"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "64fa7f0bc9d52598713289da0437f5c64315501ce71c345dd7f53856d29b1f08": {
         "sectxt": true,
         "sectionID": "924521",
         "type": "DI",
@@ -197,14 +64,13 @@
         "time": "1:00p-1:50p",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Edington, Claire Ellen",
         "instructors": [
           "Edington, Claire Ellen"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "49b0ff3700f4fe3cdfbee5f8d79d8425f5c331f5473c77a947e23c5a1cce3fa3": {
         "sectxt": true,
         "sectionID": "924522",
         "type": "DI",
@@ -213,17 +79,15 @@
         "time": "2:00p-2:50p",
         "building": "WLH",
         "room": "2113",
-        "instructor": "Edington, Claire Ellen",
         "instructors": [
           "Edington, Claire Ellen"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "5be3008a2a51c9e55489e9fa2e0a4a9f5529a85da3cde8b17730cb0e71d532aa": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -232,14 +96,13 @@
         "time": "12:00p-12:50p",
         "building": "WLH",
         "room": "2005",
-        "instructor": "Edington, Claire Ellen",
         "instructors": [
           "Edington, Claire Ellen"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "c03d5947c1fc3a70cde69d0f9070ce9516c53a97df63764c00f07c1b5e2d1125": {
         "sectxt": true,
         "sectionID": "924525",
         "type": "DI",
@@ -248,14 +111,13 @@
         "time": "10:00a-10:50a",
         "building": "APM",
         "room": "2301",
-        "instructor": "Edington, Claire Ellen",
         "instructors": [
           "Edington, Claire Ellen"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "206f698c568754e6895a2e449e60126afa162c9412b626b99d35aeec52b532ea": {
         "sectxt": true,
         "sectionID": "924526",
         "type": "DI",
@@ -264,15 +126,15 @@
         "time": "11:00a-11:50a",
         "building": "APM",
         "room": "2301",
-        "instructor": "Edington, Claire Ellen",
         "instructors": [
           "Edington, Claire Ellen"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,217 +3,9 @@
   "name": "Nutrition",
   "department": "BIBC",
   "id": "120",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "PETER",
-      "room": "108",
-      "instructor": "Coleman, Aaron B.",
-      "instructors": [
-        "Coleman, Aaron B."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925851",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "218",
-      "instructor": "Coleman, Aaron B.",
-      "instructors": [
-        "Coleman, Aaron B."
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925852",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "1:00p-1:50p",
-      "building": "CENTR",
-      "room": "217B",
-      "instructor": "Coleman, Aaron B.",
-      "instructors": [
-        "Coleman, Aaron B."
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925853",
-      "type": "DI",
-      "section": "A03",
-      "days": "M",
-      "time": "5:00p-5:50p",
-      "building": "CENTR",
-      "room": "218",
-      "instructor": "Coleman, Aaron B.",
-      "instructors": [
-        "Coleman, Aaron B."
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925854",
-      "type": "DI",
-      "section": "A04",
-      "days": "M",
-      "time": "7:00p-7:50p",
-      "building": "CENTR",
-      "room": "207",
-      "instructor": "Coleman, Aaron B.",
-      "instructors": [
-        "Coleman, Aaron B."
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925855",
-      "type": "DI",
-      "section": "A05",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Coleman, Aaron B.",
-      "instructors": [
-        "Coleman, Aaron B."
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925856",
-      "type": "DI",
-      "section": "A06",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Coleman, Aaron B.",
-      "instructors": [
-        "Coleman, Aaron B."
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925857",
-      "type": "DI",
-      "section": "A07",
-      "days": "F",
-      "time": "8:00a-8:50a",
-      "building": "CENTR",
-      "room": "203",
-      "instructor": "Coleman, Aaron B.",
-      "instructors": [
-        "Coleman, Aaron B."
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925858",
-      "type": "DI",
-      "section": "A08",
-      "days": "F",
-      "time": "10:00a-10:50a",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Coleman, Aaron B.",
-      "instructors": [
-        "Coleman, Aaron B."
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925859",
-      "type": "DI",
-      "section": "A09",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "CENTR",
-      "room": "217B",
-      "instructor": "Coleman, Aaron B.",
-      "instructors": [
-        "Coleman, Aaron B."
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925860",
-      "type": "DI",
-      "section": "A10",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "CENTR",
-      "room": "217B",
-      "instructor": "Coleman, Aaron B.",
-      "instructors": [
-        "Coleman, Aaron B."
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "02/10/2018",
-      "days": "S",
-      "time": "10:00a-11:50a",
-      "building": "SOLIS",
-      "room": "107",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-10T08:00:00.000Z",
-      "start_time": "10:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "af90eec4c6160ddc45082799b604872be38686f07771122383bcc5fe95e0884b": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -222,13 +14,12 @@
       "time": "10:00a-11:50a",
       "building": "SOLIS",
       "room": "107",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-10T08:00:00.000Z",
       "start_time": "10:00",
       "end_time": "11:50"
     },
-    {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -237,17 +28,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "8f5cd86a955748c71ed3b0524caeeb63a50a0e72fd21fc5f08d1756339b04ec5": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -256,14 +46,13 @@
         "time": "11:00a-11:50a",
         "building": "PETER",
         "room": "108",
-        "instructor": "Coleman, Aaron B.",
         "instructors": [
           "Coleman, Aaron B."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "c6cf407ac6809634b869bd2506891a451c0c874d6e3c1b64d6ea7a3308bae8a2": {
         "sectxt": true,
         "sectionID": "925851",
         "type": "DI",
@@ -272,14 +61,13 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "218",
-        "instructor": "Coleman, Aaron B.",
         "instructors": [
           "Coleman, Aaron B."
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "cd047749ec49c6c275872a7d9ae28b8f01ee881c58d66e551a48aee8741f478c": {
         "sectxt": true,
         "sectionID": "925852",
         "type": "DI",
@@ -288,14 +76,13 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "217B",
-        "instructor": "Coleman, Aaron B.",
         "instructors": [
           "Coleman, Aaron B."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "50bae53273e6da00884621c4e3f2112d78b51150106b33aff25cf145ceeecf8c": {
         "sectxt": true,
         "sectionID": "925853",
         "type": "DI",
@@ -304,14 +91,13 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "218",
-        "instructor": "Coleman, Aaron B.",
         "instructors": [
           "Coleman, Aaron B."
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "a11caebf4090b433a617c65c997999e032949fe69650c6f5379a2ec3ef77b114": {
         "sectxt": true,
         "sectionID": "925854",
         "type": "DI",
@@ -320,17 +106,15 @@
         "time": "7:00p-7:50p",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Coleman, Aaron B.",
         "instructors": [
           "Coleman, Aaron B."
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "74ea09cb3d01daba039901e3d18030194c0ce47fc0bd239b573a61ed455612f9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -339,14 +123,13 @@
         "time": "11:00a-11:50a",
         "building": "PETER",
         "room": "108",
-        "instructor": "Coleman, Aaron B.",
         "instructors": [
           "Coleman, Aaron B."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "8089d5a7b4b95aa04ae282004f03a0a022fdd0cce2d9d861d091cbaaa1db5989": {
         "sectxt": true,
         "sectionID": "925855",
         "type": "DI",
@@ -355,14 +138,13 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Coleman, Aaron B.",
         "instructors": [
           "Coleman, Aaron B."
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "cacc11fa9e032c4e77ccc0a9d628f3ade3754f9a635be1b74fadac3b2cd4d4e7": {
         "sectxt": true,
         "sectionID": "925856",
         "type": "DI",
@@ -371,17 +153,15 @@
         "time": "6:00p-6:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Coleman, Aaron B.",
         "instructors": [
           "Coleman, Aaron B."
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "cb478914a4ec4bc4c62867dba462dc925b2849711db7c7bb7d18cd0442892921": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -390,14 +170,13 @@
         "time": "11:00a-11:50a",
         "building": "PETER",
         "room": "108",
-        "instructor": "Coleman, Aaron B.",
         "instructors": [
           "Coleman, Aaron B."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "134db041500e34af06bfc596871716677c9059de5a06d7b9d9bce11d48922200": {
         "sectxt": true,
         "sectionID": "925857",
         "type": "DI",
@@ -406,14 +185,13 @@
         "time": "8:00a-8:50a",
         "building": "CENTR",
         "room": "203",
-        "instructor": "Coleman, Aaron B.",
         "instructors": [
           "Coleman, Aaron B."
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "17e388c6486a07d5c9c3f484e13b650fb053d063a29391dbc20629ef86c5e18a": {
         "sectxt": true,
         "sectionID": "925858",
         "type": "DI",
@@ -422,14 +200,13 @@
         "time": "10:00a-10:50a",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Coleman, Aaron B.",
         "instructors": [
           "Coleman, Aaron B."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "f2da9334b153895c7ab3b10546ad77f9d4cdfb0ea2e32ff77a1716a452fd51a5": {
         "sectxt": true,
         "sectionID": "925859",
         "type": "DI",
@@ -438,14 +215,13 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "217B",
-        "instructor": "Coleman, Aaron B.",
         "instructors": [
           "Coleman, Aaron B."
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "5fc497f896c5a17dbc7632765261e97f5ebb0d3ccf4addcb313c2268b24c85b9": {
         "sectxt": true,
         "sectionID": "925860",
         "type": "DI",
@@ -454,15 +230,15 @@
         "time": "3:00p-3:50p",
         "building": "CENTR",
         "room": "217B",
-        "instructor": "Coleman, Aaron B.",
         "instructors": [
           "Coleman, Aaron B."
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

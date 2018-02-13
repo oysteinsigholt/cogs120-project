@@ -3,32 +3,12 @@
   "name": "Senior Seminar",
   "department": "LATI",
   "id": "190",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921749",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "3:00p-4:50p",
-      "building": "LASB",
-      "room": "4",
-      "instructor": "Desposato, Scott",
-      "instructors": [
-        "Desposato, Scott"
-      ],
-      "start_time": "15:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "ed854273192747c3cf89f72c6372eaf80d24ad0a888c73c314d7fbab0706b6f9": {
         "sectxt": true,
         "sectionID": "921749",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "3:00p-4:50p",
         "building": "LASB",
         "room": "4",
-        "instructor": "Desposato, Scott",
         "instructors": [
           "Desposato, Scott"
         ],
         "start_time": "15:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

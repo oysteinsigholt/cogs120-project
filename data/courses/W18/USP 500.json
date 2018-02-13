@@ -3,27 +3,50 @@
   "name": "Apprentice Teaching",
   "department": "USP",
   "id": "500",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922195",
-      "type": "SE",
-      "section": "D00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Pezzoli, Keith",
-      "instructors": [
-        "Pezzoli, Keith"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "922192",
+      "type": "SE",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Kwak, Nancy"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922193",
+      "type": "SE",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Lewis, Leslie R"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922194",
+      "type": "SE",
+      "section": "C00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Bussell, Mirle Rabinowitz"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "922195",
       "type": "SE",
       "section": "D00",
@@ -31,19 +54,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Pezzoli, Keith",
       "instructors": [
         "Pezzoli, Keith"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

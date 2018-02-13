@@ -3,27 +3,76 @@
   "name": "Honors Thesis",
   "department": "LTWL",
   "id": "196",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "933139",
-      "type": "TU",
-      "section": "006",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Nguyen, Hoang Tan",
-      "instructors": [
-        "Nguyen, Hoang Tan"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "933129",
+      "type": "TU",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Walkiewicz, Kathryn A"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "933130",
+      "type": "TU",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "duBois, Page Ann"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "933131",
+      "type": "TU",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Sanchez, Rosaura"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "933132",
+      "type": "TU",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Nicolazzo, Sarah E."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "933133",
+      "type": "TU",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Lerer, Seth"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "933139",
       "type": "TU",
       "section": "006",
@@ -31,19 +80,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Nguyen, Hoang Tan",
       "instructors": [
         "Nguyen, Hoang Tan"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

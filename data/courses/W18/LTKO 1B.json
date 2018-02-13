@@ -3,50 +3,563 @@
   "name": "Beginning Korean:First Yr. II",
   "department": "LTKO",
   "id": "1B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "R00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929152",
-      "type": "DI",
-      "section": "R01",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "M": {
+      "79918ede27764610e44ae939b9b7889fe135b9aec2cda59a5ac41d144ec7d521": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "Q00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "1866918a9e827ca2246c3cdc0800ca8cab9d14fcb63d242959828782dc5e03cc": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "56e1e8f6196ecbbdcbe57e51d490527a338a3d810d7eafa434b9587f0702f876": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "M00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "122f5ef02b66b4cde0fa647692ac19c00ed9265eaae196e057d8587c7b777553": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "N00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "95d7400660c170c2cee39e264b7ef3607726eb1388e5c3071998a1b24d498ec1": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "O00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "b1b472ca47ed5dcae077f9ffe6d6518c45e571865da8fbc7cadc9a304b5af053": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "P00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    },
+    "Tu": {
+      "11be949b971579f6336bf6cf4cbb998ae5fe8ffcb407e4736afd2213dc3a6db1": {
+        "sectxt": true,
+        "sectionID": "920115",
+        "type": "DI",
+        "section": "Q01",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "3f94622cec2026cd832f596440cac58ec3c7f625f0ecb962e7de08eebcf9031c": {
+        "sectxt": true,
+        "sectionID": "920105",
+        "type": "DI",
+        "section": "A01",
+        "days": "TuTh",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "72599515df88323b0754acc14b4e0bd4b1ca321ce9ed479f084e58e620b9d3f0": {
+        "sectxt": true,
+        "sectionID": "920107",
+        "type": "DI",
+        "section": "M01",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "cb392555d450535098a2f52483863ab4d3f34b816fe86dd1d84fcbc35df96fd8": {
+        "sectxt": true,
+        "sectionID": "920109",
+        "type": "DI",
+        "section": "N01",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "102b878fd0d41fd66439a1c50101818a5d9b5d2568493bef7dc776fbde5446d7": {
+        "sectxt": true,
+        "sectionID": "920111",
+        "type": "DI",
+        "section": "O01",
+        "days": "TuTh",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "6b992058ec8abfbf5d4b7f6cf234a789b6d1df11fb6d9ad497efec03e192bc4b": {
+        "sectxt": true,
+        "sectionID": "920113",
+        "type": "DI",
+        "section": "P01",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    },
+    "W": {
+      "7f24afca0a12b8fd673d57862e7e8fb28cee8ef8c75af28ac9697b010f2e4f5b": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "Q00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "664fb1192c899ad420c384f1035679fd9aa443bbe17868a3444009b2ce9ed2d0": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "6cdb9409ed5ce83b588272a01ba29190f2d30b12a79fc4d113b0cf99eae05778": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "M00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "1caa2776af6cb6e21e7880ee454e52458cc0f9ab36da31b1b95e26e6e36a7b5e": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "N00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "ec1a14fc9bcc09f353eb095fd8e7842b1fdb7c030f2199d322fa466851c9facc": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "O00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "514becab204de136fb0827cf8637343c81e8d91d8a2e5fcb1fee58603926e4c4": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "P00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    },
+    "Th": {
+      "dcf719ad5e6c5258003f7d83eac157f1a3dd4b3de193aeb7109b0845f4a079ba": {
+        "sectxt": true,
+        "sectionID": "920115",
+        "type": "DI",
+        "section": "Q01",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "6631aafd3daf6e9059d2dd653a7762fd9831089fdd769f00f0abe8122881211b": {
+        "sectxt": true,
+        "sectionID": "920105",
+        "type": "DI",
+        "section": "A01",
+        "days": "TuTh",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "481da264e8a087fc6f539b98d831d7202bc9eb956d15972f84906aeed05ad986": {
+        "sectxt": true,
+        "sectionID": "920107",
+        "type": "DI",
+        "section": "M01",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "1dd4db02bcbc22eb1ef7b2622c8ed47871494b3a453be34ab3dd950fa16a86aa": {
+        "sectxt": true,
+        "sectionID": "920109",
+        "type": "DI",
+        "section": "N01",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "6c40cf100cb427c8b88eb3511162ed1599738615747e5d4ea64b1c0d3efff115": {
+        "sectxt": true,
+        "sectionID": "920111",
+        "type": "DI",
+        "section": "O01",
+        "days": "TuTh",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "a41bd6ad9d72acce2114da58cc5df81455d9643155cbb892ca12096a914c49d0": {
+        "sectxt": true,
+        "sectionID": "920113",
+        "type": "DI",
+        "section": "P01",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    },
+    "F": {
+      "068e764511950c206d880fc887f216db55d758be375cff009b0168fc70851d8d": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "Q00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "e0c71401fe619db626c079241f95ffbc9af299dc6dba6b446063c58d72b82533": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "be47b652d8bac93168943a1fbe6450768b18826eebbda0c8c35d7a54bb997f9f": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "M00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "e0e0145499573708f709745621088b96555d10d2696e312bcc65bfe51b8afc18": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "N00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "1239745de272a14e6c0da14fa7e673399b7a105f9c3ff59575ddb82d11cd1290": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "O00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "47558872959a878bae6c4032da6d8e76de1960a5654bdb343228456019d5abe0": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "P00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Lee, Jeyseon"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    }
+  },
+  "sections": [
+    "Q",
+    "R",
+    "A",
+    "M",
+    "N",
+    "O",
+    "P"
+  ]
 }

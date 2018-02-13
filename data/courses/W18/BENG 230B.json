@@ -3,42 +3,9 @@
   "name": "Cell and Molecular Biology",
   "department": "BENG",
   "id": "230B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923386",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "9:30a-10:50a",
-      "building": "PFBH",
-      "room": "191",
-      "instructor": "Engler, Adam J.",
-      "instructors": [
-        "Engler, Adam J."
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "ca109e9446f0e0b078ac6e02c5d64c71ba625c798c3414cd4d063644e746a34d": {
         "sectxt": true,
         "sectionID": "923386",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "9:30a-10:50a",
         "building": "PFBH",
         "room": "191",
-        "instructor": "Engler, Adam J.",
         "instructors": [
           "Engler, Adam J."
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "18fff78ba2308b75579f3bf57341794c5c512170966d5bc97d41ac03fd63442d": {
         "sectxt": true,
         "sectionID": "923386",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "9:30a-10:50a",
         "building": "PFBH",
         "room": "191",
-        "instructor": "Engler, Adam J.",
         "instructors": [
           "Engler, Adam J."
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

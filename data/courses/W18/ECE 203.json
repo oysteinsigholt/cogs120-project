@@ -3,56 +3,9 @@
   "name": "Biomedical Integrat Circ & Sys",
   "department": "ECE",
   "id": "203",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925156",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "EBU1",
-      "room": "2315",
-      "instructor": "Mercier, Patrick Philip",
-      "instructors": [
-        "Mercier, Patrick Philip"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Mercier, Patrick Philip",
-      "instructors": [
-        "Mercier, Patrick Philip"
-      ]
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -61,13 +14,12 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [
     {
       "sectxt": true,
@@ -78,16 +30,14 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Mercier, Patrick Philip",
       "instructors": [
         "Mercier, Patrick Philip"
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "699b1224d80cd4fc92fe4caccf5b6e03d224756ffa695c7a322b8347458fe402": {
         "sectxt": true,
         "sectionID": "925156",
         "type": "LE",
@@ -96,17 +46,15 @@
         "time": "11:00a-12:20p",
         "building": "EBU1",
         "room": "2315",
-        "instructor": "Mercier, Patrick Philip",
         "instructors": [
           "Mercier, Patrick Philip"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "0fa2eb6c2aaf835147ef2b44fcc35597452c7c366241d6d0d16f0964776a552d": {
         "sectxt": true,
         "sectionID": "925156",
         "type": "LE",
@@ -115,16 +63,15 @@
         "time": "11:00a-12:20p",
         "building": "EBU1",
         "room": "2315",
-        "instructor": "Mercier, Patrick Philip",
         "instructors": [
           "Mercier, Patrick Philip"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,120 +3,23 @@
   "name": "Calculus II",
   "department": "MATH",
   "id": "10B",
-  "timeslots": [
-    {
-      "sectxt": true,
+  "notes": [],
+  "events_single": {
+    "a879041afbf4e27e6d39acdfd04aae5abbcfabf3ae6f5b677e35829ff46f5cad": {
+      "sectxt": false,
       "sectionID": "",
-      "type": "LE",
-      "section": "C00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "CENTR",
-      "room": "115",
-      "instructor": "Licht, Martin W",
-      "instructors": [
-        "Licht, Martin W"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926817",
-      "type": "DI",
-      "section": "C01",
-      "days": "Tu",
-      "time": "4:00p-4:50p",
-      "building": "SOLIS",
-      "room": "109",
-      "instructor": "Licht, Martin W",
-      "instructors": [
-        "Licht, Martin W"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926818",
-      "type": "DI",
-      "section": "C02",
-      "days": "Tu",
-      "time": "5:00p-5:50p",
-      "building": "SOLIS",
-      "room": "109",
-      "instructor": "Licht, Martin W",
-      "instructors": [
-        "Licht, Martin W"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926820",
-      "type": "DI",
-      "section": "C03",
-      "days": "Tu",
-      "time": "6:00p-6:50p",
-      "building": "SOLIS",
-      "room": "109",
-      "instructor": "Licht, Martin W",
-      "instructors": [
-        "Licht, Martin W"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926822",
-      "type": "DI",
-      "section": "C04",
-      "days": "Tu",
-      "time": "7:00p-7:50p",
-      "building": "SOLIS",
-      "room": "109",
-      "instructor": "Licht, Martin W",
-      "instructors": [
-        "Licht, Martin W"
-      ],
+      "type": "RE",
+      "section": "01/31/2018",
+      "days": "W",
+      "time": "7:00p-8:50p",
+      "building": "MANDE",
+      "room": "B-210",
+      "instructors": [],
+      "date": "2018-01-31T08:00:00.000Z",
       "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926824",
-      "type": "DI",
-      "section": "C05",
-      "days": "Tu",
-      "time": "8:00p-8:50p",
-      "building": "SOLIS",
-      "room": "109",
-      "instructor": "Licht, Martin W",
-      "instructors": [
-        "Licht, Martin W"
-      ],
-      "start_time": "20:00",
       "end_time": "20:50"
     },
-    {
-      "sectxt": true,
-      "sectionID": "926826",
-      "type": "DI",
-      "section": "C06",
-      "days": "Tu",
-      "time": "9:00p-9:50p",
-      "building": "SOLIS",
-      "room": "109",
-      "instructor": "Licht, Martin W",
-      "instructors": [
-        "Licht, Martin W"
-      ],
-      "start_time": "21:00",
-      "end_time": "21:50"
-    },
-    {
+    "06420b3ed10889bb40e6090bb7b80a11fdbd5b010dce8165b108a8a85e74bfcd": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -125,13 +28,12 @@
       "time": "8:00p-9:20p",
       "building": "GH",
       "room": "242",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-01T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:20"
     },
-    {
+    "21d4e428e9962c1723f251affa7609f97ef291d37c3ae062b02686ab2797c64e": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -140,13 +42,12 @@
       "time": "8:00p-9:20p",
       "building": "GH",
       "room": "242",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-01T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:20"
     },
-    {
+    "8775cdfecb79b7ae02a50e79d04f28c9bf2886a8cf1b9d35d69e5a38fdd31977": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -155,65 +56,46 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-17T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
-  "notes": [],
-  "events_single": [
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "02/01/2018",
-      "days": "Th",
-      "time": "8:00p-9:20p",
-      "building": "GH",
-      "room": "242",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-01T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "03/01/2018",
-      "days": "Th",
-      "time": "8:00p-9:20p",
-      "building": "GH",
-      "room": "242",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-01T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/17/2018",
-      "days": "S",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-17T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "4ec817ccdc88e3e0dc29eddfa2b87654757697262afdf15326e4d0d4d98658ca": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "PETER",
+        "room": "108",
+        "instructors": [
+          "Stevens, Laura Jeanne"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "7b590151cd28db772cb5f38ee83595f178c8f3cb089eb9bf525519f33a482289": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructors": [
+          "Tucker, Henry Jackson"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "01a27efc910c2441b6e37ad20f58279c8d5550a062e7c7213b0d2a43ce4a2ddb": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -222,16 +104,255 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "115",
-        "instructor": "Licht, Martin W",
         "instructors": [
           "Licht, Martin W"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "b96f45f953c72bf939cc7d10cd8d66bbaa59b1cd5d9c0a1fbb4903d7319db1c2": {
+        "sectxt": true,
+        "sectionID": "926801",
+        "type": "DI",
+        "section": "A01",
+        "days": "Tu",
+        "time": "2:00p-2:50p",
+        "building": "WLH",
+        "room": "2206",
+        "instructors": [
+          "Stevens, Laura Jeanne"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "6de43fa9cb8964cd988fcb64e41acb3870b7434f14d15611d342f70bf8cfe48d": {
+        "sectxt": true,
+        "sectionID": "926802",
+        "type": "DI",
+        "section": "A02",
+        "days": "Tu",
+        "time": "3:00p-3:50p",
+        "building": "WLH",
+        "room": "2206",
+        "instructors": [
+          "Stevens, Laura Jeanne"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "08c816e3da41512268ba92af5a14107f8aa02417096efe15f5a25bb4d501a4ec": {
+        "sectxt": true,
+        "sectionID": "926803",
+        "type": "DI",
+        "section": "A03",
+        "days": "Tu",
+        "time": "4:00p-4:50p",
+        "building": "WLH",
+        "room": "2206",
+        "instructors": [
+          "Stevens, Laura Jeanne"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "7997f9894bd5a45ea8588780a6150c83654a8695271d863abefeee11cc77297c": {
+        "sectxt": true,
+        "sectionID": "926804",
+        "type": "DI",
+        "section": "A04",
+        "days": "Tu",
+        "time": "5:00p-5:50p",
+        "building": "WLH",
+        "room": "2206",
+        "instructors": [
+          "Stevens, Laura Jeanne"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "f5889c50685d1db81bbd25668ff0fe7776e70ee4e9e956f575d2dcdc193f4ccb": {
+        "sectxt": true,
+        "sectionID": "926805",
+        "type": "DI",
+        "section": "A05",
+        "days": "Tu",
+        "time": "6:00p-6:50p",
+        "building": "WLH",
+        "room": "2206",
+        "instructors": [
+          "Stevens, Laura Jeanne"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "69abd5cac94f413aaa2a05d587e6778146ec1c53c5d54a6c8db83a55656c06bc": {
+        "sectxt": true,
+        "sectionID": "926806",
+        "type": "DI",
+        "section": "A06",
+        "days": "Tu",
+        "time": "7:00p-7:50p",
+        "building": "WLH",
+        "room": "2206",
+        "instructors": [
+          "Stevens, Laura Jeanne"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "c9eb8e4eeb49868153b1dc3820521b9e6d1bd7e820b9f99bf607064459c7af05": {
+        "sectxt": true,
+        "sectionID": "926807",
+        "type": "DI",
+        "section": "A07",
+        "days": "Tu",
+        "time": "8:00p-8:50p",
+        "building": "WLH",
+        "room": "2206",
+        "instructors": [
+          "Stevens, Laura Jeanne"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "7ba8e416c2b77ea494ced3cca774aed0c0ce9d1deafc365f031d69e4d5497b92": {
+        "sectxt": true,
+        "sectionID": "926808",
+        "type": "DI",
+        "section": "A08",
+        "days": "Tu",
+        "time": "9:00p-9:50p",
+        "building": "WLH",
+        "room": "2206",
+        "instructors": [
+          "Stevens, Laura Jeanne"
+        ],
+        "start_time": "21:00",
+        "end_time": "21:50"
+      },
+      "670ed14d1f85750466f5e09d44272cb3d484b54150cf07bbf711fcf8a8b15774": {
+        "sectxt": true,
+        "sectionID": "937526",
+        "type": "DI",
+        "section": "A09",
+        "days": "Tu",
+        "time": "8:00a-8:50a",
+        "building": "APM",
+        "room": "B412",
+        "instructors": [
+          "Stevens, Laura Jeanne"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "92fdd2f04e31bd5bda1f1534513f901e3e56d4d0fa10f37cf7e6b98ce570c455": {
+        "sectxt": true,
+        "sectionID": "937527",
+        "type": "DI",
+        "section": "A10",
+        "days": "Tu",
+        "time": "9:00a-9:50a",
+        "building": "APM",
+        "room": "6402",
+        "instructors": [
+          "Stevens, Laura Jeanne"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "e5e827b4973fab8c615d137c7a88a931476df1b2b8b67ae11ed0dd76ca30a85c": {
+        "sectxt": true,
+        "sectionID": "926810",
+        "type": "DI",
+        "section": "B01",
+        "days": "Tu",
+        "time": "4:00p-4:50p",
+        "building": "APM",
+        "room": "2402",
+        "instructors": [
+          "Tucker, Henry Jackson"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "675afac0cf3599f7e52566822ea74cc0f075cb5e9862fd82545e8746fb90b33b": {
+        "sectxt": true,
+        "sectionID": "926811",
+        "type": "DI",
+        "section": "B02",
+        "days": "Tu",
+        "time": "4:00p-4:50p",
+        "building": "WLH",
+        "room": "2115",
+        "instructors": [
+          "Tucker, Henry Jackson"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "a56595206d30858aa23d93e4ae8c05ce3c439aa13eb556f76e72cf1d5c2f4ca5": {
+        "sectxt": true,
+        "sectionID": "926812",
+        "type": "DI",
+        "section": "B03",
+        "days": "Tu",
+        "time": "5:00p-5:50p",
+        "building": "WLH",
+        "room": "2115",
+        "instructors": [
+          "Tucker, Henry Jackson"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "ce68130c9514ded797119c1ccbbfd3f352eedff3961d616f6d1aee65768cce10": {
+        "sectxt": true,
+        "sectionID": "926813",
+        "type": "DI",
+        "section": "B04",
+        "days": "Tu",
+        "time": "6:00p-6:50p",
+        "building": "WLH",
+        "room": "2115",
+        "instructors": [
+          "Tucker, Henry Jackson"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "ffaa0f6094be0367131694267350265d85edab87f2e7d05c99e56bd3f8743efa": {
+        "sectxt": true,
+        "sectionID": "926814",
+        "type": "DI",
+        "section": "B05",
+        "days": "Tu",
+        "time": "7:00p-7:50p",
+        "building": "WLH",
+        "room": "2115",
+        "instructors": [
+          "Tucker, Henry Jackson"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "7d79a636ad9982e19b07a45e7b3facb519e90ec291e7e9ef3b2deca260b866a3": {
+        "sectxt": true,
+        "sectionID": "926815",
+        "type": "DI",
+        "section": "B06",
+        "days": "Tu",
+        "time": "5:00p-5:50p",
+        "building": "APM",
+        "room": "2402",
+        "instructors": [
+          "Tucker, Henry Jackson"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "8076bb14f0c434294d78fc8c41221a55161e06a0d8b9bb4039a3336cc929e787": {
         "sectxt": true,
         "sectionID": "926817",
         "type": "DI",
@@ -240,14 +361,13 @@
         "time": "4:00p-4:50p",
         "building": "SOLIS",
         "room": "109",
-        "instructor": "Licht, Martin W",
         "instructors": [
           "Licht, Martin W"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "6428828cb36eac60bd28432456f3b55d7c866e98398428d72113ec3d762ca66e": {
         "sectxt": true,
         "sectionID": "926818",
         "type": "DI",
@@ -256,14 +376,13 @@
         "time": "5:00p-5:50p",
         "building": "SOLIS",
         "room": "109",
-        "instructor": "Licht, Martin W",
         "instructors": [
           "Licht, Martin W"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "983c297f29abb994d59ccb0f1fc3b2b89f11cf01a59a45c657672d266e136335": {
         "sectxt": true,
         "sectionID": "926820",
         "type": "DI",
@@ -272,14 +391,13 @@
         "time": "6:00p-6:50p",
         "building": "SOLIS",
         "room": "109",
-        "instructor": "Licht, Martin W",
         "instructors": [
           "Licht, Martin W"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "50373b127d70f51e62a9af87b3799283427b1a5536bf1413529b7e319b398c1f": {
         "sectxt": true,
         "sectionID": "926822",
         "type": "DI",
@@ -288,14 +406,13 @@
         "time": "7:00p-7:50p",
         "building": "SOLIS",
         "room": "109",
-        "instructor": "Licht, Martin W",
         "instructors": [
           "Licht, Martin W"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "de505bbf4b19f128616ba0865ea83985e4bb31780d4eb0fdbc1b0a3f5fab472c": {
         "sectxt": true,
         "sectionID": "926824",
         "type": "DI",
@@ -304,14 +421,13 @@
         "time": "8:00p-8:50p",
         "building": "SOLIS",
         "room": "109",
-        "instructor": "Licht, Martin W",
         "instructors": [
           "Licht, Martin W"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "a3f10f528fad644598eb68ce53dfd14e3c0ce51da55fc3a8935a78d1eaacbce4": {
         "sectxt": true,
         "sectionID": "926826",
         "type": "DI",
@@ -320,16 +436,45 @@
         "time": "9:00p-9:50p",
         "building": "SOLIS",
         "room": "109",
-        "instructor": "Licht, Martin W",
         "instructors": [
           "Licht, Martin W"
         ],
         "start_time": "21:00",
         "end_time": "21:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "970c4cf3c48a9d2f246a192e6758c8f9b57a8863dca3783380839aec16d4f52b": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "PETER",
+        "room": "108",
+        "instructors": [
+          "Stevens, Laura Jeanne"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "346e9d97d27f467115ca4e2e6de0756325a93bb7f40c6a9873a7fede3f635bf6": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructors": [
+          "Tucker, Henry Jackson"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "2f573f774df51e370271d6382b7064b4dba2dfdd0d4592312ef2b117be645848": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -338,17 +483,45 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "115",
-        "instructor": "Licht, Martin W",
         "instructors": [
           "Licht, Martin W"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "0fa53a4e71d75b330d5dce8797d8f3400a4bb91d601337836c51d9290c9239bc": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "PETER",
+        "room": "108",
+        "instructors": [
+          "Stevens, Laura Jeanne"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "db676cfa4db9f005bd4fc295e9df4adca15ad5bf78ff6727da09101f2f711219": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructors": [
+          "Tucker, Henry Jackson"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "4f24bfec141ab18ff3b5c19b66ac27bb1f95f83dec7ae9d3f964a74ab12a484b": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -357,15 +530,17 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "115",
-        "instructor": "Licht, Martin W",
         "instructors": [
           "Licht, Martin W"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

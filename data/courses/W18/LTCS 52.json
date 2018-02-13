@@ -3,42 +3,9 @@
   "name": "Topics in Cultural Studies",
   "department": "LTCS",
   "id": "52",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924333",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "5:00p-6:20p",
-      "building": "CENTR",
-      "room": "214",
-      "instructor": "Liao, Ping H",
-      "instructors": [
-        "Liao, Ping H"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "ec85612c3764f484d3e030641397e6caa69564d2046d9d7172a6cb6839acfd1e": {
         "sectxt": true,
         "sectionID": "924333",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "5:00p-6:20p",
         "building": "CENTR",
         "room": "214",
-        "instructor": "Liao, Ping H",
         "instructors": [
           "Liao, Ping H"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "4aa57599630dcc382ea09b67927d30f683b550da686b9347ef7c6c1b1d5ebca1": {
         "sectxt": true,
         "sectionID": "924333",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "5:00p-6:20p",
         "building": "CENTR",
         "room": "214",
-        "instructor": "Liao, Ping H",
         "instructors": [
           "Liao, Ping H"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

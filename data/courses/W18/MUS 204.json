@@ -3,31 +3,12 @@
   "name": "Focus on Composition",
   "department": "MUS",
   "id": "204",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921819",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "6:00p-7:50p",
-      "building": "CPMC",
-      "room": "231",
-      "instructor": "Liang, Lei",
-      "instructors": [
-        "Liang, Lei"
-      ],
-      "start_time": "18:00",
-      "end_time": "19:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "f912b91aad432c7df9a6d9cf36f318b2791e1493826917bd26e8b5d807d5ed5d": {
         "sectxt": true,
         "sectionID": "921819",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "6:00p-7:50p",
         "building": "CPMC",
         "room": "231",
-        "instructor": "Liang, Lei",
         "instructors": [
           "Liang, Lei"
         ],
         "start_time": "18:00",
         "end_time": "19:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

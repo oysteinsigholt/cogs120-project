@@ -3,47 +3,12 @@
   "name": "Parallel Computation",
   "department": "CSE",
   "id": "260",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "5:00p-6:20p",
-      "building": "CENTR",
-      "room": "212",
-      "instructor": "Chin, Bryan W.",
-      "instructors": [
-        "Chin, Bryan W."
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930481",
-      "type": "DI",
-      "section": "B01",
-      "days": "F",
-      "time": "6:00p-6:50p",
-      "building": "HSS",
-      "room": "1330",
-      "instructor": "Chin, Bryan W.",
-      "instructors": [
-        "Chin, Bryan W."
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "cac8894f82fd707f3baa45b0772763f0dc42533185d4420469598ba9d401f44a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -52,17 +17,15 @@
         "time": "5:00p-6:20p",
         "building": "CENTR",
         "room": "212",
-        "instructor": "Chin, Bryan W.",
         "instructors": [
           "Chin, Bryan W."
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "543b345feb7259ed776415a7c0c9cc83dc747d07e22f5ca46ee94b56c062a156": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -71,16 +34,15 @@
         "time": "5:00p-6:20p",
         "building": "CENTR",
         "room": "212",
-        "instructor": "Chin, Bryan W.",
         "instructors": [
           "Chin, Bryan W."
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "5fb988b5c3b6bb74d1cca99325a26984393d81ae4e667219c084695fee8d0d68": {
         "sectxt": true,
         "sectionID": "930481",
         "type": "DI",
@@ -89,15 +51,16 @@
         "time": "6:00p-6:50p",
         "building": "HSS",
         "room": "1330",
-        "instructor": "Chin, Bryan W.",
         "instructors": [
           "Chin, Bryan W."
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

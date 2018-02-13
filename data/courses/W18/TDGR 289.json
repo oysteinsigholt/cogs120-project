@@ -3,31 +3,12 @@
   "name": "Intro to Doctoral Studies",
   "department": "TDGR",
   "id": "289",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920427",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "2:00p-4:50p",
-      "building": "GH",
-      "room": "144",
-      "instructor": "George, Nadine",
-      "instructors": [
-        "George, Nadine"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "25c8f6e634be5f594ba9954060c197fb85cf45ba5f20402264c6f646ade93cd5": {
         "sectxt": true,
         "sectionID": "920427",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "2:00p-4:50p",
         "building": "GH",
         "room": "144",
-        "instructor": "George, Nadine",
         "instructors": [
           "George, Nadine"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

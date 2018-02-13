@@ -3,30 +3,12 @@
   "name": "Prof Develpmnt/Clinical Resrch",
   "department": "CLRE",
   "id": "258",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929391",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "1:00p-4:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Mehta, Ravindra L.",
-      "instructors": [
-        "Mehta, Ravindra L."
-      ],
-      "start_time": "13:00",
-      "end_time": "16:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "909b0b2eab12ec33a5989be6923762c28b7c2fa0cc6adb4d56a74caa58da03d4": {
         "sectxt": true,
         "sectionID": "929391",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "1:00p-4:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Mehta, Ravindra L.",
         "instructors": [
           "Mehta, Ravindra L."
         ],
         "start_time": "13:00",
         "end_time": "16:00"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

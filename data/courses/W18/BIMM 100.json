@@ -3,232 +3,37 @@
   "name": "Molecular Biology",
   "department": "BIMM",
   "id": "100",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "CENTR",
-      "room": "101",
-      "instructor": "Lauberth, Shannon Marie",
-      "instructors": [
-        "Lauberth, Shannon Marie"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926060",
-      "type": "DI",
-      "section": "B01",
-      "days": "M",
-      "time": "1:00p-1:50p",
-      "building": "YORK",
-      "room": "3000A",
-      "instructor": "Lauberth, Shannon Marie",
-      "instructors": [
-        "Lauberth, Shannon Marie"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926061",
-      "type": "DI",
-      "section": "B02",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "Lauberth, Shannon Marie",
-      "instructors": [
-        "Lauberth, Shannon Marie"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926062",
-      "type": "DI",
-      "section": "B03",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "CENTR",
-      "room": "207",
-      "instructor": "Lauberth, Shannon Marie",
-      "instructors": [
-        "Lauberth, Shannon Marie"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926063",
-      "type": "DI",
-      "section": "B04",
-      "days": "M",
-      "time": "7:00p-7:50p",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Lauberth, Shannon Marie",
-      "instructors": [
-        "Lauberth, Shannon Marie"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926065",
-      "type": "DI",
-      "section": "B06",
-      "days": "Tu",
-      "time": "8:00a-8:50a",
-      "building": "HSS",
-      "room": "2154",
-      "instructor": "Lauberth, Shannon Marie",
-      "instructors": [
-        "Lauberth, Shannon Marie"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926066",
-      "type": "DI",
-      "section": "B07",
-      "days": "Tu",
-      "time": "6:00p-6:50p",
-      "building": "YORK",
-      "room": "3000A",
-      "instructor": "Lauberth, Shannon Marie",
-      "instructors": [
-        "Lauberth, Shannon Marie"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926068",
-      "type": "DI",
-      "section": "B09",
-      "days": "W",
-      "time": "9:00a-9:50a",
-      "building": "HSS",
-      "room": "2321",
-      "instructor": "Lauberth, Shannon Marie",
-      "instructors": [
-        "Lauberth, Shannon Marie"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926069",
-      "type": "DI",
-      "section": "B10",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "Lauberth, Shannon Marie",
-      "instructors": [
-        "Lauberth, Shannon Marie"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926070",
-      "type": "DI",
-      "section": "B11",
-      "days": "F",
-      "time": "8:00a-8:50a",
-      "building": "HSS",
-      "room": "2150",
-      "instructor": "Lauberth, Shannon Marie",
-      "instructors": [
-        "Lauberth, Shannon Marie"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926071",
-      "type": "DI",
-      "section": "B12",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "YORK",
-      "room": "3000A",
-      "instructor": "Lauberth, Shannon Marie",
-      "instructors": [
-        "Lauberth, Shannon Marie"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/04/2018",
-      "days": "Sun",
-      "time": "12:00p-2:50p",
-      "building": "CSB",
-      "room": "001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-04T08:00:00.000Z",
-      "start_time": "12:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "03/18/2018",
-      "days": "Sun",
-      "time": "2:00p-4:50p",
-      "building": "CENTR",
-      "room": "101",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-18T07:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "66f4e7b3c45570aeaae6f2546f957f80bd30c885bd11adcf45bc718a467158a5": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "01/28/2018",
+      "days": "Sun",
+      "time": "1:00p-2:50p",
+      "building": "PETER",
+      "room": "108",
+      "instructors": [],
+      "date": "2018-01-28T08:00:00.000Z",
+      "start_time": "13:00",
+      "end_time": "14:50"
+    },
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "f34edf91d76c2397d769348089c3e730835544e37e56d1a653ed67b832cad002": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -237,13 +42,12 @@
       "time": "12:00p-2:50p",
       "building": "CSB",
       "room": "001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-04T08:00:00.000Z",
       "start_time": "12:00",
       "end_time": "14:50"
     },
-    {
+    "8a75dd683a165c7c3e025c830e64ba1cc8a8a4b1e78ac46b10358a649bd9128f": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -252,13 +56,12 @@
       "time": "2:00p-4:50p",
       "building": "CENTR",
       "room": "101",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-18T07:00:00.000Z",
       "start_time": "14:00",
       "end_time": "16:50"
     },
-    {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -267,17 +70,91 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "40cdd3ea393878439ebaf5c767383214e7d7acfe333c98c416ae87493bc85dba": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "PETER",
+        "room": "108",
+        "instructors": [
+          "Hao, Nan"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "59ab071e3141dbc77f87bfce359ebf4b545baa1c394ae139f46fbaf5416e4e66": {
+        "sectxt": true,
+        "sectionID": "926049",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "218",
+        "instructors": [
+          "Hao, Nan"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "1a92755491c2cd59204f6f4bd93b1260aa8c6193364027fbb8706d3da3dd682f": {
+        "sectxt": true,
+        "sectionID": "926050",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "2:00p-2:50p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Hao, Nan"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "9ec8c3e77ac185a2275c0f1d4c2989934c4a95cc452304bc3b60db2020717905": {
+        "sectxt": true,
+        "sectionID": "926051",
+        "type": "DI",
+        "section": "A03",
+        "days": "M",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Hao, Nan"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "872addf2799cda044a387fd70d376fbb1b46663864e7dcf54038ec8baf546566": {
+        "sectxt": true,
+        "sectionID": "926052",
+        "type": "DI",
+        "section": "A04",
+        "days": "M",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Hao, Nan"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "60cf57920aeccffe55acdd6322d171a7b6d6d720c1b89691df1ab18331c46eda": {
         "sectxt": true,
         "sectionID": "926060",
         "type": "DI",
@@ -286,14 +163,13 @@
         "time": "1:00p-1:50p",
         "building": "YORK",
         "room": "3000A",
-        "instructor": "Lauberth, Shannon Marie",
         "instructors": [
           "Lauberth, Shannon Marie"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "c727fdedcca4b4204ee461500ba7ed25e1352aa5ce8988312e2b7b6e3b59f411": {
         "sectxt": true,
         "sectionID": "926061",
         "type": "DI",
@@ -302,14 +178,13 @@
         "time": "2:00p-2:50p",
         "building": "HSS",
         "room": "2150",
-        "instructor": "Lauberth, Shannon Marie",
         "instructors": [
           "Lauberth, Shannon Marie"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "64c8577dacd59610ec449a7787e0b0f117f112ef65c309842914c648a080aaf5": {
         "sectxt": true,
         "sectionID": "926062",
         "type": "DI",
@@ -318,14 +193,13 @@
         "time": "3:00p-3:50p",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Lauberth, Shannon Marie",
         "instructors": [
           "Lauberth, Shannon Marie"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "aee5df85958aedb362ee4897a26f12b0cec72b57f762adb234ea090770f37826": {
         "sectxt": true,
         "sectionID": "926063",
         "type": "DI",
@@ -334,16 +208,30 @@
         "time": "7:00p-7:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Lauberth, Shannon Marie",
         "instructors": [
           "Lauberth, Shannon Marie"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "4fd61e38e5e615dff8cd3b803e90c78ec3fb8fc67b94a24f1cf6b579b552e99a": {
+        "sectxt": true,
+        "sectionID": "930618",
+        "type": "DI",
+        "section": "A12",
+        "days": "Tu",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "1305",
+        "instructors": [
+          "Hao, Nan"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "80483300f1843284167ade4659e2f9a13530b47463ed596be32b712259733b7f": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -352,14 +240,13 @@
         "time": "11:00a-12:20p",
         "building": "CENTR",
         "room": "101",
-        "instructor": "Lauberth, Shannon Marie",
         "instructors": [
           "Lauberth, Shannon Marie"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       },
-      {
+      "2fb84da16545af06d1803fd26c58b0ebc1edf6475f0423c1ec2edbc9f1eea665": {
         "sectxt": true,
         "sectionID": "926065",
         "type": "DI",
@@ -368,14 +255,13 @@
         "time": "8:00a-8:50a",
         "building": "HSS",
         "room": "2154",
-        "instructor": "Lauberth, Shannon Marie",
         "instructors": [
           "Lauberth, Shannon Marie"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "187792ef9651dff41df1856735a25a186c0f0f9400107a5b8998ccc788c98172": {
         "sectxt": true,
         "sectionID": "926066",
         "type": "DI",
@@ -384,16 +270,60 @@
         "time": "6:00p-6:50p",
         "building": "YORK",
         "room": "3000A",
-        "instructor": "Lauberth, Shannon Marie",
         "instructors": [
           "Lauberth, Shannon Marie"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "9e7000e2f88be7b1f47b2ec9cdc4cadb0aac4f8df501aa444c431665ffa5d103": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "PETER",
+        "room": "108",
+        "instructors": [
+          "Hao, Nan"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "e0b494f16bb9cd29091609a65bd1a0436928edbee6bec25614e36ba22d133fc8": {
+        "sectxt": true,
+        "sectionID": "926053",
+        "type": "DI",
+        "section": "A05",
+        "days": "W",
+        "time": "1:00p-1:50p",
+        "building": "HSS",
+        "room": "1315",
+        "instructors": [
+          "Hao, Nan"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "2a1744ac68a6d4a35801a9b35f4ee0d53dfaff9c53918b2d8f4ed17f32441733": {
+        "sectxt": true,
+        "sectionID": "926054",
+        "type": "DI",
+        "section": "A06",
+        "days": "W",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "220",
+        "instructors": [
+          "Hao, Nan"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "f07efdbbfabb073766ad9e71b93ad3b694f35ebcf9773bc3b420489c133111db": {
         "sectxt": true,
         "sectionID": "926068",
         "type": "DI",
@@ -402,14 +332,13 @@
         "time": "9:00a-9:50a",
         "building": "HSS",
         "room": "2321",
-        "instructor": "Lauberth, Shannon Marie",
         "instructors": [
           "Lauberth, Shannon Marie"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "d99176fdfe7b28e0f3d86f99dd1cf5b63790d43798704d53171a056f7b3b5a73": {
         "sectxt": true,
         "sectionID": "926069",
         "type": "DI",
@@ -418,16 +347,30 @@
         "time": "4:00p-4:50p",
         "building": "HSS",
         "room": "2150",
-        "instructor": "Lauberth, Shannon Marie",
         "instructors": [
           "Lauberth, Shannon Marie"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "a45bfe4e29bf9e4fb40fa91b90a0bef8ed1f59d60991bb920931d318af329b98": {
+        "sectxt": true,
+        "sectionID": "930617",
+        "type": "DI",
+        "section": "A11",
+        "days": "Th",
+        "time": "1:00p-1:50p",
+        "building": "HSS",
+        "room": "1305",
+        "instructors": [
+          "Hao, Nan"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "9ecb4349bcf3cf1b21e5a0d8ad6c42f695a59786e4be06c5748fb2365d7e0bcd": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -436,16 +379,90 @@
         "time": "11:00a-12:20p",
         "building": "CENTR",
         "room": "101",
-        "instructor": "Lauberth, Shannon Marie",
         "instructors": [
           "Lauberth, Shannon Marie"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "57d13ebef86c1f21d3cb4f95dd18b6de95918f2164de032cc92a04d5a99151c4": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "PETER",
+        "room": "108",
+        "instructors": [
+          "Hao, Nan"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "2eb268f65aa402000788cc54c80a9630e0a1fc70864cf8c7467bea4cf0f34cc4": {
+        "sectxt": true,
+        "sectionID": "926055",
+        "type": "DI",
+        "section": "A07",
+        "days": "F",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Hao, Nan"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "03bdfa8c811da3406cabcabba63eccb1b4bf9cb9d52a827eb0609d461556760e": {
+        "sectxt": true,
+        "sectionID": "926056",
+        "type": "DI",
+        "section": "A08",
+        "days": "F",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Hao, Nan"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "d682c1015c517cfe2e298dc326d1ecfeba0b2ee5e0a8b6ed223ac241b634428a": {
+        "sectxt": true,
+        "sectionID": "926057",
+        "type": "DI",
+        "section": "A09",
+        "days": "F",
+        "time": "3:00p-3:50p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Hao, Nan"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "c2fd2ede177f5f7ddda92d884389059a2a60a2b0a2188a80fb58847b763a3595": {
+        "sectxt": true,
+        "sectionID": "926058",
+        "type": "DI",
+        "section": "A10",
+        "days": "F",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "2154",
+        "instructors": [
+          "Hao, Nan"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "39e6e56850ae107198fde9c7b20805d90d654dffa680489de20218809fd138e4": {
         "sectxt": true,
         "sectionID": "926070",
         "type": "DI",
@@ -454,14 +471,13 @@
         "time": "8:00a-8:50a",
         "building": "HSS",
         "room": "2150",
-        "instructor": "Lauberth, Shannon Marie",
         "instructors": [
           "Lauberth, Shannon Marie"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "7e148524f2287e7cfd00ba65bb5e312700b5f979c83578aa995535d702c103e9": {
         "sectxt": true,
         "sectionID": "926071",
         "type": "DI",
@@ -470,15 +486,16 @@
         "time": "5:00p-5:50p",
         "building": "YORK",
         "room": "3000A",
-        "instructor": "Lauberth, Shannon Marie",
         "instructors": [
           "Lauberth, Shannon Marie"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

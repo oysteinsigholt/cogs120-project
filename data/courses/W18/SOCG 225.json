@@ -3,30 +3,12 @@
   "name": "Comparative Political Economy",
   "department": "SOCG",
   "id": "225",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923216",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "9:00a-11:50a",
-      "building": "SSB",
-      "room": "101",
-      "instructor": "Kenworthy, Lane A.",
-      "instructors": [
-        "Kenworthy, Lane A."
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "71b3c6609a773ee647f6fc6b6c1a9c3f37f160aa05ee2e1125fb2ae7d9566b04": {
         "sectxt": true,
         "sectionID": "923216",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "9:00a-11:50a",
         "building": "SSB",
         "room": "101",
-        "instructor": "Kenworthy, Lane A.",
         "instructors": [
           "Kenworthy, Lane A."
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

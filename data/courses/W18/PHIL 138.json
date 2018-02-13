@@ -3,30 +3,12 @@
   "name": "Responsibility",
   "department": "PHIL",
   "id": "138",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924810",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Brink, David O.",
-      "instructors": [
-        "Brink, David O."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "21d7cc9bd89af9293624597a96bc5859910a431a5750cf683bc9024e68d25806": {
         "sectxt": true,
         "sectionID": "924810",
         "type": "LE",
@@ -35,17 +17,15 @@
         "time": "11:00a-11:50a",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Brink, David O.",
         "instructors": [
           "Brink, David O."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "072af628a1180f9476def8a7a36cc92161bb32d300b00bc84745e4758d35989f": {
         "sectxt": true,
         "sectionID": "924810",
         "type": "LE",
@@ -54,17 +34,15 @@
         "time": "11:00a-11:50a",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Brink, David O.",
         "instructors": [
           "Brink, David O."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "8967d3e7585ee9098d5dc905ffeba81e935fdc01410e74be4d389338dc20c3ae": {
         "sectxt": true,
         "sectionID": "924810",
         "type": "LE",
@@ -73,15 +51,15 @@
         "time": "11:00a-11:50a",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Brink, David O.",
         "instructors": [
           "Brink, David O."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,42 +3,9 @@
   "name": "Formulations: Interdisciplinar",
   "department": "ETHN",
   "id": "200B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922641",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "10:00a-12:50p",
-      "building": "SSB",
-      "room": "103",
-      "instructor": "Dorr, Kirstie A.",
-      "instructors": [
-        "Dorr, Kirstie A."
-      ],
-      "start_time": "10:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "4233232070301497b6d026a997bf4dc1f4b1334df63a38a1cdbe24db371cbc4b": {
         "sectxt": true,
         "sectionID": "922641",
         "type": "SE",
@@ -66,19 +32,15 @@
         "time": "10:00a-12:50p",
         "building": "SSB",
         "room": "103",
-        "instructor": "Dorr, Kirstie A.",
         "instructors": [
           "Dorr, Kirstie A."
         ],
         "start_time": "10:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

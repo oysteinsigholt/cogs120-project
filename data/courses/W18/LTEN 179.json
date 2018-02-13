@@ -3,42 +3,9 @@
   "name": "Topic:Arab/Muslim Amer Identy",
   "department": "LTEN",
   "id": "179",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925485",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "10:00a-10:50a",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Kharputly, Nadeen Sh B",
-      "instructors": [
-        "Kharputly, Nadeen Sh B"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "9fb02b73a71b991868025d3a02332532fc807044e1c6e40350745b5e46e1bd32": {
         "sectxt": true,
         "sectionID": "925485",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "10:00a-10:50a",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Kharputly, Nadeen Sh B",
         "instructors": [
           "Kharputly, Nadeen Sh B"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "d7b85bd33c6029ca4874313cb9045be44c3e2028acaf998456c1b0684c7a021c": {
         "sectxt": true,
         "sectionID": "925485",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "10:00a-10:50a",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Kharputly, Nadeen Sh B",
         "instructors": [
           "Kharputly, Nadeen Sh B"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "639381b60a6ecde0d2f7e40a391c39883ba19170be0825d3b051095cbb2b13ca": {
         "sectxt": true,
         "sectionID": "925485",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "10:00a-10:50a",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Kharputly, Nadeen Sh B",
         "instructors": [
           "Kharputly, Nadeen Sh B"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,27 +3,89 @@
   "name": "Independent Research",
   "department": "LATI",
   "id": "299",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "939654",
-      "type": "IN",
-      "section": "007",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Fitzgerald, David S",
-      "instructors": [
-        "Fitzgerald, David S"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "931817",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Postero, Nancy Grey"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "936341",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Andrews, Abigail Leslie"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "936344",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hunefeldt, Christine"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "937900",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Gutierrez, David G"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939605",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hernandez, Jillian"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939652",
+      "type": "IN",
+      "section": "006",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Kwak, Nancy"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "939654",
       "type": "IN",
       "section": "007",
@@ -31,19 +93,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Fitzgerald, David S",
       "instructors": [
         "Fitzgerald, David S"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

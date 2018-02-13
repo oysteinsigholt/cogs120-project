@@ -3,104 +3,9 @@
   "name": "Laboratory in Microbiology",
   "department": "BIMM",
   "id": "121",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "SEQUO",
-      "room": "147",
-      "instructor": "Gustafson-Brown, Cindy",
-      "instructors": [
-        "Gustafson-Brown, Cindy"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926139",
-      "type": "LA",
-      "section": "B01",
-      "days": "WF",
-      "time": "11:00a-2:50p",
-      "building": "YORK",
-      "room": "2310",
-      "instructor": "Gustafson-Brown, Cindy",
-      "instructors": [
-        "Gustafson-Brown, Cindy"
-      ],
-      "start_time": "11:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926140",
-      "type": "LA",
-      "section": "B02",
-      "days": "WF",
-      "time": "11:00a-2:50p",
-      "building": "YORK",
-      "room": "2332",
-      "instructor": "Gustafson-Brown, Cindy",
-      "instructors": [
-        "Gustafson-Brown, Cindy"
-      ],
-      "start_time": "11:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/31/2018",
-      "days": "W",
-      "time": "7:00p-7:50p",
-      "building": "CENTR",
-      "room": "205",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-31T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/20/2018",
-      "days": "Tu",
-      "time": "7:00p-7:50p",
-      "building": "CENTR",
-      "room": "201",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-20T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "03/15/2018",
-      "days": "Th",
-      "time": "7:30p-8:50p",
-      "building": "CENTR",
-      "room": "205",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-15T07:00:00.000Z",
-      "start_time": "19:30",
-      "end_time": "20:50"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c8ac73b9e58f6b9149bad9390a480d5f19711617c6a4adb037592f366503874f": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -109,13 +14,12 @@
       "time": "7:00p-7:50p",
       "building": "CENTR",
       "room": "205",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-31T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "19:50"
     },
-    {
+    "bd6ec101c8ef3dcc89cb36eb4b613077cfa97d8907ec6b22bb3bc1767201b69e": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -124,13 +28,12 @@
       "time": "7:00p-7:50p",
       "building": "CENTR",
       "room": "201",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-20T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "19:50"
     },
-    {
+    "e30c674d6e872c9eaad3cf4b9d4bce78c7f3d8af0cbfb78293170dd2ef22994e": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -139,18 +42,91 @@
       "time": "7:30p-8:50p",
       "building": "CENTR",
       "room": "205",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-15T07:00:00.000Z",
       "start_time": "19:30",
       "end_time": "20:50"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "e465ded450a51855ecac87097b7a25f20ad1b32d4d66efd5a69c690a29911893": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "CSB",
+        "room": "001",
+        "instructors": [
+          "Pirino, Giorgia"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "2e89530dfae5ba628e832c78678df1cc5b4483168b778a6d9c9f0df33e472ad4": {
+        "sectxt": true,
+        "sectionID": "926134",
+        "type": "LA",
+        "section": "A01",
+        "days": "TuTh",
+        "time": "9:30a-1:20p",
+        "building": "YORK",
+        "room": "2310",
+        "instructors": [
+          "Pirino, Giorgia"
+        ],
+        "start_time": "9:30",
+        "end_time": "13:20"
+      },
+      "976eb94a2894f47d9704cf8718a558cdcc802af73516a5a6ac4aa4bd163d2438": {
+        "sectxt": true,
+        "sectionID": "926135",
+        "type": "LA",
+        "section": "A02",
+        "days": "TuTh",
+        "time": "9:30a-1:20p",
+        "building": "YORK",
+        "room": "2332",
+        "instructors": [
+          "Pirino, Giorgia"
+        ],
+        "start_time": "9:30",
+        "end_time": "13:20"
+      },
+      "aca3b15979c34c45e69d0b63767fe97db13b86331cf5402f7b920c8a37fe3f43": {
+        "sectxt": true,
+        "sectionID": "926136",
+        "type": "LA",
+        "section": "A03",
+        "days": "TuTh",
+        "time": "2:30p-6:20p",
+        "building": "YORK",
+        "room": "2310",
+        "instructors": [
+          "Pirino, Giorgia"
+        ],
+        "start_time": "14:30",
+        "end_time": "18:20"
+      },
+      "738a3f3c41836b40af1fa4dec71f431aa6ccd72e750eaa6d3edddc0687b5f62b": {
+        "sectxt": true,
+        "sectionID": "926137",
+        "type": "LA",
+        "section": "A04",
+        "days": "TuTh",
+        "time": "2:30p-6:20p",
+        "building": "YORK",
+        "room": "2332",
+        "instructors": [
+          "Pirino, Giorgia"
+        ],
+        "start_time": "14:30",
+        "end_time": "18:20"
+      },
+      "80483300f1843284167ade4659e2f9a13530b47463ed596be32b712259733b7f": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -159,16 +135,15 @@
         "time": "11:00a-12:20p",
         "building": "SEQUO",
         "room": "147",
-        "instructor": "Gustafson-Brown, Cindy",
         "instructors": [
           "Gustafson-Brown, Cindy"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "7e6ba3f844ddaa8e55efe754a4805649c00c9e1b77b1ea392bb6af78cffa3255": {
         "sectxt": true,
         "sectionID": "926139",
         "type": "LA",
@@ -177,14 +152,13 @@
         "time": "11:00a-2:50p",
         "building": "YORK",
         "room": "2310",
-        "instructor": "Gustafson-Brown, Cindy",
         "instructors": [
           "Gustafson-Brown, Cindy"
         ],
         "start_time": "11:00",
         "end_time": "14:50"
       },
-      {
+      "44d2fc8a8293f25d1a84ca61eea738f6984da3f868dd8a82f48136c29d35a896": {
         "sectxt": true,
         "sectionID": "926140",
         "type": "LA",
@@ -193,16 +167,90 @@
         "time": "11:00a-2:50p",
         "building": "YORK",
         "room": "2332",
-        "instructor": "Gustafson-Brown, Cindy",
         "instructors": [
           "Gustafson-Brown, Cindy"
         ],
         "start_time": "11:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8545ab0c79c23ec92792f48a8a4e9c983955e31d9ddad421339a098929d3ab17": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "CSB",
+        "room": "001",
+        "instructors": [
+          "Pirino, Giorgia"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "1fa19a008be885c10e297ed4df68f9eed3fda965a9ec8e436296c4ec987e20ca": {
+        "sectxt": true,
+        "sectionID": "926134",
+        "type": "LA",
+        "section": "A01",
+        "days": "TuTh",
+        "time": "9:30a-1:20p",
+        "building": "YORK",
+        "room": "2310",
+        "instructors": [
+          "Pirino, Giorgia"
+        ],
+        "start_time": "9:30",
+        "end_time": "13:20"
+      },
+      "04e1548b1d602fa552584dadccb71c0f801bca8bd53739833f867fb579c2ea96": {
+        "sectxt": true,
+        "sectionID": "926135",
+        "type": "LA",
+        "section": "A02",
+        "days": "TuTh",
+        "time": "9:30a-1:20p",
+        "building": "YORK",
+        "room": "2332",
+        "instructors": [
+          "Pirino, Giorgia"
+        ],
+        "start_time": "9:30",
+        "end_time": "13:20"
+      },
+      "05e1294d89e6df6cd1f57c1e7e1dce44c9045e26d2381a5457d443bd0aa42537": {
+        "sectxt": true,
+        "sectionID": "926136",
+        "type": "LA",
+        "section": "A03",
+        "days": "TuTh",
+        "time": "2:30p-6:20p",
+        "building": "YORK",
+        "room": "2310",
+        "instructors": [
+          "Pirino, Giorgia"
+        ],
+        "start_time": "14:30",
+        "end_time": "18:20"
+      },
+      "d7aabf5421b66374295c26a0f64ddcff4ecff276382b9daa14c2d5d45ba5a4a1": {
+        "sectxt": true,
+        "sectionID": "926137",
+        "type": "LA",
+        "section": "A04",
+        "days": "TuTh",
+        "time": "2:30p-6:20p",
+        "building": "YORK",
+        "room": "2332",
+        "instructors": [
+          "Pirino, Giorgia"
+        ],
+        "start_time": "14:30",
+        "end_time": "18:20"
+      },
+      "9ecb4349bcf3cf1b21e5a0d8ad6c42f695a59786e4be06c5748fb2365d7e0bcd": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -211,16 +259,15 @@
         "time": "11:00a-12:20p",
         "building": "SEQUO",
         "room": "147",
-        "instructor": "Gustafson-Brown, Cindy",
         "instructors": [
           "Gustafson-Brown, Cindy"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "6689d940336752e7b1d23a73011485e0ab6aaf71e95db110d1d4ca062bd9b57f": {
         "sectxt": true,
         "sectionID": "926139",
         "type": "LA",
@@ -229,14 +276,13 @@
         "time": "11:00a-2:50p",
         "building": "YORK",
         "room": "2310",
-        "instructor": "Gustafson-Brown, Cindy",
         "instructors": [
           "Gustafson-Brown, Cindy"
         ],
         "start_time": "11:00",
         "end_time": "14:50"
       },
-      {
+      "459ed83ac867f8c5bac511fd7e5ab065ff576ae8a9ab3d4872ecf3eec59b164e": {
         "sectxt": true,
         "sectionID": "926140",
         "type": "LA",
@@ -245,15 +291,16 @@
         "time": "11:00a-2:50p",
         "building": "YORK",
         "room": "2332",
-        "instructor": "Gustafson-Brown, Cindy",
         "instructors": [
           "Gustafson-Brown, Cindy"
         ],
         "start_time": "11:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

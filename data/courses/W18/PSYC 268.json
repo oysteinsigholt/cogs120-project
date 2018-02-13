@@ -3,34 +3,12 @@
   "name": "Neurobiology of Action",
   "department": "PSYC",
   "id": "268",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924685",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "9:00a-11:50a",
-      "building": "MNDLR",
-      "room": "3545",
-      "instructor": "Gremel, Christina M",
-      "instructors": [
-        "Gremel, Christina M"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "dd5fedf5c55badf53f8b66f40c20d5bbc3f41188f53a98c2fefa81b8eca86c6a": {
         "sectxt": true,
         "sectionID": "924685",
         "type": "SE",
@@ -39,15 +17,15 @@
         "time": "9:00a-11:50a",
         "building": "MNDLR",
         "room": "3545",
-        "instructor": "Gremel, Christina M",
         "instructors": [
           "Gremel, Christina M"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

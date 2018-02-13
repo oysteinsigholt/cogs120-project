@@ -3,35 +3,12 @@
   "name": "Public Policy Capstone",
   "department": "GPCO",
   "id": "462",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921736",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "10:00a-12:50p",
-      "building": "RBC",
-      "room": "3203",
-      "instructor": "Hajnal, Zoltan Lloyd & Khanna, Gaurav",
-      "instructors": [
-        "Hajnal, Zoltan Lloyd",
-        "Khanna, Gaurav"
-      ],
-      "start_time": "10:00",
-      "end_time": "12:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "1868a0498c5611bf7887caf7592ac33c9b031353b9826ca28f25148827c3dd39": {
         "sectxt": true,
         "sectionID": "921736",
         "type": "SE",
@@ -40,16 +17,15 @@
         "time": "10:00a-12:50p",
         "building": "RBC",
         "room": "3203",
-        "instructor": "Hajnal, Zoltan Lloyd & Khanna, Gaurav",
         "instructors": [
-          "Hajnal, Zoltan Lloyd",
-          "Khanna, Gaurav"
+          "Hajnal, Zoltan Lloyd               \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tKhanna, Gaurav"
         ],
         "start_time": "10:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

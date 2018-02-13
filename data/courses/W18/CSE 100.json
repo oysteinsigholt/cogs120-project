@@ -3,58 +3,9 @@
   "name": "Advanced Data Structures",
   "department": "CSE",
   "id": "100",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "WLH",
-      "room": "2005",
-      "instructor": "Porter, Leonard Emerson",
-      "instructors": [
-        "Porter, Leonard Emerson"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927471",
-      "type": "DI",
-      "section": "B01",
-      "days": "F",
-      "time": "6:00p-6:50p",
-      "building": "LEDDN",
-      "room": "AUD",
-      "instructor": "Porter, Leonard Emerson",
-      "instructors": [
-        "Porter, Leonard Emerson"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/17/2018",
-      "days": "S",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-17T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "8775cdfecb79b7ae02a50e79d04f28c9bf2886a8cf1b9d35d69e5a38fdd31977": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,17 +14,31 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-17T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "40cdd3ea393878439ebaf5c767383214e7d7acfe333c98c416ae87493bc85dba": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructors": [
+          "Porter, Leonard Emerson"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "24017a74fa28bf66c3fdd65208e571f30776f867bbb0b596dad54c87a0661a66": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -82,17 +47,30 @@
         "time": "1:00p-1:50p",
         "building": "WLH",
         "room": "2005",
-        "instructor": "Porter, Leonard Emerson",
         "instructors": [
           "Porter, Leonard Emerson"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "9e7000e2f88be7b1f47b2ec9cdc4cadb0aac4f8df501aa444c431665ffa5d103": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructors": [
+          "Porter, Leonard Emerson"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "0abf89a3ce8bbb5f2405aeea3b841a1f2d3aadc82089b086ba3365cbfcb4a155": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -101,17 +79,45 @@
         "time": "1:00p-1:50p",
         "building": "WLH",
         "room": "2005",
-        "instructor": "Porter, Leonard Emerson",
         "instructors": [
           "Porter, Leonard Emerson"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "57d13ebef86c1f21d3cb4f95dd18b6de95918f2164de032cc92a04d5a99151c4": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructors": [
+          "Porter, Leonard Emerson"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "b09d247ec68beb4372e894afd900d3ae5e9335e51425bcbb975685e3b5f2f0d2": {
+        "sectxt": true,
+        "sectionID": "927469",
+        "type": "DI",
+        "section": "A01",
+        "days": "F",
+        "time": "5:00p-5:50p",
+        "building": "LEDDN",
+        "room": "AUD",
+        "instructors": [
+          "Porter, Leonard Emerson"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "3b5c80694b986838946e3eba24860ef3dbb5b66426b0265a538784f52fcec108": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -120,14 +126,13 @@
         "time": "1:00p-1:50p",
         "building": "WLH",
         "room": "2005",
-        "instructor": "Porter, Leonard Emerson",
         "instructors": [
           "Porter, Leonard Emerson"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "1c9b0eed7df6ab43bafca853ce8c6b8b38da522f0324062c724005f79b251679": {
         "sectxt": true,
         "sectionID": "927471",
         "type": "DI",
@@ -136,15 +141,16 @@
         "time": "6:00p-6:50p",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Porter, Leonard Emerson",
         "instructors": [
           "Porter, Leonard Emerson"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

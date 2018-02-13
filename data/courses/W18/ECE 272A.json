@@ -3,42 +3,9 @@
   "name": "Stochastic Proc/Dynamic Sys I",
   "department": "ECE",
   "id": "272A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "933064",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "6:30p-7:50p",
-      "building": "CENTR",
-      "room": "109",
-      "instructor": "Touri, Behrouz",
-      "instructors": [
-        "Touri, Behrouz"
-      ],
-      "start_time": "18:30",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "83f667703ee5f41443699d3c685d2af7204f58e7d0026726650a8f5259ecf403": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "f991d8cda3a2857fcd273843da3d3d5699552e6aa6f0e856be9347d9d1e4de3c": {
         "sectxt": true,
         "sectionID": "933064",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "6:30p-7:50p",
         "building": "CENTR",
         "room": "109",
-        "instructor": "Touri, Behrouz",
         "instructors": [
           "Touri, Behrouz"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "e745b0ae972ad0437db7c78363404ac2c8995c8183b3755ccfb63a54695a7416": {
         "sectxt": true,
         "sectionID": "933064",
         "type": "LE",
@@ -86,16 +49,16 @@
         "time": "6:30p-7:50p",
         "building": "CENTR",
         "room": "109",
-        "instructor": "Touri, Behrouz",
         "instructors": [
           "Touri, Behrouz"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "B",
+    "A"
+  ]
 }

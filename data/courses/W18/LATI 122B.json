@@ -3,40 +3,8 @@
   "name": "Fld Rsrch Mth/Migrtn:Practicum",
   "department": "LATI",
   "id": "122B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "1:00p-3:50p",
-      "building": "ERCA",
-      "room": "115",
-      "instructor": "Wong, Tak Kei",
-      "instructors": [
-        "Wong, Tak Kei"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921751",
-      "type": "PR",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Wong, Tak Kei",
-      "instructors": [
-        "Wong, Tak Kei"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -47,18 +15,14 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Wong, Tak Kei",
       "instructors": [
         "Wong, Tak Kei"
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "311055715c24028978b8aa31f22b8464bba68de6463c8c34a0ca6c6505f32231": {
         "sectxt": true,
         "sectionID": "",
         "type": "SE",
@@ -67,16 +31,15 @@
         "time": "1:00p-3:50p",
         "building": "ERCA",
         "room": "115",
-        "instructor": "Wong, Tak Kei",
         "instructors": [
           "Wong, Tak Kei"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

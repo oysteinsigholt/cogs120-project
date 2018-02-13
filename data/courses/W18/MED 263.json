@@ -3,34 +3,14 @@
   "name": "Bioinformatic Appl/Hum Disease",
   "department": "MED",
   "id": "263",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930452",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-4:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Ohno-Machado, Lucila & Harismendy, Olivier",
-      "instructors": [
-        "Ohno-Machado, Lucila",
-        "Harismendy, Olivier"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:00"
-    }
-  ],
   "notes": [
     "Location: MET 304"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "4098746920e5e0222d536a6ff3ff78077480bd18c3477b6f466b4b6f9456486e": {
         "sectxt": true,
         "sectionID": "930452",
         "type": "LE",
@@ -39,18 +19,15 @@
         "time": "2:00p-4:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Ohno-Machado, Lucila & Harismendy, Olivier",
         "instructors": [
-          "Ohno-Machado, Lucila",
-          "Harismendy, Olivier"
+          "Ohno-Machado, Lucila               \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHarismendy, Olivier"
         ],
         "start_time": "14:00",
         "end_time": "16:00"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "87273963e5508ecb6d974935706438df184db89591df25533405e417ba123132": {
         "sectxt": true,
         "sectionID": "930452",
         "type": "LE",
@@ -59,17 +36,15 @@
         "time": "2:00p-4:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Ohno-Machado, Lucila & Harismendy, Olivier",
         "instructors": [
-          "Ohno-Machado, Lucila",
-          "Harismendy, Olivier"
+          "Ohno-Machado, Lucila               \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHarismendy, Olivier"
         ],
         "start_time": "14:00",
         "end_time": "16:00"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

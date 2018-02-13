@@ -3,56 +3,9 @@
   "name": "Solid Mechanics II",
   "department": "MAE",
   "id": "131B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922899",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "CSB",
-      "room": "004",
-      "instructor": "Boechler,nicholas Sebastia",
-      "instructors": [
-        "Boechler,nicholas Sebastia"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "CSB",
-      "room": "005",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -61,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "0d94f26a7b3ee5d02c66d689a882b585410ab9691f5a3eb30f95d5b5196bbffb": {
         "sectxt": true,
         "sectionID": "922899",
         "type": "LE",
@@ -81,17 +32,15 @@
         "time": "2:00p-3:20p",
         "building": "CSB",
         "room": "004",
-        "instructor": "Boechler,nicholas Sebastia",
         "instructors": [
           "Boechler,nicholas Sebastia"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "5e9ed2bdd85479906a072fdad44e05828c8b66e8777606c639f335b20af13489": {
         "sectxt": true,
         "sectionID": "922899",
         "type": "LE",
@@ -100,16 +49,15 @@
         "time": "2:00p-3:20p",
         "building": "CSB",
         "room": "004",
-        "instructor": "Boechler,nicholas Sebastia",
         "instructors": [
           "Boechler,nicholas Sebastia"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "d095058a3c5ca6878be2e5af45056c73925fc6945e80151eaa049f5fb0198342": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -118,13 +66,13 @@
         "time": "3:00p-3:50p",
         "building": "CSB",
         "room": "005",
-        "instructor": "",
         "instructors": [],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

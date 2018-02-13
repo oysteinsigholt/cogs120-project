@@ -3,48 +3,12 @@
   "name": "Seminars in Pharmacology",
   "department": "BIOM",
   "id": "275",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "12:00p-1:00p",
-      "building": "LFFB",
-      "room": "107",
-      "instructor": "Reya, Tannishtha & Furnari, Frank",
-      "instructors": [
-        "Reya, Tannishtha",
-        "Furnari, Frank"
-      ],
-      "start_time": "12:00",
-      "end_time": "13:00"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929419",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "12:30p-1:30p",
-      "building": "CMME",
-      "room": "2047",
-      "instructor": "Reya, Tannishtha & Furnari, Frank",
-      "instructors": [
-        "Reya, Tannishtha",
-        "Furnari, Frank"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:30"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "cbb4c4e6f0aa259541cafb48e44f0976bbbd5b33c1bfe7e86bd5ff7497dc6e8f": {
         "sectxt": true,
         "sectionID": "929419",
         "type": "DI",
@@ -53,17 +17,15 @@
         "time": "12:30p-1:30p",
         "building": "CMME",
         "room": "2047",
-        "instructor": "Reya, Tannishtha & Furnari, Frank",
         "instructors": [
-          "Reya, Tannishtha",
-          "Furnari, Frank"
+          "Reya, Tannishtha                   \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFurnari, Frank"
         ],
         "start_time": "12:30",
         "end_time": "13:30"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "0dcef974406bd929f142c6e8d517a984a19a3896812d3c8168cd6e5b4859c77e": {
         "sectxt": true,
         "sectionID": "",
         "type": "SE",
@@ -72,19 +34,15 @@
         "time": "12:00p-1:00p",
         "building": "LFFB",
         "room": "107",
-        "instructor": "Reya, Tannishtha & Furnari, Frank",
         "instructors": [
-          "Reya, Tannishtha",
-          "Furnari, Frank"
+          "Reya, Tannishtha                   \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFurnari, Frank"
         ],
         "start_time": "12:00",
         "end_time": "13:00"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

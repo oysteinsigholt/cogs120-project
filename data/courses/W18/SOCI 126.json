@@ -3,58 +3,9 @@
   "name": "Social Organization/Education",
   "department": "SOCI",
   "id": "126",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MW",
-      "time": "5:00p-6:20p",
-      "building": "CENTR",
-      "room": "212",
-      "instructor": "Jones, Makeba",
-      "instructors": [
-        "Jones, Makeba"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "933099",
-      "type": "DI",
-      "section": "B01",
-      "days": "Th",
-      "time": "1:00p-1:50p",
-      "building": "PCYNH",
-      "room": "340",
-      "instructor": "Jones, Makeba",
-      "instructors": [
-        "Jones, Makeba"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "cac8894f82fd707f3baa45b0772763f0dc42533185d4420469598ba9d401f44a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -82,17 +32,15 @@
         "time": "5:00p-6:20p",
         "building": "CENTR",
         "room": "212",
-        "instructor": "Jones, Makeba",
         "instructors": [
           "Jones, Makeba"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "543b345feb7259ed776415a7c0c9cc83dc747d07e22f5ca46ee94b56c062a156": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -101,16 +49,15 @@
         "time": "5:00p-6:20p",
         "building": "CENTR",
         "room": "212",
-        "instructor": "Jones, Makeba",
         "instructors": [
           "Jones, Makeba"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "b7fd4f4e4e6effd7bd211d4c95a12ae44e9c68371ea0799ca18888d5fa5b7002": {
         "sectxt": true,
         "sectionID": "933099",
         "type": "DI",
@@ -119,16 +66,16 @@
         "time": "1:00p-1:50p",
         "building": "PCYNH",
         "room": "340",
-        "instructor": "Jones, Makeba",
         "instructors": [
           "Jones, Makeba"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

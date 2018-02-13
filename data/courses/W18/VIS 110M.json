@@ -3,31 +3,12 @@
   "name": "Studio Honors I",
   "department": "VIS",
   "id": "110M",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922773",
-      "type": "ST",
-      "section": "A00",
-      "days": "Tu",
-      "time": "3:30p-6:20p",
-      "building": "MANDE",
-      "room": "201B",
-      "instructor": "Vangenderen, Monique Luise",
-      "instructors": [
-        "Vangenderen, Monique Luise"
-      ],
-      "start_time": "15:30",
-      "end_time": "18:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "0a2f836dc1ae388409a1f09e8d01c22ea31df5ef60bf721e7e803cdd89f803e9": {
         "sectxt": true,
         "sectionID": "922773",
         "type": "ST",
@@ -36,18 +17,15 @@
         "time": "3:30p-6:20p",
         "building": "MANDE",
         "room": "201B",
-        "instructor": "Vangenderen, Monique Luise",
         "instructors": [
           "Vangenderen, Monique Luise"
         ],
         "start_time": "15:30",
         "end_time": "18:20"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,74 +3,37 @@
   "name": "Econometrics A",
   "department": "ECON",
   "id": "120A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "C00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "CENTR",
-      "room": "101",
-      "instructor": "Santamaria, Martin I",
-      "instructors": [
-        "Santamaria, Martin I"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924084",
-      "type": "DI",
-      "section": "C01",
-      "days": "Th",
-      "time": "7:00p-7:50p",
-      "building": "PCYNH",
-      "room": "106",
-      "instructor": "Santamaria, Martin I",
-      "instructors": [
-        "Santamaria, Martin I"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924085",
-      "type": "DI",
-      "section": "C02",
-      "days": "Th",
-      "time": "8:00p-8:50p",
-      "building": "PCYNH",
-      "room": "106",
-      "instructor": "Santamaria, Martin I",
-      "instructors": [
-        "Santamaria, Martin I"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "99084e85dcbf5c5064e8677480f27cc1eb8ff5538061a54d6a1f44628193757c": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -79,17 +42,46 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "4ec817ccdc88e3e0dc29eddfa2b87654757697262afdf15326e4d0d4d98658ca": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "PCYNH",
+        "room": "122",
+        "instructors": [
+          "Foster, Carroll Baldwin"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "467a04643c312b6e75eb7b65790966ad1c16aae38e729654614ce0e8bdf51fdc": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "PCYNH",
+        "room": "122",
+        "instructors": [
+          "Foster, Carroll Baldwin"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "01a27efc910c2441b6e37ad20f58279c8d5550a062e7c7213b0d2a43ce4a2ddb": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -98,17 +90,77 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "101",
-        "instructor": "Santamaria, Martin I",
         "instructors": [
           "Santamaria, Martin I"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "Tu": {
+      "61e57e8803786682cc3d831e5dc189f453fad0210f9d5875ed9a2e33d4da15f6": {
+        "sectxt": true,
+        "sectionID": "924078",
+        "type": "DI",
+        "section": "A01",
+        "days": "Tu",
+        "time": "5:00p-5:50p",
+        "building": "PETER",
+        "room": "102",
+        "instructors": [
+          "Foster, Carroll Baldwin"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "34cb873b845353dcd87e75c9e96c50342010a7e275371993293a55182fa31d95": {
+        "sectxt": true,
+        "sectionID": "924079",
+        "type": "DI",
+        "section": "A02",
+        "days": "Tu",
+        "time": "6:00p-6:50p",
+        "building": "PETER",
+        "room": "102",
+        "instructors": [
+          "Foster, Carroll Baldwin"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      }
+    },
+    "W": {
+      "970c4cf3c48a9d2f246a192e6758c8f9b57a8863dca3783380839aec16d4f52b": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "PCYNH",
+        "room": "122",
+        "instructors": [
+          "Foster, Carroll Baldwin"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "3c7c14573898e201dd8ab56e46ba2e55792bcb3006bd8b56f2ec5209c193ea93": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "PCYNH",
+        "room": "122",
+        "instructors": [
+          "Foster, Carroll Baldwin"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "2f573f774df51e370271d6382b7064b4dba2dfdd0d4592312ef2b117be645848": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -117,16 +169,45 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "101",
-        "instructor": "Santamaria, Martin I",
         "instructors": [
           "Santamaria, Martin I"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "10e2ced0313221b336a33acd681fc2280205f297e403025cecd43dcacaa4b441": {
+        "sectxt": true,
+        "sectionID": "924081",
+        "type": "DI",
+        "section": "B01",
+        "days": "Th",
+        "time": "5:00p-5:50p",
+        "building": "PETER",
+        "room": "102",
+        "instructors": [
+          "Foster, Carroll Baldwin"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "9ac8cb6228474f4ceaafbb9893154f6d9b8744bf2d4a30dc7bf92ff130a64ce7": {
+        "sectxt": true,
+        "sectionID": "924082",
+        "type": "DI",
+        "section": "B02",
+        "days": "Th",
+        "time": "6:00p-6:50p",
+        "building": "PETER",
+        "room": "102",
+        "instructors": [
+          "Foster, Carroll Baldwin"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "65bedbb8bf3354d4f21f4fecaed0c241a449619a161b049a18cc23db7480e413": {
         "sectxt": true,
         "sectionID": "924084",
         "type": "DI",
@@ -135,14 +216,13 @@
         "time": "7:00p-7:50p",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Santamaria, Martin I",
         "instructors": [
           "Santamaria, Martin I"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "786288f7fcec360db5496a0aeaeb89d84d9bf3d5fb6d11e2750cb69a7a27eeaf": {
         "sectxt": true,
         "sectionID": "924085",
         "type": "DI",
@@ -151,16 +231,45 @@
         "time": "8:00p-8:50p",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Santamaria, Martin I",
         "instructors": [
           "Santamaria, Martin I"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "0fa53a4e71d75b330d5dce8797d8f3400a4bb91d601337836c51d9290c9239bc": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "PCYNH",
+        "room": "122",
+        "instructors": [
+          "Foster, Carroll Baldwin"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "0d5e149067785881267f7c98a1033d779533d331f296da88a0b6a1ada251a204": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "PCYNH",
+        "room": "122",
+        "instructors": [
+          "Foster, Carroll Baldwin"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "4f24bfec141ab18ff3b5c19b66ac27bb1f95f83dec7ae9d3f964a74ab12a484b": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -169,15 +278,17 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "101",
-        "instructor": "Santamaria, Martin I",
         "instructors": [
           "Santamaria, Martin I"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

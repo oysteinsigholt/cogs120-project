@@ -3,34 +3,49 @@
   "name": "Special Topics/Global Health",
   "department": "GLBH",
   "id": "100",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "932213",
-      "type": "LE",
-      "section": "B00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    }
+  "notes": [
+    "Demography and Social Networks in Global Health"
   ],
-  "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "Tu": {
+      "d7e9482af9bef597a78f059ebd0608f4f862d9c14d27ccb57e006d5b501168b1": {
+        "sectxt": true,
+        "sectionID": "928100",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "STCTR",
+        "room": "E209",
+        "instructors": [
+          "Shakya, Holly B"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    },
+    "Th": {
+      "d40d7dfc0680ad77a3781a52e306fb63f18fdb90b51c710131172fa0e061fed9": {
+        "sectxt": true,
+        "sectionID": "928100",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "STCTR",
+        "room": "E209",
+        "instructors": [
+          "Shakya, Holly B"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

@@ -3,27 +3,37 @@
   "name": "Spec Studies/Marine Sciences",
   "department": "SIOB",
   "id": "298",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "939851",
-      "type": "IN",
-      "section": "C00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Hodgkiss, William S.",
-      "instructors": [
-        "Hodgkiss, William S."
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "931526",
+      "type": "IN",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hildebrand, John A"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939850",
+      "type": "IN",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hendershott, Myrl C."
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "939851",
       "type": "IN",
       "section": "C00",
@@ -31,19 +41,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Hodgkiss, William S.",
       "instructors": [
         "Hodgkiss, William S."
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

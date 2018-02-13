@@ -3,33 +3,12 @@
   "name": "Intro Study/Comm&The Individul",
   "department": "COGR",
   "id": "200C",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924267",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "4:00p-6:50p",
-      "building": "MCC",
-      "room": "127",
-      "instructor": "Irani, Lilly C",
-      "instructors": [
-        "Irani, Lilly C"
-      ],
-      "start_time": "16:00",
-      "end_time": "18:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "739e973c79e6b16adb110946504ce527f6e17c4756c8047bcdf259850c757228": {
         "sectxt": true,
         "sectionID": "924267",
         "type": "SE",
@@ -38,16 +17,15 @@
         "time": "4:00p-6:50p",
         "building": "MCC",
         "room": "127",
-        "instructor": "Irani, Lilly C",
         "instructors": [
           "Irani, Lilly C"
         ],
         "start_time": "16:00",
         "end_time": "18:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

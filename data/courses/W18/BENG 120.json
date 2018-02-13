@@ -3,91 +3,9 @@
   "name": "Org Chem-Structural & Design",
   "department": "BENG",
   "id": "120",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923296",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "PFBH",
-      "room": "161",
-      "instructor": "Wang, Yingxiao & Subramaniam, Shankar",
-      "instructors": [
-        "Wang, Yingxiao",
-        "Subramaniam, Shankar"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "PFBH",
-      "room": "161",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "201",
-      "instructor": "Wang, Yingxiao & Subramaniam, Shankar",
-      "instructors": [
-        "Wang, Yingxiao",
-        "Subramaniam, Shankar"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "YORK",
-      "room": "3050A",
-      "instructor": "Wang, Yingxiao & Subramaniam, Shankar",
-      "instructors": [
-        "Wang, Yingxiao",
-        "Subramaniam, Shankar"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -96,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "110dc4dd68bb7878f7614746fa52d8d81496abcd6c22657b8c80cb32238c3af8": {
         "sectxt": true,
         "sectionID": "923296",
         "type": "LE",
@@ -115,15 +32,13 @@
         "time": "4:00p-4:50p",
         "building": "PFBH",
         "room": "161",
-        "instructor": "Wang, Yingxiao & Subramaniam, Shankar",
         "instructors": [
-          "Wang, Yingxiao",
-          "Subramaniam, Shankar"
+          "Wang, Yingxiao                     \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSubramaniam, Shankar"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "8baea4c608e8f6dce78b5d5218f2f015ba4a15f4d002f985f5cea2a33b6714e7": {
         "sectxt": true,
         "sectionID": "",
         "type": "DI",
@@ -132,17 +47,15 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "201",
-        "instructor": "Wang, Yingxiao & Subramaniam, Shankar",
         "instructors": [
-          "Wang, Yingxiao",
-          "Subramaniam, Shankar"
+          "Wang, Yingxiao                     \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSubramaniam, Shankar"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "77a90d7a8864ca19fd9b8963b8c321ba412d20b52100d010e9805af3b2d06f08": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -151,14 +64,13 @@
         "time": "12:30p-1:50p",
         "building": "PFBH",
         "room": "161",
-        "instructor": "",
         "instructors": [],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "f47f458a3ab847818c3e7e4970d80d83369d362c91be075641954a3df59f5572": {
         "sectxt": true,
         "sectionID": "",
         "type": "DI",
@@ -167,17 +79,15 @@
         "time": "4:00p-4:50p",
         "building": "YORK",
         "room": "3050A",
-        "instructor": "Wang, Yingxiao & Subramaniam, Shankar",
         "instructors": [
-          "Wang, Yingxiao",
-          "Subramaniam, Shankar"
+          "Wang, Yingxiao                     \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSubramaniam, Shankar"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f8ad585298e7b342895c254554dd0fa501d6feea536e74d6146ebcf55fb31294": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -186,14 +96,13 @@
         "time": "12:30p-1:50p",
         "building": "PFBH",
         "room": "161",
-        "instructor": "",
         "instructors": [],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

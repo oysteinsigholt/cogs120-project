@@ -3,30 +3,12 @@
   "name": "Seminr/Artificial Intelligence",
   "department": "CSE",
   "id": "259",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927573",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "12:00p-12:50p",
-      "building": "EBU3B",
-      "room": "4140",
-      "instructor": "Cottrell, Garrison W",
-      "instructors": [
-        "Cottrell, Garrison W"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "091ac6e3b924fd9f936a6123c4529d054f455cad70ace4fa0b8c39a044bf728b": {
         "sectxt": true,
         "sectionID": "927573",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "12:00p-12:50p",
         "building": "EBU3B",
         "room": "4140",
-        "instructor": "Cottrell, Garrison W",
         "instructors": [
           "Cottrell, Garrison W"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

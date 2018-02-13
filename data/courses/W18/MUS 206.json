@@ -3,34 +3,30 @@
   "name": "Experimental Studies Seminar",
   "department": "MUS",
   "id": "206",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921822",
-      "type": "SE",
-      "section": "B00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "Th": {
+      "9ead3b56a627fcc6b7d7cb071474cb0b052aad5243be7124e420e1f445d66834": {
+        "sectxt": true,
+        "sectionID": "921821",
+        "type": "SE",
+        "section": "A00",
+        "days": "Th",
+        "time": "5:00p-7:50p",
+        "building": "CPMC",
+        "room": "367",
+        "instructors": [
+          "Terrazas Perez, Wilfrido D"
+        ],
+        "start_time": "17:00",
+        "end_time": "19:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

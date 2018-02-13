@@ -3,30 +3,12 @@
   "name": "Workshop: Political Theory",
   "department": "POLI",
   "id": "285",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925384",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "12:00p-2:50p",
-      "building": "SSB",
-      "room": "333",
-      "instructor": "Wiens, David Abram",
-      "instructors": [
-        "Wiens, David Abram"
-      ],
-      "start_time": "12:00",
-      "end_time": "14:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "4b3d9f030cc52c5b0614f6051cfdf3bb75d65fdb20594c54b54ac3a54b4e5e9d": {
         "sectxt": true,
         "sectionID": "925384",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "12:00p-2:50p",
         "building": "SSB",
         "room": "333",
-        "instructor": "Wiens, David Abram",
         "instructors": [
           "Wiens, David Abram"
         ],
         "start_time": "12:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

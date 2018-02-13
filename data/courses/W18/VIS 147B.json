@@ -3,32 +3,12 @@
   "name": "Electronic Technologies/Art II",
   "department": "VIS",
   "id": "147B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922794",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "12:00p-2:50p",
-      "building": "SME",
-      "room": "302",
-      "instructor": "Stalbaum, Brett",
-      "instructors": [
-        "Stalbaum, Brett"
-      ],
-      "start_time": "12:00",
-      "end_time": "14:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "4f668835c973e7a4e124a6a5fcb58dd1de24b7185cceb0765a5f628b629cdbf9": {
         "sectxt": true,
         "sectionID": "922794",
         "type": "LE",
@@ -37,17 +17,15 @@
         "time": "12:00p-2:50p",
         "building": "SME",
         "room": "302",
-        "instructor": "Stalbaum, Brett",
         "instructors": [
           "Stalbaum, Brett"
         ],
         "start_time": "12:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,42 +3,9 @@
   "name": "AdvTech/Computational Math II",
   "department": "MATH",
   "id": "273B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927304",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Leok, Melvin",
-      "instructors": [
-        "Leok, Melvin"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "bff0969647807621fa673c584019f756d3dfd552251dedecf216a754905dc5e3": {
         "sectxt": true,
         "sectionID": "927304",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "2:00p-3:20p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Leok, Melvin",
         "instructors": [
           "Leok, Melvin"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "50bf8a4da537d26b6ccafe6952df464c5929534b14a8854a62022d07d88ca894": {
         "sectxt": true,
         "sectionID": "927304",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "2:00p-3:20p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Leok, Melvin",
         "instructors": [
           "Leok, Melvin"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

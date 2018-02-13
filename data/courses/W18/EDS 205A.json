@@ -3,35 +3,32 @@
   "name": "Reflective Teaching Practice",
   "department": "EDS",
   "id": "205A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922517",
-      "type": "SE",
-      "section": "B00",
-      "days": "Th",
-      "time": "5:00p-7:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Clarke, Sherice Nicole",
-      "instructors": [
-        "Clarke, Sherice Nicole"
-      ],
-      "start_time": "17:00",
-      "end_time": "19:50"
-    }
-  ],
   "notes": [
+    "Elementary Credential Students",
     "Secondary Credential Students\n EDS 379B and 205A will meet in Pepper Canyon Hall Room\n 340."
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Tu": {
+      "488282e469f0d05d8ce7019f16225bc1c7ffad54859037712f3db88ae23f6a24": {
+        "sectxt": true,
+        "sectionID": "922516",
+        "type": "SE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "5:00p-7:50p",
+        "building": "CENTR",
+        "room": "222",
+        "instructors": [
+          "Clarke, Sherice Nicole"
+        ],
+        "start_time": "17:00",
+        "end_time": "19:50"
+      }
+    },
+    "Th": {
+      "3c3355dee2296de7fd8afdbccbe3cc6ec7343b6eacc9da3cd45d76f4cc50e8eb": {
         "sectxt": true,
         "sectionID": "922517",
         "type": "SE",
@@ -40,16 +37,16 @@
         "time": "5:00p-7:50p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Clarke, Sherice Nicole",
         "instructors": [
           "Clarke, Sherice Nicole"
         ],
         "start_time": "17:00",
         "end_time": "19:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

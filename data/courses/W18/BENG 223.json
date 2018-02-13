@@ -3,58 +3,9 @@
   "name": "Thermodyn/Stat Mech/Living Sys",
   "department": "BENG",
   "id": "223",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923380",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "PFBH",
-      "room": "161",
-      "instructor": "Subramaniam, Shankar",
-      "instructors": [
-        "Subramaniam, Shankar"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A01",
-      "days": "F",
-      "time": "10:00a-10:50a",
-      "building": "WLH",
-      "room": "2205",
-      "instructor": "Subramaniam, Shankar",
-      "instructors": [
-        "Subramaniam, Shankar"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "f469657d3fc6f4de1926390a0ec0b1f63bbd0f524112cd653aea04686ab42d86": {
         "sectxt": true,
         "sectionID": "923380",
         "type": "LE",
@@ -83,17 +32,15 @@
         "time": "9:30a-10:50a",
         "building": "PFBH",
         "room": "161",
-        "instructor": "Subramaniam, Shankar",
         "instructors": [
           "Subramaniam, Shankar"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "379b7f829faf42392b3eec868072739f3618f3ad172c49642fddffca4fd84466": {
         "sectxt": true,
         "sectionID": "923380",
         "type": "LE",
@@ -102,16 +49,15 @@
         "time": "9:30a-10:50a",
         "building": "PFBH",
         "room": "161",
-        "instructor": "Subramaniam, Shankar",
         "instructors": [
           "Subramaniam, Shankar"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "c3b4f69e34e878a9685f97132d031950163c6a4f6022045710925666122373af": {
         "sectxt": true,
         "sectionID": "",
         "type": "DI",
@@ -120,15 +66,15 @@
         "time": "10:00a-10:50a",
         "building": "WLH",
         "room": "2205",
-        "instructor": "Subramaniam, Shankar",
         "instructors": [
           "Subramaniam, Shankar"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

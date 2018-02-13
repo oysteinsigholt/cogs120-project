@@ -3,27 +3,50 @@
   "name": "Independent Study",
   "department": "USP",
   "id": "199",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "939629",
-      "type": "IN",
-      "section": "D00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Curcio, Paul David",
-      "instructors": [
-        "Curcio, Paul David"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "922189",
+      "type": "IN",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Bussell, Mirle Rabinowitz"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922190",
+      "type": "IN",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Peerson, Susan"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922191",
+      "type": "IN",
+      "section": "C00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Wartell, Julie Dara"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "939629",
       "type": "IN",
       "section": "D00",
@@ -31,19 +54,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Curcio, Paul David",
       "instructors": [
         "Curcio, Paul David"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

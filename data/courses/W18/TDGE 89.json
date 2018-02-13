@@ -3,31 +3,12 @@
   "name": "Dance Movement Exploration",
   "department": "TDGE",
   "id": "89",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920378",
-      "type": "ST",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:00p-1:20p",
-      "building": "DANCE",
-      "room": "2",
-      "instructor": "Rincon, Patricia A.",
-      "instructors": [
-        "Rincon, Patricia A."
-      ],
-      "start_time": "12:00",
-      "end_time": "13:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "f8b98f17455b7f028bcce007893a93d7f16b75bc8b579c0aaca108528fc39480": {
         "sectxt": true,
         "sectionID": "920378",
         "type": "ST",
@@ -36,17 +17,15 @@
         "time": "12:00p-1:20p",
         "building": "DANCE",
         "room": "2",
-        "instructor": "Rincon, Patricia A.",
         "instructors": [
           "Rincon, Patricia A."
         ],
         "start_time": "12:00",
         "end_time": "13:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "3e61cbbee8665fc64649e394ab5b3956a66bd91d9d16ee572faec1f240d54c43": {
         "sectxt": true,
         "sectionID": "920378",
         "type": "ST",
@@ -55,16 +34,15 @@
         "time": "12:00p-1:20p",
         "building": "DANCE",
         "room": "2",
-        "instructor": "Rincon, Patricia A.",
         "instructors": [
           "Rincon, Patricia A."
         ],
         "start_time": "12:00",
         "end_time": "13:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

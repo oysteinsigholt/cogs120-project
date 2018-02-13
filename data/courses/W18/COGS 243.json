@@ -3,31 +3,12 @@
   "name": "Stats Inference & Data Analys",
   "department": "COGS",
   "id": "243",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930245",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "CSB",
-      "room": "003",
-      "instructor": "Yu, Angela J.",
-      "instructors": [
-        "Yu, Angela J."
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "a928fd88b263d6392b228b01e722f053842a6033992f23c3f8d33a48ab91d867": {
         "sectxt": true,
         "sectionID": "930245",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "3:30p-4:50p",
         "building": "CSB",
         "room": "003",
-        "instructor": "Yu, Angela J.",
         "instructors": [
           "Yu, Angela J."
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "ef8034f833de5d0b4208ca2ac6578cfa243d1971803830a634a8ac3c37f35b96": {
         "sectxt": true,
         "sectionID": "930245",
         "type": "LE",
@@ -55,16 +34,16 @@
         "time": "3:30p-4:50p",
         "building": "CSB",
         "room": "003",
-        "instructor": "Yu, Angela J.",
         "instructors": [
           "Yu, Angela J."
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

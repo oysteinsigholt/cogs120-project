@@ -3,56 +3,9 @@
   "name": "Intro/Transprt in Porous Media",
   "department": "MAE",
   "id": "123",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922834",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "3:00p-3:50p",
-      "building": "PCYNH",
-      "room": "122",
-      "instructor": "Kleissl, Jan",
-      "instructors": [
-        "Kleissl, Jan"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "F",
-      "time": "6:00p-6:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -61,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "9bb24579b210f3d21afd6034a161390a6f5daad2115524b5b1ee1dd46a801bfa": {
         "sectxt": true,
         "sectionID": "922834",
         "type": "LE",
@@ -80,17 +32,15 @@
         "time": "3:00p-3:50p",
         "building": "PCYNH",
         "room": "122",
-        "instructor": "Kleissl, Jan",
         "instructors": [
           "Kleissl, Jan"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "a29e8ea98bef1043fd882294a250ddb1bfd5fba19e34aba99eb61f99a262aa5b": {
         "sectxt": true,
         "sectionID": "922834",
         "type": "LE",
@@ -99,17 +49,15 @@
         "time": "3:00p-3:50p",
         "building": "PCYNH",
         "room": "122",
-        "instructor": "Kleissl, Jan",
         "instructors": [
           "Kleissl, Jan"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "cb536136e6b77bfc4898318c3148911831c738e468c788b0cae124672a75e7e5": {
         "sectxt": true,
         "sectionID": "922834",
         "type": "LE",
@@ -118,14 +66,13 @@
         "time": "3:00p-3:50p",
         "building": "PCYNH",
         "room": "122",
-        "instructor": "Kleissl, Jan",
         "instructors": [
           "Kleissl, Jan"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "e9b4007fe9be5e2008063cbbffe561330c3ef69f60b3c75a7f2cf30242339a3e": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -134,13 +81,13 @@
         "time": "6:00p-6:50p",
         "building": "CSB",
         "room": "002",
-        "instructor": "",
         "instructors": [],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

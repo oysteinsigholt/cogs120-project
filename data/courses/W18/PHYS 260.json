@@ -3,33 +3,12 @@
   "name": "Physics Colloquium",
   "department": "PHYS",
   "id": "260",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923823",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "3:45p-5:15p",
-      "building": "BSB",
-      "room": "1105",
-      "instructor": "Grinstein, Benjamin",
-      "instructors": [
-        "Grinstein, Benjamin"
-      ],
-      "start_time": "15:45",
-      "end_time": "17:15"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "e957cd0484a9ccda2ecc409fa8977b3592924fe08d8ddf8ad6e59aa6454b8a30": {
         "sectxt": true,
         "sectionID": "923823",
         "type": "SE",
@@ -38,16 +17,15 @@
         "time": "3:45p-5:15p",
         "building": "BSB",
         "room": "1105",
-        "instructor": "Grinstein, Benjamin",
         "instructors": [
           "Grinstein, Benjamin"
         ],
         "start_time": "15:45",
         "end_time": "17:15"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

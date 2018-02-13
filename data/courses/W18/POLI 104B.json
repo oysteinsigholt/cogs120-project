@@ -3,42 +3,9 @@
   "name": "Civil Liberties-Fundmntl Rghts",
   "department": "POLI",
   "id": "104B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925299",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "6:30p-7:50p",
-      "building": "CENTR",
-      "room": "113",
-      "instructor": "Smith, Glenn Chatmas",
-      "instructors": [
-        "Smith, Glenn Chatmas"
-      ],
-      "start_time": "18:30",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "83f667703ee5f41443699d3c685d2af7204f58e7d0026726650a8f5259ecf403": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "8216cd07c0c6fe0dc97c15a16e353404df17847853d676c01aac016096788130": {
         "sectxt": true,
         "sectionID": "925299",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "6:30p-7:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Smith, Glenn Chatmas",
         "instructors": [
           "Smith, Glenn Chatmas"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "ee654d5d5760dd76378aee346b376966fd182fe956409fbdd2d20cd679173b4e": {
         "sectxt": true,
         "sectionID": "925299",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "6:30p-7:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Smith, Glenn Chatmas",
         "instructors": [
           "Smith, Glenn Chatmas"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

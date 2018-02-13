@@ -3,47 +3,12 @@
   "name": "Fast Prototyping",
   "department": "ECE",
   "id": "115",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "2:00p-4:50p",
-      "building": "EBU1",
-      "room": "B538",
-      "instructor": "Das, Nikhil Ranjan",
-      "instructors": [
-        "Das, Nikhil Ranjan"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925046",
-      "type": "LA",
-      "section": "A01",
-      "days": "Th",
-      "time": "2:00p-4:50p",
-      "building": "EBU1",
-      "room": "B538",
-      "instructor": "Das, Nikhil Ranjan",
-      "instructors": [
-        "Das, Nikhil Ranjan"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "0545a60b429b61b4f6d295f1b6cc61c1f05c3596611a34fa1d637ea844d7c95c": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -52,17 +17,15 @@
         "time": "2:00p-4:50p",
         "building": "EBU1",
         "room": "B538",
-        "instructor": "Das, Nikhil Ranjan",
         "instructors": [
           "Das, Nikhil Ranjan"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "cdd8df5999d4416e1067cfef6ddf42d255ee18abbee647a8c208a7145da8266e": {
         "sectxt": true,
         "sectionID": "925046",
         "type": "LA",
@@ -71,16 +34,15 @@
         "time": "2:00p-4:50p",
         "building": "EBU1",
         "room": "B538",
-        "instructor": "Das, Nikhil Ranjan",
         "instructors": [
           "Das, Nikhil Ranjan"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

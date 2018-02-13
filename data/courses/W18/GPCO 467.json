@@ -3,32 +3,12 @@
   "name": "PolicyResponses/GlobalProblem",
   "department": "GPCO",
   "id": "467",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921735",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "6:30p-9:20p",
-      "building": "RBC",
-      "room": "3201",
-      "instructor": "Walter, Barbara Florence",
-      "instructors": [
-        "Walter, Barbara Florence"
-      ],
-      "start_time": "18:30",
-      "end_time": "21:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "385799b47aa505204bd12f41764b9dcc3ac453860792746f4f4d5fd50a44a7b8": {
         "sectxt": true,
         "sectionID": "921735",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "6:30p-9:20p",
         "building": "RBC",
         "room": "3201",
-        "instructor": "Walter, Barbara Florence",
         "instructors": [
           "Walter, Barbara Florence"
         ],
         "start_time": "18:30",
         "end_time": "21:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

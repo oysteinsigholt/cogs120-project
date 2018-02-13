@@ -3,42 +3,9 @@
   "name": "Creating a High-Perf Workplace",
   "department": "MGT",
   "id": "426",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930391",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "9:30a-12:30p",
-      "building": "OTRSN",
-      "room": "1E106",
-      "instructor": "Timmermann, Allan",
-      "instructors": [
-        "Timmermann, Allan"
-      ],
-      "start_time": "9:30",
-      "end_time": "12:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "9:30a-12:30p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "9:30",
-      "end_time": "12:30"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b7823758e2872ab89a8f7f5aafea9a69095b23503d8ad628d0b5530aa4d91905": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "9:30a-12:30p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "9:30",
       "end_time": "12:30"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "64fa36e9d06770aef1ef2ae47390e3ac1168faa6e22105fcd5525d464058a365": {
         "sectxt": true,
         "sectionID": "930391",
         "type": "LE",
@@ -66,19 +32,15 @@
         "time": "9:30a-12:30p",
         "building": "OTRSN",
         "room": "1E106",
-        "instructor": "Timmermann, Allan",
         "instructors": [
           "Timmermann, Allan"
         ],
         "start_time": "9:30",
         "end_time": "12:30"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

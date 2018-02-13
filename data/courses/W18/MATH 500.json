@@ -3,24 +3,8 @@
   "name": "Apprentice Teaching",
   "department": "MATH",
   "id": "500",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927392",
-      "type": "PR",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Verstraete, Jacques Allan",
-      "instructors": [
-        "Verstraete, Jacques Allan"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Verstraete, Jacques Allan",
       "instructors": [
         "Verstraete, Jacques Allan"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

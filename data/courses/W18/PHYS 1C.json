@@ -3,177 +3,9 @@
   "name": "Waves, Optics & Modern Physics",
   "department": "PHYS",
   "id": "1C",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923696",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "8:00a-8:50a",
-      "building": "YORK",
-      "room": "2622",
-      "instructor": "Kritsuk, Alexei",
-      "instructors": [
-        "Kritsuk, Alexei"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/16/2018",
-      "days": "Tu",
-      "time": "8:00p-9:50p",
-      "building": "YORK",
-      "room": "2622",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-16T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/22/2018",
-      "days": "M",
-      "time": "8:00p-9:50p",
-      "building": "SOLIS",
-      "room": "104",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-22T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/29/2018",
-      "days": "M",
-      "time": "8:00p-9:50p",
-      "building": "SOLIS",
-      "room": "104",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-29T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/05/2018",
-      "days": "M",
-      "time": "8:00p-9:50p",
-      "building": "SOLIS",
-      "room": "104",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-05T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/12/2018",
-      "days": "M",
-      "time": "8:00p-9:50p",
-      "building": "SOLIS",
-      "room": "104",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-12T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/20/2018",
-      "days": "Tu",
-      "time": "8:00p-9:50p",
-      "building": "YORK",
-      "room": "2622",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-20T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/26/2018",
-      "days": "M",
-      "time": "8:00p-9:50p",
-      "building": "SOLIS",
-      "room": "104",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-26T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/05/2018",
-      "days": "M",
-      "time": "8:00p-9:50p",
-      "building": "SOLIS",
-      "room": "104",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-05T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/12/2018",
-      "days": "M",
-      "time": "8:00p-9:50p",
-      "building": "SOLIS",
-      "room": "104",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-12T07:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "870014b996233e4537b7fbf021e3382d21607122b18f36dbcb449f374d4125d6": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -182,13 +14,12 @@
       "time": "8:00p-9:50p",
       "building": "YORK",
       "room": "2622",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-16T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "80087ad7c2ead1cbedfbce87a4f2f49fa94282a8566e44007303621631592f3c": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -197,13 +28,12 @@
       "time": "8:00p-9:50p",
       "building": "SOLIS",
       "room": "104",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-22T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "8508785c772d757ff053552a94b79e3e8a4bc3f13f70215c92f02a9577126e52": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -212,13 +42,12 @@
       "time": "8:00p-9:50p",
       "building": "SOLIS",
       "room": "104",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-29T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "5bfc737ccf53aa8c3f230d0c14f274455f60e21dedece46cba517b4676fb5ba6": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -227,13 +56,12 @@
       "time": "8:00p-9:50p",
       "building": "SOLIS",
       "room": "104",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-05T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "33e0a1631d324ed027d4764f066ce92e2b496cf6565daf3d79186ef3ee4e7bb4": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -242,13 +70,12 @@
       "time": "8:00p-9:50p",
       "building": "SOLIS",
       "room": "104",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-12T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "f5219dc07a30b7828c7b549bcd72edb1b28116234d9a68cd09ec5fa907a235af": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -257,13 +84,12 @@
       "time": "8:00p-9:50p",
       "building": "YORK",
       "room": "2622",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-20T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "e04fd53ab21674f1506ed1bb8817cd06a9a967dd8f77c2c4c4b5738820a7e7f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -272,13 +98,12 @@
       "time": "8:00p-9:50p",
       "building": "SOLIS",
       "room": "104",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-26T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "5dbd358e0966ab04fe0eaf7f99b584a4fdc1a7775d862c1f960f1831328bba6e": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -287,13 +112,12 @@
       "time": "8:00p-9:50p",
       "building": "SOLIS",
       "room": "104",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-05T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "a0638cbb46022f0a557ddf7cfc6d59f320688204767fe32e14dcd849c612461e": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -302,13 +126,12 @@
       "time": "8:00p-9:50p",
       "building": "SOLIS",
       "room": "104",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-12T07:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "99084e85dcbf5c5064e8677480f27cc1eb8ff5538061a54d6a1f44628193757c": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -317,17 +140,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "dc3fc5ffcc4486da3cc3ee286687c2bde6af8e8c26cf1027c7032090cda30b3d": {
         "sectxt": true,
         "sectionID": "923696",
         "type": "LE",
@@ -336,17 +158,15 @@
         "time": "8:00a-8:50a",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Kritsuk, Alexei",
         "instructors": [
           "Kritsuk, Alexei"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "03e5fda39e1455482c3defb2d0dee311066670c86c3112e69f52daf84ec941c1": {
         "sectxt": true,
         "sectionID": "923696",
         "type": "LE",
@@ -355,17 +175,15 @@
         "time": "8:00a-8:50a",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Kritsuk, Alexei",
         "instructors": [
           "Kritsuk, Alexei"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "3cc32ba7467133963b0f783e0d6661b334292eea6153b6ea522ada4f85887a00": {
         "sectxt": true,
         "sectionID": "923696",
         "type": "LE",
@@ -374,15 +192,15 @@
         "time": "8:00a-8:50a",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Kritsuk, Alexei",
         "instructors": [
           "Kritsuk, Alexei"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

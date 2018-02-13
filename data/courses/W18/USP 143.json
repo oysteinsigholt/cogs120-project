@@ -3,72 +3,9 @@
   "name": "The US Health Care System",
   "department": "USP",
   "id": "143",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922174",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "PCYNH",
-      "room": "106",
-      "instructor": "Lewis, Leslie R",
-      "instructors": [
-        "Lewis, Leslie R"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/07/2018",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "PCYNH",
-      "room": "122",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-07T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "03/14/2018",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "PCYNH",
-      "room": "122",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-14T07:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "66a702874e778ef52d7fb3e0bb1410b9326f291a75e1ab97e400b92d1a5699d2": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -77,13 +14,12 @@
       "time": "4:00p-4:50p",
       "building": "PCYNH",
       "room": "122",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-07T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "4b6819a74f225a2667298f0fcdb4864ae95b7be2c1e230a4bbd9d14e55c8648c": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -92,13 +28,12 @@
       "time": "4:00p-4:50p",
       "building": "PCYNH",
       "room": "122",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-14T07:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -107,18 +42,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "2a7fb9f962ba79ad4f149b77b2a52a5174019626004492a71fb726cb3ad1a549": {
         "sectxt": true,
         "sectionID": "922174",
         "type": "LE",
@@ -127,17 +60,15 @@
         "time": "9:30a-10:50a",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Lewis, Leslie R",
         "instructors": [
           "Lewis, Leslie R"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "4203664da468432196b372d34af7e24539f4b37d3f5e13c73baef2743cd0f1ae": {
         "sectxt": true,
         "sectionID": "922174",
         "type": "LE",
@@ -146,16 +77,15 @@
         "time": "9:30a-10:50a",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Lewis, Leslie R",
         "instructors": [
           "Lewis, Leslie R"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,27 +3,102 @@
   "name": "Independent Study/Undergrads",
   "department": "ECE",
   "id": "199",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "940069",
-      "type": "IN",
-      "section": "008",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Nguyen, Truong Quang",
-      "instructors": [
-        "Nguyen, Truong Quang"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "930581",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Lin, Bill"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "935523",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Vasconcelos, Nuno"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "935949",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Siegel, Paul H."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "936517",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Ng, Tse Nga"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939689",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Silberman, Jack"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939717",
+      "type": "IN",
+      "section": "006",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Abi Samra, Nicholas Camill"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939890",
+      "type": "IN",
+      "section": "007",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Rao, Bhaskar D."
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "940069",
       "type": "IN",
       "section": "008",
@@ -31,19 +106,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Nguyen, Truong Quang",
       "instructors": [
         "Nguyen, Truong Quang"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

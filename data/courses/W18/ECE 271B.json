@@ -3,42 +3,9 @@
   "name": "Statistical Learning II",
   "department": "ECE",
   "id": "271B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925176",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "CENTR",
-      "room": "212",
-      "instructor": "Vasconcelos, Manuela",
-      "instructors": [
-        "Vasconcelos, Manuela"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "c5e27f45259a97a3aefa27f9d987c784b3a468063e9b0e733e8cd2b37adbddb6": {
         "sectxt": true,
         "sectionID": "925176",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "12:30p-1:50p",
         "building": "CENTR",
         "room": "212",
-        "instructor": "Vasconcelos, Manuela",
         "instructors": [
           "Vasconcelos, Manuela"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "19f84d3065f9ee9be7f37fcdd0e4e5df05c4e1c87d2a374ac2e391d9d51392ae": {
         "sectxt": true,
         "sectionID": "925176",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "12:30p-1:50p",
         "building": "CENTR",
         "room": "212",
-        "instructor": "Vasconcelos, Manuela",
         "instructors": [
           "Vasconcelos, Manuela"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,32 +3,12 @@
   "name": "Freshman Seminar",
   "department": "TDGE",
   "id": "87",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920377",
-      "type": "SE",
-      "section": "B00",
-      "days": "W",
-      "time": "2:00p-3:50p",
-      "building": "GH",
-      "room": "320",
-      "instructor": "Rincon, Patricia A.",
-      "instructors": [
-        "Rincon, Patricia A."
-      ],
-      "start_time": "14:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "61719c6888035b3ff07b8f4ad001db60635be55118a4b346c1fcf696d1955d99": {
         "sectxt": true,
         "sectionID": "920377",
         "type": "SE",
@@ -37,17 +17,33 @@
         "time": "2:00p-3:50p",
         "building": "GH",
         "room": "320",
-        "instructor": "Rincon, Patricia A.",
         "instructors": [
           "Rincon, Patricia A."
         ],
         "start_time": "14:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "Th": {
+      "32cfc7842dd84400368c71a5d467fa474ebcc3cd44410f4f63de0ae7ea4a9df7": {
+        "sectxt": true,
+        "sectionID": "920376",
+        "type": "SE",
+        "section": "A00",
+        "days": "Th",
+        "time": "12:00p-1:50p",
+        "building": "GH",
+        "room": "102",
+        "instructors": [
+          "Guirguis, Mark C"
+        ],
+        "start_time": "12:00",
+        "end_time": "13:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

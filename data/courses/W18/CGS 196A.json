@@ -3,34 +3,66 @@
   "name": "CGS Honors Research",
   "department": "CGS",
   "id": "196A",
-  "timeslots": [
+  "notes": [],
+  "events_single": {},
+  "events_unknown": [
     {
       "sectxt": true,
-      "sectionID": "929082",
+      "sectionID": "922344",
       "type": "TU",
-      "section": "G00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
       "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
+        "Hankins, Joseph D."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922345",
+      "type": "TU",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hankins, Joseph D."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922346",
+      "type": "TU",
+      "section": "C00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Kaplan, Sara Clarke"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922347",
+      "type": "TU",
+      "section": "D00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Visweswaran, Kamala"
+      ]
     }
   ],
-  "notes": [],
-  "events_single": [],
-  "events_unknown": [],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": [
+    "E",
+    "F",
+    "G"
+  ]
 }

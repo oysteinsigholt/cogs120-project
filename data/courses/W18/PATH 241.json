@@ -3,50 +3,14 @@
   "name": "Ethics&Survivl Skills/Academia",
   "department": "PATH",
   "id": "241",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929321",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "9:00a-9:50a",
-      "building": "CSB",
-      "room": "180",
-      "instructor": "Kalichman, Michael W",
-      "instructors": [
-        "Kalichman, Michael W"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "SE",
-      "section": "A01",
-      "days": "W",
-      "time": "10:00a-11:50a",
-      "building": "CSB",
-      "room": "180",
-      "instructor": "Kalichman, Michael W",
-      "instructors": [
-        "Kalichman, Michael W"
-      ],
-      "start_time": "10:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [
     "Please also sign-up directly with the course instructor\n using the following registration link for the Ethics\n and Survival Skills course at:\n http://ethics.ucsd.edu/courses/registration"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "069ed5daedf8aaaa1009be6822a494a914eb467da1608cb992aec43f4137b1c3": {
         "sectxt": true,
         "sectionID": "929321",
         "type": "LE",
@@ -55,14 +19,13 @@
         "time": "9:00a-9:50a",
         "building": "CSB",
         "room": "180",
-        "instructor": "Kalichman, Michael W",
         "instructors": [
           "Kalichman, Michael W"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "00a2c95242c0031a0e4c8f5ca33d11dbca0c837b037f58ae2bbd9091bc6ce45b": {
         "sectxt": true,
         "sectionID": "",
         "type": "SE",
@@ -71,17 +34,15 @@
         "time": "10:00a-11:50a",
         "building": "CSB",
         "room": "180",
-        "instructor": "Kalichman, Michael W",
         "instructors": [
           "Kalichman, Michael W"
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

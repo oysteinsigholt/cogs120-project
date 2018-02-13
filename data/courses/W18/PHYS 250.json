@@ -3,32 +3,12 @@
   "name": "Condensed Matter Physics Sem",
   "department": "PHYS",
   "id": "250",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923816",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "MAYER",
-      "room": "4322",
-      "instructor": "Barreiro Guerrero, Julio",
-      "instructors": [
-        "Barreiro Guerrero, Julio"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "34ec51beba352283b73bb7ed4405b1d0678dd98bb3a0cd40a7ffa361de7151ac": {
         "sectxt": true,
         "sectionID": "923816",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "4:00p-4:50p",
         "building": "MAYER",
         "room": "4322",
-        "instructor": "Barreiro Guerrero, Julio",
         "instructors": [
           "Barreiro Guerrero, Julio"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

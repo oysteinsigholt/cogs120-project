@@ -3,206 +3,9 @@
   "name": "Marine Biology",
   "department": "SIOB",
   "id": "290",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922162",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "9:00a-10:50a",
-      "building": "HUBBS",
-      "room": "3300",
-      "instructor": "Holland, Nicholas D.",
-      "instructors": [
-        "Holland, Nicholas D."
-      ],
-      "start_time": "9:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "HUBBS",
-      "room": "3300",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/12/2018",
-      "days": "F",
-      "time": "3:00p-4:50p",
-      "building": "HUBBS",
-      "room": "3300",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-12T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/19/2018",
-      "days": "F",
-      "time": "3:00p-4:50p",
-      "building": "HUBBS",
-      "room": "3300",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-19T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/26/2018",
-      "days": "F",
-      "time": "3:00p-4:50p",
-      "building": "HUBBS",
-      "room": "3300",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-26T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/02/2018",
-      "days": "F",
-      "time": "3:00p-4:50p",
-      "building": "HUBBS",
-      "room": "3300",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-02T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/09/2018",
-      "days": "F",
-      "time": "3:00p-4:50p",
-      "building": "HUBBS",
-      "room": "3300",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-09T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/16/2018",
-      "days": "F",
-      "time": "3:00p-4:50p",
-      "building": "HUBBS",
-      "room": "3300",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-16T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/23/2018",
-      "days": "F",
-      "time": "3:00p-4:50p",
-      "building": "HUBBS",
-      "room": "3300",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-23T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/02/2018",
-      "days": "F",
-      "time": "3:00p-4:50p",
-      "building": "HUBBS",
-      "room": "3300",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-02T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/09/2018",
-      "days": "F",
-      "time": "3:00p-4:50p",
-      "building": "HUBBS",
-      "room": "3300",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-09T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/16/2018",
-      "days": "F",
-      "time": "3:00p-4:50p",
-      "building": "HUBBS",
-      "room": "3300",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-16T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5627380c7afeffd9e4d8b05ad2a2566a4ba81dfee85df84ed0460671f5ae33ec": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -211,13 +14,12 @@
       "time": "3:00p-4:50p",
       "building": "HUBBS",
       "room": "3300",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-12T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "16:50"
     },
-    {
+    "763892c11d167372276e3fabe3940a3d7b04c945c1b653fc2adf3c92502f148e": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -226,13 +28,12 @@
       "time": "3:00p-4:50p",
       "building": "HUBBS",
       "room": "3300",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-19T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "16:50"
     },
-    {
+    "d4385a26a24fcb82e2db47a861470001b3c2b5ff7ad87183226f6b2e4e082301": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -241,13 +42,12 @@
       "time": "3:00p-4:50p",
       "building": "HUBBS",
       "room": "3300",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-26T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "16:50"
     },
-    {
+    "58568027567ce95e314ebd27b1acc2159bc6b5409ce41a855ab3c6d4fbbf3255": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -256,13 +56,12 @@
       "time": "3:00p-4:50p",
       "building": "HUBBS",
       "room": "3300",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-02T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "16:50"
     },
-    {
+    "4fcc751641efcfc9dcc16a6bf9e2e1b78ea5e8f338d059af8899618de50da33d": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -271,13 +70,12 @@
       "time": "3:00p-4:50p",
       "building": "HUBBS",
       "room": "3300",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-09T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "16:50"
     },
-    {
+    "c87e4e8c07c33c9754a5c4f902f1691de50fbc383144d1329b979c2655a541d5": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -286,13 +84,12 @@
       "time": "3:00p-4:50p",
       "building": "HUBBS",
       "room": "3300",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-16T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "16:50"
     },
-    {
+    "31f0c0d9cf601302f3bc44909faeecde770e04f88f61aa5782ae070d99f03722": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -301,13 +98,12 @@
       "time": "3:00p-4:50p",
       "building": "HUBBS",
       "room": "3300",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-23T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "16:50"
     },
-    {
+    "1f7d6ffd09284e985f07b853c8ca0e53b22349cbd48a663b0d4d20dde1ef041a": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -316,13 +112,12 @@
       "time": "3:00p-4:50p",
       "building": "HUBBS",
       "room": "3300",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-02T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "16:50"
     },
-    {
+    "d7c3e8141997711a816176222f55891834d5f5884bca44aa85bea3f27e7596e4": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -331,13 +126,12 @@
       "time": "3:00p-4:50p",
       "building": "HUBBS",
       "room": "3300",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-09T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "16:50"
     },
-    {
+    "2c2e71e59f40e94ec9399b07e0e4eaf8b08468e3a2e72201203862494a745556": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -346,13 +140,12 @@
       "time": "3:00p-4:50p",
       "building": "HUBBS",
       "room": "3300",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-16T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "16:50"
     },
-    {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -361,19 +154,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "da2452394c61b9ec7d9d696e84ded9186c622b3cc0f5a9200a3848ea5f8e3fb9": {
         "sectxt": true,
         "sectionID": "922162",
         "type": "LE",
@@ -382,17 +172,15 @@
         "time": "9:00a-10:50a",
         "building": "HUBBS",
         "room": "3300",
-        "instructor": "Holland, Nicholas D.",
         "instructors": [
           "Holland, Nicholas D."
         ],
         "start_time": "9:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "6721ec3568dcd8f8a49712a671b801dfee4ddaabbc63506c0e935ab456b7dffd": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -401,13 +189,13 @@
         "time": "2:00p-2:50p",
         "building": "HUBBS",
         "room": "3300",
-        "instructor": "",
         "instructors": [],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,30 +3,12 @@
   "name": "Top/Sem/Algrthms,Complxty&Logc",
   "department": "CSE",
   "id": "209A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927550",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "2:00p-3:30p",
-      "building": "EBU3B",
-      "room": "4258",
-      "instructor": "Paturi, Ramamohan",
-      "instructors": [
-        "Paturi, Ramamohan"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:30"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "df33a9af7c8bd731021e89b863b8dbdc12c8e6c281ba9c7cf80e63952e20aead": {
         "sectxt": true,
         "sectionID": "927550",
         "type": "LE",
@@ -35,19 +17,15 @@
         "time": "2:00p-3:30p",
         "building": "EBU3B",
         "room": "4258",
-        "instructor": "Paturi, Ramamohan",
         "instructors": [
           "Paturi, Ramamohan"
         ],
         "start_time": "14:00",
         "end_time": "15:30"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,38 +3,8 @@
   "name": "Pain Med Eval & Intervntnl Clk",
   "department": "ANES",
   "id": "402",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Polston, Gregory Robert",
-      "instructors": [
-        "Polston, Gregory Robert"
-      ]
-    },
-    {
-      "sectxt": true,
-      "sectionID": "928390",
-      "type": "CL",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Polston, Gregory Robert",
-      "instructors": [
-        "Polston, Gregory Robert"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -45,7 +15,6 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Polston, Gregory Robert",
       "instructors": [
         "Polston, Gregory Robert"
       ]
@@ -59,19 +28,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Polston, Gregory Robert",
       "instructors": [
         "Polston, Gregory Robert"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

@@ -3,90 +3,23 @@
   "name": "Introduction to Analysis II",
   "department": "MATH",
   "id": "142B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "PCYNH",
-      "room": "122",
-      "instructor": "Charlesworth, Ian L",
-      "instructors": [
-        "Charlesworth, Ian L"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927167",
-      "type": "DI",
-      "section": "B01",
-      "days": "Tu",
-      "time": "6:00p-6:50p",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Charlesworth, Ian L",
-      "instructors": [
-        "Charlesworth, Ian L"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927168",
-      "type": "DI",
-      "section": "B02",
-      "days": "Tu",
-      "time": "7:00p-7:50p",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Charlesworth, Ian L",
-      "instructors": [
-        "Charlesworth, Ian L"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927169",
-      "type": "DI",
-      "section": "B03",
-      "days": "Tu",
-      "time": "8:00p-8:50p",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Charlesworth, Ian L",
-      "instructors": [
-        "Charlesworth, Ian L"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -95,17 +28,61 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "40cdd3ea393878439ebaf5c767383214e7d7acfe333c98c416ae87493bc85dba": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "1330",
+        "instructors": [
+          "Dewey, Edward Harold"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "dea32b777989417fb7a02e5933a816678d94dab10ba51558d91376e1b677a54e": {
+        "sectxt": true,
+        "sectionID": "927163",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "5:00p-5:50p",
+        "building": "APM",
+        "room": "B412",
+        "instructors": [
+          "Dewey, Edward Harold"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "7c61787e8a5f26777824cc146062c12183ec0bc04449ac93baf46ed4ecc0dc94": {
+        "sectxt": true,
+        "sectionID": "927164",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "6:00p-6:50p",
+        "building": "APM",
+        "room": "B412",
+        "instructors": [
+          "Dewey, Edward Harold"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "adb6cbcbb012d123e8479169d1a765acb22b4e2b9328532b948d46e37a87ab2a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -114,16 +91,15 @@
         "time": "2:00p-2:50p",
         "building": "PCYNH",
         "room": "122",
-        "instructor": "Charlesworth, Ian L",
         "instructors": [
           "Charlesworth, Ian L"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "a7f0bda956578221b2b2e45d8cb7db1cba4a3ea4ff190f9930ff96b8371da974": {
         "sectxt": true,
         "sectionID": "927167",
         "type": "DI",
@@ -132,14 +108,13 @@
         "time": "6:00p-6:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Charlesworth, Ian L",
         "instructors": [
           "Charlesworth, Ian L"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "3f8ec6782dc9e7b91b280f69f4570c61d85c8ad58aab8d3216f360e9225f8d0f": {
         "sectxt": true,
         "sectionID": "927168",
         "type": "DI",
@@ -148,14 +123,13 @@
         "time": "7:00p-7:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Charlesworth, Ian L",
         "instructors": [
           "Charlesworth, Ian L"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "8cf0dd51c1d2c8677f62d3a9f4a19fdcb28baeaa2a3661b0775d75a361005d94": {
         "sectxt": true,
         "sectionID": "927169",
         "type": "DI",
@@ -164,16 +138,30 @@
         "time": "8:00p-8:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Charlesworth, Ian L",
         "instructors": [
           "Charlesworth, Ian L"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "9e7000e2f88be7b1f47b2ec9cdc4cadb0aac4f8df501aa444c431665ffa5d103": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "1330",
+        "instructors": [
+          "Dewey, Edward Harold"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "f8f7570f9e16215d811e11b96d05079a48607cd7f7c681d0f45b68db1cd236bf": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -182,17 +170,30 @@
         "time": "2:00p-2:50p",
         "building": "PCYNH",
         "room": "122",
-        "instructor": "Charlesworth, Ian L",
         "instructors": [
           "Charlesworth, Ian L"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "57d13ebef86c1f21d3cb4f95dd18b6de95918f2164de032cc92a04d5a99151c4": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "1330",
+        "instructors": [
+          "Dewey, Edward Harold"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "0034e6eab238179ba7c5fa5f987c9cff49c424c9a5defd0d8e49625a76a3da83": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -201,15 +202,16 @@
         "time": "2:00p-2:50p",
         "building": "PCYNH",
         "room": "122",
-        "instructor": "Charlesworth, Ian L",
         "instructors": [
           "Charlesworth, Ian L"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

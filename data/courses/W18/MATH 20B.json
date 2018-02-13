@@ -3,168 +3,9 @@
   "name": "Calculus/Science & Engineering",
   "department": "MATH",
   "id": "20B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "D00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "PCYNH",
-      "room": "109",
-      "instructor": "Strahl, Perry Robert",
-      "instructors": [
-        "Strahl, Perry Robert"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926965",
-      "type": "DI",
-      "section": "D01",
-      "days": "Th",
-      "time": "9:00a-9:50a",
-      "building": "HSS",
-      "room": "1128A",
-      "instructor": "Strahl, Perry Robert",
-      "instructors": [
-        "Strahl, Perry Robert"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926966",
-      "type": "DI",
-      "section": "D02",
-      "days": "Th",
-      "time": "4:00p-4:50p",
-      "building": "SOLIS",
-      "room": "111",
-      "instructor": "Strahl, Perry Robert",
-      "instructors": [
-        "Strahl, Perry Robert"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926967",
-      "type": "DI",
-      "section": "D03",
-      "days": "Th",
-      "time": "5:00p-5:50p",
-      "building": "SOLIS",
-      "room": "111",
-      "instructor": "Strahl, Perry Robert",
-      "instructors": [
-        "Strahl, Perry Robert"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926968",
-      "type": "DI",
-      "section": "D04",
-      "days": "Th",
-      "time": "6:00p-6:50p",
-      "building": "SOLIS",
-      "room": "111",
-      "instructor": "Strahl, Perry Robert",
-      "instructors": [
-        "Strahl, Perry Robert"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926969",
-      "type": "DI",
-      "section": "D05",
-      "days": "Th",
-      "time": "7:00p-7:50p",
-      "building": "SOLIS",
-      "room": "111",
-      "instructor": "Strahl, Perry Robert",
-      "instructors": [
-        "Strahl, Perry Robert"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926970",
-      "type": "DI",
-      "section": "D06",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "01/30/2018",
-      "days": "Tu",
-      "time": "8:00p-9:20p",
-      "building": "PETER",
-      "room": "110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-30T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "02/27/2018",
-      "days": "Tu",
-      "time": "8:00p-9:20p",
-      "building": "PETER",
-      "room": "110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-27T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/17/2018",
-      "days": "S",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-17T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "11df6c2713e3a4dbaf1ce7b830a5346f71ec7217a182c84018c2bae627674066": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -173,13 +14,12 @@
       "time": "8:00p-9:20p",
       "building": "PETER",
       "room": "110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-30T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:20"
     },
-    {
+    "770ab72c499339a9fa1814805af8706365ddb4d70b71f23d992451ce315fcc19": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -188,13 +28,12 @@
       "time": "8:00p-9:20p",
       "building": "PETER",
       "room": "110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-27T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:20"
     },
-    {
+    "1f41d219eea3fb14a870fb9f3a13485fa4ab97edffa53bebd2d2ffbcadf4db61": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -203,17 +42,61 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-17T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "8f5cd86a955748c71ed3b0524caeeb63a50a0e72fd21fc5f08d1756339b04ec5": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "PCYNH",
+        "room": "109",
+        "instructors": [
+          "Curry, Sean N"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "72ac370e0955fe955311014007158cbda925595ae1c9e7b223e5a659fa5e61e4": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2005",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "948ee0ed02bc4477cc3c3acc5f32f53ea902f22d59ff0888b47932d052cfb53e": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "PCYNH",
+        "room": "106",
+        "instructors": [
+          "Petkov, Vladislav V"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "22b3af52867a82a49c3cbea7ce202351dc4034771394a58c3f81d81ac74e780a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -222,17 +105,60 @@
         "time": "2:00p-2:50p",
         "building": "PCYNH",
         "room": "109",
-        "instructor": "Strahl, Perry Robert",
         "instructors": [
           "Strahl, Perry Robert"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "74ea09cb3d01daba039901e3d18030194c0ce47fc0bd239b573a61ed455612f9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "PCYNH",
+        "room": "109",
+        "instructors": [
+          "Curry, Sean N"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "733b13bd9eacee06cd2c519cc2f59f0e259009f4d0a45d9d8362542b9cdd6c1b": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2005",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "1e86b7b114dfc35a6e2266026dd965e113e84738c71ae055d03c42b1ce71cb3b": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "PCYNH",
+        "room": "106",
+        "instructors": [
+          "Petkov, Vladislav V"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "156daf706e13e1e2353d0680882f76131ec9eeef9e8d5c3c19583a8730de9ff4": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -241,16 +167,285 @@
         "time": "2:00p-2:50p",
         "building": "PCYNH",
         "room": "109",
-        "instructor": "Strahl, Perry Robert",
         "instructors": [
           "Strahl, Perry Robert"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "64bd82af8550046d1888c126cfa196564223e7f165a21e3f3f579d3767638c95": {
+        "sectxt": true,
+        "sectionID": "926940",
+        "type": "DI",
+        "section": "A01",
+        "days": "Th",
+        "time": "4:00p-4:50p",
+        "building": "SOLIS",
+        "room": "109",
+        "instructors": [
+          "Curry, Sean N"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "40ae329a3add40e2917142cba5c59dae5e7536a82bee958e952eb7d1e5f6558b": {
+        "sectxt": true,
+        "sectionID": "926941",
+        "type": "DI",
+        "section": "A02",
+        "days": "Th",
+        "time": "5:00p-5:50p",
+        "building": "SOLIS",
+        "room": "109",
+        "instructors": [
+          "Curry, Sean N"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "79e3ed3361629cbc00d89019e018a9e1079d1a167992febb1cebf6aafadeedea": {
+        "sectxt": true,
+        "sectionID": "926942",
+        "type": "DI",
+        "section": "A03",
+        "days": "Th",
+        "time": "6:00p-6:50p",
+        "building": "SOLIS",
+        "room": "109",
+        "instructors": [
+          "Curry, Sean N"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "68ca69fdbcd052efdc5eb426197001c9015827d7ba4221574434f58651f1ac9d": {
+        "sectxt": true,
+        "sectionID": "926943",
+        "type": "DI",
+        "section": "A04",
+        "days": "Th",
+        "time": "7:00p-7:50p",
+        "building": "SOLIS",
+        "room": "109",
+        "instructors": [
+          "Curry, Sean N"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "8af95d4252e62114ba5db6768b33ab3c59691b99fe0990f12c547de672cce539": {
+        "sectxt": true,
+        "sectionID": "926944",
+        "type": "DI",
+        "section": "A05",
+        "days": "Th",
+        "time": "8:00p-8:50p",
+        "building": "SOLIS",
+        "room": "109",
+        "instructors": [
+          "Curry, Sean N"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "e58f5da323aee8de9ad49267367ba48bd5274ad56178d26377c6ef2d884c39f1": {
+        "sectxt": true,
+        "sectionID": "926945",
+        "type": "DI",
+        "section": "A06",
+        "days": "Th",
+        "time": "9:00p-9:50p",
+        "building": "SOLIS",
+        "room": "109",
+        "instructors": [
+          "Curry, Sean N"
+        ],
+        "start_time": "21:00",
+        "end_time": "21:50"
+      },
+      "1e0464a5074f29368bdefd137d6af1ac58e99dd473c53d3e796285ba74a6d4d4": {
+        "sectxt": true,
+        "sectionID": "926947",
+        "type": "DI",
+        "section": "B01",
+        "days": "Th",
+        "time": "8:00a-8:50a",
+        "building": "SOLIS",
+        "room": "109",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "69cad4457a8dbdc87c71eef0a01e274aa9cd6622e5412ff3e6be6477723b1879": {
+        "sectxt": true,
+        "sectionID": "926948",
+        "type": "DI",
+        "section": "B02",
+        "days": "Th",
+        "time": "9:00a-9:50a",
+        "building": "SOLIS",
+        "room": "109",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "488a98fcad8229f02245b0abadaccb5663f568b173eab886c2ef1b195dcd94ee": {
+        "sectxt": true,
+        "sectionID": "926949",
+        "type": "DI",
+        "section": "B03",
+        "days": "Th",
+        "time": "10:00a-10:50a",
+        "building": "SOLIS",
+        "room": "109",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "eca8982e00247dd1e08e8ebc331fb69825f051b04225eb248f2f8a5ce39a6412": {
+        "sectxt": true,
+        "sectionID": "926950",
+        "type": "DI",
+        "section": "B04",
+        "days": "Th",
+        "time": "11:00a-11:50a",
+        "building": "SOLIS",
+        "room": "111",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "7618a61344c8d7b3b776d15e3134134ed1d455dcccfa20747243b77aa65d22d3": {
+        "sectxt": true,
+        "sectionID": "926951",
+        "type": "DI",
+        "section": "B05",
+        "days": "Th",
+        "time": "12:00p-12:50p",
+        "building": "SOLIS",
+        "room": "111",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "2308d3985be2ee4fa7799f2b45ebdfb2921e721865834bdfbb52c55ec2633864": {
+        "sectxt": true,
+        "sectionID": "926952",
+        "type": "DI",
+        "section": "B06",
+        "days": "Th",
+        "time": "1:00p-1:50p",
+        "building": "SOLIS",
+        "room": "111",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "3ec8136df247f868eba9a3a80adb81dc71883f0d50f5bb3513ccc8ff20f5da92": {
+        "sectxt": true,
+        "sectionID": "926958",
+        "type": "DI",
+        "section": "C01",
+        "days": "Th",
+        "time": "2:00p-2:50p",
+        "building": "SOLIS",
+        "room": "111",
+        "instructors": [
+          "Petkov, Vladislav V"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "43f24af62ce38eccb83e701ba0c83c5cf0cc3533f27b4d126be4a7ce51848d5b": {
+        "sectxt": true,
+        "sectionID": "926959",
+        "type": "DI",
+        "section": "C02",
+        "days": "Th",
+        "time": "3:00p-3:50p",
+        "building": "SOLIS",
+        "room": "111",
+        "instructors": [
+          "Petkov, Vladislav V"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "20a5d5902de0c677dab9ddee4fc039277d3c9334f609e9286458106a69492fcb": {
+        "sectxt": true,
+        "sectionID": "926960",
+        "type": "DI",
+        "section": "C03",
+        "days": "Th",
+        "time": "6:00p-6:50p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Petkov, Vladislav V"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "66c20c2c4b45f88077dcc12f4d6b3b51ab415bd48df46413e9c0f6917a2813a7": {
+        "sectxt": true,
+        "sectionID": "926961",
+        "type": "DI",
+        "section": "C04",
+        "days": "Th",
+        "time": "7:00p-7:50p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Petkov, Vladislav V"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "5632ad1911678ad2e824dbcf2cf3b50300101339b92485585f036b4aefe7e378": {
+        "sectxt": true,
+        "sectionID": "926962",
+        "type": "DI",
+        "section": "C05",
+        "days": "Th",
+        "time": "8:00p-8:50p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Petkov, Vladislav V"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "9b520e20d8163012268a0bbd378d3c38844b439cf8428ea0edc5c53c216eab63": {
+        "sectxt": true,
+        "sectionID": "926963",
+        "type": "DI",
+        "section": "C06",
+        "days": "Th",
+        "time": "9:00p-9:50p",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Petkov, Vladislav V"
+        ],
+        "start_time": "21:00",
+        "end_time": "21:50"
+      },
+      "b7726225ef4cd91d1babf9e1299ef2102cb2a554d54ee48cff4a44bca953594b": {
         "sectxt": true,
         "sectionID": "926965",
         "type": "DI",
@@ -259,14 +454,13 @@
         "time": "9:00a-9:50a",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Strahl, Perry Robert",
         "instructors": [
           "Strahl, Perry Robert"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "4132d075939f4ffcc97150cbf4b1109dbaae085271e606921751529bcf9ec707": {
         "sectxt": true,
         "sectionID": "926966",
         "type": "DI",
@@ -275,14 +469,13 @@
         "time": "4:00p-4:50p",
         "building": "SOLIS",
         "room": "111",
-        "instructor": "Strahl, Perry Robert",
         "instructors": [
           "Strahl, Perry Robert"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "f06dc11f53ce5534459182ce269093f4fc3fd0b4977677098faa94d1aa4dbecc": {
         "sectxt": true,
         "sectionID": "926967",
         "type": "DI",
@@ -291,14 +484,13 @@
         "time": "5:00p-5:50p",
         "building": "SOLIS",
         "room": "111",
-        "instructor": "Strahl, Perry Robert",
         "instructors": [
           "Strahl, Perry Robert"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "a0bbb76c71b22a34524c47b0f29d6461e45752145b51e627e93c81157c182e18": {
         "sectxt": true,
         "sectionID": "926968",
         "type": "DI",
@@ -307,14 +499,13 @@
         "time": "6:00p-6:50p",
         "building": "SOLIS",
         "room": "111",
-        "instructor": "Strahl, Perry Robert",
         "instructors": [
           "Strahl, Perry Robert"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "f7d9af67b2be4a69caeb8398b7e89425f821c62fed6bd20ee9ae9ebc98aaec36": {
         "sectxt": true,
         "sectionID": "926969",
         "type": "DI",
@@ -323,16 +514,60 @@
         "time": "7:00p-7:50p",
         "building": "SOLIS",
         "room": "111",
-        "instructor": "Strahl, Perry Robert",
         "instructors": [
           "Strahl, Perry Robert"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "cb478914a4ec4bc4c62867dba462dc925b2849711db7c7bb7d18cd0442892921": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "PCYNH",
+        "room": "109",
+        "instructors": [
+          "Curry, Sean N"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "41ac43cb18b3624692cf807f4a1e4a48c6dd9d84387b3e1773af7a3cfa484e8f": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2005",
+        "instructors": [
+          "Eggers, John Dietrich"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "6e712ae3cfec69e3e7dca78ce4afe43cbb265162cb01d9ad3ae49185d3bebc14": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "PCYNH",
+        "room": "106",
+        "instructors": [
+          "Petkov, Vladislav V"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "8a7459828a0e6291b6129227a95b9802d9d20e6299cf3d7baf65c1d552834f6b": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -341,15 +576,18 @@
         "time": "2:00p-2:50p",
         "building": "PCYNH",
         "room": "109",
-        "instructor": "Strahl, Perry Robert",
         "instructors": [
           "Strahl, Perry Robert"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
 }

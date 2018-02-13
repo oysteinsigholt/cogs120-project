@@ -3,79 +3,12 @@
   "name": "Mathematical&Computatnl Phy II",
   "department": "PHYS",
   "id": "105B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "8:00a-9:20a",
-      "building": "WLH",
-      "room": "2204",
-      "instructor": "Dubin, Daniel Herschel",
-      "instructors": [
-        "Dubin, Daniel Herschel"
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923759",
-      "type": "LA",
-      "section": "A01",
-      "days": "Th",
-      "time": "5:00p-7:50p",
-      "building": "MYR-A",
-      "room": "4623",
-      "instructor": "Dubin, Daniel Herschel",
-      "instructors": [
-        "Dubin, Daniel Herschel"
-      ],
-      "start_time": "17:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923760",
-      "type": "LA",
-      "section": "A02",
-      "days": "Th",
-      "time": "5:00p-7:50p",
-      "building": "MYR-A",
-      "room": "4702",
-      "instructor": "Dubin, Daniel Herschel",
-      "instructors": [
-        "Dubin, Daniel Herschel"
-      ],
-      "start_time": "17:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930609",
-      "type": "LA",
-      "section": "A03",
-      "days": "F",
-      "time": "10:00a-12:50p",
-      "building": "MYR-A",
-      "room": "4623",
-      "instructor": "Dubin, Daniel Herschel",
-      "instructors": [
-        "Dubin, Daniel Herschel"
-      ],
-      "start_time": "10:00",
-      "end_time": "12:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "e465ded450a51855ecac87097b7a25f20ad1b32d4d66efd5a69c690a29911893": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -84,17 +17,15 @@
         "time": "8:00a-9:20a",
         "building": "WLH",
         "room": "2204",
-        "instructor": "Dubin, Daniel Herschel",
         "instructors": [
           "Dubin, Daniel Herschel"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8545ab0c79c23ec92792f48a8a4e9c983955e31d9ddad421339a098929d3ab17": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -103,14 +34,13 @@
         "time": "8:00a-9:20a",
         "building": "WLH",
         "room": "2204",
-        "instructor": "Dubin, Daniel Herschel",
         "instructors": [
           "Dubin, Daniel Herschel"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       },
-      {
+      "02a93f0f18f79d423729d7529f9540ec0c6c602d18d1c7406572cf21bcb9dade": {
         "sectxt": true,
         "sectionID": "923759",
         "type": "LA",
@@ -119,14 +49,13 @@
         "time": "5:00p-7:50p",
         "building": "MYR-A",
         "room": "4623",
-        "instructor": "Dubin, Daniel Herschel",
         "instructors": [
           "Dubin, Daniel Herschel"
         ],
         "start_time": "17:00",
         "end_time": "19:50"
       },
-      {
+      "d791c0e3752f471d9147b11a4ea97c170be5c866a33d5ec113ba9ad67682c278": {
         "sectxt": true,
         "sectionID": "923760",
         "type": "LA",
@@ -135,16 +64,15 @@
         "time": "5:00p-7:50p",
         "building": "MYR-A",
         "room": "4702",
-        "instructor": "Dubin, Daniel Herschel",
         "instructors": [
           "Dubin, Daniel Herschel"
         ],
         "start_time": "17:00",
         "end_time": "19:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "3f82807ff407670e062d631a77d77ea270810f38d1976349b9c574508723ea36": {
         "sectxt": true,
         "sectionID": "930609",
         "type": "LA",
@@ -153,15 +81,15 @@
         "time": "10:00a-12:50p",
         "building": "MYR-A",
         "room": "4623",
-        "instructor": "Dubin, Daniel Herschel",
         "instructors": [
           "Dubin, Daniel Herschel"
         ],
         "start_time": "10:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

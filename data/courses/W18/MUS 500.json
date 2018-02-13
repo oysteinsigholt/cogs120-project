@@ -3,34 +3,220 @@
   "name": "Apprentice Teaching",
   "department": "MUS",
   "id": "500",
-  "timeslots": [
+  "notes": [],
+  "events_single": {},
+  "events_unknown": [
     {
       "sectxt": true,
-      "sectionID": "921905",
+      "sectionID": "921895",
       "type": "IN",
-      "section": "021",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
+      "section": "011",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
       "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
+        "Hochman, Joshua David"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921896",
+      "type": "IN",
+      "section": "012",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Rubio, Juan David"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921897",
+      "type": "IN",
+      "section": "013",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Nestor, Ryan Douglas"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921898",
+      "type": "IN",
+      "section": "014",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Digney, Fiona Ruth"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921899",
+      "type": "IN",
+      "section": "015",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Nordeson, Kjell Gunnar"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921900",
+      "type": "IN",
+      "section": "016",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Ohnishi, Takae"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921885",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Puckette, Miller S."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921886",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Guy, Nancy"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921887",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Carlson, Erik Norman"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921888",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Erbe, Tom"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921889",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Stevens, Jane"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921890",
+      "type": "IN",
+      "section": "006",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Cimini, Amy Marie"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921891",
+      "type": "IN",
+      "section": "007",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Karis, Aleck"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921892",
+      "type": "IN",
+      "section": "008",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Moellenberg, Todd Michael"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921893",
+      "type": "IN",
+      "section": "009",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Thorpe, Suzanne"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "921894",
+      "type": "IN",
+      "section": "010",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Charney, Joshua Jamsheed"
+      ]
     }
   ],
-  "notes": [],
-  "events_single": [],
-  "events_unknown": [],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": [
+    "0"
+  ]
 }

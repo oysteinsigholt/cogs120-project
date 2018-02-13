@@ -3,202 +3,23 @@
   "name": "Race and Racisms",
   "department": "ANTH",
   "id": "21",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "12:00p-12:50p",
-      "building": "SOLIS",
-      "room": "107",
-      "instructor": "Duzel, Esin",
-      "instructors": [
-        "Duzel, Esin"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "928211",
-      "type": "DI",
-      "section": "B01",
-      "days": "M",
-      "time": "1:00p-1:50p",
-      "building": "SOLIS",
-      "room": "111",
-      "instructor": "Duzel, Esin",
-      "instructors": [
-        "Duzel, Esin"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "928212",
-      "type": "DI",
-      "section": "B02",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "SOLIS",
-      "room": "111",
-      "instructor": "Duzel, Esin",
-      "instructors": [
-        "Duzel, Esin"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "928213",
-      "type": "DI",
-      "section": "B03",
-      "days": "W",
-      "time": "1:00p-1:50p",
-      "building": "SOLIS",
-      "room": "111",
-      "instructor": "Duzel, Esin",
-      "instructors": [
-        "Duzel, Esin"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "928214",
-      "type": "DI",
-      "section": "B04",
-      "days": "W",
-      "time": "2:00p-2:50p",
-      "building": "SOLIS",
-      "room": "111",
-      "instructor": "Duzel, Esin",
-      "instructors": [
-        "Duzel, Esin"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "928215",
-      "type": "DI",
-      "section": "B05",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "SOLIS",
-      "room": "111",
-      "instructor": "Duzel, Esin",
-      "instructors": [
-        "Duzel, Esin"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "928216",
-      "type": "DI",
-      "section": "B06",
-      "days": "F",
-      "time": "1:00p-1:50p",
-      "building": "SOLIS",
-      "room": "111",
-      "instructor": "Duzel, Esin",
-      "instructors": [
-        "Duzel, Esin"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "928217",
-      "type": "DI",
-      "section": "B07",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "SOLIS",
-      "room": "109",
-      "instructor": "Duzel, Esin",
-      "instructors": [
-        "Duzel, Esin"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "928218",
-      "type": "DI",
-      "section": "B08",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "SOLIS",
-      "room": "109",
-      "instructor": "Duzel, Esin",
-      "instructors": [
-        "Duzel, Esin"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930515",
-      "type": "DI",
-      "section": "B09",
-      "days": "F",
-      "time": "8:00a-8:50a",
-      "building": "WLH",
-      "room": "2110",
-      "instructor": "Duzel, Esin",
-      "instructors": [
-        "Duzel, Esin"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930516",
-      "type": "DI",
-      "section": "B10",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "WLH",
-      "room": "2110",
-      "instructor": "Duzel, Esin",
-      "instructors": [
-        "Duzel, Esin"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b9b4ec5af540606b238988bee0286fc3a4cc4d540b7785beb08dccae4a0227c9": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -207,17 +28,31 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "827d8e61b0be564cefe3242e8ded91bf3b54cd405249ba4e71bd8ae53b45dd4d": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "105",
+        "instructors": [
+          "Olivas Hernandez, Olga Lid"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "74565c9c0c61347b8ce87f2733cf6296cab8cdd2ce1e890300a60cf208986781": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -226,14 +61,13 @@
         "time": "12:00p-12:50p",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Duzel, Esin",
         "instructors": [
           "Duzel, Esin"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "d96f28c752a1e92873a0b00156661b8cacf7af19c921f784df4cdc64a38958d6": {
         "sectxt": true,
         "sectionID": "928211",
         "type": "DI",
@@ -242,14 +76,13 @@
         "time": "1:00p-1:50p",
         "building": "SOLIS",
         "room": "111",
-        "instructor": "Duzel, Esin",
         "instructors": [
           "Duzel, Esin"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "ea3e2e87429d2c85bc06354a8c84a6349a3ea7213beb31a8cd73d3254df097d4": {
         "sectxt": true,
         "sectionID": "928212",
         "type": "DI",
@@ -258,17 +91,60 @@
         "time": "2:00p-2:50p",
         "building": "SOLIS",
         "room": "111",
-        "instructor": "Duzel, Esin",
         "instructors": [
           "Duzel, Esin"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "77e4ef4f5c961a7ec147a3ff6cc6346072c465cf4d729938bdc40fc2c3b04f3d": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "105",
+        "instructors": [
+          "Olivas Hernandez, Olga Lid"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "bab7c0292ab9000ed637cebe6205d83e403de4c9d8658d9f48872ab6cfdea264": {
+        "sectxt": true,
+        "sectionID": "923514",
+        "type": "DI",
+        "section": "A01",
+        "days": "W",
+        "time": "11:00a-11:50a",
+        "building": "MANDE",
+        "room": "B-104",
+        "instructors": [
+          "Olivas Hernandez, Olga Lid"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "dbfccd8b6a8c235a3603db59f510d0223b1d3d764830b83d8bdcba4a63bec138": {
+        "sectxt": true,
+        "sectionID": "923515",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "2:00p-2:50p",
+        "building": "SOLIS",
+        "room": "109",
+        "instructors": [
+          "Olivas Hernandez, Olga Lid"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "ebd22827eabb3c1aa0b64c9aa6890f1e205e2a2026f9d1f61d888797ef761329": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -277,14 +153,13 @@
         "time": "12:00p-12:50p",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Duzel, Esin",
         "instructors": [
           "Duzel, Esin"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "1c34c5ca4e838a9cfb6bae9edb75ed63305a0209f97cdf4a56beaefe690d89e1": {
         "sectxt": true,
         "sectionID": "928213",
         "type": "DI",
@@ -293,14 +168,13 @@
         "time": "1:00p-1:50p",
         "building": "SOLIS",
         "room": "111",
-        "instructor": "Duzel, Esin",
         "instructors": [
           "Duzel, Esin"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "b4f8e9a6fa78d7a7992e3988f34689c057295ba15e7a62ca4a6ddd6c77bbf875": {
         "sectxt": true,
         "sectionID": "928214",
         "type": "DI",
@@ -309,14 +183,13 @@
         "time": "2:00p-2:50p",
         "building": "SOLIS",
         "room": "111",
-        "instructor": "Duzel, Esin",
         "instructors": [
           "Duzel, Esin"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "ec083f47a617f42a7d1efad46d095faf387f82655f6778d9c6fb89d6d517770e": {
         "sectxt": true,
         "sectionID": "928215",
         "type": "DI",
@@ -325,17 +198,75 @@
         "time": "3:00p-3:50p",
         "building": "SOLIS",
         "room": "111",
-        "instructor": "Duzel, Esin",
         "instructors": [
           "Duzel, Esin"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "8d2cf69a2f10e29d11598efd4f3a13b2565737a4fa81d866a0dc0a402488cda1": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "105",
+        "instructors": [
+          "Olivas Hernandez, Olga Lid"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "43f15d706bb68cdad928913570bb7b0b79d0420bae49a82c1e877dff8989623b": {
+        "sectxt": true,
+        "sectionID": "923516",
+        "type": "DI",
+        "section": "A03",
+        "days": "F",
+        "time": "11:00a-11:50a",
+        "building": "MANDE",
+        "room": "B-104",
+        "instructors": [
+          "Olivas Hernandez, Olga Lid"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "2a3dcbdf9dbd62475da4606d2d5359f4eacb46941a6aa1f684a9cc8d01681efe": {
+        "sectxt": true,
+        "sectionID": "923517",
+        "type": "DI",
+        "section": "A04",
+        "days": "F",
+        "time": "12:00p-12:50p",
+        "building": "MANDE",
+        "room": "B-104",
+        "instructors": [
+          "Olivas Hernandez, Olga Lid"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "a9e75f832a847a626630c274f0aba3b15f214d0bc89e51e98c017310e3d15bf3": {
+        "sectxt": true,
+        "sectionID": "930514",
+        "type": "DI",
+        "section": "A05",
+        "days": "F",
+        "time": "9:00a-9:50a",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [
+          "Olivas Hernandez, Olga Lid"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "5b30d671bc5bbbd5286698c208fc12ffd5f70ca2538f842c45069a45ccd43990": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -344,14 +275,13 @@
         "time": "12:00p-12:50p",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Duzel, Esin",
         "instructors": [
           "Duzel, Esin"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "9d805ce727119e6a3e7dd104aff81f02fb7f2ec669dab03ce6a03e5bb106fdf1": {
         "sectxt": true,
         "sectionID": "928216",
         "type": "DI",
@@ -360,14 +290,13 @@
         "time": "1:00p-1:50p",
         "building": "SOLIS",
         "room": "111",
-        "instructor": "Duzel, Esin",
         "instructors": [
           "Duzel, Esin"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "18545b87da49bf9dd6283aa36da01610e7f25304e6878b24b808f2c97a43f92a": {
         "sectxt": true,
         "sectionID": "928217",
         "type": "DI",
@@ -376,14 +305,13 @@
         "time": "2:00p-2:50p",
         "building": "SOLIS",
         "room": "109",
-        "instructor": "Duzel, Esin",
         "instructors": [
           "Duzel, Esin"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "0b4b1a4c7f213a12664bc3719daa26d6b490a073c9b93d307b66c1cf5daa2ab9": {
         "sectxt": true,
         "sectionID": "928218",
         "type": "DI",
@@ -392,14 +320,13 @@
         "time": "3:00p-3:50p",
         "building": "SOLIS",
         "room": "109",
-        "instructor": "Duzel, Esin",
         "instructors": [
           "Duzel, Esin"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "58c2f00c22880894798601e40ca28623c0f99aaf71398f197f1d3feb21f3d09d": {
         "sectxt": true,
         "sectionID": "930515",
         "type": "DI",
@@ -408,14 +335,13 @@
         "time": "8:00a-8:50a",
         "building": "WLH",
         "room": "2110",
-        "instructor": "Duzel, Esin",
         "instructors": [
           "Duzel, Esin"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "3fc9ce236d638e0451a1d3bbad835966fa1b324a147d7d74849107c25614a556": {
         "sectxt": true,
         "sectionID": "930516",
         "type": "DI",
@@ -424,15 +350,16 @@
         "time": "9:00a-9:50a",
         "building": "WLH",
         "room": "2110",
-        "instructor": "Duzel, Esin",
         "instructors": [
           "Duzel, Esin"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

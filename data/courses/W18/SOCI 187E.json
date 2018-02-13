@@ -3,42 +3,9 @@
   "name": "Social Movements",
   "department": "SOCI",
   "id": "187E",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923208",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "12:00p-12:50p",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Goldman, Harvey Stern",
-      "instructors": [
-        "Goldman, Harvey Stern"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "520c46f20fe35a5ee224aa636b685fea95737b1f8ebbce77348d89013878ef77": {
         "sectxt": true,
         "sectionID": "923208",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "12:00p-12:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Goldman, Harvey Stern",
         "instructors": [
           "Goldman, Harvey Stern"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "b977600c0874f9c0f04a80ec3eba9103b06918f355823bb1cb0689a3bf187a90": {
         "sectxt": true,
         "sectionID": "923208",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "12:00p-12:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Goldman, Harvey Stern",
         "instructors": [
           "Goldman, Harvey Stern"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "c64f488c28e3133c52d9cb828b86655fde5de5afe0bfd7fe246a9805bbc1f5e9": {
         "sectxt": true,
         "sectionID": "923208",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "12:00p-12:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Goldman, Harvey Stern",
         "instructors": [
           "Goldman, Harvey Stern"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

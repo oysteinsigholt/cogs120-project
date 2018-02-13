@@ -3,33 +3,12 @@
   "name": "Seminar/Math of Bio Systems",
   "department": "MATH",
   "id": "218",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929914",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "2:00p-2:50p",
-      "building": "APM",
-      "room": "5829",
-      "instructor": "Li, Bo",
-      "instructors": [
-        "Li, Bo"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "2e010d91ffd362a5ab860cfeb2ce4eaa30648460b31b6038bcc15c89d3456653": {
         "sectxt": true,
         "sectionID": "929914",
         "type": "SE",
@@ -38,16 +17,15 @@
         "time": "2:00p-2:50p",
         "building": "APM",
         "room": "5829",
-        "instructor": "Li, Bo",
         "instructors": [
           "Li, Bo"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

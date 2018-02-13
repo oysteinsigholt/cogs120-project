@@ -3,24 +3,8 @@
   "name": "Special Study in Chemistry",
   "department": "CHEM",
   "id": "298",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "931814",
-      "type": "IN",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Toor, Navtej",
-      "instructors": [
-        "Toor, Navtej"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,50 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Toor, Navtej",
       "instructors": [
         "Toor, Navtej"
       ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "932655",
+      "type": "IN",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Schmidt, Valerie A"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "932871",
+      "type": "IN",
+      "section": "C00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Yang, Jerry"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "936528",
+      "type": "IN",
+      "section": "D00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Continetti, Robert E."
+      ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

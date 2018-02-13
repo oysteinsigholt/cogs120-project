@@ -3,42 +3,9 @@
   "name": "Atmospheric & Climate Sci II",
   "department": "SIOC",
   "id": "217B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930323",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "SPIES",
-      "room": "330",
-      "instructor": "Eisenman, Ian",
-      "instructors": [
-        "Eisenman, Ian"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "d8c5e1a7ee8bdda74efba4e3f5a03bc3e952207ddd40d8115e27c036967a6b85": {
         "sectxt": true,
         "sectionID": "930323",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "11:00a-12:20p",
         "building": "SPIES",
         "room": "330",
-        "instructor": "Eisenman, Ian",
         "instructors": [
           "Eisenman, Ian"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "a0093f174e1fa8ba9c9ea1e65b9387c04d866efdee1fa69882df5e69221771c9": {
         "sectxt": true,
         "sectionID": "930323",
         "type": "LE",
@@ -86,16 +49,16 @@
         "time": "11:00a-12:20p",
         "building": "SPIES",
         "room": "330",
-        "instructor": "Eisenman, Ian",
         "instructors": [
           "Eisenman, Ian"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

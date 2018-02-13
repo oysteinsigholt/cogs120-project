@@ -3,31 +3,12 @@
   "name": "Stage Management",
   "department": "TDDR",
   "id": "101",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922680",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "YORK",
-      "room": "3000A",
-      "instructor": "Means, Charles E.",
-      "instructors": [
-        "Means, Charles E."
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "e392cc55b5a21151328b7463370bc210366f6c40d7e077b9f24fdde5156d0452": {
         "sectxt": true,
         "sectionID": "922680",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "2:00p-3:20p",
         "building": "YORK",
         "room": "3000A",
-        "instructor": "Means, Charles E.",
         "instructors": [
           "Means, Charles E."
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "a481434d72718b9c2d0bc920315149c5fd2323dc92b4a476bb75c13ccd8d39d7": {
         "sectxt": true,
         "sectionID": "922680",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "2:00p-3:20p",
         "building": "YORK",
         "room": "3000A",
-        "instructor": "Means, Charles E.",
         "instructors": [
           "Means, Charles E."
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

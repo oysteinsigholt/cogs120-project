@@ -3,42 +3,9 @@
   "name": "Product Promotion & Brand Mgt",
   "department": "MGT",
   "id": "105",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929992",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "2:00p-3:20p",
-      "building": "WFH",
-      "room": "1W102",
-      "instructor": "Campbell, Robert Harold",
-      "instructors": [
-        "Campbell, Robert Harold"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "0566db6bf5f9b0443a2fe4ab5bf518a9522c2161cfe9068fefdf11f988a757d4": {
         "sectxt": true,
         "sectionID": "929992",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "2:00p-3:20p",
         "building": "WFH",
         "room": "1W102",
-        "instructor": "Campbell, Robert Harold",
         "instructors": [
           "Campbell, Robert Harold"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "acd75cfaeedef94debf422da2b4698bbd2fa5cada0de1c8b281de1855645643d": {
         "sectxt": true,
         "sectionID": "929992",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "2:00p-3:20p",
         "building": "WFH",
         "room": "1W102",
-        "instructor": "Campbell, Robert Harold",
         "instructors": [
           "Campbell, Robert Harold"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

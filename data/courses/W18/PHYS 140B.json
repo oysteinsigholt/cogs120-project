@@ -3,60 +3,11 @@
   "name": "Statistical & Thermal Phys II",
   "department": "PHYS",
   "id": "140B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "MYR-A",
-      "room": "2623",
-      "instructor": "Grover, Tarun",
-      "instructors": [
-        "Grover, Tarun"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923769",
-      "type": "DI",
-      "section": "A01",
-      "days": "Tu",
-      "time": "6:00p-6:50p",
-      "building": "MYR-A",
-      "room": "2623",
-      "instructor": "Grover, Tarun",
-      "instructors": [
-        "Grover, Tarun"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [
     "Students enrolling in PHYS 140B should avoid conflicts\n with the discussion (DI) for this course, as weekly\n quizzes will be held during the discussion section."
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -65,18 +16,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "8987b7af87d847c623f8d9e86e86f1d582c28de0cd3bc163ae563b429ae225f9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -85,14 +34,13 @@
         "time": "2:00p-3:20p",
         "building": "MYR-A",
         "room": "2623",
-        "instructor": "Grover, Tarun",
         "instructors": [
           "Grover, Tarun"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       },
-      {
+      "338588809b2f7a1381b5f4bfed198321b495f893e84eef6efffd6097a56473a9": {
         "sectxt": true,
         "sectionID": "923769",
         "type": "DI",
@@ -101,17 +49,15 @@
         "time": "6:00p-6:50p",
         "building": "MYR-A",
         "room": "2623",
-        "instructor": "Grover, Tarun",
         "instructors": [
           "Grover, Tarun"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "126816888d61f914f97a4cf223b36ae2f29f5df8aa68f3942a0e9370bddbed90": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -120,16 +66,15 @@
         "time": "2:00p-3:20p",
         "building": "MYR-A",
         "room": "2623",
-        "instructor": "Grover, Tarun",
         "instructors": [
           "Grover, Tarun"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

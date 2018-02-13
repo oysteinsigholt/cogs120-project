@@ -3,58 +3,9 @@
   "name": "Research Methods I",
   "department": "PSYC",
   "id": "111A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "MCGIL",
-      "room": "1350",
-      "instructor": "Geller, Emma Harlan",
-      "instructors": [
-        "Geller, Emma Harlan"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924617",
-      "type": "LA",
-      "section": "A01",
-      "days": "MW",
-      "time": "10:00a-11:50a",
-      "building": "MCGIL",
-      "room": "1350",
-      "instructor": "Geller, Emma Harlan",
-      "instructors": [
-        "Geller, Emma Harlan"
-      ],
-      "start_time": "10:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "c412b70375250c5a79b1a4cf137685063fcd3f38b63c56bdef0a23b05b0a37af": {
         "sectxt": true,
         "sectionID": "924617",
         "type": "LA",
@@ -82,16 +32,15 @@
         "time": "10:00a-11:50a",
         "building": "MCGIL",
         "room": "1350",
-        "instructor": "Geller, Emma Harlan",
         "instructors": [
           "Geller, Emma Harlan"
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "c12e876c286e075f54b31f5190baf1c12afcaa3c60c656df28d942741b529a9a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -100,16 +49,15 @@
         "time": "9:30a-10:50a",
         "building": "MCGIL",
         "room": "1350",
-        "instructor": "Geller, Emma Harlan",
         "instructors": [
           "Geller, Emma Harlan"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "73ea195af5b0366db6e1e61db03164899eadf2442e258d129b17e04c95bc525d": {
         "sectxt": true,
         "sectionID": "924617",
         "type": "LA",
@@ -118,16 +66,15 @@
         "time": "10:00a-11:50a",
         "building": "MCGIL",
         "room": "1350",
-        "instructor": "Geller, Emma Harlan",
         "instructors": [
           "Geller, Emma Harlan"
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "1fd76e34fb7865fce7ff5adca312ddc805651e55d9a8d5231108d9552d7045e9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -136,16 +83,15 @@
         "time": "9:30a-10:50a",
         "building": "MCGIL",
         "room": "1350",
-        "instructor": "Geller, Emma Harlan",
         "instructors": [
           "Geller, Emma Harlan"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

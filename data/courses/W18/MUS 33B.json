@@ -3,42 +3,9 @@
   "name": "Introduction to Composition II",
   "department": "MUS",
   "id": "33B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921919",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "2:00p-4:50p",
-      "building": "CPMC",
-      "room": "145",
-      "instructor": "Curbelo Gonzalez, Elisabet",
-      "instructors": [
-        "Curbelo Gonzalez, Elisabet"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,19 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "82caa93faa07aaea09d89e780e957e6f367f2c26667adcba18a3bca2d5173c69": {
         "sectxt": true,
         "sectionID": "921919",
         "type": "LE",
@@ -68,17 +32,15 @@
         "time": "2:00p-4:50p",
         "building": "CPMC",
         "room": "145",
-        "instructor": "Curbelo Gonzalez, Elisabet",
         "instructors": [
           "Curbelo Gonzalez, Elisabet"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

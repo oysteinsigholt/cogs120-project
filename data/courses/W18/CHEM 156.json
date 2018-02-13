@@ -3,42 +3,9 @@
   "name": "Struct&Properties/Organc Molec",
   "department": "CHEM",
   "id": "156",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926577",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "Yang, Jerry",
-      "instructors": [
-        "Yang, Jerry"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "735252c881e37a501054454919558a50fc03327eeca448d709800460ccc15d7b": {
         "sectxt": true,
         "sectionID": "926577",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "11:00a-12:20p",
         "building": "WLH",
         "room": "2115",
-        "instructor": "Yang, Jerry",
         "instructors": [
           "Yang, Jerry"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "6489bb379f9cc41e546c0d3af4f64189753df9eb227ad49b0e0d87d5ac388756": {
         "sectxt": true,
         "sectionID": "926577",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "11:00a-12:20p",
         "building": "WLH",
         "room": "2115",
-        "instructor": "Yang, Jerry",
         "instructors": [
           "Yang, Jerry"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

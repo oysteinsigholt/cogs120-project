@@ -3,90 +3,23 @@
   "name": "Intro Numerical Analys/Linear",
   "department": "MATH",
   "id": "170A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "10:00a-10:50a",
-      "building": "PCYNH",
-      "room": "122",
-      "instructor": "Szypowski, Ryan S.",
-      "instructors": [
-        "Szypowski, Ryan S."
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "932640",
-      "type": "DI",
-      "section": "B01",
-      "days": "Th",
-      "time": "2:00p-2:50p",
-      "building": "WLH",
-      "room": "2209",
-      "instructor": "Szypowski, Ryan S.",
-      "instructors": [
-        "Szypowski, Ryan S."
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "932641",
-      "type": "DI",
-      "section": "B02",
-      "days": "Th",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2209",
-      "instructor": "Szypowski, Ryan S.",
-      "instructors": [
-        "Szypowski, Ryan S."
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "932642",
-      "type": "DI",
-      "section": "B03",
-      "days": "Th",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2208",
-      "instructor": "Szypowski, Ryan S.",
-      "instructors": [
-        "Szypowski, Ryan S."
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -95,17 +28,31 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "0bc129e6e61dc97d6817c5924c61d5d7c996b7c7ee1c4510193b45b64c905c72": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "PCYNH",
+        "room": "109",
+        "instructors": [
+          "Dilts, James Paul"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "72ac370e0955fe955311014007158cbda925595ae1c9e7b223e5a659fa5e61e4": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -114,17 +61,30 @@
         "time": "10:00a-10:50a",
         "building": "PCYNH",
         "room": "122",
-        "instructor": "Szypowski, Ryan S.",
         "instructors": [
           "Szypowski, Ryan S."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "a24b1c34899aaa03f2ed258c49f7b8e31d66672638d55b3d5fd4e75b41ce8aa5": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "PCYNH",
+        "room": "109",
+        "instructors": [
+          "Dilts, James Paul"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "733b13bd9eacee06cd2c519cc2f59f0e259009f4d0a45d9d8362542b9cdd6c1b": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -133,16 +93,15 @@
         "time": "10:00a-10:50a",
         "building": "PCYNH",
         "room": "122",
-        "instructor": "Szypowski, Ryan S.",
         "instructors": [
           "Szypowski, Ryan S."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "08b5cd39e174593063948282dde6f8987e1ec894430fef841eccbaa9e41017e8": {
         "sectxt": true,
         "sectionID": "932640",
         "type": "DI",
@@ -151,14 +110,13 @@
         "time": "2:00p-2:50p",
         "building": "WLH",
         "room": "2209",
-        "instructor": "Szypowski, Ryan S.",
         "instructors": [
           "Szypowski, Ryan S."
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "56323146ba55cfd6e52c090371338ed2b43659345d028eff5212e4fea3d53d51": {
         "sectxt": true,
         "sectionID": "932641",
         "type": "DI",
@@ -167,14 +125,13 @@
         "time": "3:00p-3:50p",
         "building": "WLH",
         "room": "2209",
-        "instructor": "Szypowski, Ryan S.",
         "instructors": [
           "Szypowski, Ryan S."
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "796a7d98d1649578e214ca490ee6622440702cbd6a603124de0e37e63c2884b1": {
         "sectxt": true,
         "sectionID": "932642",
         "type": "DI",
@@ -183,16 +140,120 @@
         "time": "3:00p-3:50p",
         "building": "WLH",
         "room": "2208",
-        "instructor": "Szypowski, Ryan S.",
         "instructors": [
           "Szypowski, Ryan S."
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "5be3008a2a51c9e55489e9fa2e0a4a9f5529a85da3cde8b17730cb0e71d532aa": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "PCYNH",
+        "room": "109",
+        "instructors": [
+          "Dilts, James Paul"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "7bfd598baeec5313bbb76ddfc6854c96d089c786bf06cd9096b780dd38d98af1": {
+        "sectxt": true,
+        "sectionID": "927194",
+        "type": "DI",
+        "section": "A01",
+        "days": "F",
+        "time": "4:00p-4:50p",
+        "building": "APM",
+        "room": "5402",
+        "instructors": [
+          "Dilts, James Paul"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "6ca4f8d5347e0b040b1814c1434e791a0f58287cbc97a3b7e92e4cf866989af6": {
+        "sectxt": true,
+        "sectionID": "927195",
+        "type": "DI",
+        "section": "A02",
+        "days": "F",
+        "time": "5:00p-5:50p",
+        "building": "APM",
+        "room": "5402",
+        "instructors": [
+          "Dilts, James Paul"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "13ba03895bff138679846607d711df83c67074edb0dd826050e0698fcbfc6b31": {
+        "sectxt": true,
+        "sectionID": "927196",
+        "type": "DI",
+        "section": "A03",
+        "days": "F",
+        "time": "6:00p-6:50p",
+        "building": "APM",
+        "room": "5402",
+        "instructors": [
+          "Dilts, James Paul"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "4ceca36f0f2c750e7a46c452de3c56b64a3d3e01782a91fde7f3eaabed994ca9": {
+        "sectxt": true,
+        "sectionID": "927197",
+        "type": "DI",
+        "section": "A04",
+        "days": "F",
+        "time": "7:00p-7:50p",
+        "building": "APM",
+        "room": "5402",
+        "instructors": [
+          "Dilts, James Paul"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "3ef5fd7b8d68ca1fcfc660afd0e7f88a578169339f19ed91a5a016c8c2401069": {
+        "sectxt": true,
+        "sectionID": "927198",
+        "type": "DI",
+        "section": "A05",
+        "days": "F",
+        "time": "6:00p-6:50p",
+        "building": "APM",
+        "room": "7421",
+        "instructors": [
+          "Dilts, James Paul"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "7e1bf4b793d4b38ef0c7fde6661acd44cbdb69c5959efbc067fc368511f70b08": {
+        "sectxt": true,
+        "sectionID": "927393",
+        "type": "DI",
+        "section": "A06",
+        "days": "F",
+        "time": "7:00p-7:50p",
+        "building": "APM",
+        "room": "7421",
+        "instructors": [
+          "Dilts, James Paul"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "41ac43cb18b3624692cf807f4a1e4a48c6dd9d84387b3e1773af7a3cfa484e8f": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -201,15 +262,16 @@
         "time": "10:00a-10:50a",
         "building": "PCYNH",
         "room": "122",
-        "instructor": "Szypowski, Ryan S.",
         "instructors": [
           "Szypowski, Ryan S."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

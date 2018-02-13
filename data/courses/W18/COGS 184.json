@@ -3,73 +3,9 @@
   "name": "Modeling/Evolution of Cognitn",
   "department": "COGS",
   "id": "184",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "6:30p-7:50p",
-      "building": "CSB",
-      "room": "005",
-      "instructor": "Johnson, Christine M.",
-      "instructors": [
-        "Johnson, Christine M."
-      ],
-      "start_time": "18:30",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925597",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "2:00p-2:50p",
-      "building": "YORK",
-      "room": "4080A",
-      "instructor": "Johnson, Christine M.",
-      "instructors": [
-        "Johnson, Christine M."
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/05/2018",
-      "days": "M",
-      "time": "5:00p-6:50p",
-      "building": "HSS",
-      "room": "2305A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-05T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "ee341b91b7dd6890fd38f2543c7185de14eba3d0b0214a6ed945451e665b370e": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -78,13 +14,12 @@
       "time": "5:00p-6:50p",
       "building": "HSS",
       "room": "2305A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-05T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "18:50"
     },
-    {
+    "83f667703ee5f41443699d3c685d2af7204f58e7d0026726650a8f5259ecf403": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -93,18 +28,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "7fb78df708bc10ae7cbed8c31256c6ff03db90d39a0bcfe7e71ecc8e7cc1a647": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -113,16 +46,15 @@
         "time": "6:30p-7:50p",
         "building": "CSB",
         "room": "005",
-        "instructor": "Johnson, Christine M.",
         "instructors": [
           "Johnson, Christine M."
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "0d6b589079a1590fd5bdb56c218588c50bf6b8c4f80353ec452c9982951340c5": {
         "sectxt": true,
         "sectionID": "925597",
         "type": "DI",
@@ -131,16 +63,15 @@
         "time": "2:00p-2:50p",
         "building": "YORK",
         "room": "4080A",
-        "instructor": "Johnson, Christine M.",
         "instructors": [
           "Johnson, Christine M."
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f12164f83e9ec19b35c2ae2e257ad595319959ecbd32e61750cdd0475d11af05": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -149,16 +80,15 @@
         "time": "6:30p-7:50p",
         "building": "CSB",
         "room": "005",
-        "instructor": "Johnson, Christine M.",
         "instructors": [
           "Johnson, Christine M."
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

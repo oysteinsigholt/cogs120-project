@@ -3,44 +3,11 @@
   "name": "Qualitatve Methods/Ethnography",
   "department": "ETHN",
   "id": "202",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922642",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "1:00p-3:50p",
-      "building": "SSB",
-      "room": "103",
-      "instructor": "Visweswaran, Kamala",
-      "instructors": [
-        "Visweswaran, Kamala"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [
     "Feminist Ethnography"
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -49,17 +16,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "26c02e03ca851b58ed21f6c2d9309b52ce279566df78a0b769f05076ef54398f": {
         "sectxt": true,
         "sectionID": "922642",
         "type": "SE",
@@ -68,19 +34,15 @@
         "time": "1:00p-3:50p",
         "building": "SSB",
         "room": "103",
-        "instructor": "Visweswaran, Kamala",
         "instructors": [
           "Visweswaran, Kamala"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

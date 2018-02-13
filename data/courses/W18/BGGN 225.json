@@ -3,35 +3,12 @@
   "name": "Graduate Immunology",
   "department": "BGGN",
   "id": "225",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930204",
-      "type": "LE",
-      "section": "B00",
-      "days": "F",
-      "time": "2:00p-5:00p",
-      "building": "APM",
-      "room": "3880",
-      "instructor": "Zuniga, Elina I & Lu, Li-Fan",
-      "instructors": [
-        "Zuniga, Elina I",
-        "Lu, Li-Fan"
-      ],
-      "start_time": "14:00",
-      "end_time": "17:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "d843f4a7bfda2347be8473d921bb6475af2f147290f3b9ffd57124ecca462e13": {
         "sectxt": true,
         "sectionID": "930204",
         "type": "LE",
@@ -40,16 +17,16 @@
         "time": "2:00p-5:00p",
         "building": "APM",
         "room": "3880",
-        "instructor": "Zuniga, Elina I & Lu, Li-Fan",
         "instructors": [
-          "Zuniga, Elina I",
-          "Lu, Li-Fan"
+          "Zuniga, Elina I                    \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLu, Li-Fan"
         ],
         "start_time": "14:00",
         "end_time": "17:00"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

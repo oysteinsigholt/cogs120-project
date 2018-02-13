@@ -3,49 +3,14 @@
   "name": "Intro/Discipl/Specific Teachng",
   "department": "EDS",
   "id": "137",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "3:30p-5:20p",
-      "building": "PCYNH",
-      "room": "302",
-      "instructor": "Whiteside, Linda Sue",
-      "instructors": [
-        "Whiteside, Linda Sue"
-      ],
-      "start_time": "15:30",
-      "end_time": "17:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922495",
-      "type": "DI",
-      "section": "A01",
-      "days": "Tu",
-      "time": "5:30p-6:20p",
-      "building": "PCYNH",
-      "room": "302",
-      "instructor": "Whiteside, Linda Sue",
-      "instructors": [
-        "Whiteside, Linda Sue"
-      ],
-      "start_time": "17:30",
-      "end_time": "18:20"
-    }
-  ],
   "notes": [
     "Artsbridge: Arts in Schools"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "76010efdd492346e3cd8f71fdeed7048011a3dd64a3cdca189c1fe8590073b37": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -54,14 +19,13 @@
         "time": "3:30p-5:20p",
         "building": "PCYNH",
         "room": "302",
-        "instructor": "Whiteside, Linda Sue",
         "instructors": [
           "Whiteside, Linda Sue"
         ],
         "start_time": "15:30",
         "end_time": "17:20"
       },
-      {
+      "3b7a0c9ecdf613f48a1db058b32682271526e40a9646d8b87809fd3644670b27": {
         "sectxt": true,
         "sectionID": "922495",
         "type": "DI",
@@ -70,18 +34,15 @@
         "time": "5:30p-6:20p",
         "building": "PCYNH",
         "room": "302",
-        "instructor": "Whiteside, Linda Sue",
         "instructors": [
           "Whiteside, Linda Sue"
         ],
         "start_time": "17:30",
         "end_time": "18:20"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

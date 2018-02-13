@@ -3,42 +3,9 @@
   "name": "Topics in Finance",
   "department": "MGT",
   "id": "495",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930349",
-      "type": "LE",
-      "section": "A00",
-      "days": "Th",
-      "time": "2:00p-5:00p",
-      "building": "WFH",
-      "room": "3N129",
-      "instructor": "Buchanan, Harold G",
-      "instructors": [
-        "Buchanan, Harold G"
-      ],
-      "start_time": "14:00",
-      "end_time": "17:00"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "2:00p-5:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "17:00"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "ad8750931c8ac7af034d3b842df27decf4a66dc735b2c2d2a29a99d87ed9ea76": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,20 +14,16 @@
       "time": "2:00p-5:00p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "14:00",
       "end_time": "17:00"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "ca7ada31bd263f2d0ce32e92b1a6e7f2feaad8497b9b204887ad8ce60b550a13": {
         "sectxt": true,
         "sectionID": "930349",
         "type": "LE",
@@ -69,16 +32,15 @@
         "time": "2:00p-5:00p",
         "building": "WFH",
         "room": "3N129",
-        "instructor": "Buchanan, Harold G",
         "instructors": [
           "Buchanan, Harold G"
         ],
         "start_time": "14:00",
         "end_time": "17:00"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

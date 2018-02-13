@@ -3,327 +3,9 @@
   "name": "Geophysical Fluid Dynamics",
   "department": "SIO",
   "id": "178",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929088",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "10:00a-10:50a",
-      "building": "CENTR",
-      "room": "206",
-      "instructor": "Becker, Janet Maria",
-      "instructors": [
-        "Becker, Janet Maria"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/12/2018",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "206",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-12T08:00:00.000Z",
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/17/2018",
-      "days": "W",
-      "time": "11:00a-11:50a",
-      "building": "CENTR",
-      "room": "208",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-17T08:00:00.000Z",
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/19/2018",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "206",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-19T08:00:00.000Z",
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/24/2018",
-      "days": "W",
-      "time": "11:00a-11:50a",
-      "building": "CENTR",
-      "room": "208",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-24T08:00:00.000Z",
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/26/2018",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "206",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-26T08:00:00.000Z",
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/31/2018",
-      "days": "W",
-      "time": "11:00a-11:50a",
-      "building": "CENTR",
-      "room": "208",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-31T08:00:00.000Z",
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/02/2018",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "206",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-02T08:00:00.000Z",
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/07/2018",
-      "days": "W",
-      "time": "11:00a-11:50a",
-      "building": "CENTR",
-      "room": "208",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-07T08:00:00.000Z",
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/09/2018",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "206",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-09T08:00:00.000Z",
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/14/2018",
-      "days": "W",
-      "time": "11:00a-11:50a",
-      "building": "CENTR",
-      "room": "208",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-14T08:00:00.000Z",
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/16/2018",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "206",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-16T08:00:00.000Z",
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/21/2018",
-      "days": "W",
-      "time": "11:00a-11:50a",
-      "building": "CENTR",
-      "room": "208",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-21T08:00:00.000Z",
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/23/2018",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "206",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-23T08:00:00.000Z",
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/28/2018",
-      "days": "W",
-      "time": "11:00a-11:50a",
-      "building": "CENTR",
-      "room": "208",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-28T08:00:00.000Z",
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/02/2018",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "206",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-02T08:00:00.000Z",
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/07/2018",
-      "days": "W",
-      "time": "11:00a-11:50a",
-      "building": "CENTR",
-      "room": "208",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-07T08:00:00.000Z",
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/09/2018",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "206",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-09T08:00:00.000Z",
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/14/2018",
-      "days": "W",
-      "time": "11:00a-11:50a",
-      "building": "CENTR",
-      "room": "208",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-14T07:00:00.000Z",
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/16/2018",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "206",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-16T07:00:00.000Z",
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "89774759973b6d3f0d42e39ef5ccae98e3016681b0d12386402f5452ccd0838e": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -332,13 +14,12 @@
       "time": "9:00a-9:50a",
       "building": "CENTR",
       "room": "206",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-12T08:00:00.000Z",
       "start_time": "9:00",
       "end_time": "9:50"
     },
-    {
+    "1b1766fbeda2704c0ff076e37c2a1172852b13d0e5bfde8dd247d665eb0cc7c6": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -347,13 +28,12 @@
       "time": "11:00a-11:50a",
       "building": "CENTR",
       "room": "208",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-17T08:00:00.000Z",
       "start_time": "11:00",
       "end_time": "11:50"
     },
-    {
+    "e7ee1784e2eef6939d52888af444bd7d885bdadd8f6c1b6c6afc703b2ac08037": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -362,13 +42,12 @@
       "time": "9:00a-9:50a",
       "building": "CENTR",
       "room": "206",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-19T08:00:00.000Z",
       "start_time": "9:00",
       "end_time": "9:50"
     },
-    {
+    "769474d2edd116334a16ee8486863e5915c8df3716c4be1891af390e496a26fc": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -377,13 +56,12 @@
       "time": "11:00a-11:50a",
       "building": "CENTR",
       "room": "208",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-24T08:00:00.000Z",
       "start_time": "11:00",
       "end_time": "11:50"
     },
-    {
+    "4efdb36dab0f05168417852f4bf8198c30bc7461fd118f63bf57b68e7229aef2": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -392,13 +70,12 @@
       "time": "9:00a-9:50a",
       "building": "CENTR",
       "room": "206",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-26T08:00:00.000Z",
       "start_time": "9:00",
       "end_time": "9:50"
     },
-    {
+    "0beca4bd7637bcc3def8ec5cc60d4fe0da0a96eaa750206a8efa1a32d37a666d": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -407,13 +84,12 @@
       "time": "11:00a-11:50a",
       "building": "CENTR",
       "room": "208",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-31T08:00:00.000Z",
       "start_time": "11:00",
       "end_time": "11:50"
     },
-    {
+    "91437a6549a96c2f347090ec4c1bfb2c6ae22aa0f3be134b10589b81dc568abe": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -422,13 +98,12 @@
       "time": "9:00a-9:50a",
       "building": "CENTR",
       "room": "206",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-02T08:00:00.000Z",
       "start_time": "9:00",
       "end_time": "9:50"
     },
-    {
+    "77d5b5c3920b2404fd16a3a12b9290dce3be2b7c12d96c17348e62095c14cdfc": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -437,13 +112,12 @@
       "time": "11:00a-11:50a",
       "building": "CENTR",
       "room": "208",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-07T08:00:00.000Z",
       "start_time": "11:00",
       "end_time": "11:50"
     },
-    {
+    "38a10aaa4243cd3192fbcd3f6a9221017d0e580548e1530a627e19596c95f4d4": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -452,13 +126,12 @@
       "time": "9:00a-9:50a",
       "building": "CENTR",
       "room": "206",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-09T08:00:00.000Z",
       "start_time": "9:00",
       "end_time": "9:50"
     },
-    {
+    "12915a7d76ee1ce1b63d5de38b3510befa99109f60d967724e185ae0794ca169": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -467,13 +140,12 @@
       "time": "11:00a-11:50a",
       "building": "CENTR",
       "room": "208",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-14T08:00:00.000Z",
       "start_time": "11:00",
       "end_time": "11:50"
     },
-    {
+    "cc08a1d92a47b053280951c5c69f6b2e388fac5cc5642cf2c9dd5b0c2ff9ae03": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -482,13 +154,12 @@
       "time": "9:00a-9:50a",
       "building": "CENTR",
       "room": "206",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-16T08:00:00.000Z",
       "start_time": "9:00",
       "end_time": "9:50"
     },
-    {
+    "31c4112e5f695720a3528bfba48f6f8e3bcfe33f08f06b839c45174189b4b88a": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -497,13 +168,12 @@
       "time": "11:00a-11:50a",
       "building": "CENTR",
       "room": "208",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-21T08:00:00.000Z",
       "start_time": "11:00",
       "end_time": "11:50"
     },
-    {
+    "d12478ebbfb99bb16dfae4c9c34fa745b4fa94e0c9266003516a22fd6c0d1ffe": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -512,13 +182,12 @@
       "time": "9:00a-9:50a",
       "building": "CENTR",
       "room": "206",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-23T08:00:00.000Z",
       "start_time": "9:00",
       "end_time": "9:50"
     },
-    {
+    "a6763688f2c68bbecb5549968e3c36209c8adf9c0cb93cab44d37cfc4d3d940e": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -527,13 +196,12 @@
       "time": "11:00a-11:50a",
       "building": "CENTR",
       "room": "208",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-28T08:00:00.000Z",
       "start_time": "11:00",
       "end_time": "11:50"
     },
-    {
+    "42fbc7e52dee6191a4cdf301306dcec75d8168f96289e39c3d77e929c3dada85": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -542,13 +210,12 @@
       "time": "9:00a-9:50a",
       "building": "CENTR",
       "room": "206",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-02T08:00:00.000Z",
       "start_time": "9:00",
       "end_time": "9:50"
     },
-    {
+    "d834ffe1bc79d283d0725e2183d1c7a10091cb4984e4b4c831d20f93079c2fc5": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -557,13 +224,12 @@
       "time": "11:00a-11:50a",
       "building": "CENTR",
       "room": "208",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-07T08:00:00.000Z",
       "start_time": "11:00",
       "end_time": "11:50"
     },
-    {
+    "c8f4eaaf86e1c26f6e0139196a71ffd0cf5ec0a5778ecf9e1236dee6a187a846": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -572,13 +238,12 @@
       "time": "9:00a-9:50a",
       "building": "CENTR",
       "room": "206",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-09T08:00:00.000Z",
       "start_time": "9:00",
       "end_time": "9:50"
     },
-    {
+    "4d4aac9bb5a23e2e5ff76f4ec6daf7cd5d04dca01d221eda9d2837fa8a619071": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -587,13 +252,12 @@
       "time": "11:00a-11:50a",
       "building": "CENTR",
       "room": "208",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-14T07:00:00.000Z",
       "start_time": "11:00",
       "end_time": "11:50"
     },
-    {
+    "ba4098fdaad8322d44e78ea91affa0ad6e7cf1f3c75f5d9d7a404d2fcfb456b6": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -602,13 +266,12 @@
       "time": "9:00a-9:50a",
       "building": "CENTR",
       "room": "206",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-16T07:00:00.000Z",
       "start_time": "9:00",
       "end_time": "9:50"
     },
-    {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -617,17 +280,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "ffb2e8ed3384fc2b77b90a24dceca6f22b68e085330776856177e928a792cd4d": {
         "sectxt": true,
         "sectionID": "929088",
         "type": "LE",
@@ -636,17 +298,15 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "206",
-        "instructor": "Becker, Janet Maria",
         "instructors": [
           "Becker, Janet Maria"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "1b9b25411e2788bacdfcca357958ee59f4e1276f664b65c059465bcb4d3387d3": {
         "sectxt": true,
         "sectionID": "929088",
         "type": "LE",
@@ -655,17 +315,15 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "206",
-        "instructor": "Becker, Janet Maria",
         "instructors": [
           "Becker, Janet Maria"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "71be7247a55fa4b8078d8918009e1eadba0c0ed9b75e551b66f670fc946568b3": {
         "sectxt": true,
         "sectionID": "929088",
         "type": "LE",
@@ -674,15 +332,15 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "206",
-        "instructor": "Becker, Janet Maria",
         "instructors": [
           "Becker, Janet Maria"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

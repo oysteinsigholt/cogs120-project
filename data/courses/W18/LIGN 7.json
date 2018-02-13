@@ -3,87 +3,9 @@
   "name": "Sign Language and its Culture",
   "department": "LIGN",
   "id": "7",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922271",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "CENTR",
-      "room": "105",
-      "instructor": "Mayberry, Rachel",
-      "instructors": [
-        "Mayberry, Rachel"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/08/2018",
-      "days": "Th",
-      "time": "5:00p-5:50p",
-      "building": "CENTR",
-      "room": "222",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-08T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/11/2018",
-      "days": "Sun",
-      "time": "3:00p-3:50p",
-      "building": "PETER",
-      "room": "103",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-11T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/14/2018",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "PETER",
-      "room": "103",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-14T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "855b6e0e3600c088cf72562a475a11a9ecc44dea668c8ab7fa4c8bd6b14524b9": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -92,13 +14,12 @@
       "time": "5:00p-5:50p",
       "building": "CENTR",
       "room": "222",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-08T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "c45735d662bcdc2c237d0e4b4e6784423799437d62ba27d4c45d760cedaec3f3": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -107,13 +28,12 @@
       "time": "3:00p-3:50p",
       "building": "PETER",
       "room": "103",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-11T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "5e43412418a46d21e1c1f5e803406c25706f34ded71767dff242a2fa8189cf75": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -122,13 +42,12 @@
       "time": "3:00p-3:50p",
       "building": "PETER",
       "room": "103",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-14T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -137,18 +56,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "6ab60c3ae882c85aa1375f74b52268770ffa1bf68f78d6c6eac2576c3dce10ca": {
         "sectxt": true,
         "sectionID": "922271",
         "type": "LE",
@@ -157,17 +74,15 @@
         "time": "11:00a-12:20p",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Mayberry, Rachel",
         "instructors": [
           "Mayberry, Rachel"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "7324ceb1e46e563d87d97689606924ee8e99d3747f90b0b1eb58ff2d4ea77e55": {
         "sectxt": true,
         "sectionID": "922271",
         "type": "LE",
@@ -176,16 +91,15 @@
         "time": "11:00a-12:20p",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Mayberry, Rachel",
         "instructors": [
           "Mayberry, Rachel"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

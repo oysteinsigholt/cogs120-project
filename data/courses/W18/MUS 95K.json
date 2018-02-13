@@ -3,32 +3,12 @@
   "name": "Chamber Singers",
   "department": "MUS",
   "id": "95K",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921928",
-      "type": "ST",
-      "section": "A00",
-      "days": "WF",
-      "time": "2:00p-3:20p",
-      "building": "CPMC",
-      "room": "264",
-      "instructor": "Larson, Philip Clarion",
-      "instructors": [
-        "Larson, Philip Clarion"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "1ac4ae208e088e5582919069b5045084f83d63fd22b5f8604014372f10935cd7": {
         "sectxt": true,
         "sectionID": "921928",
         "type": "ST",
@@ -37,17 +17,15 @@
         "time": "2:00p-3:20p",
         "building": "CPMC",
         "room": "264",
-        "instructor": "Larson, Philip Clarion",
         "instructors": [
           "Larson, Philip Clarion"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "51e0d43390c2386784827914b6432174234921b3635510e0379d1967e6271453": {
         "sectxt": true,
         "sectionID": "921928",
         "type": "ST",
@@ -56,15 +34,15 @@
         "time": "2:00p-3:20p",
         "building": "CPMC",
         "room": "264",
-        "instructor": "Larson, Philip Clarion",
         "instructors": [
           "Larson, Philip Clarion"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

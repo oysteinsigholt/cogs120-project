@@ -3,42 +3,9 @@
   "name": "Sociology of the Environment",
   "department": "SOCI",
   "id": "149",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923200",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "YORK",
-      "room": "4080A",
-      "instructor": "Burg, Suzanne M.M.",
-      "instructors": [
-        "Burg, Suzanne M.M."
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "e77a399e7eaa4c0b4edd11fe7221f00e162a3c24e6f28a2eb0e1c540acaef71d": {
         "sectxt": true,
         "sectionID": "923200",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "12:30p-1:50p",
         "building": "YORK",
         "room": "4080A",
-        "instructor": "Burg, Suzanne M.M.",
         "instructors": [
           "Burg, Suzanne M.M."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "02243298026d9a08315ecb02947a53fc3e84cd650d57f15b408c40a037827f22": {
         "sectxt": true,
         "sectionID": "923200",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "12:30p-1:50p",
         "building": "YORK",
         "room": "4080A",
-        "instructor": "Burg, Suzanne M.M.",
         "instructors": [
           "Burg, Suzanne M.M."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

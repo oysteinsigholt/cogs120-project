@@ -3,106 +3,9 @@
   "name": "Intro/Chicano/Latino Lit.",
   "department": "LTEN",
   "id": "29",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "HSS",
-      "room": "1330",
-      "instructor": "Sanchez, Rosaura",
-      "instructors": [
-        "Sanchez, Rosaura"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924348",
-      "type": "DI",
-      "section": "A01",
-      "days": "Th",
-      "time": "11:00a-11:50a",
-      "building": "SEQUO",
-      "room": "148",
-      "instructor": "Sanchez, Rosaura",
-      "instructors": [
-        "Sanchez, Rosaura"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924349",
-      "type": "DI",
-      "section": "A02",
-      "days": "Th",
-      "time": "12:00p-12:50p",
-      "building": "SEQUO",
-      "room": "148",
-      "instructor": "Sanchez, Rosaura",
-      "instructors": [
-        "Sanchez, Rosaura"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924350",
-      "type": "DI",
-      "section": "A03",
-      "days": "F",
-      "time": "11:00a-11:50a",
-      "building": "WLH",
-      "room": "2209",
-      "instructor": "Sanchez, Rosaura",
-      "instructors": [
-        "Sanchez, Rosaura"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924351",
-      "type": "DI",
-      "section": "A04",
-      "days": "F",
-      "time": "12:00p-12:50p",
-      "building": "WLH",
-      "room": "2209",
-      "instructor": "Sanchez, Rosaura",
-      "instructors": [
-        "Sanchez, Rosaura"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -111,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "e4a7e0b48e5a74a5039a6a4a5657e3e1413e312642286325ab5d305301b5cae2": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -130,17 +32,15 @@
         "time": "1:00p-1:50p",
         "building": "HSS",
         "room": "1330",
-        "instructor": "Sanchez, Rosaura",
         "instructors": [
           "Sanchez, Rosaura"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "c15fcf4f9ab3e7d38ca0b0fda612d43843a9400dd321e08de7ed0c9d036f43b0": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -149,16 +49,15 @@
         "time": "1:00p-1:50p",
         "building": "HSS",
         "room": "1330",
-        "instructor": "Sanchez, Rosaura",
         "instructors": [
           "Sanchez, Rosaura"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "c4e2a04b7565d2b944f2a0cb9848e8522242d48daf1be1ba45648240c364e343": {
         "sectxt": true,
         "sectionID": "924348",
         "type": "DI",
@@ -167,14 +66,13 @@
         "time": "11:00a-11:50a",
         "building": "SEQUO",
         "room": "148",
-        "instructor": "Sanchez, Rosaura",
         "instructors": [
           "Sanchez, Rosaura"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "365ec97a633dff3eea4d58e659e6a2c7da2b64ae4ed8958314efdad0a7b7c220": {
         "sectxt": true,
         "sectionID": "924349",
         "type": "DI",
@@ -183,16 +81,15 @@
         "time": "12:00p-12:50p",
         "building": "SEQUO",
         "room": "148",
-        "instructor": "Sanchez, Rosaura",
         "instructors": [
           "Sanchez, Rosaura"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "a1ad73e826e4f3d18db30a6715bb1aece555b7c097097bfe51405b7a3389d35a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -201,14 +98,13 @@
         "time": "1:00p-1:50p",
         "building": "HSS",
         "room": "1330",
-        "instructor": "Sanchez, Rosaura",
         "instructors": [
           "Sanchez, Rosaura"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "e2fad5500a3eb9bdbf7206f0413dc63930fa0f9d5044a5d47e65cc2ccc36a845": {
         "sectxt": true,
         "sectionID": "924350",
         "type": "DI",
@@ -217,14 +113,13 @@
         "time": "11:00a-11:50a",
         "building": "WLH",
         "room": "2209",
-        "instructor": "Sanchez, Rosaura",
         "instructors": [
           "Sanchez, Rosaura"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "fe95bb4557624eb0e9ee0c78e6efd0db3b8b6a8d83ea92da7478ad7028ec2d26": {
         "sectxt": true,
         "sectionID": "924351",
         "type": "DI",
@@ -233,15 +128,15 @@
         "time": "12:00p-12:50p",
         "building": "WLH",
         "room": "2209",
-        "instructor": "Sanchez, Rosaura",
         "instructors": [
           "Sanchez, Rosaura"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,30 +3,12 @@
   "name": "Structural Engineering Seminar",
   "department": "SE",
   "id": "290",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923072",
-      "type": "SE",
-      "section": "A00",
-      "days": "MW",
-      "time": "12:00p-12:50p",
-      "building": "PCYNH",
-      "room": "122",
-      "instructor": "Mosqueda, Gilberto",
-      "instructors": [
-        "Mosqueda, Gilberto"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "9003694c6c48fdd4d68cbbeadf1c3be60e5fe7ac6efd9c69317924fe77ece3f5": {
         "sectxt": true,
         "sectionID": "923072",
         "type": "SE",
@@ -35,17 +17,15 @@
         "time": "12:00p-12:50p",
         "building": "PCYNH",
         "room": "122",
-        "instructor": "Mosqueda, Gilberto",
         "instructors": [
           "Mosqueda, Gilberto"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "df5543e7fc4d9aabe5482b9bd7b676a26b0112567a5151a10b0e88b9ac211f42": {
         "sectxt": true,
         "sectionID": "923072",
         "type": "SE",
@@ -54,17 +34,15 @@
         "time": "12:00p-12:50p",
         "building": "PCYNH",
         "room": "122",
-        "instructor": "Mosqueda, Gilberto",
         "instructors": [
           "Mosqueda, Gilberto"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

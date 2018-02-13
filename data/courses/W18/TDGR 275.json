@@ -3,33 +3,12 @@
   "name": "Advanced Lighting Design",
   "department": "TDGR",
   "id": "275",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920415",
-      "type": "ST",
-      "section": "A00",
-      "days": "Th",
-      "time": "11:00a-1:50p",
-      "building": "GH",
-      "room": "145",
-      "instructor": "Burrett, Alan",
-      "instructors": [
-        "Burrett, Alan"
-      ],
-      "start_time": "11:00",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "2b72a3b56474bf834b7ba433f2a19486261f7fa2fc0ed21fda1a75bda84ea061": {
         "sectxt": true,
         "sectionID": "920415",
         "type": "ST",
@@ -38,16 +17,15 @@
         "time": "11:00a-1:50p",
         "building": "GH",
         "room": "145",
-        "instructor": "Burrett, Alan",
         "instructors": [
           "Burrett, Alan"
         ],
         "start_time": "11:00",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,32 +3,12 @@
   "name": "Playing Indian:Native Am Cinem",
   "department": "TDGE",
   "id": "131",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922698",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "6:30p-9:20p",
-      "building": "WLH",
-      "room": "2005",
-      "instructor": "Burelle, Julie Sara Veronique",
-      "instructors": [
-        "Burelle, Julie Sara Veronique"
-      ],
-      "start_time": "18:30",
-      "end_time": "21:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "c28c87582c611d329598692b616e0ab79bb83fceef41a15c9aa8f517dc5c3a6c": {
         "sectxt": true,
         "sectionID": "922698",
         "type": "LE",
@@ -37,17 +17,15 @@
         "time": "6:30p-9:20p",
         "building": "WLH",
         "room": "2005",
-        "instructor": "Burelle, Julie Sara Veronique",
         "instructors": [
           "Burelle, Julie Sara Veronique"
         ],
         "start_time": "18:30",
         "end_time": "21:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

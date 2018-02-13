@@ -3,27 +3,24 @@
   "name": "MFA Thesis",
   "department": "LTWR",
   "id": "295",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "931994",
-      "type": "IN",
-      "section": "002",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Hoang, Lily Kim",
-      "instructors": [
-        "Hoang, Lily Kim"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "930622",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Springer, Anna Joy"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "931994",
       "type": "IN",
       "section": "002",
@@ -31,19 +28,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Hoang, Lily Kim",
       "instructors": [
         "Hoang, Lily Kim"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

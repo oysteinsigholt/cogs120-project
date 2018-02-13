@@ -3,42 +3,9 @@
   "name": "Fluid Mechanics I",
   "department": "CENG",
   "id": "210A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930656",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "PCYNH",
-      "room": "120",
-      "instructor": "Llewellyn Smith, Stefan G.",
-      "instructors": [
-        "Llewellyn Smith, Stefan G."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "e5830da1cab255c6c3303f8cca2f46b8c0933ca7cd41041c70085c476d7993ec": {
         "sectxt": true,
         "sectionID": "930656",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "11:00a-11:50a",
         "building": "PCYNH",
         "room": "120",
-        "instructor": "Llewellyn Smith, Stefan G.",
         "instructors": [
           "Llewellyn Smith, Stefan G."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "fea92b757cb0f0640ead3db03951805bc8e06eaa05036ad073f8e3fb860dc751": {
         "sectxt": true,
         "sectionID": "930656",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "11:00a-11:50a",
         "building": "PCYNH",
         "room": "120",
-        "instructor": "Llewellyn Smith, Stefan G.",
         "instructors": [
           "Llewellyn Smith, Stefan G."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "53842c779d3c886efea9ea35e49a4a9a3b18c67f51c4a5240f4cd9f53ec6e93d": {
         "sectxt": true,
         "sectionID": "930656",
         "type": "LE",
@@ -104,15 +66,16 @@
         "time": "11:00a-11:50a",
         "building": "PCYNH",
         "room": "120",
-        "instructor": "Llewellyn Smith, Stefan G.",
         "instructors": [
           "Llewellyn Smith, Stefan G."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

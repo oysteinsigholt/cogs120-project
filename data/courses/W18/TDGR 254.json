@@ -3,34 +3,12 @@
   "name": "Television Writing",
   "department": "TDGR",
   "id": "254",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920411",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "11:00a-1:50p",
-      "building": "GH",
-      "room": "144",
-      "instructor": "Myers, David William",
-      "instructors": [
-        "Myers, David William"
-      ],
-      "start_time": "11:00",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "ac02fe8397709599604d3d17048f9a02389135afbcb5fb63f425517ce96f048d": {
         "sectxt": true,
         "sectionID": "920411",
         "type": "SE",
@@ -39,15 +17,15 @@
         "time": "11:00a-1:50p",
         "building": "GH",
         "room": "144",
-        "instructor": "Myers, David William",
         "instructors": [
           "Myers, David William"
         ],
         "start_time": "11:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

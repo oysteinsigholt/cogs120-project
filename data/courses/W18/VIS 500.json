@@ -3,24 +3,8 @@
   "name": "Apprentice Teaching",
   "department": "VIS",
   "id": "500",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "935091",
-      "type": "IN",
-      "section": "009",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Almeida, Jane",
-      "instructors": [
-        "Almeida, Jane"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,115 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Almeida, Jane",
       "instructors": [
         "Almeida, Jane"
       ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "929226",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Kelley, Jeff J"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "929227",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Cartwright, Lisa"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "929228",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Chou, Yeongchau D"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "929229",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Bryson, William N"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "929230",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Gomez Mostajo, Maria Loren"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "929231",
+      "type": "IN",
+      "section": "006",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Bratton, Benjamin H."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "929232",
+      "type": "IN",
+      "section": "007",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Alexander, Amy J"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "929234",
+      "type": "IN",
+      "section": "008",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Bratton, Benjamin H."
+      ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

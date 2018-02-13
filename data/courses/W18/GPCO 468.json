@@ -3,35 +3,12 @@
   "name": "Eval Technological Innovation",
   "department": "GPCO",
   "id": "468",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921737",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "1:00p-3:50p",
-      "building": "RBC",
-      "room": "3201",
-      "instructor": "Burney, Jennifer A. & McIntosh, Craig",
-      "instructors": [
-        "Burney, Jennifer A.",
-        "McIntosh, Craig"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "d152726d5f2200237f7f72b4552d756ee01af160dc1bd42f167c0c4d370af0b5": {
         "sectxt": true,
         "sectionID": "921737",
         "type": "SE",
@@ -40,16 +17,15 @@
         "time": "1:00p-3:50p",
         "building": "RBC",
         "room": "3201",
-        "instructor": "Burney, Jennifer A. & McIntosh, Craig",
         "instructors": [
-          "Burney, Jennifer A.",
-          "McIntosh, Craig"
+          "Burney, Jennifer A.                \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMcIntosh, Craig"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

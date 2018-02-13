@@ -3,74 +3,10 @@
   "name": "Teach Computation/DigitalWorld",
   "department": "EDS",
   "id": "124AR",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Simon, Elizabeth A",
-      "instructors": [
-        "Simon, Elizabeth A"
-      ]
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930401",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Simon, Elizabeth A",
-      "instructors": [
-        "Simon, Elizabeth A"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930402",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Simon, Elizabeth A",
-      "instructors": [
-        "Simon, Elizabeth A"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930403",
-      "type": "DI",
-      "section": "A03",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Simon, Elizabeth A",
-      "instructors": [
-        "Simon, Elizabeth A"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    }
-  ],
   "notes": [
     "A required online 1-hour synchronous meeting is\n required weekly on Wednesday. Students must attend ONE\n session each week either 3-3:50, 4-4:50, OR 5-5:50.\n Headphones/Earbuds with a microphone are required.\n Sophomores are encouraged to apply. Details at\n http://bit.ly/EDS124A"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -81,17 +17,14 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Simon, Elizabeth A",
       "instructors": [
         "Simon, Elizabeth A"
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "79ec3b0313ed279c92060930d432ad45bca48a6a2e5dbfd61574fa6a7cc9f021": {
         "sectxt": true,
         "sectionID": "930401",
         "type": "DI",
@@ -100,14 +33,13 @@
         "time": "3:00p-3:50p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Simon, Elizabeth A",
         "instructors": [
           "Simon, Elizabeth A"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "5ff010dfe1293d0f2bde799f0ac1ed226a74ac4401fc78d48f7ea9db649626e2": {
         "sectxt": true,
         "sectionID": "930402",
         "type": "DI",
@@ -116,14 +48,13 @@
         "time": "4:00p-4:50p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Simon, Elizabeth A",
         "instructors": [
           "Simon, Elizabeth A"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "9fa4fc5678d48bda80f3bceade2e327e5bd32f9ef82687182fa127ea55ffafd1": {
         "sectxt": true,
         "sectionID": "930403",
         "type": "DI",
@@ -132,17 +63,15 @@
         "time": "5:00p-5:50p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Simon, Elizabeth A",
         "instructors": [
           "Simon, Elizabeth A"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,138 +3,9 @@
   "name": "Gen Soc for Pre-Med Students",
   "department": "SOCI",
   "id": "70",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "8:00a-9:20a",
-      "building": "PCYNH",
-      "room": "109",
-      "instructor": "Lewis, Kevin Michael",
-      "instructors": [
-        "Lewis, Kevin Michael"
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923177",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "10:00a-10:50a",
-      "building": "SOLIS",
-      "room": "109",
-      "instructor": "Lewis, Kevin Michael",
-      "instructors": [
-        "Lewis, Kevin Michael"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923178",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "11:00a-11:50a",
-      "building": "SOLIS",
-      "room": "109",
-      "instructor": "Lewis, Kevin Michael",
-      "instructors": [
-        "Lewis, Kevin Michael"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923179",
-      "type": "DI",
-      "section": "A03",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "HSS",
-      "room": "1128A",
-      "instructor": "Lewis, Kevin Michael",
-      "instructors": [
-        "Lewis, Kevin Michael"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923180",
-      "type": "DI",
-      "section": "A04",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "HSS",
-      "room": "1128A",
-      "instructor": "Lewis, Kevin Michael",
-      "instructors": [
-        "Lewis, Kevin Michael"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923181",
-      "type": "DI",
-      "section": "A05",
-      "days": "Th",
-      "time": "10:00a-10:50a",
-      "building": "SSB",
-      "room": "101",
-      "instructor": "Lewis, Kevin Michael",
-      "instructors": [
-        "Lewis, Kevin Michael"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923182",
-      "type": "DI",
-      "section": "A06",
-      "days": "Th",
-      "time": "11:00a-11:50a",
-      "building": "SSB",
-      "room": "101",
-      "instructor": "Lewis, Kevin Michael",
-      "instructors": [
-        "Lewis, Kevin Michael"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -143,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "e465ded450a51855ecac87097b7a25f20ad1b32d4d66efd5a69c690a29911893": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -163,16 +32,15 @@
         "time": "8:00a-9:20a",
         "building": "PCYNH",
         "room": "109",
-        "instructor": "Lewis, Kevin Michael",
         "instructors": [
           "Lewis, Kevin Michael"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "f1d49740abc7a5f798b19cb21512236da4ebdcebcaf6526dddfa29561d04a985": {
         "sectxt": true,
         "sectionID": "923177",
         "type": "DI",
@@ -181,14 +49,13 @@
         "time": "10:00a-10:50a",
         "building": "SOLIS",
         "room": "109",
-        "instructor": "Lewis, Kevin Michael",
         "instructors": [
           "Lewis, Kevin Michael"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "49f061292e9ab940b25f2a13ac027da71098105d14845a4b12374b5abcc72f8f": {
         "sectxt": true,
         "sectionID": "923178",
         "type": "DI",
@@ -197,14 +64,13 @@
         "time": "11:00a-11:50a",
         "building": "SOLIS",
         "room": "109",
-        "instructor": "Lewis, Kevin Michael",
         "instructors": [
           "Lewis, Kevin Michael"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "33a403f96f58524a622c677d69f53bdf1d2960afaa400de3edd40e6e7fc8bd34": {
         "sectxt": true,
         "sectionID": "923179",
         "type": "DI",
@@ -213,14 +79,13 @@
         "time": "3:00p-3:50p",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Lewis, Kevin Michael",
         "instructors": [
           "Lewis, Kevin Michael"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "90761f3f71252ffe7be9c24315507e2d216129e0d517b1b1233cd16f32a64451": {
         "sectxt": true,
         "sectionID": "923180",
         "type": "DI",
@@ -229,16 +94,15 @@
         "time": "4:00p-4:50p",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Lewis, Kevin Michael",
         "instructors": [
           "Lewis, Kevin Michael"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8545ab0c79c23ec92792f48a8a4e9c983955e31d9ddad421339a098929d3ab17": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -247,14 +111,13 @@
         "time": "8:00a-9:20a",
         "building": "PCYNH",
         "room": "109",
-        "instructor": "Lewis, Kevin Michael",
         "instructors": [
           "Lewis, Kevin Michael"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       },
-      {
+      "0419f9b86e7badd20b43101048d338ce402cefb5896e3b425b7bb94d5bf08c0f": {
         "sectxt": true,
         "sectionID": "923181",
         "type": "DI",
@@ -263,14 +126,13 @@
         "time": "10:00a-10:50a",
         "building": "SSB",
         "room": "101",
-        "instructor": "Lewis, Kevin Michael",
         "instructors": [
           "Lewis, Kevin Michael"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "bc09aa881790e52cfaac9496f0b7f28a23affc953b4748a65376cc2e83b5dcf2": {
         "sectxt": true,
         "sectionID": "923182",
         "type": "DI",
@@ -279,16 +141,15 @@
         "time": "11:00a-11:50a",
         "building": "SSB",
         "room": "101",
-        "instructor": "Lewis, Kevin Michael",
         "instructors": [
           "Lewis, Kevin Michael"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

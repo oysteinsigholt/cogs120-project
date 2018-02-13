@@ -3,42 +3,9 @@
   "name": "Engineering Leadership",
   "department": "ENG",
   "id": "100B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929112",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "5:00p-6:50p",
-      "building": "PFBH",
-      "room": "003",
-      "instructor": "Williams, Ebonee P.",
-      "instructors": [
-        "Williams, Ebonee P."
-      ],
-      "start_time": "17:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "efbfc771440a7806d919651a4aa94c9fe44f26709c3d53f22f8a368d1c0fcc18": {
         "sectxt": true,
         "sectionID": "929112",
         "type": "LE",
@@ -66,19 +32,15 @@
         "time": "5:00p-6:50p",
         "building": "PFBH",
         "room": "003",
-        "instructor": "Williams, Ebonee P.",
         "instructors": [
           "Williams, Ebonee P."
         ],
         "start_time": "17:00",
         "end_time": "18:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

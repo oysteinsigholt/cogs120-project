@@ -3,47 +3,73 @@
   "name": "Molecular and Cell Biology",
   "department": "BIOM",
   "id": "254",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "SE",
-      "section": "A50",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Desai, Arshad",
-      "instructors": [
-        "Desai, Arshad"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
       "sectionID": "",
+      "type": "DI",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Desai, Arshad"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
       "type": "SE",
       "section": "A50",
       "days": "TBA",
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Desai, Arshad",
       "instructors": [
         "Desai, Arshad"
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "M": {
+      "bc6c3ad8c66b8dbc5cf5e444e37abb564874f9eb16e73a314907924bb861027e": {
+        "sectxt": true,
+        "sectionID": "929410",
+        "type": "LE",
+        "section": "A00",
+        "days": "MTh",
+        "time": "3:30p-4:50p",
+        "building": "CMME",
+        "room": "2047",
+        "instructors": [
+          "Desai, Arshad"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    },
+    "Th": {
+      "692d2dc40ffc00d27830aa795bb4faa985ea7c9c77151d71e3f8a101db58684a": {
+        "sectxt": true,
+        "sectionID": "929410",
+        "type": "LE",
+        "section": "A00",
+        "days": "MTh",
+        "time": "3:30p-4:50p",
+        "building": "CMME",
+        "room": "2047",
+        "instructors": [
+          "Desai, Arshad"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

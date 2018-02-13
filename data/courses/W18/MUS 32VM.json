@@ -3,30 +3,12 @@
   "name": "Vocal Masterclass",
   "department": "MUS",
   "id": "32VM",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921918",
-      "type": "LA",
-      "section": "A00",
-      "days": "M",
-      "time": "3:00p-4:50p",
-      "building": "CPMC",
-      "room": "264",
-      "instructor": "Wiest, Kirsten Ashley",
-      "instructors": [
-        "Wiest, Kirsten Ashley"
-      ],
-      "start_time": "15:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "29106a67ddcd128742bda5ee338ccab224fec05e9d66261330620a24292aa107": {
         "sectxt": true,
         "sectionID": "921918",
         "type": "LA",
@@ -35,19 +17,15 @@
         "time": "3:00p-4:50p",
         "building": "CPMC",
         "room": "264",
-        "instructor": "Wiest, Kirsten Ashley",
         "instructors": [
           "Wiest, Kirsten Ashley"
         ],
         "start_time": "15:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,40 +3,8 @@
   "name": "Medical Devices and Interfaces",
   "department": "ECE",
   "id": "202",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "933308",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "EBU1",
-      "room": "2315",
-      "instructor": "Kuzum, Duygu",
-      "instructors": [
-        "Kuzum, Duygu"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "B01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Kuzum, Duygu",
-      "instructors": [
-        "Kuzum, Duygu"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -47,16 +15,14 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Kuzum, Duygu",
       "instructors": [
         "Kuzum, Duygu"
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "7ef899275085182e075da2f703667266cf161a4c715fb4cac97f2b506018f381": {
         "sectxt": true,
         "sectionID": "933308",
         "type": "LE",
@@ -65,17 +31,15 @@
         "time": "12:30p-1:50p",
         "building": "EBU1",
         "room": "2315",
-        "instructor": "Kuzum, Duygu",
         "instructors": [
           "Kuzum, Duygu"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8248462da9ac1b7ec6994ec4900f0d2b0888995d39726fbcdd99553c1b42906d": {
         "sectxt": true,
         "sectionID": "933308",
         "type": "LE",
@@ -84,16 +48,16 @@
         "time": "12:30p-1:50p",
         "building": "EBU1",
         "room": "2315",
-        "instructor": "Kuzum, Duygu",
         "instructors": [
           "Kuzum, Duygu"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

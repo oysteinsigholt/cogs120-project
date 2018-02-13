@@ -3,30 +3,12 @@
   "name": "ISP Seminar Series B",
   "department": "CLRE",
   "id": "295B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "932646",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "2:00p-4:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Aslam, Saima",
-      "instructors": [
-        "Aslam, Saima"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "ad460cd80a904f5e5b0c40c0ef36f051d1edbc1cef40ef5955c28a9a34b43ce5": {
         "sectxt": true,
         "sectionID": "932646",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "2:00p-4:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Aslam, Saima",
         "instructors": [
           "Aslam, Saima"
         ],
         "start_time": "14:00",
         "end_time": "16:00"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

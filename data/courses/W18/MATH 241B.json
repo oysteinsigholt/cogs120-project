@@ -3,42 +3,9 @@
   "name": "Functional Analysis",
   "department": "MATH",
   "id": "241B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927293",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "APM",
-      "room": "7421",
-      "instructor": "Agler, Jim",
-      "instructors": [
-        "Agler, Jim"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "ac9596640e86727652003f0ae7885786c0f6641d2d4ef8caa1b832e90a08af64": {
         "sectxt": true,
         "sectionID": "927293",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "1:00p-1:50p",
         "building": "APM",
         "room": "7421",
-        "instructor": "Agler, Jim",
         "instructors": [
           "Agler, Jim"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "788f0e13c3bd9725e2c001bd43a3112e83ea156512cfb00ff380d8a811a3decc": {
         "sectxt": true,
         "sectionID": "927293",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "1:00p-1:50p",
         "building": "APM",
         "room": "7421",
-        "instructor": "Agler, Jim",
         "instructors": [
           "Agler, Jim"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "2fdd474c0b1f6628ea0248dfaad8ba2cd96740b79a25877cfc8e0ccd6fcf2f44": {
         "sectxt": true,
         "sectionID": "927293",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "1:00p-1:50p",
         "building": "APM",
         "room": "7421",
-        "instructor": "Agler, Jim",
         "instructors": [
           "Agler, Jim"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

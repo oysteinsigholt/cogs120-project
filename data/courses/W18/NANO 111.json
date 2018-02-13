@@ -3,42 +3,9 @@
   "name": "Characterization/NanoEng Systm",
   "department": "NANO",
   "id": "111",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930086",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "6:30p-7:50p",
-      "building": "WLH",
-      "room": "2207",
-      "instructor": "Fenning, David",
-      "instructors": [
-        "Fenning, David"
-      ],
-      "start_time": "18:30",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "83f667703ee5f41443699d3c685d2af7204f58e7d0026726650a8f5259ecf403": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "650d7397a6720ddca485eb1ad17824a02d7b837e963fb89419478f3539ed22e8": {
         "sectxt": true,
         "sectionID": "930086",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "6:30p-7:50p",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Fenning, David",
         "instructors": [
           "Fenning, David"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "bde155b9f31e8e95fb7739c423450a2b99a3e575d57f998b3328a36b6af97707": {
         "sectxt": true,
         "sectionID": "930086",
         "type": "LE",
@@ -86,16 +49,16 @@
         "time": "6:30p-7:50p",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Fenning, David",
         "instructors": [
           "Fenning, David"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

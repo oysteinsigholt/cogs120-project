@@ -3,56 +3,9 @@
   "name": "Advanced Structural Concrete",
   "department": "SE",
   "id": "211",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "936840",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "8:00a-8:50a",
-      "building": "PCYNH",
-      "room": "121",
-      "instructor": "Restrepo, Jose",
-      "instructors": [
-        "Restrepo, Jose"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "W",
-      "time": "9:00a-9:50a",
-      "building": "PCYNH",
-      "room": "120",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "99084e85dcbf5c5064e8677480f27cc1eb8ff5538061a54d6a1f44628193757c": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -61,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "ae8505fe2106b8f2521598b6066e1e87c74142d308abaa78a380be168be3637f": {
         "sectxt": true,
         "sectionID": "936840",
         "type": "LE",
@@ -80,17 +32,15 @@
         "time": "8:00a-8:50a",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "Restrepo, Jose",
         "instructors": [
           "Restrepo, Jose"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "f2d89e63e822ef099f91fb417b4f3222bc51edec5b7d0f47dcd053d5bbb559eb": {
         "sectxt": true,
         "sectionID": "936840",
         "type": "LE",
@@ -99,14 +49,13 @@
         "time": "8:00a-8:50a",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "Restrepo, Jose",
         "instructors": [
           "Restrepo, Jose"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "467a04643c312b6e75eb7b65790966ad1c16aae38e729654614ce0e8bdf51fdc": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -115,15 +64,13 @@
         "time": "9:00a-9:50a",
         "building": "PCYNH",
         "room": "120",
-        "instructor": "",
         "instructors": [],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "1cec0e2af7f794eb6a3ec2957b0491408a24713caaf912fb5e7900610c52e5f4": {
         "sectxt": true,
         "sectionID": "936840",
         "type": "LE",
@@ -132,15 +79,16 @@
         "time": "8:00a-8:50a",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "Restrepo, Jose",
         "instructors": [
           "Restrepo, Jose"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

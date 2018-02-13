@@ -3,24 +3,8 @@
   "name": "Intro/Interventional Radiology",
   "department": "RAD",
   "id": "412",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928621",
-      "type": "CL",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Rivera-Sanfeliz, Gerant M",
-      "instructors": [
-        "Rivera-Sanfeliz, Gerant M"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Rivera-Sanfeliz, Gerant M",
       "instructors": [
         "Rivera-Sanfeliz, Gerant M"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

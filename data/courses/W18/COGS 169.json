@@ -3,44 +3,12 @@
   "name": "Genetic Information/Behavior",
   "department": "COGS",
   "id": "169",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "933306",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Greenspan, Ralph J.",
-      "instructors": [
-        "Greenspan, Ralph J."
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [
+    "Location: APM 1882",
     "Class location AP&M 1882."
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -49,18 +17,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "013430dd6ed95d8a448d173ff0e38ac1b2b03c212bff33f38bbadb2d38e20de4": {
         "sectxt": true,
         "sectionID": "933306",
         "type": "LE",
@@ -69,17 +35,15 @@
         "time": "11:00a-12:20p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Greenspan, Ralph J.",
         "instructors": [
           "Greenspan, Ralph J."
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "3cc3fd3ec46ae1ac00d71cb2cd5fbae1fff41b3bfd10ed6148d3ac37049f6ec1": {
         "sectxt": true,
         "sectionID": "933306",
         "type": "LE",
@@ -88,16 +52,16 @@
         "time": "11:00a-12:20p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Greenspan, Ralph J.",
         "instructors": [
           "Greenspan, Ralph J."
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

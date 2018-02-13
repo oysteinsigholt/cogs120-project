@@ -3,33 +3,12 @@
   "name": "Currnt Topics-Health PolicyLaw",
   "department": "HLAW",
   "id": "213",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929378",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "5:30p-8:30p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Mackey, Timothy Ken",
-      "instructors": [
-        "Mackey, Timothy Ken"
-      ],
-      "start_time": "17:30",
-      "end_time": "20:30"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "f73b19713799d68486abcaabf12c9b74719d8b6f8414beb6a31ea97a1bb55adf": {
         "sectxt": true,
         "sectionID": "929378",
         "type": "SE",
@@ -38,16 +17,15 @@
         "time": "5:30p-8:30p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Mackey, Timothy Ken",
         "instructors": [
           "Mackey, Timothy Ken"
         ],
         "start_time": "17:30",
         "end_time": "20:30"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

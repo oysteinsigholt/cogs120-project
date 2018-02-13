@@ -3,42 +3,9 @@
   "name": "Departmental Colloquium",
   "department": "ETHN",
   "id": "230",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922643",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "3:00p-4:20p",
-      "building": "SSB",
-      "room": "103",
-      "instructor": "Kheshti, Roshanak",
-      "instructors": [
-        "Kheshti, Roshanak"
-      ],
-      "start_time": "15:00",
-      "end_time": "16:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,19 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "ce910aa2fd0a59026a373e1fd36b620c3f266c1c8b47ca0448033df44cb62065": {
         "sectxt": true,
         "sectionID": "922643",
         "type": "SE",
@@ -68,17 +32,15 @@
         "time": "3:00p-4:20p",
         "building": "SSB",
         "room": "103",
-        "instructor": "Kheshti, Roshanak",
         "instructors": [
           "Kheshti, Roshanak"
         ],
         "start_time": "15:00",
         "end_time": "16:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

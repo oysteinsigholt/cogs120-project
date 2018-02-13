@@ -3,31 +3,44 @@
   "name": "Beginning Contemporary Dance",
   "department": "TDMV",
   "id": "2",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920457",
-      "type": "ST",
-      "section": "C00",
-      "days": "TuTh",
-      "time": "10:00a-11:20a",
-      "building": "DANCE",
-      "room": "2",
-      "instructor": "Rincon, Patricia A.",
-      "instructors": [
-        "Rincon, Patricia A."
-      ],
-      "start_time": "10:00",
-      "end_time": "11:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "f0f2bcea328592a954f6b5641afe54926aeb86b446058184062cb68151519040": {
+        "sectxt": true,
+        "sectionID": "920455",
+        "type": "ST",
+        "section": "A00",
+        "days": "MW",
+        "time": "8:30a-9:50a",
+        "building": "DANCE",
+        "room": "2",
+        "instructors": [
+          "Geiger, Eric"
+        ],
+        "start_time": "8:30",
+        "end_time": "9:50"
+      }
+    },
+    "Tu": {
+      "5ba30f46564ade32ef02ac3b9ce24bf96c0513ba5108e2bc62042bf9bbb960da": {
+        "sectxt": true,
+        "sectionID": "920456",
+        "type": "ST",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "8:30a-9:50a",
+        "building": "DANCE",
+        "room": "2",
+        "instructors": [
+          "Clancy, Liam"
+        ],
+        "start_time": "8:30",
+        "end_time": "9:50"
+      },
+      "0048ff6258df22cd0e0486166459764c5056b97f3ffa8b92fd661451dc918dc9": {
         "sectxt": true,
         "sectionID": "920457",
         "type": "ST",
@@ -36,17 +49,47 @@
         "time": "10:00a-11:20a",
         "building": "DANCE",
         "room": "2",
-        "instructor": "Rincon, Patricia A.",
         "instructors": [
           "Rincon, Patricia A."
         ],
         "start_time": "10:00",
         "end_time": "11:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "W": {
+      "fcb77b355ad71a7f1760650ac5a2b64ae970a770fbb255309090262413b0fe44": {
+        "sectxt": true,
+        "sectionID": "920455",
+        "type": "ST",
+        "section": "A00",
+        "days": "MW",
+        "time": "8:30a-9:50a",
+        "building": "DANCE",
+        "room": "2",
+        "instructors": [
+          "Geiger, Eric"
+        ],
+        "start_time": "8:30",
+        "end_time": "9:50"
+      }
+    },
+    "Th": {
+      "2e2eff7be5aeec3fb4dfd56c849917cb1fa12d5a4d67b32ba8609b9ae28040b1": {
+        "sectxt": true,
+        "sectionID": "920456",
+        "type": "ST",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "8:30a-9:50a",
+        "building": "DANCE",
+        "room": "2",
+        "instructors": [
+          "Clancy, Liam"
+        ],
+        "start_time": "8:30",
+        "end_time": "9:50"
+      },
+      "ffd0371cc5f8d48af533a632745b5cdb42378ee4c8059f508278f2bdc42a1041": {
         "sectxt": true,
         "sectionID": "920457",
         "type": "ST",
@@ -55,16 +98,17 @@
         "time": "10:00a-11:20a",
         "building": "DANCE",
         "room": "2",
-        "instructor": "Rincon, Patricia A.",
         "instructors": [
           "Rincon, Patricia A."
         ],
         "start_time": "10:00",
         "end_time": "11:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

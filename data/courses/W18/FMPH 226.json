@@ -3,44 +3,11 @@
   "name": "Stat Mthds/Observation Studies",
   "department": "FMPH",
   "id": "226",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929987",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:30p-4:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Tu, Xin",
-      "instructors": [
-        "Tu, Xin"
-      ],
-      "start_time": "14:30",
-      "end_time": "16:00"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [
     "Location: Biomedical Research Facility 2 BRF2 room 1102"
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -49,18 +16,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "7f75373dc5ba4cf4e19933d38a88443388bb98921e1dc425ff7c5c649ebf862b": {
         "sectxt": true,
         "sectionID": "929987",
         "type": "LE",
@@ -69,17 +34,15 @@
         "time": "2:30p-4:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Tu, Xin",
         "instructors": [
           "Tu, Xin"
         ],
         "start_time": "14:30",
         "end_time": "16:00"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "0d98f599768a57abcd0804c8ecd2b68106077b79993e276b4f1284ee3648e5df": {
         "sectxt": true,
         "sectionID": "929987",
         "type": "LE",
@@ -88,16 +51,15 @@
         "time": "2:30p-4:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Tu, Xin",
         "instructors": [
           "Tu, Xin"
         ],
         "start_time": "14:30",
         "end_time": "16:00"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

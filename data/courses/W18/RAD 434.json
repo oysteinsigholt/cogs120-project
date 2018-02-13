@@ -3,24 +3,8 @@
   "name": "Chest Radiology",
   "department": "RAD",
   "id": "434",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928625",
-      "type": "CL",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Yen, Andrew C",
-      "instructors": [
-        "Yen, Andrew C"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Yen, Andrew C",
       "instructors": [
         "Yen, Andrew C"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

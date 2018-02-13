@@ -3,42 +3,9 @@
   "name": "Engineering Group Design Proj",
   "department": "ECE",
   "id": "191",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925094",
-      "type": "LA",
-      "section": "A00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "WLH",
-      "room": "2205",
-      "instructor": "Cosman, Pamela C.",
-      "instructors": [
-        "Cosman, Pamela C."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "9af6e4dbde766e137ca20a35e3c9406592b28d6fad40da173faec4dbf55597d1": {
         "sectxt": true,
         "sectionID": "925094",
         "type": "LA",
@@ -66,17 +32,15 @@
         "time": "11:00a-11:50a",
         "building": "WLH",
         "room": "2205",
-        "instructor": "Cosman, Pamela C.",
         "instructors": [
           "Cosman, Pamela C."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "9526ef97e0b97e524c43a2a662ca6f7c31fac885de18274f99dc179ac2e5165c": {
         "sectxt": true,
         "sectionID": "925094",
         "type": "LA",
@@ -85,17 +49,15 @@
         "time": "11:00a-11:50a",
         "building": "WLH",
         "room": "2205",
-        "instructor": "Cosman, Pamela C.",
         "instructors": [
           "Cosman, Pamela C."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "d0aac4c3b07290a6258c4d8b4897c4810e16d0c24e5ac7fd3058c94f5d87a54d": {
         "sectxt": true,
         "sectionID": "925094",
         "type": "LA",
@@ -104,15 +66,15 @@
         "time": "11:00a-11:50a",
         "building": "WLH",
         "room": "2205",
-        "instructor": "Cosman, Pamela C.",
         "instructors": [
           "Cosman, Pamela C."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

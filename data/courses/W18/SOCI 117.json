@@ -3,40 +3,8 @@
   "name": "Language, Culture & Education",
   "department": "SOCI",
   "id": "117",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "CENTR",
-      "room": "105",
-      "instructor": "Van Steenbergen, Suzanne Michele",
-      "instructors": [
-        "Van Steenbergen, Suzanne Michele"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923188",
-      "type": "DI",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Van Steenbergen, Suzanne Michele",
-      "instructors": [
-        "Van Steenbergen, Suzanne Michele"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -47,16 +15,14 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Van Steenbergen, Suzanne Michele",
       "instructors": [
         "Van Steenbergen, Suzanne Michele"
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "8987b7af87d847c623f8d9e86e86f1d582c28de0cd3bc163ae563b429ae225f9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -65,17 +31,15 @@
         "time": "2:00p-3:20p",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Van Steenbergen, Suzanne Michele",
         "instructors": [
           "Van Steenbergen, Suzanne Michele"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "126816888d61f914f97a4cf223b36ae2f29f5df8aa68f3942a0e9370bddbed90": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -84,16 +48,15 @@
         "time": "2:00p-3:20p",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Van Steenbergen, Suzanne Michele",
         "instructors": [
           "Van Steenbergen, Suzanne Michele"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

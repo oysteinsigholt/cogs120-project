@@ -3,207 +3,9 @@
   "name": "Phys Majrs-EM Wav,Opt,Spec Rel",
   "department": "PHYS",
   "id": "4D",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "YORK",
-      "room": "4080A",
-      "instructor": "Manohar, Aneesh Vasant",
-      "instructors": [
-        "Manohar, Aneesh Vasant"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "YORK",
-      "room": "4080A",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923742",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "YORK",
-      "room": "4080A",
-      "instructor": "Manohar, Aneesh Vasant",
-      "instructors": [
-        "Manohar, Aneesh Vasant"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/17/2018",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "YORK",
-      "room": "4080A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-17T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/24/2018",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "YORK",
-      "room": "4080A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-24T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/31/2018",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "YORK",
-      "room": "4080A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-31T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/07/2018",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "YORK",
-      "room": "4080A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-07T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/14/2018",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "YORK",
-      "room": "4080A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-14T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/21/2018",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "YORK",
-      "room": "4080A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-21T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/28/2018",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "YORK",
-      "room": "4080A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-28T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/07/2018",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "YORK",
-      "room": "4080A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-07T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/14/2018",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "YORK",
-      "room": "4080A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-14T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "bd34257533c3110c9063a1eecdb0ea4cc2ff96fa5488e46d65b5326773692678": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -212,13 +14,12 @@
       "time": "3:00p-3:50p",
       "building": "YORK",
       "room": "4080A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-17T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "16948f8520df7fce81111c5e60291ac905f632373dec6f8f13c20fadbb981e95": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -227,13 +28,12 @@
       "time": "3:00p-3:50p",
       "building": "YORK",
       "room": "4080A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-24T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "12ef44437f7cb3930a13dfa49302ff6d1867da7773e8166b164c455947db6d77": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -242,13 +42,12 @@
       "time": "3:00p-3:50p",
       "building": "YORK",
       "room": "4080A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-31T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "3268bd8e31eaab19cf27fdd5be19795e0ee8b7e8271e5812277e9f0893e57d8f": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -257,13 +56,12 @@
       "time": "3:00p-3:50p",
       "building": "YORK",
       "room": "4080A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-07T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "7736230cce08650a2671b9752ff842b164ee487362c3998dc2b171d2d77af177": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -272,13 +70,12 @@
       "time": "3:00p-3:50p",
       "building": "YORK",
       "room": "4080A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-14T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "5ec4d52fdd536529fd7bebf1b591a59b57229baa129bf0e35a4c8c07cec640a1": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -287,13 +84,12 @@
       "time": "3:00p-3:50p",
       "building": "YORK",
       "room": "4080A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-21T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "db7f6ba330cf55af41b839992efe245cf7ac645aa8254da98eb4e1b840a3b3cf": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -302,13 +98,12 @@
       "time": "3:00p-3:50p",
       "building": "YORK",
       "room": "4080A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-28T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "314e5930009ce11f071998675362d2d86e85ada78045f223562e19c760af0b5b": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -317,13 +112,12 @@
       "time": "3:00p-3:50p",
       "building": "YORK",
       "room": "4080A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-07T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "2ae0c2ca3523f7227efaf1540bb3a59c72de52b23b7eda76001d9a2c837ebcf2": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -332,13 +126,12 @@
       "time": "3:00p-3:50p",
       "building": "YORK",
       "room": "4080A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-14T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -347,18 +140,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "c12e876c286e075f54b31f5190baf1c12afcaa3c60c656df28d942741b529a9a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -367,16 +158,15 @@
         "time": "9:30a-10:50a",
         "building": "YORK",
         "room": "4080A",
-        "instructor": "Manohar, Aneesh Vasant",
         "instructors": [
           "Manohar, Aneesh Vasant"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "3a3b4dbf6b510f23915661a5539f870155f339670afbba28b070f4ba66bc3149": {
         "sectxt": true,
         "sectionID": "923742",
         "type": "DI",
@@ -385,16 +175,15 @@
         "time": "4:00p-4:50p",
         "building": "YORK",
         "room": "4080A",
-        "instructor": "Manohar, Aneesh Vasant",
         "instructors": [
           "Manohar, Aneesh Vasant"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "1fd76e34fb7865fce7ff5adca312ddc805651e55d9a8d5231108d9552d7045e9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -403,16 +192,15 @@
         "time": "9:30a-10:50a",
         "building": "YORK",
         "room": "4080A",
-        "instructor": "Manohar, Aneesh Vasant",
         "instructors": [
           "Manohar, Aneesh Vasant"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "6721ec3568dcd8f8a49712a671b801dfee4ddaabbc63506c0e935ab456b7dffd": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -421,13 +209,13 @@
         "time": "2:00p-2:50p",
         "building": "YORK",
         "room": "4080A",
-        "instructor": "",
         "instructors": [],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

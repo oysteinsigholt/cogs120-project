@@ -3,58 +3,11 @@
   "name": "Quantitative Methods/Genetics",
   "department": "BGGN",
   "id": "237",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930560",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "9:00a-12:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Yeo, Eugene Wei-Ming",
-      "instructors": [
-        "Yeo, Eugene Wei-Ming"
-      ],
-      "start_time": "9:00",
-      "end_time": "12:00"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "PR",
-      "section": "B01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Yeo, Eugene Wei-Ming",
-      "instructors": [
-        "Yeo, Eugene Wei-Ming"
-      ]
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [
     "Location: SCRM, 1013"
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,13 +16,12 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [
     {
       "sectxt": true,
@@ -80,16 +32,14 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Yeo, Eugene Wei-Ming",
       "instructors": [
         "Yeo, Eugene Wei-Ming"
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "4cc958891e7032df960527350cee9f238af006d7d5806cd8a404b1ef052e6a08": {
         "sectxt": true,
         "sectionID": "930560",
         "type": "LE",
@@ -98,17 +48,15 @@
         "time": "9:00a-12:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Yeo, Eugene Wei-Ming",
         "instructors": [
           "Yeo, Eugene Wei-Ming"
         ],
         "start_time": "9:00",
         "end_time": "12:00"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "065e74fc229b25e70205ae64b0b29180e971e06a1201da30304566994c007fb9": {
         "sectxt": true,
         "sectionID": "930560",
         "type": "LE",
@@ -117,16 +65,15 @@
         "time": "9:00a-12:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Yeo, Eugene Wei-Ming",
         "instructors": [
           "Yeo, Eugene Wei-Ming"
         ],
         "start_time": "9:00",
         "end_time": "12:00"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "B"
+  ]
 }

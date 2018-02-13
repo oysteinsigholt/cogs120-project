@@ -3,40 +3,8 @@
   "name": "Educ Research/Outreach Lab",
   "department": "PSYC",
   "id": "117",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "F",
-      "time": "3:00p-4:20p",
-      "building": "MCGIL",
-      "room": "1350",
-      "instructor": "Bajic, Daniel Andrew",
-      "instructors": [
-        "Bajic, Daniel Andrew"
-      ],
-      "start_time": "15:00",
-      "end_time": "16:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924623",
-      "type": "FW",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Bajic, Daniel Andrew",
-      "instructors": [
-        "Bajic, Daniel Andrew"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -47,19 +15,14 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Bajic, Daniel Andrew",
       "instructors": [
         "Bajic, Daniel Andrew"
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "ba482588e34752895fd9d9c34a2bb108f820b2874785e41c0577120004da8909": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -68,15 +31,15 @@
         "time": "3:00p-4:20p",
         "building": "MCGIL",
         "room": "1350",
-        "instructor": "Bajic, Daniel Andrew",
         "instructors": [
           "Bajic, Daniel Andrew"
         ],
         "start_time": "15:00",
         "end_time": "16:20"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

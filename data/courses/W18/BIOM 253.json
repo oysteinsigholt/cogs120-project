@@ -3,54 +3,8 @@
   "name": "Pathogens and Host Defense",
   "department": "BIOM",
   "id": "253",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929407",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "2:00p-5:00p",
-      "building": "MET",
-      "room": "314",
-      "instructor": "Nizet, Victor F.",
-      "instructors": [
-        "Nizet, Victor F."
-      ],
-      "start_time": "14:00",
-      "end_time": "17:00"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Nizet, Victor F.",
-      "instructors": [
-        "Nizet, Victor F."
-      ]
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "SE",
-      "section": "A50",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Nizet, Victor F.",
-      "instructors": [
-        "Nizet, Victor F."
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -61,7 +15,6 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Nizet, Victor F.",
       "instructors": [
         "Nizet, Victor F."
       ]
@@ -75,16 +28,14 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Nizet, Victor F.",
       "instructors": [
         "Nizet, Victor F."
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "f178bd9878071ffe08691b8dac080b000c8440b068f7ebcd92f614b750c79e2a": {
         "sectxt": true,
         "sectionID": "929407",
         "type": "LE",
@@ -93,18 +44,15 @@
         "time": "2:00p-5:00p",
         "building": "MET",
         "room": "314",
-        "instructor": "Nizet, Victor F.",
         "instructors": [
           "Nizet, Victor F."
         ],
         "start_time": "14:00",
         "end_time": "17:00"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

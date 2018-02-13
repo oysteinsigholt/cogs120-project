@@ -3,33 +3,12 @@
   "name": "Sem in Bioinformtcs & Sys Biol",
   "department": "BNFO",
   "id": "281",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921216",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "12:00p-12:50p",
-      "building": "LFFB",
-      "room": "107",
-      "instructor": "Zhong, Sheng",
-      "instructors": [
-        "Zhong, Sheng"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "0e61cdb6b714d27db73ce9376db2a26407878d8534130905c570be3fc0192d42": {
         "sectxt": true,
         "sectionID": "921216",
         "type": "SE",
@@ -38,16 +17,15 @@
         "time": "12:00p-12:50p",
         "building": "LFFB",
         "room": "107",
-        "instructor": "Zhong, Sheng",
         "instructors": [
           "Zhong, Sheng"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

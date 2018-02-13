@@ -3,42 +3,9 @@
   "name": "Neoliberal Cities",
   "department": "COMM",
   "id": "181",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924206",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "MCC",
-      "room": "201",
-      "instructor": "Cordoba Azcarate, Matilde",
-      "instructors": [
-        "Cordoba Azcarate, Matilde"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "2f32a48b3af1e9a6fc24fbb0c11b0efa9b3b600d3d2e947c0ba2c632c4a88c24": {
         "sectxt": true,
         "sectionID": "924206",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "12:30p-1:50p",
         "building": "MCC",
         "room": "201",
-        "instructor": "Cordoba Azcarate, Matilde",
         "instructors": [
           "Cordoba Azcarate, Matilde"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "3fd7c60fa0782888e1a6e46c1eaa7bbc2bf6d0bb0907ec2972490f683f0cf2f4": {
         "sectxt": true,
         "sectionID": "924206",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "12:30p-1:50p",
         "building": "MCC",
         "room": "201",
-        "instructor": "Cordoba Azcarate, Matilde",
         "instructors": [
           "Cordoba Azcarate, Matilde"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

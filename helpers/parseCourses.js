@@ -1,4 +1,5 @@
 const jsonfile = require('jsonfile');
+const crypto = require('crypto');
 
 const courses = jsonfile.readFileSync('./data/courses.json');
 
@@ -32,7 +33,7 @@ function dumpNames() {
     courseList.courses.push(`${key}: ${course.name}`);
   });
 
-  jsonfile.writeFileSync('./data/courses/W18/courses.json', courseList);
+  jsonfile.writeFileSync('./public/data/courses/W18.json', courseList);
 }
 
 function parseDays(dayString) {
@@ -66,17 +67,18 @@ function parseDays(dayString) {
 function dumpCourses() {
   Object.keys(courses).forEach((key) => {
     const course = courses[key];
-    course.events_single = [];
+    course.events_single = {};
     course.events_unknown = [];
     course.events_repeating = {
-      M: [],
-      Tu: [],
-      W: [],
-      Th: [],
-      F: [],
-      Sa: [],
-      Su: [],
+      M: {},
+      Tu: {},
+      W: {},
+      Th: {},
+      F: {},
+      Sa: {},
+      Su: {},
     };
+    course.sections = [];
 
     for (let i = 0; i < course.timeslots.length; i += 1) {
       const timeslot = course.timeslots[i];
@@ -94,10 +96,12 @@ function dumpCourses() {
           timeslot.end_time = parseTime(times[1]);
         }
 
-        course.events_single.push(timeslot);
+        const id = crypto.createHash('sha256').update(timeslot.sectionID + timeslot.type + timeslot.section + timeslot.days + timeslot.time, 'utf8').digest('hex');
+        course.events_single[id] = timeslot;
       } else {
         timeslot.start_time = null;
         timeslot.end_time = null;
+        course.sections.push(timeslot.section.charAt(0));
 
         const times = timeslot.time.split('-');
         if (times.length === 2) {
@@ -108,10 +112,21 @@ function dumpCourses() {
         const days = parseDays(timeslot.days);
 
         for (let j = 0; j < days.length; j += 1) {
-          course.events_repeating[days[j]].push(timeslot);
+          const id = crypto.createHash('sha256').update(timeslot.sectionID + timeslot.type + timeslot.section + j + timeslot.time, 'utf8').digest('hex');
+          course.events_repeating[days[j]][id] = timeslot;
         }
       }
     }
+
+    Object.keys(course.events_repeating).forEach((day) => {
+      if (Object.keys(course.events_repeating[day]).length === 0) {
+        delete course.events_repeating[day];
+      }
+    });
+
+    course.sections = course.sections.filter((elem, pos) => course.sections.indexOf(elem) === pos);
+
+    delete course.timeslots;
 
     jsonfile.writeFileSync(`./data/courses/W18/${course.code}.json`, course, { spaces: 2 });
   });

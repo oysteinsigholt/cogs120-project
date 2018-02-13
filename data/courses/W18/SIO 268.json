@@ -3,31 +3,12 @@
   "name": "Seminar Marine Chem & Geochem",
   "department": "SIO",
   "id": "268",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930434",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "3:30p-5:00p",
-      "building": "VAUGN",
-      "room": "328",
-      "instructor": "Aluwihare, Lihini",
-      "instructors": [
-        "Aluwihare, Lihini"
-      ],
-      "start_time": "15:30",
-      "end_time": "17:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "5a72456d81b53b9976b6a91f851506dbce2af0648b741999deef1463c56ab72d": {
         "sectxt": true,
         "sectionID": "930434",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "3:30p-5:00p",
         "building": "VAUGN",
         "room": "328",
-        "instructor": "Aluwihare, Lihini",
         "instructors": [
           "Aluwihare, Lihini"
         ],
         "start_time": "15:30",
         "end_time": "17:00"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,33 +3,12 @@
   "name": "Contemporary Liberal Theory",
   "department": "POLI",
   "id": "216",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925374",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "12:00p-2:50p",
-      "building": "SSB",
-      "room": "104",
-      "instructor": "Ingham, Sean",
-      "instructors": [
-        "Ingham, Sean"
-      ],
-      "start_time": "12:00",
-      "end_time": "14:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "4913ae053e22b520208d331c34cb2d5cfa10d58fd13af09b40a15c60aca333d4": {
         "sectxt": true,
         "sectionID": "925374",
         "type": "SE",
@@ -38,16 +17,15 @@
         "time": "12:00p-2:50p",
         "building": "SSB",
         "room": "104",
-        "instructor": "Ingham, Sean",
         "instructors": [
           "Ingham, Sean"
         ],
         "start_time": "12:00",
         "end_time": "14:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

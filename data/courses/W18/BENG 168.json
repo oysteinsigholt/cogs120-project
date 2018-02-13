@@ -3,88 +3,9 @@
   "name": "Biomolecular Engineering",
   "department": "BENG",
   "id": "168",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "5:00p-6:20p",
-      "building": "WLH",
-      "room": "2205",
-      "instructor": "Wang, Yingxiao",
-      "instructors": [
-        "Wang, Yingxiao"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2205",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923332",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "218",
-      "instructor": "Wang, Yingxiao",
-      "instructors": [
-        "Wang, Yingxiao"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923333",
-      "type": "DI",
-      "section": "A03",
-      "days": "F",
-      "time": "12:00p-12:50p",
-      "building": "HSS",
-      "room": "2321",
-      "instructor": "Wang, Yingxiao",
-      "instructors": [
-        "Wang, Yingxiao"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -93,18 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "503eae0a8858b7b329809768e5967230ac8000e953deadca9a39203641302192": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -113,16 +32,15 @@
         "time": "5:00p-6:20p",
         "building": "WLH",
         "room": "2205",
-        "instructor": "Wang, Yingxiao",
         "instructors": [
           "Wang, Yingxiao"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "d095058a3c5ca6878be2e5af45056c73925fc6945e80151eaa049f5fb0198342": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -131,12 +49,11 @@
         "time": "3:00p-3:50p",
         "building": "WLH",
         "room": "2205",
-        "instructor": "",
         "instructors": [],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "857bd7943da490750a716952732d152096515d8948caf73729463f661979a456": {
         "sectxt": true,
         "sectionID": "923332",
         "type": "DI",
@@ -145,16 +62,15 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "218",
-        "instructor": "Wang, Yingxiao",
         "instructors": [
           "Wang, Yingxiao"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "ad10dc80025b6fae88a6e6bd4b3bc62f48725a5778aa49de4dbf9e9ef718c058": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -163,16 +79,15 @@
         "time": "5:00p-6:20p",
         "building": "WLH",
         "room": "2205",
-        "instructor": "Wang, Yingxiao",
         "instructors": [
           "Wang, Yingxiao"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "d54a1bc3ab542b14b06a4c01739bf6e72575940b58f93b49d37c274df817b55d": {
         "sectxt": true,
         "sectionID": "923333",
         "type": "DI",
@@ -181,15 +96,15 @@
         "time": "12:00p-12:50p",
         "building": "HSS",
         "room": "2321",
-        "instructor": "Wang, Yingxiao",
         "instructors": [
           "Wang, Yingxiao"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

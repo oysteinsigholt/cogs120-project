@@ -3,47 +3,91 @@
   "name": "Introduction to Visual Arts",
   "department": "VIS",
   "id": "11",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "931819",
-      "type": "ST",
-      "section": "A09",
-      "days": "Tu",
-      "time": "12:30p-3:20p",
-      "building": "MANDE",
-      "room": "B115A",
-      "instructor": "Cartwright, Lisa",
-      "instructors": [
-        "Cartwright, Lisa"
-      ],
-      "start_time": "12:30",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "931820",
-      "type": "ST",
-      "section": "A10",
-      "days": "Tu",
-      "time": "3:30p-6:20p",
-      "building": "MANDE",
-      "room": "B115A",
-      "instructor": "Cartwright, Lisa",
-      "instructors": [
-        "Cartwright, Lisa"
-      ],
-      "start_time": "15:30",
-      "end_time": "18:20"
-    }
+  "notes": [
+    "VIS 11 sections will not meet before the first main\n lecture."
   ],
-  "notes": [],
-  "events_single": [],
+  "events_single": {
+    "4014bb1a466c069dc311d33d5ef7495aff7dbbe0834ca64e0d8d595c45fc5253": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "7fb78df708bc10ae7cbed8c31256c6ff03db90d39a0bcfe7e71ecc8e7cc1a647": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "6:30p-7:50p",
+        "building": "CENTR",
+        "room": "101",
+        "instructors": [
+          "Cartwright, Lisa"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      }
+    },
+    "Tu": {
+      "e29d6b1702c459923b15fb4b6e217bfad22bc8f2241cc4964548af73c71f3a26": {
+        "sectxt": true,
+        "sectionID": "922722",
+        "type": "ST",
+        "section": "A01",
+        "days": "Tu",
+        "time": "9:30a-12:20p",
+        "building": "MANDE",
+        "room": "B115B",
+        "instructors": [
+          "Cartwright, Lisa"
+        ],
+        "start_time": "9:30",
+        "end_time": "12:20"
+      },
+      "c232ff127e0a1f0a0038ad9a61130f6506b002c0c2b7bc559e8a98a32bae718c": {
+        "sectxt": true,
+        "sectionID": "922723",
+        "type": "ST",
+        "section": "A02",
+        "days": "Tu",
+        "time": "12:30p-3:20p",
+        "building": "MANDE",
+        "room": "B115B",
+        "instructors": [
+          "Cartwright, Lisa"
+        ],
+        "start_time": "12:30",
+        "end_time": "15:20"
+      },
+      "bbf731856133ab6c697b7ee840d3329241b847180847b98f27e951ac44ddba5e": {
+        "sectxt": true,
+        "sectionID": "922724",
+        "type": "ST",
+        "section": "A03",
+        "days": "Tu",
+        "time": "3:30p-6:20p",
+        "building": "MANDE",
+        "room": "B115B",
+        "instructors": [
+          "Cartwright, Lisa"
+        ],
+        "start_time": "15:30",
+        "end_time": "18:20"
+      },
+      "5c9806b452be425480360d66bba7d64f4c828da1ee66f2c0c2b687eaf2938a06": {
         "sectxt": true,
         "sectionID": "931819",
         "type": "ST",
@@ -52,14 +96,13 @@
         "time": "12:30p-3:20p",
         "building": "MANDE",
         "room": "B115A",
-        "instructor": "Cartwright, Lisa",
         "instructors": [
           "Cartwright, Lisa"
         ],
         "start_time": "12:30",
         "end_time": "15:20"
       },
-      {
+      "8c63a53c3dfc9d7b430456ba80f44c12c298dce605afd6452e673c4bf9583ed5": {
         "sectxt": true,
         "sectionID": "931820",
         "type": "ST",
@@ -68,18 +111,109 @@
         "time": "3:30p-6:20p",
         "building": "MANDE",
         "room": "B115A",
-        "instructor": "Cartwright, Lisa",
         "instructors": [
           "Cartwright, Lisa"
         ],
         "start_time": "15:30",
         "end_time": "18:20"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "W": {
+      "f12164f83e9ec19b35c2ae2e257ad595319959ecbd32e61750cdd0475d11af05": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "6:30p-7:50p",
+        "building": "CENTR",
+        "room": "101",
+        "instructors": [
+          "Cartwright, Lisa"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      },
+      "8ddfbffea8e4894352852e31f3cb288c7991907c213e0d1c0f5570101d00e209": {
+        "sectxt": true,
+        "sectionID": "922725",
+        "type": "ST",
+        "section": "A04",
+        "days": "W",
+        "time": "9:00a-11:50a",
+        "building": "MANDE",
+        "room": "B115B",
+        "instructors": [
+          "Cartwright, Lisa"
+        ],
+        "start_time": "9:00",
+        "end_time": "11:50"
+      },
+      "94cc8cb3f3f3505f0a435af45635ee42a9abf800c3fadafa398ccc258058e59c": {
+        "sectxt": true,
+        "sectionID": "922726",
+        "type": "ST",
+        "section": "A05",
+        "days": "W",
+        "time": "12:00p-2:50p",
+        "building": "MANDE",
+        "room": "B115B",
+        "instructors": [
+          "Cartwright, Lisa"
+        ],
+        "start_time": "12:00",
+        "end_time": "14:50"
+      }
+    },
+    "Th": {
+      "dc7b95ecab2a3fd97b6983de0b6a07b259c2b861af581964d1cb699becf237eb": {
+        "sectxt": true,
+        "sectionID": "922727",
+        "type": "ST",
+        "section": "A06",
+        "days": "Th",
+        "time": "9:30a-12:20p",
+        "building": "MANDE",
+        "room": "B115B",
+        "instructors": [
+          "Cartwright, Lisa"
+        ],
+        "start_time": "9:30",
+        "end_time": "12:20"
+      },
+      "50c2e13607c774cda8361f2b15b9973e83db11a13d4669a120c58cf14115f163": {
+        "sectxt": true,
+        "sectionID": "922728",
+        "type": "ST",
+        "section": "A07",
+        "days": "Th",
+        "time": "12:30p-3:20p",
+        "building": "MANDE",
+        "room": "B115B",
+        "instructors": [
+          "Cartwright, Lisa"
+        ],
+        "start_time": "12:30",
+        "end_time": "15:20"
+      },
+      "9ddbe004f39392bec967453815212bb49506b963f449891c8445a568eab2a86f": {
+        "sectxt": true,
+        "sectionID": "922729",
+        "type": "ST",
+        "section": "A08",
+        "days": "Th",
+        "time": "3:30p-6:20p",
+        "building": "MANDE",
+        "room": "B115B",
+        "instructors": [
+          "Cartwright, Lisa"
+        ],
+        "start_time": "15:30",
+        "end_time": "18:20"
+      }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

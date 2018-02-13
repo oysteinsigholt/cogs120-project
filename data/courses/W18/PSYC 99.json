@@ -3,27 +3,24 @@
   "name": "Independent Study",
   "department": "PSYC",
   "id": "99",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "939899",
-      "type": "LA",
-      "section": "E00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Aron, Adam",
-      "instructors": [
-        "Aron, Adam"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "939683",
+      "type": "LA",
+      "section": "D00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Carver, Leslie J."
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "939899",
       "type": "LA",
       "section": "E00",
@@ -31,19 +28,50 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Aron, Adam",
       "instructors": [
         "Aron, Adam"
       ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "936349",
+      "type": "LA",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Bellugi, Ursula"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939621",
+      "type": "LA",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Rickard, Timothy C."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939622",
+      "type": "LA",
+      "section": "C00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Vul, Edward"
+      ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

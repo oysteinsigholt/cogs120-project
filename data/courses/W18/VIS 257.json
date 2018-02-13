@@ -3,31 +3,12 @@
   "name": "Seminar in Mesoamerican Art",
   "department": "VIS",
   "id": "257",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922820",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "3:30p-6:20p",
-      "building": "VAF",
-      "room": "366",
-      "instructor": "Newsome, Elizabeth Ann",
-      "instructors": [
-        "Newsome, Elizabeth Ann"
-      ],
-      "start_time": "15:30",
-      "end_time": "18:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "bf26feef82261de74f3a81991fb8bfe8df3878a2a169db9cf2a7c81c1fbae01f": {
         "sectxt": true,
         "sectionID": "922820",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "3:30p-6:20p",
         "building": "VAF",
         "room": "366",
-        "instructor": "Newsome, Elizabeth Ann",
         "instructors": [
           "Newsome, Elizabeth Ann"
         ],
         "start_time": "15:30",
         "end_time": "18:20"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

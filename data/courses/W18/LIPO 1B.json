@@ -3,30 +3,42 @@
   "name": "Portuguese Conversation",
   "department": "LIPO",
   "id": "1B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930503",
-      "type": "TU",
-      "section": "C00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "YORK",
-      "room": "4060A",
-      "instructor": "Goodall, Grant Todd",
-      "instructors": [
-        "Goodall, Grant Todd"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "0abd43f680bfb8fb1249d47d1c191c5352da791286be5f651663e4b62c4d64b3": {
+        "sectxt": true,
+        "sectionID": "921341",
+        "type": "TU",
+        "section": "A00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "224C",
+        "instructors": [
+          "Paladini, Denise"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "66fbce09c5b8bb884935a7559b4817946308d98ffd151421c0a911fa7ea98f13": {
+        "sectxt": true,
+        "sectionID": "921342",
+        "type": "TU",
+        "section": "B00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "218",
+        "instructors": [
+          "Paladini, Denise"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "e8735d072ff5955529719de17653afe8c2f55d06606f951d53071901a08035ea": {
         "sectxt": true,
         "sectionID": "930503",
         "type": "TU",
@@ -35,17 +47,45 @@
         "time": "11:00a-11:50a",
         "building": "YORK",
         "room": "4060A",
-        "instructor": "Goodall, Grant Todd",
         "instructors": [
           "Goodall, Grant Todd"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "b0bc35ae9f86f2e5be524c2736bb629c1367c53dd714363355e857a0715575a7": {
+        "sectxt": true,
+        "sectionID": "921341",
+        "type": "TU",
+        "section": "A00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "224C",
+        "instructors": [
+          "Paladini, Denise"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "423ef1ce5a670a162dc56b20013c89855343bdb0c00c8a39fbe93fa938836ae3": {
+        "sectxt": true,
+        "sectionID": "921342",
+        "type": "TU",
+        "section": "B00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "218",
+        "instructors": [
+          "Paladini, Denise"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "0a304d5d6f8b9351743e0035a31bcef711f1e6a2eeb1ac667a8b56bc3c084f13": {
         "sectxt": true,
         "sectionID": "930503",
         "type": "TU",
@@ -54,17 +94,45 @@
         "time": "11:00a-11:50a",
         "building": "YORK",
         "room": "4060A",
-        "instructor": "Goodall, Grant Todd",
         "instructors": [
           "Goodall, Grant Todd"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "d42d7383b90a7bf69205d2c20ee8b50fefa251a87843a1247cd7e3187b105ac2": {
+        "sectxt": true,
+        "sectionID": "921341",
+        "type": "TU",
+        "section": "A00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "224C",
+        "instructors": [
+          "Paladini, Denise"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "b972594921e3b251c53a41861109650cc655654f26fbde587b350a0600bc7e6b": {
+        "sectxt": true,
+        "sectionID": "921342",
+        "type": "TU",
+        "section": "B00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "218",
+        "instructors": [
+          "Paladini, Denise"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "689f16b700c9f1c7f5c9e6e01f5536a9c1f8bf15e6525b96ad4b5196d5fcb470": {
         "sectxt": true,
         "sectionID": "930503",
         "type": "TU",
@@ -73,15 +141,17 @@
         "time": "11:00a-11:50a",
         "building": "YORK",
         "room": "4060A",
-        "instructor": "Goodall, Grant Todd",
         "instructors": [
           "Goodall, Grant Todd"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

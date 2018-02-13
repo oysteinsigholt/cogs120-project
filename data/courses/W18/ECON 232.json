@@ -3,43 +3,9 @@
   "name": "Pub Econ: Redistr/Social Ins",
   "department": "ECON",
   "id": "232",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924131",
-      "type": "LE",
-      "section": "A00",
-      "days": "Th",
-      "time": "5:00p-7:50p",
-      "building": "SEQUO",
-      "room": "231",
-      "instructor": "Clemens, Jeffrey & Fadlon, Yizhak",
-      "instructors": [
-        "Clemens, Jeffrey",
-        "Fadlon, Yizhak"
-      ],
-      "start_time": "17:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -48,20 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "7d57ba9c9a8f3e827a263727ee37bf595aa01b6f21b0836d4d9e13e03976f6cd": {
         "sectxt": true,
         "sectionID": "924131",
         "type": "LE",
@@ -70,17 +32,15 @@
         "time": "5:00p-7:50p",
         "building": "SEQUO",
         "room": "231",
-        "instructor": "Clemens, Jeffrey & Fadlon, Yizhak",
         "instructors": [
-          "Clemens, Jeffrey",
-          "Fadlon, Yizhak"
+          "Clemens, Jeffrey                   \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFadlon, Yizhak"
         ],
         "start_time": "17:00",
         "end_time": "19:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

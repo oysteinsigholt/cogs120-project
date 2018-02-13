@@ -3,31 +3,12 @@
   "name": "Introduction/Thesis Research",
   "department": "COGS",
   "id": "205",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925645",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "12:30p-1:50p",
-      "building": "CSB",
-      "room": "180",
-      "instructor": "Chiba, Andrea",
-      "instructors": [
-        "Chiba, Andrea"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "12774acb1347dbc3ce78fd10d3b9425d778c2c6d1457076afc4763d38165777c": {
         "sectxt": true,
         "sectionID": "925645",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "12:30p-1:50p",
         "building": "CSB",
         "room": "180",
-        "instructor": "Chiba, Andrea",
         "instructors": [
           "Chiba, Andrea"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

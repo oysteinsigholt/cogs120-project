@@ -3,330 +3,37 @@
   "name": "Justice",
   "department": "DOC",
   "id": "2",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "C00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "SOLIS",
-      "room": "107",
-      "instructor": "Ho, Lisa",
-      "instructors": [
-        "Ho, Lisa"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920791",
-      "type": "DI",
-      "section": "C01",
-      "days": "WF",
-      "time": "9:00a-9:50a",
-      "building": "SEQUO",
-      "room": "138",
-      "instructor": "Ho, Lisa",
-      "instructors": [
-        "Ho, Lisa"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920792",
-      "type": "DI",
-      "section": "C02",
-      "days": "WF",
-      "time": "10:00a-10:50a",
-      "building": "SEQUO",
-      "room": "138",
-      "instructor": "Ho, Lisa",
-      "instructors": [
-        "Ho, Lisa"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920793",
-      "type": "DI",
-      "section": "C03",
-      "days": "WF",
-      "time": "10:00a-10:50a",
-      "building": "SEQUO",
-      "room": "143",
-      "instructor": "Ho, Lisa",
-      "instructors": [
-        "Ho, Lisa"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920794",
-      "type": "DI",
-      "section": "C04",
-      "days": "WF",
-      "time": "11:00a-11:50a",
-      "building": "SEQUO",
-      "room": "143",
-      "instructor": "Ho, Lisa",
-      "instructors": [
-        "Ho, Lisa"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920795",
-      "type": "DI",
-      "section": "C05",
-      "days": "WF",
-      "time": "11:00a-11:50a",
-      "building": "SEQUO",
-      "room": "138",
-      "instructor": "Ho, Lisa",
-      "instructors": [
-        "Ho, Lisa"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920796",
-      "type": "DI",
-      "section": "C06",
-      "days": "WF",
-      "time": "12:00p-12:50p",
-      "building": "SEQUO",
-      "room": "138",
-      "instructor": "Ho, Lisa",
-      "instructors": [
-        "Ho, Lisa"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920797",
-      "type": "DI",
-      "section": "C07",
-      "days": "WF",
-      "time": "3:00p-3:50p",
-      "building": "SEQUO",
-      "room": "119",
-      "instructor": "Ho, Lisa",
-      "instructors": [
-        "Ho, Lisa"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920798",
-      "type": "DI",
-      "section": "C08",
-      "days": "WF",
-      "time": "4:00p-4:50p",
-      "building": "SEQUO",
-      "room": "119",
-      "instructor": "Ho, Lisa",
-      "instructors": [
-        "Ho, Lisa"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920799",
-      "type": "DI",
-      "section": "C09",
-      "days": "WF",
-      "time": "4:00p-4:50p",
-      "building": "SEQUO",
-      "room": "141",
-      "instructor": "Ho, Lisa",
-      "instructors": [
-        "Ho, Lisa"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920800",
-      "type": "DI",
-      "section": "C10",
-      "days": "WF",
-      "time": "5:00p-5:50p",
-      "building": "SEQUO",
-      "room": "141",
-      "instructor": "Ho, Lisa",
-      "instructors": [
-        "Ho, Lisa"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920801",
-      "type": "DI",
-      "section": "C11",
-      "days": "WF",
-      "time": "5:00p-5:50p",
-      "building": "SEQUO",
-      "room": "119",
-      "instructor": "Ho, Lisa",
-      "instructors": [
-        "Ho, Lisa"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920802",
-      "type": "DI",
-      "section": "C12",
-      "days": "WF",
-      "time": "6:00p-6:50p",
-      "building": "SEQUO",
-      "room": "119",
-      "instructor": "Ho, Lisa",
-      "instructors": [
-        "Ho, Lisa"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920803",
-      "type": "DI",
-      "section": "C13",
-      "days": "TuTh",
-      "time": "10:00a-10:50a",
-      "building": "SEQUO",
-      "room": "143",
-      "instructor": "Ho, Lisa",
-      "instructors": [
-        "Ho, Lisa"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920804",
-      "type": "DI",
-      "section": "C14",
-      "days": "TuTh",
-      "time": "11:00a-11:50a",
-      "building": "SEQUO",
-      "room": "143",
-      "instructor": "Ho, Lisa",
-      "instructors": [
-        "Ho, Lisa"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920805",
-      "type": "DI",
-      "section": "C15",
-      "days": "TuTh",
-      "time": "12:00p-12:50p",
-      "building": "SEQUO",
-      "room": "143",
-      "instructor": "Ho, Lisa",
-      "instructors": [
-        "Ho, Lisa"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920806",
-      "type": "DI",
-      "section": "C16",
-      "days": "TuTh",
-      "time": "1:00p-1:50p",
-      "building": "SEQUO",
-      "room": "143",
-      "instructor": "Ho, Lisa",
-      "instructors": [
-        "Ho, Lisa"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920807",
-      "type": "DI",
-      "section": "C17",
-      "days": "TuTh",
-      "time": "2:00p-2:50p",
-      "building": "SEQUO",
-      "room": "143",
-      "instructor": "Ho, Lisa",
-      "instructors": [
-        "Ho, Lisa"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920808",
-      "type": "DI",
-      "section": "C18",
-      "days": "TuTh",
-      "time": "3:00p-3:50p",
-      "building": "SEQUO",
-      "room": "143",
-      "instructor": "Ho, Lisa",
-      "instructors": [
-        "Ho, Lisa"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -335,17 +42,46 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1866918a9e827ca2246c3cdc0800ca8cab9d14fcb63d242959828782dc5e03cc": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "PETER",
+        "room": "110",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "7b590151cd28db772cb5f38ee83595f178c8f3cb089eb9bf525519f33a482289": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "SOLIS",
+        "room": "107",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "01a27efc910c2441b6e37ad20f58279c8d5550a062e7c7213b0d2a43ce4a2ddb": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -354,16 +90,195 @@
         "time": "2:00p-2:50p",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "6f1eef4a141da108c74617124c6b045d3735f50577b4024fce6234303eac32e2": {
+        "sectxt": true,
+        "sectionID": "920764",
+        "type": "DI",
+        "section": "A15",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "9c59090320959ce31f6ad07fa9d65efe6d2fc98a7f63f0a8e4913de7efa8af40": {
+        "sectxt": true,
+        "sectionID": "920765",
+        "type": "DI",
+        "section": "A16",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "29ffbf7069f70372fc89b956518886c23fbbf8b4d8df710fe6588631b0cf3926": {
+        "sectxt": true,
+        "sectionID": "920766",
+        "type": "DI",
+        "section": "A17",
+        "days": "TuTh",
+        "time": "12:00p-12:50p",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "539f77876d56a1b09ee2ab18a027039b5592d05b92c4f9cc797cdff212f39a98": {
+        "sectxt": true,
+        "sectionID": "920767",
+        "type": "DI",
+        "section": "A18",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "26f95a6a193df804eb374944817f780779037e9b46a4d482d3352748eb6fab45": {
+        "sectxt": true,
+        "sectionID": "920768",
+        "type": "DI",
+        "section": "A19",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "0340ed00366b426a98d100d3b64c4f4a9f7af23d02f89880d0834a2d6250e943": {
+        "sectxt": true,
+        "sectionID": "920769",
+        "type": "DI",
+        "section": "A20",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "de04865efa782efcce76d6735417a3a8a49b3efc51e1858a711dbc1743efca5f": {
+        "sectxt": true,
+        "sectionID": "920783",
+        "type": "DI",
+        "section": "B13",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "SEQUO",
+        "room": "138",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "80a531c94d281f47847e564373d4b7a20ef449ec72a06c5421346d149ad2b35a": {
+        "sectxt": true,
+        "sectionID": "920785",
+        "type": "DI",
+        "section": "B14",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "SEQUO",
+        "room": "138",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "60798ed1b5cb09f57b23b8e7cec1d17a9e508bddd8dfcbee6aa8bff89051ce92": {
+        "sectxt": true,
+        "sectionID": "920786",
+        "type": "DI",
+        "section": "B15",
+        "days": "TuTh",
+        "time": "12:00p-12:50p",
+        "building": "SEQUO",
+        "room": "138",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "83c7b4eccd3ebb87eb1b1deaebd97de2d7717b6eb856e1d9bbfa7f8b17696fe3": {
+        "sectxt": true,
+        "sectionID": "920787",
+        "type": "DI",
+        "section": "B16",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "SEQUO",
+        "room": "138",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "a6a6a979a43f6fac7bc59995f6dd66f9905e7f080fcae84b08d3d4acb195eba1": {
+        "sectxt": true,
+        "sectionID": "920788",
+        "type": "DI",
+        "section": "B17",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "SEQUO",
+        "room": "138",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "64d7cf747aa8024f031e7eec0b65896674b6be3773fe267488ad06acd75bbda2": {
+        "sectxt": true,
+        "sectionID": "920789",
+        "type": "DI",
+        "section": "B18",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "SEQUO",
+        "room": "138",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "c51afc717e274a58649546500184b638544d578684b1fcdb3b829c2d5957f081": {
         "sectxt": true,
         "sectionID": "920803",
         "type": "DI",
@@ -372,14 +287,13 @@
         "time": "10:00a-10:50a",
         "building": "SEQUO",
         "room": "143",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "81ab50666b09e71dc859c7ed8921f5c0ce939fa2281d3e60019a2d0ad66bebd4": {
         "sectxt": true,
         "sectionID": "920804",
         "type": "DI",
@@ -388,14 +302,13 @@
         "time": "11:00a-11:50a",
         "building": "SEQUO",
         "room": "143",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "49e1ea4d46d56147b87b31f118928f616e3eb0e738fb97c430d11e688a1a750e": {
         "sectxt": true,
         "sectionID": "920805",
         "type": "DI",
@@ -404,14 +317,13 @@
         "time": "12:00p-12:50p",
         "building": "SEQUO",
         "room": "143",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "25f0ebbece408ee541dd8785b762abd6e3833f3a7f4f945a3ce93ee24d43024a": {
         "sectxt": true,
         "sectionID": "920806",
         "type": "DI",
@@ -420,14 +332,13 @@
         "time": "1:00p-1:50p",
         "building": "SEQUO",
         "room": "143",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "e975303498b9390e3dc4ab342ac0294074646345807712866e9de897dd509e77": {
         "sectxt": true,
         "sectionID": "920807",
         "type": "DI",
@@ -436,14 +347,13 @@
         "time": "2:00p-2:50p",
         "building": "SEQUO",
         "room": "143",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "f1478ebf00b4ba94651d1087f29fce90b028655ae3cec048a68b40a573a90dd8": {
         "sectxt": true,
         "sectionID": "920808",
         "type": "DI",
@@ -452,16 +362,435 @@
         "time": "3:00p-3:50p",
         "building": "SEQUO",
         "room": "143",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "664fb1192c899ad420c384f1035679fd9aa443bbe17868a3444009b2ce9ed2d0": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "PETER",
+        "room": "110",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "99daebfb500f86ad0e9ed5b1e19866163cd7b46edd357347d21189dd2a0e1c88": {
+        "sectxt": true,
+        "sectionID": "920750",
+        "type": "DI",
+        "section": "A01",
+        "days": "WF",
+        "time": "10:00a-10:50a",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "becc1f09a4fc6e484903d8d5734c8eb6c6df3d60d4a21632899a74be32d48dad": {
+        "sectxt": true,
+        "sectionID": "920751",
+        "type": "DI",
+        "section": "A02",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "44dd4dbee4a221fa6934126a9f23d79bfcf74f297435cb4eb831874cfb7e660a": {
+        "sectxt": true,
+        "sectionID": "920752",
+        "type": "DI",
+        "section": "A03",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "SEQUO",
+        "room": "119",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "da18efcd464e81c9c8c3d289fea571b447ca607110332a4b84b8f807b2f7547e": {
+        "sectxt": true,
+        "sectionID": "920753",
+        "type": "DI",
+        "section": "A04",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "SEQUO",
+        "room": "119",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "dfb4cf43ba5dce44a1b55c713293f0999f122a39263bfa8f531cf2e3258cba3d": {
+        "sectxt": true,
+        "sectionID": "920754",
+        "type": "DI",
+        "section": "A05",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "a40eb7ed2f986c024dc4ba9b9ee03734065974b2ff9950025f1f906f8e333fd1": {
+        "sectxt": true,
+        "sectionID": "920755",
+        "type": "DI",
+        "section": "A06",
+        "days": "WF",
+        "time": "1:00p-1:50p",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "f33544f4d2734383dc79582afec8d61f8b1935d873b4df3935a69c2f5ed21189": {
+        "sectxt": true,
+        "sectionID": "920756",
+        "type": "DI",
+        "section": "A07",
+        "days": "WF",
+        "time": "1:00p-1:50p",
+        "building": "SEQUO",
+        "room": "119",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "dba0f1025a9e13a0800fdf98cad7aedd87d312fce7d09c05b0deca2282470481": {
+        "sectxt": true,
+        "sectionID": "920757",
+        "type": "DI",
+        "section": "A08",
+        "days": "WF",
+        "time": "2:00p-2:50p",
+        "building": "SEQUO",
+        "room": "119",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "6e51dd2354664155375833acdffcf44b11d1a9b53e8860f5390f09fa188fdd2e": {
+        "sectxt": true,
+        "sectionID": "920758",
+        "type": "DI",
+        "section": "A09",
+        "days": "WF",
+        "time": "2:00p-2:50p",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "16cbdbfda7fa0e85970e85b244b6fc7ddc1e71c363fc88f4e32e6423713cde24": {
+        "sectxt": true,
+        "sectionID": "920759",
+        "type": "DI",
+        "section": "A10",
+        "days": "WF",
+        "time": "3:00p-3:50p",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "c82dd9e2c4d517c35ac8293a6334ca663b1a9cf3924b8e3f2a6a04b3c12af277": {
+        "sectxt": true,
+        "sectionID": "920760",
+        "type": "DI",
+        "section": "A11",
+        "days": "WF",
+        "time": "3:00p-3:50p",
+        "building": "SEQUO",
+        "room": "138",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "4e75b60964c583a20f9d12793c6e16364f0903033b89701f317ec31160624c4d": {
+        "sectxt": true,
+        "sectionID": "920761",
+        "type": "DI",
+        "section": "A12",
+        "days": "WF",
+        "time": "4:00p-4:50p",
+        "building": "SEQUO",
+        "room": "138",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "b6a96de36cb3644d5abb3b504948f4d52d7f2ecb800afd9dd8e25405b63ae7c1": {
+        "sectxt": true,
+        "sectionID": "920762",
+        "type": "DI",
+        "section": "A13",
+        "days": "WF",
+        "time": "4:00p-4:50p",
+        "building": "SEQUO",
+        "room": "143",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "eef8e287ddc4f9d0cdc4ae7280fa6b51f0bf7f469c3c36c9ec47bb82f08535cb": {
+        "sectxt": true,
+        "sectionID": "920763",
+        "type": "DI",
+        "section": "A14",
+        "days": "WF",
+        "time": "5:00p-5:50p",
+        "building": "SEQUO",
+        "room": "143",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "346e9d97d27f467115ca4e2e6de0756325a93bb7f40c6a9873a7fede3f635bf6": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "SOLIS",
+        "room": "107",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "a3ac5e6de1fd435a19d8d6af4189ce6bd11b09460a65d7faeda855f2296d49d7": {
+        "sectxt": true,
+        "sectionID": "920771",
+        "type": "DI",
+        "section": "B01",
+        "days": "WF",
+        "time": "8:00a-8:50a",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "55c73e0f9eb2d648b5a713142db37dc38dca6e66078baad318f48bc50f44f0ca": {
+        "sectxt": true,
+        "sectionID": "920772",
+        "type": "DI",
+        "section": "B02",
+        "days": "WF",
+        "time": "9:00a-9:50a",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "2fff8731e0404808f167b7afd4afea7327afebd461b8d475fa673d5267e8f02d": {
+        "sectxt": true,
+        "sectionID": "920773",
+        "type": "DI",
+        "section": "B03",
+        "days": "WF",
+        "time": "8:00a-8:50a",
+        "building": "SEQUO",
+        "room": "143",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "f0fe71e920327ab10da93d754da6256b98e9036d81ce1e0f1bd2c3f4a19f1d51": {
+        "sectxt": true,
+        "sectionID": "920774",
+        "type": "DI",
+        "section": "B04",
+        "days": "WF",
+        "time": "9:00a-9:50a",
+        "building": "SEQUO",
+        "room": "143",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "2530598ef44e6b4c936b87b969de60f132b3083705022125acf621dea1c4ed07": {
+        "sectxt": true,
+        "sectionID": "920775",
+        "type": "DI",
+        "section": "B05",
+        "days": "WF",
+        "time": "9:00a-9:50a",
+        "building": "SEQUO",
+        "room": "119",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "266cdfbe33a23608e205f255f26293d8b85cc49510c7b3785e7349c34f354a5d": {
+        "sectxt": true,
+        "sectionID": "920776",
+        "type": "DI",
+        "section": "B06",
+        "days": "WF",
+        "time": "10:00a-10:50a",
+        "building": "SEQUO",
+        "room": "119",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "f651d737486b1b61ab65da41f48e715c3cb6ed8b429a5294109fb79ab2cedd81": {
+        "sectxt": true,
+        "sectionID": "920777",
+        "type": "DI",
+        "section": "B07",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "SEQUO",
+        "room": "143",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "3a77aee11e16daff049d7d46dfd3b51ee98857ee3832ae7c015f6b8128f619f4": {
+        "sectxt": true,
+        "sectionID": "920778",
+        "type": "DI",
+        "section": "B08",
+        "days": "WF",
+        "time": "1:00p-1:50p",
+        "building": "SEQUO",
+        "room": "143",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "9b9be8f935b1d4ff6348426a35d6522eedc60de567a8e579c32c1c2a4b7babfa": {
+        "sectxt": true,
+        "sectionID": "920779",
+        "type": "DI",
+        "section": "B09",
+        "days": "WF",
+        "time": "1:00p-1:50p",
+        "building": "SEQUO",
+        "room": "138",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "5b35af097e580d25457452f4901f3bc0de97de43e9243062deda09e55d9679b2": {
+        "sectxt": true,
+        "sectionID": "920780",
+        "type": "DI",
+        "section": "B10",
+        "days": "WF",
+        "time": "2:00p-2:50p",
+        "building": "SEQUO",
+        "room": "138",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "f27ba0f2ec670fc2d80768b711cc896e99a32349fd76cd6fe1a5596dffa6174c": {
+        "sectxt": true,
+        "sectionID": "920781",
+        "type": "DI",
+        "section": "B11",
+        "days": "WF",
+        "time": "2:00p-2:50p",
+        "building": "SEQUO",
+        "room": "143",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "89a2906bd26ee763e1ed0277919ae7faa56847e4f31fd62500f2efec43638fdd": {
+        "sectxt": true,
+        "sectionID": "920782",
+        "type": "DI",
+        "section": "B12",
+        "days": "WF",
+        "time": "3:00p-3:50p",
+        "building": "SEQUO",
+        "room": "143",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "2f573f774df51e370271d6382b7064b4dba2dfdd0d4592312ef2b117be645848": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -470,14 +799,13 @@
         "time": "2:00p-2:50p",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "67348c814f24d420ddf6b1c8731518d8c94fb56c1f7d171cc9d32d9eb41128e0": {
         "sectxt": true,
         "sectionID": "920791",
         "type": "DI",
@@ -486,14 +814,13 @@
         "time": "9:00a-9:50a",
         "building": "SEQUO",
         "room": "138",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "e73a826c965c2a554626a8d8fd48083fa4e84cf583b6c12a8543ba5a57d50df5": {
         "sectxt": true,
         "sectionID": "920792",
         "type": "DI",
@@ -502,14 +829,13 @@
         "time": "10:00a-10:50a",
         "building": "SEQUO",
         "room": "138",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "e85d19af30c64fe5c0cbfb4653dcad79253735d0e4ff2fb4d75ba46058cd9e75": {
         "sectxt": true,
         "sectionID": "920793",
         "type": "DI",
@@ -518,14 +844,13 @@
         "time": "10:00a-10:50a",
         "building": "SEQUO",
         "room": "143",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "59ae1a83e932fe86fc773e915ceeab0d10b2152f30eb1697dcbb58cae225695f": {
         "sectxt": true,
         "sectionID": "920794",
         "type": "DI",
@@ -534,14 +859,13 @@
         "time": "11:00a-11:50a",
         "building": "SEQUO",
         "room": "143",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "a8604549c548de182949e123bf8b0e43408d64e7271fe4e9003a08891a1e683a": {
         "sectxt": true,
         "sectionID": "920795",
         "type": "DI",
@@ -550,14 +874,13 @@
         "time": "11:00a-11:50a",
         "building": "SEQUO",
         "room": "138",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "b2e092299db134673212719571a64cb0b326e916e009d6b1890649999a7b543c": {
         "sectxt": true,
         "sectionID": "920796",
         "type": "DI",
@@ -566,14 +889,13 @@
         "time": "12:00p-12:50p",
         "building": "SEQUO",
         "room": "138",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "a8c56be1a8e1ff74a43c853f7ef0a69ba2f0c03aeebdb3eb9b1f2c504a71df4d": {
         "sectxt": true,
         "sectionID": "920797",
         "type": "DI",
@@ -582,14 +904,13 @@
         "time": "3:00p-3:50p",
         "building": "SEQUO",
         "room": "119",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "53486763264b13bbbf92793ccdbfa50e4a64aa6af4f2fe36f5c59b0f37a0ca49": {
         "sectxt": true,
         "sectionID": "920798",
         "type": "DI",
@@ -598,14 +919,13 @@
         "time": "4:00p-4:50p",
         "building": "SEQUO",
         "room": "119",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "9ab9795f2c73a54b3768bc65f9b9a54bae5baa29d7b6b6eb8e31fee08d17d560": {
         "sectxt": true,
         "sectionID": "920799",
         "type": "DI",
@@ -614,14 +934,13 @@
         "time": "4:00p-4:50p",
         "building": "SEQUO",
         "room": "141",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "844ca733226970741124c3279d760ffa2be2adde7b3355d31252e7683c16ba73": {
         "sectxt": true,
         "sectionID": "920800",
         "type": "DI",
@@ -630,14 +949,13 @@
         "time": "5:00p-5:50p",
         "building": "SEQUO",
         "room": "141",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "8849e87bf14b1953f110af5ab037ed79fdc8ae5fbfc07149a444d37d04369eda": {
         "sectxt": true,
         "sectionID": "920801",
         "type": "DI",
@@ -646,14 +964,13 @@
         "time": "5:00p-5:50p",
         "building": "SEQUO",
         "room": "119",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "208e2ecc6257887b229e953dbcde1e63a5c7d8f0f51048485bccf26ce043c407": {
         "sectxt": true,
         "sectionID": "920802",
         "type": "DI",
@@ -662,16 +979,195 @@
         "time": "6:00p-6:50p",
         "building": "SEQUO",
         "room": "119",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8b1a3311261a6405ac859ebd56a72e0a50ee1f211e7539d9b597e13e4775b27c": {
+        "sectxt": true,
+        "sectionID": "920764",
+        "type": "DI",
+        "section": "A15",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "3f496020711fc2d8ad5607a0e278c1204683f4425bf9307a3b0cd81eb5ec243b": {
+        "sectxt": true,
+        "sectionID": "920765",
+        "type": "DI",
+        "section": "A16",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "d0f1c1640eba1e9c2d1855a57e4ca918452bb0e295d89e72dd5e952317cc8ec4": {
+        "sectxt": true,
+        "sectionID": "920766",
+        "type": "DI",
+        "section": "A17",
+        "days": "TuTh",
+        "time": "12:00p-12:50p",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "2d968e54ea579b7bb043e126f4b5c53ebd221de4e19679cf23b578e0ae475ab6": {
+        "sectxt": true,
+        "sectionID": "920767",
+        "type": "DI",
+        "section": "A18",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "2eba6a39ec1823dab04c336ff14620dfbfa0bba10ecbb991f71b276d0e841dc5": {
+        "sectxt": true,
+        "sectionID": "920768",
+        "type": "DI",
+        "section": "A19",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "cc17331cce1da7a16475b8fd2d9df51cdc96cb9cf411bb7218d2b57d93ddb332": {
+        "sectxt": true,
+        "sectionID": "920769",
+        "type": "DI",
+        "section": "A20",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "1aa231a15f63990b68ba0777f14b96872c8454e1f105269a91a21d2b851df7b1": {
+        "sectxt": true,
+        "sectionID": "920783",
+        "type": "DI",
+        "section": "B13",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "SEQUO",
+        "room": "138",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "161f58df615c594d31acebc202a3799dcc86c6d562ecbd04cfff34bb22afc261": {
+        "sectxt": true,
+        "sectionID": "920785",
+        "type": "DI",
+        "section": "B14",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "SEQUO",
+        "room": "138",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "da84281bd4c8b3b85937130ee207c6fa4dc48bff17e4c060e30bfee996eb8be5": {
+        "sectxt": true,
+        "sectionID": "920786",
+        "type": "DI",
+        "section": "B15",
+        "days": "TuTh",
+        "time": "12:00p-12:50p",
+        "building": "SEQUO",
+        "room": "138",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "ff1c6865e4af89735ad13a783bc8235a3ebe23ccdeb016df26e16c87701800cd": {
+        "sectxt": true,
+        "sectionID": "920787",
+        "type": "DI",
+        "section": "B16",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "SEQUO",
+        "room": "138",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "372e390b52e7711ff2c6f38b634dc5c752d8fb72b5bbbb9f21362f202a654556": {
+        "sectxt": true,
+        "sectionID": "920788",
+        "type": "DI",
+        "section": "B17",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "SEQUO",
+        "room": "138",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "42540e2c627f5228a7bc6e09384ad1b86f29d5ead1c4f90dce283fad05413d97": {
+        "sectxt": true,
+        "sectionID": "920789",
+        "type": "DI",
+        "section": "B18",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "SEQUO",
+        "room": "138",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "5621a790b457a927b29ac3bf8bacb2e9bba1596c4427a6b316573f1f5c21d635": {
         "sectxt": true,
         "sectionID": "920803",
         "type": "DI",
@@ -680,14 +1176,13 @@
         "time": "10:00a-10:50a",
         "building": "SEQUO",
         "room": "143",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "79e8ea8f99175a5dcbb696100463f6bab191a0727eeeb33847b64795e296035e": {
         "sectxt": true,
         "sectionID": "920804",
         "type": "DI",
@@ -696,14 +1191,13 @@
         "time": "11:00a-11:50a",
         "building": "SEQUO",
         "room": "143",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "cffe39739df84db841de3e6788ac036f5aee0785bf60d55f9cd5b5c4cd08f6eb": {
         "sectxt": true,
         "sectionID": "920805",
         "type": "DI",
@@ -712,14 +1206,13 @@
         "time": "12:00p-12:50p",
         "building": "SEQUO",
         "room": "143",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "9185915a64b14b0d914f818f70a55fedbc26d21ba1a20fed157328745e80030b": {
         "sectxt": true,
         "sectionID": "920806",
         "type": "DI",
@@ -728,14 +1221,13 @@
         "time": "1:00p-1:50p",
         "building": "SEQUO",
         "room": "143",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "fba35ae7b4d65ac9245b7a8ae5d34f192629748957b672c2f5f9c87cb21c566a": {
         "sectxt": true,
         "sectionID": "920807",
         "type": "DI",
@@ -744,14 +1236,13 @@
         "time": "2:00p-2:50p",
         "building": "SEQUO",
         "room": "143",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "b762cffb6b8a4af8423904d64f91f750e149c824ff72fe0d2624f47d3508cca8": {
         "sectxt": true,
         "sectionID": "920808",
         "type": "DI",
@@ -760,16 +1251,435 @@
         "time": "3:00p-3:50p",
         "building": "SEQUO",
         "room": "143",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "e0c71401fe619db626c079241f95ffbc9af299dc6dba6b446063c58d72b82533": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "PETER",
+        "room": "110",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "9547267514b98907f5c962e14d74f50d44fffa20627ad70e01d43ae3caf3b67f": {
+        "sectxt": true,
+        "sectionID": "920750",
+        "type": "DI",
+        "section": "A01",
+        "days": "WF",
+        "time": "10:00a-10:50a",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "9c2c958a1167d347b51c659ae05d0ce1e21ad19a58b66a6e54638639ee021031": {
+        "sectxt": true,
+        "sectionID": "920751",
+        "type": "DI",
+        "section": "A02",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "8e94cdf056f1dad5e839a241d1cb00dd64d83cf80f724aeb2a5fafea1e7f3ebd": {
+        "sectxt": true,
+        "sectionID": "920752",
+        "type": "DI",
+        "section": "A03",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "SEQUO",
+        "room": "119",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "eaf78f3b8994d4cc22e785e418cb6f9d53089f62377a904211a39966a42a70c4": {
+        "sectxt": true,
+        "sectionID": "920753",
+        "type": "DI",
+        "section": "A04",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "SEQUO",
+        "room": "119",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "2d34304355563972589110ddbc40cd639801f75f26280dc5e065175e3f26c0c5": {
+        "sectxt": true,
+        "sectionID": "920754",
+        "type": "DI",
+        "section": "A05",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "e7ca1c70ff8f290f34d146c6b4cf54d2819c68faf6796e84cc7032409fcf5b89": {
+        "sectxt": true,
+        "sectionID": "920755",
+        "type": "DI",
+        "section": "A06",
+        "days": "WF",
+        "time": "1:00p-1:50p",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "5f12058600164077cafd240d201e3e7a9ee63ec229fce1cde50bd6e4abd161ed": {
+        "sectxt": true,
+        "sectionID": "920756",
+        "type": "DI",
+        "section": "A07",
+        "days": "WF",
+        "time": "1:00p-1:50p",
+        "building": "SEQUO",
+        "room": "119",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "dbc9e37da417fffc9cc445968a8c18689d58aca6d4969557d68ca80c0b1ecc01": {
+        "sectxt": true,
+        "sectionID": "920757",
+        "type": "DI",
+        "section": "A08",
+        "days": "WF",
+        "time": "2:00p-2:50p",
+        "building": "SEQUO",
+        "room": "119",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "3ca7d50c4d117bd1ff56ed4b5bdc45d661a65e6e0d1725213c348f41c8c4074d": {
+        "sectxt": true,
+        "sectionID": "920758",
+        "type": "DI",
+        "section": "A09",
+        "days": "WF",
+        "time": "2:00p-2:50p",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "b4ba9c543120e84aa375f98ad7b9b9fbe95df6437c81bcb068537a07d5e7a3df": {
+        "sectxt": true,
+        "sectionID": "920759",
+        "type": "DI",
+        "section": "A10",
+        "days": "WF",
+        "time": "3:00p-3:50p",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "0a3499d569252f2b4931503edbd255ac99a3ab16a6856cdff7901c971792d170": {
+        "sectxt": true,
+        "sectionID": "920760",
+        "type": "DI",
+        "section": "A11",
+        "days": "WF",
+        "time": "3:00p-3:50p",
+        "building": "SEQUO",
+        "room": "138",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "dbb309a2cf80a2fe62df150aaf8b2f593cf89b08377dff30e75969d933fb7eec": {
+        "sectxt": true,
+        "sectionID": "920761",
+        "type": "DI",
+        "section": "A12",
+        "days": "WF",
+        "time": "4:00p-4:50p",
+        "building": "SEQUO",
+        "room": "138",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "be72e5ee50393cb4170b9f4e23342201694fe42cc9213cb2e8643fe77ed3759e": {
+        "sectxt": true,
+        "sectionID": "920762",
+        "type": "DI",
+        "section": "A13",
+        "days": "WF",
+        "time": "4:00p-4:50p",
+        "building": "SEQUO",
+        "room": "143",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "da91bfa5aca0db5c99e7063b0bfaba8ad53e934231979954c53de36222fc7513": {
+        "sectxt": true,
+        "sectionID": "920763",
+        "type": "DI",
+        "section": "A14",
+        "days": "WF",
+        "time": "5:00p-5:50p",
+        "building": "SEQUO",
+        "room": "143",
+        "instructors": [
+          "Solomon, Amanda Lee Albaniel"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "db676cfa4db9f005bd4fc295e9df4adca15ad5bf78ff6727da09101f2f711219": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "SOLIS",
+        "room": "107",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "0630bab9af9e24e095a9398a6cb0308043d3698f5de1512ac9c58aedac329e2f": {
+        "sectxt": true,
+        "sectionID": "920771",
+        "type": "DI",
+        "section": "B01",
+        "days": "WF",
+        "time": "8:00a-8:50a",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "4b8ac7f0f714046c5d874cc93d66af1ce16eead24c7cb390e18c490b3dc86a40": {
+        "sectxt": true,
+        "sectionID": "920772",
+        "type": "DI",
+        "section": "B02",
+        "days": "WF",
+        "time": "9:00a-9:50a",
+        "building": "SEQUO",
+        "room": "141",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "fe8db80da8b3dc1f47cf9071d9c64db6a33c7c14bf91fc951763d22150c0bacd": {
+        "sectxt": true,
+        "sectionID": "920773",
+        "type": "DI",
+        "section": "B03",
+        "days": "WF",
+        "time": "8:00a-8:50a",
+        "building": "SEQUO",
+        "room": "143",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "84b8253673566eecfd6f571422e71f57d97aadfa142a1e80a8a7b69db697a21d": {
+        "sectxt": true,
+        "sectionID": "920774",
+        "type": "DI",
+        "section": "B04",
+        "days": "WF",
+        "time": "9:00a-9:50a",
+        "building": "SEQUO",
+        "room": "143",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "8e2237afc7efd0261453b0a3f6130a40e9035febe35f040d612e698cf21c38f7": {
+        "sectxt": true,
+        "sectionID": "920775",
+        "type": "DI",
+        "section": "B05",
+        "days": "WF",
+        "time": "9:00a-9:50a",
+        "building": "SEQUO",
+        "room": "119",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "63113c9a5ca5f663c2602f0d8ddfcd0a55a6bfd7c304918c266094eb2a3063eb": {
+        "sectxt": true,
+        "sectionID": "920776",
+        "type": "DI",
+        "section": "B06",
+        "days": "WF",
+        "time": "10:00a-10:50a",
+        "building": "SEQUO",
+        "room": "119",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "0186d7e1f2da71257bd222cb8a7dc4a55c7ef4bd8a237631b63cef1e27dcb26f": {
+        "sectxt": true,
+        "sectionID": "920777",
+        "type": "DI",
+        "section": "B07",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "SEQUO",
+        "room": "143",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "e84b59f61c137a7e558957d072455ded42cd6d438ddd9cbb28c218ee291a8a58": {
+        "sectxt": true,
+        "sectionID": "920778",
+        "type": "DI",
+        "section": "B08",
+        "days": "WF",
+        "time": "1:00p-1:50p",
+        "building": "SEQUO",
+        "room": "143",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "24274fbaee76e52201efaabb83fd5d2da3c3831be4d5562af1b8454cd61f9bc6": {
+        "sectxt": true,
+        "sectionID": "920779",
+        "type": "DI",
+        "section": "B09",
+        "days": "WF",
+        "time": "1:00p-1:50p",
+        "building": "SEQUO",
+        "room": "138",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "f3b24e912588b1347de40f27645a9c104b554f51bf0e356782bd04b09f320e2b": {
+        "sectxt": true,
+        "sectionID": "920780",
+        "type": "DI",
+        "section": "B10",
+        "days": "WF",
+        "time": "2:00p-2:50p",
+        "building": "SEQUO",
+        "room": "138",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "2d8337ec1adb71b94407f7dd833467a4fb20c390f8f991593aa2b17f202d9a84": {
+        "sectxt": true,
+        "sectionID": "920781",
+        "type": "DI",
+        "section": "B11",
+        "days": "WF",
+        "time": "2:00p-2:50p",
+        "building": "SEQUO",
+        "room": "143",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "a448c76dc69de62e6beb3ef7813747169590cf246e371c1a03d4bbfd76299e6c": {
+        "sectxt": true,
+        "sectionID": "920782",
+        "type": "DI",
+        "section": "B12",
+        "days": "WF",
+        "time": "3:00p-3:50p",
+        "building": "SEQUO",
+        "room": "143",
+        "instructors": [
+          "Strom, Megan C."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "4f24bfec141ab18ff3b5c19b66ac27bb1f95f83dec7ae9d3f964a74ab12a484b": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -778,14 +1688,13 @@
         "time": "2:00p-2:50p",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "6db24739fe42f1cc1a7fae26eaed04b27a094b4cd18f5fac312b21fccd8c80b0": {
         "sectxt": true,
         "sectionID": "920791",
         "type": "DI",
@@ -794,14 +1703,13 @@
         "time": "9:00a-9:50a",
         "building": "SEQUO",
         "room": "138",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "aad6701658554a844d27b13b82d1be478497d187abdfe495e55b7a3e1ee98015": {
         "sectxt": true,
         "sectionID": "920792",
         "type": "DI",
@@ -810,14 +1718,13 @@
         "time": "10:00a-10:50a",
         "building": "SEQUO",
         "room": "138",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "a64919c341eccd446193a5f49a4cf4c86a68056689eaee3dfd275106ec148232": {
         "sectxt": true,
         "sectionID": "920793",
         "type": "DI",
@@ -826,14 +1733,13 @@
         "time": "10:00a-10:50a",
         "building": "SEQUO",
         "room": "143",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "9f1d0ceb9a401c8ddb98f4093f71b800a0f4d3e2002f13f6811cf186576734f6": {
         "sectxt": true,
         "sectionID": "920794",
         "type": "DI",
@@ -842,14 +1748,13 @@
         "time": "11:00a-11:50a",
         "building": "SEQUO",
         "room": "143",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "3d388af551d4a0fbae7adcd35e77329065e18a8e97146f5eec3085ff7dfba159": {
         "sectxt": true,
         "sectionID": "920795",
         "type": "DI",
@@ -858,14 +1763,13 @@
         "time": "11:00a-11:50a",
         "building": "SEQUO",
         "room": "138",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "7c91c64cf1b6e57654da5c99e7746a3def33060086c20e7f15260a24fcd96783": {
         "sectxt": true,
         "sectionID": "920796",
         "type": "DI",
@@ -874,14 +1778,13 @@
         "time": "12:00p-12:50p",
         "building": "SEQUO",
         "room": "138",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "8ab7b2c190e81715dc6509361fb66dde14b7f825d3c5e97cb8d38ae6fc212a27": {
         "sectxt": true,
         "sectionID": "920797",
         "type": "DI",
@@ -890,14 +1793,13 @@
         "time": "3:00p-3:50p",
         "building": "SEQUO",
         "room": "119",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "323a015c5c64ea4e658c87abc203a60708803cfdb10679914e2c8dd7a8aa1640": {
         "sectxt": true,
         "sectionID": "920798",
         "type": "DI",
@@ -906,14 +1808,13 @@
         "time": "4:00p-4:50p",
         "building": "SEQUO",
         "room": "119",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "84c65b38bf6ef8b6ca46d6e3d16113b70e70543d4f9e135e57c3f1be326f30c8": {
         "sectxt": true,
         "sectionID": "920799",
         "type": "DI",
@@ -922,14 +1823,13 @@
         "time": "4:00p-4:50p",
         "building": "SEQUO",
         "room": "141",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "479eccfaa2c1bdade7458bb8d24c932c28029a7430fd441e8c4dcc04b0386e5c": {
         "sectxt": true,
         "sectionID": "920800",
         "type": "DI",
@@ -938,14 +1838,13 @@
         "time": "5:00p-5:50p",
         "building": "SEQUO",
         "room": "141",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "ae62afb45f95f5de3093e2cdfc18048512694e10003bdd638e4e19e4f6aa36c2": {
         "sectxt": true,
         "sectionID": "920801",
         "type": "DI",
@@ -954,14 +1853,13 @@
         "time": "5:00p-5:50p",
         "building": "SEQUO",
         "room": "119",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "a71edecddcad7e790062468dc635451d10dd60c40b3142cb8700982e5eaf7aa8": {
         "sectxt": true,
         "sectionID": "920802",
         "type": "DI",
@@ -970,15 +1868,17 @@
         "time": "6:00p-6:50p",
         "building": "SEQUO",
         "room": "119",
-        "instructor": "Ho, Lisa",
         "instructors": [
           "Ho, Lisa"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

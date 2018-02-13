@@ -3,42 +3,9 @@
   "name": "Economic&Business Forecasting",
   "department": "ECON",
   "id": "178",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924121",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "10:00a-10:50a",
-      "building": "PCYNH",
-      "room": "106",
-      "instructor": "Foster, Carroll Baldwin",
-      "instructors": [
-        "Foster, Carroll Baldwin"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "7b9cae61974448900a84601caef1dbd984fdfb60d12407262eeb56c369f045f7": {
         "sectxt": true,
         "sectionID": "924121",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "10:00a-10:50a",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Foster, Carroll Baldwin",
         "instructors": [
           "Foster, Carroll Baldwin"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "20776402e676d88d16c51f4529d6c9cb709d07290657d96a5ec1e0933bd4e572": {
         "sectxt": true,
         "sectionID": "924121",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "10:00a-10:50a",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Foster, Carroll Baldwin",
         "instructors": [
           "Foster, Carroll Baldwin"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "974f36f3e45db15f2d227c5ec546d38d87fff9b8382c54d248a5deb9ee9741dd": {
         "sectxt": true,
         "sectionID": "924121",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "10:00a-10:50a",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Foster, Carroll Baldwin",
         "instructors": [
           "Foster, Carroll Baldwin"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,72 +3,9 @@
   "name": "Communication Circuit Design I",
   "department": "ECE",
   "id": "265A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925173",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "6:30p-7:50p",
-      "building": "PCYNH",
-      "room": "121",
-      "instructor": "Ali-Ahmad, Walid Y",
-      "instructors": [
-        "Ali-Ahmad, Walid Y"
-      ],
-      "start_time": "18:30",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/29/2018",
-      "days": "M",
-      "time": "8:00p-9:50p",
-      "building": "CENTR",
-      "room": "217B",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-29T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/20/2018",
-      "days": "Tu",
-      "time": "6:30p-7:50p",
-      "building": "PCYNH",
-      "room": "121",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-20T08:00:00.000Z",
-      "start_time": "18:30",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "aa404b1d9c80e5cd333b751cf45f0a9067214173c95f3b4c5057f5dc2055f266": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -77,13 +14,12 @@
       "time": "8:00p-9:50p",
       "building": "CENTR",
       "room": "217B",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-29T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "170f74df5b7462e34de8997b15c2c6152c28f105f4b0febd7958ac292ba0f923": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -92,13 +28,12 @@
       "time": "6:30p-7:50p",
       "building": "PCYNH",
       "room": "121",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-20T08:00:00.000Z",
       "start_time": "18:30",
       "end_time": "19:50"
     },
-    {
+    "4014bb1a466c069dc311d33d5ef7495aff7dbbe0834ca64e0d8d595c45fc5253": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -107,17 +42,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "6ccd77911eefc01d236581b3a5f8f4a4b60106b5cef7c51c104dc8af81c7dc4e": {
         "sectxt": true,
         "sectionID": "925173",
         "type": "LE",
@@ -126,17 +60,15 @@
         "time": "6:30p-7:50p",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "Ali-Ahmad, Walid Y",
         "instructors": [
           "Ali-Ahmad, Walid Y"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "7b36fc4de85cd085ded1cdac91e7d106e1003ffbce2776e8e3bbd955f4ddcbe9": {
         "sectxt": true,
         "sectionID": "925173",
         "type": "LE",
@@ -145,17 +77,15 @@
         "time": "6:30p-7:50p",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "Ali-Ahmad, Walid Y",
         "instructors": [
           "Ali-Ahmad, Walid Y"
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

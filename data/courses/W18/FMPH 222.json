@@ -3,44 +3,11 @@
   "name": "Biostatistical Methods II",
   "department": "FMPH",
   "id": "222",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929986",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "9:00a-10:30a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Messer, Karen Sue",
-      "instructors": [
-        "Messer, Karen Sue"
-      ],
-      "start_time": "9:00",
-      "end_time": "10:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [
     "Location: MCC (Moores Cancer Center) Room 3079"
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -49,17 +16,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "3208f744897a039eedb818856c6a25955e4d6e4e6df4dccd6be759903530d81b": {
         "sectxt": true,
         "sectionID": "929986",
         "type": "LE",
@@ -68,17 +34,15 @@
         "time": "9:00a-10:30a",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Messer, Karen Sue",
         "instructors": [
           "Messer, Karen Sue"
         ],
         "start_time": "9:00",
         "end_time": "10:30"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "fc3fb24c85eeb34fce8efdad2e887484d17b899722ea7bad51e0213de27496f2": {
         "sectxt": true,
         "sectionID": "929986",
         "type": "LE",
@@ -87,17 +51,15 @@
         "time": "9:00a-10:30a",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Messer, Karen Sue",
         "instructors": [
           "Messer, Karen Sue"
         ],
         "start_time": "9:00",
         "end_time": "10:30"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,63 +3,31 @@
   "name": "Chem Engineerng Process Lab I",
   "department": "CENG",
   "id": "176A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "Tu",
-      "time": "2:00p-3:20p",
-      "building": "SME",
-      "room": "248",
-      "instructor": "Zhang, Liangfang",
-      "instructors": [
-        "Zhang, Liangfang"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "Th",
-      "time": "2:00p-3:20p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926759",
-      "type": "LA",
-      "section": "B01",
-      "days": "TuTh",
-      "time": "10:00a-12:50p",
-      "building": "EBU2",
-      "room": "203",
-      "instructor": "Zhang, Liangfang",
-      "instructors": [
-        "Zhang, Liangfang"
-      ],
-      "start_time": "10:00",
-      "end_time": "12:50"
-    }
-  ],
   "notes": [
     "Thursdays location: Bioengineering Bld, Room 161"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "559a6f3a9dc009908d0ff13107a84abdb2f6648165fcbe5155a1173c8fb3b32e": {
+        "sectxt": true,
+        "sectionID": "926757",
+        "type": "LA",
+        "section": "A01",
+        "days": "MW",
+        "time": "10:00a-12:50p",
+        "building": "EBU2",
+        "room": "203",
+        "instructors": [
+          "Drews, Aaron"
+        ],
+        "start_time": "10:00",
+        "end_time": "12:50"
+      }
+    },
+    "Tu": {
+      "847a50f2fa5395561c0d5d1ceca2bbd45036602b9ceaf53fb929d6688c468394": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -68,14 +36,13 @@
         "time": "2:00p-3:20p",
         "building": "SME",
         "room": "248",
-        "instructor": "Zhang, Liangfang",
         "instructors": [
           "Zhang, Liangfang"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       },
-      {
+      "cc8eac616f1f7aaf2a2d0c7a7880387d1b646b7ee20589ca51d35e8bc867f0af": {
         "sectxt": true,
         "sectionID": "926759",
         "type": "LA",
@@ -84,17 +51,47 @@
         "time": "10:00a-12:50p",
         "building": "EBU2",
         "room": "203",
-        "instructor": "Zhang, Liangfang",
         "instructors": [
           "Zhang, Liangfang"
         ],
         "start_time": "10:00",
         "end_time": "12:50"
+      },
+      "77a90d7a8864ca19fd9b8963b8c321ba412d20b52100d010e9805af3b2d06f08": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CSB",
+        "room": "005",
+        "instructors": [
+          "Drews, Aaron"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "W": {
+      "72ea292b4837e51b377950e025626697ab2a6afde7b611021ce1e96373c2ac2b": {
+        "sectxt": true,
+        "sectionID": "926757",
+        "type": "LA",
+        "section": "A01",
+        "days": "MW",
+        "time": "10:00a-12:50p",
+        "building": "EBU2",
+        "room": "203",
+        "instructors": [
+          "Drews, Aaron"
+        ],
+        "start_time": "10:00",
+        "end_time": "12:50"
+      }
+    },
+    "Th": {
+      "847a50f2fa5395561c0d5d1ceca2bbd45036602b9ceaf53fb929d6688c468394": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -103,12 +100,11 @@
         "time": "2:00p-3:20p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "",
         "instructors": [],
         "start_time": "14:00",
         "end_time": "15:20"
       },
-      {
+      "85c00dbf73ab56ee5439de85c74a11685daf6b538e84ce6f066cbafaeae78721": {
         "sectxt": true,
         "sectionID": "926759",
         "type": "LA",
@@ -117,16 +113,31 @@
         "time": "10:00a-12:50p",
         "building": "EBU2",
         "room": "203",
-        "instructor": "Zhang, Liangfang",
         "instructors": [
           "Zhang, Liangfang"
         ],
         "start_time": "10:00",
         "end_time": "12:50"
+      },
+      "f8ad585298e7b342895c254554dd0fa501d6feea536e74d6146ebcf55fb31294": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CSB",
+        "room": "005",
+        "instructors": [
+          "Drews, Aaron"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "B",
+    "A"
+  ]
 }

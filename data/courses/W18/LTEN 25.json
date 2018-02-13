@@ -3,74 +3,9 @@
   "name": "Intro/Lit/US: Beginning - 1865",
   "department": "LTEN",
   "id": "25",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "PETER",
-      "room": "102",
-      "instructor": "Johnson, Sara E.",
-      "instructors": [
-        "Johnson, Sara E."
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924345",
-      "type": "DI",
-      "section": "A01",
-      "days": "Tu",
-      "time": "11:00a-11:50a",
-      "building": "SEQUO",
-      "room": "148",
-      "instructor": "Johnson, Sara E.",
-      "instructors": [
-        "Johnson, Sara E."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924346",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "11:00a-11:50a",
-      "building": "LIT",
-      "room": "255",
-      "instructor": "Johnson, Sara E.",
-      "instructors": [
-        "Johnson, Sara E."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -79,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "9dbb8ff3b50dc77a4d0ab6cd3df105e9d31df933a80188f6c4368632ec99cdb8": {
         "sectxt": true,
         "sectionID": "924346",
         "type": "DI",
@@ -98,16 +32,15 @@
         "time": "11:00a-11:50a",
         "building": "LIT",
         "room": "255",
-        "instructor": "Johnson, Sara E.",
         "instructors": [
           "Johnson, Sara E."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "77a90d7a8864ca19fd9b8963b8c321ba412d20b52100d010e9805af3b2d06f08": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -116,14 +49,13 @@
         "time": "12:30p-1:50p",
         "building": "PETER",
         "room": "102",
-        "instructor": "Johnson, Sara E.",
         "instructors": [
           "Johnson, Sara E."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       },
-      {
+      "54e055a116444724c307ef24b6376d12235b6586141462c05b6ad1cfc8cc83b3": {
         "sectxt": true,
         "sectionID": "924345",
         "type": "DI",
@@ -132,17 +64,15 @@
         "time": "11:00a-11:50a",
         "building": "SEQUO",
         "room": "148",
-        "instructor": "Johnson, Sara E.",
         "instructors": [
           "Johnson, Sara E."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f8ad585298e7b342895c254554dd0fa501d6feea536e74d6146ebcf55fb31294": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -151,16 +81,15 @@
         "time": "12:30p-1:50p",
         "building": "PETER",
         "room": "102",
-        "instructor": "Johnson, Sara E.",
         "instructors": [
           "Johnson, Sara E."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

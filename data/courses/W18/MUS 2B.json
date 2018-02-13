@@ -3,58 +3,23 @@
   "name": "Basic Musicianship",
   "department": "MUS",
   "id": "2B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "CPMC",
-      "room": "145",
-      "instructor": "Carlson, Erik Norman",
-      "instructors": [
-        "Carlson, Erik Norman"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921914",
-      "type": "ST",
-      "section": "B01",
-      "days": "MW",
-      "time": "10:00a-10:50a",
-      "building": "CPMC",
-      "room": "145",
-      "instructor": "Carlson, Erik Norman",
-      "instructors": [
-        "Carlson, Erik Norman"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,17 +28,31 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "23907901e6ecd5e17268f62149c6d569d44edc2fafbd52fadfce62d080d908b7": {
+        "sectxt": true,
+        "sectionID": "921912",
+        "type": "ST",
+        "section": "A01",
+        "days": "MW",
+        "time": "9:00a-9:50a",
+        "building": "CPMC",
+        "room": "145",
+        "instructors": [
+          "Carlson, Erik Norman"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "06a23b31ea7d83c27b619bdfaf1ff180a2ff9bcfa57f101992cd6fad3e275af2": {
         "sectxt": true,
         "sectionID": "921914",
         "type": "ST",
@@ -82,16 +61,30 @@
         "time": "10:00a-10:50a",
         "building": "CPMC",
         "room": "145",
-        "instructor": "Carlson, Erik Norman",
         "instructors": [
           "Carlson, Erik Norman"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "c12e876c286e075f54b31f5190baf1c12afcaa3c60c656df28d942741b529a9a": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CPMC",
+        "room": "145",
+        "instructors": [
+          "Carlson, Erik Norman"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "80483300f1843284167ade4659e2f9a13530b47463ed596be32b712259733b7f": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -100,16 +93,30 @@
         "time": "11:00a-12:20p",
         "building": "CPMC",
         "room": "145",
-        "instructor": "Carlson, Erik Norman",
         "instructors": [
           "Carlson, Erik Norman"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "9888cc75620231fbfffbf0b8da7c9e0ced70b26d194f30efd859a930562983b4": {
+        "sectxt": true,
+        "sectionID": "921912",
+        "type": "ST",
+        "section": "A01",
+        "days": "MW",
+        "time": "9:00a-9:50a",
+        "building": "CPMC",
+        "room": "145",
+        "instructors": [
+          "Carlson, Erik Norman"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "a817e007d670d6f628bca90186d0657f8d03447388bfefd3d447a6163dfefdcf": {
         "sectxt": true,
         "sectionID": "921914",
         "type": "ST",
@@ -118,16 +125,30 @@
         "time": "10:00a-10:50a",
         "building": "CPMC",
         "room": "145",
-        "instructor": "Carlson, Erik Norman",
         "instructors": [
           "Carlson, Erik Norman"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "1fd76e34fb7865fce7ff5adca312ddc805651e55d9a8d5231108d9552d7045e9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "CPMC",
+        "room": "145",
+        "instructors": [
+          "Carlson, Erik Norman"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "9ecb4349bcf3cf1b21e5a0d8ad6c42f695a59786e4be06c5748fb2365d7e0bcd": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -136,16 +157,16 @@
         "time": "11:00a-12:20p",
         "building": "CPMC",
         "room": "145",
-        "instructor": "Carlson, Erik Norman",
         "instructors": [
           "Carlson, Erik Norman"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

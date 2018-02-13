@@ -3,42 +3,9 @@
   "name": "Human Rights I: Introduction",
   "department": "HITO",
   "id": "119",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924575",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "5:30p-8:20p",
-      "building": "HSS",
-      "room": "4025",
-      "instructor": "Patterson, Patrick H.",
-      "instructors": [
-        "Patterson, Patrick H."
-      ],
-      "start_time": "17:30",
-      "end_time": "20:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "655f4c6a18b6d7394e690ff7c4917e62bde7121bbafec2166877f0361e83d1e5": {
         "sectxt": true,
         "sectionID": "924575",
         "type": "LE",
@@ -67,18 +32,15 @@
         "time": "5:30p-8:20p",
         "building": "HSS",
         "room": "4025",
-        "instructor": "Patterson, Patrick H.",
         "instructors": [
           "Patterson, Patrick H."
         ],
         "start_time": "17:30",
         "end_time": "20:20"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

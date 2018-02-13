@@ -3,34 +3,38 @@
   "name": "Orientation Practicum",
   "department": "MSED",
   "id": "295",
-  "timeslots": [
+  "notes": [],
+  "events_single": {},
+  "events_unknown": [
     {
       "sectxt": true,
-      "sectionID": "920923",
+      "sectionID": "920921",
       "type": "PR",
-      "section": "C00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
       "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
+        "Rabin, Jeffrey Mark"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920922",
+      "type": "PR",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Wienhausen, Gabriele"
+      ]
     }
   ],
-  "notes": [],
-  "events_single": [],
-  "events_unknown": [],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": [
+    "C"
+  ]
 }

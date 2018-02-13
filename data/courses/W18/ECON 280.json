@@ -3,35 +3,12 @@
   "name": "Computation",
   "department": "ECON",
   "id": "280",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924139",
-      "type": "LE",
-      "section": "A00",
-      "days": "F",
-      "time": "9:00a-11:50a",
-      "building": "SEQUO",
-      "room": "142",
-      "instructor": "Ramey, Garey & White, Michelle J.",
-      "instructors": [
-        "Ramey, Garey",
-        "White, Michelle J."
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "d729f9a65cb61598c3f37d2386506a8c09d845f8e528e6df5188b9300ae786a4": {
         "sectxt": true,
         "sectionID": "924139",
         "type": "LE",
@@ -40,16 +17,15 @@
         "time": "9:00a-11:50a",
         "building": "SEQUO",
         "room": "142",
-        "instructor": "Ramey, Garey & White, Michelle J.",
         "instructors": [
-          "Ramey, Garey",
-          "White, Michelle J."
+          "Ramey, Garey                       \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWhite, Michelle J."
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

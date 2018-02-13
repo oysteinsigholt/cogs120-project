@@ -3,27 +3,37 @@
   "name": "Research Practicum",
   "department": "AUD",
   "id": "296",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920821",
-      "type": "LA",
-      "section": "C00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Ryan, Allen F.",
-      "instructors": [
-        "Ryan, Allen F."
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "920819",
+      "type": "LA",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Zettner, Erika"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920820",
+      "type": "LA",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Harris, Jeffrey Paul"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "920821",
       "type": "LA",
       "section": "C00",
@@ -31,19 +41,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Ryan, Allen F.",
       "instructors": [
         "Ryan, Allen F."
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

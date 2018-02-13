@@ -3,42 +3,9 @@
   "name": "Environmental Law",
   "department": "ENVR",
   "id": "110",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928772",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "7:00p-8:20p",
-      "building": "PETER",
-      "room": "102",
-      "instructor": "Ochoa, Edward Henry",
-      "instructors": [
-        "Ochoa, Edward Henry"
-      ],
-      "start_time": "19:00",
-      "end_time": "20:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "4014bb1a466c069dc311d33d5ef7495aff7dbbe0834ca64e0d8d595c45fc5253": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "eafb4266ec7259be25c010ce6b99cac32352354f0e461fe69459dd21567043c7": {
         "sectxt": true,
         "sectionID": "928772",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "7:00p-8:20p",
         "building": "PETER",
         "room": "102",
-        "instructor": "Ochoa, Edward Henry",
         "instructors": [
           "Ochoa, Edward Henry"
         ],
         "start_time": "19:00",
         "end_time": "20:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "e8cd0848d8f2334aa189e8ddf815db26cf7025178289660e63d248f3f5794071": {
         "sectxt": true,
         "sectionID": "928772",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "7:00p-8:20p",
         "building": "PETER",
         "room": "102",
-        "instructor": "Ochoa, Edward Henry",
         "instructors": [
           "Ochoa, Edward Henry"
         ],
         "start_time": "19:00",
         "end_time": "20:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

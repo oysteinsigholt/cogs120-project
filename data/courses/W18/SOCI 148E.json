@@ -3,42 +3,9 @@
   "name": "Inequality and Jobs",
   "department": "SOCI",
   "id": "148E",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929941",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "CSB",
-      "room": "004",
-      "instructor": "Davis, Daniel Brent",
-      "instructors": [
-        "Davis, Daniel Brent"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "f3696230a99c4a07629bdb9488a5e8b81d0d806a0469ef6fc6c866d86e66c8af": {
         "sectxt": true,
         "sectionID": "929941",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "1:00p-1:50p",
         "building": "CSB",
         "room": "004",
-        "instructor": "Davis, Daniel Brent",
         "instructors": [
           "Davis, Daniel Brent"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "c13d9c290f4dd1a23779dc31b3f8678c62c0baf8bc0dff7176564dc35d8eba9d": {
         "sectxt": true,
         "sectionID": "929941",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "1:00p-1:50p",
         "building": "CSB",
         "room": "004",
-        "instructor": "Davis, Daniel Brent",
         "instructors": [
           "Davis, Daniel Brent"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "a5899ab597891aa170aa724bcc56c0db122e330e8f17ba0160a10e5cca6b52b5": {
         "sectxt": true,
         "sectionID": "929941",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "1:00p-1:50p",
         "building": "CSB",
         "room": "004",
-        "instructor": "Davis, Daniel Brent",
         "instructors": [
           "Davis, Daniel Brent"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

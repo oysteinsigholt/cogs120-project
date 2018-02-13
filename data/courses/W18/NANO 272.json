@@ -3,42 +3,9 @@
   "name": "Soft Electronics",
   "department": "NANO",
   "id": "272",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929975",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "7:00p-8:20p",
-      "building": "MANDE",
-      "room": "B-150",
-      "instructor": "Xu, Sheng",
-      "instructors": [
-        "Xu, Sheng"
-      ],
-      "start_time": "19:00",
-      "end_time": "20:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5139b59900b2a15bbcc9f74995c455a57d46508184478e3e6f3c0cc1534d754d": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1f4fdd48fba2f38c3944803f1a9f8095581a23fc8cc55c7594ca2b9dbd397866": {
         "sectxt": true,
         "sectionID": "929975",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "7:00p-8:20p",
         "building": "MANDE",
         "room": "B-150",
-        "instructor": "Xu, Sheng",
         "instructors": [
           "Xu, Sheng"
         ],
         "start_time": "19:00",
         "end_time": "20:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "06cb1eb5a00c77a60c1f0221d3be77c40800b4aa450ec16a2495cdd50ed9721a": {
         "sectxt": true,
         "sectionID": "929975",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "7:00p-8:20p",
         "building": "MANDE",
         "room": "B-150",
-        "instructor": "Xu, Sheng",
         "instructors": [
           "Xu, Sheng"
         ],
         "start_time": "19:00",
         "end_time": "20:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

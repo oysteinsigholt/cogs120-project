@@ -3,30 +3,12 @@
   "name": "Low Intermediate Japanese",
   "department": "GPLA",
   "id": "410B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921730",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "8:00a-9:20a",
-      "building": "RBC",
-      "room": "1328",
-      "instructor": "Kamioka, Sachiko",
-      "instructors": [
-        "Kamioka, Sachiko"
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "8f3dfeb279bdbed1b00cdae12fa935a94a1d156ea0835938877f80a658843063": {
         "sectxt": true,
         "sectionID": "921730",
         "type": "LE",
@@ -35,17 +17,15 @@
         "time": "8:00a-9:20a",
         "building": "RBC",
         "room": "1328",
-        "instructor": "Kamioka, Sachiko",
         "instructors": [
           "Kamioka, Sachiko"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "e9fe9bf521f990c6dd86bab95d4de14625b513c6ef13cdde3cde836125560a6a": {
         "sectxt": true,
         "sectionID": "921730",
         "type": "LE",
@@ -54,17 +34,15 @@
         "time": "8:00a-9:20a",
         "building": "RBC",
         "room": "1328",
-        "instructor": "Kamioka, Sachiko",
         "instructors": [
           "Kamioka, Sachiko"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

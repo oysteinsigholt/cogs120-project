@@ -3,31 +3,29 @@
   "name": "Intermediate Contemp Dance",
   "department": "TDMV",
   "id": "120",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920464",
-      "type": "ST",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "2:00p-3:50p",
-      "building": "DANCE",
-      "room": "2",
-      "instructor": "Rincon, Patricia A.",
-      "instructors": [
-        "Rincon, Patricia A."
-      ],
-      "start_time": "14:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "41fd048d0cee0d7a0690611f6905b70c9d71a5402e51bfd49fb16f07e6a43880": {
+        "sectxt": true,
+        "sectionID": "920463",
+        "type": "ST",
+        "section": "A00",
+        "days": "MW",
+        "time": "10:00a-11:50a",
+        "building": "DANCE",
+        "room": "2",
+        "instructors": [
+          "Sammartano, Tonnie"
+        ],
+        "start_time": "10:00",
+        "end_time": "11:50"
+      }
+    },
+    "Tu": {
+      "32bf9243954267adc58c5c5f353e1a3062be68c309289c39a54e99fd67cf6498": {
         "sectxt": true,
         "sectionID": "920464",
         "type": "ST",
@@ -36,17 +34,32 @@
         "time": "2:00p-3:50p",
         "building": "DANCE",
         "room": "2",
-        "instructor": "Rincon, Patricia A.",
         "instructors": [
           "Rincon, Patricia A."
         ],
         "start_time": "14:00",
         "end_time": "15:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "W": {
+      "e23e012506085dea16693a0bb1d4c91b488b78e4695781443a8cf4fe423222e4": {
+        "sectxt": true,
+        "sectionID": "920463",
+        "type": "ST",
+        "section": "A00",
+        "days": "MW",
+        "time": "10:00a-11:50a",
+        "building": "DANCE",
+        "room": "2",
+        "instructors": [
+          "Sammartano, Tonnie"
+        ],
+        "start_time": "10:00",
+        "end_time": "11:50"
+      }
+    },
+    "Th": {
+      "c19f590b10af8da80ac350651f8fd5a753525c3f78fb07cafc3c045c1662536f": {
         "sectxt": true,
         "sectionID": "920464",
         "type": "ST",
@@ -55,16 +68,16 @@
         "time": "2:00p-3:50p",
         "building": "DANCE",
         "room": "2",
-        "instructor": "Rincon, Patricia A.",
         "instructors": [
           "Rincon, Patricia A."
         ],
         "start_time": "14:00",
         "end_time": "15:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

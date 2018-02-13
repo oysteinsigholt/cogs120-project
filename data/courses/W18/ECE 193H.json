@@ -3,27 +3,50 @@
   "name": "Honors Project",
   "department": "ECE",
   "id": "193H",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "939690",
-      "type": "IN",
-      "section": "004",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Yip, Michael",
-      "instructors": [
-        "Yip, Michael"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "930129",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Fainman, Yeshaiahu"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930336",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Nguyen, Truong Quang"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "933601",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Radic, Stojan"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "939690",
       "type": "IN",
       "section": "004",
@@ -31,19 +54,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Yip, Michael",
       "instructors": [
         "Yip, Michael"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

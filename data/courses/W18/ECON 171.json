@@ -3,74 +3,9 @@
   "name": "Decisions Under Uncertainty",
   "department": "ECON",
   "id": "171",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "5:00p-6:20p",
-      "building": "CENTR",
-      "room": "101",
-      "instructor": "Levkoff, Steven B.",
-      "instructors": [
-        "Levkoff, Steven B."
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924107",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "7:00p-7:50p",
-      "building": "PCYNH",
-      "room": "106",
-      "instructor": "Levkoff, Steven B.",
-      "instructors": [
-        "Levkoff, Steven B."
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924108",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "8:00p-8:50p",
-      "building": "PCYNH",
-      "room": "106",
-      "instructor": "Levkoff, Steven B.",
-      "instructors": [
-        "Levkoff, Steven B."
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -79,18 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "503eae0a8858b7b329809768e5967230ac8000e953deadca9a39203641302192": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -99,16 +32,15 @@
         "time": "5:00p-6:20p",
         "building": "CENTR",
         "room": "101",
-        "instructor": "Levkoff, Steven B.",
         "instructors": [
           "Levkoff, Steven B."
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "850073adc5e02e9c9fb2c2a08e015f396ab8c3fdffac70da6f953279a2f1a71a": {
         "sectxt": true,
         "sectionID": "924107",
         "type": "DI",
@@ -117,14 +49,13 @@
         "time": "7:00p-7:50p",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Levkoff, Steven B.",
         "instructors": [
           "Levkoff, Steven B."
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "d73d8bd03c6449569bde5b2e1836027ffdb45dc155332d3b0dbbc81b3ce5f191": {
         "sectxt": true,
         "sectionID": "924108",
         "type": "DI",
@@ -133,16 +64,15 @@
         "time": "8:00p-8:50p",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Levkoff, Steven B.",
         "instructors": [
           "Levkoff, Steven B."
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "ad10dc80025b6fae88a6e6bd4b3bc62f48725a5778aa49de4dbf9e9ef718c058": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -151,16 +81,15 @@
         "time": "5:00p-6:20p",
         "building": "CENTR",
         "room": "101",
-        "instructor": "Levkoff, Steven B.",
         "instructors": [
           "Levkoff, Steven B."
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

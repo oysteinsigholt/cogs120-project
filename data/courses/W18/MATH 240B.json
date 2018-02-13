@@ -3,72 +3,9 @@
   "name": "Real Analysis",
   "department": "MATH",
   "id": "240B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927292",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "8:00a-9:20a",
-      "building": "APM",
-      "room": "7421",
-      "instructor": "Ioana, Adrian",
-      "instructors": [
-        "Ioana, Adrian"
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/22/2018",
-      "days": "M",
-      "time": "5:00p-6:20p",
-      "building": "CENTR",
-      "room": "217B",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-22T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/05/2018",
-      "days": "M",
-      "time": "5:00p-6:20p",
-      "building": "CENTR",
-      "room": "217B",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-05T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "785ba48c7af21eed881625916f86e5f4f9dd668c33b1373aadee6d6caf8f000f": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -77,13 +14,12 @@
       "time": "5:00p-6:20p",
       "building": "CENTR",
       "room": "217B",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-22T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "18:20"
     },
-    {
+    "efa248d347ef9082ecd300421091696e23cf9f300c3a66d5d4b27469e5560302": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -92,13 +28,12 @@
       "time": "5:00p-6:20p",
       "building": "CENTR",
       "room": "217B",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-05T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "18:20"
     },
-    {
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -107,18 +42,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "26ebb8d51be6f08014745d38fce5d23081a8cf472244a7b4e78332427eddbcf4": {
         "sectxt": true,
         "sectionID": "927292",
         "type": "LE",
@@ -127,17 +60,15 @@
         "time": "8:00a-9:20a",
         "building": "APM",
         "room": "7421",
-        "instructor": "Ioana, Adrian",
         "instructors": [
           "Ioana, Adrian"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "74608c3a084d7af8ed08abf6860d07cfc0892c1afc83c5e3948bdbb184e13ebe": {
         "sectxt": true,
         "sectionID": "927292",
         "type": "LE",
@@ -146,16 +77,15 @@
         "time": "8:00a-9:20a",
         "building": "APM",
         "room": "7421",
-        "instructor": "Ioana, Adrian",
         "instructors": [
           "Ioana, Adrian"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

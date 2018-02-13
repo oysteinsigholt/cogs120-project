@@ -3,108 +3,11 @@
   "name": "Fundamentals of Music B",
   "department": "MUS",
   "id": "1B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "CPMC",
-      "room": "136",
-      "instructor": "Moellenberg, Todd Michael",
-      "instructors": [
-        "Moellenberg, Todd Michael"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921907",
-      "type": "LA",
-      "section": "A01",
-      "days": "MW",
-      "time": "9:00a-9:50a",
-      "building": "CPMC",
-      "room": "265",
-      "instructor": "Moellenberg, Todd Michael",
-      "instructors": [
-        "Moellenberg, Todd Michael"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921908",
-      "type": "LA",
-      "section": "A02",
-      "days": "MW",
-      "time": "10:00a-10:50a",
-      "building": "WLH",
-      "room": "2154",
-      "instructor": "Moellenberg, Todd Michael",
-      "instructors": [
-        "Moellenberg, Todd Michael"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921909",
-      "type": "LA",
-      "section": "A03",
-      "days": "WF",
-      "time": "10:00a-10:50a",
-      "building": "CPMC",
-      "room": "265",
-      "instructor": "Moellenberg, Todd Michael",
-      "instructors": [
-        "Moellenberg, Todd Michael"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921910",
-      "type": "LA",
-      "section": "A04",
-      "days": "WF",
-      "time": "11:00a-11:50a",
-      "building": "CPMC",
-      "room": "127",
-      "instructor": "Moellenberg, Todd Michael",
-      "instructors": [
-        "Moellenberg, Todd Michael"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [
     "Sections will not meet before first main lecture."
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -113,17 +16,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "bcab588c6627cf6aef1c0e0a13d6aa120107e6ecc1c57eb30887be1fa4b7cd8e": {
         "sectxt": true,
         "sectionID": "921907",
         "type": "LA",
@@ -132,14 +34,13 @@
         "time": "9:00a-9:50a",
         "building": "CPMC",
         "room": "265",
-        "instructor": "Moellenberg, Todd Michael",
         "instructors": [
           "Moellenberg, Todd Michael"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "1ad9711c0c0772420be5d4f8cad59610398c5590c2ba10582073f0bec5df4070": {
         "sectxt": true,
         "sectionID": "921908",
         "type": "LA",
@@ -148,16 +49,15 @@
         "time": "10:00a-10:50a",
         "building": "WLH",
         "room": "2154",
-        "instructor": "Moellenberg, Todd Michael",
         "instructors": [
           "Moellenberg, Todd Michael"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "c12e876c286e075f54b31f5190baf1c12afcaa3c60c656df28d942741b529a9a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -166,16 +66,15 @@
         "time": "9:30a-10:50a",
         "building": "CPMC",
         "room": "136",
-        "instructor": "Moellenberg, Todd Michael",
         "instructors": [
           "Moellenberg, Todd Michael"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "1589812029e71ffbf31427bc43138188aa0ef5db333ef901180986faf6d1b9de": {
         "sectxt": true,
         "sectionID": "921907",
         "type": "LA",
@@ -184,14 +83,13 @@
         "time": "9:00a-9:50a",
         "building": "CPMC",
         "room": "265",
-        "instructor": "Moellenberg, Todd Michael",
         "instructors": [
           "Moellenberg, Todd Michael"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "27e6ed8142407a1bbc72b9df29973ac160eee252c9ede954e78a13366afdec5a": {
         "sectxt": true,
         "sectionID": "921908",
         "type": "LA",
@@ -200,14 +98,13 @@
         "time": "10:00a-10:50a",
         "building": "WLH",
         "room": "2154",
-        "instructor": "Moellenberg, Todd Michael",
         "instructors": [
           "Moellenberg, Todd Michael"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "3228a76b0243dbb84121a063a9f40b1e0b3aa058f757e5d3445d159f0511207e": {
         "sectxt": true,
         "sectionID": "921909",
         "type": "LA",
@@ -216,14 +113,13 @@
         "time": "10:00a-10:50a",
         "building": "CPMC",
         "room": "265",
-        "instructor": "Moellenberg, Todd Michael",
         "instructors": [
           "Moellenberg, Todd Michael"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "fd9b26e458efd2d8129788d0a6d32213f02d6bdfbeeb46fd0eb22faabce583f2": {
         "sectxt": true,
         "sectionID": "921910",
         "type": "LA",
@@ -232,16 +128,15 @@
         "time": "11:00a-11:50a",
         "building": "CPMC",
         "room": "127",
-        "instructor": "Moellenberg, Todd Michael",
         "instructors": [
           "Moellenberg, Todd Michael"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "1fd76e34fb7865fce7ff5adca312ddc805651e55d9a8d5231108d9552d7045e9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -250,16 +145,15 @@
         "time": "9:30a-10:50a",
         "building": "CPMC",
         "room": "136",
-        "instructor": "Moellenberg, Todd Michael",
         "instructors": [
           "Moellenberg, Todd Michael"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "1001493a45f299eaec6c741a99bb8d22da8d276f2ebe4ce3d99960fd73b8618d": {
         "sectxt": true,
         "sectionID": "921909",
         "type": "LA",
@@ -268,14 +162,13 @@
         "time": "10:00a-10:50a",
         "building": "CPMC",
         "room": "265",
-        "instructor": "Moellenberg, Todd Michael",
         "instructors": [
           "Moellenberg, Todd Michael"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "789bcc570e994b5971830e64429dc8808c68342373f002adaa2bf6af94832382": {
         "sectxt": true,
         "sectionID": "921910",
         "type": "LA",
@@ -284,15 +177,15 @@
         "time": "11:00a-11:50a",
         "building": "CPMC",
         "room": "127",
-        "instructor": "Moellenberg, Todd Michael",
         "instructors": [
           "Moellenberg, Todd Michael"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

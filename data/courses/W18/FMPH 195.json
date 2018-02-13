@@ -3,27 +3,76 @@
   "name": "Instruction in Public Health",
   "department": "FMPH",
   "id": "195",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "936280",
-      "type": "IN",
-      "section": "007",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Vanos, Jennifer K.",
-      "instructors": [
-        "Vanos, Jennifer K."
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "936275",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Johnson, Michelle Lee"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "936276",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Aldelaimy, Wael"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "936277",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Schwartzman, Armin"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "936278",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Marquez, Becky"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "936279",
+      "type": "IN",
+      "section": "006",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "McMenamin, Sara B"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "936280",
       "type": "IN",
       "section": "007",
@@ -31,19 +80,24 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Vanos, Jennifer K.",
       "instructors": [
         "Vanos, Jennifer K."
       ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "936274",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Larsen, Britta Ann"
+      ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

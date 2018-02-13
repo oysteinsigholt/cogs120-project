@@ -3,27 +3,24 @@
   "name": "Special Projects:Writng Course",
   "department": "LTCO",
   "id": "298",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "939659",
-      "type": "IN",
-      "section": "B00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Miyao, Daisuke",
-      "instructors": [
-        "Miyao, Daisuke"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "930585",
+      "type": "IN",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Suzuki, Erin M."
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "939659",
       "type": "IN",
       "section": "B00",
@@ -31,19 +28,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Miyao, Daisuke",
       "instructors": [
         "Miyao, Daisuke"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

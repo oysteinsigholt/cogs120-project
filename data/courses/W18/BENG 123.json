@@ -3,88 +3,9 @@
   "name": "Dynamic Simulatn in Bioeng",
   "department": "BENG",
   "id": "123",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "CENTR",
-      "room": "222",
-      "instructor": "Palsson, Bernhard O.",
-      "instructors": [
-        "Palsson, Bernhard O."
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "CENTR",
-      "room": "222",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923300",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "10:00a-10:50a",
-      "building": "CENTR",
-      "room": "217A",
-      "instructor": "Palsson, Bernhard O.",
-      "instructors": [
-        "Palsson, Bernhard O."
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923301",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "WLH",
-      "room": "2209",
-      "instructor": "Palsson, Bernhard O.",
-      "instructors": [
-        "Palsson, Bernhard O."
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -93,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "d095058a3c5ca6878be2e5af45056c73925fc6945e80151eaa049f5fb0198342": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -112,14 +32,13 @@
         "time": "3:00p-3:50p",
         "building": "CENTR",
         "room": "222",
-        "instructor": "Palsson, Bernhard O.",
         "instructors": [
           "Palsson, Bernhard O."
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "f26b8bc794fa36a4f667ac2b4bf7c2489ba7d83caffbdb5ba785e23436c0acec": {
         "sectxt": true,
         "sectionID": "923300",
         "type": "DI",
@@ -128,16 +47,15 @@
         "time": "10:00a-10:50a",
         "building": "CENTR",
         "room": "217A",
-        "instructor": "Palsson, Bernhard O.",
         "instructors": [
           "Palsson, Bernhard O."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "979df717b14bf700ac34786e38e943c17094ef467bc27a99217c634a6e5f885f": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -146,14 +64,13 @@
         "time": "3:30p-4:50p",
         "building": "CENTR",
         "room": "222",
-        "instructor": "",
         "instructors": [],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "64732af9758651aa31b702e548884bf36594414f5ed2b91883c108d9c389ab1f": {
         "sectxt": true,
         "sectionID": "923301",
         "type": "DI",
@@ -162,16 +79,15 @@
         "time": "4:00p-4:50p",
         "building": "WLH",
         "room": "2209",
-        "instructor": "Palsson, Bernhard O.",
         "instructors": [
           "Palsson, Bernhard O."
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "d9a298da955f5b893f4478e3f282466555219d3b8f66ca24bc27d90b59ce58fd": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -180,14 +96,13 @@
         "time": "3:30p-4:50p",
         "building": "CENTR",
         "room": "222",
-        "instructor": "",
         "instructors": [],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

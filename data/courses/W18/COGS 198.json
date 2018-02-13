@@ -3,24 +3,8 @@
   "name": "Directed Group Study",
   "department": "COGS",
   "id": "198",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929964",
-      "type": "IN",
-      "section": "002",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Dow, Steven P",
-      "instructors": [
-        "Dow, Steven P"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,31 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Dow, Steven P",
       "instructors": [
         "Dow, Steven P"
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "W": {
+      "bfd5aa27f359e80021ec5a9844c8aa0d74f70211f040f7ec7fcc399368876e1a": {
+        "sectxt": true,
+        "sectionID": "925613",
+        "type": "IN",
+        "section": "001",
+        "days": "W",
+        "time": "2:00p-2:50p",
+        "building": "CSB",
+        "room": "180",
+        "instructors": [
+          "Kutas, Marta"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    }
+  },
+  "sections": [
+    "0"
+  ]
 }

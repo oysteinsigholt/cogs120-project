@@ -3,102 +3,9 @@
   "name": "International Trade",
   "department": "ECON",
   "id": "101",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924058",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "Rauch, James E",
-      "instructors": [
-        "Rauch, James E"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/19/2018",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "CENTR",
-      "room": "212",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-19T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/25/2018",
-      "days": "Th",
-      "time": "7:00p-7:50p",
-      "building": "CENTR",
-      "room": "216",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-25T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/31/2018",
-      "days": "W",
-      "time": "7:00p-8:50p",
-      "building": "CENTR",
-      "room": "109",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-31T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/23/2018",
-      "days": "F",
-      "time": "6:00p-7:50p",
-      "building": "CENTR",
-      "room": "105",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-23T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "123cf410a7cf3744fd2f82505370090442fba4f36f31f11f496c8a7a765c0f4b": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -107,13 +14,12 @@
       "time": "5:00p-5:50p",
       "building": "CENTR",
       "room": "212",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-19T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "0f1d1c0a76fe3c559c92339096e8dce44c803c8bb31dc7d843746781391d6903": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -122,13 +28,12 @@
       "time": "7:00p-7:50p",
       "building": "CENTR",
       "room": "216",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-25T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "19:50"
     },
-    {
+    "a879041afbf4e27e6d39acdfd04aae5abbcfabf3ae6f5b677e35829ff46f5cad": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -137,13 +42,26 @@
       "time": "7:00p-8:50p",
       "building": "CENTR",
       "room": "109",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-31T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "20:50"
     },
-    {
+    "243bce5fe84f80009057e6c38f06da5299428e111a2f73905b3bcea4fb618b53": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/14/2018",
+      "days": "W",
+      "time": "5:00p-5:50p",
+      "building": "WLH",
+      "room": "2204",
+      "instructors": [],
+      "date": "2018-02-14T08:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    "6348a423c87eb7fa7e2317982bbf52c0f181d6531539acae37e3217a9921c352": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -152,13 +70,12 @@
       "time": "6:00p-7:50p",
       "building": "CENTR",
       "room": "105",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-23T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "19:50"
     },
-    {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -167,18 +84,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "83ac733755511751abe368ee781061869713d4877694eff65a67d958932c5274": {
         "sectxt": true,
         "sectionID": "924058",
         "type": "LE",
@@ -187,17 +102,15 @@
         "time": "11:00a-12:20p",
         "building": "CSB",
         "room": "002",
-        "instructor": "Rauch, James E",
         "instructors": [
           "Rauch, James E"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "ea2dfcc53f16e2f01ed628ed53162c7dda96f6e6495bc8731cb41cdcd2e59012": {
         "sectxt": true,
         "sectionID": "924058",
         "type": "LE",
@@ -206,16 +119,15 @@
         "time": "11:00a-12:20p",
         "building": "CSB",
         "room": "002",
-        "instructor": "Rauch, James E",
         "instructors": [
           "Rauch, James E"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

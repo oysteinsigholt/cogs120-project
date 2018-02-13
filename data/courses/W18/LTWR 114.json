@@ -3,32 +3,12 @@
   "name": "Graphic Texts Workshop",
   "department": "LTWR",
   "id": "114",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924404",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "6:00p-8:50p",
-      "building": "LIT",
-      "room": "355",
-      "instructor": "Springer, Anna Joy",
-      "instructors": [
-        "Springer, Anna Joy"
-      ],
-      "start_time": "18:00",
-      "end_time": "20:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "5aef4d24f360869534231967195058ba3d3c025bbee7bd97d0e53dee9c13df1e": {
         "sectxt": true,
         "sectionID": "924404",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "6:00p-8:50p",
         "building": "LIT",
         "room": "355",
-        "instructor": "Springer, Anna Joy",
         "instructors": [
           "Springer, Anna Joy"
         ],
         "start_time": "18:00",
         "end_time": "20:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

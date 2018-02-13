@@ -3,32 +3,12 @@
   "name": "Seminar/Optimization",
   "department": "MATH",
   "id": "278C",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "933120",
-      "type": "SE",
-      "section": "B00",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "APM",
-      "room": "7421",
-      "instructor": "Nie, Jiawang",
-      "instructors": [
-        "Nie, Jiawang"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "26cedb48aecab5a2e1f29e4a73c874756a3553dc6b3218d4576482974aa5a838": {
         "sectxt": true,
         "sectionID": "933120",
         "type": "SE",
@@ -37,17 +17,16 @@
         "time": "3:00p-3:50p",
         "building": "APM",
         "room": "7421",
-        "instructor": "Nie, Jiawang",
         "instructors": [
           "Nie, Jiawang"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

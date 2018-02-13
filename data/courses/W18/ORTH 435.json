@@ -3,24 +3,8 @@
   "name": "Orthopaedic Sports Medicine",
   "department": "ORTH",
   "id": "435",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928534",
-      "type": "CL",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Robertson, Catherine Mackinnon",
-      "instructors": [
-        "Robertson, Catherine Mackinnon"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Robertson, Catherine Mackinnon",
       "instructors": [
         "Robertson, Catherine Mackinnon"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

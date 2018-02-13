@@ -3,34 +3,136 @@
   "name": "Design for Development Lab",
   "department": "ENG",
   "id": "100L",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920288",
-      "type": "LA",
-      "section": "A00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    }
+  "notes": [
+    "Location: Birch Aquarium"
   ],
-  "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "M": {
+      "cc840b1321add3d5d0d6124b32aab552a5cb481ac16cedcd2854525a4dd81efc": {
+        "sectxt": true,
+        "sectionID": "920293",
+        "type": "LA",
+        "section": "F00",
+        "days": "M",
+        "time": "6:30p-8:20p",
+        "building": "HSS",
+        "room": "1106B",
+        "instructors": [
+          "Nguyen, Truong Quang"
+        ],
+        "start_time": "18:30",
+        "end_time": "20:20"
+      }
+    },
+    "Tu": {
+      "a80298100339cd3ebfbac784a2507d3c79c477403e384cb53ba536d6ad97bdd7": {
+        "sectxt": true,
+        "sectionID": "920295",
+        "type": "LA",
+        "section": "H00",
+        "days": "Tu",
+        "time": "2:30p-4:20p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Stokes, Malcolm Dale"
+        ],
+        "start_time": "14:30",
+        "end_time": "16:20"
+      }
+    },
+    "W": {
+      "d6b7c7da1ef7307df3621e5a9ca2a4898ac0a8c2080c81b5cc307c6f28ce2779": {
+        "sectxt": true,
+        "sectionID": "920290",
+        "type": "LA",
+        "section": "C00",
+        "days": "W",
+        "time": "11:00a-12:50p",
+        "building": "YORK",
+        "room": "3050B",
+        "instructors": [
+          "Kleissl, Jan"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:50"
+      },
+      "0e592af05f35a767028d936534527ae0768669e46cddfb858206d7dc5f2598b7": {
+        "sectxt": true,
+        "sectionID": "920294",
+        "type": "LA",
+        "section": "G00",
+        "days": "W",
+        "time": "4:00p-5:50p",
+        "building": "CENTR",
+        "room": "204",
+        "instructors": [
+          "de Oliveira, Mauricio"
+        ],
+        "start_time": "16:00",
+        "end_time": "17:50"
+      },
+      "3fd528fff6f7cc04a8e4f5d0d7da818c3e220518dd6e9691567213209c077dd0": {
+        "sectxt": true,
+        "sectionID": "920296",
+        "type": "LA",
+        "section": "I00",
+        "days": "W",
+        "time": "11:00a-12:50p",
+        "building": "HSS",
+        "room": "2333A",
+        "instructors": [
+          "Bratton, Maryann"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:50"
+      },
+      "c74e56a076bfbf240e4999697e1957269bfe02cd8734aed3093d8a9aa52123d2": {
+        "sectxt": true,
+        "sectionID": "920297",
+        "type": "LA",
+        "section": "J00",
+        "days": "W",
+        "time": "3:00p-4:50p",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [
+          "Bratton, Maryann"
+        ],
+        "start_time": "15:00",
+        "end_time": "16:50"
+      }
+    },
+    "Th": {
+      "309b4b45d9b9f8da7d65d7cdf41dd1be7740670cc2ac6341889977dca2558f19": {
+        "sectxt": true,
+        "sectionID": "920291",
+        "type": "LA",
+        "section": "D00",
+        "days": "Th",
+        "time": "4:00p-5:50p",
+        "building": "CENTR",
+        "room": "223",
+        "instructors": [
+          "Goldberg, Charles G."
+        ],
+        "start_time": "16:00",
+        "end_time": "17:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J"
+  ]
 }

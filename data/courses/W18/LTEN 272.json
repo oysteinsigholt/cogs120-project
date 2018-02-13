@@ -3,31 +3,12 @@
   "name": "Cultural Traditions in English",
   "department": "LTEN",
   "id": "272",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924363",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "2:00p-4:50p",
-      "building": "LIT",
-      "room": "455",
-      "instructor": "Johnson, Sara E.",
-      "instructors": [
-        "Johnson, Sara E."
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "68241670f79a6fb7db796e30ed3678d0778bad79c67acd1230158e074a12daf1": {
         "sectxt": true,
         "sectionID": "924363",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "2:00p-4:50p",
         "building": "LIT",
         "room": "455",
-        "instructor": "Johnson, Sara E.",
         "instructors": [
           "Johnson, Sara E."
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

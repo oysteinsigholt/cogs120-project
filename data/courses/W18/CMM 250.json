@@ -3,33 +3,14 @@
   "name": "Core Course/Stem Cell Biology",
   "department": "CMM",
   "id": "250",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930439",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "8:30a-10:30a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Willert, Karl Heinrich",
-      "instructors": [
-        "Willert, Karl Heinrich"
-      ],
-      "start_time": "8:30",
-      "end_time": "10:30"
-    }
-  ],
   "notes": [
     "Location: SCRM 2303"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "ef949cf7edeb497e1dd91f46710d0aef5d58dd0ffb6410ce4a7120b7cb57a8d4": {
         "sectxt": true,
         "sectionID": "930439",
         "type": "LE",
@@ -38,17 +19,15 @@
         "time": "8:30a-10:30a",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Willert, Karl Heinrich",
         "instructors": [
           "Willert, Karl Heinrich"
         ],
         "start_time": "8:30",
         "end_time": "10:30"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "db61ab78d7d284b58857c6d4db618eece2ea9f3f5b0c9209b8ef0fc31538b2cd": {
         "sectxt": true,
         "sectionID": "930439",
         "type": "LE",
@@ -57,16 +36,15 @@
         "time": "8:30a-10:30a",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Willert, Karl Heinrich",
         "instructors": [
           "Willert, Karl Heinrich"
         ],
         "start_time": "8:30",
         "end_time": "10:30"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

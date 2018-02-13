@@ -3,46 +3,12 @@
   "name": "Theatre Process - Lighting",
   "department": "TDDE",
   "id": "121",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "9:00a-10:20a",
-      "building": "GH",
-      "room": "145",
-      "instructor": "Burrett, Alan",
-      "instructors": [
-        "Burrett, Alan"
-      ],
-      "start_time": "9:00",
-      "end_time": "10:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920370",
-      "type": "LA",
-      "section": "A01",
-      "days": "F",
-      "time": "9:00a-10:50a",
-      "building": "GH",
-      "room": "145",
-      "instructor": "Burrett, Alan",
-      "instructors": [
-        "Burrett, Alan"
-      ],
-      "start_time": "9:00",
-      "end_time": "10:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "9e65dc19c1f9e008ca6d7d8a3f2b1fa4e87346a67c409348cb12adeba1b660e5": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -51,17 +17,15 @@
         "time": "9:00a-10:20a",
         "building": "GH",
         "room": "145",
-        "instructor": "Burrett, Alan",
         "instructors": [
           "Burrett, Alan"
         ],
         "start_time": "9:00",
         "end_time": "10:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "7a83f7550e0cfee1b014df33e7a9160f1026a61604b9b3b29f4a318baeb5a8ca": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -70,17 +34,15 @@
         "time": "9:00a-10:20a",
         "building": "GH",
         "room": "145",
-        "instructor": "Burrett, Alan",
         "instructors": [
           "Burrett, Alan"
         ],
         "start_time": "9:00",
         "end_time": "10:20"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "d0fab619a14e74c727597fae5e312e60f83161fea2958ee2f569cf92732be01c": {
         "sectxt": true,
         "sectionID": "920370",
         "type": "LA",
@@ -89,15 +51,15 @@
         "time": "9:00a-10:50a",
         "building": "GH",
         "room": "145",
-        "instructor": "Burrett, Alan",
         "instructors": [
           "Burrett, Alan"
         ],
         "start_time": "9:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

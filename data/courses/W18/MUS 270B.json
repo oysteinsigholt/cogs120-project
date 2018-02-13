@@ -3,30 +3,12 @@
   "name": "Musical Cognitive Science",
   "department": "MUS",
   "id": "270B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921950",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "2:00p-4:50p",
-      "building": "CPMC",
-      "room": "367",
-      "instructor": "Puckette, Miller S.",
-      "instructors": [
-        "Puckette, Miller S."
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "d288b6d7d3e957d4eda9965666ede88324dfd8bcb1c90c39f5bd940197b2a5e3": {
         "sectxt": true,
         "sectionID": "921950",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "2:00p-4:50p",
         "building": "CPMC",
         "room": "367",
-        "instructor": "Puckette, Miller S.",
         "instructors": [
           "Puckette, Miller S."
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

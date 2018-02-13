@@ -3,42 +3,23 @@
   "name": "Topics/Structural Engineering",
   "department": "SE",
   "id": "207",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "935525",
-      "type": "LE",
-      "section": "C00",
-      "days": "TuTh",
-      "time": "8:00a-9:20a",
-      "building": "CENTR",
-      "room": "208",
-      "instructor": "Hutchinson, Tara",
-      "instructors": [
-        "Hutchinson, Tara"
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "83f667703ee5f41443699d3c685d2af7204f58e7d0026726650a8f5259ecf403": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    },
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +28,31 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "0cb83381af50239ec1dea8e3fb7ae621fdf407e6e452fdbcd5db1dab7808f7ec": {
+        "sectxt": true,
+        "sectionID": "923059",
+        "type": "LE",
+        "section": "B00",
+        "days": "Tu",
+        "time": "6:30p-9:20p",
+        "building": "CENTR",
+        "room": "205",
+        "instructors": [
+          "Kuester, Falko"
+        ],
+        "start_time": "18:30",
+        "end_time": "21:20"
+      },
+      "c0a1a8cc173734ecec0e45c55ef0c29d0ca93afbd62dd29b4376b213810b1d91": {
         "sectxt": true,
         "sectionID": "935525",
         "type": "LE",
@@ -67,17 +61,15 @@
         "time": "8:00a-9:20a",
         "building": "CENTR",
         "room": "208",
-        "instructor": "Hutchinson, Tara",
         "instructors": [
           "Hutchinson, Tara"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "363c7adc677b31c90dc6232c32c8adf3c0a3e47219d8df6a1c2b1acd35e45f2a": {
         "sectxt": true,
         "sectionID": "935525",
         "type": "LE",
@@ -86,16 +78,17 @@
         "time": "8:00a-9:20a",
         "building": "CENTR",
         "room": "208",
-        "instructor": "Hutchinson, Tara",
         "instructors": [
           "Hutchinson, Tara"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

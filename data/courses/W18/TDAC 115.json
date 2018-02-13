@@ -3,30 +3,12 @@
   "name": "Movement for Actors",
   "department": "TDAC",
   "id": "115",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920366",
-      "type": "ST",
-      "section": "A00",
-      "days": "MW",
-      "time": "10:30a-12:20p",
-      "building": "POTKR",
-      "room": "SEUS2",
-      "instructor": "Robichaux, Natalie Griffith",
-      "instructors": [
-        "Robichaux, Natalie Griffith"
-      ],
-      "start_time": "10:30",
-      "end_time": "12:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "8a7f3d712d81f2ca42bde72cd80616a5d0c6b6adbbe710a8e56390c44d5dbbcc": {
         "sectxt": true,
         "sectionID": "920366",
         "type": "ST",
@@ -35,17 +17,15 @@
         "time": "10:30a-12:20p",
         "building": "POTKR",
         "room": "SEUS2",
-        "instructor": "Robichaux, Natalie Griffith",
         "instructors": [
           "Robichaux, Natalie Griffith"
         ],
         "start_time": "10:30",
         "end_time": "12:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "3a1201a68d5f434900e0759cb954cbb80cf30ec5004bc085ac35ea57a7625e4b": {
         "sectxt": true,
         "sectionID": "920366",
         "type": "ST",
@@ -54,17 +34,15 @@
         "time": "10:30a-12:20p",
         "building": "POTKR",
         "room": "SEUS2",
-        "instructor": "Robichaux, Natalie Griffith",
         "instructors": [
           "Robichaux, Natalie Griffith"
         ],
         "start_time": "10:30",
         "end_time": "12:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

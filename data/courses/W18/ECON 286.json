@@ -3,31 +3,12 @@
   "name": "Grad Resrch Presntation Worksh",
   "department": "ECON",
   "id": "286",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924143",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "11:30a-1:20p",
-      "building": "SEQUO",
-      "room": "231",
-      "instructor": "Bharadwaj, Prashant",
-      "instructors": [
-        "Bharadwaj, Prashant"
-      ],
-      "start_time": "11:30",
-      "end_time": "13:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "df414eb34403787fb9678fbda7cdf5b65c0f01b7cbdd88f2080b431bd27ed52b": {
         "sectxt": true,
         "sectionID": "924143",
         "type": "LE",
@@ -36,18 +17,15 @@
         "time": "11:30a-1:20p",
         "building": "SEQUO",
         "room": "231",
-        "instructor": "Bharadwaj, Prashant",
         "instructors": [
           "Bharadwaj, Prashant"
         ],
         "start_time": "11:30",
         "end_time": "13:20"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

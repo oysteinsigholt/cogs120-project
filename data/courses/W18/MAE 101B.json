@@ -3,56 +3,9 @@
   "name": "Advanced Fluid Mechanics",
   "department": "MAE",
   "id": "101B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922886",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "PETER",
-      "room": "104",
-      "instructor": "Miller, David R.",
-      "instructors": [
-        "Miller, David R."
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "PETER",
-      "room": "104",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -61,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "c5f9b8f614310104dd98ecd09be4d8ff717632d327fd689da9e5df1cc107ef71": {
         "sectxt": true,
         "sectionID": "922886",
         "type": "LE",
@@ -81,16 +32,15 @@
         "time": "9:30a-10:50a",
         "building": "PETER",
         "room": "104",
-        "instructor": "Miller, David R.",
         "instructors": [
           "Miller, David R."
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "827d8e61b0be564cefe3242e8ded91bf3b54cd405249ba4e71bd8ae53b45dd4d": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -99,14 +49,13 @@
         "time": "4:00p-4:50p",
         "building": "PETER",
         "room": "104",
-        "instructor": "",
         "instructors": [],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "7cac26b13123089377e24ee21ccc4e92ad5388b4803e043bd0f54389c6f40ff9": {
         "sectxt": true,
         "sectionID": "922886",
         "type": "LE",
@@ -115,16 +64,15 @@
         "time": "9:30a-10:50a",
         "building": "PETER",
         "room": "104",
-        "instructor": "Miller, David R.",
         "instructors": [
           "Miller, David R."
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

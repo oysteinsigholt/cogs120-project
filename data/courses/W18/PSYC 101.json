@@ -3,42 +3,9 @@
   "name": "Developmental Psychology",
   "department": "PSYC",
   "id": "101",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924611",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "GH",
-      "room": "242",
-      "instructor": "Walker, Caren Michelle",
-      "instructors": [
-        "Walker, Caren Michelle"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "301adf5ce24b38cb9d1455c3de934491ce664a34f3a932b64e95125ec2708d34": {
         "sectxt": true,
         "sectionID": "924611",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "12:30p-1:50p",
         "building": "GH",
         "room": "242",
-        "instructor": "Walker, Caren Michelle",
         "instructors": [
           "Walker, Caren Michelle"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "53894bed455157aba2a887c97c33cafe583f5c1e930bf1b2f19b377bd5c5e751": {
         "sectxt": true,
         "sectionID": "924611",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "12:30p-1:50p",
         "building": "GH",
         "room": "242",
-        "instructor": "Walker, Caren Michelle",
         "instructors": [
           "Walker, Caren Michelle"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,42 +3,37 @@
   "name": "Organizational Strategy",
   "department": "MGT",
   "id": "409",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930382",
-      "type": "LE",
-      "section": "C00",
-      "days": "F",
-      "time": "8:00a-2:00p",
-      "building": "OTRSN",
-      "room": "1E107",
-      "instructor": "Schkade, David A.",
-      "instructors": [
-        "Schkade, David A."
-      ],
-      "start_time": "8:00",
-      "end_time": "14:00"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-11:00a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "11:00"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "cb1ad037bab7c93fec08a940e463da73a7d9be81f7e6db92c40ad69eeed63b80": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "6:30p-9:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "18:30",
+      "end_time": "21:30"
+    },
+    "c5979b56d85bd6b1908a37d62b268f441c1ed03b18a2041ca3e70dd713ecfd4d": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "9:00a-12:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "9:00",
+      "end_time": "12:00"
+    },
+    "b738dbf39658bf5f48c3e0977c24ab735ef32b4005eaeca866f85ba16ffcf860": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,21 +42,65 @@
       "time": "8:00a-11:00a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "11:00"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "Tu": {
+      "e82cb51f7e874589cc9cd183da0c193e58e8e6422e14049409748af6c78c1c91": {
+        "sectxt": true,
+        "sectionID": "930355",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "11:00a-12:30p",
+        "building": "OTRSN",
+        "room": "1E107",
+        "instructors": [
+          "Finney, Michael Lewis"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:30"
+      }
+    },
+    "Th": {
+      "4c17896134e99457a6d317a13b9490d93354ceb1ea45427fe3ebc054e77286de": {
+        "sectxt": true,
+        "sectionID": "930354",
+        "type": "LE",
+        "section": "A00",
+        "days": "Th",
+        "time": "6:30p-9:30p",
+        "building": "OTRSN",
+        "room": "1E106",
+        "instructors": [
+          "Finney, Michael Lewis"
+        ],
+        "start_time": "18:30",
+        "end_time": "21:30"
+      },
+      "4b49380f7e010235526efbed740c583453f99c6d06b337acd88229c796748780": {
+        "sectxt": true,
+        "sectionID": "930355",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "11:00a-12:30p",
+        "building": "OTRSN",
+        "room": "1E107",
+        "instructors": [
+          "Finney, Michael Lewis"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:30"
+      }
+    },
+    "F": {
+      "cca1cf3c52521502b34bff7ae7abc2bb92aad1edd2285e627582666102f8a9da": {
         "sectxt": true,
         "sectionID": "930382",
         "type": "LE",
@@ -70,15 +109,17 @@
         "time": "8:00a-2:00p",
         "building": "OTRSN",
         "room": "1E107",
-        "instructor": "Schkade, David A.",
         "instructors": [
           "Schkade, David A."
         ],
         "start_time": "8:00",
         "end_time": "14:00"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

@@ -3,32 +3,27 @@
   "name": "Lab to Market Workshop I",
   "department": "MGT",
   "id": "414A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930364",
-      "type": "LE",
-      "section": "C00",
-      "days": "W",
-      "time": "2:00p-5:00p",
-      "building": "OTRSN",
-      "room": "1E106",
-      "instructor": "King, Kimberly Davis",
-      "instructors": [
-        "King, Kimberly Davis"
-      ],
-      "start_time": "14:00",
-      "end_time": "17:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "eb96aa002b8b51ad74503164cea63d25ba7005914300e0524b944f5f2e0e5fdc": {
+        "sectxt": true,
+        "sectionID": "930352",
+        "type": "LE",
+        "section": "A00",
+        "days": "W",
+        "time": "2:00p-5:00p",
+        "building": "OTRSN",
+        "room": "1E107",
+        "instructors": [
+          "Dos Santos, Jose Ricardo"
+        ],
+        "start_time": "14:00",
+        "end_time": "17:00"
+      },
+      "ae3547c3da1460134c8441cce6367d95cf62cb47221790a1ba837e1190e0650e": {
         "sectxt": true,
         "sectionID": "930364",
         "type": "LE",
@@ -37,17 +32,34 @@
         "time": "2:00p-5:00p",
         "building": "OTRSN",
         "room": "1E106",
-        "instructor": "King, Kimberly Davis",
         "instructors": [
           "King, Kimberly Davis"
         ],
         "start_time": "14:00",
         "end_time": "17:00"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "F": {
+      "2a77596106864f3c44171413012ea14f8fad02489a8f10302dc010bf887485c3": {
+        "sectxt": true,
+        "sectionID": "930356",
+        "type": "LE",
+        "section": "B00",
+        "days": "F",
+        "time": "8:00a-2:00p",
+        "building": "OTRSN",
+        "room": "1E106",
+        "instructors": [
+          "Foit, Delbert F."
+        ],
+        "start_time": "8:00",
+        "end_time": "14:00"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

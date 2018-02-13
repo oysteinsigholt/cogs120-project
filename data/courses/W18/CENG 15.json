@@ -3,42 +3,9 @@
   "name": "Engin. Comp Using MATLAB",
   "department": "CENG",
   "id": "15",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929187",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "EBU2",
-      "room": "239",
-      "instructor": "Drews, Aaron",
-      "instructors": [
-        "Drews, Aaron"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,31 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "1265c98070e51917069fc2c7495ab00f43a42f874746f721cee9b83414e8ca88": {
+        "sectxt": true,
+        "sectionID": "926751",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "PCYNH",
+        "room": "122",
+        "instructors": [
+          "Yang, Kesong"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "b608857b2ca85a57d2b1e42213b2767f03c48933f19f0927be13e9d09ae72176": {
         "sectxt": true,
         "sectionID": "929187",
         "type": "LE",
@@ -67,17 +47,30 @@
         "time": "11:00a-12:20p",
         "building": "EBU2",
         "room": "239",
-        "instructor": "Drews, Aaron",
         "instructors": [
           "Drews, Aaron"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8a3fb0a808768ae3236639ccd354bfdc0f65c450b68a18ef3c6bf5bac82d1923": {
+        "sectxt": true,
+        "sectionID": "926751",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "PCYNH",
+        "room": "122",
+        "instructors": [
+          "Yang, Kesong"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "1060b22d77b5c46489ce09b0d1260b4eb881c2d409dcfc4283d9f6111104bea0": {
         "sectxt": true,
         "sectionID": "929187",
         "type": "LE",
@@ -86,16 +79,16 @@
         "time": "11:00a-12:20p",
         "building": "EBU2",
         "room": "239",
-        "instructor": "Drews, Aaron",
         "instructors": [
           "Drews, Aaron"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

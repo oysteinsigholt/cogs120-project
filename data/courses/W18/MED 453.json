@@ -3,24 +3,8 @@
   "name": "Clerkship/Clinical Nephrology",
   "department": "MED",
   "id": "453",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928484",
-      "type": "CL",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Mullaney, Scott Richard",
-      "instructors": [
-        "Mullaney, Scott Richard"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Mullaney, Scott Richard",
       "instructors": [
         "Mullaney, Scott Richard"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

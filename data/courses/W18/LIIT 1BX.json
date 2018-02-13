@@ -3,42 +3,23 @@
   "name": "Analysis of Italian",
   "department": "LIIT",
   "id": "1BX",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921338",
-      "type": "DI",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "APM",
-      "room": "3402",
-      "instructor": "Riebeling, Elke",
-      "instructors": [
-        "Riebeling, Elke"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +28,31 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "59712cb89ca57ed129b2b2fa25eb595006901d458fe508ad22451387f37026fe": {
+        "sectxt": true,
+        "sectionID": "921337",
+        "type": "DI",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "APM",
+        "room": "3402",
+        "instructors": [
+          "Riebeling, Elke"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "1e9e688c3ae24fa955779f7f934f5baa7057c373946bdb0b098e44eedd51b11a": {
         "sectxt": true,
         "sectionID": "921338",
         "type": "DI",
@@ -67,17 +61,30 @@
         "time": "12:30p-1:50p",
         "building": "APM",
         "room": "3402",
-        "instructor": "Riebeling, Elke",
         "instructors": [
           "Riebeling, Elke"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "1dd02ef4e242f274dfa82a9f5b69952e23040e6515c65a8fefeb110964acdde8": {
+        "sectxt": true,
+        "sectionID": "921337",
+        "type": "DI",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "APM",
+        "room": "3402",
+        "instructors": [
+          "Riebeling, Elke"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "55d5a4c67079423e5002f1b72c380756749db94e4b4ded68bf6adc9066e9d0a6": {
         "sectxt": true,
         "sectionID": "921338",
         "type": "DI",
@@ -86,16 +93,16 @@
         "time": "12:30p-1:50p",
         "building": "APM",
         "room": "3402",
-        "instructor": "Riebeling, Elke",
         "instructors": [
           "Riebeling, Elke"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

@@ -3,33 +3,12 @@
   "name": "Advanced Sound Design",
   "department": "TDGR",
   "id": "282",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920424",
-      "type": "ST",
-      "section": "A00",
-      "days": "Th",
-      "time": "1:00p-3:50p",
-      "building": "GH",
-      "room": "18A",
-      "instructor": "Dolan, Judith A.",
-      "instructors": [
-        "Dolan, Judith A."
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "20115caf6a501415ffa5448cd8c06b5beff7a479593b410b733012f2428908af": {
         "sectxt": true,
         "sectionID": "920424",
         "type": "ST",
@@ -38,16 +17,15 @@
         "time": "1:00p-3:50p",
         "building": "GH",
         "room": "18A",
-        "instructor": "Dolan, Judith A.",
         "instructors": [
           "Dolan, Judith A."
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

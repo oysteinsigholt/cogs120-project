@@ -3,27 +3,63 @@
   "name": "Practice Teaching/Communicatn",
   "department": "COGR",
   "id": "500",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929109",
-      "type": "IN",
-      "section": "005",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Irani, Lilly C",
-      "instructors": [
-        "Irani, Lilly C"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "924325",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Boateng, Boatema"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924326",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Serlin, David"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924327",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Martinico, Daniel J"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924328",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Whitworth-Smith, Andrew C"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "929109",
       "type": "IN",
       "section": "005",
@@ -31,19 +67,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Irani, Lilly C",
       "instructors": [
         "Irani, Lilly C"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

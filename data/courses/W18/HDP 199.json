@@ -3,27 +3,24 @@
   "name": "Independent Study/Human Devlp",
   "department": "HDP",
   "id": "199",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "938739",
-      "type": "IN",
-      "section": "B00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Carver, Leslie J.",
-      "instructors": [
-        "Carver, Leslie J."
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "922454",
+      "type": "IN",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Creel, Sarah"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "938739",
       "type": "IN",
       "section": "B00",
@@ -31,19 +28,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Carver, Leslie J.",
       "instructors": [
         "Carver, Leslie J."
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

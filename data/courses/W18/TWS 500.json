@@ -3,24 +3,8 @@
   "name": "Apprentice Teaching",
   "department": "TWS",
   "id": "500",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930000",
-      "type": "PR",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Rahimi, Babak",
-      "instructors": [
-        "Rahimi, Babak"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Rahimi, Babak",
       "instructors": [
         "Rahimi, Babak"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

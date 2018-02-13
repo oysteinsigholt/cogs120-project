@@ -3,47 +3,12 @@
   "name": "Observational Astrophysics Lab",
   "department": "PHYS",
   "id": "164",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "SERF",
-      "room": "383",
-      "instructor": "Wright, Shelley Adams",
-      "instructors": [
-        "Wright, Shelley Adams"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923777",
-      "type": "LA",
-      "section": "A01",
-      "days": "Tu",
-      "time": "5:00p-5:50p",
-      "building": "MYR-A",
-      "room": "4623",
-      "instructor": "Wright, Shelley Adams",
-      "instructors": [
-        "Wright, Shelley Adams"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "d76bcf043f1041aeae848254fedd3b9af18897231d4c3398c9af555ce5e62306": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -52,14 +17,13 @@
         "time": "11:00a-12:20p",
         "building": "SERF",
         "room": "383",
-        "instructor": "Wright, Shelley Adams",
         "instructors": [
           "Wright, Shelley Adams"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       },
-      {
+      "baa22bd1a28e1f4eedc798f277de46b0dbd77feb7eb510f9858afbabd9198f84": {
         "sectxt": true,
         "sectionID": "923777",
         "type": "LA",
@@ -68,17 +32,15 @@
         "time": "5:00p-5:50p",
         "building": "MYR-A",
         "room": "4623",
-        "instructor": "Wright, Shelley Adams",
         "instructors": [
           "Wright, Shelley Adams"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "055dab9e4efb54208a1d7f8ffd64e8d079ba2cc9fe681a6ccf684c385c6a7818": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -87,16 +49,15 @@
         "time": "11:00a-12:20p",
         "building": "SERF",
         "room": "383",
-        "instructor": "Wright, Shelley Adams",
         "instructors": [
           "Wright, Shelley Adams"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,27 +3,24 @@
   "name": "Directed Studies:Readng Course",
   "department": "LTCO",
   "id": "297",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "932634",
-      "type": "IN",
-      "section": "B00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Johnson, Sara E.",
-      "instructors": [
-        "Johnson, Sara E."
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "930583",
+      "type": "IN",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "O'Brien, William Arctander"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "932634",
       "type": "IN",
       "section": "B00",
@@ -31,19 +28,37 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Johnson, Sara E.",
       "instructors": [
         "Johnson, Sara E."
       ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "933111",
+      "type": "IN",
+      "section": "C00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Miyao, Daisuke"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "935287",
+      "type": "IN",
+      "section": "D00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Sanchez, Rosaura"
+      ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

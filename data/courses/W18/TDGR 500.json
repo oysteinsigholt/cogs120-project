@@ -3,27 +3,206 @@
   "name": "Apprentice Teaching",
   "department": "TDGR",
   "id": "500",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930562",
-      "type": "IN",
-      "section": "016",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Rincon, Patricia A.",
-      "instructors": [
-        "Rincon, Patricia A."
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "920442",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Salovey, Todd"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920443",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Walsh, Kim C."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920444",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Guirguis, Mark C"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920445",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Means, Charles E."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920446",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Burelle, Julie Sara Veronique"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920447",
+      "type": "IN",
+      "section": "006",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Smarr, Janet L."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920448",
+      "type": "IN",
+      "section": "007",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Adler, Steven"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920449",
+      "type": "IN",
+      "section": "008",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Geiger, Eric"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920450",
+      "type": "IN",
+      "section": "009",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Clancy, Liam"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920451",
+      "type": "IN",
+      "section": "010",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Havis, Allan"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "920452",
+      "type": "IN",
+      "section": "011",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Snaith, Yolande"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "929347",
+      "type": "IN",
+      "section": "012",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Robichaux, Natalie Griffith"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "929348",
+      "type": "IN",
+      "section": "013",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "White, Bryan Curtiss"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "929349",
+      "type": "IN",
+      "section": "014",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Raphaeli, Karen Adee"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930220",
+      "type": "IN",
+      "section": "015",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Burrett, Alan"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "930562",
       "type": "IN",
       "section": "016",
@@ -31,19 +210,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Rincon, Patricia A.",
       "instructors": [
         "Rincon, Patricia A."
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

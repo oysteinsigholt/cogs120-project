@@ -51,3 +51,8 @@ footer {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
 }
+
+.background {
+  background-image: url(/images/office.jpg);
+  background-size: cover;
+}

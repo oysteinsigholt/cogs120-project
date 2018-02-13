@@ -3,42 +3,9 @@
   "name": "Topics in Number Theory",
   "department": "MATH",
   "id": "205",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927284",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "APM",
-      "room": "5829",
-      "instructor": "Bucur, Alina Ioana",
-      "instructors": [
-        "Bucur, Alina Ioana"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "9ef3a506729a1956fb20943de647faade35456449b913e529acedf362cf46495": {
         "sectxt": true,
         "sectionID": "927284",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "1:00p-1:50p",
         "building": "APM",
         "room": "5829",
-        "instructor": "Bucur, Alina Ioana",
         "instructors": [
           "Bucur, Alina Ioana"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "efe1b94e2cd1f0396fbe0bda763ee07ab44f18481e43acef78f979018fbe0fa0": {
         "sectxt": true,
         "sectionID": "927284",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "1:00p-1:50p",
         "building": "APM",
         "room": "5829",
-        "instructor": "Bucur, Alina Ioana",
         "instructors": [
           "Bucur, Alina Ioana"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "f7a99b691837f22e7e5fbf18a5c6386f5ce30501bf6caf85c1f88496398ff034": {
         "sectxt": true,
         "sectionID": "927284",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "1:00p-1:50p",
         "building": "APM",
         "room": "5829",
-        "instructor": "Bucur, Alina Ioana",
         "instructors": [
           "Bucur, Alina Ioana"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

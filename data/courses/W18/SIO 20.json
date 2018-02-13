@@ -3,118 +3,9 @@
   "name": "The Atmosphere",
   "department": "SIO",
   "id": "20",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921041",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "CENTR",
-      "room": "113",
-      "instructor": "Norris, Joel Roland & Xie, Shang-Ping",
-      "instructors": [
-        "Norris, Joel Roland",
-        "Xie, Shang-Ping"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/22/2018",
-      "days": "M",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2204",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-22T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/05/2018",
-      "days": "M",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2204",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-05T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/12/2018",
-      "days": "M",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2204",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-12T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/21/2018",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2204",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-21T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/07/2018",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2204",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-07T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "7f133a2f7c0cc9a9c3e84e8f4e078579543bd99767ca676584aed1ea477e91fc": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -123,13 +14,12 @@
       "time": "5:00p-5:50p",
       "building": "WLH",
       "room": "2204",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-22T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "ad4004299d2906dca6a7e04cd205adb2d7929830d48778482b9b85bef257682b": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -138,13 +28,12 @@
       "time": "5:00p-5:50p",
       "building": "WLH",
       "room": "2204",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-05T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "fdbb4c7b8e8ba4584af7e9a3888432da48ac7baa09b385a0e28b2fc4b46bb5b8": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -153,13 +42,12 @@
       "time": "5:00p-5:50p",
       "building": "WLH",
       "room": "2204",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-12T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "5cf71f5bfd19325b6a8c48612b5fbdd0c59000c2de2c24c054225118716a3867": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -168,13 +56,12 @@
       "time": "5:00p-5:50p",
       "building": "WLH",
       "room": "2204",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-21T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "7282c23fca995b95bfc14f6c94f8b99fb99b075d00d88376eef4b8dfd47ad11b": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -183,13 +70,12 @@
       "time": "5:00p-5:50p",
       "building": "WLH",
       "room": "2204",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-07T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -198,18 +84,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "3d958dc9fe279f7da9abd878e25b22899569f2b1b4645608163064ac3cd313ab": {
         "sectxt": true,
         "sectionID": "921041",
         "type": "LE",
@@ -218,18 +102,15 @@
         "time": "2:00p-3:20p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Norris, Joel Roland & Xie, Shang-Ping",
         "instructors": [
-          "Norris, Joel Roland",
-          "Xie, Shang-Ping"
+          "Norris, Joel Roland                \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tXie, Shang-Ping"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "e8826fe434505c9b0851f250b628ef2e2526c8ed8ab963fff741bb33a3cdbd0b": {
         "sectxt": true,
         "sectionID": "921041",
         "type": "LE",
@@ -238,17 +119,15 @@
         "time": "2:00p-3:20p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Norris, Joel Roland & Xie, Shang-Ping",
         "instructors": [
-          "Norris, Joel Roland",
-          "Xie, Shang-Ping"
+          "Norris, Joel Roland                \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tXie, Shang-Ping"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

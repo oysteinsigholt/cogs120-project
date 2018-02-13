@@ -3,42 +3,9 @@
   "name": "Race, Space, & Segregation",
   "department": "ETHN",
   "id": "104",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922624",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "5:00p-6:20p",
-      "building": "MANDE",
-      "room": "B-150",
-      "instructor": "De Leon, Justin",
-      "instructors": [
-        "De Leon, Justin"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "1cf4fa6e9ec15a011652cb3cf64fd063befbc7b831aa3176a21176d0eb975c8c": {
         "sectxt": true,
         "sectionID": "922624",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "5:00p-6:20p",
         "building": "MANDE",
         "room": "B-150",
-        "instructor": "De Leon, Justin",
         "instructors": [
           "De Leon, Justin"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8a46814e117a8fd69b1d37617999f324c2f07756e313f23f52052e48a6a3c32d": {
         "sectxt": true,
         "sectionID": "922624",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "5:00p-6:20p",
         "building": "MANDE",
         "room": "B-150",
-        "instructor": "De Leon, Justin",
         "instructors": [
           "De Leon, Justin"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

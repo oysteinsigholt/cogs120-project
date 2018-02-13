@@ -3,42 +3,9 @@
   "name": "Making and Breaking Codes",
   "department": "LIGN",
   "id": "17",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922273",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "CENTR",
-      "room": "105",
-      "instructor": "Kehler, Andrew Scott",
-      "instructors": [
-        "Kehler, Andrew Scott"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "a9d0f7fa08828bc6ddddd7d0d258905b1c5cae0b9da7c53a7163a8042d1c4716": {
         "sectxt": true,
         "sectionID": "922273",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "11:00a-11:50a",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Kehler, Andrew Scott",
         "instructors": [
           "Kehler, Andrew Scott"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "ca9365440aa0cc2b2ee1cd687474e991baee671fda86c6b0b46867b8ed1517ba": {
         "sectxt": true,
         "sectionID": "922273",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "11:00a-11:50a",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Kehler, Andrew Scott",
         "instructors": [
           "Kehler, Andrew Scott"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "8ff64e58916627353e5de2f00d7e6e30e67dbf7b1f0c5c33d23c80758e007ab1": {
         "sectxt": true,
         "sectionID": "922273",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "11:00a-11:50a",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Kehler, Andrew Scott",
         "instructors": [
           "Kehler, Andrew Scott"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

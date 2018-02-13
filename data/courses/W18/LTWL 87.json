@@ -3,36 +3,14 @@
   "name": "Freshman Seminar",
   "department": "LTWL",
   "id": "87",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927882",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "1:00p-1:50p",
-      "building": "LIT",
-      "room": "355",
-      "instructor": "Lampert-Weissig, Lisa",
-      "instructors": [
-        "Lampert-Weissig, Lisa"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [
     "Class meets weeks 1-9."
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "5d1fbac9cdf89e946a9cc4167376675bec8a5deb0402ea12960356d5234b0e1c": {
         "sectxt": true,
         "sectionID": "927882",
         "type": "SE",
@@ -41,15 +19,15 @@
         "time": "1:00p-1:50p",
         "building": "LIT",
         "room": "355",
-        "instructor": "Lampert-Weissig, Lisa",
         "instructors": [
           "Lampert-Weissig, Lisa"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,42 +3,9 @@
   "name": "Medieval Studies",
   "department": "LTIT",
   "id": "115",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924368",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "PCYNH",
-      "room": "121",
-      "instructor": "De Marchi Gherini, Adriana",
-      "instructors": [
-        "De Marchi Gherini, Adriana"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "9f16378410fd58ef4f4dd47c77cb06907ae5e385c0dc823030e1cd6c18a02f6f": {
         "sectxt": true,
         "sectionID": "924368",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "1:00p-1:50p",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "De Marchi Gherini, Adriana",
         "instructors": [
           "De Marchi Gherini, Adriana"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "09b259d4bff71db166e4541706d6efc805ea4f8a19453a51771c87f36673ffde": {
         "sectxt": true,
         "sectionID": "924368",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "1:00p-1:50p",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "De Marchi Gherini, Adriana",
         "instructors": [
           "De Marchi Gherini, Adriana"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "264bac7f7547cc83b9400081e57ba469905a367b06fe626bf6cc54d29f130241": {
         "sectxt": true,
         "sectionID": "924368",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "1:00p-1:50p",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "De Marchi Gherini, Adriana",
         "instructors": [
           "De Marchi Gherini, Adriana"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

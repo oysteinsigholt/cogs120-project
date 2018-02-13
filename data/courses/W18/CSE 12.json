@@ -3,58 +3,23 @@
   "name": "Basic Data Struct & OO Design",
   "department": "CSE",
   "id": "12",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "C00",
-      "days": "MWF",
-      "time": "8:00a-8:50a",
-      "building": "CENTR",
-      "room": "113",
-      "instructor": "Politz, Joseph Gibbs",
-      "instructors": [
-        "Politz, Joseph Gibbs"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927436",
-      "type": "DI",
-      "section": "C01",
-      "days": "F",
-      "time": "4:00p-4:50p",
-      "building": "CENTR",
-      "room": "119",
-      "instructor": "Politz, Joseph Gibbs",
-      "instructors": [
-        "Politz, Joseph Gibbs"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "99084e85dcbf5c5064e8677480f27cc1eb8ff5538061a54d6a1f44628193757c": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,55 +28,60 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
+    },
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "467a04643c312b6e75eb7b65790966ad1c16aae38e729654614ce0e8bdf51fdc": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
-        "section": "C00",
+        "section": "B00",
         "days": "MWF",
-        "time": "8:00a-8:50a",
-        "building": "CENTR",
-        "room": "113",
-        "instructor": "Politz, Joseph Gibbs",
+        "time": "9:00a-9:50a",
+        "building": "WLH",
+        "room": "2005",
         "instructors": [
           "Politz, Joseph Gibbs"
         ],
-        "start_time": "8:00",
-        "end_time": "8:50"
-      }
-    ],
-    "Tu": [],
-    "W": [
-      {
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "bf4dbc645e2db2f31cc89d02dbc0b7148cf0827ab5e384cf248131e4bfc93128": {
         "sectxt": true,
-        "sectionID": "",
-        "type": "LE",
-        "section": "C00",
-        "days": "MWF",
-        "time": "8:00a-8:50a",
+        "sectionID": "927434",
+        "type": "DI",
+        "section": "B01",
+        "days": "M",
+        "time": "8:00p-8:50p",
         "building": "CENTR",
-        "room": "113",
-        "instructor": "Politz, Joseph Gibbs",
+        "room": "115",
         "instructors": [
           "Politz, Joseph Gibbs"
         ],
-        "start_time": "8:00",
-        "end_time": "8:50"
-      }
-    ],
-    "Th": [],
-    "F": [
-      {
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "ba7dd3130af934d97c5073610b267e5fedec84ae086fa4d9adebfce177b0e552": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -120,14 +90,141 @@
         "time": "8:00a-8:50a",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Politz, Joseph Gibbs",
         "instructors": [
           "Politz, Joseph Gibbs"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "00c5a3be00c393ff0bcf3a2685b8b039d925aace00137dba5e9ed5ac1650c938": {
+        "sectxt": true,
+        "sectionID": "927431",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "7:00p-7:50p",
+        "building": "CENTR",
+        "room": "115",
+        "instructors": [
+          "Gillespie, Gary N"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      }
+    },
+    "Tu": {
+      "979df717b14bf700ac34786e38e943c17094ef467bc27a99217c634a6e5f885f": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "CENTR",
+        "room": "119",
+        "instructors": [
+          "Gillespie, Gary N"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    },
+    "W": {
+      "3c7c14573898e201dd8ab56e46ba2e55792bcb3006bd8b56f2ec5209c193ea93": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "WLH",
+        "room": "2005",
+        "instructors": [
+          "Politz, Joseph Gibbs"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "d8f5f62b4043074370e08a0707935045fe9d578b570763be4778b0fbe119bf6f": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "CENTR",
+        "room": "113",
+        "instructors": [
+          "Politz, Joseph Gibbs"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      }
+    },
+    "Th": {
+      "d9a298da955f5b893f4478e3f282466555219d3b8f66ca24bc27d90b59ce58fd": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "CENTR",
+        "room": "119",
+        "instructors": [
+          "Gillespie, Gary N"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "55b66edc6cc168bac4dfdb154a6c3ba8efae7239ebd93373d5c14c58afa1426a": {
+        "sectxt": true,
+        "sectionID": "927432",
+        "type": "DI",
+        "section": "A02",
+        "days": "Th",
+        "time": "8:00p-8:50p",
+        "building": "CENTR",
+        "room": "115",
+        "instructors": [
+          "Gillespie, Gary N"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      }
+    },
+    "F": {
+      "0d5e149067785881267f7c98a1033d779533d331f296da88a0b6a1ada251a204": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "WLH",
+        "room": "2005",
+        "instructors": [
+          "Politz, Joseph Gibbs"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "a7539ebc9f90fa6f8524bf305d068ed422cbdf185d42166f4a170be06cef3704": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "CENTR",
+        "room": "113",
+        "instructors": [
+          "Politz, Joseph Gibbs"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "3f1cdcd81b1d4bbc2aeb42309eb033e37bb2f596539f2344a38926c61f2a9a6c": {
         "sectxt": true,
         "sectionID": "927436",
         "type": "DI",
@@ -136,15 +233,17 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "119",
-        "instructor": "Politz, Joseph Gibbs",
         "instructors": [
           "Politz, Joseph Gibbs"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "B",
+    "C",
+    "A"
+  ]
 }

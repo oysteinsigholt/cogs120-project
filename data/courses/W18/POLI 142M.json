@@ -3,42 +3,9 @@
   "name": "US Foreign Policy/Reg Security",
   "department": "POLI",
   "id": "142M",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925317",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "10:00a-10:50a",
-      "building": "WLH",
-      "room": "2204",
-      "instructor": "Slantchev, Branislav",
-      "instructors": [
-        "Slantchev, Branislav"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "f71e631edc66d325e20ce99538462d95fbfa8184100658d8056f2295c2267348": {
         "sectxt": true,
         "sectionID": "925317",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "10:00a-10:50a",
         "building": "WLH",
         "room": "2204",
-        "instructor": "Slantchev, Branislav",
         "instructors": [
           "Slantchev, Branislav"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "d65bc81937a1dbb34c9bd8515ee71f1ac357143540894638c717d9cf73d8add0": {
         "sectxt": true,
         "sectionID": "925317",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "10:00a-10:50a",
         "building": "WLH",
         "room": "2204",
-        "instructor": "Slantchev, Branislav",
         "instructors": [
           "Slantchev, Branislav"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "5f2ddcac024492b38640025d488a0403d9d6512cc0c5efbeb351df8b9534517d": {
         "sectxt": true,
         "sectionID": "925317",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "10:00a-10:50a",
         "building": "WLH",
         "room": "2204",
-        "instructor": "Slantchev, Branislav",
         "instructors": [
           "Slantchev, Branislav"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

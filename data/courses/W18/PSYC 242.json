@@ -3,30 +3,12 @@
   "name": "Current Dir/Developmental Psyc",
   "department": "PSYC",
   "id": "242",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924683",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "12:00p-12:50p",
-      "building": "MNDLR",
-      "room": "3545",
-      "instructor": "Barner, David A.",
-      "instructors": [
-        "Barner, David A."
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "99a342c338fb6f623861a36ad5a8842ac4b0ac866de3ac5c0f756da65ee43e7e": {
         "sectxt": true,
         "sectionID": "924683",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "12:00p-12:50p",
         "building": "MNDLR",
         "room": "3545",
-        "instructor": "Barner, David A.",
         "instructors": [
           "Barner, David A."
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

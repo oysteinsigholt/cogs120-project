@@ -3,59 +3,39 @@
   "name": "Business and Org Leadership",
   "department": "MGT",
   "id": "164",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929956",
-      "type": "LE",
-      "section": "C00",
-      "days": "W",
-      "time": "6:30p-9:20p",
-      "building": "WFH",
-      "room": "1N108",
-      "instructor": "Zimmermann, Carsten",
-      "instructors": [
-        "Zimmermann, Carsten"
-      ],
-      "start_time": "18:30",
-      "end_time": "21:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MU",
-      "section": "02/16/2018",
-      "days": "F",
-      "time": "9:00a-11:50a",
-      "building": "WFH",
-      "room": "1N108",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-16T08:00:00.000Z",
-      "start_time": "9:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [
     "No class 01/10/18"
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "4014bb1a466c069dc311d33d5ef7495aff7dbbe0834ca64e0d8d595c45fc5253": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -64,13 +44,12 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     },
-    {
+    "8da7a263dcb6e3ddb97af94c4121a9e45485da080243b1a507189cf0512b7699": {
       "sectxt": false,
       "sectionID": "",
       "type": "MU",
@@ -79,19 +58,48 @@
       "time": "9:00a-11:50a",
       "building": "WFH",
       "room": "1N108",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-16T08:00:00.000Z",
       "start_time": "9:00",
       "end_time": "11:50"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "Tu": {
+      "118b6d59339972edeeb7e5d97de1e1e9322966a56e180fb350b814bd3ce04f5a": {
+        "sectxt": true,
+        "sectionID": "929954",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "OTRSN",
+        "room": "1S114",
+        "instructors": [
+          "McKay, Mary A"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "f6e76044a8f0053fa81389c6fd3c95c5380bcaf07ee60d62bf63b2b48d019830": {
+        "sectxt": true,
+        "sectionID": "929955",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "OTRSN",
+        "room": "1S114",
+        "instructors": [
+          "McKay, Mary A"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    },
+    "W": {
+      "25078bf2836567d57da79ac2ec95849427194e95d3a33b66861a3c5bea63bf1e": {
         "sectxt": true,
         "sectionID": "929956",
         "type": "LE",
@@ -100,17 +108,49 @@
         "time": "6:30p-9:20p",
         "building": "WFH",
         "room": "1N108",
-        "instructor": "Zimmermann, Carsten",
         "instructors": [
           "Zimmermann, Carsten"
         ],
         "start_time": "18:30",
         "end_time": "21:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "Th": {
+      "be728ee484d3c33278101043d07fdc5caf0096a3c862a4e3f0cc39f7071b493b": {
+        "sectxt": true,
+        "sectionID": "929954",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "OTRSN",
+        "room": "1S114",
+        "instructors": [
+          "McKay, Mary A"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "9486376257f70c68eb87553f4073817e514edab395de603574685dd32ecffacb": {
+        "sectxt": true,
+        "sectionID": "929955",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "OTRSN",
+        "room": "1S114",
+        "instructors": [
+          "McKay, Mary A"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

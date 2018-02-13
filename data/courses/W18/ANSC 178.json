@@ -3,30 +3,12 @@
   "name": "Brain, Mind, Culture & History",
   "department": "ANSC",
   "id": "178",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923508",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "WLH",
-      "room": "2112",
-      "instructor": "Pedersen, David",
-      "instructors": [
-        "Pedersen, David"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "574481582103be7ad3badfe0346badc9e8f37d0f68df1b25c04fee2099250430": {
         "sectxt": true,
         "sectionID": "923508",
         "type": "LE",
@@ -35,17 +17,15 @@
         "time": "11:00a-11:50a",
         "building": "WLH",
         "room": "2112",
-        "instructor": "Pedersen, David",
         "instructors": [
           "Pedersen, David"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "6152e1c81ba7c82455dcd59f46f8fa1ebb8842418b4172c261f511f8db02c1dd": {
         "sectxt": true,
         "sectionID": "923508",
         "type": "LE",
@@ -54,17 +34,15 @@
         "time": "11:00a-11:50a",
         "building": "WLH",
         "room": "2112",
-        "instructor": "Pedersen, David",
         "instructors": [
           "Pedersen, David"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "50095f67cb3266c7ae2f3e3586c10cd3cb0dc4d35666814a107adb6fd135dec2": {
         "sectxt": true,
         "sectionID": "923508",
         "type": "LE",
@@ -73,15 +51,15 @@
         "time": "11:00a-11:50a",
         "building": "WLH",
         "room": "2112",
-        "instructor": "Pedersen, David",
         "instructors": [
           "Pedersen, David"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

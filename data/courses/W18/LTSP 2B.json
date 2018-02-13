@@ -3,58 +3,9 @@
   "name": "Intermed Spanish II:Read&Comp",
   "department": "LTSP",
   "id": "2B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "12:00p-12:50p",
-      "building": "WLH",
-      "room": "2110",
-      "instructor": "Pita, Beatrice M",
-      "instructors": [
-        "Pita, Beatrice M"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "920133",
-      "type": "DI",
-      "section": "B01",
-      "days": "Th",
-      "time": "12:00p-12:50p",
-      "building": "LIT",
-      "room": "455",
-      "instructor": "Pita, Beatrice M",
-      "instructors": [
-        "Pita, Beatrice M"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/17/2018",
-      "days": "S",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-17T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "0661b43854330255f61ff5ff8c407b79408893f3aaadf48fc64ce3ecaa664ec7": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,17 +14,31 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-17T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "40cdd3ea393878439ebaf5c767383214e7d7acfe333c98c416ae87493bc85dba": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2110",
+        "instructors": [
+          "Pita, Beatrice M"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "74565c9c0c61347b8ce87f2733cf6296cab8cdd2ce1e890300a60cf208986781": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -82,17 +47,30 @@
         "time": "12:00p-12:50p",
         "building": "WLH",
         "room": "2110",
-        "instructor": "Pita, Beatrice M",
         "instructors": [
           "Pita, Beatrice M"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "9e7000e2f88be7b1f47b2ec9cdc4cadb0aac4f8df501aa444c431665ffa5d103": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2110",
+        "instructors": [
+          "Pita, Beatrice M"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "ebd22827eabb3c1aa0b64c9aa6890f1e205e2a2026f9d1f61d888797ef761329": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -101,16 +79,30 @@
         "time": "12:00p-12:50p",
         "building": "WLH",
         "room": "2110",
-        "instructor": "Pita, Beatrice M",
         "instructors": [
           "Pita, Beatrice M"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f644521283a6bc789a252612180b9d27b58d2fa12164c9a27c6d1a1bb71a8273": {
+        "sectxt": true,
+        "sectionID": "920131",
+        "type": "DI",
+        "section": "A01",
+        "days": "Th",
+        "time": "10:00a-10:50a",
+        "building": "LIT",
+        "room": "455",
+        "instructors": [
+          "Pita, Beatrice M"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "d90fbf6b5a0d2ab1eb83f4d3d26f166104a487f0c4ee4d364c3447891a3b60ae": {
         "sectxt": true,
         "sectionID": "920133",
         "type": "DI",
@@ -119,16 +111,30 @@
         "time": "12:00p-12:50p",
         "building": "LIT",
         "room": "455",
-        "instructor": "Pita, Beatrice M",
         "instructors": [
           "Pita, Beatrice M"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "57d13ebef86c1f21d3cb4f95dd18b6de95918f2164de032cc92a04d5a99151c4": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2110",
+        "instructors": [
+          "Pita, Beatrice M"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "5b30d671bc5bbbd5286698c208fc12ffd5f70ca2538f842c45069a45ccd43990": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -137,15 +143,16 @@
         "time": "12:00p-12:50p",
         "building": "WLH",
         "room": "2110",
-        "instructor": "Pita, Beatrice M",
         "instructors": [
           "Pita, Beatrice M"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

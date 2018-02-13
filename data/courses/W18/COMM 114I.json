@@ -3,42 +3,9 @@
   "name": "CSI: Media Tech&Social Mvments",
   "department": "COMM",
   "id": "114I",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924190",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "PCYNH",
-      "room": "121",
-      "instructor": "Sims, Christopher O",
-      "instructors": [
-        "Sims, Christopher O"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "9bc010fa2be1cb0c25e2508ab98da049c823ba7fb8e0522bb388c5e217b02030": {
         "sectxt": true,
         "sectionID": "924190",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "9:30a-10:50a",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "Sims, Christopher O",
         "instructors": [
           "Sims, Christopher O"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "09b954412b6782798043778d354aaa681ae9e72c84fe0a6a5d13721640fcc3ee": {
         "sectxt": true,
         "sectionID": "924190",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "9:30a-10:50a",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "Sims, Christopher O",
         "instructors": [
           "Sims, Christopher O"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

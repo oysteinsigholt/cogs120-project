@@ -3,30 +3,12 @@
   "name": "Advanced GIS/Remote Sensing",
   "department": "GPEC",
   "id": "444",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929033",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "12:30p-1:50p",
-      "building": "RBC",
-      "room": "3201",
-      "instructor": "Goldblatt, Ran Philip",
-      "instructors": [
-        "Goldblatt, Ran Philip"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "6f829de7a74306e99c1e06bd3c7d301ecf774724147919a4bbca5cf627ed7bf2": {
         "sectxt": true,
         "sectionID": "929033",
         "type": "LE",
@@ -35,17 +17,15 @@
         "time": "12:30p-1:50p",
         "building": "RBC",
         "room": "3201",
-        "instructor": "Goldblatt, Ran Philip",
         "instructors": [
           "Goldblatt, Ran Philip"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "ee489905aba4feaacfbb15416af99e028805825b2e1ff3f84c277feef7f2c639": {
         "sectxt": true,
         "sectionID": "929033",
         "type": "LE",
@@ -54,17 +34,15 @@
         "time": "12:30p-1:50p",
         "building": "RBC",
         "room": "3201",
-        "instructor": "Goldblatt, Ran Philip",
         "instructors": [
           "Goldblatt, Ran Philip"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

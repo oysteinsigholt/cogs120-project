@@ -3,44 +3,11 @@
   "name": "Molec&Cellr Neuroendocrinology",
   "department": "NEU",
   "id": "222",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930002",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "3:00p-4:20p",
-      "building": "LFFB",
-      "room": "2A05",
-      "instructor": "Kauffman, Alexander",
-      "instructors": [
-        "Kauffman, Alexander"
-      ],
-      "start_time": "15:00",
-      "end_time": "16:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [
     "Neuroscience and Biomedical Sciences PhD students will\n be given enrollment priority"
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -49,17 +16,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1a0d99dcf75835f55c728d2cd2f42eecd8c87986ee77c2adf6d3879a6141cac5": {
         "sectxt": true,
         "sectionID": "930002",
         "type": "LE",
@@ -68,17 +34,15 @@
         "time": "3:00p-4:20p",
         "building": "LFFB",
         "room": "2A05",
-        "instructor": "Kauffman, Alexander",
         "instructors": [
           "Kauffman, Alexander"
         ],
         "start_time": "15:00",
         "end_time": "16:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "83a4d18b0fdb38eb282a4bbe3846df24c17519242cfa4bf8a0c4377d6213bc16": {
         "sectxt": true,
         "sectionID": "930002",
         "type": "LE",
@@ -87,17 +51,15 @@
         "time": "3:00p-4:20p",
         "building": "LFFB",
         "room": "2A05",
-        "instructor": "Kauffman, Alexander",
         "instructors": [
           "Kauffman, Alexander"
         ],
         "start_time": "15:00",
         "end_time": "16:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

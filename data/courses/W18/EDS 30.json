@@ -3,42 +3,9 @@
   "name": "Introduction to Teaching Math",
   "department": "EDS",
   "id": "30",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922461",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "1:30p-3:20p",
-      "building": "APM",
-      "room": "B412",
-      "instructor": "Harel, Guershon",
-      "instructors": [
-        "Harel, Guershon"
-      ],
-      "start_time": "13:30",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/24/2018",
-      "days": "S",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-24T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "726929bce2e998a371b7e7ad2f17f4cc09139b4f7c73947865396b9592d66621": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-24T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "df18a5a1fd0d601e47884f36c4dad29333593f67bd80f3d7d939b963ffef6c21": {
         "sectxt": true,
         "sectionID": "922461",
         "type": "LE",
@@ -67,18 +32,15 @@
         "time": "1:30p-3:20p",
         "building": "APM",
         "room": "B412",
-        "instructor": "Harel, Guershon",
         "instructors": [
           "Harel, Guershon"
         ],
         "start_time": "13:30",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

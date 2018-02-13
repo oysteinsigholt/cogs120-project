@@ -3,30 +3,12 @@
   "name": "Cuba: Revolution and Reform",
   "department": "GPPS",
   "id": "445",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921725",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "6:30p-9:20p",
-      "building": "RBC",
-      "room": "1328",
-      "instructor": "Feinberg, Richard Edward",
-      "instructors": [
-        "Feinberg, Richard Edward"
-      ],
-      "start_time": "18:30",
-      "end_time": "21:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1adac6a217a216052892c9520d62c1fca97fff6e7dd9314575907d2e8c422394": {
         "sectxt": true,
         "sectionID": "921725",
         "type": "LE",
@@ -35,19 +17,15 @@
         "time": "6:30p-9:20p",
         "building": "RBC",
         "room": "1328",
-        "instructor": "Feinberg, Richard Edward",
         "instructors": [
           "Feinberg, Richard Edward"
         ],
         "start_time": "18:30",
         "end_time": "21:20"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,30 +3,12 @@
   "name": "Intro Science Studies: Part II",
   "department": "HIGR",
   "id": "241",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924559",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "12:00p-2:50p",
-      "building": "SSB",
-      "room": "414",
-      "instructor": "Navon, Daniel",
-      "instructors": [
-        "Navon, Daniel"
-      ],
-      "start_time": "12:00",
-      "end_time": "14:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "9ee4b471930df6ff4822ac0ddf501ac5d74171f991dc210f568d70bb4b0d0795": {
         "sectxt": true,
         "sectionID": "924559",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "12:00p-2:50p",
         "building": "SSB",
         "room": "414",
-        "instructor": "Navon, Daniel",
         "instructors": [
           "Navon, Daniel"
         ],
         "start_time": "12:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

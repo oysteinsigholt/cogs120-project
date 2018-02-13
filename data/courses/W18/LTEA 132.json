@@ -3,42 +3,9 @@
   "name": "Later Japanese Lit/Translatn",
   "department": "LTEA",
   "id": "132",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924337",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "HSS",
-      "room": "1128A",
-      "instructor": "Miyao, Daisuke",
-      "instructors": [
-        "Miyao, Daisuke"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "3b78f615513d99bd533d3fc88f4d28e63015f229b1e9477526d244aaecd4e060": {
         "sectxt": true,
         "sectionID": "924337",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "11:00a-12:20p",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Miyao, Daisuke",
         "instructors": [
           "Miyao, Daisuke"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "fd7785bb9d0a75d1eaaeb85090ec1c153e47b464278b7724722ed342c4e020b7": {
         "sectxt": true,
         "sectionID": "924337",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "11:00a-12:20p",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Miyao, Daisuke",
         "instructors": [
           "Miyao, Daisuke"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

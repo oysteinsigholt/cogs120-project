@@ -3,56 +3,9 @@
   "name": "Computing Projects in SE",
   "department": "SE",
   "id": "121B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923011",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "8:00a-8:50a",
-      "building": "SOLIS",
-      "room": "104",
-      "instructor": "Krysl, Petr",
-      "instructors": [
-        "Krysl, Petr"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "9:00a-9:50a",
-      "building": "SOLIS",
-      "room": "104",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "99084e85dcbf5c5064e8677480f27cc1eb8ff5538061a54d6a1f44628193757c": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -61,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "6b5c5dede6a1268601d4dcf2a7c20830e3a156a219e836e6e7cd9219fab73c37": {
         "sectxt": true,
         "sectionID": "923011",
         "type": "LE",
@@ -80,14 +32,13 @@
         "time": "8:00a-8:50a",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "Krysl, Petr",
         "instructors": [
           "Krysl, Petr"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "1866918a9e827ca2246c3cdc0800ca8cab9d14fcb63d242959828782dc5e03cc": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -96,15 +47,13 @@
         "time": "9:00a-9:50a",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "",
         "instructors": [],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "664fb1192c899ad420c384f1035679fd9aa443bbe17868a3444009b2ce9ed2d0": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -113,15 +62,13 @@
         "time": "9:00a-9:50a",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "",
         "instructors": [],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "e0c71401fe619db626c079241f95ffbc9af299dc6dba6b446063c58d72b82533": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -130,13 +77,13 @@
         "time": "9:00a-9:50a",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "",
         "instructors": [],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

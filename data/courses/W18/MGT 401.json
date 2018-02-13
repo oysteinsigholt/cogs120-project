@@ -3,34 +3,29 @@
   "name": "Professional Seminar",
   "department": "MGT",
   "id": "401",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930533",
-      "type": "SE",
-      "section": "B00",
-      "days": "F",
-      "time": "6:15p-7:15p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Amir, On",
-      "instructors": [
-        "Amir, On"
-      ],
-      "start_time": "18:15",
-      "end_time": "19:15"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "Th": {
+      "c737a55c26a55bd1eae8785b121c1f4b6a2ecbeebc4aa563d55cca884064a986": {
+        "sectxt": true,
+        "sectionID": "930532",
+        "type": "SE",
+        "section": "A00",
+        "days": "Th",
+        "time": "5:15p-6:15p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Gneezy, Ayelet"
+        ],
+        "start_time": "17:15",
+        "end_time": "18:15"
+      }
+    },
+    "F": {
+      "69c59d41f6fbc1408a35bf7459a1fa35965f833d0a79bb45edce0121e410db43": {
         "sectxt": true,
         "sectionID": "930533",
         "type": "SE",
@@ -39,15 +34,16 @@
         "time": "6:15p-7:15p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Amir, On",
         "instructors": [
           "Amir, On"
         ],
         "start_time": "18:15",
         "end_time": "19:15"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

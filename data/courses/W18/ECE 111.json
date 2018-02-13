@@ -3,47 +3,44 @@
   "name": "Advanced Digital Design Proj",
   "department": "ECE",
   "id": "111",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "MANDE",
-      "room": "B-150",
-      "instructor": "Lin, Bill",
-      "instructors": [
-        "Lin, Bill"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925044",
-      "type": "DI",
-      "section": "B01",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "PETER",
-      "room": "102",
-      "instructor": "Lin, Bill",
-      "instructors": [
-        "Lin, Bill"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "8ef9678c25424e933d3b4bda18c192031e76a6e76c270159193ada90dcde18cc": {
+        "sectxt": true,
+        "sectionID": "925042",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "6:00p-6:50p",
+        "building": "PETER",
+        "room": "102",
+        "instructors": [
+          "Lin, Bill"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      }
+    },
+    "Tu": {
+      "7fb78df708bc10ae7cbed8c31256c6ff03db90d39a0bcfe7e71ecc8e7cc1a647": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "6:30p-7:50p",
+        "building": "WLH",
+        "room": "2205",
+        "instructors": [
+          "Lin, Bill"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      },
+      "1d4ebc7ab651956b6685b1bcc2af7566a2a56df81f9b66b342c4cfe7898f878e": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -52,16 +49,15 @@
         "time": "3:30p-4:50p",
         "building": "MANDE",
         "room": "B-150",
-        "instructor": "Lin, Bill",
         "instructors": [
           "Lin, Bill"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "255653a700cd33f6cd1982f814744613945b805c99695d0b96c437be06e02ae6": {
         "sectxt": true,
         "sectionID": "925044",
         "type": "DI",
@@ -70,16 +66,30 @@
         "time": "6:00p-6:50p",
         "building": "PETER",
         "room": "102",
-        "instructor": "Lin, Bill",
         "instructors": [
           "Lin, Bill"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f12164f83e9ec19b35c2ae2e257ad595319959ecbd32e61750cdd0475d11af05": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "6:30p-7:50p",
+        "building": "WLH",
+        "room": "2205",
+        "instructors": [
+          "Lin, Bill"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      },
+      "2485f8912106c93fdb8b10fcb1b03640f7d7649f507a70b04e67efcffeeb2f35": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -88,16 +98,16 @@
         "time": "3:30p-4:50p",
         "building": "MANDE",
         "room": "B-150",
-        "instructor": "Lin, Bill",
         "instructors": [
           "Lin, Bill"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

@@ -3,42 +3,9 @@
   "name": "Socl Inequal:Class,Race,Gender",
   "department": "SOCI",
   "id": "139",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929142",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Ribas Norris, Janet Vanesa",
-      "instructors": [
-        "Ribas Norris, Janet Vanesa"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "2574c58e27e68ad0281601e96c52bbe06a803a12efe59894cf425759fce19960": {
         "sectxt": true,
         "sectionID": "929142",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "2:00p-2:50p",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Ribas Norris, Janet Vanesa",
         "instructors": [
           "Ribas Norris, Janet Vanesa"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "801d2fdd796467361443e36de3b67c45db12e0c52c77207b3724d8506d5514c2": {
         "sectxt": true,
         "sectionID": "929142",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "2:00p-2:50p",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Ribas Norris, Janet Vanesa",
         "instructors": [
           "Ribas Norris, Janet Vanesa"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "7f8c63b60f9b7e079eab5f640c075ac52ea2a723f958ed5c58cb8c46ebf58b93": {
         "sectxt": true,
         "sectionID": "929142",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "2:00p-2:50p",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Ribas Norris, Janet Vanesa",
         "instructors": [
           "Ribas Norris, Janet Vanesa"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,33 +3,15 @@
   "name": "Freshman Seminar",
   "department": "SIO",
   "id": "87",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927888",
-      "type": "SE",
-      "section": "B00",
-      "days": "Tu",
-      "time": "9:00a-10:50a",
-      "building": "YORK",
-      "room": "3030",
-      "instructor": "Cook, Geoffrey W",
-      "instructors": [
-        "Cook, Geoffrey W"
-      ],
-      "start_time": "9:00",
-      "end_time": "10:50"
-    }
-  ],
   "notes": [
+    "Class will meet weeks 1-5",
     "Will meet weeks 1-5."
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "8baa8653caa75ab0dd4ec352b2b826b62fa33ceb9fe4527e00664f5dcbcc51be": {
         "sectxt": true,
         "sectionID": "927888",
         "type": "SE",
@@ -38,18 +20,33 @@
         "time": "9:00a-10:50a",
         "building": "YORK",
         "room": "3030",
-        "instructor": "Cook, Geoffrey W",
         "instructors": [
           "Cook, Geoffrey W"
         ],
         "start_time": "9:00",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "W": {
+      "96138737728cdb064487c24c60de7003b790c8b38921e8b5ba10732944a12614": {
+        "sectxt": true,
+        "sectionID": "927887",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "3:00p-4:50p",
+        "building": "YORK",
+        "room": "3030",
+        "instructors": [
+          "Willenbring, Jane Kathryn"
+        ],
+        "start_time": "15:00",
+        "end_time": "16:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

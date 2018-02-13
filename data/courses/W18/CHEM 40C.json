@@ -3,153 +3,9 @@
   "name": "Organic Chemistry III",
   "department": "CHEM",
   "id": "40C",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "YORK",
-      "room": "2722",
-      "instructor": "Godula, Kamil",
-      "instructors": [
-        "Godula, Kamil"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926482",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "8:00a-8:50a",
-      "building": "MANDE",
-      "room": "B-104",
-      "instructor": "Godula, Kamil",
-      "instructors": [
-        "Godula, Kamil"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926483",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "9:00a-9:50a",
-      "building": "MANDE",
-      "room": "B-104",
-      "instructor": "Godula, Kamil",
-      "instructors": [
-        "Godula, Kamil"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926484",
-      "type": "DI",
-      "section": "A03",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "Godula, Kamil",
-      "instructors": [
-        "Godula, Kamil"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926485",
-      "type": "DI",
-      "section": "A04",
-      "days": "W",
-      "time": "1:00p-1:50p",
-      "building": "MANDE",
-      "room": "B-104",
-      "instructor": "Godula, Kamil",
-      "instructors": [
-        "Godula, Kamil"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926486",
-      "type": "DI",
-      "section": "A05",
-      "days": "F",
-      "time": "4:00p-4:50p",
-      "building": "HSS",
-      "room": "1128A",
-      "instructor": "Godula, Kamil",
-      "instructors": [
-        "Godula, Kamil"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926487",
-      "type": "DI",
-      "section": "A06",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "HSS",
-      "room": "1128A",
-      "instructor": "Godula, Kamil",
-      "instructors": [
-        "Godula, Kamil"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/29/2018",
-      "days": "M",
-      "time": "7:00p-8:20p",
-      "building": "YORK",
-      "room": "2722",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-29T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "20:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "65441cfcebfb24115c3abb788e8b477421cee3518d8ced0c947060a900a82f75": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -158,13 +14,12 @@
       "time": "7:00p-8:20p",
       "building": "YORK",
       "room": "2722",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-29T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "20:20"
     },
-    {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -173,17 +28,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "6721ec3568dcd8f8a49712a671b801dfee4ddaabbc63506c0e935ab456b7dffd": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -192,17 +46,15 @@
         "time": "2:00p-2:50p",
         "building": "YORK",
         "room": "2722",
-        "instructor": "Godula, Kamil",
         "instructors": [
           "Godula, Kamil"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "03db29512c920154c8251b4bab8a52a294794a0af7dbbc2424d2ef4b9cb7ee87": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -211,14 +63,13 @@
         "time": "2:00p-2:50p",
         "building": "YORK",
         "room": "2722",
-        "instructor": "Godula, Kamil",
         "instructors": [
           "Godula, Kamil"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "b995360f176e1d6eb99150b3bd43760f9c0a61919995ef2ee415720372af22ca": {
         "sectxt": true,
         "sectionID": "926482",
         "type": "DI",
@@ -227,14 +78,13 @@
         "time": "8:00a-8:50a",
         "building": "MANDE",
         "room": "B-104",
-        "instructor": "Godula, Kamil",
         "instructors": [
           "Godula, Kamil"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "a395317ec675f0b7b0e4eee1900ac4da4162458a8f485cec5a1afb985594c113": {
         "sectxt": true,
         "sectionID": "926483",
         "type": "DI",
@@ -243,14 +93,13 @@
         "time": "9:00a-9:50a",
         "building": "MANDE",
         "room": "B-104",
-        "instructor": "Godula, Kamil",
         "instructors": [
           "Godula, Kamil"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "0656278a0c0a8130e110befde875702661d3b5eca38002879f25fc569bf1ace9": {
         "sectxt": true,
         "sectionID": "926484",
         "type": "DI",
@@ -259,14 +108,13 @@
         "time": "5:00p-5:50p",
         "building": "WLH",
         "room": "2115",
-        "instructor": "Godula, Kamil",
         "instructors": [
           "Godula, Kamil"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "e04b3068242c73360cfe34254ee982dd3887dcca46b5796d2b4f2822457ab7d5": {
         "sectxt": true,
         "sectionID": "926485",
         "type": "DI",
@@ -275,17 +123,15 @@
         "time": "1:00p-1:50p",
         "building": "MANDE",
         "room": "B-104",
-        "instructor": "Godula, Kamil",
         "instructors": [
           "Godula, Kamil"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "d279da4a3d7ccd6f447b5cb8f0bddd178e11c77d67d14b93ba22188196cebe12": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -294,14 +140,13 @@
         "time": "2:00p-2:50p",
         "building": "YORK",
         "room": "2722",
-        "instructor": "Godula, Kamil",
         "instructors": [
           "Godula, Kamil"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "2f8e45cf0a2f84c392f7db8c5d875f6df72366e65afe24cfe2227b6cdd07eafe": {
         "sectxt": true,
         "sectionID": "926486",
         "type": "DI",
@@ -310,14 +155,13 @@
         "time": "4:00p-4:50p",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Godula, Kamil",
         "instructors": [
           "Godula, Kamil"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "4598ca96bc29807299662debc5c1f09f2597d40d92d646103d693684da1c81fc": {
         "sectxt": true,
         "sectionID": "926487",
         "type": "DI",
@@ -326,15 +170,15 @@
         "time": "5:00p-5:50p",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Godula, Kamil",
         "instructors": [
           "Godula, Kamil"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

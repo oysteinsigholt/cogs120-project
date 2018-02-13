@@ -3,31 +3,12 @@
   "name": "Sp Top/International Relations",
   "department": "POLI",
   "id": "248",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925376",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "9:00a-11:50a",
-      "building": "SSB",
-      "room": "104",
-      "instructor": "Lake, David A",
-      "instructors": [
-        "Lake, David A"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "8f37caa6986f33772f1de8d25277f9cfa574d719e676dd0c3d6288d2fb8d55b2": {
         "sectxt": true,
         "sectionID": "925376",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "9:00a-11:50a",
         "building": "SSB",
         "room": "104",
-        "instructor": "Lake, David A",
         "instructors": [
           "Lake, David A"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

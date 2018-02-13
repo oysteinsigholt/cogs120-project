@@ -3,42 +3,9 @@
   "name": "Intro to Embedded Computing",
   "department": "CSE",
   "id": "237A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927561",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "SOLIS",
-      "room": "110",
-      "instructor": "Rosing, Tajana Simunic",
-      "instructors": [
-        "Rosing, Tajana Simunic"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "bfe735fa4a98c160d2b468e288a6cbebe89db738f2b8d7ff8af7e9e5d554fe46": {
         "sectxt": true,
         "sectionID": "927561",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "12:30p-1:50p",
         "building": "SOLIS",
         "room": "110",
-        "instructor": "Rosing, Tajana Simunic",
         "instructors": [
           "Rosing, Tajana Simunic"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f9d2dd4a82e46ed53f1c9a7a57f1849b7d3f74dbd6a9e90ad4911824374aaa0d": {
         "sectxt": true,
         "sectionID": "927561",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "12:30p-1:50p",
         "building": "SOLIS",
         "room": "110",
-        "instructor": "Rosing, Tajana Simunic",
         "instructors": [
           "Rosing, Tajana Simunic"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

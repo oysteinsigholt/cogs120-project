@@ -3,42 +3,23 @@
   "name": "Promises&Contradictions/USCult",
   "department": "DOC",
   "id": "100D",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920811",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "5:00p-5:50p",
-      "building": "CENTR",
-      "room": "205",
-      "instructor": "Pass, Natalye Joann",
-      "instructors": [
-        "Pass, Natalye Joann"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b9b4ec5af540606b238988bee0286fc3a4cc4d540b7785beb08dccae4a0227c9": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +28,31 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "a6b3505cd13f7d77212059c0416f667fc45c933b4767ee906f36bd442c37ee71": {
+        "sectxt": true,
+        "sectionID": "920810",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "205",
+        "instructors": [
+          "Pass, Natalye Joann"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "b2f258e66facce484d199443267b3c90c4be994d1f9e31a015f82156f96b7235": {
         "sectxt": true,
         "sectionID": "920811",
         "type": "LE",
@@ -66,17 +61,30 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "205",
-        "instructor": "Pass, Natalye Joann",
         "instructors": [
           "Pass, Natalye Joann"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "70a80c55ee5183abe759b40dd6c17984c579916931dbc11d6d25012a9e4a9216": {
+        "sectxt": true,
+        "sectionID": "920810",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "205",
+        "instructors": [
+          "Pass, Natalye Joann"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "82ca09877deaf71d4f875cbd705ba89872e8e7ab207fe6166daeee31b6b29575": {
         "sectxt": true,
         "sectionID": "920811",
         "type": "LE",
@@ -85,17 +93,30 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "205",
-        "instructor": "Pass, Natalye Joann",
         "instructors": [
           "Pass, Natalye Joann"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "3c96463410c5dc73e14cadb462a5340f20a7f457f3f6fe6878898440cabda7c7": {
+        "sectxt": true,
+        "sectionID": "920810",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "205",
+        "instructors": [
+          "Pass, Natalye Joann"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "4bab0ce54bf423a5836cfbc4a40d5a36abc69be24cb4bd0550afda157b233bca": {
         "sectxt": true,
         "sectionID": "920811",
         "type": "LE",
@@ -104,15 +125,16 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "205",
-        "instructor": "Pass, Natalye Joann",
         "instructors": [
           "Pass, Natalye Joann"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

@@ -3,42 +3,23 @@
   "name": "Spec Topic/Signal&Imag/Robotic",
   "department": "ECE",
   "id": "285",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925181",
-      "type": "LE",
-      "section": "C00",
-      "days": "TuTh",
-      "time": "5:00p-6:20p",
-      "building": "CSB",
-      "room": "004",
-      "instructor": "An, Cheolhong",
-      "instructors": [
-        "An, Cheolhong"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "99084e85dcbf5c5064e8677480f27cc1eb8ff5538061a54d6a1f44628193757c": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +28,48 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "8ae94061e31ff66b39d04808fe5a97bb69d1d9a833af54c8f9c970769c4faa3a": {
+        "sectxt": true,
+        "sectionID": "925179",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2204",
+        "instructors": [
+          "Sworder, David D."
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      }
+    },
+    "Tu": {
+      "161df997988a05dd150475f472968b6e45d7cebc54095bfade98eadcf18957db": {
+        "sectxt": true,
+        "sectionID": "925180",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "WLH",
+        "room": "2114",
+        "instructors": [
+          "Rao, Bhaskar D."
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "3876ef3bfb1a3bc8ab9f6b5c67537a08b796312ca8d6b6beb80b066373f81d03": {
         "sectxt": true,
         "sectionID": "925181",
         "type": "LE",
@@ -67,17 +78,47 @@
         "time": "5:00p-6:20p",
         "building": "CSB",
         "room": "004",
-        "instructor": "An, Cheolhong",
         "instructors": [
           "An, Cheolhong"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "W": {
+      "398c8ccd256f6541e282a3b036c49f714ac5dad00819c013dbad7271f87f1c6e": {
+        "sectxt": true,
+        "sectionID": "925179",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2204",
+        "instructors": [
+          "Sworder, David D."
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      }
+    },
+    "Th": {
+      "b9a8da1a08a2c9da685f0f77788f4b0dbc4986f6ca81ebfe790ac49b199dc62e": {
+        "sectxt": true,
+        "sectionID": "925180",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "WLH",
+        "room": "2114",
+        "instructors": [
+          "Rao, Bhaskar D."
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "eaf660d6338179bf7f84b8314dff44bea0595ef8fa0a66a5ea0850ab2a73cb2b": {
         "sectxt": true,
         "sectionID": "925181",
         "type": "LE",
@@ -86,16 +127,34 @@
         "time": "5:00p-6:20p",
         "building": "CSB",
         "room": "004",
-        "instructor": "An, Cheolhong",
         "instructors": [
           "An, Cheolhong"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "F": {
+      "5759f047ba92ba148c763c5d802571a85213ae285303db297fdfab1972119a37": {
+        "sectxt": true,
+        "sectionID": "925179",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2204",
+        "instructors": [
+          "Sworder, David D."
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

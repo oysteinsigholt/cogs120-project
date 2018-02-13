@@ -3,34 +3,346 @@
   "name": "Human Physiology I",
   "department": "BIPN",
   "id": "100",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926183",
-      "type": "DI",
-      "section": "B08",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "CENTR",
-      "room": "207",
-      "instructor": "Fortes, P. A. George",
-      "instructors": [
-        "Fortes, P. A. George"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "92317a1e0686b2f0ef2a0a519718c916906b0ef1d08b8ec5067bb1880ecd1900": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "01/31/2018",
+      "days": "W",
+      "time": "7:00p-9:50p",
+      "building": "CENTR",
+      "room": "216",
+      "instructors": [],
+      "date": "2018-01-31T08:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:50"
+    },
+    "69dec8406c9256e59b7d82c1cc989a226ea0af6ba610c8423744144c16daf3ff": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MI",
+      "section": "02/02/2018",
+      "days": "F",
+      "time": "6:00p-7:20p",
+      "building": "WLH",
+      "room": "2001",
+      "instructors": [],
+      "date": "2018-02-02T08:00:00.000Z",
+      "start_time": "18:00",
+      "end_time": "19:20"
+    },
+    "332804a0b28c9c57af75f9df6091a2539bcdf787f9d271103fb1834677119b9f": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "MI",
+      "section": "03/02/2018",
+      "days": "F",
+      "time": "6:00p-7:20p",
+      "building": "WLH",
+      "room": "2001",
+      "instructors": [],
+      "date": "2018-03-02T08:00:00.000Z",
+      "start_time": "18:00",
+      "end_time": "19:20"
+    },
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    },
+    "74e4f83ad84c748163f01b77dff51f77629ffd3c8d0a86898673e654d25c5ff0": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "01/30/2018",
+      "days": "Tu",
+      "time": "8:00p-9:50p",
+      "building": "CENTR",
+      "room": "212",
+      "instructors": [],
+      "date": "2018-01-30T08:00:00.000Z",
+      "start_time": "20:00",
+      "end_time": "21:50"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "M": {
+      "03a7607885fbdc1fa22aad4eef5baa2bfc21a1510bf3216913c86403758551e6": {
+        "sectxt": true,
+        "sectionID": "926167",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "217A",
+        "instructors": [
+          "Fortes, P. A. George"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "245caede4dabc28a36ca056d1d20eb0d4d740a8f832fa2af5342cc78680b19a4": {
+        "sectxt": true,
+        "sectionID": "926168",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "218",
+        "instructors": [
+          "Fortes, P. A. George"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "a4caf1c87288e8e1f7e11073a465c7ce45a83a12be3791ee2bcf20758ef8b100": {
+        "sectxt": true,
+        "sectionID": "926169",
+        "type": "DI",
+        "section": "A03",
+        "days": "M",
+        "time": "5:00p-5:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Fortes, P. A. George"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "b6b4d753d8dee469134dc6b827a0fc8d71f3643e4430efcaf8db248ff9301b94": {
+        "sectxt": true,
+        "sectionID": "926176",
+        "type": "DI",
+        "section": "B01",
+        "days": "M",
+        "time": "12:00p-12:50p",
+        "building": "HSS",
+        "room": "1305",
+        "instructors": [
+          "Fortes, P. A. George"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "f20a22964627c0e15a597e0ab3ca7987f17e7c4b5f1cec65f1655e9937fecc48": {
+        "sectxt": true,
+        "sectionID": "926177",
+        "type": "DI",
+        "section": "B02",
+        "days": "M",
+        "time": "6:00p-6:50p",
+        "building": "CENTR",
+        "room": "203",
+        "instructors": [
+          "Fortes, P. A. George"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      }
+    },
+    "Tu": {
+      "8987b7af87d847c623f8d9e86e86f1d582c28de0cd3bc163ae563b429ae225f9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "PETER",
+        "room": "110",
+        "instructors": [
+          "Fortes, P. A. George"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "cac8894f82fd707f3baa45b0772763f0dc42533185d4420469598ba9d401f44a": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "YORK",
+        "room": "2722",
+        "instructors": [
+          "Fortes, P. A. George"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    },
+    "W": {
+      "d053ef08d2e8fba8364cf93c2826434be285bde99775694a8efd2109b96b1ea5": {
+        "sectxt": true,
+        "sectionID": "926170",
+        "type": "DI",
+        "section": "A04",
+        "days": "W",
+        "time": "8:00a-8:50a",
+        "building": "CENTR",
+        "room": "201",
+        "instructors": [
+          "Fortes, P. A. George"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "03aaf294d285d387856aa0547c0ec35f4bfcbf5b578b85163d6f26b3ac073c7b": {
+        "sectxt": true,
+        "sectionID": "926171",
+        "type": "DI",
+        "section": "A05",
+        "days": "W",
+        "time": "4:00p-4:50p",
+        "building": "HSS",
+        "room": "1305",
+        "instructors": [
+          "Fortes, P. A. George"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "9bcfd610bea82fa9b45764f753a0c449f3370d1ab8acb7ed1173c2ff21d1d051": {
+        "sectxt": true,
+        "sectionID": "926178",
+        "type": "DI",
+        "section": "B03",
+        "days": "W",
+        "time": "10:00a-10:50a",
+        "building": "HSS",
+        "room": "2321",
+        "instructors": [
+          "Fortes, P. A. George"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "3506b0c0d313ff12af8f34429d207a47e7c1d4e435c0a2578d3f5c5ddd9de25b": {
+        "sectxt": true,
+        "sectionID": "926179",
+        "type": "DI",
+        "section": "B04",
+        "days": "W",
+        "time": "4:00p-4:50p",
+        "building": "YORK",
+        "room": "3000A",
+        "instructors": [
+          "Fortes, P. A. George"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "390fb933856b0d98a9d9e1aec587846647bd5dad6348d9f2ac69f891c64cda09": {
+        "sectxt": true,
+        "sectionID": "926180",
+        "type": "DI",
+        "section": "B05",
+        "days": "W",
+        "time": "7:00p-7:50p",
+        "building": "CENTR",
+        "room": "218",
+        "instructors": [
+          "Fortes, P. A. George"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      }
+    },
+    "Th": {
+      "126816888d61f914f97a4cf223b36ae2f29f5df8aa68f3942a0e9370bddbed90": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "PETER",
+        "room": "110",
+        "instructors": [
+          "Fortes, P. A. George"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "543b345feb7259ed776415a7c0c9cc83dc747d07e22f5ca46ee94b56c062a156": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "YORK",
+        "room": "2722",
+        "instructors": [
+          "Fortes, P. A. George"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "c90ce6a01a935a60fb0982130a2049d9eb11dd5a0f2b2c5a2ab01e9fd8c03616": {
+        "sectxt": true,
+        "sectionID": "926181",
+        "type": "DI",
+        "section": "B06",
+        "days": "Th",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "218",
+        "instructors": [
+          "Fortes, P. A. George"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    },
+    "F": {
+      "deb520d9d7774913918fa5d7a4a632eb149fa1acf5eab65816ae39d6c7001478": {
+        "sectxt": true,
+        "sectionID": "926173",
+        "type": "DI",
+        "section": "A07",
+        "days": "F",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "207",
+        "instructors": [
+          "Fortes, P. A. George"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "c840f3f83f81850ee64717a2ec44238f21fcd149feaf9cb5a2f68c837b98a5d6": {
+        "sectxt": true,
+        "sectionID": "926174",
+        "type": "DI",
+        "section": "A08",
+        "days": "F",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "201",
+        "instructors": [
+          "Fortes, P. A. George"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "dc414c33a4f329d76932292d2bb94fb681b7b67840e074dfed71b58ffae0ef3f": {
         "sectxt": true,
         "sectionID": "926183",
         "type": "DI",
@@ -39,15 +351,16 @@
         "time": "3:00p-3:50p",
         "building": "CENTR",
         "room": "207",
-        "instructor": "Fortes, P. A. George",
         "instructors": [
           "Fortes, P. A. George"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

@@ -3,35 +3,14 @@
   "name": "ERC Senior Seminar",
   "department": "ERC",
   "id": "192",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927872",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "11:00a-11:50a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Evans, Ivan T",
-      "instructors": [
-        "Evans, Ivan T"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [
     "Location:School of Global Policy & Strategy, room 1328"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "ad5b91f88b6c1bfa737d8a47dcedc3d7ee780a2daa35e6ba36cdcca306c76cf4": {
         "sectxt": true,
         "sectionID": "927872",
         "type": "SE",
@@ -40,16 +19,15 @@
         "time": "11:00a-11:50a",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Evans, Ivan T",
         "instructors": [
           "Evans, Ivan T"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

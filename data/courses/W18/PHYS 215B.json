@@ -3,42 +3,9 @@
   "name": "Particles & Fields II",
   "department": "PHYS",
   "id": "215B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923808",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "12:30p-1:50p",
-      "building": "MYR-A",
-      "room": "5623",
-      "instructor": "McGreevy, John A.",
-      "instructors": [
-        "McGreevy, John A."
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "fff693e27582d41f9bddc84ceb7a0b860f74103d35156bf91c9178d5839ddbf6": {
         "sectxt": true,
         "sectionID": "923808",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "12:30p-1:50p",
         "building": "MYR-A",
         "room": "5623",
-        "instructor": "McGreevy, John A.",
         "instructors": [
           "McGreevy, John A."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "f2614e9e4736306a48523df9187c049cab13547f5ce27094b0c0a793d296ae46": {
         "sectxt": true,
         "sectionID": "923808",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "12:30p-1:50p",
         "building": "MYR-A",
         "room": "5623",
-        "instructor": "McGreevy, John A.",
         "instructors": [
           "McGreevy, John A."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,30 +3,374 @@
   "name": "Analytical Writing A",
   "department": "AWP",
   "id": "2A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929021",
-      "type": "SE",
-      "section": "032",
-      "days": "MW",
-      "time": "3:30p-4:50p",
-      "building": "MANDE",
-      "room": "127",
-      "instructor": "Fitzgerald, Rachelle Aloys",
-      "instructors": [
-        "Fitzgerald, Rachelle Aloys"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    }
+  "notes": [
+    "Location: Literature 245"
   ],
-  "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "2cdd1570bd188c5188ccd73f480f942f5bcd948253b4502fb98bb9620f55968b": {
+        "sectxt": true,
+        "sectionID": "920714",
+        "type": "SE",
+        "section": "014",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "YORK",
+        "room": "4060A",
+        "instructors": [
+          "Babcock, Joseph Diliberto"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "31f4dbb4fa9128d5be66b0e7f14aada71980f035e0d44638063f7222ad381ad6": {
+        "sectxt": true,
+        "sectionID": "920715",
+        "type": "SE",
+        "section": "015",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "Tessier, Jillian Marie"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "f4dc607d29e5cb4181336219d27ee6caf98479edd553c0e7fdb37af73da78693": {
+        "sectxt": true,
+        "sectionID": "920716",
+        "type": "SE",
+        "section": "016",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "CENTR",
+        "room": "224B",
+        "instructors": [
+          "Picciotto, Madeleine"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "ac510078950bd6b92828ed5252bdafe891d7ec4339aa6d91bb325c2be1165447": {
+        "sectxt": true,
+        "sectionID": "920719",
+        "type": "SE",
+        "section": "019",
+        "days": "MW",
+        "time": "12:30p-1:50p",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "Haugh, Megan Nicole"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "ee31eaf4abbf59355eb40cef68d888a79d83184268e7dfb71a99c973cfbf8c72": {
+        "sectxt": true,
+        "sectionID": "920720",
+        "type": "SE",
+        "section": "020",
+        "days": "MW",
+        "time": "12:30p-1:50p",
+        "building": "YORK",
+        "room": "4060B",
+        "instructors": [
+          "McCarthy, Jenna L"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "4ea5176e2a0906067c93726ed94df56552292751a27ef31052261b1a63277a9c": {
+        "sectxt": true,
+        "sectionID": "920721",
+        "type": "SE",
+        "section": "021",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "YORK",
+        "room": "4060B",
+        "instructors": [
+          "Krizovensky, Jaclyn A"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "f9c1a460c981fd779fd6fadbaae7a0a4d1999fc3625293115f796883683ff65d": {
+        "sectxt": true,
+        "sectionID": "920722",
+        "type": "SE",
+        "section": "022",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "224B",
+        "instructors": [
+          "Ajo, Frances Margaret"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "4c173016c63640f63e4bd959b0ae9d8179ee974d93492596ef5c7893c0783097": {
+        "sectxt": true,
+        "sectionID": "920723",
+        "type": "SE",
+        "section": "023",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "MANDE",
+        "room": "B-152",
+        "instructors": [
+          "Picciotto, Madeleine"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "19d3ae7b548fdd94c5a1aaf95c28346a21d70a8a8e8079de9914f289505ce189": {
+        "sectxt": true,
+        "sectionID": "928907",
+        "type": "SE",
+        "section": "024",
+        "days": "MW",
+        "time": "8:00a-9:20a",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "McCarthy, Jenna L"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "389d6fe732cb5764e1bcd16ddd58df325dee189f0b55006d725b1716d0539aff": {
+        "sectxt": true,
+        "sectionID": "928909",
+        "type": "SE",
+        "section": "025",
+        "days": "MW",
+        "time": "8:00a-9:20a",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "Steinberg, Stacy A"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "439a6593218a4eac62f86d9a3de32e7c1bd410de66be746da267b9a85b212d41": {
+        "sectxt": true,
+        "sectionID": "920701",
+        "type": "SE",
+        "section": "001",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Bauer, Holly Jean"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "bbfc5f9331b8c7d309b691ae361b42c1f0330eb5014fdacde3a680a1021c1101": {
+        "sectxt": true,
+        "sectionID": "920702",
+        "type": "SE",
+        "section": "002",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "YORK",
+        "room": "4060A",
+        "instructors": [
+          "Haugh, Megan Nicole"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "8e5a415cca6650065c1117adecd9e40248b909c8fa10f7fc09bc84bdd5095aa5": {
+        "sectxt": true,
+        "sectionID": "920705",
+        "type": "SE",
+        "section": "005",
+        "days": "MW",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "208",
+        "instructors": [
+          "Tsurska, Olena Anatoliyivn"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "2a6533f99b09153572443f5e053521112a34510aa17d578e3a7ba806b0962d09": {
+        "sectxt": true,
+        "sectionID": "920706",
+        "type": "SE",
+        "section": "006",
+        "days": "MW",
+        "time": "12:30p-1:50p",
+        "building": "YORK",
+        "room": "4060A",
+        "instructors": [
+          "Steinberg, Stacy A"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "c06b6e9cc36d829ca34c9f2518710106d22ce8706beafbdeca8763b2e5598d4e": {
+        "sectxt": true,
+        "sectionID": "920707",
+        "type": "SE",
+        "section": "007",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "208",
+        "instructors": [
+          "Tessier, Jillian Marie"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "2faf9831e0906a6c8a6a82fd34b8d59d1ec5b5c147321db60455287973463511": {
+        "sectxt": true,
+        "sectionID": "920708",
+        "type": "SE",
+        "section": "008",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "YORK",
+        "room": "4060A",
+        "instructors": [
+          "Christie, Veronica Ann"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "50806d5f889edd82f9014487837841a679640ae25e2c9cb54d678de108ec7283": {
+        "sectxt": true,
+        "sectionID": "920709",
+        "type": "SE",
+        "section": "009",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "Twohig, Niall Ivan"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "93be6d97376cc4e782e8121b4237809126381b46f64e34677162f5be5f869122": {
+        "sectxt": true,
+        "sectionID": "920711",
+        "type": "SE",
+        "section": "011",
+        "days": "MW",
+        "time": "3:30p-4:50p",
+        "building": "YORK",
+        "room": "4060A",
+        "instructors": [
+          "Miller, Alyssa R"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "0061a46adad2e8df19c3231e767943eb56162c685dfde38e47f66fc2a4adef81": {
+        "sectxt": true,
+        "sectionID": "928910",
+        "type": "SE",
+        "section": "026",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [
+          "Krizovensky, Jaclyn A"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "35c2f20bf17bffdacf586db241ca8c6357da44768a93ce525583c5c3b6355fc6": {
+        "sectxt": true,
+        "sectionID": "928932",
+        "type": "SE",
+        "section": "027",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "HSS",
+        "room": "2152",
+        "instructors": [
+          "Chandler, Bailee Daniele"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "4853294b6fd9d69d984a4a03dafa72935b2f1fd9c29c23d7ee5234417088c771": {
+        "sectxt": true,
+        "sectionID": "928933",
+        "type": "SE",
+        "section": "028",
+        "days": "MW",
+        "time": "6:30p-7:50p",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [
+          "Babcock, Joseph Diliberto"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      },
+      "5cd487d9dd03f1b6bc1b3f691443b5c01746c48cefecf6259d860cd38a38a930": {
+        "sectxt": true,
+        "sectionID": "928934",
+        "type": "SE",
+        "section": "029",
+        "days": "MW",
+        "time": "6:30p-7:50p",
+        "building": "HSS",
+        "room": "2152",
+        "instructors": [
+          "Miller, Alyssa R"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      },
+      "c48f055ea618fbc824fdf4e2c81bed0b5cade3ce53110b402cae97ca0b46b412": {
+        "sectxt": true,
+        "sectionID": "929019",
+        "type": "SE",
+        "section": "030",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "MANDE",
+        "room": "127",
+        "instructors": [
+          "Ajo, Frances Margaret"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "701eead827b4399598992bb0445c849458187da85b0e616cf95c5d88b2387fb8": {
+        "sectxt": true,
+        "sectionID": "929020",
+        "type": "SE",
+        "section": "031",
+        "days": "MW",
+        "time": "12:30p-1:50p",
+        "building": "MANDE",
+        "room": "127",
+        "instructors": [
+          "Fitzgerald, Rachelle Aloys"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "461ebd968a0dc85514f649f2d545021f690f849fcea018d009e655796b83e35b": {
         "sectxt": true,
         "sectionID": "929021",
         "type": "SE",
@@ -35,17 +379,375 @@
         "time": "3:30p-4:50p",
         "building": "MANDE",
         "room": "127",
-        "instructor": "Fitzgerald, Rachelle Aloys",
         "instructors": [
           "Fitzgerald, Rachelle Aloys"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "164d9de9b63094090ae54ff065a1bd5b2b9c77d81b3616190ce3704c186a9188": {
+        "sectxt": true,
+        "sectionID": "920714",
+        "type": "SE",
+        "section": "014",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "YORK",
+        "room": "4060A",
+        "instructors": [
+          "Babcock, Joseph Diliberto"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "267c89afe0b1581875f98b8b6352d3fb4ef7a18b46d4e40ec81dfab13252a034": {
+        "sectxt": true,
+        "sectionID": "920715",
+        "type": "SE",
+        "section": "015",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "Tessier, Jillian Marie"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "5e08a7d3c7fefa3060c300af28f8ab57d7ab7d4435a1b4b13f85e5712d633c5d": {
+        "sectxt": true,
+        "sectionID": "920716",
+        "type": "SE",
+        "section": "016",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "CENTR",
+        "room": "224B",
+        "instructors": [
+          "Picciotto, Madeleine"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "8d0757867d175d7534388c971e931b9b56120b6e398c7aed058162168f8177f7": {
+        "sectxt": true,
+        "sectionID": "920719",
+        "type": "SE",
+        "section": "019",
+        "days": "MW",
+        "time": "12:30p-1:50p",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "Haugh, Megan Nicole"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "e72b76cb176bb310363985180d641077ef47f5f9b05a4303fe9e295733725e89": {
+        "sectxt": true,
+        "sectionID": "920720",
+        "type": "SE",
+        "section": "020",
+        "days": "MW",
+        "time": "12:30p-1:50p",
+        "building": "YORK",
+        "room": "4060B",
+        "instructors": [
+          "McCarthy, Jenna L"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "c9d49cb07cfa27d2f0881aeba7b463d746a422c16fbe8d0aa8ef6fdfa6c643f2": {
+        "sectxt": true,
+        "sectionID": "920721",
+        "type": "SE",
+        "section": "021",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "YORK",
+        "room": "4060B",
+        "instructors": [
+          "Krizovensky, Jaclyn A"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "bb6da8e84f65fd369a909c39c1842876f3eacb42600930acbe1562363fd03fd9": {
+        "sectxt": true,
+        "sectionID": "920722",
+        "type": "SE",
+        "section": "022",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "224B",
+        "instructors": [
+          "Ajo, Frances Margaret"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "8efe6c8da1702bc5ab2e6cbaca90ae9b07fa40085ae4dfb09e5545263ff48616": {
+        "sectxt": true,
+        "sectionID": "920723",
+        "type": "SE",
+        "section": "023",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "MANDE",
+        "room": "B-152",
+        "instructors": [
+          "Picciotto, Madeleine"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "874140ee727dc146f4d30e6c5747ef133cfed14a16b819a23dfce0062f2c9d3e": {
+        "sectxt": true,
+        "sectionID": "928907",
+        "type": "SE",
+        "section": "024",
+        "days": "MW",
+        "time": "8:00a-9:20a",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "McCarthy, Jenna L"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "52f294fadbe53413aef53b17684de61d8c4023c7d1f72d982b3f1175e65efac2": {
+        "sectxt": true,
+        "sectionID": "928909",
+        "type": "SE",
+        "section": "025",
+        "days": "MW",
+        "time": "8:00a-9:20a",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "Steinberg, Stacy A"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "596c0454ac28286c7885605de38152bea1727adaba8922ec4101e0bf8a68762d": {
+        "sectxt": true,
+        "sectionID": "920701",
+        "type": "SE",
+        "section": "001",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Bauer, Holly Jean"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "d6dcc3b03245b8b3f83661b9fb43d7c1d17deb449697c4b47db282cbe7faa4ac": {
+        "sectxt": true,
+        "sectionID": "920702",
+        "type": "SE",
+        "section": "002",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "YORK",
+        "room": "4060A",
+        "instructors": [
+          "Haugh, Megan Nicole"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "90b48ee44b575fcad000db44e8ff484fbf6e38b72698dbd71f923fdbeff52cd0": {
+        "sectxt": true,
+        "sectionID": "920705",
+        "type": "SE",
+        "section": "005",
+        "days": "MW",
+        "time": "12:30p-1:50p",
+        "building": "CENTR",
+        "room": "208",
+        "instructors": [
+          "Tsurska, Olena Anatoliyivn"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "9a3a4de36e7c026880d6d354278ae5fb87eb7e406c093c226b6af7da443aaf09": {
+        "sectxt": true,
+        "sectionID": "920706",
+        "type": "SE",
+        "section": "006",
+        "days": "MW",
+        "time": "12:30p-1:50p",
+        "building": "YORK",
+        "room": "4060A",
+        "instructors": [
+          "Steinberg, Stacy A"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "1961ee88b61768f4c289de801724f2bba72b19208c6b0d8bf91daffbba101c6e": {
+        "sectxt": true,
+        "sectionID": "920707",
+        "type": "SE",
+        "section": "007",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "208",
+        "instructors": [
+          "Tessier, Jillian Marie"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "8b45ebbe948cd921fb2034df49b2cd30ee5b5caf940e2fda83337f44d7d8ec63": {
+        "sectxt": true,
+        "sectionID": "920708",
+        "type": "SE",
+        "section": "008",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "YORK",
+        "room": "4060A",
+        "instructors": [
+          "Christie, Veronica Ann"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "2423bef96589c0b84f162ae5f050d81c93e32c02ef821bdc44779ffe8f1c59ba": {
+        "sectxt": true,
+        "sectionID": "920709",
+        "type": "SE",
+        "section": "009",
+        "days": "MW",
+        "time": "2:00p-3:20p",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "Twohig, Niall Ivan"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "0b8973d799c56563046c4a7aa317d35eacfdce5a70256606751e19f3efa7d624": {
+        "sectxt": true,
+        "sectionID": "920711",
+        "type": "SE",
+        "section": "011",
+        "days": "MW",
+        "time": "3:30p-4:50p",
+        "building": "YORK",
+        "room": "4060A",
+        "instructors": [
+          "Miller, Alyssa R"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "ae7e1c0cd203a92c463b637253cda984f57af8efa00461aa7a7f40b8edbc639f": {
+        "sectxt": true,
+        "sectionID": "928910",
+        "type": "SE",
+        "section": "026",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [
+          "Krizovensky, Jaclyn A"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "ba41770f7171dc9cc1164f8473429769486d2ec8edb161281ac73985ee7bd47e": {
+        "sectxt": true,
+        "sectionID": "928932",
+        "type": "SE",
+        "section": "027",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "HSS",
+        "room": "2152",
+        "instructors": [
+          "Chandler, Bailee Daniele"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "29c52843f49bbeacf436964f2a6346eb04a2189c7551e81b91575178bf79a4b1": {
+        "sectxt": true,
+        "sectionID": "928933",
+        "type": "SE",
+        "section": "028",
+        "days": "MW",
+        "time": "6:30p-7:50p",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [
+          "Babcock, Joseph Diliberto"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      },
+      "eeb364812759f0d74e2f7ff28e8537c6b8aeea9b4dc1887403af1c6bc3830a99": {
+        "sectxt": true,
+        "sectionID": "928934",
+        "type": "SE",
+        "section": "029",
+        "days": "MW",
+        "time": "6:30p-7:50p",
+        "building": "HSS",
+        "room": "2152",
+        "instructors": [
+          "Miller, Alyssa R"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      },
+      "0dad9651d0673bd7bbb76fc0ad15f6069795713cd535767fe01be516d5306897": {
+        "sectxt": true,
+        "sectionID": "929019",
+        "type": "SE",
+        "section": "030",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "MANDE",
+        "room": "127",
+        "instructors": [
+          "Ajo, Frances Margaret"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "d2646e9453e126c8caf62b61f06ff2c535b9a4bd8c5262ea8afdb4704d88d178": {
+        "sectxt": true,
+        "sectionID": "929020",
+        "type": "SE",
+        "section": "031",
+        "days": "MW",
+        "time": "12:30p-1:50p",
+        "building": "MANDE",
+        "room": "127",
+        "instructors": [
+          "Fitzgerald, Rachelle Aloys"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "f80fdf15c609bd2e0bb91ec660b8d7f0e7278c5c07027eec57da1f2fa7253b2d": {
         "sectxt": true,
         "sectionID": "929021",
         "type": "SE",
@@ -54,17 +756,15 @@
         "time": "3:30p-4:50p",
         "building": "MANDE",
         "room": "127",
-        "instructor": "Fitzgerald, Rachelle Aloys",
         "instructors": [
           "Fitzgerald, Rachelle Aloys"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "0"
+  ]
 }

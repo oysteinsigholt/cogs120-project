@@ -3,40 +3,8 @@
   "name": "Dissertation Writing Seminar",
   "department": "EDS",
   "id": "289A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "SE",
-      "section": "A00",
-      "days": "S",
-      "time": "9:00a-4:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Hofstetter, Carolyn",
-      "instructors": [
-        "Hofstetter, Carolyn"
-      ],
-      "start_time": "9:00",
-      "end_time": "16:00"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922528",
-      "type": "PR",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Hofstetter, Carolyn",
-      "instructors": [
-        "Hofstetter, Carolyn"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -47,19 +15,13 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Hofstetter, Carolyn",
       "instructors": [
         "Hofstetter, Carolyn"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": [
+    "A"
+  ]
 }

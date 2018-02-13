@@ -3,33 +3,12 @@
   "name": "Neurosciences Research Rounds",
   "department": "NEU",
   "id": "276",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922201",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "1:00p-2:20p",
-      "building": "MET",
-      "room": "223",
-      "instructor": "Stevens, Charles F.",
-      "instructors": [
-        "Stevens, Charles F."
-      ],
-      "start_time": "13:00",
-      "end_time": "14:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "39e589b3fbee46de558baace55ff600c173b325dfcf64880ba0a5db298418ed6": {
         "sectxt": true,
         "sectionID": "922201",
         "type": "SE",
@@ -38,16 +17,15 @@
         "time": "1:00p-2:20p",
         "building": "MET",
         "room": "223",
-        "instructor": "Stevens, Charles F.",
         "instructors": [
           "Stevens, Charles F."
         ],
         "start_time": "13:00",
         "end_time": "14:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

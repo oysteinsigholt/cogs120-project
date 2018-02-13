@@ -3,30 +3,12 @@
   "name": "Intro Science Studies: Part II",
   "department": "SOCG",
   "id": "255D",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924959",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "12:00p-2:50p",
-      "building": "SSB",
-      "room": "414",
-      "instructor": "Navon, Daniel",
-      "instructors": [
-        "Navon, Daniel"
-      ],
-      "start_time": "12:00",
-      "end_time": "14:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "b12c5ae30c03f8b872b182da0b0a02dcb8fe31a6e8b97508e6dbd2a64313a92f": {
         "sectxt": true,
         "sectionID": "924959",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "12:00p-2:50p",
         "building": "SSB",
         "room": "414",
-        "instructor": "Navon, Daniel",
         "instructors": [
           "Navon, Daniel"
         ],
         "start_time": "12:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

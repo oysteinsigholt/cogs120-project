@@ -3,42 +3,9 @@
   "name": "Europe since 1945",
   "department": "HIEU",
   "id": "128",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924552",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "8:00a-9:20a",
-      "building": "PETER",
-      "room": "102",
-      "instructor": "Neuheiser, Joerg",
-      "instructors": [
-        "Neuheiser, Joerg"
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "a0be4b93c39c75b6458e56a91542138775b0bedc099e027cf88ebf0b404ba320": {
         "sectxt": true,
         "sectionID": "924552",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "8:00a-9:20a",
         "building": "PETER",
         "room": "102",
-        "instructor": "Neuheiser, Joerg",
         "instructors": [
           "Neuheiser, Joerg"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "4bd6829296b1009f9b43f6c1b9b4d52d340b17090affdfb4e2ea073d124814cd": {
         "sectxt": true,
         "sectionID": "924552",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "8:00a-9:20a",
         "building": "PETER",
         "room": "102",
-        "instructor": "Neuheiser, Joerg",
         "instructors": [
           "Neuheiser, Joerg"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

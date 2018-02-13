@@ -3,42 +3,9 @@
   "name": "Philosophy of Psychology",
   "department": "PHIL",
   "id": "149",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924811",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "TM102",
-      "room": "1",
-      "instructor": "Fulkerson, Matthew Todd",
-      "instructors": [
-        "Fulkerson, Matthew Todd"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "aeca25aab901f5b260aad0a300ea84275f5b8b5531d96f25c9cd270a790aa765": {
         "sectxt": true,
         "sectionID": "924811",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "11:00a-12:20p",
         "building": "TM102",
         "room": "1",
-        "instructor": "Fulkerson, Matthew Todd",
         "instructors": [
           "Fulkerson, Matthew Todd"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "1a394a3c941d0ef82e29f0f0ac9cf33fd35a4fe92c8616b12b283544ba4c8f49": {
         "sectxt": true,
         "sectionID": "924811",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "11:00a-12:20p",
         "building": "TM102",
         "room": "1",
-        "instructor": "Fulkerson, Matthew Todd",
         "instructors": [
           "Fulkerson, Matthew Todd"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

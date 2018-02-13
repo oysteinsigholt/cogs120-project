@@ -3,31 +3,12 @@
   "name": "Intermediate Chinese",
   "department": "GPLA",
   "id": "401B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921729",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "8:00a-9:20a",
-      "building": "RBC",
-      "room": "1201",
-      "instructor": "Swun, Yvonne Ai-Ying",
-      "instructors": [
-        "Swun, Yvonne Ai-Ying"
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "89ac63e8a7274187c9586c635645e2eae2e5d46fef3254bb41267a51dd02ff70": {
         "sectxt": true,
         "sectionID": "921729",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "8:00a-9:20a",
         "building": "RBC",
         "room": "1201",
-        "instructor": "Swun, Yvonne Ai-Ying",
         "instructors": [
           "Swun, Yvonne Ai-Ying"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "34ae3e93f551e1f38fef5bfdb9dbca2a3c70b660e83ba014adf34d3ede7a25be": {
         "sectxt": true,
         "sectionID": "921729",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "8:00a-9:20a",
         "building": "RBC",
         "room": "1201",
-        "instructor": "Swun, Yvonne Ai-Ying",
         "instructors": [
           "Swun, Yvonne Ai-Ying"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

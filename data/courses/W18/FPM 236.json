@@ -3,31 +3,12 @@
   "name": "Intro to Osteopathic Medicine",
   "department": "FPM",
   "id": "236",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930442",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "1:00p-2:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "King, Hollis Heaton",
-      "instructors": [
-        "King, Hollis Heaton"
-      ],
-      "start_time": "13:00",
-      "end_time": "14:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "662cb2285c33315065f1b723c825467869fa136c0902fee6ff3b72f3152c49ae": {
         "sectxt": true,
         "sectionID": "930442",
         "type": "LE",
@@ -36,18 +17,15 @@
         "time": "1:00p-2:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "King, Hollis Heaton",
         "instructors": [
           "King, Hollis Heaton"
         ],
         "start_time": "13:00",
         "end_time": "14:00"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

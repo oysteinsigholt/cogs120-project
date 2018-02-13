@@ -3,38 +3,8 @@
   "name": "POVE Crse:Adv Comm/Prim Care",
   "department": "MED",
   "id": "472",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928494",
-      "type": "LE",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Bell, Kristin Melissa",
-      "instructors": [
-        "Bell, Kristin Melissa"
-      ]
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Bell, Kristin Melissa",
-      "instructors": [
-        "Bell, Kristin Melissa"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -45,7 +15,6 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Bell, Kristin Melissa",
       "instructors": [
         "Bell, Kristin Melissa"
       ]
@@ -59,19 +28,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Bell, Kristin Melissa",
       "instructors": [
         "Bell, Kristin Melissa"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

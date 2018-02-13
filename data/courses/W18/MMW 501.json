@@ -3,24 +3,8 @@
   "name": "Teaching/Making/Modern World",
   "department": "MMW",
   "id": "501",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921628",
-      "type": "LE",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Herbst, Matthew",
-      "instructors": [
-        "Herbst, Matthew"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Herbst, Matthew",
       "instructors": [
         "Herbst, Matthew"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

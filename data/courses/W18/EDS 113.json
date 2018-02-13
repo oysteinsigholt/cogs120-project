@@ -3,33 +3,12 @@
   "name": "Chicanas/os & Latinos in Edu",
   "department": "EDS",
   "id": "113",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922466",
-      "type": "LE",
-      "section": "A00",
-      "days": "Th",
-      "time": "5:00p-7:50p",
-      "building": "PCYNH",
-      "room": "120",
-      "instructor": "Contreras, Frances E.",
-      "instructors": [
-        "Contreras, Frances E."
-      ],
-      "start_time": "17:00",
-      "end_time": "19:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "a65ed083e1765edf29bbb89aef010967c956606585698da578dec56490b5856a": {
         "sectxt": true,
         "sectionID": "922466",
         "type": "LE",
@@ -38,16 +17,15 @@
         "time": "5:00p-7:50p",
         "building": "PCYNH",
         "room": "120",
-        "instructor": "Contreras, Frances E.",
         "instructors": [
           "Contreras, Frances E."
         ],
         "start_time": "17:00",
         "end_time": "19:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

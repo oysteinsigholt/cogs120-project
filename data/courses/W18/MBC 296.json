@@ -3,24 +3,8 @@
   "name": "Capstone - Independent Study",
   "department": "MBC",
   "id": "296",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930594",
-      "type": "IN",
-      "section": "001",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Andersson, Andreas Jerry",
-      "instructors": [
-        "Andersson, Andreas Jerry"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Andersson, Andreas Jerry",
       "instructors": [
         "Andersson, Andreas Jerry"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

@@ -3,33 +3,12 @@
   "name": "Core Sem/Anthro Archaeology",
   "department": "ANTH",
   "id": "280D",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923538",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "3:30p-6:20p",
-      "building": "SSB",
-      "room": "105",
-      "instructor": "Braswell, Geoffrey E.",
-      "instructors": [
-        "Braswell, Geoffrey E."
-      ],
-      "start_time": "15:30",
-      "end_time": "18:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "b38e0c34204cfda9df47c2761ce9b1d40de0c08791e1706a184693dbc40b0142": {
         "sectxt": true,
         "sectionID": "923538",
         "type": "SE",
@@ -38,16 +17,15 @@
         "time": "3:30p-6:20p",
         "building": "SSB",
         "room": "105",
-        "instructor": "Braswell, Geoffrey E.",
         "instructors": [
           "Braswell, Geoffrey E."
         ],
         "start_time": "15:30",
         "end_time": "18:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

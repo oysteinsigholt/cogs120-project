@@ -3,204 +3,79 @@
   "name": "Intro/Differential Equations",
   "department": "MATH",
   "id": "20D",
-  "timeslots": [
-    {
-      "sectxt": true,
+  "notes": [],
+  "events_single": {
+    "e024bed4fc8a49689ead56b80b84a9e914c72b2835b4d61d353d97d9535f8166": {
+      "sectxt": false,
       "sectionID": "",
-      "type": "LE",
-      "section": "D00",
-      "days": "MWF",
-      "time": "5:00p-5:50p",
+      "type": "RE",
+      "section": "01/31/2018",
+      "days": "W",
+      "time": "8:00p-9:50p",
       "building": "CENTR",
-      "room": "115",
-      "instructor": "Kolesnikov, Pavel",
-      "instructors": [
-        "Kolesnikov, Pavel"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927053",
-      "type": "DI",
-      "section": "D01",
-      "days": "Tu",
-      "time": "4:00p-4:50p",
-      "building": "WLH",
-      "room": "2209",
-      "instructor": "Kolesnikov, Pavel",
-      "instructors": [
-        "Kolesnikov, Pavel"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927054",
-      "type": "DI",
-      "section": "D02",
-      "days": "Tu",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2209",
-      "instructor": "Kolesnikov, Pavel",
-      "instructors": [
-        "Kolesnikov, Pavel"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927055",
-      "type": "DI",
-      "section": "D03",
-      "days": "Tu",
-      "time": "6:00p-6:50p",
-      "building": "WLH",
-      "room": "2209",
-      "instructor": "Kolesnikov, Pavel",
-      "instructors": [
-        "Kolesnikov, Pavel"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927056",
-      "type": "DI",
-      "section": "D04",
-      "days": "Tu",
-      "time": "7:00p-7:50p",
-      "building": "WLH",
-      "room": "2209",
-      "instructor": "Kolesnikov, Pavel",
-      "instructors": [
-        "Kolesnikov, Pavel"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927057",
-      "type": "DI",
-      "section": "D05",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927058",
-      "type": "DI",
-      "section": "D06",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "D50",
-      "days": "Th",
-      "time": "4:00p-4:50p",
-      "building": "APM",
-      "room": "B349",
-      "instructor": "",
+      "room": "119",
       "instructors": [],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "D51",
-      "days": "Th",
-      "time": "5:00p-5:50p",
-      "building": "APM",
-      "room": "B349",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "D52",
-      "days": "Th",
-      "time": "6:00p-6:50p",
-      "building": "APM",
-      "room": "B349",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "D53",
-      "days": "Th",
-      "time": "7:00p-7:50p",
-      "building": "APM",
-      "room": "B349",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "D54",
-      "days": "Th",
-      "time": "8:00p-8:50p",
-      "building": "APM",
-      "room": "B349",
-      "instructor": "",
-      "instructors": [],
+      "date": "2018-01-31T08:00:00.000Z",
       "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "D55",
-      "days": "Th",
-      "time": "9:00p-9:50p",
-      "building": "APM",
-      "room": "B349",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "21:00",
       "end_time": "21:50"
     },
-    {
+    "cf5d62479fc557baac4afb274e821542a72413e8a1cbb1ec59021715b3370e57": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "03/01/2018",
+      "days": "Th",
+      "time": "8:00p-9:20p",
+      "building": "SOLIS",
+      "room": "104",
+      "instructors": [],
+      "date": "2018-03-01T08:00:00.000Z",
+      "start_time": "20:00",
+      "end_time": "21:20"
+    },
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -209,35 +84,61 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
-  "notes": [],
-  "events_single": [
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1866918a9e827ca2246c3cdc0800ca8cab9d14fcb63d242959828782dc5e03cc": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "PCYNH",
+        "room": "109",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "7b590151cd28db772cb5f38ee83595f178c8f3cb089eb9bf525519f33a482289": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "115",
+        "instructors": [
+          "Ben-Ezra, David El-Chai"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "dbb8392d89a9e45aa0b5d295a7b6ccd009cec34be464d5b4e73a80cae13422a2": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "101",
+        "instructors": [
+          "Petkov, Vladislav V"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "680e187f30307b7760474f585c60734cfcbcf15e983c4dfc26a98da50c7ef1bd": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -246,16 +147,315 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "115",
-        "instructor": "Kolesnikov, Pavel",
         "instructors": [
           "Kolesnikov, Pavel"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "e2391690476bd96fa54563e17d37bd86d5ed9987262bf12f35eadf721d2cc9af": {
+        "sectxt": true,
+        "sectionID": "927009",
+        "type": "DI",
+        "section": "A01",
+        "days": "Tu",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "0fbe76a0e44e83921a82d8aeaa5324290f5ed8d844eaa81fa342ccdc75603aa1": {
+        "sectxt": true,
+        "sectionID": "927010",
+        "type": "DI",
+        "section": "A02",
+        "days": "Tu",
+        "time": "9:00a-9:50a",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "e19cd85286c7e82540879a8bca20f0ff5f728a918207c81b3ac54b83d2536f93": {
+        "sectxt": true,
+        "sectionID": "927011",
+        "type": "DI",
+        "section": "A03",
+        "days": "Tu",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "b41ec60fadc93ac630fa85908b6f56978c38b7215d870ff74ca690ded822f91d": {
+        "sectxt": true,
+        "sectionID": "927012",
+        "type": "DI",
+        "section": "A04",
+        "days": "Tu",
+        "time": "11:00a-11:50a",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "bc223695017b1ae15887c4f63cf3e6f79f415ecb42509608e615da1f6725946c": {
+        "sectxt": true,
+        "sectionID": "927013",
+        "type": "DI",
+        "section": "A05",
+        "days": "Tu",
+        "time": "12:00p-12:50p",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "dda9040eade4818dde1c9696ca15fbdd0eb1ad3c13e5acd8aac75d33f89a7544": {
+        "sectxt": true,
+        "sectionID": "927014",
+        "type": "DI",
+        "section": "A06",
+        "days": "Tu",
+        "time": "1:00p-1:50p",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "f347d91e5bb1fa81f71bf0e52e6a7f143b76e2cb3d6104464c7cd481625995a3": {
+        "sectxt": true,
+        "sectionID": "927022",
+        "type": "DI",
+        "section": "B01",
+        "days": "Tu",
+        "time": "2:00p-2:50p",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Ben-Ezra, David El-Chai"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "b99c1fd0692c12b1cf5d18ae8961edb847f657b2c76a9fd091c43808b3fb38a4": {
+        "sectxt": true,
+        "sectionID": "927023",
+        "type": "DI",
+        "section": "B02",
+        "days": "Tu",
+        "time": "3:00p-3:50p",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Ben-Ezra, David El-Chai"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "6e4c0b3bc7172bdcd59ba1dc14288fa02495bf9b63173610a7ff21f22a0f0191": {
+        "sectxt": true,
+        "sectionID": "927024",
+        "type": "DI",
+        "section": "B03",
+        "days": "Tu",
+        "time": "4:00p-4:50p",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Ben-Ezra, David El-Chai"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "b3376cf7bba10f129d57400c90c2b7d2972794877748513e3f2b6054c92f6f12": {
+        "sectxt": true,
+        "sectionID": "927025",
+        "type": "DI",
+        "section": "B04",
+        "days": "Tu",
+        "time": "5:00p-5:50p",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Ben-Ezra, David El-Chai"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "b55438bf49466fcf02ca2cc9864ceb2c3e4964841ecdd44fb2929dbbb0b90c8a": {
+        "sectxt": true,
+        "sectionID": "927026",
+        "type": "DI",
+        "section": "B05",
+        "days": "Tu",
+        "time": "6:00p-6:50p",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Ben-Ezra, David El-Chai"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "b5f15bca43b839898a4863b1230a523c575105e8f946413ce09fa6babb03fba4": {
+        "sectxt": true,
+        "sectionID": "927027",
+        "type": "DI",
+        "section": "B06",
+        "days": "Tu",
+        "time": "7:00p-7:50p",
+        "building": "WLH",
+        "room": "2208",
+        "instructors": [
+          "Ben-Ezra, David El-Chai"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "eadd4bff514d70bbe8284b1327f2d9ed5a528af4b97577534bb2fe45772e3e14": {
+        "sectxt": true,
+        "sectionID": "927035",
+        "type": "DI",
+        "section": "C01",
+        "days": "Tu",
+        "time": "8:00a-8:50a",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Petkov, Vladislav V"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "48cec931e4016f060274d73910e2f355916c8ee763b20fa28eea5d12a2702605": {
+        "sectxt": true,
+        "sectionID": "927036",
+        "type": "DI",
+        "section": "C02",
+        "days": "Tu",
+        "time": "9:00a-9:50a",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Petkov, Vladislav V"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "be3699690c2696858175c8913a474fbc75bdf2bab6296ac616d16429acf09142": {
+        "sectxt": true,
+        "sectionID": "927037",
+        "type": "DI",
+        "section": "C03",
+        "days": "Tu",
+        "time": "10:00a-10:50a",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Petkov, Vladislav V"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "8abebc8d5767e26d3a7a9001c41b3c9a3dcb019be38d16fc97fce42bfd569941": {
+        "sectxt": true,
+        "sectionID": "927038",
+        "type": "DI",
+        "section": "C04",
+        "days": "Tu",
+        "time": "11:00a-11:50a",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Petkov, Vladislav V"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "2969576106edf40cf3fac72ea0d453bd5f72e9ee73cb86c39a10d870a8267365": {
+        "sectxt": true,
+        "sectionID": "927039",
+        "type": "DI",
+        "section": "C05",
+        "days": "Tu",
+        "time": "12:00p-12:50p",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Petkov, Vladislav V"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "60f00ddd64f390212a1f7ef3a344759805cf45ba19492dc7fe5cb5d92f2f3436": {
+        "sectxt": true,
+        "sectionID": "927040",
+        "type": "DI",
+        "section": "C06",
+        "days": "Tu",
+        "time": "1:00p-1:50p",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Petkov, Vladislav V"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "88301e1a4b569fe3e0adf5de09011c898b156580b0bfce69048799a788997e89": {
+        "sectxt": true,
+        "sectionID": "927041",
+        "type": "DI",
+        "section": "C07",
+        "days": "Tu",
+        "time": "2:00p-2:50p",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Petkov, Vladislav V"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "c5a42f5ea536c595184963bbadaa3f702c2ba21d45ea6d7cf17373f32dc3232f": {
+        "sectxt": true,
+        "sectionID": "927042",
+        "type": "DI",
+        "section": "C08",
+        "days": "Tu",
+        "time": "3:00p-3:50p",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Petkov, Vladislav V"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "42fea5ebff0ed3faf53219d6008be4fe57a36345a6bee335b0f68c51f1531414": {
         "sectxt": true,
         "sectionID": "927053",
         "type": "DI",
@@ -264,14 +464,13 @@
         "time": "4:00p-4:50p",
         "building": "WLH",
         "room": "2209",
-        "instructor": "Kolesnikov, Pavel",
         "instructors": [
           "Kolesnikov, Pavel"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "0277cc827338cc2e624953b9a9ee9b6f4c6e0bcff3de67df2da00139da42818b": {
         "sectxt": true,
         "sectionID": "927054",
         "type": "DI",
@@ -280,14 +479,13 @@
         "time": "5:00p-5:50p",
         "building": "WLH",
         "room": "2209",
-        "instructor": "Kolesnikov, Pavel",
         "instructors": [
           "Kolesnikov, Pavel"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "80a0314414b18b4951db0db7fdc38a5e315c93911d223a5505bab4fee0792081": {
         "sectxt": true,
         "sectionID": "927055",
         "type": "DI",
@@ -296,14 +494,13 @@
         "time": "6:00p-6:50p",
         "building": "WLH",
         "room": "2209",
-        "instructor": "Kolesnikov, Pavel",
         "instructors": [
           "Kolesnikov, Pavel"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "43fb228a781b41216ea5b3778138891300464980f8a458bf71cad7924fa79c9d": {
         "sectxt": true,
         "sectionID": "927056",
         "type": "DI",
@@ -312,16 +509,60 @@
         "time": "7:00p-7:50p",
         "building": "WLH",
         "room": "2209",
-        "instructor": "Kolesnikov, Pavel",
         "instructors": [
           "Kolesnikov, Pavel"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "664fb1192c899ad420c384f1035679fd9aa443bbe17868a3444009b2ce9ed2d0": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "PCYNH",
+        "room": "109",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "346e9d97d27f467115ca4e2e6de0756325a93bb7f40c6a9873a7fede3f635bf6": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "115",
+        "instructors": [
+          "Ben-Ezra, David El-Chai"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "f707fa2b750b127a81335d1235d5c8de4a44d2ca7980d19f0b23e87dfb5873b9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "101",
+        "instructors": [
+          "Petkov, Vladislav V"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "370a26bfba08da6939f61362aaaefcd47ebfe7dfcddb4f6f9be2c7c9edad1c01": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -330,16 +571,299 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "115",
-        "instructor": "Kolesnikov, Pavel",
         "instructors": [
           "Kolesnikov, Pavel"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "2d8ecb1c17ea21c74707150461339c29cda2666179ab5e8219877d60d28d994c": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A50",
+        "days": "Th",
+        "time": "8:00a-8:50a",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "a495c39dcdd8891680e668a971102209b2d6ef330452b5f3175c48b5971909ab": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A51",
+        "days": "Th",
+        "time": "9:00a-9:50a",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "58dcb35cfb1cc05e450aa0eec006f36e2da2aa7425b99ccce94a5c3e6f30cf74": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A52",
+        "days": "Th",
+        "time": "10:00a-10:50a",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "6db3dbb453eb4b8eda65a30a51c4199d0d209fce93bd8405eb638f548ff5cf3a": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A53",
+        "days": "Th",
+        "time": "11:00a-11:50a",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "d749a75f90b7832a7946a2ab91b0888cd2448fd55d20d1bdbe8dec2b43e61d3e": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A54",
+        "days": "Th",
+        "time": "12:00p-12:50p",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "171771dceb3561ab23827ca51ca359b6839cb2510da07d9bca460dc9a6f8cbb5": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "A55",
+        "days": "Th",
+        "time": "1:00p-1:50p",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "03d93321fbfbb4203e039685624fa5adc225cfb8db579301c9bd2cb16f86cdea": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "B50",
+        "days": "Th",
+        "time": "2:00p-2:50p",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Ben-Ezra, David El-Chai"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "99266329b85f2d92fe54076f1f933d5a30ee040a5dca4b90b3dd48599aee3713": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "B51",
+        "days": "Th",
+        "time": "3:00p-3:50p",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Ben-Ezra, David El-Chai"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "4f79fb4bbb5cb0c50398560977295477debcb2962564914c547faca4e6ea4d56": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "B52",
+        "days": "Th",
+        "time": "4:00p-4:50p",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Ben-Ezra, David El-Chai"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "b43fb7fb3853c5c80c12cca32b67f8885df7f477ba54f0b1192019c99abf697d": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "B53",
+        "days": "Th",
+        "time": "5:00p-5:50p",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Ben-Ezra, David El-Chai"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "f96d72a00d61fe4fc1b2fe8962d5654983c2e857eb019697a45d2a36aed367a4": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "B54",
+        "days": "Th",
+        "time": "6:00p-6:50p",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Ben-Ezra, David El-Chai"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "4c31e39b8e2b78580bded7efe4d02051bea9b034645c77bc13c862e43f142728": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "B55",
+        "days": "Th",
+        "time": "7:00p-7:50p",
+        "building": "APM",
+        "room": "B432",
+        "instructors": [
+          "Ben-Ezra, David El-Chai"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "913318d0908f07220fbd668c74292ffbb47b0a2de6bf6102ae779cdd3118888e": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "C50",
+        "days": "Th",
+        "time": "8:00a-8:50a",
+        "building": "APM",
+        "room": "B349",
+        "instructors": [],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "014644ded7833ce241668609386da59f2427de6e1a26d205b90313fd7172bf63": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "C51",
+        "days": "Th",
+        "time": "9:00a-9:50a",
+        "building": "APM",
+        "room": "B349",
+        "instructors": [],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "12cf9c7691712017eef2a9e40f56e04514a59a1a22b90f5f925387e5698e48d7": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "C52",
+        "days": "Th",
+        "time": "10:00a-10:50a",
+        "building": "APM",
+        "room": "B349",
+        "instructors": [],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "79de76e863e220a77395f4c61cb7d62d6566ec072d7aa27e1f7e98b88ba74ce0": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "C53",
+        "days": "Th",
+        "time": "11:00a-11:50a",
+        "building": "APM",
+        "room": "B349",
+        "instructors": [],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "a04bcde11ee9dd07d360f83fe28a5d749bdb230aa3b1fc66ac78655b944a66a7": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "C54",
+        "days": "Th",
+        "time": "12:00p-12:50p",
+        "building": "APM",
+        "room": "B349",
+        "instructors": [],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "1b975fea00e9546e309efd52264a4348499c76b7be7ace90c0013f6336d122cc": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "C55",
+        "days": "Th",
+        "time": "1:00p-1:50p",
+        "building": "APM",
+        "room": "B349",
+        "instructors": [],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "3bb2fb1c535f0f207504d74e0e5836b96da14fd0dcf01bfd88b395f592692125": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "C56",
+        "days": "Th",
+        "time": "2:00p-2:50p",
+        "building": "APM",
+        "room": "B349",
+        "instructors": [],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "3c15b35369c6d28fff296e169845edd100689afeb6f55ba009dd053d09a45676": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LA",
+        "section": "C57",
+        "days": "Th",
+        "time": "3:00p-3:50p",
+        "building": "APM",
+        "room": "B349",
+        "instructors": [],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "b06f1495bb3aa3f6102abf05c3a81c1fa63972cbf035a489415c16850b6a91cc": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -348,12 +872,11 @@
         "time": "4:00p-4:50p",
         "building": "APM",
         "room": "B349",
-        "instructor": "",
         "instructors": [],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "5518defa632673d8bf4ae37f6e700c0d16993d30ac4ec4dd898feb338f5e754c": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -362,12 +885,11 @@
         "time": "5:00p-5:50p",
         "building": "APM",
         "room": "B349",
-        "instructor": "",
         "instructors": [],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "27f447d89ddbe0a24ba2f4c26039e61b2ea4c6e5546ec864f6ccbf6f398a51ee": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -376,12 +898,11 @@
         "time": "6:00p-6:50p",
         "building": "APM",
         "room": "B349",
-        "instructor": "",
         "instructors": [],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "df976c0d4dd94f6bd1a57313fdf146c2026efcc5097b6712844aff4fd5426b7a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -390,12 +911,11 @@
         "time": "7:00p-7:50p",
         "building": "APM",
         "room": "B349",
-        "instructor": "",
         "instructors": [],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "20f08cdd581e1ca913e341799917e771feb10373bd3dd658c27c0be13cc66f5d": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -404,12 +924,11 @@
         "time": "8:00p-8:50p",
         "building": "APM",
         "room": "B349",
-        "instructor": "",
         "instructors": [],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "5af2ece3fc3194c07b203a18bdec43160bf004c9f9acb8de19866a05c8c5ba67": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -418,14 +937,58 @@
         "time": "9:00p-9:50p",
         "building": "APM",
         "room": "B349",
-        "instructor": "",
         "instructors": [],
         "start_time": "21:00",
         "end_time": "21:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "e0c71401fe619db626c079241f95ffbc9af299dc6dba6b446063c58d72b82533": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "PCYNH",
+        "room": "109",
+        "instructors": [
+          "Snellman Jr., Robert Allen"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "db676cfa4db9f005bd4fc295e9df4adca15ad5bf78ff6727da09101f2f711219": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "115",
+        "instructors": [
+          "Ben-Ezra, David El-Chai"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "d8c9f5536f9009792fee030b0234aa21e92d8cec0a8c53042d1b32c7a05c0d89": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "101",
+        "instructors": [
+          "Petkov, Vladislav V"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "97483414189b6921b5d6c4c0a00e0d4a481266cc50154b8be8de76dfe83a2637": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -434,15 +997,18 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "115",
-        "instructor": "Kolesnikov, Pavel",
         "instructors": [
           "Kolesnikov, Pavel"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
 }

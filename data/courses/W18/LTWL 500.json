@@ -3,27 +3,102 @@
   "name": "Apprentice Teaching/Literature",
   "department": "LTWL",
   "id": "500",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924392",
-      "type": "DI",
-      "section": "I00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Pita, Beatrice M",
-      "instructors": [
-        "Pita, Beatrice M"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "924385",
+      "type": "DI",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Johnson, Sara E."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924386",
+      "type": "DI",
+      "section": "C00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Sanchez, Rosaura"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924387",
+      "type": "DI",
+      "section": "D00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Doller, Ben"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924388",
+      "type": "DI",
+      "section": "E00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Forbes, Camille"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924389",
+      "type": "DI",
+      "section": "F00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Ploye, Catherine"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924390",
+      "type": "DI",
+      "section": "G00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Lee, Jeyseon"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924391",
+      "type": "DI",
+      "section": "H00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Wells, Patricia Rebecca"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "924392",
       "type": "DI",
       "section": "I00",
@@ -31,19 +106,24 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Pita, Beatrice M",
       "instructors": [
         "Pita, Beatrice M"
       ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "924384",
+      "type": "DI",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Nicolazzo, Sarah E."
+      ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

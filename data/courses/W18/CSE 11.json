@@ -3,66 +3,167 @@
   "name": "Intr/Computer Sci&Obj-Ori:Java",
   "department": "CSE",
   "id": "11",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927427",
-      "type": "LE",
-      "section": "C00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
+  "notes": [],
+  "events_single": {
+    "1f41d219eea3fb14a870fb9f3a13485fa4ab97edffa53bebd2d2ffbcadf4db61": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/17/2018",
+      "days": "S",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-17T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  },
+  "events_unknown": [
     {
       "sectxt": true,
       "sectionID": "",
-      "type": "DI",
-      "section": "C01",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
+      "type": "LA",
+      "section": "A50",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
       "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
+        "Nguyen, Hau Cao"
+      ]
     },
     {
       "sectxt": true,
       "sectionID": "",
       "type": "LA",
-      "section": "C50",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
+      "section": "B50",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
       "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
+        "Nguyen, Hau Cao"
+      ]
     }
   ],
-  "notes": [],
-  "events_single": [],
-  "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "M": {
+      "cb15f6752b834aea5abd91edb2d5ca85fda8531875f7a320c92d2abbfe2e77a6": {
+        "sectxt": true,
+        "sectionID": "927421",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "6:30p-7:50p",
+        "building": "PETER",
+        "room": "108",
+        "instructors": [
+          "Nguyen, Hau Cao"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      },
+      "848dd9864e91324d4cc4a9ce1b170df5ac664e6c8ab7a90bcc43257489e9e136": {
+        "sectxt": true,
+        "sectionID": "927424",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "214",
+        "instructors": [
+          "Nguyen, Hau Cao"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    },
+    "W": {
+      "8ac8c46e9a501f3282395d3c2cdc7faae7c90f8c8fe90a89e6fc3fa46a4baa4c": {
+        "sectxt": true,
+        "sectionID": "927421",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "6:30p-7:50p",
+        "building": "PETER",
+        "room": "108",
+        "instructors": [
+          "Nguyen, Hau Cao"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      },
+      "c34c23ad15a383e0b0dc825625f194b65e986d87ba715740ee279f2f0114ff90": {
+        "sectxt": true,
+        "sectionID": "927424",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "214",
+        "instructors": [
+          "Nguyen, Hau Cao"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    },
+    "F": {
+      "1b67b56486601a01b9aae86ed147030b42afeb8f2a4bca7c4951267a9715e5ae": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "A01",
+        "days": "F",
+        "time": "4:00p-4:50p",
+        "building": "GH",
+        "room": "242",
+        "instructors": [
+          "Nguyen, Hau Cao"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "b17ae590ef5a36f5878abc3bcfd3e8a19013ffc15ebe2f89fd9f4a34e2079890": {
+        "sectxt": true,
+        "sectionID": "927424",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "214",
+        "instructors": [
+          "Nguyen, Hau Cao"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "c14d85bb5abac3f6529e40759f29aa3737b03a7a636301cdbdfa13b0ba59a32f": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "DI",
+        "section": "B01",
+        "days": "F",
+        "time": "5:00p-5:50p",
+        "building": "CENTR",
+        "room": "105",
+        "instructors": [
+          "Nguyen, Hau Cao"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

@@ -3,169 +3,9 @@
   "name": "Introduction to Probability",
   "department": "MATH",
   "id": "180A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "4:00p-4:50p",
-      "building": "PETER",
-      "room": "108",
-      "instructor": "Aghajani, Mohammadreza",
-      "instructors": [
-        "Aghajani, Mohammadreza"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927215",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "APM",
-      "room": "7421",
-      "instructor": "Aghajani, Mohammadreza",
-      "instructors": [
-        "Aghajani, Mohammadreza"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927216",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "7:00p-7:50p",
-      "building": "APM",
-      "room": "7421",
-      "instructor": "Aghajani, Mohammadreza",
-      "instructors": [
-        "Aghajani, Mohammadreza"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927217",
-      "type": "DI",
-      "section": "A03",
-      "days": "W",
-      "time": "8:00p-8:50p",
-      "building": "APM",
-      "room": "7421",
-      "instructor": "Aghajani, Mohammadreza",
-      "instructors": [
-        "Aghajani, Mohammadreza"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927218",
-      "type": "DI",
-      "section": "A04",
-      "days": "W",
-      "time": "6:00p-6:50p",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Aghajani, Mohammadreza",
-      "instructors": [
-        "Aghajani, Mohammadreza"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927219",
-      "type": "DI",
-      "section": "A05",
-      "days": "W",
-      "time": "7:00p-7:50p",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Aghajani, Mohammadreza",
-      "instructors": [
-        "Aghajani, Mohammadreza"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927220",
-      "type": "DI",
-      "section": "A06",
-      "days": "W",
-      "time": "8:00p-8:50p",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Aghajani, Mohammadreza",
-      "instructors": [
-        "Aghajani, Mohammadreza"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "932643",
-      "type": "DI",
-      "section": "A07",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "APM",
-      "room": "7421",
-      "instructor": "Aghajani, Mohammadreza",
-      "instructors": [
-        "Aghajani, Mohammadreza"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/01/2018",
-      "days": "Th",
-      "time": "5:00p-6:20p",
-      "building": "YORK",
-      "room": "2622",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-01T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "1a7cfa5378bf07208ee1dab1fd8485e502cb461d8ea79a86c99ccc71dbe2e30c": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -174,13 +14,12 @@
       "time": "5:00p-6:20p",
       "building": "YORK",
       "room": "2622",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-01T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "18:20"
     },
-    {
+    "b9b4ec5af540606b238988bee0286fc3a4cc4d540b7785beb08dccae4a0227c9": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -189,17 +28,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "827d8e61b0be564cefe3242e8ded91bf3b54cd405249ba4e71bd8ae53b45dd4d": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -208,17 +46,15 @@
         "time": "4:00p-4:50p",
         "building": "PETER",
         "room": "108",
-        "instructor": "Aghajani, Mohammadreza",
         "instructors": [
           "Aghajani, Mohammadreza"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "77e4ef4f5c961a7ec147a3ff6cc6346072c465cf4d729938bdc40fc2c3b04f3d": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -227,14 +63,13 @@
         "time": "4:00p-4:50p",
         "building": "PETER",
         "room": "108",
-        "instructor": "Aghajani, Mohammadreza",
         "instructors": [
           "Aghajani, Mohammadreza"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "abfd14c26df66c30647b366c6a3f21d5256e2e61b97ec757c8351c4a069bf695": {
         "sectxt": true,
         "sectionID": "927215",
         "type": "DI",
@@ -243,14 +78,13 @@
         "time": "6:00p-6:50p",
         "building": "APM",
         "room": "7421",
-        "instructor": "Aghajani, Mohammadreza",
         "instructors": [
           "Aghajani, Mohammadreza"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "11789a5f0a0cad2b5d74828d7bb7cc16441093e0b09b79f7237863022eac3b99": {
         "sectxt": true,
         "sectionID": "927216",
         "type": "DI",
@@ -259,14 +93,13 @@
         "time": "7:00p-7:50p",
         "building": "APM",
         "room": "7421",
-        "instructor": "Aghajani, Mohammadreza",
         "instructors": [
           "Aghajani, Mohammadreza"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "9746507c6b21477cff1f2c6c38a8ba60ce52bd25c983a264aee9414db79d16e7": {
         "sectxt": true,
         "sectionID": "927217",
         "type": "DI",
@@ -275,14 +108,13 @@
         "time": "8:00p-8:50p",
         "building": "APM",
         "room": "7421",
-        "instructor": "Aghajani, Mohammadreza",
         "instructors": [
           "Aghajani, Mohammadreza"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "df7e928a968cb5eba0bf44572a53bf53f4cfc7fdb1bdbed2304ebf318996a070": {
         "sectxt": true,
         "sectionID": "927218",
         "type": "DI",
@@ -291,14 +123,13 @@
         "time": "6:00p-6:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Aghajani, Mohammadreza",
         "instructors": [
           "Aghajani, Mohammadreza"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "5e88f8e8b134fef3c1fdaf2348c010c5e1b997b8f551167ef45977dbbc3ad04e": {
         "sectxt": true,
         "sectionID": "927219",
         "type": "DI",
@@ -307,14 +138,13 @@
         "time": "7:00p-7:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Aghajani, Mohammadreza",
         "instructors": [
           "Aghajani, Mohammadreza"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "752710eb64ee2fd647ad5d6c61b85fd9aefab59bb8b1200d42abb484975754de": {
         "sectxt": true,
         "sectionID": "927220",
         "type": "DI",
@@ -323,14 +153,13 @@
         "time": "8:00p-8:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Aghajani, Mohammadreza",
         "instructors": [
           "Aghajani, Mohammadreza"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "a45a1d80e50cb5f5955459497d1e5d49baded9ceb4072c380dc8b26ecef67667": {
         "sectxt": true,
         "sectionID": "932643",
         "type": "DI",
@@ -339,17 +168,15 @@
         "time": "5:00p-5:50p",
         "building": "APM",
         "room": "7421",
-        "instructor": "Aghajani, Mohammadreza",
         "instructors": [
           "Aghajani, Mohammadreza"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "8d2cf69a2f10e29d11598efd4f3a13b2565737a4fa81d866a0dc0a402488cda1": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -358,15 +185,15 @@
         "time": "4:00p-4:50p",
         "building": "PETER",
         "room": "108",
-        "instructor": "Aghajani, Mohammadreza",
         "instructors": [
           "Aghajani, Mohammadreza"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

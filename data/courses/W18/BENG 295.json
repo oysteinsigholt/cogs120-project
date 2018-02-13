@@ -3,24 +3,8 @@
   "name": "BENG Design Proj & Industr Trn",
   "department": "BENG",
   "id": "295",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923395",
-      "type": "IN",
-      "section": "001",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Watson, John Thomas",
-      "instructors": [
-        "Watson, John Thomas"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Watson, John Thomas",
       "instructors": [
         "Watson, John Thomas"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

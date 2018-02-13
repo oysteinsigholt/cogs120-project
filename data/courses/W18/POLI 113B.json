@@ -3,30 +3,12 @@
   "name": "Chinese & Japanese Pol Thought",
   "department": "POLI",
   "id": "113B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925305",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "5:00p-7:50p",
-      "building": "WLH",
-      "room": "2207",
-      "instructor": "Hoston, Germaine",
-      "instructors": [
-        "Hoston, Germaine"
-      ],
-      "start_time": "17:00",
-      "end_time": "19:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "b7873f24d0f99e95151f1d5369fc4766d3756a1989bb222ff47d1c9184f816fe": {
         "sectxt": true,
         "sectionID": "925305",
         "type": "LE",
@@ -35,19 +17,15 @@
         "time": "5:00p-7:50p",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Hoston, Germaine",
         "instructors": [
           "Hoston, Germaine"
         ],
         "start_time": "17:00",
         "end_time": "19:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

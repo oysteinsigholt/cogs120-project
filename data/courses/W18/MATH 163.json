@@ -3,106 +3,9 @@
   "name": "History of Mathematics",
   "department": "MATH",
   "id": "163",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "8:00a-8:50a",
-      "building": "CENTR",
-      "room": "105",
-      "instructor": "Bowers, Adam R.",
-      "instructors": [
-        "Bowers, Adam R."
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927189",
-      "type": "DI",
-      "section": "A01",
-      "days": "Th",
-      "time": "6:00p-6:50p",
-      "building": "APM",
-      "room": "6402",
-      "instructor": "Bowers, Adam R.",
-      "instructors": [
-        "Bowers, Adam R."
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927190",
-      "type": "DI",
-      "section": "A02",
-      "days": "Th",
-      "time": "7:00p-7:50p",
-      "building": "APM",
-      "room": "6402",
-      "instructor": "Bowers, Adam R.",
-      "instructors": [
-        "Bowers, Adam R."
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927191",
-      "type": "DI",
-      "section": "A03",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927192",
-      "type": "DI",
-      "section": "A04",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "99084e85dcbf5c5064e8677480f27cc1eb8ff5538061a54d6a1f44628193757c": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -111,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "4ec817ccdc88e3e0dc29eddfa2b87654757697262afdf15326e4d0d4d98658ca": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -130,17 +32,15 @@
         "time": "8:00a-8:50a",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Bowers, Adam R.",
         "instructors": [
           "Bowers, Adam R."
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "970c4cf3c48a9d2f246a192e6758c8f9b57a8863dca3783380839aec16d4f52b": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -149,16 +49,15 @@
         "time": "8:00a-8:50a",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Bowers, Adam R.",
         "instructors": [
           "Bowers, Adam R."
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "563a3797deda72624d000bbb312141583ef02c0d27005a0c973b02413e56a290": {
         "sectxt": true,
         "sectionID": "927189",
         "type": "DI",
@@ -167,14 +66,13 @@
         "time": "6:00p-6:50p",
         "building": "APM",
         "room": "6402",
-        "instructor": "Bowers, Adam R.",
         "instructors": [
           "Bowers, Adam R."
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "9e192a56db55adb67298aedde1b5c2cb96ce465463b9a353d28a7feaee2a9d46": {
         "sectxt": true,
         "sectionID": "927190",
         "type": "DI",
@@ -183,16 +81,15 @@
         "time": "7:00p-7:50p",
         "building": "APM",
         "room": "6402",
-        "instructor": "Bowers, Adam R.",
         "instructors": [
           "Bowers, Adam R."
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "0fa53a4e71d75b330d5dce8797d8f3400a4bb91d601337836c51d9290c9239bc": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -201,15 +98,15 @@
         "time": "8:00a-8:50a",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Bowers, Adam R.",
         "instructors": [
           "Bowers, Adam R."
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

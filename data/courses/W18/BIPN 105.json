@@ -3,74 +3,9 @@
   "name": "Animal Physiology Lab",
   "department": "BIPN",
   "id": "105",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "12:00p-12:50p",
-      "building": "CSB",
-      "room": "004",
-      "instructor": "Reyes Gonzalez, Catalina",
-      "instructors": [
-        "Reyes Gonzalez, Catalina"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926196",
-      "type": "LA",
-      "section": "B01",
-      "days": "TuTh",
-      "time": "9:00a-1:50p",
-      "building": "YORK",
-      "room": "2410",
-      "instructor": "Reyes Gonzalez, Catalina",
-      "instructors": [
-        "Reyes Gonzalez, Catalina"
-      ],
-      "start_time": "9:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926197",
-      "type": "LA",
-      "section": "B02",
-      "days": "TuTh",
-      "time": "9:00a-1:50p",
-      "building": "YORK",
-      "room": "2432",
-      "instructor": "Reyes Gonzalez, Catalina",
-      "instructors": [
-        "Reyes Gonzalez, Catalina"
-      ],
-      "start_time": "9:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -79,17 +14,61 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "0bc129e6e61dc97d6817c5924c61d5d7c996b7c7ee1c4510193b45b64c905c72": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "109",
+        "instructors": [
+          "Armour, Jon Christopher"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "4432c99622256a059882f430bc61b1077d855daeb0ba56b676722ed89d7be75c": {
+        "sectxt": true,
+        "sectionID": "926191",
+        "type": "LA",
+        "section": "A01",
+        "days": "MW",
+        "time": "1:00p-5:50p",
+        "building": "YORK",
+        "room": "2410",
+        "instructors": [
+          "Armour, Jon Christopher"
+        ],
+        "start_time": "13:00",
+        "end_time": "17:50"
+      },
+      "2cf6b4f662a1d9cc251ad8f0341b3c4257f3f23f086ccf7554b8b3562ce0b486": {
+        "sectxt": true,
+        "sectionID": "926192",
+        "type": "LA",
+        "section": "A02",
+        "days": "MW",
+        "time": "1:00p-5:50p",
+        "building": "YORK",
+        "room": "2432",
+        "instructors": [
+          "Armour, Jon Christopher"
+        ],
+        "start_time": "13:00",
+        "end_time": "17:50"
+      },
+      "74565c9c0c61347b8ce87f2733cf6296cab8cdd2ce1e890300a60cf208986781": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -98,16 +77,45 @@
         "time": "12:00p-12:50p",
         "building": "CSB",
         "room": "004",
-        "instructor": "Reyes Gonzalez, Catalina",
         "instructors": [
           "Reyes Gonzalez, Catalina"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "9eb6f0ae66a067b3ba6a7263ebc4a5c6129b19310793332edc52d14f4a98bcf0": {
+        "sectxt": true,
+        "sectionID": "926193",
+        "type": "LA",
+        "section": "A03",
+        "days": "TuTh",
+        "time": "3:00p-7:50p",
+        "building": "YORK",
+        "room": "2410",
+        "instructors": [
+          "Armour, Jon Christopher"
+        ],
+        "start_time": "15:00",
+        "end_time": "19:50"
+      },
+      "c59026bf8a1529f232bc3fa0da5bdf5f46d5c9a9fb25a88970a43d0618bbd364": {
+        "sectxt": true,
+        "sectionID": "926194",
+        "type": "LA",
+        "section": "A04",
+        "days": "TuTh",
+        "time": "3:00p-7:50p",
+        "building": "YORK",
+        "room": "2432",
+        "instructors": [
+          "Armour, Jon Christopher"
+        ],
+        "start_time": "15:00",
+        "end_time": "19:50"
+      },
+      "5c3425df2b8d02443acff724a03d27824e3290e05449636f677e0dd7504410b7": {
         "sectxt": true,
         "sectionID": "926196",
         "type": "LA",
@@ -116,14 +124,13 @@
         "time": "9:00a-1:50p",
         "building": "YORK",
         "room": "2410",
-        "instructor": "Reyes Gonzalez, Catalina",
         "instructors": [
           "Reyes Gonzalez, Catalina"
         ],
         "start_time": "9:00",
         "end_time": "13:50"
       },
-      {
+      "0e60d5ae030f42d5c0e0fb72da3d7c21740148866119454912f471477a8b4ca3": {
         "sectxt": true,
         "sectionID": "926197",
         "type": "LA",
@@ -132,16 +139,60 @@
         "time": "9:00a-1:50p",
         "building": "YORK",
         "room": "2432",
-        "instructor": "Reyes Gonzalez, Catalina",
         "instructors": [
           "Reyes Gonzalez, Catalina"
         ],
         "start_time": "9:00",
         "end_time": "13:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "a24b1c34899aaa03f2ed258c49f7b8e31d66672638d55b3d5fd4e75b41ce8aa5": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "109",
+        "instructors": [
+          "Armour, Jon Christopher"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "9461464ad24aa4dc7a2378101299de2133c92c64c53dd728ef92b67efbcad1a6": {
+        "sectxt": true,
+        "sectionID": "926191",
+        "type": "LA",
+        "section": "A01",
+        "days": "MW",
+        "time": "1:00p-5:50p",
+        "building": "YORK",
+        "room": "2410",
+        "instructors": [
+          "Armour, Jon Christopher"
+        ],
+        "start_time": "13:00",
+        "end_time": "17:50"
+      },
+      "924b6cfa30bbe49fc547c2fe37d6a4700004929b0ecc54bff1424f6d38b40850": {
+        "sectxt": true,
+        "sectionID": "926192",
+        "type": "LA",
+        "section": "A02",
+        "days": "MW",
+        "time": "1:00p-5:50p",
+        "building": "YORK",
+        "room": "2432",
+        "instructors": [
+          "Armour, Jon Christopher"
+        ],
+        "start_time": "13:00",
+        "end_time": "17:50"
+      },
+      "ebd22827eabb3c1aa0b64c9aa6890f1e205e2a2026f9d1f61d888797ef761329": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -150,16 +201,45 @@
         "time": "12:00p-12:50p",
         "building": "CSB",
         "room": "004",
-        "instructor": "Reyes Gonzalez, Catalina",
         "instructors": [
           "Reyes Gonzalez, Catalina"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "16ca098f1e2a026537126e02976767705aef751357e6eca1715135389f302ee4": {
+        "sectxt": true,
+        "sectionID": "926193",
+        "type": "LA",
+        "section": "A03",
+        "days": "TuTh",
+        "time": "3:00p-7:50p",
+        "building": "YORK",
+        "room": "2410",
+        "instructors": [
+          "Armour, Jon Christopher"
+        ],
+        "start_time": "15:00",
+        "end_time": "19:50"
+      },
+      "2bb6c98ff52f8e7ec9ae728c7529ddd623489ec156823224f06719a1c925e4aa": {
+        "sectxt": true,
+        "sectionID": "926194",
+        "type": "LA",
+        "section": "A04",
+        "days": "TuTh",
+        "time": "3:00p-7:50p",
+        "building": "YORK",
+        "room": "2432",
+        "instructors": [
+          "Armour, Jon Christopher"
+        ],
+        "start_time": "15:00",
+        "end_time": "19:50"
+      },
+      "d47e72b97468d8b65b82cf9f830bfe39e53e3dd9491056dc4a8b1607fe195a17": {
         "sectxt": true,
         "sectionID": "926196",
         "type": "LA",
@@ -168,14 +248,13 @@
         "time": "9:00a-1:50p",
         "building": "YORK",
         "room": "2410",
-        "instructor": "Reyes Gonzalez, Catalina",
         "instructors": [
           "Reyes Gonzalez, Catalina"
         ],
         "start_time": "9:00",
         "end_time": "13:50"
       },
-      {
+      "7ce56fa8e0f71cad6f67dc1aafb1bc8388b853259193f5836d44e404bcb6b1f7": {
         "sectxt": true,
         "sectionID": "926197",
         "type": "LA",
@@ -184,16 +263,30 @@
         "time": "9:00a-1:50p",
         "building": "YORK",
         "room": "2432",
-        "instructor": "Reyes Gonzalez, Catalina",
         "instructors": [
           "Reyes Gonzalez, Catalina"
         ],
         "start_time": "9:00",
         "end_time": "13:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "5be3008a2a51c9e55489e9fa2e0a4a9f5529a85da3cde8b17730cb0e71d532aa": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "109",
+        "instructors": [
+          "Armour, Jon Christopher"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "5b30d671bc5bbbd5286698c208fc12ffd5f70ca2538f842c45069a45ccd43990": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -202,15 +295,16 @@
         "time": "12:00p-12:50p",
         "building": "CSB",
         "room": "004",
-        "instructor": "Reyes Gonzalez, Catalina",
         "instructors": [
           "Reyes Gonzalez, Catalina"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

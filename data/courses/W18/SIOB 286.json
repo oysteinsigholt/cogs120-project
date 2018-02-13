@@ -3,50 +3,44 @@
   "name": "Marine Sci, Econ & Policy",
   "department": "SIOB",
   "id": "286",
-  "timeslots": [
+  "notes": [],
+  "events_single": {},
+  "events_unknown": [
     {
       "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929163",
+      "sectionID": "921960",
       "type": "DI",
-      "section": "B01",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
       "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
+        "Sandin, Stuart Adrian"
+      ]
     }
   ],
-  "notes": [],
-  "events_single": [],
-  "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "W": {
+      "3b6b13be30ec7fa2ab1d187cf3b9ea7c3941665a4f2ff78fd9e0aaeca568c4bd": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "W",
+        "time": "1:30p-4:30p",
+        "building": "HUBBS",
+        "room": "4500",
+        "instructors": [
+          "Sandin, Stuart Adrian"
+        ],
+        "start_time": "13:30",
+        "end_time": "16:30"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

@@ -3,42 +3,9 @@
   "name": "Int Vietnamese/Vietnamese Spkr",
   "department": "LIHL",
   "id": "124W",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921332",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "HSS",
-      "room": "2152",
-      "instructor": "Hill, Kimloan T.V.",
-      "instructors": [
-        "Hill, Kimloan T.V."
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "a9a0690d8aa44e5330a2bfac7d3bac5446f08e533305083abe590cc35b91ee59": {
         "sectxt": true,
         "sectionID": "921332",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "12:30p-1:50p",
         "building": "HSS",
         "room": "2152",
-        "instructor": "Hill, Kimloan T.V.",
         "instructors": [
           "Hill, Kimloan T.V."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "1e6e463c71cf755a32820bb125d24034c9ac9fe3e7463ed2673be04d19cac61d": {
         "sectxt": true,
         "sectionID": "921332",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "12:30p-1:50p",
         "building": "HSS",
         "room": "2152",
-        "instructor": "Hill, Kimloan T.V.",
         "instructors": [
           "Hill, Kimloan T.V."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

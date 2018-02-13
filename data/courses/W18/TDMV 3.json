@@ -3,42 +3,23 @@
   "name": "Beginning Jazz",
   "department": "TDMV",
   "id": "3",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920459",
-      "type": "ST",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "4:00p-5:20p",
-      "building": "DANCE",
-      "room": "1",
-      "instructor": "Rincon, Alicia",
-      "instructors": [
-        "Rincon, Alicia"
-      ],
-      "start_time": "16:00",
-      "end_time": "17:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/24/2018",
-      "days": "S",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-24T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "088fff54c9f97f5ab925630e72c8ecb1e0bf516ff1a88d7ebb53ba35b8b36315": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +28,31 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-24T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "25c7c9df2e8e3deabc1bbc1e3b9d46c98d86e419d0e1f724d54fd63abe664758": {
+        "sectxt": true,
+        "sectionID": "920458",
+        "type": "ST",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:30a-9:50a",
+        "building": "DANCE",
+        "room": "3",
+        "instructors": [
+          "Arcidiacono, Kristin"
+        ],
+        "start_time": "8:30",
+        "end_time": "9:50"
+      },
+      "a34288f6800e3d1275729215547b0ff0ac0713f4a9dd962e40e2f799f81b1c97": {
         "sectxt": true,
         "sectionID": "920459",
         "type": "ST",
@@ -67,17 +61,30 @@
         "time": "4:00p-5:20p",
         "building": "DANCE",
         "room": "1",
-        "instructor": "Rincon, Alicia",
         "instructors": [
           "Rincon, Alicia"
         ],
         "start_time": "16:00",
         "end_time": "17:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f380c7e79407af1893054f15a2b84f01adb53de5d78a6df1b014366c690c36e5": {
+        "sectxt": true,
+        "sectionID": "920458",
+        "type": "ST",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:30a-9:50a",
+        "building": "DANCE",
+        "room": "3",
+        "instructors": [
+          "Arcidiacono, Kristin"
+        ],
+        "start_time": "8:30",
+        "end_time": "9:50"
+      },
+      "c65bbb62ec249e92e9b22238e6de32f4b16f776fee00670468900cf9a8f0c9f0": {
         "sectxt": true,
         "sectionID": "920459",
         "type": "ST",
@@ -86,16 +93,16 @@
         "time": "4:00p-5:20p",
         "building": "DANCE",
         "room": "1",
-        "instructor": "Rincon, Alicia",
         "instructors": [
           "Rincon, Alicia"
         ],
         "start_time": "16:00",
         "end_time": "17:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

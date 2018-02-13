@@ -3,40 +3,8 @@
   "name": "Practicum/Health Behavior II",
   "department": "FPM",
   "id": "280B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "5:00p-9:00p",
-      "building": "BSB",
-      "room": "1214",
-      "instructor": "Norman, Greg",
-      "instructors": [
-        "Norman, Greg"
-      ],
-      "start_time": "17:00",
-      "end_time": "21:00"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "935641",
-      "type": "PR",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Norman, Greg",
-      "instructors": [
-        "Norman, Greg"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -47,16 +15,14 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Norman, Greg",
       "instructors": [
         "Norman, Greg"
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "97f9be2c33d00430bac547e30b5c70aab78f39c2fb0f95ecb5ae161882e94b00": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -65,18 +31,15 @@
         "time": "5:00p-9:00p",
         "building": "BSB",
         "room": "1214",
-        "instructor": "Norman, Greg",
         "instructors": [
           "Norman, Greg"
         ],
         "start_time": "17:00",
         "end_time": "21:00"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

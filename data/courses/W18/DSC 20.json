@@ -3,73 +3,9 @@
   "name": "Intro to Data Structures",
   "department": "DSC",
   "id": "20",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "SOLIS",
-      "room": "104",
-      "instructor": "Langlois, Marina",
-      "instructors": [
-        "Langlois, Marina"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930109",
-      "type": "DI",
-      "section": "B01",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "SOLIS",
-      "room": "104",
-      "instructor": "Langlois, Marina",
-      "instructors": [
-        "Langlois, Marina"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/03/2018",
-      "days": "S",
-      "time": "11:00a-11:50a",
-      "building": "CENTR",
-      "room": "105",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-03T08:00:00.000Z",
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "31eed077fc8e75d3fa8c3feab02530a8ce62bb313e83bf1353b1bd250253e17c": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -78,13 +14,12 @@
       "time": "11:00a-11:50a",
       "building": "CENTR",
       "room": "105",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-03T08:00:00.000Z",
       "start_time": "11:00",
       "end_time": "11:50"
     },
-    {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -93,17 +28,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "7b590151cd28db772cb5f38ee83595f178c8f3cb089eb9bf525519f33a482289": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -112,17 +46,15 @@
         "time": "11:00a-11:50a",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "Langlois, Marina",
         "instructors": [
           "Langlois, Marina"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "346e9d97d27f467115ca4e2e6de0756325a93bb7f40c6a9873a7fede3f635bf6": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -131,14 +63,13 @@
         "time": "11:00a-11:50a",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "Langlois, Marina",
         "instructors": [
           "Langlois, Marina"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "2510fa085715229485d7de2ca9dd7f1074a863536e62cc6735378e2f931f9fcc": {
         "sectxt": true,
         "sectionID": "930109",
         "type": "DI",
@@ -147,17 +78,15 @@
         "time": "5:00p-5:50p",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "Langlois, Marina",
         "instructors": [
           "Langlois, Marina"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "db676cfa4db9f005bd4fc295e9df4adca15ad5bf78ff6727da09101f2f711219": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -166,15 +95,16 @@
         "time": "11:00a-11:50a",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "Langlois, Marina",
         "instructors": [
           "Langlois, Marina"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

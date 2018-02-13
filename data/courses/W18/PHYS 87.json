@@ -3,31 +3,12 @@
   "name": "Freshman Seminar",
   "department": "PHYS",
   "id": "87",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923751",
-      "type": "SE",
-      "section": "C00",
-      "days": "Tu",
-      "time": "4:00p-4:50p",
-      "building": "SERF",
-      "room": "329",
-      "instructor": "Fuller, George Michael",
-      "instructors": [
-        "Fuller, George Michael"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "e8949cb93599558e2eff277a04eb5039beb7e25b4dc6ac41478cbf5af5ff403a": {
         "sectxt": true,
         "sectionID": "923751",
         "type": "SE",
@@ -36,18 +17,51 @@
         "time": "4:00p-4:50p",
         "building": "SERF",
         "room": "329",
-        "instructor": "Fuller, George Michael",
         "instructors": [
           "Fuller, George Michael"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "W": {
+      "c1240badad277e6bea3b8c7076ef84237aab234d9618c691cf060ef36a3192d6": {
+        "sectxt": true,
+        "sectionID": "923749",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "2:00p-2:50p",
+        "building": "MYR-A",
+        "room": "4623",
+        "instructors": [
+          "Grinstein, Benjamin"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    },
+    "Th": {
+      "0547e17221c870f6e831f07d79af8e82b8d3c6f50f078fd3f1a6bdf406f15bed": {
+        "sectxt": true,
+        "sectionID": "923750",
+        "type": "SE",
+        "section": "B00",
+        "days": "Th",
+        "time": "2:00p-2:50p",
+        "building": "SERF",
+        "room": "329",
+        "instructors": [
+          "Murphy, Thomas"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

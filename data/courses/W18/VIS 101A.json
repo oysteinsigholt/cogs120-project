@@ -3,32 +3,12 @@
   "name": "Designing Urban Ecologies",
   "department": "VIS",
   "id": "101A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922764",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "12:00p-2:50p",
-      "building": "MANDE",
-      "room": "B111E",
-      "instructor": "Cruz, Edwin Teddy",
-      "instructors": [
-        "Cruz, Edwin Teddy"
-      ],
-      "start_time": "12:00",
-      "end_time": "14:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "af76e4ba6bccff182fbcd5340a18ca35e97a689cc84000e369d3e20d84c2f82c": {
         "sectxt": true,
         "sectionID": "922764",
         "type": "LE",
@@ -37,17 +17,15 @@
         "time": "12:00p-2:50p",
         "building": "MANDE",
         "room": "B111E",
-        "instructor": "Cruz, Edwin Teddy",
         "instructors": [
           "Cruz, Edwin Teddy"
         ],
         "start_time": "12:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

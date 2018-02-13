@@ -3,31 +3,12 @@
   "name": "Projects in New Music Prfrmnce",
   "department": "MUS",
   "id": "201C",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921942",
-      "type": "LA",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-4:50p",
-      "building": "CPMC",
-      "room": "151",
-      "instructor": "Schick, Steven",
-      "instructors": [
-        "Schick, Steven"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "34e423b015a206d0fe4f8e45ba4ea99c9c361e7fefc3ff0c75653fd9bec94b79": {
         "sectxt": true,
         "sectionID": "921942",
         "type": "LA",
@@ -36,17 +17,15 @@
         "time": "2:00p-4:50p",
         "building": "CPMC",
         "room": "151",
-        "instructor": "Schick, Steven",
         "instructors": [
           "Schick, Steven"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "c971598432c26bd11b7c0b07b3a7d24511fa4b7077803f7aaa9df3c06ef610e5": {
         "sectxt": true,
         "sectionID": "921942",
         "type": "LA",
@@ -55,16 +34,15 @@
         "time": "2:00p-4:50p",
         "building": "CPMC",
         "room": "151",
-        "instructor": "Schick, Steven",
         "instructors": [
           "Schick, Steven"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,56 +3,9 @@
   "name": "Intro Renew Energ/Solar & Wind",
   "department": "MAE",
   "id": "119",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922833",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "CENTR",
-      "room": "105",
-      "instructor": "Tynan, George Robert",
-      "instructors": [
-        "Tynan, George Robert"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "6:00p-6:50p",
-      "building": "CENTR",
-      "room": "105",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -61,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "3803cb71593fd1f521fd62b0a0a37461572bedcb3f84b845086702dea5a268e7": {
         "sectxt": true,
         "sectionID": "922833",
         "type": "LE",
@@ -80,14 +32,13 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Tynan, George Robert",
         "instructors": [
           "Tynan, George Robert"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "e9b4007fe9be5e2008063cbbffe561330c3ef69f60b3c75a7f2cf30242339a3e": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -96,15 +47,13 @@
         "time": "6:00p-6:50p",
         "building": "CENTR",
         "room": "105",
-        "instructor": "",
         "instructors": [],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "c5686c3b739aa9ce86667b3d452eb2bf02f7fc2eb96175bd979eddf205468ac4": {
         "sectxt": true,
         "sectionID": "922833",
         "type": "LE",
@@ -113,17 +62,15 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Tynan, George Robert",
         "instructors": [
           "Tynan, George Robert"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "a23a57bd6e06705cc32b61116ecf442db4658c6013758ad9cc77a3b1a2e489d6": {
         "sectxt": true,
         "sectionID": "922833",
         "type": "LE",
@@ -132,15 +79,15 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Tynan, George Robert",
         "instructors": [
           "Tynan, George Robert"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

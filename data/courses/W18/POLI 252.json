@@ -3,33 +3,12 @@
   "name": "American Politics: Behavior",
   "department": "POLI",
   "id": "252",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925377",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "9:00a-11:50a",
-      "building": "SSB",
-      "room": "104",
-      "instructor": "Hajnal, Zoltan Lloyd",
-      "instructors": [
-        "Hajnal, Zoltan Lloyd"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "24bc413278c345a668a998dd60903be7a9cd7f9829f1e4d5cb0ed08e6648d6a7": {
         "sectxt": true,
         "sectionID": "925377",
         "type": "SE",
@@ -38,16 +17,15 @@
         "time": "9:00a-11:50a",
         "building": "SSB",
         "room": "104",
-        "instructor": "Hajnal, Zoltan Lloyd",
         "instructors": [
           "Hajnal, Zoltan Lloyd"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

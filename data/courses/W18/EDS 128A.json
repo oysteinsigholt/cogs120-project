@@ -3,63 +3,12 @@
   "name": "Intro/Teaching&Learning (Elem)",
   "department": "EDS",
   "id": "128A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "3:30p-5:20p",
-      "building": "PCYNH",
-      "room": "304",
-      "instructor": "Bresser, Bernard George",
-      "instructors": [
-        "Bresser, Bernard George"
-      ],
-      "start_time": "15:30",
-      "end_time": "17:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922483",
-      "type": "DI",
-      "section": "A01",
-      "days": "Tu",
-      "time": "5:30p-6:20p",
-      "building": "PCYNH",
-      "room": "304",
-      "instructor": "Bresser, Bernard George",
-      "instructors": [
-        "Bresser, Bernard George"
-      ],
-      "start_time": "17:30",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922484",
-      "type": "DI",
-      "section": "A02",
-      "days": "Tu",
-      "time": "5:30p-6:20p",
-      "building": "PCYNH",
-      "room": "348",
-      "instructor": "Bresser, Bernard George",
-      "instructors": [
-        "Bresser, Bernard George"
-      ],
-      "start_time": "17:30",
-      "end_time": "18:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "76010efdd492346e3cd8f71fdeed7048011a3dd64a3cdca189c1fe8590073b37": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -68,14 +17,13 @@
         "time": "3:30p-5:20p",
         "building": "PCYNH",
         "room": "304",
-        "instructor": "Bresser, Bernard George",
         "instructors": [
           "Bresser, Bernard George"
         ],
         "start_time": "15:30",
         "end_time": "17:20"
       },
-      {
+      "ffbadd244245dbfa7afa4a870a74ff79235d92ed3356c569c29958e51ffce4e6": {
         "sectxt": true,
         "sectionID": "922483",
         "type": "DI",
@@ -84,14 +32,13 @@
         "time": "5:30p-6:20p",
         "building": "PCYNH",
         "room": "304",
-        "instructor": "Bresser, Bernard George",
         "instructors": [
           "Bresser, Bernard George"
         ],
         "start_time": "17:30",
         "end_time": "18:20"
       },
-      {
+      "6ae0c560fb9c17e3d79e282c7f67cbea634fff9facf6358cdd4ed0ea9a5d0454": {
         "sectxt": true,
         "sectionID": "922484",
         "type": "DI",
@@ -100,18 +47,15 @@
         "time": "5:30p-6:20p",
         "building": "PCYNH",
         "room": "348",
-        "instructor": "Bresser, Bernard George",
         "instructors": [
           "Bresser, Bernard George"
         ],
         "start_time": "17:30",
         "end_time": "18:20"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,122 +3,9 @@
   "name": "Intro. to Research Methods",
   "department": "COGS",
   "id": "14A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "5:00p-6:20p",
-      "building": "CENTR",
-      "room": "119",
-      "instructor": "Rossano, Federico",
-      "instructors": [
-        "Rossano, Federico"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925534",
-      "type": "LA",
-      "section": "A01",
-      "days": "M",
-      "time": "10:00a-10:50a",
-      "building": "PCYNH",
-      "room": "120",
-      "instructor": "Rossano, Federico",
-      "instructors": [
-        "Rossano, Federico"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925535",
-      "type": "LA",
-      "section": "A02",
-      "days": "M",
-      "time": "12:00p-12:50p",
-      "building": "CSB",
-      "room": "005",
-      "instructor": "Rossano, Federico",
-      "instructors": [
-        "Rossano, Federico"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925536",
-      "type": "LA",
-      "section": "A03",
-      "days": "W",
-      "time": "10:00a-10:50a",
-      "building": "CSB",
-      "room": "005",
-      "instructor": "Rossano, Federico",
-      "instructors": [
-        "Rossano, Federico"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925537",
-      "type": "LA",
-      "section": "A04",
-      "days": "W",
-      "time": "11:00a-11:50a",
-      "building": "CSB",
-      "room": "005",
-      "instructor": "Rossano, Federico",
-      "instructors": [
-        "Rossano, Federico"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925538",
-      "type": "LA",
-      "section": "A05",
-      "days": "F",
-      "time": "4:00p-4:50p",
-      "building": "CSB",
-      "room": "005",
-      "instructor": "Rossano, Federico",
-      "instructors": [
-        "Rossano, Federico"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -127,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1ebd1556b1c3ecef7aaa165cfa817f64969438df4a34cdafa53778b48cd71717": {
         "sectxt": true,
         "sectionID": "925534",
         "type": "LA",
@@ -146,14 +32,13 @@
         "time": "10:00a-10:50a",
         "building": "PCYNH",
         "room": "120",
-        "instructor": "Rossano, Federico",
         "instructors": [
           "Rossano, Federico"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "393a8e934b89f296b2d206be4cf1f113ee1a8fd8b7285e9018ce7948655804c9": {
         "sectxt": true,
         "sectionID": "925535",
         "type": "LA",
@@ -162,16 +47,15 @@
         "time": "12:00p-12:50p",
         "building": "CSB",
         "room": "005",
-        "instructor": "Rossano, Federico",
         "instructors": [
           "Rossano, Federico"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "503eae0a8858b7b329809768e5967230ac8000e953deadca9a39203641302192": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -180,16 +64,15 @@
         "time": "5:00p-6:20p",
         "building": "CENTR",
         "room": "119",
-        "instructor": "Rossano, Federico",
         "instructors": [
           "Rossano, Federico"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "37fc8fbefadaf1ed71022de0e398a428c68cff568f204e3a59183912913f0784": {
         "sectxt": true,
         "sectionID": "925536",
         "type": "LA",
@@ -198,14 +81,13 @@
         "time": "10:00a-10:50a",
         "building": "CSB",
         "room": "005",
-        "instructor": "Rossano, Federico",
         "instructors": [
           "Rossano, Federico"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "c2efd0d9e1baf4186a9f955e57238c76f233af628048888740b2965df94055f2": {
         "sectxt": true,
         "sectionID": "925537",
         "type": "LA",
@@ -214,16 +96,15 @@
         "time": "11:00a-11:50a",
         "building": "CSB",
         "room": "005",
-        "instructor": "Rossano, Federico",
         "instructors": [
           "Rossano, Federico"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "ad10dc80025b6fae88a6e6bd4b3bc62f48725a5778aa49de4dbf9e9ef718c058": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -232,16 +113,15 @@
         "time": "5:00p-6:20p",
         "building": "CENTR",
         "room": "119",
-        "instructor": "Rossano, Federico",
         "instructors": [
           "Rossano, Federico"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "66ef36f41a7e4982cd2bb4fdf106414a49da4b732a65a9d7a1f8535a4957272c": {
         "sectxt": true,
         "sectionID": "925538",
         "type": "LA",
@@ -250,15 +130,15 @@
         "time": "4:00p-4:50p",
         "building": "CSB",
         "room": "005",
-        "instructor": "Rossano, Federico",
         "instructors": [
           "Rossano, Federico"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

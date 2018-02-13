@@ -3,42 +3,23 @@
   "name": "Topics in Marketing",
   "department": "MGT",
   "id": "489",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930374",
-      "type": "LE",
-      "section": "B00",
-      "days": "S",
-      "time": "11:30a-5:30p",
-      "building": "WFH",
-      "room": "3N129",
-      "instructor": "Nijs, Vincent R.",
-      "instructors": [
-        "Nijs, Vincent R."
-      ],
-      "start_time": "11:30",
-      "end_time": "17:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/24/2018",
-      "days": "S",
-      "time": "11:30a-2:30p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-24T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:30"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "f75132093da7cab9501b73d5c0ab8ad1bbffb16827755aa003a0a5adfc4d5b0c": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "2:00p-5:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "14:00",
+      "end_time": "17:00"
+    },
+    "edbaf9e982e9d65d1caf345908c80a56839de0d2edfd3e9f4736e44e35522441": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,21 +28,34 @@
       "time": "11:30a-2:30p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-24T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:30"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "Tu": {
+      "54dab3ae231912d5a4ac3cbbb0e99c66be0376c5137e29dd6ae307dd174128f0": {
+        "sectxt": true,
+        "sectionID": "930373",
+        "type": "LE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "2:00p-5:00p",
+        "building": "WFH",
+        "room": "3N129",
+        "instructors": [
+          "Nijs, Vincent R."
+        ],
+        "start_time": "14:00",
+        "end_time": "17:00"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

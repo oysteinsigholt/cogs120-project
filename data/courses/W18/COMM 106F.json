@@ -3,42 +3,9 @@
   "name": "CI: The Film Industry",
   "department": "COMM",
   "id": "106F",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924186",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "7:00p-8:20p",
-      "building": "CSB",
-      "room": "001",
-      "instructor": "Whitworth-Smith, Andrew C",
-      "instructors": [
-        "Whitworth-Smith, Andrew C"
-      ],
-      "start_time": "19:00",
-      "end_time": "20:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5139b59900b2a15bbcc9f74995c455a57d46508184478e3e6f3c0cc1534d754d": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "c952bdd033362d8f1e59e262af4c516ba85f4cd05e2ed38702eb76b9c9aff32e": {
         "sectxt": true,
         "sectionID": "924186",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "7:00p-8:20p",
         "building": "CSB",
         "room": "001",
-        "instructor": "Whitworth-Smith, Andrew C",
         "instructors": [
           "Whitworth-Smith, Andrew C"
         ],
         "start_time": "19:00",
         "end_time": "20:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "c30e14e80f7ef4dcfd61f6dc444b4c3aae1860eebfce81484873c3946231a556": {
         "sectxt": true,
         "sectionID": "924186",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "7:00p-8:20p",
         "building": "CSB",
         "room": "001",
-        "instructor": "Whitworth-Smith, Andrew C",
         "instructors": [
           "Whitworth-Smith, Andrew C"
         ],
         "start_time": "19:00",
         "end_time": "20:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

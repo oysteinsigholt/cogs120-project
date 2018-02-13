@@ -3,42 +3,9 @@
   "name": "Computability and Complexity",
   "department": "CSE",
   "id": "200",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927548",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "10:30a-11:50a",
-      "building": "EBU3B",
-      "room": "4140",
-      "instructor": "Lovett, Shachar",
-      "instructors": [
-        "Lovett, Shachar"
-      ],
-      "start_time": "10:30",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "0be72606f83a5b32d9e4fadd7438d2f2e0ea066538abf8dd53065c3dfdd55a29": {
         "sectxt": true,
         "sectionID": "927548",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "10:30a-11:50a",
         "building": "EBU3B",
         "room": "4140",
-        "instructor": "Lovett, Shachar",
         "instructors": [
           "Lovett, Shachar"
         ],
         "start_time": "10:30",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "8f99341412f538e4547767d72ea5e9387db78c90ef2fe67e41843535de8cd836": {
         "sectxt": true,
         "sectionID": "927548",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "10:30a-11:50a",
         "building": "EBU3B",
         "room": "4140",
-        "instructor": "Lovett, Shachar",
         "instructors": [
           "Lovett, Shachar"
         ],
         "start_time": "10:30",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,121 +3,9 @@
   "name": "Microbial Genetics",
   "department": "BIMM",
   "id": "122",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "CSB",
-      "room": "001",
-      "instructor": "Saier, Milton H.",
-      "instructors": [
-        "Saier, Milton H."
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926142",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Saier, Milton H.",
-      "instructors": [
-        "Saier, Milton H."
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926143",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "5:00p-5:50p",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Saier, Milton H.",
-      "instructors": [
-        "Saier, Milton H."
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926144",
-      "type": "DI",
-      "section": "A03",
-      "days": "W",
-      "time": "3:00p-3:50p",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Saier, Milton H.",
-      "instructors": [
-        "Saier, Milton H."
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926145",
-      "type": "DI",
-      "section": "A04",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Saier, Milton H.",
-      "instructors": [
-        "Saier, Milton H."
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/10/2018",
-      "days": "S",
-      "time": "10:00a-11:50a",
-      "building": "CENTR",
-      "room": "113",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-10T08:00:00.000Z",
-      "start_time": "10:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "672a550a591621354a4af339d8786afc53ad17db845f122c6e9781f85347f849": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -126,13 +14,12 @@
       "time": "10:00a-11:50a",
       "building": "CENTR",
       "room": "113",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-10T08:00:00.000Z",
       "start_time": "10:00",
       "end_time": "11:50"
     },
-    {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -141,17 +28,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "e4a7e0b48e5a74a5039a6a4a5657e3e1413e312642286325ab5d305301b5cae2": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -160,14 +46,13 @@
         "time": "1:00p-1:50p",
         "building": "CSB",
         "room": "001",
-        "instructor": "Saier, Milton H.",
         "instructors": [
           "Saier, Milton H."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "25b3f9aa93db29af63fceed7d9346a12dd840ed932f298e574761f057c2c70c2": {
         "sectxt": true,
         "sectionID": "926142",
         "type": "DI",
@@ -176,14 +61,13 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Saier, Milton H.",
         "instructors": [
           "Saier, Milton H."
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "c87b5575ac8093195a7ea204fee5f207c568a0bd12be26c9d034af81e9cae16c": {
         "sectxt": true,
         "sectionID": "926143",
         "type": "DI",
@@ -192,17 +76,15 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Saier, Milton H.",
         "instructors": [
           "Saier, Milton H."
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "c15fcf4f9ab3e7d38ca0b0fda612d43843a9400dd321e08de7ed0c9d036f43b0": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -211,14 +93,13 @@
         "time": "1:00p-1:50p",
         "building": "CSB",
         "room": "001",
-        "instructor": "Saier, Milton H.",
         "instructors": [
           "Saier, Milton H."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "d8dec6c3d10f699548f48d11887c616eb5876068e50a80325d4f5b37a48ab86d": {
         "sectxt": true,
         "sectionID": "926144",
         "type": "DI",
@@ -227,17 +108,15 @@
         "time": "3:00p-3:50p",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Saier, Milton H.",
         "instructors": [
           "Saier, Milton H."
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "a1ad73e826e4f3d18db30a6715bb1aece555b7c097097bfe51405b7a3389d35a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -246,14 +125,13 @@
         "time": "1:00p-1:50p",
         "building": "CSB",
         "room": "001",
-        "instructor": "Saier, Milton H.",
         "instructors": [
           "Saier, Milton H."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "1932361afee7db3de4df09e01c6acc1f86a5050440045ad951f384514e906b6b": {
         "sectxt": true,
         "sectionID": "926145",
         "type": "DI",
@@ -262,15 +140,15 @@
         "time": "9:00a-9:50a",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Saier, Milton H.",
         "instructors": [
           "Saier, Milton H."
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

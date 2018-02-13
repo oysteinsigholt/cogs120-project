@@ -3,42 +3,9 @@
   "name": "Photographic Strategies",
   "department": "VIS",
   "id": "164",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922803",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "3:00p-5:50p",
-      "building": "MANDE",
-      "room": "B-113",
-      "instructor": "Kester, Grant",
-      "instructors": [
-        "Kester, Grant"
-      ],
-      "start_time": "15:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "80f6c59b0e3a612529de8f69c34f1c43763a6969adf75ddd84cd83f16523fd8e": {
         "sectxt": true,
         "sectionID": "922803",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "3:00p-5:50p",
         "building": "MANDE",
         "room": "B-113",
-        "instructor": "Kester, Grant",
         "instructors": [
           "Kester, Grant"
         ],
         "start_time": "15:00",
         "end_time": "17:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "cd178436a8ffcffe01d20e1537003532f8eeff7bf9071c3a8481828fc7f7406d": {
         "sectxt": true,
         "sectionID": "922803",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "3:00p-5:50p",
         "building": "MANDE",
         "room": "B-113",
-        "instructor": "Kester, Grant",
         "instructors": [
           "Kester, Grant"
         ],
         "start_time": "15:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

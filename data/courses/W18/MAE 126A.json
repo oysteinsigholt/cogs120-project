@@ -3,170 +3,9 @@
   "name": "Environmental Enginring Lab",
   "department": "MAE",
   "id": "126A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "5:00p-5:50p",
-      "building": "PETER",
-      "room": "102",
-      "instructor": "Kleissl, Jan",
-      "instructors": [
-        "Kleissl, Jan"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922888",
-      "type": "LA",
-      "section": "A01",
-      "days": "Tu",
-      "time": "9:00a-11:50a",
-      "building": "EBU2",
-      "room": "142",
-      "instructor": "Kleissl, Jan",
-      "instructors": [
-        "Kleissl, Jan"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922889",
-      "type": "LA",
-      "section": "A02",
-      "days": "Tu",
-      "time": "12:30p-3:20p",
-      "building": "EBU2",
-      "room": "142",
-      "instructor": "Kleissl, Jan",
-      "instructors": [
-        "Kleissl, Jan"
-      ],
-      "start_time": "12:30",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922890",
-      "type": "LA",
-      "section": "A03",
-      "days": "W",
-      "time": "9:00a-11:50a",
-      "building": "EBU2",
-      "room": "142",
-      "instructor": "Kleissl, Jan",
-      "instructors": [
-        "Kleissl, Jan"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922891",
-      "type": "LA",
-      "section": "A04",
-      "days": "W",
-      "time": "1:00p-3:50p",
-      "building": "EBU2",
-      "room": "142",
-      "instructor": "Kleissl, Jan",
-      "instructors": [
-        "Kleissl, Jan"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922892",
-      "type": "LA",
-      "section": "A05",
-      "days": "Th",
-      "time": "9:00a-11:50a",
-      "building": "EBU2",
-      "room": "142",
-      "instructor": "Kleissl, Jan",
-      "instructors": [
-        "Kleissl, Jan"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922893",
-      "type": "LA",
-      "section": "A06",
-      "days": "Th",
-      "time": "12:30p-3:20p",
-      "building": "EBU2",
-      "room": "142",
-      "instructor": "Kleissl, Jan",
-      "instructors": [
-        "Kleissl, Jan"
-      ],
-      "start_time": "12:30",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922894",
-      "type": "LA",
-      "section": "A07",
-      "days": "F",
-      "time": "9:00a-11:50a",
-      "building": "EBU2",
-      "room": "142",
-      "instructor": "Kleissl, Jan",
-      "instructors": [
-        "Kleissl, Jan"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922895",
-      "type": "LA",
-      "section": "A08",
-      "days": "F",
-      "time": "1:00p-3:50p",
-      "building": "EBU2",
-      "room": "142",
-      "instructor": "Kleissl, Jan",
-      "instructors": [
-        "Kleissl, Jan"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -175,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "824ea782fe4efeb521d7af6da8f5918f0ffaccb333ea55915a1698e48a6f7b89": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -194,16 +32,15 @@
         "time": "5:00p-5:50p",
         "building": "PETER",
         "room": "102",
-        "instructor": "Kleissl, Jan",
         "instructors": [
           "Kleissl, Jan"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "aa0750d7082ce7795c9c7d150fccb2d76098ccf48bc6d874210dc37429c4e511": {
         "sectxt": true,
         "sectionID": "922888",
         "type": "LA",
@@ -212,14 +49,13 @@
         "time": "9:00a-11:50a",
         "building": "EBU2",
         "room": "142",
-        "instructor": "Kleissl, Jan",
         "instructors": [
           "Kleissl, Jan"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       },
-      {
+      "95b0b09a50e705304ba05c566db1f057be6fe2b91e76569bf1d2ce11105a3afb": {
         "sectxt": true,
         "sectionID": "922889",
         "type": "LA",
@@ -228,16 +64,15 @@
         "time": "12:30p-3:20p",
         "building": "EBU2",
         "room": "142",
-        "instructor": "Kleissl, Jan",
         "instructors": [
           "Kleissl, Jan"
         ],
         "start_time": "12:30",
         "end_time": "15:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "1f42c20979ba33d43790082347b266b2b822e80aca69452f9d80615f1bc42eb8": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -246,14 +81,13 @@
         "time": "5:00p-5:50p",
         "building": "PETER",
         "room": "102",
-        "instructor": "Kleissl, Jan",
         "instructors": [
           "Kleissl, Jan"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "66d21aff9de703751730d67265bf0b72e99371c986fb3031a3e16f9e007ff1bc": {
         "sectxt": true,
         "sectionID": "922890",
         "type": "LA",
@@ -262,14 +96,13 @@
         "time": "9:00a-11:50a",
         "building": "EBU2",
         "room": "142",
-        "instructor": "Kleissl, Jan",
         "instructors": [
           "Kleissl, Jan"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       },
-      {
+      "d2632194120d27d6daf1207f4e3716624637b86196154669261afe4124189ee5": {
         "sectxt": true,
         "sectionID": "922891",
         "type": "LA",
@@ -278,16 +111,15 @@
         "time": "1:00p-3:50p",
         "building": "EBU2",
         "room": "142",
-        "instructor": "Kleissl, Jan",
         "instructors": [
           "Kleissl, Jan"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "33df285322f039652512df453c43a23afbf71bf0037d6515f3d5a4cbb4438821": {
         "sectxt": true,
         "sectionID": "922892",
         "type": "LA",
@@ -296,14 +128,13 @@
         "time": "9:00a-11:50a",
         "building": "EBU2",
         "room": "142",
-        "instructor": "Kleissl, Jan",
         "instructors": [
           "Kleissl, Jan"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       },
-      {
+      "5fe62a339175237691425602a5e0a8c7f9c59ec192854093f661c1ed7aa58617": {
         "sectxt": true,
         "sectionID": "922893",
         "type": "LA",
@@ -312,16 +143,15 @@
         "time": "12:30p-3:20p",
         "building": "EBU2",
         "room": "142",
-        "instructor": "Kleissl, Jan",
         "instructors": [
           "Kleissl, Jan"
         ],
         "start_time": "12:30",
         "end_time": "15:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "338f9bc0374458fb16a40d8ea5d550e835f75c89fb69c81dfd6d8e06607b5970": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -330,14 +160,13 @@
         "time": "5:00p-5:50p",
         "building": "PETER",
         "room": "102",
-        "instructor": "Kleissl, Jan",
         "instructors": [
           "Kleissl, Jan"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "4f25307aa55fbe101c8059cba37439d9e59591cf84b0e5ddd7ce7add97178399": {
         "sectxt": true,
         "sectionID": "922894",
         "type": "LA",
@@ -346,14 +175,13 @@
         "time": "9:00a-11:50a",
         "building": "EBU2",
         "room": "142",
-        "instructor": "Kleissl, Jan",
         "instructors": [
           "Kleissl, Jan"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       },
-      {
+      "20cfda89c7dcb8593e32c5cc09692136feb29a0358395d2a3a3f5db5177df153": {
         "sectxt": true,
         "sectionID": "922895",
         "type": "LA",
@@ -362,15 +190,15 @@
         "time": "1:00p-3:50p",
         "building": "EBU2",
         "room": "142",
-        "instructor": "Kleissl, Jan",
         "instructors": [
           "Kleissl, Jan"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

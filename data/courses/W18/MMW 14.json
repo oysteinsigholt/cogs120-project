@@ -3,40 +3,51 @@
   "name": "Revolution,Industry & Empire",
   "department": "MMW",
   "id": "14",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "D00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Herbst, Matthew & Frank, Ross H.",
-      "instructors": [
-        "Herbst, Matthew",
-        "Frank, Ross H."
-      ]
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929200",
-      "type": "DI",
-      "section": "D01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Herbst, Matthew & Frank, Ross H.",
-      "instructors": [
-        "Herbst, Matthew",
-        "Frank, Ross H."
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  },
   "events_unknown": [
     {
       "sectxt": true,
@@ -47,10 +58,8 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Herbst, Matthew & Frank, Ross H.",
       "instructors": [
-        "Herbst, Matthew",
-        "Frank, Ross H."
+        "Herbst, Matthew                    \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFrank, Ross H."
       ]
     },
     {
@@ -62,20 +71,352 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Herbst, Matthew & Frank, Ross H.",
       "instructors": [
-        "Herbst, Matthew",
-        "Frank, Ross H."
+        "Herbst, Matthew                    \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFrank, Ross H."
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "Tu": {
+      "c12e876c286e075f54b31f5190baf1c12afcaa3c60c656df28d942741b529a9a": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "HSS",
+        "room": "1330",
+        "instructors": [
+          "Hertz, Deborah"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "f05fa62a5726ad24a6fe9f24de884ffe2690347d4feca47f01fb7a354ffaab8f": {
+        "sectxt": true,
+        "sectionID": "921594",
+        "type": "DI",
+        "section": "A01",
+        "days": "Tu",
+        "time": "12:00p-12:50p",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Hertz, Deborah"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "e7f3df071c13372747e03d58c7f1b85e044021b03068ff26f45370d6aefc7f92": {
+        "sectxt": true,
+        "sectionID": "921595",
+        "type": "DI",
+        "section": "A02",
+        "days": "Tu",
+        "time": "1:00p-1:50p",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Hertz, Deborah"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "80483300f1843284167ade4659e2f9a13530b47463ed596be32b712259733b7f": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "CENTR",
+        "room": "115",
+        "instructors": [
+          "Gallant, Thomas W."
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "7543d997fba74983dd9336ceced5a9ae16f20c5e0da7183991d879d5b6a5b2c4": {
+        "sectxt": true,
+        "sectionID": "921599",
+        "type": "DI",
+        "section": "B01",
+        "days": "Tu",
+        "time": "2:00p-2:50p",
+        "building": "ASANT",
+        "room": "123C",
+        "instructors": [
+          "Gallant, Thomas W."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "2b5f0b79a6801ae54657390cd286ce4759c2d01ada65a6050b48374b6294c67e": {
+        "sectxt": true,
+        "sectionID": "921600",
+        "type": "DI",
+        "section": "B02",
+        "days": "Tu",
+        "time": "3:00p-3:50p",
+        "building": "ASANT",
+        "room": "123C",
+        "instructors": [
+          "Gallant, Thomas W."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "e4edc840bccdfa6de8a19eb4c90984c15a0afe2ec22f40937531db3a1a85cd03": {
+        "sectxt": true,
+        "sectionID": "921601",
+        "type": "DI",
+        "section": "B03",
+        "days": "Tu",
+        "time": "4:00p-4:50p",
+        "building": "ASANT",
+        "room": "123C",
+        "instructors": [
+          "Gallant, Thomas W."
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "f4d158d190a06133ce08d6f3c312d395676512ad00235261f9b91d3eac2be17f": {
+        "sectxt": true,
+        "sectionID": "921602",
+        "type": "DI",
+        "section": "B04",
+        "days": "Tu",
+        "time": "5:00p-5:50p",
+        "building": "ASANT",
+        "room": "123C",
+        "instructors": [
+          "Gallant, Thomas W."
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "169927bfd8483285e15eae4eff318e6d0070f5750a905c185f1671a05b930cc9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "CENTR",
+        "room": "105",
+        "instructors": [
+          "Blanco, John D"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      }
+    },
+    "W": {
+      "cc8505d22bcbf3e091d7087ee3afb7830264e8fb38bdac54512095b8e6d9d99b": {
+        "sectxt": true,
+        "sectionID": "921603",
+        "type": "DI",
+        "section": "B05",
+        "days": "W",
+        "time": "12:00p-12:50p",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Gallant, Thomas W."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "724ffa96c93d002486dfe4132739af3b7718e0ace6591bac4131ef36dc27b8bb": {
+        "sectxt": true,
+        "sectionID": "921604",
+        "type": "DI",
+        "section": "B06",
+        "days": "W",
+        "time": "1:00p-1:50p",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Gallant, Thomas W."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "870ef76520ceb5a825662b5597ba21949bbe7ebace9c88a6b579fd89aedcbb22": {
+        "sectxt": true,
+        "sectionID": "921606",
+        "type": "DI",
+        "section": "C01",
+        "days": "W",
+        "time": "12:00p-12:50p",
+        "building": "ASANT",
+        "room": "123C",
+        "instructors": [
+          "Blanco, John D"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "e3d682b0cf7fe1c5c4fa079ab7ed827ea73a4d1411a08cf6fac63d9bf8fd0c93": {
+        "sectxt": true,
+        "sectionID": "921607",
+        "type": "DI",
+        "section": "C02",
+        "days": "W",
+        "time": "1:00p-1:50p",
+        "building": "ASANT",
+        "room": "123C",
+        "instructors": [
+          "Blanco, John D"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    },
+    "Th": {
+      "1fd76e34fb7865fce7ff5adca312ddc805651e55d9a8d5231108d9552d7045e9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "HSS",
+        "room": "1330",
+        "instructors": [
+          "Hertz, Deborah"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "3a78d680fa317bfd530cebf96ff555412c79336a9706de3716154a893837e7fd": {
+        "sectxt": true,
+        "sectionID": "921596",
+        "type": "DI",
+        "section": "A03",
+        "days": "Th",
+        "time": "3:00p-3:50p",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Hertz, Deborah"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "59810b6a356ecf23116d68f91dbe38c364d5efa667ed0b971660043480191c10": {
+        "sectxt": true,
+        "sectionID": "921597",
+        "type": "DI",
+        "section": "A04",
+        "days": "Th",
+        "time": "4:00p-4:50p",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Hertz, Deborah"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "bc5f4b5908e384623f26a65b832089fd9836dc32719ec68b1c3b063937970437": {
+        "sectxt": true,
+        "sectionID": "929194",
+        "type": "DI",
+        "section": "A05",
+        "days": "Th",
+        "time": "5:00p-5:50p",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Hertz, Deborah"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "9ecb4349bcf3cf1b21e5a0d8ad6c42f695a59786e4be06c5748fb2365d7e0bcd": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "CENTR",
+        "room": "115",
+        "instructors": [
+          "Gallant, Thomas W."
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "ce57827e61859220db92212cd1c04cc7a1166fc5aaf1ced321703ef7fb6a6b22": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "CENTR",
+        "room": "105",
+        "instructors": [
+          "Blanco, John D"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "2276d3278d6d8faf707f76dca3d7ad23dbf33dc03201cc221367df43fcac2dec": {
+        "sectxt": true,
+        "sectionID": "921608",
+        "type": "DI",
+        "section": "C03",
+        "days": "Th",
+        "time": "12:00p-12:50p",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Blanco, John D"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "a00dd3d7e082f2e41ce50dfe6fa4df9196b7be28ccfa204305871609a8fa1aef": {
+        "sectxt": true,
+        "sectionID": "921609",
+        "type": "DI",
+        "section": "C04",
+        "days": "Th",
+        "time": "1:00p-1:50p",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Blanco, John D"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "4a39dae4a2fca683e3fee2cd07f7b9e2559cf4fe0c719ac1d31ce182eae95a7a": {
+        "sectxt": true,
+        "sectionID": "929195",
+        "type": "DI",
+        "section": "C05",
+        "days": "Th",
+        "time": "2:00p-2:50p",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Blanco, John D"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

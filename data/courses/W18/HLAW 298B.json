@@ -3,31 +3,12 @@
   "name": "Health Law Research Forum-B",
   "department": "HLAW",
   "id": "298B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929381",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "5:30p-7:30p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Mackey, Timothy Ken",
-      "instructors": [
-        "Mackey, Timothy Ken"
-      ],
-      "start_time": "17:30",
-      "end_time": "19:30"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "b40446945c1aa4611e9cec03c6d996e924001f1104f53384b031a56cc04f8b0f": {
         "sectxt": true,
         "sectionID": "929381",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "5:30p-7:30p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Mackey, Timothy Ken",
         "instructors": [
           "Mackey, Timothy Ken"
         ],
         "start_time": "17:30",
         "end_time": "19:30"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

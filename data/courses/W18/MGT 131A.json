@@ -3,42 +3,9 @@
   "name": "Intermediate Accounting A",
   "department": "MGT",
   "id": "131A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922582",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "8:00a-9:20a",
-      "building": "WFH",
-      "room": "1N108",
-      "instructor": "Houskeeper, Robert",
-      "instructors": [
-        "Houskeeper, Robert"
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "246905cf223ed005d1a3630975736e4970b3d281f52c4b0d021fee3f3e0995d0": {
         "sectxt": true,
         "sectionID": "922582",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "8:00a-9:20a",
         "building": "WFH",
         "room": "1N108",
-        "instructor": "Houskeeper, Robert",
         "instructors": [
           "Houskeeper, Robert"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "32d5f13d7c69ceb454aeaacf82909a07872a6a9083f1875d84066e4075a05245": {
         "sectxt": true,
         "sectionID": "922582",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "8:00a-9:20a",
         "building": "WFH",
         "room": "1N108",
-        "instructor": "Houskeeper, Robert",
         "instructors": [
           "Houskeeper, Robert"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

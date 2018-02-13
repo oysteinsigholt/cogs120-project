@@ -3,208 +3,9 @@
   "name": "Electromagnetism II",
   "department": "PHYS",
   "id": "100B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "YORK",
-      "room": "2622",
-      "instructor": "Jenkins, Elizabeth",
-      "instructors": [
-        "Jenkins, Elizabeth"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923757",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "7:00p-7:50p",
-      "building": "HSS",
-      "room": "1330",
-      "instructor": "Jenkins, Elizabeth",
-      "instructors": [
-        "Jenkins, Elizabeth"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/12/2018",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-12T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/19/2018",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-19T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/26/2018",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-26T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/02/2018",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-02T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/09/2018",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-09T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/16/2018",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-16T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/23/2018",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-23T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/02/2018",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-02T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/09/2018",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-09T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/16/2018",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-16T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/24/2018",
-      "days": "S",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-24T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "8a75978453ad3627756cbb2d1945630c2d4e844336ec2d2a4000e3533a58dac3": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -213,13 +14,12 @@
       "time": "3:00p-3:50p",
       "building": "CSB",
       "room": "002",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-12T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "b4d933d9214d9fcc3f8c7d33207bfe916039039898d8d190775ea9152b69afe1": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -228,13 +28,12 @@
       "time": "3:00p-3:50p",
       "building": "CSB",
       "room": "002",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-19T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "9aa71c79dd599bf72d8847219e2bb8de8d7069d90930ea99f0382c5c3ab8c8e4": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -243,13 +42,12 @@
       "time": "3:00p-3:50p",
       "building": "CSB",
       "room": "002",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-26T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "f512ed550d8b3a2f5df8250cf7143a17c51378419aafc86c60310517b0e55ee6": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -258,13 +56,12 @@
       "time": "3:00p-3:50p",
       "building": "CSB",
       "room": "002",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-02T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "6e6efd5ee49171843281bfdaa4c104e54897d541a1b50a352163a336543e6d8e": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -273,13 +70,12 @@
       "time": "3:00p-3:50p",
       "building": "CSB",
       "room": "002",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-09T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "aabd180d601dae9a9fef5a194fba01c859edc305f57f86c5d1e2df20bad676b9": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -288,13 +84,12 @@
       "time": "3:00p-3:50p",
       "building": "CSB",
       "room": "002",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-16T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "1dce30835ce50090f10a6cab29b347f3547c94ce52637e34a9f13ede48deeb8d": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -303,13 +98,12 @@
       "time": "3:00p-3:50p",
       "building": "CSB",
       "room": "002",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-23T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "c125ee84b167fc2aa20c6342cb91fc01167fc28b618fc31550f05ba03bbdd6d9": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -318,13 +112,12 @@
       "time": "3:00p-3:50p",
       "building": "CSB",
       "room": "002",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-02T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "4af7c994873f9f1b536fe3f4dfe13e240f01bbaa8c96f82bb503b54f3fa20958": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -333,13 +126,12 @@
       "time": "3:00p-3:50p",
       "building": "CSB",
       "room": "002",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-09T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "f69d9696e5afbccb0e6db927b99db9e99f909d2dbfbfbb1db37fb30211a9807e": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -348,13 +140,12 @@
       "time": "3:00p-3:50p",
       "building": "CSB",
       "room": "002",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-16T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "f8deb8d2643452512be3ecea3a7db863ad4dd27c103a0a86e61a5560ea304914": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -363,18 +154,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-24T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "8987b7af87d847c623f8d9e86e86f1d582c28de0cd3bc163ae563b429ae225f9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -383,16 +172,15 @@
         "time": "2:00p-3:20p",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Jenkins, Elizabeth",
         "instructors": [
           "Jenkins, Elizabeth"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "bbba857ab22eaa8adc2f8220d4baafc8a6a1c8b7a000ce4e1920f35cb73fddf8": {
         "sectxt": true,
         "sectionID": "923757",
         "type": "DI",
@@ -401,16 +189,15 @@
         "time": "7:00p-7:50p",
         "building": "HSS",
         "room": "1330",
-        "instructor": "Jenkins, Elizabeth",
         "instructors": [
           "Jenkins, Elizabeth"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "126816888d61f914f97a4cf223b36ae2f29f5df8aa68f3942a0e9370bddbed90": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -419,16 +206,15 @@
         "time": "2:00p-3:20p",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Jenkins, Elizabeth",
         "instructors": [
           "Jenkins, Elizabeth"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

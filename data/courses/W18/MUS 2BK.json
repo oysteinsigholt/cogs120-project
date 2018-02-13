@@ -3,33 +3,44 @@
   "name": "Basic Keyboard",
   "department": "MUS",
   "id": "2BK",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921917",
-      "type": "LA",
-      "section": "C00",
-      "days": "Th",
-      "time": "11:00a-11:50a",
-      "building": "CPMC",
-      "room": "166",
-      "instructor": "Ohnishi, Takae",
-      "instructors": [
-        "Ohnishi, Takae"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "W": {
+      "8a69e24cb1e30037556cae309be0183a3198ebebeef0a4a4ae3a054aa22ed2c4": {
+        "sectxt": true,
+        "sectionID": "921915",
+        "type": "LA",
+        "section": "A00",
+        "days": "W",
+        "time": "11:00a-11:50a",
+        "building": "CPMC",
+        "room": "166",
+        "instructors": [
+          "Ohnishi, Takae"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "8a0033ce5c0b4de4181667e419b2baa0408b2e8bc5611b59b44c1623e9842123": {
+        "sectxt": true,
+        "sectionID": "921916",
+        "type": "LA",
+        "section": "B00",
+        "days": "W",
+        "time": "12:00p-12:50p",
+        "building": "CPMC",
+        "room": "166",
+        "instructors": [
+          "Ohnishi, Takae"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    },
+    "Th": {
+      "10b0e3f9e588549aa4d9e860bcf29fb41da42a5d2c314653199aaa65aaa58366": {
         "sectxt": true,
         "sectionID": "921917",
         "type": "LA",
@@ -38,16 +49,17 @@
         "time": "11:00a-11:50a",
         "building": "CPMC",
         "room": "166",
-        "instructor": "Ohnishi, Takae",
         "instructors": [
           "Ohnishi, Takae"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

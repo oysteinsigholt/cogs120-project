@@ -3,106 +3,37 @@
   "name": "Software Tools&Techniques Lab",
   "department": "CSE",
   "id": "15L",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "C00",
-      "days": "MW",
-      "time": "8:00a-8:50a",
-      "building": "PCYNH",
-      "room": "106",
-      "instructor": "Altintas De Callaf, Ilkay",
-      "instructors": [
-        "Altintas De Callaf, Ilkay"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927446",
-      "type": "LA",
-      "section": "C50",
-      "days": "W",
-      "time": "1:00p-2:50p",
-      "building": "EBU3B",
-      "room": "B250",
-      "instructor": "Altintas De Callaf, Ilkay",
-      "instructors": [
-        "Altintas De Callaf, Ilkay"
-      ],
-      "start_time": "13:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927447",
-      "type": "LA",
-      "section": "C51",
-      "days": "W",
-      "time": "3:00p-4:50p",
-      "building": "EBU3B",
-      "room": "B250",
-      "instructor": "Altintas De Callaf, Ilkay",
-      "instructors": [
-        "Altintas De Callaf, Ilkay"
-      ],
-      "start_time": "15:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927448",
-      "type": "LA",
-      "section": "C52",
-      "days": "W",
-      "time": "5:00p-6:50p",
-      "building": "EBU3B",
-      "room": "B250",
-      "instructor": "Altintas De Callaf, Ilkay",
-      "instructors": [
-        "Altintas De Callaf, Ilkay"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927449",
-      "type": "LA",
-      "section": "C53",
-      "days": "W",
-      "time": "7:00p-8:50p",
-      "building": "EBU3B",
-      "room": "B250",
-      "instructor": "Altintas De Callaf, Ilkay",
-      "instructors": [
-        "Altintas De Callaf, Ilkay"
-      ],
-      "start_time": "19:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b9b4ec5af540606b238988bee0286fc3a4cc4d540b7785beb08dccae4a0227c9": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "99084e85dcbf5c5064e8677480f27cc1eb8ff5538061a54d6a1f44628193757c": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -111,17 +42,46 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "827d8e61b0be564cefe3242e8ded91bf3b54cd405249ba4e71bd8ae53b45dd4d": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "119",
+        "instructors": [
+          "Gillespie, Gary N"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "469cdc09b5101b407eb89da7b06b01cccacb7dd0ccd3576cdf3d9b6b3109367f": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MW",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "216",
+        "instructors": [
+          "Gillespie, Gary N"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "ba7dd3130af934d97c5073610b267e5fedec84ae086fa4d9adebfce177b0e552": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -130,17 +90,45 @@
         "time": "8:00a-8:50a",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Altintas De Callaf, Ilkay",
         "instructors": [
           "Altintas De Callaf, Ilkay"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "77e4ef4f5c961a7ec147a3ff6cc6346072c465cf4d729938bdc40fc2c3b04f3d": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "119",
+        "instructors": [
+          "Gillespie, Gary N"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "30bd40d2384ee804446ac89095ee6c906544884b5cc86afef9b74e9c527cfaaf": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MW",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "216",
+        "instructors": [
+          "Gillespie, Gary N"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "d8f5f62b4043074370e08a0707935045fe9d578b570763be4778b0fbe119bf6f": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -149,14 +137,13 @@
         "time": "8:00a-8:50a",
         "building": "PCYNH",
         "room": "106",
-        "instructor": "Altintas De Callaf, Ilkay",
         "instructors": [
           "Altintas De Callaf, Ilkay"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "5a6fb2b19a4bc18d59305ae2a99070425e1aadd1fcefdaf0c20c423547c589e5": {
         "sectxt": true,
         "sectionID": "927446",
         "type": "LA",
@@ -165,14 +152,13 @@
         "time": "1:00p-2:50p",
         "building": "EBU3B",
         "room": "B250",
-        "instructor": "Altintas De Callaf, Ilkay",
         "instructors": [
           "Altintas De Callaf, Ilkay"
         ],
         "start_time": "13:00",
         "end_time": "14:50"
       },
-      {
+      "04eeed4bdd0e6643ffe9ea5063c602387d8fc54ac5fdf3003c764d1afbf9dc15": {
         "sectxt": true,
         "sectionID": "927447",
         "type": "LA",
@@ -181,14 +167,13 @@
         "time": "3:00p-4:50p",
         "building": "EBU3B",
         "room": "B250",
-        "instructor": "Altintas De Callaf, Ilkay",
         "instructors": [
           "Altintas De Callaf, Ilkay"
         ],
         "start_time": "15:00",
         "end_time": "16:50"
       },
-      {
+      "ee3f7c5e1ce690def220c6a2c7cd5260e576d6c2289f5d376b6591f3de4a8e4a": {
         "sectxt": true,
         "sectionID": "927448",
         "type": "LA",
@@ -197,14 +182,13 @@
         "time": "5:00p-6:50p",
         "building": "EBU3B",
         "room": "B250",
-        "instructor": "Altintas De Callaf, Ilkay",
         "instructors": [
           "Altintas De Callaf, Ilkay"
         ],
         "start_time": "17:00",
         "end_time": "18:50"
       },
-      {
+      "ecb82dc2242f4d75c78d135d40b5c64ebc30b24dec4f158c879e2226e178d653": {
         "sectxt": true,
         "sectionID": "927449",
         "type": "LA",
@@ -213,17 +197,109 @@
         "time": "7:00p-8:50p",
         "building": "EBU3B",
         "room": "B250",
-        "instructor": "Altintas De Callaf, Ilkay",
         "instructors": [
           "Altintas De Callaf, Ilkay"
         ],
         "start_time": "19:00",
         "end_time": "20:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "Th": {
+      "b5a1cc826d286431582b261603942c0dec69a42245a11a300764e81e02c020e9": {
+        "sectxt": true,
+        "sectionID": "927438",
+        "type": "LA",
+        "section": "A50",
+        "days": "Th",
+        "time": "9:00a-10:50a",
+        "building": "EBU3B",
+        "room": "B250",
+        "instructors": [
+          "Gillespie, Gary N"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:50"
+      },
+      "727d28c7f2b50b4154f2ae1a7ca5732cd613475eda712862e2bf8f1986822511": {
+        "sectxt": true,
+        "sectionID": "927439",
+        "type": "LA",
+        "section": "A51",
+        "days": "Th",
+        "time": "11:00a-12:50p",
+        "building": "EBU3B",
+        "room": "B250",
+        "instructors": [
+          "Gillespie, Gary N"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:50"
+      },
+      "f94bdace2bb86d1e44cadb1ddf8642ca3aed066f5ae411964f21ac22b963b8c3": {
+        "sectxt": true,
+        "sectionID": "927440",
+        "type": "LA",
+        "section": "A52",
+        "days": "Th",
+        "time": "1:00p-2:50p",
+        "building": "EBU3B",
+        "room": "B250",
+        "instructors": [
+          "Gillespie, Gary N"
+        ],
+        "start_time": "13:00",
+        "end_time": "14:50"
+      },
+      "5a77e8b02a1eabdf69bd907f0ede44f21584812049b7502b8b40c0991f5ecc56": {
+        "sectxt": true,
+        "sectionID": "927442",
+        "type": "LA",
+        "section": "B50",
+        "days": "Th",
+        "time": "3:00p-4:50p",
+        "building": "EBU3B",
+        "room": "B250",
+        "instructors": [
+          "Gillespie, Gary N"
+        ],
+        "start_time": "15:00",
+        "end_time": "16:50"
+      },
+      "0050665418d44e9142f4925db3aa70021b155bbb9eddac949c660da6a07992ae": {
+        "sectxt": true,
+        "sectionID": "927443",
+        "type": "LA",
+        "section": "B51",
+        "days": "Th",
+        "time": "5:00p-6:50p",
+        "building": "EBU3B",
+        "room": "B250",
+        "instructors": [
+          "Gillespie, Gary N"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:50"
+      },
+      "b2a37265f4e316045e5132ca2c043ca34d4dd36112991d3a2f786bd1bbf5b34f": {
+        "sectxt": true,
+        "sectionID": "927444",
+        "type": "LA",
+        "section": "B52",
+        "days": "Th",
+        "time": "7:00p-8:50p",
+        "building": "EBU3B",
+        "room": "B250",
+        "instructors": [
+          "Gillespie, Gary N"
+        ],
+        "start_time": "19:00",
+        "end_time": "20:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

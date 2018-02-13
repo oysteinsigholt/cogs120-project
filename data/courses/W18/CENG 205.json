@@ -3,32 +3,12 @@
   "name": "Grad Sem./Chemical Engineering",
   "department": "CENG",
   "id": "205",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926761",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "11:00a-11:50a",
-      "building": "SME",
-      "room": "248",
-      "instructor": "Talbot, Jan B",
-      "instructors": [
-        "Talbot, Jan B"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "459a405b0f762f2ddcef01a73a391ebdb9acbc00fe8dfbe48bf14c4002c9a6b5": {
         "sectxt": true,
         "sectionID": "926761",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "11:00a-11:50a",
         "building": "SME",
         "room": "248",
-        "instructor": "Talbot, Jan B",
         "instructors": [
           "Talbot, Jan B"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

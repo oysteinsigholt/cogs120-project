@@ -3,48 +3,44 @@
   "name": "Spatial Visualization",
   "department": "SE",
   "id": "7",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "W",
-      "time": "9:00a-9:50a",
-      "building": "SME",
-      "room": "306",
-      "instructor": "Delson, Nathan Joseph",
-      "instructors": [
-        "Delson, Nathan Joseph"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930701",
-      "type": "LA",
-      "section": "B01",
-      "days": "W",
-      "time": "10:00a-11:50a",
-      "building": "SME",
-      "room": "306",
-      "instructor": "Delson, Nathan Joseph",
-      "instructors": [
-        "Delson, Nathan Joseph"
-      ],
-      "start_time": "10:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "Tu": {
+      "1866918a9e827ca2246c3cdc0800ca8cab9d14fcb63d242959828782dc5e03cc": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "9:00a-9:50a",
+        "building": "SME",
+        "room": "306",
+        "instructors": [
+          "Delson, Nathan Joseph"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "0f7ca72a2d340c175b741a3f469c9f261758f51dfd77078e1d20ec0fb59c473a": {
+        "sectxt": true,
+        "sectionID": "930697",
+        "type": "LA",
+        "section": "A01",
+        "days": "Tu",
+        "time": "10:00a-11:50a",
+        "building": "SME",
+        "room": "306",
+        "instructors": [
+          "Delson, Nathan Joseph"
+        ],
+        "start_time": "10:00",
+        "end_time": "11:50"
+      }
+    },
+    "W": {
+      "467a04643c312b6e75eb7b65790966ad1c16aae38e729654614ce0e8bdf51fdc": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -53,14 +49,13 @@
         "time": "9:00a-9:50a",
         "building": "SME",
         "room": "306",
-        "instructor": "Delson, Nathan Joseph",
         "instructors": [
           "Delson, Nathan Joseph"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "c80bf51f462d8d2abc2ff76647d2a622309694de725fc1141257afa4330356a6": {
         "sectxt": true,
         "sectionID": "930701",
         "type": "LA",
@@ -69,17 +64,16 @@
         "time": "10:00a-11:50a",
         "building": "SME",
         "room": "306",
-        "instructor": "Delson, Nathan Joseph",
         "instructors": [
           "Delson, Nathan Joseph"
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

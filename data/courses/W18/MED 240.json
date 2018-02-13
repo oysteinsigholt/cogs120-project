@@ -3,33 +3,12 @@
   "name": "Careers in Medicine",
   "department": "MED",
   "id": "240",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930447",
-      "type": "LE",
-      "section": "A00",
-      "days": "Th",
-      "time": "1:00p-3:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Ly, Binh T.",
-      "instructors": [
-        "Ly, Binh T."
-      ],
-      "start_time": "13:00",
-      "end_time": "15:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "9ba0472c3c56e6476d0795f053f52e896de26995eb4329fc5a00292568e855f7": {
         "sectxt": true,
         "sectionID": "930447",
         "type": "LE",
@@ -38,16 +17,15 @@
         "time": "1:00p-3:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Ly, Binh T.",
         "instructors": [
           "Ly, Binh T."
         ],
         "start_time": "13:00",
         "end_time": "15:00"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

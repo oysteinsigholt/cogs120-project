@@ -3,31 +3,89 @@
   "name": "Special Topics Course",
   "department": "GPGN",
   "id": "490",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929054",
-      "type": "LE",
-      "section": "F00",
-      "days": "Tu",
-      "time": "6:30p-9:20p",
-      "building": "RBC",
-      "room": "3202",
-      "instructor": "Cheung, TaiMing",
-      "instructors": [
-        "Cheung, TaiMing"
-      ],
-      "start_time": "18:30",
-      "end_time": "21:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "9126793692a80a847211ed4dcaeb4ea6fb703c068a33d32bffa1b9b276baf2c9": {
+        "sectxt": true,
+        "sectionID": "921700",
+        "type": "LE",
+        "section": "C00",
+        "days": "MW",
+        "time": "11:00a-12:20p",
+        "building": "RBC",
+        "room": "1201",
+        "instructors": [
+          "Garfias Royo, Ek Francisco"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "6549ff33bc12ebeb270147a44efa485cb519e210afcb3997fe2c3d7fe6ca4671": {
+        "sectxt": true,
+        "sectionID": "925484",
+        "type": "LE",
+        "section": "E00",
+        "days": "MW",
+        "time": "12:30p-1:50p",
+        "building": "RBC",
+        "room": "3203",
+        "instructors": [
+          "Bold, William Andrew"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "1b3c6ad8136a5102920975d33e5b18a8689fce608bdf2ffb6bcf47e6ae37b7a9": {
+        "sectxt": true,
+        "sectionID": "921698",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "11:00a-12:20p",
+        "building": "RBC",
+        "room": "3203",
+        "instructors": [
+          "Jia, Ruixue"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    },
+    "Tu": {
+      "7f2d573c755d174c942f68cf3c2baa51ba24178560dd0cfba31ca27915db3577": {
+        "sectxt": true,
+        "sectionID": "921701",
+        "type": "LE",
+        "section": "D00",
+        "days": "Tu",
+        "time": "6:30p-9:20p",
+        "building": "RBC",
+        "room": "3201",
+        "instructors": [
+          "Fernandez De Castr, Rafael"
+        ],
+        "start_time": "18:30",
+        "end_time": "21:20"
+      },
+      "7c76268273a7c99e70bd4f51e0ba6ba7b94af476c679b55ad85c36bf9300ca40": {
         "sectxt": true,
         "sectionID": "929054",
         "type": "LE",
@@ -36,18 +94,84 @@
         "time": "6:30p-9:20p",
         "building": "RBC",
         "room": "3202",
-        "instructor": "Cheung, TaiMing",
         "instructors": [
           "Cheung, TaiMing"
         ],
         "start_time": "18:30",
         "end_time": "21:20"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "W": {
+      "c37212ff7179026954da2c1d93a0a5930d5f99888ac4056bc63d13a9afdafe29": {
+        "sectxt": true,
+        "sectionID": "921700",
+        "type": "LE",
+        "section": "C00",
+        "days": "MW",
+        "time": "11:00a-12:20p",
+        "building": "RBC",
+        "room": "1201",
+        "instructors": [
+          "Garfias Royo, Ek Francisco"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "ac0793c05291c1574dd8c45b704bc6311f0c54ab922fe22e76da7433c65ddca2": {
+        "sectxt": true,
+        "sectionID": "925484",
+        "type": "LE",
+        "section": "E00",
+        "days": "MW",
+        "time": "12:30p-1:50p",
+        "building": "RBC",
+        "room": "3203",
+        "instructors": [
+          "Bold, William Andrew"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "4fb553b1fe81c0d897a0c45870741fe0f64e8028166d624d08fcd98483c2eee1": {
+        "sectxt": true,
+        "sectionID": "921698",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "11:00a-12:20p",
+        "building": "RBC",
+        "room": "3203",
+        "instructors": [
+          "Jia, Ruixue"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    },
+    "Th": {
+      "0ae8fc89835d4fa406d9331219dbef3ef6b7a14e113125fd336fb8e6d0d590d7": {
+        "sectxt": true,
+        "sectionID": "921699",
+        "type": "LE",
+        "section": "B00",
+        "days": "Th",
+        "time": "6:30p-9:20p",
+        "building": "RBC",
+        "room": "1328",
+        "instructors": [
+          "Gourevitch, Peter Alexis"
+        ],
+        "start_time": "18:30",
+        "end_time": "21:20"
+      }
+    }
+  },
+  "sections": [
+    "C",
+    "D",
+    "E",
+    "F",
+    "A",
+    "B"
+  ]
 }

@@ -3,34 +3,30 @@
   "name": "Graduate Student Colloquium",
   "department": "MATH",
   "id": "296",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927328",
-      "type": "SE",
-      "section": "A00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "W": {
+      "bacba6ea7d8930e5ebcd5c1a6629b9005f3a1ce113cdd02df62453e043e78b72": {
+        "sectxt": true,
+        "sectionID": "933698",
+        "type": "SE",
+        "section": "B00",
+        "days": "W",
+        "time": "12:00p-12:50p",
+        "building": "APM",
+        "room": "6402",
+        "instructors": [
+          "Novak, Jonathan I"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

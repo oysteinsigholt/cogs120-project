@@ -3,31 +3,151 @@
   "name": "Analytical Writing B",
   "department": "AWP",
   "id": "2B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928913",
-      "type": "SE",
-      "section": "013",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "MANDE",
-      "room": "127",
-      "instructor": "Tsurska, Olena Anatoliyivn",
-      "instructors": [
-        "Tsurska, Olena Anatoliyivn"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    }
+  "notes": [
+    "Location: Literature 245",
+    "Location: Literature 245",
+    "Location: LIT 245"
   ],
-  "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "694cdd86905f6e85d4927395e3ff6a5b4e881950c7c482bec6e38df0253bb3dc": {
+        "sectxt": true,
+        "sectionID": "920727",
+        "type": "SE",
+        "section": "004",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "YORK",
+        "room": "4060B",
+        "instructors": [
+          "Twohig, Niall Ivan"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "242bfd7ee7b59e423dbfbba9d065d53011bd8a76c86d189d4cc8ae89b01a47b0": {
+        "sectxt": true,
+        "sectionID": "920728",
+        "type": "SE",
+        "section": "005",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Christie, Veronica Ann"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "0156733a4a6799770ee600500b622f2689881e09ce47be1d3fbd7bc1383f929b": {
+        "sectxt": true,
+        "sectionID": "920729",
+        "type": "SE",
+        "section": "006",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Gocsik, Karen Marie"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "5a5472710267ef6ed9df21873123c943dea3a06117863174a2518cdf13c0a6b0": {
+        "sectxt": true,
+        "sectionID": "920730",
+        "type": "SE",
+        "section": "007",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Gocsik, Karen Marie"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "21ab51f4b354c2fed0655d2022278190c0678bd06dbbe4ae4fbcba24110d6d78": {
+        "sectxt": true,
+        "sectionID": "920731",
+        "type": "SE",
+        "section": "008",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "YORK",
+        "room": "4060B",
+        "instructors": [
+          "Coulter, Jane Elisabeth"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "52552f56f93bb271bbc9e4efe12cfa4e4ca0f239e0631686c7e527b127441715": {
+        "sectxt": true,
+        "sectionID": "920732",
+        "type": "SE",
+        "section": "009",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "HSS",
+        "room": "1106A",
+        "instructors": [
+          "Curiel, Sarah Anastasia"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "587f30745905d37a87bdfd334f40ebae0ac8ad1dea1cb41f16e9de3012d7baef": {
+        "sectxt": true,
+        "sectionID": "920733",
+        "type": "SE",
+        "section": "010",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "West, Summer Noel"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "bddff5c5e4523563e52777408b60f47009e1d80a7d9d5759211c3b0cb98fdac2": {
+        "sectxt": true,
+        "sectionID": "920734",
+        "type": "SE",
+        "section": "011",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "MCGIL",
+        "room": "2315",
+        "instructors": [
+          "Wilson, Natalie Ann"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "2a92ea4c7c3b8bed7103b36fadeab28d9ea9b31d874f14cdd6deb0971f1c0287": {
+        "sectxt": true,
+        "sectionID": "928912",
+        "type": "SE",
+        "section": "012",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "MANDE",
+        "room": "127",
+        "instructors": [
+          "Tsurska, Olena Anatoliyivn"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "7e738620e09f36b3a95dacc92de293a0524db647b39685535e5493336dd34887": {
         "sectxt": true,
         "sectionID": "928913",
         "type": "SE",
@@ -36,17 +156,300 @@
         "time": "9:30a-10:50a",
         "building": "MANDE",
         "room": "127",
-        "instructor": "Tsurska, Olena Anatoliyivn",
         "instructors": [
           "Tsurska, Olena Anatoliyivn"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
+      },
+      "aeec8ededec0316f2fe5525c050a0d3e9208f4a2bd33f7d0f0672178f5976916": {
+        "sectxt": true,
+        "sectionID": "920724",
+        "type": "SE",
+        "section": "001",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "Wilson, Natalie Ann"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "9448093308e371bfa7036971dd82ca9cc476f064f81523f65f15236b2a0a17ac": {
+        "sectxt": true,
+        "sectionID": "920725",
+        "type": "SE",
+        "section": "002",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "YORK",
+        "room": "4060B",
+        "instructors": [
+          "Twohig, Niall Ivan"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "b803688a2b2c3226b82e414dcf4d17af7847f291716476781afc39fc94218142": {
+        "sectxt": true,
+        "sectionID": "920726",
+        "type": "SE",
+        "section": "003",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "YORK",
+        "room": "4050B",
+        "instructors": [
+          "Christie, Veronica Ann"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "26111646de9c9b784abf7503a0365b591832de06a7619cc4da35c5687faccabf": {
+        "sectxt": true,
+        "sectionID": "928914",
+        "type": "SE",
+        "section": "014",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "MANDE",
+        "room": "127",
+        "instructors": [
+          "Gonzales, Paulina Margarita"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "443478b4b77597243449fd2881ca74deae8b378bad9ed73a1f96573e3554618e": {
+        "sectxt": true,
+        "sectionID": "928915",
+        "type": "SE",
+        "section": "015",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "MANDE",
+        "room": "127",
+        "instructors": [
+          "West, Summer Noel"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "3c7865f6f63cfcf78607c3fe91f509bc8f8d7e8474481ece354bdc90cab7e70d": {
+        "sectxt": true,
+        "sectionID": "928927",
+        "type": "SE",
+        "section": "016",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "MANDE",
+        "room": "127",
+        "instructors": [
+          "Gonzales, Paulina Margarita"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "866b707f379930030effb4ef4030f19a7520bdd550254f9e005301663efe3ceb": {
+        "sectxt": true,
+        "sectionID": "928928",
+        "type": "SE",
+        "section": "017",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "MANDE",
+        "room": "127",
+        "instructors": [
+          "Gonzales, Paulina Margarita"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "7e2c33b048adfd36c07316374971bacc7a4f2e54fa4f81dae6f811c2049a2ebc": {
+        "sectxt": true,
+        "sectionID": "928931",
+        "type": "SE",
+        "section": "018",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Young, Hillary Jean"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "3b07e4795bbffc1e96d3ab195dee5e3876bc43e16c86fc5d8f19b85851956dd7": {
+        "sectxt": true,
+        "sectionID": "928929",
+        "type": "SE",
+        "section": "019",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "Wilson, Natalie Ann"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "a2da92f2c4ff926a23c5ea84f75a20f60e2454dcf5f9813e38f1e3720083bd7e": {
+        "sectxt": true,
+        "sectionID": "928930",
+        "type": "SE",
+        "section": "020",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "West, Summer Noel"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "acbb31932c7e81eb1129c83547572a58a828d4bb1dc11f9a8e4d90bd1095a9e7": {
+        "sectxt": true,
+        "sectionID": "920727",
+        "type": "SE",
+        "section": "004",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "YORK",
+        "room": "4060B",
+        "instructors": [
+          "Twohig, Niall Ivan"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "cb4979acb9ac3fb0ee2f9131425e7e137e04a00eeb9b0cb57b7ddee147e7adb3": {
+        "sectxt": true,
+        "sectionID": "920728",
+        "type": "SE",
+        "section": "005",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "Christie, Veronica Ann"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "f44122c796619118b69ba59d4bb0f0382da944b7ac95f328e8fa0add50fefa61": {
+        "sectxt": true,
+        "sectionID": "920729",
+        "type": "SE",
+        "section": "006",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Gocsik, Karen Marie"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "96f2235e82e9c2220d1a756ba780e626f533bc040a8dcabbf2f7ea55ed1f6601": {
+        "sectxt": true,
+        "sectionID": "920730",
+        "type": "SE",
+        "section": "007",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Gocsik, Karen Marie"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "97abb1ef2639ecc02c864a18daf93d9aa57eb5fee6f9efffa3ad29a803d2fe19": {
+        "sectxt": true,
+        "sectionID": "920731",
+        "type": "SE",
+        "section": "008",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "YORK",
+        "room": "4060B",
+        "instructors": [
+          "Coulter, Jane Elisabeth"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "b2134a3c75695ff5369d475b8006e9386fd1cd74bf4049930af5d6601433a13a": {
+        "sectxt": true,
+        "sectionID": "920732",
+        "type": "SE",
+        "section": "009",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "HSS",
+        "room": "1106A",
+        "instructors": [
+          "Curiel, Sarah Anastasia"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "330cb0b212b4299ad72fd10280e7e49c1c2193226c40425018fa2cdfa8f9e1b5": {
+        "sectxt": true,
+        "sectionID": "920733",
+        "type": "SE",
+        "section": "010",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "HSS",
+        "room": "2305A",
+        "instructors": [
+          "West, Summer Noel"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "a9c56ef9d99ead2fc2ae0d0c8f0c92e6f099b805e614df4702b7bcc4413965da": {
+        "sectxt": true,
+        "sectionID": "920734",
+        "type": "SE",
+        "section": "011",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "MCGIL",
+        "room": "2315",
+        "instructors": [
+          "Wilson, Natalie Ann"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "1ad91d899b62c4684877a42334b5c4d6f13c89977af8180de907766c8657ee90": {
+        "sectxt": true,
+        "sectionID": "928912",
+        "type": "SE",
+        "section": "012",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "MANDE",
+        "room": "127",
+        "instructors": [
+          "Tsurska, Olena Anatoliyivn"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "24a15101fcec3f41a99c0e03852abb3c82d632073bfc52e3f570de62b6af4d69": {
         "sectxt": true,
         "sectionID": "928913",
         "type": "SE",
@@ -55,16 +458,165 @@
         "time": "9:30a-10:50a",
         "building": "MANDE",
         "room": "127",
-        "instructor": "Tsurska, Olena Anatoliyivn",
         "instructors": [
           "Tsurska, Olena Anatoliyivn"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
+      },
+      "5068a9052e87176a994618e7832384d903dce8f8d58456aa9203da4bc6a95f31": {
+        "sectxt": true,
+        "sectionID": "920724",
+        "type": "SE",
+        "section": "001",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "Wilson, Natalie Ann"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "7a0df08a6e068b522f4479db9754c23a482683735d66fc43dc6d259c894ada40": {
+        "sectxt": true,
+        "sectionID": "920725",
+        "type": "SE",
+        "section": "002",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "YORK",
+        "room": "4060B",
+        "instructors": [
+          "Twohig, Niall Ivan"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "6e76035ef263b15505e861e5deb5a4ad632e1c89965c8260c02fc53f8955c540": {
+        "sectxt": true,
+        "sectionID": "920726",
+        "type": "SE",
+        "section": "003",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "YORK",
+        "room": "4050B",
+        "instructors": [
+          "Christie, Veronica Ann"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "c43c2edd6fa044e546d5462cc600d51a4ea3d712c529f3925f3b1b257b4d42da": {
+        "sectxt": true,
+        "sectionID": "928914",
+        "type": "SE",
+        "section": "014",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "MANDE",
+        "room": "127",
+        "instructors": [
+          "Gonzales, Paulina Margarita"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "da5904864e198b80292f988c2cf99844a194116d83863aa7d24a284d98e9e80c": {
+        "sectxt": true,
+        "sectionID": "928915",
+        "type": "SE",
+        "section": "015",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "MANDE",
+        "room": "127",
+        "instructors": [
+          "West, Summer Noel"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "65a7af0952886d9b69396ccc742fb315a25a23b4bbd94f931aecf11fdfaab5ae": {
+        "sectxt": true,
+        "sectionID": "928927",
+        "type": "SE",
+        "section": "016",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "MANDE",
+        "room": "127",
+        "instructors": [
+          "Gonzales, Paulina Margarita"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "ff0ccc6421ad52074fe2c30f43ad0f0d890bff0e885a20c7914a22793b39f88d": {
+        "sectxt": true,
+        "sectionID": "928928",
+        "type": "SE",
+        "section": "017",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "MANDE",
+        "room": "127",
+        "instructors": [
+          "Gonzales, Paulina Margarita"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "370bf0f16c300ffcfa850815b45c1ff46a973babd6f5596b428ddb54e727ca28": {
+        "sectxt": true,
+        "sectionID": "928931",
+        "type": "SE",
+        "section": "018",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Young, Hillary Jean"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "639dbc926b85c1735a21327f52297dfb414680be2f4e1545e0a1d77f2e497e8b": {
+        "sectxt": true,
+        "sectionID": "928929",
+        "type": "SE",
+        "section": "019",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "SSB",
+        "room": "106",
+        "instructors": [
+          "Wilson, Natalie Ann"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "247b07841986770f3236d141e021062d0e5eee0f1e91834a4afcb574801482da": {
+        "sectxt": true,
+        "sectionID": "928930",
+        "type": "SE",
+        "section": "020",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "HSS",
+        "room": "2305B",
+        "instructors": [
+          "West, Summer Noel"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "0"
+  ]
 }

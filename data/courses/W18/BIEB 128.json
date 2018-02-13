@@ -3,106 +3,9 @@
   "name": "Insect Diversity",
   "department": "BIEB",
   "id": "128",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "9:00a-9:50a",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "Holway, David A.",
-      "instructors": [
-        "Holway, David A."
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925911",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "11:00a-11:50a",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Holway, David A.",
-      "instructors": [
-        "Holway, David A."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925912",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Holway, David A.",
-      "instructors": [
-        "Holway, David A."
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925913",
-      "type": "DI",
-      "section": "A03",
-      "days": "W",
-      "time": "8:00a-8:50a",
-      "building": "CENTR",
-      "room": "205",
-      "instructor": "Holway, David A.",
-      "instructors": [
-        "Holway, David A."
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925914",
-      "type": "DI",
-      "section": "A04",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Holway, David A.",
-      "instructors": [
-        "Holway, David A."
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -111,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1866918a9e827ca2246c3cdc0800ca8cab9d14fcb63d242959828782dc5e03cc": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -130,14 +32,13 @@
         "time": "9:00a-9:50a",
         "building": "CSB",
         "room": "002",
-        "instructor": "Holway, David A.",
         "instructors": [
           "Holway, David A."
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "5cae7309abc6a38aa9b5760f1b1fc80034f5bac158e9ef8e49057b22013e98eb": {
         "sectxt": true,
         "sectionID": "925911",
         "type": "DI",
@@ -146,14 +47,13 @@
         "time": "11:00a-11:50a",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Holway, David A.",
         "instructors": [
           "Holway, David A."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "90d520ad89a3d934400b871b0360e5b2c3d09e8964e2b728b109856a7a214e6e": {
         "sectxt": true,
         "sectionID": "925912",
         "type": "DI",
@@ -162,17 +62,15 @@
         "time": "4:00p-4:50p",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Holway, David A.",
         "instructors": [
           "Holway, David A."
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "664fb1192c899ad420c384f1035679fd9aa443bbe17868a3444009b2ce9ed2d0": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -181,14 +79,13 @@
         "time": "9:00a-9:50a",
         "building": "CSB",
         "room": "002",
-        "instructor": "Holway, David A.",
         "instructors": [
           "Holway, David A."
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "c8072bdbde40d7f2e56ae1b435a0b4dc68517c44ad4ffc93bf90b9a1d318094f": {
         "sectxt": true,
         "sectionID": "925913",
         "type": "DI",
@@ -197,17 +94,15 @@
         "time": "8:00a-8:50a",
         "building": "CENTR",
         "room": "205",
-        "instructor": "Holway, David A.",
         "instructors": [
           "Holway, David A."
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "e0c71401fe619db626c079241f95ffbc9af299dc6dba6b446063c58d72b82533": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -216,14 +111,13 @@
         "time": "9:00a-9:50a",
         "building": "CSB",
         "room": "002",
-        "instructor": "Holway, David A.",
         "instructors": [
           "Holway, David A."
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "286eab5e2e2c56748f5ee8d9b8a1dd869aedbc1707a0a4ee7bf54b20084d1084": {
         "sectxt": true,
         "sectionID": "925914",
         "type": "DI",
@@ -232,15 +126,15 @@
         "time": "3:00p-3:50p",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Holway, David A.",
         "instructors": [
           "Holway, David A."
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

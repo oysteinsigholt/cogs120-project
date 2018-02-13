@@ -3,394 +3,37 @@
   "name": "Classical & Medieval Tradition",
   "department": "MMW",
   "id": "12",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "C00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921571",
-      "type": "DI",
-      "section": "C01",
-      "days": "TuTh",
-      "time": "8:00a-8:50a",
-      "building": "ASANT",
-      "room": "123D",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921572",
-      "type": "DI",
-      "section": "C02",
-      "days": "TuTh",
-      "time": "9:00a-9:50a",
-      "building": "ASANT",
-      "room": "123D",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921573",
-      "type": "DI",
-      "section": "C03",
-      "days": "WF",
-      "time": "10:00a-10:50a",
-      "building": "ASANT",
-      "room": "123B",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921574",
-      "type": "DI",
-      "section": "C04",
-      "days": "WF",
-      "time": "11:00a-11:50a",
-      "building": "ASANT",
-      "room": "123B",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921575",
-      "type": "DI",
-      "section": "C05",
-      "days": "TuTh",
-      "time": "2:00p-2:50p",
-      "building": "ASANT",
-      "room": "123A",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921576",
-      "type": "DI",
-      "section": "C06",
-      "days": "TuTh",
-      "time": "3:00p-3:50p",
-      "building": "ASANT",
-      "room": "123A",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921577",
-      "type": "DI",
-      "section": "C07",
-      "days": "TuTh",
-      "time": "8:00a-8:50a",
-      "building": "ASANT",
-      "room": "123B",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921578",
-      "type": "DI",
-      "section": "C08",
-      "days": "TuTh",
-      "time": "9:00a-9:50a",
-      "building": "ASANT",
-      "room": "123B",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921579",
-      "type": "DI",
-      "section": "C09",
-      "days": "TuTh",
-      "time": "1:00p-1:50p",
-      "building": "CENTR",
-      "room": "204",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921580",
-      "type": "DI",
-      "section": "C10",
-      "days": "TuTh",
-      "time": "2:00p-2:50p",
-      "building": "CENTR",
-      "room": "204",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921581",
-      "type": "DI",
-      "section": "C11",
-      "days": "TuTh",
-      "time": "3:00p-3:50p",
-      "building": "CENTR",
-      "room": "204",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921582",
-      "type": "DI",
-      "section": "C12",
-      "days": "TuTh",
-      "time": "4:00p-4:50p",
-      "building": "CENTR",
-      "room": "204",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921583",
-      "type": "DI",
-      "section": "C13",
-      "days": "WF",
-      "time": "2:00p-2:50p",
-      "building": "ASANT",
-      "room": "123D",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921584",
-      "type": "DI",
-      "section": "C14",
-      "days": "WF",
-      "time": "3:00p-3:50p",
-      "building": "ASANT",
-      "room": "123D",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921585",
-      "type": "DI",
-      "section": "C15",
-      "days": "TuTh",
-      "time": "4:00p-4:50p",
-      "building": "ASANT",
-      "room": "123D",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921586",
-      "type": "DI",
-      "section": "C16",
-      "days": "TuTh",
-      "time": "5:00p-5:50p",
-      "building": "ASANT",
-      "room": "123D",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921587",
-      "type": "DI",
-      "section": "C17",
-      "days": "WF",
-      "time": "8:00a-8:50a",
-      "building": "ASANT",
-      "room": "123A",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921588",
-      "type": "DI",
-      "section": "C18",
-      "days": "WF",
-      "time": "9:00a-9:50a",
-      "building": "ASANT",
-      "room": "123A",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921589",
-      "type": "DI",
-      "section": "C19",
-      "days": "WF",
-      "time": "10:00a-10:50a",
-      "building": "ASANT",
-      "room": "123A",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921590",
-      "type": "DI",
-      "section": "C20",
-      "days": "WF",
-      "time": "11:00a-11:50a",
-      "building": "ASANT",
-      "room": "123A",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921591",
-      "type": "DI",
-      "section": "C21",
-      "days": "WF",
-      "time": "8:00a-8:50a",
-      "building": "ASANT",
-      "room": "123C",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921592",
-      "type": "DI",
-      "section": "C22",
-      "days": "WF",
-      "time": "9:00a-9:50a",
-      "building": "ASANT",
-      "room": "123C",
-      "instructor": "Chang, Edmond Yi-Teh",
-      "instructors": [
-        "Chang, Edmond Yi-Teh"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -399,18 +42,288 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "1866918a9e827ca2246c3cdc0800ca8cab9d14fcb63d242959828782dc5e03cc": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "WLH",
+        "room": "2001",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "24017a74fa28bf66c3fdd65208e571f30776f867bbb0b596dad54c87a0661a66": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "GH",
+        "room": "242",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    },
+    "Tu": {
+      "92db69b8fd9bd7c81263cb55b46e04840603fc412183c3a90db8fc3703343742": {
+        "sectxt": true,
+        "sectionID": "921525",
+        "type": "DI",
+        "section": "A01",
+        "days": "TuTh",
+        "time": "8:00a-8:50a",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "c842b6e61daab7a2aa074d48e9d1365cff736c95354de52cc647f555afe9c089": {
+        "sectxt": true,
+        "sectionID": "921526",
+        "type": "DI",
+        "section": "A02",
+        "days": "TuTh",
+        "time": "9:00a-9:50a",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "55168b9b2ecb4b368b949e7389e2a7efc2c76ba9cf97bab7be30f7deb1548480": {
+        "sectxt": true,
+        "sectionID": "921527",
+        "type": "DI",
+        "section": "A03",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "2d2593a36de854c966f27df57aa2c569e28bc7ebc527626ae4df2240d5ec5ad1": {
+        "sectxt": true,
+        "sectionID": "921528",
+        "type": "DI",
+        "section": "A04",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "c656383c9496634c72dd494f6ac9980aef4720f10d4e691ff14e5d7e385947a8": {
+        "sectxt": true,
+        "sectionID": "921529",
+        "type": "DI",
+        "section": "A05",
+        "days": "TuTh",
+        "time": "12:00p-12:50p",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "e77fc17514f373c2cb254d6dccfc7b9db530b49043faa17eaa15a5658c1122d2": {
+        "sectxt": true,
+        "sectionID": "921530",
+        "type": "DI",
+        "section": "A06",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "17f7d25ec98cf0c8e72b99307201ee403e47296a5502261468532bec11cd343f": {
+        "sectxt": true,
+        "sectionID": "921548",
+        "type": "DI",
+        "section": "B01",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "f140edcd570afd2f50a0faf2b7512fbfb8cd77ba7328ff77d416d44989fbdda0": {
+        "sectxt": true,
+        "sectionID": "921549",
+        "type": "DI",
+        "section": "B02",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "aef3131b105bec0459babcc9b01caed9bdac44feefe650a5d16091d1d07f78c4": {
+        "sectxt": true,
+        "sectionID": "921550",
+        "type": "DI",
+        "section": "B03",
+        "days": "TuTh",
+        "time": "12:00p-12:50p",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "461e266ecd2f28f3c78d2aa4241a12057d18a3ff2049e1049b3af94c621b6539": {
+        "sectxt": true,
+        "sectionID": "921551",
+        "type": "DI",
+        "section": "B04",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "c71a672ada0f91f7fcd5e5f7acec1940cee55422dd0e525b4d53020038879901": {
+        "sectxt": true,
+        "sectionID": "921552",
+        "type": "DI",
+        "section": "B05",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "95cf92ea37daee9e9556355e2151188f18da8250f3db998c47884b6709ba4dc9": {
+        "sectxt": true,
+        "sectionID": "921553",
+        "type": "DI",
+        "section": "B06",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "eda78d3575267e432765c2e558a655175120875fb082b87d9ee0efbbbabc2082": {
+        "sectxt": true,
+        "sectionID": "921554",
+        "type": "DI",
+        "section": "B07",
+        "days": "TuTh",
+        "time": "4:00p-4:50p",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "1f9c9dafd104c93224486a7ddbbbaec7bd963c1f727397ce191fe7d4a329e0a6": {
+        "sectxt": true,
+        "sectionID": "921555",
+        "type": "DI",
+        "section": "B08",
+        "days": "TuTh",
+        "time": "5:00p-5:50p",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "aa9a997217137eafc9658be34180de04b772353599f5dbb6a1da04feb245a631": {
+        "sectxt": true,
+        "sectionID": "921558",
+        "type": "DI",
+        "section": "B11",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "46c3179f489961208a037e1a8eb05ff7aed87e0cb3ac911980a2cbb12b199726": {
+        "sectxt": true,
+        "sectionID": "921559",
+        "type": "DI",
+        "section": "B12",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "d62377da29124fb30c9a8083ad3a0698bd69f48533656244c6a0d640e58db136": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -419,14 +332,13 @@
         "time": "11:00a-12:20p",
         "building": "WLH",
         "room": "2001",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       },
-      {
+      "9ce3d3adc6441af0fbf46c8c2fa701ab20a6c4ad649ea56a818d6b0c38b5e747": {
         "sectxt": true,
         "sectionID": "921571",
         "type": "DI",
@@ -435,14 +347,13 @@
         "time": "8:00a-8:50a",
         "building": "ASANT",
         "room": "123D",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "36289a234f05a722a6052e7b3df256eeed0b68155d167680d7a0abb35a43c030": {
         "sectxt": true,
         "sectionID": "921572",
         "type": "DI",
@@ -451,14 +362,13 @@
         "time": "9:00a-9:50a",
         "building": "ASANT",
         "room": "123D",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "03a3afa3a7a787d8cd352acebf9405fa00f5282c1b09b08ded6220e7d0bfe606": {
         "sectxt": true,
         "sectionID": "921575",
         "type": "DI",
@@ -467,14 +377,13 @@
         "time": "2:00p-2:50p",
         "building": "ASANT",
         "room": "123A",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "a4b8e8e292b08025aa1ec79bcb4c15fe95a14d529b8df50c1a131d05418c0819": {
         "sectxt": true,
         "sectionID": "921576",
         "type": "DI",
@@ -483,14 +392,13 @@
         "time": "3:00p-3:50p",
         "building": "ASANT",
         "room": "123A",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "684544b320f756c19e443d835ee5fe684054e4951c9f519270b5cbd67437cf2b": {
         "sectxt": true,
         "sectionID": "921577",
         "type": "DI",
@@ -499,14 +407,13 @@
         "time": "8:00a-8:50a",
         "building": "ASANT",
         "room": "123B",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "51a49999cdf4fa2f8a92bc37dd90794eb98c6c6f99472af4a1b1a0712a9a5844": {
         "sectxt": true,
         "sectionID": "921578",
         "type": "DI",
@@ -515,14 +422,13 @@
         "time": "9:00a-9:50a",
         "building": "ASANT",
         "room": "123B",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "2c3b38f32e886df6201ad2b667e0f62585bca3dbc3b764b7ff2ea2a32e08601d": {
         "sectxt": true,
         "sectionID": "921579",
         "type": "DI",
@@ -531,14 +437,13 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "204",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "9a030cf3c43fcc97894d363a07f65da77b3ef29af78e9154ea11e0ea6561aab5": {
         "sectxt": true,
         "sectionID": "921580",
         "type": "DI",
@@ -547,14 +452,13 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "204",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "c9253d8b5bd9b81c011221eb6d54cfe9ea90958fa4e93cdc0a361142495582c0": {
         "sectxt": true,
         "sectionID": "921581",
         "type": "DI",
@@ -563,14 +467,13 @@
         "time": "3:00p-3:50p",
         "building": "CENTR",
         "room": "204",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "10bf15da531a51a523665a61b44b4d3215100099365200361bd80ef46c662d81": {
         "sectxt": true,
         "sectionID": "921582",
         "type": "DI",
@@ -579,14 +482,13 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "204",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "a89ed89116ef00967c367b1ca9659ec60242785a5058a190798f9d7fc11f95f8": {
         "sectxt": true,
         "sectionID": "921585",
         "type": "DI",
@@ -595,14 +497,13 @@
         "time": "4:00p-4:50p",
         "building": "ASANT",
         "room": "123D",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "1a5b60611f719a421f17171f09a6e013e5163a9b09c2da1474d14798a2fa5f31": {
         "sectxt": true,
         "sectionID": "921586",
         "type": "DI",
@@ -611,16 +512,465 @@
         "time": "5:00p-5:50p",
         "building": "ASANT",
         "room": "123D",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "664fb1192c899ad420c384f1035679fd9aa443bbe17868a3444009b2ce9ed2d0": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "WLH",
+        "room": "2001",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "14aab6c761d5c43dd19427d51b9751c971b0075aabe74569c11e0fca030c8648": {
+        "sectxt": true,
+        "sectionID": "921531",
+        "type": "DI",
+        "section": "A07",
+        "days": "WF",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "204",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "ef33e9b7b950f3ef9f5257ef1b22a5f40a1e1141d2194f09df4bb9d2d57b1c68": {
+        "sectxt": true,
+        "sectionID": "921532",
+        "type": "DI",
+        "section": "A08",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "204",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "b0428220cc09002d90e28bc29b9a353a2633e6a0a2794f9b74dfaa10fbe1d754": {
+        "sectxt": true,
+        "sectionID": "921533",
+        "type": "DI",
+        "section": "A09",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "11d854ba03f0cc6e7a8203fdc24a891fef0ec23b0de7b558185b1318252b6ee6": {
+        "sectxt": true,
+        "sectionID": "921534",
+        "type": "DI",
+        "section": "A10",
+        "days": "WF",
+        "time": "1:00p-1:50p",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "7775b65aecab9eb2a5c40f27e1a4ed4a9ce82e34bdc2050379bd6b7bc5083892": {
+        "sectxt": true,
+        "sectionID": "921535",
+        "type": "DI",
+        "section": "A11",
+        "days": "WF",
+        "time": "4:00p-4:50p",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "a230ea4b8333ca5d9f22d999dc3e53a9116ec56b3c168aa85468479f3c0ac8ae": {
+        "sectxt": true,
+        "sectionID": "921536",
+        "type": "DI",
+        "section": "A12",
+        "days": "WF",
+        "time": "5:00p-5:50p",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "3fac35456838a557b498cce55eeb89755ccfbe9088be7f433b399a6755ef6c27": {
+        "sectxt": true,
+        "sectionID": "921537",
+        "type": "DI",
+        "section": "A13",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "204",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "fd23376075f0ad9c3b3be6ea2a4fadd14391bd4ffeaf286ea488905dafb8b27f": {
+        "sectxt": true,
+        "sectionID": "921538",
+        "type": "DI",
+        "section": "A14",
+        "days": "WF",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "204",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "5c00ace522100d3117c80ca14c21d7002b0a8a64f1d7ed939b494fa8a1d401c9": {
+        "sectxt": true,
+        "sectionID": "921539",
+        "type": "DI",
+        "section": "A15",
+        "days": "WF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "204",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "fa35d61fb601398d7fd59c2f800af11b2b4cfe4a500188b9032393639064dbe0": {
+        "sectxt": true,
+        "sectionID": "921540",
+        "type": "DI",
+        "section": "A16",
+        "days": "WF",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "204",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "cb05f49bf276187e01e6a04911c40fbc44086dffd14549bcff068d3b09af68d1": {
+        "sectxt": true,
+        "sectionID": "921541",
+        "type": "DI",
+        "section": "A17",
+        "days": "WF",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "201",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "16239bb877095ead1aed6c00af21527ca9a717eba42f7d242c51dadbc75edbac": {
+        "sectxt": true,
+        "sectionID": "921542",
+        "type": "DI",
+        "section": "A18",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "201",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "e52cb59afe91c246def271863c71744c6b7c10a300b887d798178b90ec5ff47c": {
+        "sectxt": true,
+        "sectionID": "921543",
+        "type": "DI",
+        "section": "A19",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "9d14324bcf7a69bb89bf253e7bc9bd0da79e2eca1e0eab9a9bb6336d77bbf124": {
+        "sectxt": true,
+        "sectionID": "921544",
+        "type": "DI",
+        "section": "A20",
+        "days": "WF",
+        "time": "1:00p-1:50p",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "63dd829aaa74fa958984ee80f55caa2919fa10e826c7055a2a6a56423bd16c84": {
+        "sectxt": true,
+        "sectionID": "921545",
+        "type": "DI",
+        "section": "A21",
+        "days": "WF",
+        "time": "2:00p-2:50p",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "e31889c6309619fbfd0d0d3f430827f2a41034a6cee9c3b19e4ac396b5d77c57": {
+        "sectxt": true,
+        "sectionID": "921546",
+        "type": "DI",
+        "section": "A22",
+        "days": "WF",
+        "time": "3:00p-3:50p",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "0abf89a3ce8bbb5f2405aeea3b841a1f2d3aadc82089b086ba3365cbfcb4a155": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "GH",
+        "room": "242",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "47b9c229914501200de0470f8e6ed6b75a4f79ca0fa57ac5ec92c59a928c724c": {
+        "sectxt": true,
+        "sectionID": "921556",
+        "type": "DI",
+        "section": "B09",
+        "days": "WF",
+        "time": "10:00a-10:50a",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "de011d8795279aa980f085d69fba04855f862e6cd31ffa64fd4225f05978638e": {
+        "sectxt": true,
+        "sectionID": "921557",
+        "type": "DI",
+        "section": "B10",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "04763ad23175af772ea881ca41ed60e80686cc746d5fb27aa21ad6e376f37238": {
+        "sectxt": true,
+        "sectionID": "921560",
+        "type": "DI",
+        "section": "B13",
+        "days": "WF",
+        "time": "8:00a-8:50a",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "cd23d3510dce1692e500028ca7297c9522e85c6d00e65bd8a6df1a6f86d0cd71": {
+        "sectxt": true,
+        "sectionID": "921561",
+        "type": "DI",
+        "section": "B14",
+        "days": "WF",
+        "time": "9:00a-9:50a",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "8e5abea9f8a342637e8b97db0f626f732e3b3897db5509e4cb6c13d5b43cac25": {
+        "sectxt": true,
+        "sectionID": "921562",
+        "type": "DI",
+        "section": "B15",
+        "days": "WF",
+        "time": "4:00p-4:50p",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "b765741c231e93c9528d971ea6c30fffa0a55114632c2ac2550cb79898d1f5f6": {
+        "sectxt": true,
+        "sectionID": "921563",
+        "type": "DI",
+        "section": "B16",
+        "days": "WF",
+        "time": "5:00p-5:50p",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "b73c75139c4af7031aebadbb8d0df2fb66074f841cf3580b2c0041625ef436d0": {
+        "sectxt": true,
+        "sectionID": "921564",
+        "type": "DI",
+        "section": "B17",
+        "days": "WF",
+        "time": "8:00a-8:50a",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "7bbae9bce2b306cc51c7f48461c62ed843aa9254acfcec8fdfd892b70d4b2dea": {
+        "sectxt": true,
+        "sectionID": "921565",
+        "type": "DI",
+        "section": "B18",
+        "days": "WF",
+        "time": "9:00a-9:50a",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "3b8c82f1d12ca5a5d14853927ce5e47f7e86cb067d830d4401d26cfc3a78e36f": {
+        "sectxt": true,
+        "sectionID": "921566",
+        "type": "DI",
+        "section": "B19",
+        "days": "WF",
+        "time": "4:00p-4:50p",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "dc9c9136ec1afcb8069843e407fccacb79ceb1e655d182e9afa3b8bcfbcc9821": {
+        "sectxt": true,
+        "sectionID": "921567",
+        "type": "DI",
+        "section": "B20",
+        "days": "WF",
+        "time": "5:00p-5:50p",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "13e31808a2575db9c124717b0866ab63d87ca38f6055f1abc2c9fdea84fc06ba": {
+        "sectxt": true,
+        "sectionID": "921568",
+        "type": "DI",
+        "section": "B21",
+        "days": "WF",
+        "time": "4:00p-4:50p",
+        "building": "ASANT",
+        "room": "123C",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "2623467857fb3ac64a89057214035d97e3b4256b30fbb5f2cca5570ebc5b2907": {
+        "sectxt": true,
+        "sectionID": "921569",
+        "type": "DI",
+        "section": "B22",
+        "days": "WF",
+        "time": "5:00p-5:50p",
+        "building": "ASANT",
+        "room": "123C",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "c4be11d2485ff50f1426d9a1af1c9c072ad9f0416e3c4982e7d5373f74349d3b": {
         "sectxt": true,
         "sectionID": "921573",
         "type": "DI",
@@ -629,14 +979,13 @@
         "time": "10:00a-10:50a",
         "building": "ASANT",
         "room": "123B",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "7c2bbe6afcb676f8b38ffd080fa4f43d53ed656d35c0cbc70dd60641f26cce53": {
         "sectxt": true,
         "sectionID": "921574",
         "type": "DI",
@@ -645,14 +994,13 @@
         "time": "11:00a-11:50a",
         "building": "ASANT",
         "room": "123B",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "58e154ca6510c6c8a0eeda78dbca9ca3a75df83beaf6a2783add0546e6986071": {
         "sectxt": true,
         "sectionID": "921583",
         "type": "DI",
@@ -661,14 +1009,13 @@
         "time": "2:00p-2:50p",
         "building": "ASANT",
         "room": "123D",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "5af5342c90cefbd88b914b90be87fac772ff8bfce2aeb6288615e3e2eceb9750": {
         "sectxt": true,
         "sectionID": "921584",
         "type": "DI",
@@ -677,14 +1024,13 @@
         "time": "3:00p-3:50p",
         "building": "ASANT",
         "room": "123D",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "b53770cd641e7e36ec152f9fe43589f6c49ebb7acd349bebcc84c7705cc672d8": {
         "sectxt": true,
         "sectionID": "921587",
         "type": "DI",
@@ -693,14 +1039,13 @@
         "time": "8:00a-8:50a",
         "building": "ASANT",
         "room": "123A",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "4cf9dc0f3917bde776428653236ea45dc1145a48f639b5e3b66c89ea95849718": {
         "sectxt": true,
         "sectionID": "921588",
         "type": "DI",
@@ -709,14 +1054,13 @@
         "time": "9:00a-9:50a",
         "building": "ASANT",
         "room": "123A",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "9ca68062351ea7ba89822853b6e7fe215d5582030a3e72df121fa7dda4aeaf39": {
         "sectxt": true,
         "sectionID": "921589",
         "type": "DI",
@@ -725,14 +1069,13 @@
         "time": "10:00a-10:50a",
         "building": "ASANT",
         "room": "123A",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "9106e12dd905fb041192588f53380b61711760d30aad7a21760673a1f61e9670": {
         "sectxt": true,
         "sectionID": "921590",
         "type": "DI",
@@ -741,14 +1084,13 @@
         "time": "11:00a-11:50a",
         "building": "ASANT",
         "room": "123A",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "3d96e2f4e889cd3991e0013a08de85e88d16ff9210519c02209a8098a2259943": {
         "sectxt": true,
         "sectionID": "921591",
         "type": "DI",
@@ -757,14 +1099,13 @@
         "time": "8:00a-8:50a",
         "building": "ASANT",
         "room": "123C",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "776fbcc388416f1c93e8a888c2f2d8a76084f6963295207bad6c6702ed334f65": {
         "sectxt": true,
         "sectionID": "921592",
         "type": "DI",
@@ -773,16 +1114,255 @@
         "time": "9:00a-9:50a",
         "building": "ASANT",
         "room": "123C",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "36777ca5203a6f1c230cb3ccc357eab48e2d7e1a246083cae564abb200455f61": {
+        "sectxt": true,
+        "sectionID": "921525",
+        "type": "DI",
+        "section": "A01",
+        "days": "TuTh",
+        "time": "8:00a-8:50a",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "d6b3c4b95bd71a9af2de702576cb89811a20945341d58b32ea37d05b966dc6fc": {
+        "sectxt": true,
+        "sectionID": "921526",
+        "type": "DI",
+        "section": "A02",
+        "days": "TuTh",
+        "time": "9:00a-9:50a",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "9322857119eb92fe2c9c0d60ace781354639ad44504297a8b8cd4f5f4335164a": {
+        "sectxt": true,
+        "sectionID": "921527",
+        "type": "DI",
+        "section": "A03",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "d80b9a5c03231614b17fe085883c2119bf4b3d4477bccfb1f4b833d2a15c37dc": {
+        "sectxt": true,
+        "sectionID": "921528",
+        "type": "DI",
+        "section": "A04",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "c88a37760b3e10392dcf7044311d56066316c85288c6b8a90b56ae620d69cc06": {
+        "sectxt": true,
+        "sectionID": "921529",
+        "type": "DI",
+        "section": "A05",
+        "days": "TuTh",
+        "time": "12:00p-12:50p",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "f3ee9709d452440154ee5c9b145271579c61c0ca033d747a5da711e4149ec2c5": {
+        "sectxt": true,
+        "sectionID": "921530",
+        "type": "DI",
+        "section": "A06",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "f7dc7dfb4a9664586ca5a3b302db59a71c395f6c2368d6bf44b67940c2e02457": {
+        "sectxt": true,
+        "sectionID": "921548",
+        "type": "DI",
+        "section": "B01",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "ae4bc9ba14598205e877bad99ae39dc72be433674ce51e02c8c02bbf26638b8a": {
+        "sectxt": true,
+        "sectionID": "921549",
+        "type": "DI",
+        "section": "B02",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "e25f8312849f681349293808c2d886bedb6fcf86d4f2315c9e155e9de938b78f": {
+        "sectxt": true,
+        "sectionID": "921550",
+        "type": "DI",
+        "section": "B03",
+        "days": "TuTh",
+        "time": "12:00p-12:50p",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "41dc03bb05a8d5b90b2814ebe1bb714eec653f4b0a22f8e4f270bb3e94244f46": {
+        "sectxt": true,
+        "sectionID": "921551",
+        "type": "DI",
+        "section": "B04",
+        "days": "TuTh",
+        "time": "1:00p-1:50p",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "662f34ac5597264781b83bc5367bb7fa03380dbf8ba88996cd112067a30b5a75": {
+        "sectxt": true,
+        "sectionID": "921552",
+        "type": "DI",
+        "section": "B05",
+        "days": "TuTh",
+        "time": "2:00p-2:50p",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "dcb6bd9624a38ba3b9401087ecf3b6727808b05ba98213d97794dabe13874cc3": {
+        "sectxt": true,
+        "sectionID": "921553",
+        "type": "DI",
+        "section": "B06",
+        "days": "TuTh",
+        "time": "3:00p-3:50p",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "8701826a420ef664671bfaa0154d81e9d1cbb2c227c8ce0b68419000b7e34af5": {
+        "sectxt": true,
+        "sectionID": "921554",
+        "type": "DI",
+        "section": "B07",
+        "days": "TuTh",
+        "time": "4:00p-4:50p",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "a0e418fa05797c464109070910d45120a169bb7fa5c209663f4c0b93efef597e": {
+        "sectxt": true,
+        "sectionID": "921555",
+        "type": "DI",
+        "section": "B08",
+        "days": "TuTh",
+        "time": "5:00p-5:50p",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "5a5baf7f6f40ba5ef05337e40803301304f2bdd465a2c46b4c2d73713e8265c6": {
+        "sectxt": true,
+        "sectionID": "921558",
+        "type": "DI",
+        "section": "B11",
+        "days": "TuTh",
+        "time": "10:00a-10:50a",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "73641bca67e9fa785ce37d073a42e640516a6f33c89596052b00207997fb6986": {
+        "sectxt": true,
+        "sectionID": "921559",
+        "type": "DI",
+        "section": "B12",
+        "days": "TuTh",
+        "time": "11:00a-11:50a",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "e545fee32a19312b6c72150bf29a2bf09f8d884b15580cc75cd84c6e8b74ca3f": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -791,14 +1371,13 @@
         "time": "11:00a-12:20p",
         "building": "WLH",
         "room": "2001",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       },
-      {
+      "b621b83f1d4efe1283e9c875cc2548fc02f0ce27c3d66f6de15ed40666e11bab": {
         "sectxt": true,
         "sectionID": "921571",
         "type": "DI",
@@ -807,14 +1386,13 @@
         "time": "8:00a-8:50a",
         "building": "ASANT",
         "room": "123D",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "3cd675108491662802b02c6d180a43f38b29062fb0e5df8b10cfb87f4090ad55": {
         "sectxt": true,
         "sectionID": "921572",
         "type": "DI",
@@ -823,14 +1401,13 @@
         "time": "9:00a-9:50a",
         "building": "ASANT",
         "room": "123D",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "7762727d465c24217c1638a47849766b1b6025845fb8b6e696d6b73bd104af8e": {
         "sectxt": true,
         "sectionID": "921575",
         "type": "DI",
@@ -839,14 +1416,13 @@
         "time": "2:00p-2:50p",
         "building": "ASANT",
         "room": "123A",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "20c2a1d89370e78a09cc26fbf78170faa913c437574f9a637ad7ce9111638eee": {
         "sectxt": true,
         "sectionID": "921576",
         "type": "DI",
@@ -855,14 +1431,13 @@
         "time": "3:00p-3:50p",
         "building": "ASANT",
         "room": "123A",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "bfcd59993639c59cbebaf0019058a27e22eaadc75d00af60a08277b4bc73cf05": {
         "sectxt": true,
         "sectionID": "921577",
         "type": "DI",
@@ -871,14 +1446,13 @@
         "time": "8:00a-8:50a",
         "building": "ASANT",
         "room": "123B",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "757ffe9e215ae58301e7cb5440ec9f884e0123d57d7291352156f8e2b92e0d62": {
         "sectxt": true,
         "sectionID": "921578",
         "type": "DI",
@@ -887,14 +1461,13 @@
         "time": "9:00a-9:50a",
         "building": "ASANT",
         "room": "123B",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "134a085bce160145fc67d96ab925c6b4466da49034545ce4740b9bea695fdf40": {
         "sectxt": true,
         "sectionID": "921579",
         "type": "DI",
@@ -903,14 +1476,13 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "204",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "e7830831a1e638776dc39d75d95d08c0de468564d9efe95440ba74d388b0301c": {
         "sectxt": true,
         "sectionID": "921580",
         "type": "DI",
@@ -919,14 +1491,13 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "204",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "de5d2b9f44b61a55bac660863e4c63705be3a4c656f4a54c83ab7ae18cd38f23": {
         "sectxt": true,
         "sectionID": "921581",
         "type": "DI",
@@ -935,14 +1506,13 @@
         "time": "3:00p-3:50p",
         "building": "CENTR",
         "room": "204",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "0a9f1b8e74187fd228c52b65413591d288cd7c47ab8441e32701ea7ed6bd95a1": {
         "sectxt": true,
         "sectionID": "921582",
         "type": "DI",
@@ -951,14 +1521,13 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "204",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "949663e99e05d32823a2795f959d1ca4d1e53dff9e88320bde886639a5138c82": {
         "sectxt": true,
         "sectionID": "921585",
         "type": "DI",
@@ -967,14 +1536,13 @@
         "time": "4:00p-4:50p",
         "building": "ASANT",
         "room": "123D",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "c5fcbb16cbf7b2c95ad42885dd1f411b68478384bc4d6fa0a7afc68b7c39ae88": {
         "sectxt": true,
         "sectionID": "921586",
         "type": "DI",
@@ -983,16 +1551,465 @@
         "time": "5:00p-5:50p",
         "building": "ASANT",
         "room": "123D",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "e0c71401fe619db626c079241f95ffbc9af299dc6dba6b446063c58d72b82533": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "WLH",
+        "room": "2001",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "a0076c9ba0e55c400901fc5d886a20366ba912173d13e291073e345c4b0b477d": {
+        "sectxt": true,
+        "sectionID": "921531",
+        "type": "DI",
+        "section": "A07",
+        "days": "WF",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "204",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "a7f49694122eb840b61c31937f3f42010161137dd0aea13deddaa7f3e21b6851": {
+        "sectxt": true,
+        "sectionID": "921532",
+        "type": "DI",
+        "section": "A08",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "204",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "894340d0f250e1e5e8441df471b761c52b24c98766adb1f847a00f1b89f85781": {
+        "sectxt": true,
+        "sectionID": "921533",
+        "type": "DI",
+        "section": "A09",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "cb57b84041a644b092124397775cccb3d433ace01eec967741634171e1fc928e": {
+        "sectxt": true,
+        "sectionID": "921534",
+        "type": "DI",
+        "section": "A10",
+        "days": "WF",
+        "time": "1:00p-1:50p",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "434f89578926f2aae3caaf7e2f5bcafbf96d60cc0ff04100e76caf899d01c05d": {
+        "sectxt": true,
+        "sectionID": "921535",
+        "type": "DI",
+        "section": "A11",
+        "days": "WF",
+        "time": "4:00p-4:50p",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "09a4d6958c80e5f55f09a781d81d99a5214d08225b99f7fc9eb33983cc832c79": {
+        "sectxt": true,
+        "sectionID": "921536",
+        "type": "DI",
+        "section": "A12",
+        "days": "WF",
+        "time": "5:00p-5:50p",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "e8fc7337f979c4120c5c93b28a0d93771c82674215c0d5dabc3852a2ea9bc468": {
+        "sectxt": true,
+        "sectionID": "921537",
+        "type": "DI",
+        "section": "A13",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "204",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "a9bfd5401acd3106a94254afad750d883199638a56a5c65b923c71324f285b1c": {
+        "sectxt": true,
+        "sectionID": "921538",
+        "type": "DI",
+        "section": "A14",
+        "days": "WF",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "204",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "e66b34e077e9bddd3f4ab51ba99b3700d5240d0dbb969893c54370cde8998aae": {
+        "sectxt": true,
+        "sectionID": "921539",
+        "type": "DI",
+        "section": "A15",
+        "days": "WF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "204",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "e397b0b94e3ea8590d297c17e1102cfe019871544b499d36d10e835a6bd6c7cd": {
+        "sectxt": true,
+        "sectionID": "921540",
+        "type": "DI",
+        "section": "A16",
+        "days": "WF",
+        "time": "3:00p-3:50p",
+        "building": "CENTR",
+        "room": "204",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "1ebb8c76ab6841f0faf5f8eb56613f007a0d46c6f8b83c167e4250a34ea7d598": {
+        "sectxt": true,
+        "sectionID": "921541",
+        "type": "DI",
+        "section": "A17",
+        "days": "WF",
+        "time": "10:00a-10:50a",
+        "building": "CENTR",
+        "room": "201",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "88378aeba8d561734f3f6da051044c628984ef65193a1186cb69a5e112deebf2": {
+        "sectxt": true,
+        "sectionID": "921542",
+        "type": "DI",
+        "section": "A18",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "201",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "1d1c1006cdd4dc096eb60a7a7c23d63387771f9955510b75ba3813a013922127": {
+        "sectxt": true,
+        "sectionID": "921543",
+        "type": "DI",
+        "section": "A19",
+        "days": "WF",
+        "time": "12:00p-12:50p",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "d904cbeeabf1e6b9460d2f42fccadb8bbd4bf2b806a55056868eb3b1f3fe1f96": {
+        "sectxt": true,
+        "sectionID": "921544",
+        "type": "DI",
+        "section": "A20",
+        "days": "WF",
+        "time": "1:00p-1:50p",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "cc8051382e01b5fb18c60c16d63d568d14e402a8053c8745ad009ab71711522d": {
+        "sectxt": true,
+        "sectionID": "921545",
+        "type": "DI",
+        "section": "A21",
+        "days": "WF",
+        "time": "2:00p-2:50p",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "3f610daa3915ac1ce58fd226cfc56e3509c5f0767b09a6e0b5890b60ae09420d": {
+        "sectxt": true,
+        "sectionID": "921546",
+        "type": "DI",
+        "section": "A22",
+        "days": "WF",
+        "time": "3:00p-3:50p",
+        "building": "ASANT",
+        "room": "123A",
+        "instructors": [
+          "Cohen, Richard S."
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "3b5c80694b986838946e3eba24860ef3dbb5b66426b0265a538784f52fcec108": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "B00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "GH",
+        "room": "242",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "a2a04cf0baadc03d17c2108551e1500d0a7183c15f889cdf3a342a5f14e492f8": {
+        "sectxt": true,
+        "sectionID": "921556",
+        "type": "DI",
+        "section": "B09",
+        "days": "WF",
+        "time": "10:00a-10:50a",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "34b6d42e8803e55d565987c244444800766207ecd2fb7386a44e1a5dda8a647e": {
+        "sectxt": true,
+        "sectionID": "921557",
+        "type": "DI",
+        "section": "B10",
+        "days": "WF",
+        "time": "11:00a-11:50a",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "3d077a4fe7b09dd2851fdc42863f57a6d20610330967537b119211187b914eac": {
+        "sectxt": true,
+        "sectionID": "921560",
+        "type": "DI",
+        "section": "B13",
+        "days": "WF",
+        "time": "8:00a-8:50a",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "741cbce61ff2e03db815b8a360ba8b7989f9cae69af1a2698d3afd8fbf01589c": {
+        "sectxt": true,
+        "sectionID": "921561",
+        "type": "DI",
+        "section": "B14",
+        "days": "WF",
+        "time": "9:00a-9:50a",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "f40aaa53df29945e212ffb83a7023fb6855c8cd3233be05693bd85b0dc7dc19b": {
+        "sectxt": true,
+        "sectionID": "921562",
+        "type": "DI",
+        "section": "B15",
+        "days": "WF",
+        "time": "4:00p-4:50p",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "334a803c8dc2dde6a2577f2e51101fc67ab37cfd94eb14c161c07a7af141a45d": {
+        "sectxt": true,
+        "sectionID": "921563",
+        "type": "DI",
+        "section": "B16",
+        "days": "WF",
+        "time": "5:00p-5:50p",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "de2811ea5049a531ab94d8fef4616495086b0d5f93cd4891b7ac532e1511aa00": {
+        "sectxt": true,
+        "sectionID": "921564",
+        "type": "DI",
+        "section": "B17",
+        "days": "WF",
+        "time": "8:00a-8:50a",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "705ce4efdc3e8b7183f6d421b8b9b97c8d6b543e65b0af65af37cf9b77a5a324": {
+        "sectxt": true,
+        "sectionID": "921565",
+        "type": "DI",
+        "section": "B18",
+        "days": "WF",
+        "time": "9:00a-9:50a",
+        "building": "ASANT",
+        "room": "123B",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "2e1f8888f3fb788659c39f533ec8bf29258558bf11d681011a11bb1871b61656": {
+        "sectxt": true,
+        "sectionID": "921566",
+        "type": "DI",
+        "section": "B19",
+        "days": "WF",
+        "time": "4:00p-4:50p",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "fbd7fd4fc1cd2774e4bd4f873ce87889123c203efb6e1f6ddffaf771dc2a7d8b": {
+        "sectxt": true,
+        "sectionID": "921567",
+        "type": "DI",
+        "section": "B20",
+        "days": "WF",
+        "time": "5:00p-5:50p",
+        "building": "ASANT",
+        "room": "123D",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "508be03cdf2558f3e2fa5ce2ed9d78c0ebebfd6e743e6bfdb6dc7027aea1a86b": {
+        "sectxt": true,
+        "sectionID": "921568",
+        "type": "DI",
+        "section": "B21",
+        "days": "WF",
+        "time": "4:00p-4:50p",
+        "building": "ASANT",
+        "room": "123C",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "1a5bc7d63cce3fa3eddd2efed8aeae70cb40bef14d47339f18f6a16866542dc9": {
+        "sectxt": true,
+        "sectionID": "921569",
+        "type": "DI",
+        "section": "B22",
+        "days": "WF",
+        "time": "5:00p-5:50p",
+        "building": "ASANT",
+        "room": "123C",
+        "instructors": [
+          "Smarr, Janet L."
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "39e800b32cc435ee190f7f7b71a80aace59a7f98a80b6fd7230b8e7d86208779": {
         "sectxt": true,
         "sectionID": "921573",
         "type": "DI",
@@ -1001,14 +2018,13 @@
         "time": "10:00a-10:50a",
         "building": "ASANT",
         "room": "123B",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "dc32d19ac34102eb93ebe36d97e31941f788f8152efea8aeea5e7eb329c8beed": {
         "sectxt": true,
         "sectionID": "921574",
         "type": "DI",
@@ -1017,14 +2033,13 @@
         "time": "11:00a-11:50a",
         "building": "ASANT",
         "room": "123B",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "2050577656b1615ebf5e4f953fc8a6c7ee8dde9a7d7ce235b04341f061c52d86": {
         "sectxt": true,
         "sectionID": "921583",
         "type": "DI",
@@ -1033,14 +2048,13 @@
         "time": "2:00p-2:50p",
         "building": "ASANT",
         "room": "123D",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "ab57397622697f36539028c2faf09202a104df26ef6f60b9276e82e2b04fe428": {
         "sectxt": true,
         "sectionID": "921584",
         "type": "DI",
@@ -1049,14 +2063,13 @@
         "time": "3:00p-3:50p",
         "building": "ASANT",
         "room": "123D",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "11dfcc77efbb25273b3768332c332d0e91521944dd58e2b318aecbae2e75abc9": {
         "sectxt": true,
         "sectionID": "921587",
         "type": "DI",
@@ -1065,14 +2078,13 @@
         "time": "8:00a-8:50a",
         "building": "ASANT",
         "room": "123A",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "987737f004a9e3da1ae9f53f1781dbfcdc7db93a1601539b147074f3f9ac5f84": {
         "sectxt": true,
         "sectionID": "921588",
         "type": "DI",
@@ -1081,14 +2093,13 @@
         "time": "9:00a-9:50a",
         "building": "ASANT",
         "room": "123A",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "1016208bca4e52a27abf8c2c3aa6bdc60df2ea408a261b170b396f042ca536cb": {
         "sectxt": true,
         "sectionID": "921589",
         "type": "DI",
@@ -1097,14 +2108,13 @@
         "time": "10:00a-10:50a",
         "building": "ASANT",
         "room": "123A",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "d9ac2a34ae271f6a1fe897802f013546cdca35d3967b74c7255cb386b3852576": {
         "sectxt": true,
         "sectionID": "921590",
         "type": "DI",
@@ -1113,14 +2123,13 @@
         "time": "11:00a-11:50a",
         "building": "ASANT",
         "room": "123A",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "6b6e8749d99c824a1b42f412b98c8d32a90fe803e0e56b93c179dca7a26be584": {
         "sectxt": true,
         "sectionID": "921591",
         "type": "DI",
@@ -1129,14 +2138,13 @@
         "time": "8:00a-8:50a",
         "building": "ASANT",
         "room": "123C",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "9b121e2c73d3ddb62212d5fa31d62911c82c9cd53bcf56e8132b17b3bfa3e7a0": {
         "sectxt": true,
         "sectionID": "921592",
         "type": "DI",
@@ -1145,15 +2153,17 @@
         "time": "9:00a-9:50a",
         "building": "ASANT",
         "room": "123C",
-        "instructor": "Chang, Edmond Yi-Teh",
         "instructors": [
           "Chang, Edmond Yi-Teh"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

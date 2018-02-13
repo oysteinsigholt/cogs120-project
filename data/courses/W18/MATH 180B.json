@@ -3,122 +3,23 @@
   "name": "Intro/Stochastic Processes I",
   "department": "MATH",
   "id": "180B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "3:00p-3:50p",
-      "building": "PCYNH",
-      "room": "109",
-      "instructor": "Schweinsberg, Jason",
-      "instructors": [
-        "Schweinsberg, Jason"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927227",
-      "type": "DI",
-      "section": "B01",
-      "days": "F",
-      "time": "4:00p-4:50p",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Schweinsberg, Jason",
-      "instructors": [
-        "Schweinsberg, Jason"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927228",
-      "type": "DI",
-      "section": "B02",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Schweinsberg, Jason",
-      "instructors": [
-        "Schweinsberg, Jason"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927229",
-      "type": "DI",
-      "section": "B03",
-      "days": "F",
-      "time": "6:00p-6:50p",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Schweinsberg, Jason",
-      "instructors": [
-        "Schweinsberg, Jason"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927230",
-      "type": "DI",
-      "section": "B04",
-      "days": "F",
-      "time": "7:00p-7:50p",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Schweinsberg, Jason",
-      "instructors": [
-        "Schweinsberg, Jason"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "935583",
-      "type": "DI",
-      "section": "B05",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "APM",
-      "room": "7421",
-      "instructor": "Schweinsberg, Jason",
-      "instructors": [
-        "Schweinsberg, Jason"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -127,17 +28,31 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "0bc129e6e61dc97d6817c5924c61d5d7c996b7c7ee1c4510193b45b64c905c72": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "212",
+        "instructors": [
+          "Meyer, David A."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "469cdc09b5101b407eb89da7b06b01cccacb7dd0ccd3576cdf3d9b6b3109367f": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -146,17 +61,77 @@
         "time": "3:00p-3:50p",
         "building": "PCYNH",
         "room": "109",
-        "instructor": "Schweinsberg, Jason",
         "instructors": [
           "Schweinsberg, Jason"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "Tu": {
+      "86d8df1dfb7d9e3b0970f01b463b4a9cf841e6c9ba66b71ea217906c0005feb7": {
+        "sectxt": true,
+        "sectionID": "927222",
+        "type": "DI",
+        "section": "A01",
+        "days": "Tu",
+        "time": "6:00p-6:50p",
+        "building": "APM",
+        "room": "7421",
+        "instructors": [
+          "Meyer, David A."
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "8c3fa0a227703b06826198e73a17bc26ff93f74b29c905b049872ef168137fd3": {
+        "sectxt": true,
+        "sectionID": "927223",
+        "type": "DI",
+        "section": "A02",
+        "days": "Tu",
+        "time": "7:00p-7:50p",
+        "building": "APM",
+        "room": "7421",
+        "instructors": [
+          "Meyer, David A."
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "dcf87ea6d055ac41abe25262b522eca1f45a194384beb7781a15879c5d355680": {
+        "sectxt": true,
+        "sectionID": "927224",
+        "type": "DI",
+        "section": "A03",
+        "days": "Tu",
+        "time": "8:00p-8:50p",
+        "building": "APM",
+        "room": "7421",
+        "instructors": [
+          "Meyer, David A."
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      }
+    },
+    "W": {
+      "a24b1c34899aaa03f2ed258c49f7b8e31d66672638d55b3d5fd4e75b41ce8aa5": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "212",
+        "instructors": [
+          "Meyer, David A."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "30bd40d2384ee804446ac89095ee6c906544884b5cc86afef9b74e9c527cfaaf": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -165,17 +140,30 @@
         "time": "3:00p-3:50p",
         "building": "PCYNH",
         "room": "109",
-        "instructor": "Schweinsberg, Jason",
         "instructors": [
           "Schweinsberg, Jason"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "5be3008a2a51c9e55489e9fa2e0a4a9f5529a85da3cde8b17730cb0e71d532aa": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "212",
+        "instructors": [
+          "Meyer, David A."
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "6be16414718c35f2cb6b96403951c306a4fa08109672727e72828be512a90fa7": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -184,14 +172,13 @@
         "time": "3:00p-3:50p",
         "building": "PCYNH",
         "room": "109",
-        "instructor": "Schweinsberg, Jason",
         "instructors": [
           "Schweinsberg, Jason"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "1d27278b28b79d89f2de0ededf20e68b82206a052c57e89c6d0ba3008ac064c2": {
         "sectxt": true,
         "sectionID": "927227",
         "type": "DI",
@@ -200,14 +187,13 @@
         "time": "4:00p-4:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Schweinsberg, Jason",
         "instructors": [
           "Schweinsberg, Jason"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "b38d17025d00c26a242ba49189d6c63ae9a68898edf31c71a7d82916a937e485": {
         "sectxt": true,
         "sectionID": "927228",
         "type": "DI",
@@ -216,14 +202,13 @@
         "time": "5:00p-5:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Schweinsberg, Jason",
         "instructors": [
           "Schweinsberg, Jason"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "9c3ecd51f39151774ac9bd6c60e12ef4d9d95eebe9a3e30b6824e82bddf8c412": {
         "sectxt": true,
         "sectionID": "927229",
         "type": "DI",
@@ -232,14 +217,13 @@
         "time": "6:00p-6:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Schweinsberg, Jason",
         "instructors": [
           "Schweinsberg, Jason"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "40ccf4c564c4baff9e882b68302a33bdaf00ade562563c200ce9d7cb790ef8a0": {
         "sectxt": true,
         "sectionID": "927230",
         "type": "DI",
@@ -248,14 +232,13 @@
         "time": "7:00p-7:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Schweinsberg, Jason",
         "instructors": [
           "Schweinsberg, Jason"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "0d16063ff85b74f3184082afd4602acf3cebb1a01c00185cac873cd140ef3e05": {
         "sectxt": true,
         "sectionID": "935583",
         "type": "DI",
@@ -264,15 +247,16 @@
         "time": "5:00p-5:50p",
         "building": "APM",
         "room": "7421",
-        "instructor": "Schweinsberg, Jason",
         "instructors": [
           "Schweinsberg, Jason"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

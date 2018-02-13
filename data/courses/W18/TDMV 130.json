@@ -3,30 +3,12 @@
   "name": "Intermediate Jazz",
   "department": "TDMV",
   "id": "130",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920466",
-      "type": "ST",
-      "section": "A00",
-      "days": "MW",
-      "time": "4:00p-5:50p",
-      "building": "GH",
-      "room": "320",
-      "instructor": "Rincon, Alicia",
-      "instructors": [
-        "Rincon, Alicia"
-      ],
-      "start_time": "16:00",
-      "end_time": "17:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "307f16f26745611b2b72966a4c67def3f6b44cad0ae47fc38046ccbd06f98367": {
         "sectxt": true,
         "sectionID": "920466",
         "type": "ST",
@@ -35,17 +17,15 @@
         "time": "4:00p-5:50p",
         "building": "GH",
         "room": "320",
-        "instructor": "Rincon, Alicia",
         "instructors": [
           "Rincon, Alicia"
         ],
         "start_time": "16:00",
         "end_time": "17:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "e901d4264112fd999e901bffe4cd508ff8d65606ffad8a0f2445bfe1b08bfd02": {
         "sectxt": true,
         "sectionID": "920466",
         "type": "ST",
@@ -54,17 +34,15 @@
         "time": "4:00p-5:50p",
         "building": "GH",
         "room": "320",
-        "instructor": "Rincon, Alicia",
         "instructors": [
           "Rincon, Alicia"
         ],
         "start_time": "16:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

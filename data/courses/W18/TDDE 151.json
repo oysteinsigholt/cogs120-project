@@ -3,31 +3,12 @@
   "name": "Digital Video Design",
   "department": "TDDE",
   "id": "151",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920374",
-      "type": "ST",
-      "section": "A00",
-      "days": "Tu",
-      "time": "2:00p-4:50p",
-      "building": "GH",
-      "room": "321",
-      "instructor": "Petrovich, Victoria A.",
-      "instructors": [
-        "Petrovich, Victoria A."
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "dc84e97b2b2cfb709f87f2c2042ca014e801bae6f61d910d22950813ec32799f": {
         "sectxt": true,
         "sectionID": "920374",
         "type": "ST",
@@ -36,18 +17,15 @@
         "time": "2:00p-4:50p",
         "building": "GH",
         "room": "321",
-        "instructor": "Petrovich, Victoria A.",
         "instructors": [
           "Petrovich, Victoria A."
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

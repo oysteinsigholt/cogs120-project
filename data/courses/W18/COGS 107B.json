@@ -3,138 +3,9 @@
   "name": "Systems Neuroscience",
   "department": "COGS",
   "id": "107B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "YORK",
-      "room": "2722",
-      "instructor": "Nitz, Douglas A.",
-      "instructors": [
-        "Nitz, Douglas A."
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925563",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "CSB",
-      "room": "004",
-      "instructor": "Nitz, Douglas A.",
-      "instructors": [
-        "Nitz, Douglas A."
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925564",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "CSB",
-      "room": "005",
-      "instructor": "Nitz, Douglas A.",
-      "instructors": [
-        "Nitz, Douglas A."
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925565",
-      "type": "DI",
-      "section": "A03",
-      "days": "W",
-      "time": "10:00a-10:50a",
-      "building": "PCYNH",
-      "room": "120",
-      "instructor": "Nitz, Douglas A.",
-      "instructors": [
-        "Nitz, Douglas A."
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925566",
-      "type": "DI",
-      "section": "A04",
-      "days": "W",
-      "time": "2:00p-2:50p",
-      "building": "CSB",
-      "room": "004",
-      "instructor": "Nitz, Douglas A.",
-      "instructors": [
-        "Nitz, Douglas A."
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925567",
-      "type": "DI",
-      "section": "A05",
-      "days": "F",
-      "time": "11:00a-11:50a",
-      "building": "CSB",
-      "room": "005",
-      "instructor": "Nitz, Douglas A.",
-      "instructors": [
-        "Nitz, Douglas A."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925568",
-      "type": "DI",
-      "section": "A06",
-      "days": "F",
-      "time": "12:00p-12:50p",
-      "building": "CSB",
-      "room": "005",
-      "instructor": "Nitz, Douglas A.",
-      "instructors": [
-        "Nitz, Douglas A."
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -143,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "027dc3887cf30b44fc717430be8b293d99ca70359302252305bafb7e0ed64bd8": {
         "sectxt": true,
         "sectionID": "925563",
         "type": "DI",
@@ -162,14 +32,13 @@
         "time": "2:00p-2:50p",
         "building": "CSB",
         "room": "004",
-        "instructor": "Nitz, Douglas A.",
         "instructors": [
           "Nitz, Douglas A."
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "52a3ae2c495738d31b45a609d937ad6af8d5e632dc1e3f8b586f42e69c8d9432": {
         "sectxt": true,
         "sectionID": "925564",
         "type": "DI",
@@ -178,16 +47,15 @@
         "time": "4:00p-4:50p",
         "building": "CSB",
         "room": "005",
-        "instructor": "Nitz, Douglas A.",
         "instructors": [
           "Nitz, Douglas A."
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "77a90d7a8864ca19fd9b8963b8c321ba412d20b52100d010e9805af3b2d06f08": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -196,16 +64,15 @@
         "time": "12:30p-1:50p",
         "building": "YORK",
         "room": "2722",
-        "instructor": "Nitz, Douglas A.",
         "instructors": [
           "Nitz, Douglas A."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "d2ed2bdb05ba07a88116548d7f70735961ba831606805da4f5315c081e1acd65": {
         "sectxt": true,
         "sectionID": "925565",
         "type": "DI",
@@ -214,14 +81,13 @@
         "time": "10:00a-10:50a",
         "building": "PCYNH",
         "room": "120",
-        "instructor": "Nitz, Douglas A.",
         "instructors": [
           "Nitz, Douglas A."
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "e124467225605c5f65f25cc898e8ccb502a993e65f02662eb5a2702de73b4fe5": {
         "sectxt": true,
         "sectionID": "925566",
         "type": "DI",
@@ -230,16 +96,15 @@
         "time": "2:00p-2:50p",
         "building": "CSB",
         "room": "004",
-        "instructor": "Nitz, Douglas A.",
         "instructors": [
           "Nitz, Douglas A."
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f8ad585298e7b342895c254554dd0fa501d6feea536e74d6146ebcf55fb31294": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -248,16 +113,15 @@
         "time": "12:30p-1:50p",
         "building": "YORK",
         "room": "2722",
-        "instructor": "Nitz, Douglas A.",
         "instructors": [
           "Nitz, Douglas A."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "6e1e4c7e318a584aba24c7dee2011e9070245d4f5178b98cfaac5a15163a33b5": {
         "sectxt": true,
         "sectionID": "925567",
         "type": "DI",
@@ -266,14 +130,13 @@
         "time": "11:00a-11:50a",
         "building": "CSB",
         "room": "005",
-        "instructor": "Nitz, Douglas A.",
         "instructors": [
           "Nitz, Douglas A."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "aff83908b1ff79dbb1fc7dba3b703a145233e1c10c9ab09f8f5d80242b5d524c": {
         "sectxt": true,
         "sectionID": "925568",
         "type": "DI",
@@ -282,15 +145,15 @@
         "time": "12:00p-12:50p",
         "building": "CSB",
         "room": "005",
-        "instructor": "Nitz, Douglas A.",
         "instructors": [
           "Nitz, Douglas A."
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

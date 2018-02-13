@@ -3,42 +3,9 @@
   "name": "Applied Statistics II",
   "department": "MATH",
   "id": "282B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927313",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Arias-Castro, Ery",
-      "instructors": [
-        "Arias-Castro, Ery"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "b406d1b1e371b09b831cd4d951acda7aee31c56eae9decb540a561abca2f352f": {
         "sectxt": true,
         "sectionID": "927313",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "12:30p-1:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Arias-Castro, Ery",
         "instructors": [
           "Arias-Castro, Ery"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "d691b5bf898b283df9381ab44840b583a2f81119e388f56cd2a1254c08cf6928": {
         "sectxt": true,
         "sectionID": "927313",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "12:30p-1:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Arias-Castro, Ery",
         "instructors": [
           "Arias-Castro, Ery"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

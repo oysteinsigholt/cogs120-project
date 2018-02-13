@@ -3,31 +3,44 @@
   "name": "Argument and Analysis",
   "department": "MCWP",
   "id": "125",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928775",
-      "type": "SE",
-      "section": "C00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "HSS",
-      "room": "2346A",
-      "instructor": "Forrest, Amy Burton",
-      "instructors": [
-        "Forrest, Amy Burton"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "4303763734a83b7c145caa05d7cccca751c9118e2fae76c3e5287ad7e7595fde": {
+        "sectxt": true,
+        "sectionID": "920564",
+        "type": "SE",
+        "section": "A00",
+        "days": "MW",
+        "time": "11:00a-12:20p",
+        "building": "HSS",
+        "room": "2346A",
+        "instructors": [
+          "Wilson, Marion E."
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    },
+    "Tu": {
+      "a43df93f0428ffcdba8a7122b2e628a8fe3276553dd7ef540af7c40ba91dd652": {
+        "sectxt": true,
+        "sectionID": "920565",
+        "type": "SE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "HSS",
+        "room": "2346A",
+        "instructors": [
+          "Forrest, Amy Burton"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "28a083908e82f5081224bf552768f1e3226cdc3a44f74b9e92ab317af1cff19d": {
         "sectxt": true,
         "sectionID": "928775",
         "type": "SE",
@@ -36,17 +49,47 @@
         "time": "12:30p-1:50p",
         "building": "HSS",
         "room": "2346A",
-        "instructor": "Forrest, Amy Burton",
         "instructors": [
           "Forrest, Amy Burton"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "W": {
+      "bf1238ffff95315ce0cc8f42ef2eb2bd2a4e0cea2befc95c84e4a90e1664087e": {
+        "sectxt": true,
+        "sectionID": "920564",
+        "type": "SE",
+        "section": "A00",
+        "days": "MW",
+        "time": "11:00a-12:20p",
+        "building": "HSS",
+        "room": "2346A",
+        "instructors": [
+          "Wilson, Marion E."
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      }
+    },
+    "Th": {
+      "66773263654dc3444e70ee7a5896be8ba7e7e72a1bd7e4a6a2ffa68ee144ad0c": {
+        "sectxt": true,
+        "sectionID": "920565",
+        "type": "SE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "HSS",
+        "room": "2346A",
+        "instructors": [
+          "Forrest, Amy Burton"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "ee07dc9bd8464ba292cde96d70ecacac99b8ba5b17206ff979c970b99dc63626": {
         "sectxt": true,
         "sectionID": "928775",
         "type": "SE",
@@ -55,16 +98,17 @@
         "time": "12:30p-1:50p",
         "building": "HSS",
         "room": "2346A",
-        "instructor": "Forrest, Amy Burton",
         "instructors": [
           "Forrest, Amy Burton"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

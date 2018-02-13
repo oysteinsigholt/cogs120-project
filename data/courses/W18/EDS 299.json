@@ -3,27 +3,37 @@
   "name": "Dissertation Research",
   "department": "EDS",
   "id": "299",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930339",
-      "type": "IN",
-      "section": "003",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Hofstetter, Carolyn",
-      "instructors": [
-        "Hofstetter, Carolyn"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "930337",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Contreras, Frances E."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930338",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Daly, Alan J."
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "930339",
       "type": "IN",
       "section": "003",
@@ -31,19 +41,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Hofstetter, Carolyn",
       "instructors": [
         "Hofstetter, Carolyn"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

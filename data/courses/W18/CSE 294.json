@@ -3,30 +3,12 @@
   "name": "Research Meeting in CSE",
   "department": "CSE",
   "id": "294",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930638",
-      "type": "SE",
-      "section": "B00",
-      "days": "M",
-      "time": "5:00p-6:50p",
-      "building": "EBU3B",
-      "room": "3109",
-      "instructor": "Orailoglu, Alex",
-      "instructors": [
-        "Orailoglu, Alex"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "e5d0f3de1003d6d27a86d6e515d2a43c6acf34b65f5d69fbd4d88e593d073a60": {
         "sectxt": true,
         "sectionID": "930638",
         "type": "SE",
@@ -35,19 +17,33 @@
         "time": "5:00p-6:50p",
         "building": "EBU3B",
         "room": "3109",
-        "instructor": "Orailoglu, Alex",
         "instructors": [
           "Orailoglu, Alex"
         ],
         "start_time": "17:00",
         "end_time": "18:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "F": {
+      "e1ec0315e179a94e6abc8dc1e6959af0ebbf02472abdcb209c5e326fec1ab1a7": {
+        "sectxt": true,
+        "sectionID": "927585",
+        "type": "SE",
+        "section": "A00",
+        "days": "F",
+        "time": "1:00p-1:50p",
+        "building": "EBU3B",
+        "room": "3109",
+        "instructors": [
+          "Snoeren, Alex C."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

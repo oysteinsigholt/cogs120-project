@@ -3,34 +3,14 @@
   "name": "Design at Large",
   "department": "DSGN",
   "id": "119",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921680",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Hollan, James D.",
-      "instructors": [
-        "Hollan, James D."
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [
     "Class will meet in EBU3B 1202."
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "324a51518c1dbd41ecb1ef7ea67de6cb9a301fe5ae0cde3001d29d5b5c8982a4": {
         "sectxt": true,
         "sectionID": "921680",
         "type": "SE",
@@ -39,17 +19,15 @@
         "time": "4:00p-4:50p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Hollan, James D.",
         "instructors": [
           "Hollan, James D."
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

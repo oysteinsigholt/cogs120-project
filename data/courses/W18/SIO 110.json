@@ -3,48 +3,12 @@
   "name": "Intro GIS & GPS for Scientists",
   "department": "SIO",
   "id": "110",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921049",
-      "type": "LE",
-      "section": "A00",
-      "days": "WF",
-      "time": "8:00a-9:20a",
-      "building": "ERCA",
-      "room": "117",
-      "instructor": "Minster, Jean Bernard H.",
-      "instructors": [
-        "Minster, Jean Bernard H."
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A01",
-      "days": "F",
-      "time": "10:00a-12:50p",
-      "building": "ERCA",
-      "room": "117",
-      "instructor": "Minster, Jean Bernard H.",
-      "instructors": [
-        "Minster, Jean Bernard H."
-      ],
-      "start_time": "10:00",
-      "end_time": "12:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "ebee78380c474f4fc72fa781cb16a2a3558d3e945a4d77f131f6f5f70b5b655c": {
         "sectxt": true,
         "sectionID": "921049",
         "type": "LE",
@@ -53,17 +17,15 @@
         "time": "8:00a-9:20a",
         "building": "ERCA",
         "room": "117",
-        "instructor": "Minster, Jean Bernard H.",
         "instructors": [
           "Minster, Jean Bernard H."
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "f44a272c85d4f884ce518f13aa3547bcabe2910c73be8198fd589c95ee35cfe9": {
         "sectxt": true,
         "sectionID": "921049",
         "type": "LE",
@@ -72,14 +34,13 @@
         "time": "8:00a-9:20a",
         "building": "ERCA",
         "room": "117",
-        "instructor": "Minster, Jean Bernard H.",
         "instructors": [
           "Minster, Jean Bernard H."
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       },
-      {
+      "9a9c6fa5538ed4ff5be8c849243d6df457e98c62c02ed8a5d14296877b586e3e": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -88,15 +49,15 @@
         "time": "10:00a-12:50p",
         "building": "ERCA",
         "room": "117",
-        "instructor": "Minster, Jean Bernard H.",
         "instructors": [
           "Minster, Jean Bernard H."
         ],
         "start_time": "10:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

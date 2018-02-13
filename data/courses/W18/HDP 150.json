@@ -3,31 +3,12 @@
   "name": "Senior Seminar",
   "department": "HDP",
   "id": "150",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922443",
-      "type": "SE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "APM",
-      "room": "5420",
-      "instructor": "Blaise, Jean G",
-      "instructors": [
-        "Blaise, Jean G"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "ae6c2ea2e3529abbdb43297fb4b9e72ea87bc4d8fc4e4fccafd05502e2d404ca": {
         "sectxt": true,
         "sectionID": "922443",
         "type": "SE",
@@ -36,17 +17,15 @@
         "time": "2:00p-3:20p",
         "building": "APM",
         "room": "5420",
-        "instructor": "Blaise, Jean G",
         "instructors": [
           "Blaise, Jean G"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "475fcd84572d05d39370559c8f2588f81a1bd214500ad0d76d024b65b188879a": {
         "sectxt": true,
         "sectionID": "922443",
         "type": "SE",
@@ -55,16 +34,15 @@
         "time": "2:00p-3:20p",
         "building": "APM",
         "room": "5420",
-        "instructor": "Blaise, Jean G",
         "instructors": [
           "Blaise, Jean G"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

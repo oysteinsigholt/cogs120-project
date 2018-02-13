@@ -3,42 +3,9 @@
   "name": "Hmn Sexuality in Evolutn Pers",
   "department": "ANBI",
   "id": "116",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923498",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "TM102",
-      "room": "1",
-      "instructor": "Gagneux, Pascal",
-      "instructors": [
-        "Gagneux, Pascal"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "e4da7fca861d4cae24d8a71a54152c194b5b88b73b121a0e40e808564b574345": {
         "sectxt": true,
         "sectionID": "923498",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "3:30p-4:50p",
         "building": "TM102",
         "room": "1",
-        "instructor": "Gagneux, Pascal",
         "instructors": [
           "Gagneux, Pascal"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "03c8c2d197211d9dae18ae2e123481cf0580aecc4112fecef4e28ee518ac962d": {
         "sectxt": true,
         "sectionID": "923498",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "3:30p-4:50p",
         "building": "TM102",
         "room": "1",
-        "instructor": "Gagneux, Pascal",
         "instructors": [
           "Gagneux, Pascal"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

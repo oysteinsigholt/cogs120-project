@@ -3,106 +3,23 @@
   "name": "Combinatorics",
   "department": "MATH",
   "id": "184A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "LEDDN",
-      "room": "AUD",
-      "instructor": "Knop, Aleksandr",
-      "instructors": [
-        "Knop, Aleksandr"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930491",
-      "type": "DI",
-      "section": "B01",
-      "days": "M",
-      "time": "7:00p-7:50p",
-      "building": "APM",
-      "room": "B402A",
-      "instructor": "Knop, Aleksandr",
-      "instructors": [
-        "Knop, Aleksandr"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930492",
-      "type": "DI",
-      "section": "B02",
-      "days": "M",
-      "time": "8:00p-8:50p",
-      "building": "APM",
-      "room": "B402A",
-      "instructor": "Knop, Aleksandr",
-      "instructors": [
-        "Knop, Aleksandr"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930493",
-      "type": "DI",
-      "section": "B03",
-      "days": "M",
-      "time": "8:00p-8:50p",
-      "building": "APM",
-      "room": "7421",
-      "instructor": "Knop, Aleksandr",
-      "instructors": [
-        "Knop, Aleksandr"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930494",
-      "type": "DI",
-      "section": "B04",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    },
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -111,17 +28,31 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "824ea782fe4efeb521d7af6da8f5918f0ffaccb333ea55915a1698e48a6f7b89": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "5:00p-5:50p",
+        "building": "PCYNH",
+        "room": "109",
+        "instructors": [
+          "Novak, Jonathan I"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "24017a74fa28bf66c3fdd65208e571f30776f867bbb0b596dad54c87a0661a66": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -130,14 +61,13 @@
         "time": "1:00p-1:50p",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Knop, Aleksandr",
         "instructors": [
           "Knop, Aleksandr"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "d8b17d4ed245d1f14806e4d996a067de15ad309efcdc9f74ea78d561a05cd4bc": {
         "sectxt": true,
         "sectionID": "930491",
         "type": "DI",
@@ -146,14 +76,13 @@
         "time": "7:00p-7:50p",
         "building": "APM",
         "room": "B402A",
-        "instructor": "Knop, Aleksandr",
         "instructors": [
           "Knop, Aleksandr"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "80623eeb25db5a578eac7ba668e7b3a875acb49a7819806757ecb4f4fbf1c31c": {
         "sectxt": true,
         "sectionID": "930492",
         "type": "DI",
@@ -162,14 +91,13 @@
         "time": "8:00p-8:50p",
         "building": "APM",
         "room": "B402A",
-        "instructor": "Knop, Aleksandr",
         "instructors": [
           "Knop, Aleksandr"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "9d590562bcb9e098f7b179f4e705b7600035041f960841855eac863569a3b05c": {
         "sectxt": true,
         "sectionID": "930493",
         "type": "DI",
@@ -178,17 +106,92 @@
         "time": "8:00p-8:50p",
         "building": "APM",
         "room": "7421",
-        "instructor": "Knop, Aleksandr",
         "instructors": [
           "Knop, Aleksandr"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "Tu": {
+      "ba7c3477947216151e54e2f587ac7f1b8bc1ff1e0888c4a8883e745f6efe65d8": {
+        "sectxt": true,
+        "sectionID": "927238",
+        "type": "DI",
+        "section": "A01",
+        "days": "Tu",
+        "time": "2:00p-2:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Novak, Jonathan I"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "24e8b9806628ab5cce0cf361eb3ac225e0dca80104da9e8ba322cb62d53c3d63": {
+        "sectxt": true,
+        "sectionID": "927239",
+        "type": "DI",
+        "section": "A02",
+        "days": "Tu",
+        "time": "3:00p-3:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Novak, Jonathan I"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "5eb578f652704aa2a88d2872b858fa9b75bc91004ec0f51371c4f3519db219c2": {
+        "sectxt": true,
+        "sectionID": "927240",
+        "type": "DI",
+        "section": "A03",
+        "days": "Tu",
+        "time": "4:00p-4:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Novak, Jonathan I"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "8e1ac5e17c68cd4b6e0debf34fb79c4c1cc5d5e60ca090c98d06968159b48ed1": {
+        "sectxt": true,
+        "sectionID": "927241",
+        "type": "DI",
+        "section": "A04",
+        "days": "Tu",
+        "time": "7:00p-7:50p",
+        "building": "APM",
+        "room": "2301",
+        "instructors": [
+          "Novak, Jonathan I"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      }
+    },
+    "W": {
+      "1f42c20979ba33d43790082347b266b2b822e80aca69452f9d80615f1bc42eb8": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "5:00p-5:50p",
+        "building": "PCYNH",
+        "room": "109",
+        "instructors": [
+          "Novak, Jonathan I"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "0abf89a3ce8bbb5f2405aeea3b841a1f2d3aadc82089b086ba3365cbfcb4a155": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -197,17 +200,30 @@
         "time": "1:00p-1:50p",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Knop, Aleksandr",
         "instructors": [
           "Knop, Aleksandr"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "338f9bc0374458fb16a40d8ea5d550e835f75c89fb69c81dfd6d8e06607b5970": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "5:00p-5:50p",
+        "building": "PCYNH",
+        "room": "109",
+        "instructors": [
+          "Novak, Jonathan I"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "3b5c80694b986838946e3eba24860ef3dbb5b66426b0265a538784f52fcec108": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -216,15 +232,16 @@
         "time": "1:00p-1:50p",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Knop, Aleksandr",
         "instructors": [
           "Knop, Aleksandr"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

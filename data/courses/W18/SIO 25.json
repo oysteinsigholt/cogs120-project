@@ -3,42 +3,9 @@
   "name": "Climate Change and Society",
   "department": "SIO",
   "id": "25",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921042",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "10:00a-10:50a",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "Teranes, Jane",
-      "instructors": [
-        "Teranes, Jane"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "3c6c114b2fa85f1bd3aca906c19b874413afab2681c4010fefa6e15011f76ec6": {
         "sectxt": true,
         "sectionID": "921042",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "10:00a-10:50a",
         "building": "CSB",
         "room": "002",
-        "instructor": "Teranes, Jane",
         "instructors": [
           "Teranes, Jane"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "ac7f6c558c09d40ad6accf72de32866c3faff97f1bf939dc171e14a253573496": {
         "sectxt": true,
         "sectionID": "921042",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "10:00a-10:50a",
         "building": "CSB",
         "room": "002",
-        "instructor": "Teranes, Jane",
         "instructors": [
           "Teranes, Jane"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "4279df17034d9c182dbe93cd6a05c8706769c511fa14b9f127e2e26045038367": {
         "sectxt": true,
         "sectionID": "921042",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "10:00a-10:50a",
         "building": "CSB",
         "room": "002",
-        "instructor": "Teranes, Jane",
         "instructors": [
           "Teranes, Jane"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

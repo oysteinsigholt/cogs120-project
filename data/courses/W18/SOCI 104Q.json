@@ -3,42 +3,9 @@
   "name": "Qualitative Interviewing",
   "department": "SOCI",
   "id": "104Q",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929130",
-      "type": "LE",
-      "section": "A00",
-      "days": "F",
-      "time": "12:00p-2:50p",
-      "building": "SSB",
-      "room": "101",
-      "instructor": "Schneider, Heidi L.",
-      "instructors": [
-        "Schneider, Heidi L."
-      ],
-      "start_time": "12:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,21 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "d5e47c73bf9a0fdae06c8f68f5a92a707d6dd4f8ed617ee6ffff8eb023eb9385": {
         "sectxt": true,
         "sectionID": "929130",
         "type": "LE",
@@ -70,15 +32,15 @@
         "time": "12:00p-2:50p",
         "building": "SSB",
         "room": "101",
-        "instructor": "Schneider, Heidi L.",
         "instructors": [
           "Schneider, Heidi L."
         ],
         "start_time": "12:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

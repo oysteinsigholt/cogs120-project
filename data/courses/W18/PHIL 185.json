@@ -3,42 +3,9 @@
   "name": "Philosophy of Religion",
   "department": "PHIL",
   "id": "185",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924817",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "12:00p-12:50p",
-      "building": "HSS",
-      "room": "1128A",
-      "instructor": "Nelkin, Dana Kay",
-      "instructors": [
-        "Nelkin, Dana Kay"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1a3a4ab0904764661475bb10bda6bcafd57464a1af2995aa2ca45c6e1ab5238b": {
         "sectxt": true,
         "sectionID": "924817",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "12:00p-12:50p",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Nelkin, Dana Kay",
         "instructors": [
           "Nelkin, Dana Kay"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "f162c27029ac755d1aecb4b893d6af8f6ad4217548ca8e8f2d44171b67156b36": {
         "sectxt": true,
         "sectionID": "924817",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "12:00p-12:50p",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Nelkin, Dana Kay",
         "instructors": [
           "Nelkin, Dana Kay"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "95777f64798d20a851572f05ab1e1d7681ecbb571be90cc5fda55b2ad2f9f59d": {
         "sectxt": true,
         "sectionID": "924817",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "12:00p-12:50p",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Nelkin, Dana Kay",
         "instructors": [
           "Nelkin, Dana Kay"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

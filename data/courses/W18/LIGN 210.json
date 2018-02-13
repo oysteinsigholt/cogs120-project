@@ -3,30 +3,12 @@
   "name": "Phonetics",
   "department": "LIGN",
   "id": "210",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922293",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "11:00a-12:50p",
-      "building": "APM",
-      "room": "4432",
-      "instructor": "Garellek, Marc",
-      "instructors": [
-        "Garellek, Marc"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "c1e92e8e3f6a3fa00baebfbd7ccd4296756b73a030d8f9c52302b6fbc1ad4eb0": {
         "sectxt": true,
         "sectionID": "922293",
         "type": "LE",
@@ -35,17 +17,15 @@
         "time": "11:00a-12:50p",
         "building": "APM",
         "room": "4432",
-        "instructor": "Garellek, Marc",
         "instructors": [
           "Garellek, Marc"
         ],
         "start_time": "11:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "1a438385efaac333a990e563bb65bba136adef91f0e67b9f381c3cc117376f10": {
         "sectxt": true,
         "sectionID": "922293",
         "type": "LE",
@@ -54,17 +34,15 @@
         "time": "11:00a-12:50p",
         "building": "APM",
         "room": "4432",
-        "instructor": "Garellek, Marc",
         "instructors": [
           "Garellek, Marc"
         ],
         "start_time": "11:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

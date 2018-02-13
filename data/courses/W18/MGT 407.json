@@ -3,42 +3,37 @@
   "name": "Marketing",
   "department": "MGT",
   "id": "407",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930375",
-      "type": "LE",
-      "section": "C00",
-      "days": "S",
-      "time": "10:30a-4:30p",
-      "building": "OTRSN",
-      "room": "1E107",
-      "instructor": "Paharia, Neeru",
-      "instructors": [
-        "Paharia, Neeru"
-      ],
-      "start_time": "10:30",
-      "end_time": "16:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/24/2018",
-      "days": "S",
-      "time": "10:30a-1:30p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-24T07:00:00.000Z",
-      "start_time": "10:30",
-      "end_time": "13:30"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9713fd30de925ae9197c47c0bcba1058eaddc6d96f337797eb6b1df934ba2b2f": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "9:00a-12:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "9:00",
+      "end_time": "12:00"
+    },
+    "23b7303abbf3e678287869ea7924b3fa7b0bc4069be6e350aa32ebbf59533de8": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "6:30p-9:30p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "18:30",
+      "end_time": "21:30"
+    },
+    "fda7d50c4ea3a11b3f8c0be91909ea1fda8e244ebd2cf3b0a4336799ff2e93e6": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,21 +42,67 @@
       "time": "10:30a-1:30p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-24T07:00:00.000Z",
       "start_time": "10:30",
       "end_time": "13:30"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "Tu": {
+      "eca0ca4b6306b5f72745e55e090e90c513c50150ebe51efe9eb4630ae55e49c7": {
+        "sectxt": true,
+        "sectionID": "930333",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:00a-10:30a",
+        "building": "OTRSN",
+        "room": "1E107",
+        "instructors": [
+          "Amir, On"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:30"
+      },
+      "39fd4eb74f6ad3c301071cd681b0993836adb3aa79f09a6824bba85bc4c6c386": {
+        "sectxt": true,
+        "sectionID": "930362",
+        "type": "LE",
+        "section": "B00",
+        "days": "Tu",
+        "time": "6:30p-9:30p",
+        "building": "OTRSN",
+        "room": "1E107",
+        "instructors": [
+          "Karmarkar, Uma R"
+        ],
+        "start_time": "18:30",
+        "end_time": "21:30"
+      }
+    },
+    "Th": {
+      "68c170e7b7d502700a8f911a9eb6f861e252fe3143d262d81ce324aceb7f9db1": {
+        "sectxt": true,
+        "sectionID": "930333",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "9:00a-10:30a",
+        "building": "OTRSN",
+        "room": "1E107",
+        "instructors": [
+          "Amir, On"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:30"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

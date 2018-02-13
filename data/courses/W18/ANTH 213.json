@@ -3,31 +3,12 @@
   "name": "Anthropology and Mental Health",
   "department": "ANTH",
   "id": "213",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923534",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "4:00p-6:50p",
-      "building": "SSRB",
-      "room": "331",
-      "instructor": "Jenkins, Janis A.",
-      "instructors": [
-        "Jenkins, Janis A."
-      ],
-      "start_time": "16:00",
-      "end_time": "18:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "12dd22bc9a36a3e3c951f2496595ba379b639921c051201a012a29eb26775157": {
         "sectxt": true,
         "sectionID": "923534",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "4:00p-6:50p",
         "building": "SSRB",
         "room": "331",
-        "instructor": "Jenkins, Janis A.",
         "instructors": [
           "Jenkins, Janis A."
         ],
         "start_time": "16:00",
         "end_time": "18:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

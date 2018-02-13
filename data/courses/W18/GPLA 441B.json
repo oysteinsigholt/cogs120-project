@@ -3,42 +3,9 @@
   "name": "Intermediate Spanish",
   "department": "GPLA",
   "id": "441B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "933042",
-      "type": "LE",
-      "section": "B00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "RBC",
-      "room": "1301",
-      "instructor": "Pedregal, Sandra Luz",
-      "instructors": [
-        "Pedregal, Sandra Luz"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "0bd56ee75af072654a9e770f1826df2e0595b6b973f4e0cdde9eb61cee072ea1": {
         "sectxt": true,
         "sectionID": "933042",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "9:30a-10:50a",
         "building": "RBC",
         "room": "1301",
-        "instructor": "Pedregal, Sandra Luz",
         "instructors": [
           "Pedregal, Sandra Luz"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8efb1bfd593d47c2e4edd7d3a1c6035c4653fbd57cf3bc55cd5fc104e23f80b1": {
         "sectxt": true,
         "sectionID": "933042",
         "type": "LE",
@@ -86,16 +49,16 @@
         "time": "9:30a-10:50a",
         "building": "RBC",
         "room": "1301",
-        "instructor": "Pedregal, Sandra Luz",
         "instructors": [
           "Pedregal, Sandra Luz"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

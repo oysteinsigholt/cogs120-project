@@ -3,42 +3,9 @@
   "name": "History of Phil: Early Modern",
   "department": "PHIL",
   "id": "111",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924807",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "Rutherford, Donald Paul",
-      "instructors": [
-        "Rutherford, Donald Paul"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "a13299745f446333e1b4e69cd6aa56df9720b542c2ec42c3e9a5c07f228f3d6b": {
         "sectxt": true,
         "sectionID": "924807",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "1:00p-1:50p",
         "building": "WLH",
         "room": "2115",
-        "instructor": "Rutherford, Donald Paul",
         "instructors": [
           "Rutherford, Donald Paul"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "37428a988731292ac498c3d485d2e0ce1eb61e8a61d00fa93caab2f36c217a8d": {
         "sectxt": true,
         "sectionID": "924807",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "1:00p-1:50p",
         "building": "WLH",
         "room": "2115",
-        "instructor": "Rutherford, Donald Paul",
         "instructors": [
           "Rutherford, Donald Paul"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "bd71bf63f974451098fb1a7dbffa657e0a7fd119225c350853852e10fdafd4b3": {
         "sectxt": true,
         "sectionID": "924807",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "1:00p-1:50p",
         "building": "WLH",
         "room": "2115",
-        "instructor": "Rutherford, Donald Paul",
         "instructors": [
           "Rutherford, Donald Paul"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

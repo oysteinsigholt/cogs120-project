@@ -3,34 +3,12 @@
   "name": "Freshman Seminar",
   "department": "WARR",
   "id": "87",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927889",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "1:00p-1:50p",
-      "building": "PSB",
-      "room": "1182",
-      "instructor": "Debnath, Anjan",
-      "instructors": [
-        "Debnath, Anjan"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "65204ff0de866dd8d4bc8cc089d9599753f1fb5c52c4b5d1b5abc021684a5515": {
         "sectxt": true,
         "sectionID": "927889",
         "type": "SE",
@@ -39,15 +17,15 @@
         "time": "1:00p-1:50p",
         "building": "PSB",
         "room": "1182",
-        "instructor": "Debnath, Anjan",
         "instructors": [
           "Debnath, Anjan"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

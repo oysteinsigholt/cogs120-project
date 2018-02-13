@@ -3,58 +3,9 @@
   "name": "Intro to Modern Cryptography",
   "department": "CSE",
   "id": "107",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "10:00a-10:50a",
-      "building": "PETER",
-      "room": "103",
-      "instructor": "Bellare, Mihir",
-      "instructors": [
-        "Bellare, Mihir"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927488",
-      "type": "DI",
-      "section": "A01",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2205",
-      "instructor": "Bellare, Mihir",
-      "instructors": [
-        "Bellare, Mihir"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "40cdd3ea393878439ebaf5c767383214e7d7acfe333c98c416ae87493bc85dba": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -82,17 +32,15 @@
         "time": "10:00a-10:50a",
         "building": "PETER",
         "room": "103",
-        "instructor": "Bellare, Mihir",
         "instructors": [
           "Bellare, Mihir"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "9e7000e2f88be7b1f47b2ec9cdc4cadb0aac4f8df501aa444c431665ffa5d103": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -101,17 +49,15 @@
         "time": "10:00a-10:50a",
         "building": "PETER",
         "room": "103",
-        "instructor": "Bellare, Mihir",
         "instructors": [
           "Bellare, Mihir"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "57d13ebef86c1f21d3cb4f95dd18b6de95918f2164de032cc92a04d5a99151c4": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -120,14 +66,13 @@
         "time": "10:00a-10:50a",
         "building": "PETER",
         "room": "103",
-        "instructor": "Bellare, Mihir",
         "instructors": [
           "Bellare, Mihir"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "632be3f031525d2f171270481d6d6d4a275d501120a9fccd378ee1fd0b2fa09b": {
         "sectxt": true,
         "sectionID": "927488",
         "type": "DI",
@@ -136,15 +81,15 @@
         "time": "3:00p-3:50p",
         "building": "WLH",
         "room": "2205",
-        "instructor": "Bellare, Mihir",
         "instructors": [
           "Bellare, Mihir"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,24 +3,8 @@
   "name": "Preceptorship in Otology",
   "department": "SURG",
   "id": "435",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928706",
-      "type": "CL",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Harris, Jeffrey Paul",
-      "instructors": [
-        "Harris, Jeffrey Paul"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Harris, Jeffrey Paul",
       "instructors": [
         "Harris, Jeffrey Paul"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

@@ -3,42 +3,9 @@
   "name": "Computer Vision II",
   "department": "CSE",
   "id": "252B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927568",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "5:00p-6:20p",
-      "building": "WLH",
-      "room": "2111",
-      "instructor": "Ochoa, Benjamin Lawrence",
-      "instructors": [
-        "Ochoa, Benjamin Lawrence"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "6f43847b4f44ba29b1109dfd2e92b2f2cec1cffdf01a9740da1e9b0c4fd35e1a": {
         "sectxt": true,
         "sectionID": "927568",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "5:00p-6:20p",
         "building": "WLH",
         "room": "2111",
-        "instructor": "Ochoa, Benjamin Lawrence",
         "instructors": [
           "Ochoa, Benjamin Lawrence"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "605cee5c86467d571a0c822566436c24d31badc5a748c99ec23f9c0222aeca0b": {
         "sectxt": true,
         "sectionID": "927568",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "5:00p-6:20p",
         "building": "WLH",
         "room": "2111",
-        "instructor": "Ochoa, Benjamin Lawrence",
         "instructors": [
           "Ochoa, Benjamin Lawrence"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

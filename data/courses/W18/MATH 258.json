@@ -3,32 +3,26 @@
   "name": "Seminar/Differential Geometry",
   "department": "MATH",
   "id": "258",
-  "timeslots": [
+  "notes": [],
+  "events_single": {},
+  "events_unknown": [
     {
       "sectxt": true,
-      "sectionID": "933119",
+      "sectionID": "927298",
       "type": "SE",
-      "section": "C00",
-      "days": "W",
-      "time": "2:00p-2:50p",
-      "building": "APM",
-      "room": "7421",
-      "instructor": "Ni, Lei",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
       "instructors": [
-        "Ni, Lei"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
+        "Pelayo, Alvaro"
+      ]
     }
   ],
-  "notes": [],
-  "events_single": [],
-  "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "f0fe7c07ec6de8ead6d141b372d438be6c2a0e90cb9e396f507ae6637664bc81": {
         "sectxt": true,
         "sectionID": "933119",
         "type": "SE",
@@ -37,17 +31,16 @@
         "time": "2:00p-2:50p",
         "building": "APM",
         "room": "7421",
-        "instructor": "Ni, Lei",
         "instructors": [
           "Ni, Lei"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "C"
+  ]
 }

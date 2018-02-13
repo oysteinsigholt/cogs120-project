@@ -3,74 +3,9 @@
   "name": "Marine Microbiology",
   "department": "SIO",
   "id": "126",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "9:00a-9:50a",
-      "building": "WLH",
-      "room": "2207",
-      "instructor": "Palenik, Brian",
-      "instructors": [
-        "Palenik, Brian"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921061",
-      "type": "DI",
-      "section": "A01",
-      "days": "W",
-      "time": "10:00a-10:50a",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "Palenik, Brian",
-      "instructors": [
-        "Palenik, Brian"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921062",
-      "type": "DI",
-      "section": "A02",
-      "days": "F",
-      "time": "10:00a-10:50a",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "Palenik, Brian",
-      "instructors": [
-        "Palenik, Brian"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -79,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1866918a9e827ca2246c3cdc0800ca8cab9d14fcb63d242959828782dc5e03cc": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -98,17 +32,15 @@
         "time": "9:00a-9:50a",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Palenik, Brian",
         "instructors": [
           "Palenik, Brian"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "664fb1192c899ad420c384f1035679fd9aa443bbe17868a3444009b2ce9ed2d0": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -117,14 +49,13 @@
         "time": "9:00a-9:50a",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Palenik, Brian",
         "instructors": [
           "Palenik, Brian"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "af5307aa6a3f7597116b4ce6ad2fa5d5caa03e0529647c0dd9cd5c67f71ff9f2": {
         "sectxt": true,
         "sectionID": "921061",
         "type": "DI",
@@ -133,17 +64,15 @@
         "time": "10:00a-10:50a",
         "building": "WLH",
         "room": "2114",
-        "instructor": "Palenik, Brian",
         "instructors": [
           "Palenik, Brian"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "e0c71401fe619db626c079241f95ffbc9af299dc6dba6b446063c58d72b82533": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -152,14 +81,13 @@
         "time": "9:00a-9:50a",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Palenik, Brian",
         "instructors": [
           "Palenik, Brian"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "fa3ec862499b69c9dc05d71afddca9ab5534be80684b91c47c076f3ae3b262f7": {
         "sectxt": true,
         "sectionID": "921062",
         "type": "DI",
@@ -168,15 +96,15 @@
         "time": "10:00a-10:50a",
         "building": "WLH",
         "room": "2114",
-        "instructor": "Palenik, Brian",
         "instructors": [
           "Palenik, Brian"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,33 +3,12 @@
   "name": "Grad. Professional Development",
   "department": "HIGR",
   "id": "208",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924557",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "9:30a-12:20p",
-      "building": "HSS",
-      "room": "6008",
-      "instructor": "Alvarez, Luis A",
-      "instructors": [
-        "Alvarez, Luis A"
-      ],
-      "start_time": "9:30",
-      "end_time": "12:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "c40eeb6781c1b12462b20df510a2ef43f4e6d97c9c72259dde8cc83d42f9b17e": {
         "sectxt": true,
         "sectionID": "924557",
         "type": "SE",
@@ -38,16 +17,15 @@
         "time": "9:30a-12:20p",
         "building": "HSS",
         "room": "6008",
-        "instructor": "Alvarez, Luis A",
         "instructors": [
           "Alvarez, Luis A"
         ],
         "start_time": "9:30",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

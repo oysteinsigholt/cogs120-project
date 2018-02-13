@@ -3,153 +3,11 @@
   "name": "Principles of Microeconomics",
   "department": "ECON",
   "id": "1",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "10:00a-10:50a",
-      "building": "SOLIS",
-      "room": "107",
-      "instructor": "Candido, Maria Teresa",
-      "instructors": [
-        "Candido, Maria Teresa"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924010",
-      "type": "DI",
-      "section": "B01",
-      "days": "M",
-      "time": "7:00p-7:50p",
-      "building": "PCYNH",
-      "room": "122",
-      "instructor": "Candido, Maria Teresa",
-      "instructors": [
-        "Candido, Maria Teresa"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924011",
-      "type": "DI",
-      "section": "B02",
-      "days": "M",
-      "time": "8:00p-8:50p",
-      "building": "PCYNH",
-      "room": "122",
-      "instructor": "Candido, Maria Teresa",
-      "instructors": [
-        "Candido, Maria Teresa"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924012",
-      "type": "DI",
-      "section": "B03",
-      "days": "Th",
-      "time": "5:00p-5:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "Candido, Maria Teresa",
-      "instructors": [
-        "Candido, Maria Teresa"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924013",
-      "type": "DI",
-      "section": "B04",
-      "days": "Th",
-      "time": "6:00p-6:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "Candido, Maria Teresa",
-      "instructors": [
-        "Candido, Maria Teresa"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/31/2018",
-      "days": "W",
-      "time": "6:00p-7:50p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-31T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "02/02/2018",
-      "days": "F",
-      "time": "7:00p-8:20p",
-      "building": "PETER",
-      "room": "110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-02T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "20:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "02/26/2018",
-      "days": "M",
-      "time": "8:00p-9:20p",
-      "building": "PETER",
-      "room": "110",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-26T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [
     "Review session for ECON 1 B00 will meet in same\n location as ECON 1 A00."
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "84541d2f4ee47207ec67ebbe2da63340edba0bfd45723124827cd8167e17d2d8": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -158,13 +16,12 @@
       "time": "6:00p-7:50p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-31T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "19:50"
     },
-    {
+    "ed002e76b3aa2a12d27313da34c468586cdd4058fefc755353f1a1a4dfb2d3bf": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -173,13 +30,12 @@
       "time": "7:00p-8:20p",
       "building": "PETER",
       "room": "110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-02T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "20:20"
     },
-    {
+    "c5ddca5c9c85ad9290cb5a2d87a420dc1454585beaaea9393d73ba8287f16ed2": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -188,13 +44,26 @@
       "time": "8:00p-9:20p",
       "building": "PETER",
       "room": "110",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-26T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:20"
     },
-    {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -203,17 +72,61 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1866918a9e827ca2246c3cdc0800ca8cab9d14fcb63d242959828782dc5e03cc": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "SOLIS",
+        "room": "107",
+        "instructors": [
+          "Candido, Maria Teresa"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "c9906a8de4bc70e5b07646a14a92e7d33c85542c960cec1ab1b1be892c310b55": {
+        "sectxt": true,
+        "sectionID": "924005",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "5:00p-5:50p",
+        "building": "PCYNH",
+        "room": "122",
+        "instructors": [
+          "Candido, Maria Teresa"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "c38bbef34c0fe6c30d5b4e3d111fcb77e421f4d1326be084141425d792de563a": {
+        "sectxt": true,
+        "sectionID": "924006",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "6:00p-6:50p",
+        "building": "PCYNH",
+        "room": "122",
+        "instructors": [
+          "Candido, Maria Teresa"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "72ac370e0955fe955311014007158cbda925595ae1c9e7b223e5a659fa5e61e4": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -222,14 +135,13 @@
         "time": "10:00a-10:50a",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Candido, Maria Teresa",
         "instructors": [
           "Candido, Maria Teresa"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "531b44d28cbccab2c348aa965ac325e878acc09a613af327c3460d12978c99ab": {
         "sectxt": true,
         "sectionID": "924010",
         "type": "DI",
@@ -238,14 +150,13 @@
         "time": "7:00p-7:50p",
         "building": "PCYNH",
         "room": "122",
-        "instructor": "Candido, Maria Teresa",
         "instructors": [
           "Candido, Maria Teresa"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "ec65103cd8c7295a90e360d5ef7008c3bc9f05726f3187b7385a693e44ee465d": {
         "sectxt": true,
         "sectionID": "924011",
         "type": "DI",
@@ -254,17 +165,45 @@
         "time": "8:00p-8:50p",
         "building": "PCYNH",
         "room": "122",
-        "instructor": "Candido, Maria Teresa",
         "instructors": [
           "Candido, Maria Teresa"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "664fb1192c899ad420c384f1035679fd9aa443bbe17868a3444009b2ce9ed2d0": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "SOLIS",
+        "room": "107",
+        "instructors": [
+          "Candido, Maria Teresa"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "dac06fb3ad8b450a22223443f8b076ad4abb366ebeb0927e2f477e2bfdac8ef8": {
+        "sectxt": true,
+        "sectionID": "924007",
+        "type": "DI",
+        "section": "A03",
+        "days": "W",
+        "time": "8:00p-8:50p",
+        "building": "PCYNH",
+        "room": "122",
+        "instructors": [
+          "Candido, Maria Teresa"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "733b13bd9eacee06cd2c519cc2f59f0e259009f4d0a45d9d8362542b9cdd6c1b": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -273,16 +212,15 @@
         "time": "10:00a-10:50a",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Candido, Maria Teresa",
         "instructors": [
           "Candido, Maria Teresa"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8dcf9d4c9ed53db928007535129b28ce54db117f12960d6c0f3fe4a95a58ed2c": {
         "sectxt": true,
         "sectionID": "924012",
         "type": "DI",
@@ -291,14 +229,13 @@
         "time": "5:00p-5:50p",
         "building": "CSB",
         "room": "002",
-        "instructor": "Candido, Maria Teresa",
         "instructors": [
           "Candido, Maria Teresa"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "c5b25b3143e12a236b11291448ddd4419b6559b2f12771537d459929596c6de2": {
         "sectxt": true,
         "sectionID": "924013",
         "type": "DI",
@@ -307,16 +244,30 @@
         "time": "6:00p-6:50p",
         "building": "CSB",
         "room": "002",
-        "instructor": "Candido, Maria Teresa",
         "instructors": [
           "Candido, Maria Teresa"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "e0c71401fe619db626c079241f95ffbc9af299dc6dba6b446063c58d72b82533": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "SOLIS",
+        "room": "107",
+        "instructors": [
+          "Candido, Maria Teresa"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "41ac43cb18b3624692cf807f4a1e4a48c6dd9d84387b3e1773af7a3cfa484e8f": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -325,15 +276,16 @@
         "time": "10:00a-10:50a",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Candido, Maria Teresa",
         "instructors": [
           "Candido, Maria Teresa"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

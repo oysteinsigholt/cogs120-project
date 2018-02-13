@@ -3,197 +3,9 @@
   "name": "General Chemistry  III",
   "department": "CHEM",
   "id": "6C",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "YORK",
-      "room": "2722",
-      "instructor": "Ghosh, Partho",
-      "instructors": [
-        "Ghosh, Partho"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926358",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "8:00p-8:50p",
-      "building": "HSS",
-      "room": "1128A",
-      "instructor": "Ghosh, Partho",
-      "instructors": [
-        "Ghosh, Partho"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926359",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "9:00p-9:50p",
-      "building": "HSS",
-      "room": "1128A",
-      "instructor": "Ghosh, Partho",
-      "instructors": [
-        "Ghosh, Partho"
-      ],
-      "start_time": "21:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926360",
-      "type": "DI",
-      "section": "A03",
-      "days": "W",
-      "time": "8:00p-8:50p",
-      "building": "HSS",
-      "room": "1128A",
-      "instructor": "Ghosh, Partho",
-      "instructors": [
-        "Ghosh, Partho"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926361",
-      "type": "DI",
-      "section": "A04",
-      "days": "W",
-      "time": "9:00p-9:50p",
-      "building": "HSS",
-      "room": "1128A",
-      "instructor": "Ghosh, Partho",
-      "instructors": [
-        "Ghosh, Partho"
-      ],
-      "start_time": "21:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926362",
-      "type": "DI",
-      "section": "A05",
-      "days": "F",
-      "time": "8:00a-8:50a",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Ghosh, Partho",
-      "instructors": [
-        "Ghosh, Partho"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/25/2018",
-      "days": "Th",
-      "time": "8:00p-9:20p",
-      "building": "CENTR",
-      "room": "109",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-25T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "01/31/2018",
-      "days": "W",
-      "time": "6:30p-7:50p",
-      "building": "CENTR",
-      "room": "203",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-31T08:00:00.000Z",
-      "start_time": "18:30",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/22/2018",
-      "days": "Th",
-      "time": "8:00p-9:20p",
-      "building": "CENTR",
-      "room": "109",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-22T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "01/31/2018",
-      "days": "W",
-      "time": "8:00p-9:20p",
-      "building": "WLH",
-      "room": "2001",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-31T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MI",
-      "section": "02/26/2018",
-      "days": "M",
-      "time": "8:00p-9:20p",
-      "building": "YORK",
-      "room": "2722",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-26T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "2f169dc5e1ef13860193581f1bd42f0be59bd9b345255c4a4bfe44e3d01d399a": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -202,13 +14,12 @@
       "time": "8:00p-9:20p",
       "building": "CENTR",
       "room": "109",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-25T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:20"
     },
-    {
+    "fc13c269e703762af4a90b09b55af03993bb8b9f95ca902a34b34461bc97f2eb": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -217,13 +28,12 @@
       "time": "6:30p-7:50p",
       "building": "CENTR",
       "room": "203",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-31T08:00:00.000Z",
       "start_time": "18:30",
       "end_time": "19:50"
     },
-    {
+    "40225797bd1269bff4fdd583d86283e76d29cd1567abe597352f3ce2f1dc558d": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -232,13 +42,12 @@
       "time": "8:00p-9:20p",
       "building": "CENTR",
       "room": "109",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-22T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:20"
     },
-    {
+    "53e53906900bb294c35e856534cc765962a43c57c9348fe67c7fe3f15b14abde": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -247,13 +56,12 @@
       "time": "8:00p-9:20p",
       "building": "WLH",
       "room": "2001",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-31T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:20"
     },
-    {
+    "c5ddca5c9c85ad9290cb5a2d87a420dc1454585beaaea9393d73ba8287f16ed2": {
       "sectxt": false,
       "sectionID": "",
       "type": "MI",
@@ -262,13 +70,12 @@
       "time": "8:00p-9:20p",
       "building": "YORK",
       "room": "2722",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-26T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:20"
     },
-    {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -277,17 +84,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "8f5cd86a955748c71ed3b0524caeeb63a50a0e72fd21fc5f08d1756339b04ec5": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -296,14 +102,13 @@
         "time": "11:00a-11:50a",
         "building": "YORK",
         "room": "2722",
-        "instructor": "Ghosh, Partho",
         "instructors": [
           "Ghosh, Partho"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "989cb774caac652bf23a445c3534061b42d6871e2e6b816a7d42cd750daceac6": {
         "sectxt": true,
         "sectionID": "926358",
         "type": "DI",
@@ -312,14 +117,13 @@
         "time": "8:00p-8:50p",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Ghosh, Partho",
         "instructors": [
           "Ghosh, Partho"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "d3542e27c5b8bc1512094a056c8c65152d242033d9e7aaad409f221fcdbe4ef0": {
         "sectxt": true,
         "sectionID": "926359",
         "type": "DI",
@@ -328,17 +132,15 @@
         "time": "9:00p-9:50p",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Ghosh, Partho",
         "instructors": [
           "Ghosh, Partho"
         ],
         "start_time": "21:00",
         "end_time": "21:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "74ea09cb3d01daba039901e3d18030194c0ce47fc0bd239b573a61ed455612f9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -347,14 +149,13 @@
         "time": "11:00a-11:50a",
         "building": "YORK",
         "room": "2722",
-        "instructor": "Ghosh, Partho",
         "instructors": [
           "Ghosh, Partho"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "d84f440e70a45a0ceea4b600b26e65e6551568d03fb78e126203f87fdf462e0f": {
         "sectxt": true,
         "sectionID": "926360",
         "type": "DI",
@@ -363,14 +164,13 @@
         "time": "8:00p-8:50p",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Ghosh, Partho",
         "instructors": [
           "Ghosh, Partho"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "73b65f66e39208ce518cec1f2e8b7a9118c527786c17dda33a04c0b49d0c2a47": {
         "sectxt": true,
         "sectionID": "926361",
         "type": "DI",
@@ -379,17 +179,15 @@
         "time": "9:00p-9:50p",
         "building": "HSS",
         "room": "1128A",
-        "instructor": "Ghosh, Partho",
         "instructors": [
           "Ghosh, Partho"
         ],
         "start_time": "21:00",
         "end_time": "21:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "cb478914a4ec4bc4c62867dba462dc925b2849711db7c7bb7d18cd0442892921": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -398,14 +196,13 @@
         "time": "11:00a-11:50a",
         "building": "YORK",
         "room": "2722",
-        "instructor": "Ghosh, Partho",
         "instructors": [
           "Ghosh, Partho"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "74a75f54786d9a2ebfb2831ee5940aeeab602622f2c6c642154112ddc36cb007": {
         "sectxt": true,
         "sectionID": "926362",
         "type": "DI",
@@ -414,15 +211,15 @@
         "time": "8:00a-8:50a",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Ghosh, Partho",
         "instructors": [
           "Ghosh, Partho"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,30 +3,12 @@
   "name": "Department Seminar",
   "department": "MUS",
   "id": "143",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921811",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "11:00a-11:50a",
-      "building": "CPMC",
-      "room": "127",
-      "instructor": "Borgo, David Garcia",
-      "instructors": [
-        "Borgo, David Garcia"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "eca959f13275ab3dde640480dff42eacbb2211e5aa57b39b71854e5b031bf049": {
         "sectxt": true,
         "sectionID": "921811",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "11:00a-11:50a",
         "building": "CPMC",
         "room": "127",
-        "instructor": "Borgo, David Garcia",
         "instructors": [
           "Borgo, David Garcia"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

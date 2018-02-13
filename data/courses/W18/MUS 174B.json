@@ -3,42 +3,9 @@
   "name": "Audio&MIDI StudioTechniques II",
   "department": "MUS",
   "id": "174B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921937",
-      "type": "LA",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "CPMC",
-      "room": "269",
-      "instructor": "Erbe, Tom",
-      "instructors": [
-        "Erbe, Tom"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "24054270403b4693da8d6361388ce8d6a1e49effe3a7041dd159b5282a769ccc": {
         "sectxt": true,
         "sectionID": "921937",
         "type": "LA",
@@ -67,17 +32,15 @@
         "time": "11:00a-12:20p",
         "building": "CPMC",
         "room": "269",
-        "instructor": "Erbe, Tom",
         "instructors": [
           "Erbe, Tom"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "b30d53fe043d90207123357a3552fb4351d9b7165f810758bf9d5d809a941a04": {
         "sectxt": true,
         "sectionID": "921937",
         "type": "LA",
@@ -86,16 +49,15 @@
         "time": "11:00a-12:20p",
         "building": "CPMC",
         "room": "269",
-        "instructor": "Erbe, Tom",
         "instructors": [
           "Erbe, Tom"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,63 +3,57 @@
   "name": "Instructionl Apprentice in HDP",
   "department": "HDP",
   "id": "195",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Stewart, Alexander B",
-      "instructors": [
-        "Stewart, Alexander B"
-      ]
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "B01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Stewart, Alexander B",
-      "instructors": [
-        "Stewart, Alexander B"
-      ]
-    },
-    {
-      "sectxt": true,
-      "sectionID": "938735",
-      "type": "PR",
-      "section": "B50",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Stewart, Alexander B",
-      "instructors": [
-        "Stewart, Alexander B"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
       "sectionID": "",
       "type": "LE",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Ark, Wendy S"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "DI",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Ark, Wendy S"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "936356",
+      "type": "PR",
+      "section": "A50",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Ark, Wendy S"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
       "section": "B00",
       "days": "TBA",
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Stewart, Alexander B",
       "instructors": [
         "Stewart, Alexander B"
       ]
@@ -73,7 +67,6 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Stewart, Alexander B",
       "instructors": [
         "Stewart, Alexander B"
       ]
@@ -87,19 +80,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Stewart, Alexander B",
       "instructors": [
         "Stewart, Alexander B"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

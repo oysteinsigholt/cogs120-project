@@ -3,24 +3,8 @@
   "name": "Special Studies",
   "department": "EDS",
   "id": "199",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "939639",
-      "type": "IN",
-      "section": "002",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Jones, Makeba",
-      "instructors": [
-        "Jones, Makeba"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,31 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Jones, Makeba",
       "instructors": [
         "Jones, Makeba"
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "F": {
+      "df4a5cc6d878fcead91c5ccb2264b9118f828d74bcb65f767f8b33dd9e061df2": {
+        "sectxt": true,
+        "sectionID": "922515",
+        "type": "IN",
+        "section": "001",
+        "days": "F",
+        "time": "9:00a-12:00p",
+        "building": "PCYNH",
+        "room": "448",
+        "instructors": [
+          "Wishard Guerra, Alison G."
+        ],
+        "start_time": "9:00",
+        "end_time": "12:00"
+      }
+    }
+  },
+  "sections": [
+    "0"
+  ]
 }

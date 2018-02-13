@@ -3,32 +3,12 @@
   "name": "Symphonic Chorus",
   "department": "MUS",
   "id": "95D",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921923",
-      "type": "ST",
-      "section": "A00",
-      "days": "W",
-      "time": "7:00p-9:50p",
-      "building": "CPMC",
-      "room": "127",
-      "instructor": "Schick, Steven",
-      "instructors": [
-        "Schick, Steven"
-      ],
-      "start_time": "19:00",
-      "end_time": "21:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "27a12607c19c106c35750ff9aa6c45277a898785ca293b7ed06e2b193a9ea9af": {
         "sectxt": true,
         "sectionID": "921923",
         "type": "ST",
@@ -37,17 +17,15 @@
         "time": "7:00p-9:50p",
         "building": "CPMC",
         "room": "127",
-        "instructor": "Schick, Steven",
         "instructors": [
           "Schick, Steven"
         ],
         "start_time": "19:00",
         "end_time": "21:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

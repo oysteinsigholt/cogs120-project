@@ -3,34 +3,12 @@
   "name": "Marine Biology Seminar",
   "department": "SIOB",
   "id": "297",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921969",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "12:15p-1:15p",
-      "building": "HUBBS",
-      "room": "4500",
-      "instructor": "Gerwick, William Henry",
-      "instructors": [
-        "Gerwick, William Henry"
-      ],
-      "start_time": "12:15",
-      "end_time": "13:15"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "9ea1beafadf6213b7c6cd844a9590718a1a0e9ff86df2b967306b3e80e46bf95": {
         "sectxt": true,
         "sectionID": "921969",
         "type": "SE",
@@ -39,15 +17,15 @@
         "time": "12:15p-1:15p",
         "building": "HUBBS",
         "room": "4500",
-        "instructor": "Gerwick, William Henry",
         "instructors": [
           "Gerwick, William Henry"
         ],
         "start_time": "12:15",
         "end_time": "13:15"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

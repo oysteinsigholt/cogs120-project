@@ -3,151 +3,11 @@
   "name": "Phys-Relativity&Quantm Physics",
   "department": "PHYS",
   "id": "2D",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "YORK",
-      "room": "2622",
-      "instructor": "Sharma, Vivek A.",
-      "instructors": [
-        "Sharma, Vivek A."
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "7:00p-7:50p",
-      "building": "PCYNH",
-      "room": "109",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923738",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "MYR-A",
-      "room": "2623",
-      "instructor": "Sharma, Vivek A.",
-      "instructors": [
-        "Sharma, Vivek A."
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929971",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "MYR-A",
-      "room": "2623",
-      "instructor": "Sharma, Vivek A.",
-      "instructors": [
-        "Sharma, Vivek A."
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929972",
-      "type": "DI",
-      "section": "A03",
-      "days": "M",
-      "time": "6:00p-6:50p",
-      "building": "MYR-A",
-      "room": "2623",
-      "instructor": "Sharma, Vivek A.",
-      "instructors": [
-        "Sharma, Vivek A."
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/08/2018",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "MYR-A",
-      "room": "2623",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-08T08:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/08/2018",
-      "days": "M",
-      "time": "5:00p-5:50p",
-      "building": "MYR-A",
-      "room": "2623",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-08T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/08/2018",
-      "days": "M",
-      "time": "7:00p-7:50p",
-      "building": "MYR-A",
-      "room": "2623",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-08T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [
     "Students enrolling in PHYS 2D are urged to avoid\n scheduling conflicts with the problem sessions (PB) for\n this course.  These are specifically designed to\n prepare you for the weekly quizzes and the final exams.\n Discussion Sections (DI) and PB are Mondays and meant\n to be back-to-back every week.  Students enrolled in\n A01 are urged to attend the weekly PBs on M 3-3:50pm,\n those in A02 PBs on M 5-5:50pm, and those in A03 PBs\n on M 7-7:50pm."
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "b84321c0ce342de8ad6504c9e9b9efaac8cb666b6b6f6cf7cc8a4fd9a4531d5a": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -156,13 +16,12 @@
       "time": "3:00p-3:50p",
       "building": "MYR-A",
       "room": "2623",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-08T08:00:00.000Z",
       "start_time": "15:00",
       "end_time": "15:50"
     },
-    {
+    "bb858bb56c7c0462d73cf78a2081c6605ea4df10e35302907fe49d9fbf483054": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -171,13 +30,12 @@
       "time": "5:00p-5:50p",
       "building": "MYR-A",
       "room": "2623",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-08T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "5523dcf83a2a94ca7aa86754e4477b4b7357c59c7639946fec233432b7526111": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -186,13 +44,12 @@
       "time": "7:00p-7:50p",
       "building": "MYR-A",
       "room": "2623",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-08T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "19:50"
     },
-    {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -201,17 +58,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "8f5cd86a955748c71ed3b0524caeeb63a50a0e72fd21fc5f08d1756339b04ec5": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -220,14 +76,13 @@
         "time": "11:00a-11:50a",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Sharma, Vivek A.",
         "instructors": [
           "Sharma, Vivek A."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "aff9008524e97f86d3132a19826938bef0405d062164736043fedf9f72f22b26": {
         "sectxt": true,
         "sectionID": "923738",
         "type": "DI",
@@ -236,14 +91,13 @@
         "time": "2:00p-2:50p",
         "building": "MYR-A",
         "room": "2623",
-        "instructor": "Sharma, Vivek A.",
         "instructors": [
           "Sharma, Vivek A."
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "be563978292f360ac13fa12a4d98e94cfff253db3277bfc94aac2230f7e07032": {
         "sectxt": true,
         "sectionID": "929971",
         "type": "DI",
@@ -252,14 +106,13 @@
         "time": "4:00p-4:50p",
         "building": "MYR-A",
         "room": "2623",
-        "instructor": "Sharma, Vivek A.",
         "instructors": [
           "Sharma, Vivek A."
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "dc5ef868785070d4d0425665e5db3eec6d765b3850772292734ed065545b2e65": {
         "sectxt": true,
         "sectionID": "929972",
         "type": "DI",
@@ -268,16 +121,15 @@
         "time": "6:00p-6:50p",
         "building": "MYR-A",
         "room": "2623",
-        "instructor": "Sharma, Vivek A.",
         "instructors": [
           "Sharma, Vivek A."
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "3e08a9c5a0bc74f6cd0e95230a38ee890638d9a82f8b8716ac809e2960f8fe02": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -286,14 +138,13 @@
         "time": "7:00p-7:50p",
         "building": "PCYNH",
         "room": "109",
-        "instructor": "",
         "instructors": [],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "74ea09cb3d01daba039901e3d18030194c0ce47fc0bd239b573a61ed455612f9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -302,17 +153,15 @@
         "time": "11:00a-11:50a",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Sharma, Vivek A.",
         "instructors": [
           "Sharma, Vivek A."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "cb478914a4ec4bc4c62867dba462dc925b2849711db7c7bb7d18cd0442892921": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -321,15 +170,15 @@
         "time": "11:00a-11:50a",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Sharma, Vivek A.",
         "instructors": [
           "Sharma, Vivek A."
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

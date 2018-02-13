@@ -3,32 +3,12 @@
   "name": "Public Health Doctoral Lect II",
   "department": "FPM",
   "id": "258B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930037",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "1:00p-3:00p",
-      "building": "MTF",
-      "room": "175",
-      "instructor": "Cepeda, Javier Andres",
-      "instructors": [
-        "Cepeda, Javier Andres"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "c3e6eaa634d11453d41c8715b60cb6823caa3de9437ba80ad399fb3eee4dfa0b": {
         "sectxt": true,
         "sectionID": "930037",
         "type": "LE",
@@ -37,17 +17,15 @@
         "time": "1:00p-3:00p",
         "building": "MTF",
         "room": "175",
-        "instructor": "Cepeda, Javier Andres",
         "instructors": [
           "Cepeda, Javier Andres"
         ],
         "start_time": "13:00",
         "end_time": "15:00"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

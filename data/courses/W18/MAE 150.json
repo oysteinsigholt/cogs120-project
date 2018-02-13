@@ -3,56 +3,9 @@
   "name": "Computer-Aided Analysis&Design",
   "department": "MAE",
   "id": "150",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922838",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "WLH",
-      "room": "2111",
-      "instructor": "Gravish, Nicholas G",
-      "instructors": [
-        "Gravish, Nicholas G"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "CENTR",
-      "room": "222",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -61,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "fc7d3a3973ce7991762ecd6736275fe9ddf8325e98629a4d72395e8a3dd39f99": {
         "sectxt": true,
         "sectionID": "922838",
         "type": "LE",
@@ -80,16 +32,15 @@
         "time": "4:00p-4:50p",
         "building": "WLH",
         "room": "2111",
-        "instructor": "Gravish, Nicholas G",
         "instructors": [
           "Gravish, Nicholas G"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "d76bcf043f1041aeae848254fedd3b9af18897231d4c3398c9af555ce5e62306": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -98,15 +49,13 @@
         "time": "11:00a-12:20p",
         "building": "CENTR",
         "room": "222",
-        "instructor": "",
         "instructors": [],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "055dab9e4efb54208a1d7f8ffd64e8d079ba2cc9fe681a6ccf684c385c6a7818": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -115,14 +64,13 @@
         "time": "11:00a-12:20p",
         "building": "CENTR",
         "room": "222",
-        "instructor": "",
         "instructors": [],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

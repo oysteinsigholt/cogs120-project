@@ -3,58 +3,9 @@
   "name": "Intro to Computer Security",
   "department": "CSE",
   "id": "127",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "PETER",
-      "room": "103",
-      "instructor": "Shacham, Hovav",
-      "instructors": [
-        "Shacham, Hovav"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927503",
-      "type": "DI",
-      "section": "A01",
-      "days": "Th",
-      "time": "8:00p-8:50p",
-      "building": "CENTR",
-      "room": "113",
-      "instructor": "Shacham, Hovav",
-      "instructors": [
-        "Shacham, Hovav"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "77a90d7a8864ca19fd9b8963b8c321ba412d20b52100d010e9805af3b2d06f08": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -83,17 +32,15 @@
         "time": "12:30p-1:50p",
         "building": "PETER",
         "room": "103",
-        "instructor": "Shacham, Hovav",
         "instructors": [
           "Shacham, Hovav"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f8ad585298e7b342895c254554dd0fa501d6feea536e74d6146ebcf55fb31294": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -102,14 +49,13 @@
         "time": "12:30p-1:50p",
         "building": "PETER",
         "room": "103",
-        "instructor": "Shacham, Hovav",
         "instructors": [
           "Shacham, Hovav"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       },
-      {
+      "69b8d6250b3141088fbd0445734ad0ad93c42ed7518d553285c19fa36ca53ca2": {
         "sectxt": true,
         "sectionID": "927503",
         "type": "DI",
@@ -118,16 +64,15 @@
         "time": "8:00p-8:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Shacham, Hovav",
         "instructors": [
           "Shacham, Hovav"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

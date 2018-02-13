@@ -3,27 +3,76 @@
   "name": "Apprentice Teaching",
   "department": "FPM",
   "id": "500",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930046",
-      "type": "IN",
-      "section": "006",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Vanos, Jennifer K.",
-      "instructors": [
-        "Vanos, Jennifer K."
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "930041",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Larsen, Britta Ann"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930042",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Johnson, Michelle Lee"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930043",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Aldelaimy, Wael"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930044",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Marquez, Becky"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930045",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "McMenamin, Sara B"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "930046",
       "type": "IN",
       "section": "006",
@@ -31,19 +80,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Vanos, Jennifer K.",
       "instructors": [
         "Vanos, Jennifer K."
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

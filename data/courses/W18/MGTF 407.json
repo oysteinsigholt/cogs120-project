@@ -3,42 +3,23 @@
   "name": "Valuation in Corporate Finance",
   "department": "MGTF",
   "id": "407",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930351",
-      "type": "LE",
-      "section": "B00",
-      "days": "Tu",
-      "time": "1:30p-4:30p",
-      "building": "OTRSN",
-      "room": "1E106",
-      "instructor": "Buti, Krisztina",
-      "instructors": [
-        "Buti, Krisztina"
-      ],
-      "start_time": "13:30",
-      "end_time": "16:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "1:30p-4:30p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "13:30",
-      "end_time": "16:30"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c5979b56d85bd6b1908a37d62b268f441c1ed03b18a2041ca3e70dd713ecfd4d": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "9:00a-12:00p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "9:00",
+      "end_time": "12:00"
+    },
+    "39f7d53aa9741755aae30c760c37ae9635d99f6cc459e11b6b6eb75c2936377c": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +28,31 @@
       "time": "1:30p-4:30p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "13:30",
       "end_time": "16:30"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "a99e2d757429e1ac8579a75576d486a9ce8cecbc211c8607281244bc8bcfada2": {
+        "sectxt": true,
+        "sectionID": "930350",
+        "type": "LE",
+        "section": "A00",
+        "days": "Tu",
+        "time": "9:00a-12:00p",
+        "building": "OTRSN",
+        "room": "1E106",
+        "instructors": [
+          "Buti, Krisztina"
+        ],
+        "start_time": "9:00",
+        "end_time": "12:00"
+      },
+      "70caa613d2e088372b2e630277cd273a69079b35eefb29537f5e1c20020c6094": {
         "sectxt": true,
         "sectionID": "930351",
         "type": "LE",
@@ -67,18 +61,16 @@
         "time": "1:30p-4:30p",
         "building": "OTRSN",
         "room": "1E106",
-        "instructor": "Buti, Krisztina",
         "instructors": [
           "Buti, Krisztina"
         ],
         "start_time": "13:30",
         "end_time": "16:30"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

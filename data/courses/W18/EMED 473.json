@@ -3,24 +3,8 @@
   "name": "Subint: Diving/Hyperbaric Med",
   "department": "EMED",
   "id": "473",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928424",
-      "type": "CL",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Grover, Ian R.",
-      "instructors": [
-        "Grover, Ian R."
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Grover, Ian R.",
       "instructors": [
         "Grover, Ian R."
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

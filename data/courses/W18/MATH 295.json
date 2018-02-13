@@ -3,33 +3,12 @@
   "name": "Special Topics in Mathematics",
   "department": "MATH",
   "id": "295",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927327",
-      "type": "LE",
-      "section": "A00",
-      "days": "Th",
-      "time": "4:00p-5:50p",
-      "building": "APM",
-      "room": "6402",
-      "instructor": "Bejenaru, Ioan",
-      "instructors": [
-        "Bejenaru, Ioan"
-      ],
-      "start_time": "16:00",
-      "end_time": "17:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "80bb4e23924053a1488161e73206a36ca9f57a2641f14ca6186a5d0993b56dba": {
         "sectxt": true,
         "sectionID": "927327",
         "type": "LE",
@@ -38,16 +17,15 @@
         "time": "4:00p-5:50p",
         "building": "APM",
         "room": "6402",
-        "instructor": "Bejenaru, Ioan",
         "instructors": [
           "Bejenaru, Ioan"
         ],
         "start_time": "16:00",
         "end_time": "17:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

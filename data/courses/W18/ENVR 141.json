@@ -3,42 +3,9 @@
   "name": "Wilderness & HumanValue Worksh",
   "department": "ENVR",
   "id": "141",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928324",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "4:00p-5:20p",
-      "building": "MCGIL",
-      "room": "2342",
-      "instructor": "Herbst, Matthew",
-      "instructors": [
-        "Herbst, Matthew"
-      ],
-      "start_time": "16:00",
-      "end_time": "17:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b9b4ec5af540606b238988bee0286fc3a4cc4d540b7785beb08dccae4a0227c9": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,19 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "6a096f74dad1f5490ffb668cba80f792c36a132c82300ce17a269a92852d0e42": {
         "sectxt": true,
         "sectionID": "928324",
         "type": "LE",
@@ -68,17 +32,15 @@
         "time": "4:00p-5:20p",
         "building": "MCGIL",
         "room": "2342",
-        "instructor": "Herbst, Matthew",
         "instructors": [
           "Herbst, Matthew"
         ],
         "start_time": "16:00",
         "end_time": "17:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

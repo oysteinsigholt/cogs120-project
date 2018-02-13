@@ -3,34 +3,140 @@
   "name": "Opera",
   "department": "MUS",
   "id": "12",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921779",
-      "type": "LA",
-      "section": "A06",
-      "days": "F",
-      "time": "1:00p-1:50p",
-      "building": "CPMC",
-      "room": "264",
-      "instructor": "Guy, Nancy",
-      "instructors": [
-        "Guy, Nancy"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    }
+  "notes": [
+    "Sections will not meet before the first main lecture."
   ],
-  "notes": [],
-  "events_single": [],
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "Tu": {
+      "77a90d7a8864ca19fd9b8963b8c321ba412d20b52100d010e9805af3b2d06f08": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CPMC",
+        "room": "127",
+        "instructors": [
+          "Guy, Nancy"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    },
+    "W": {
+      "c020acdae56a0cafe4d7d05e0b562f901c8ed4f483c48db22e311ed35fea8bc4": {
+        "sectxt": true,
+        "sectionID": "921774",
+        "type": "LA",
+        "section": "A01",
+        "days": "W",
+        "time": "9:00a-9:50a",
+        "building": "CPMC",
+        "room": "166",
+        "instructors": [
+          "Guy, Nancy"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "580d5c816b98829633ec5cb8b62076c6540b7c2f6eb0d52c297abec05fe51380": {
+        "sectxt": true,
+        "sectionID": "921775",
+        "type": "LA",
+        "section": "A02",
+        "days": "W",
+        "time": "10:00a-10:50a",
+        "building": "CPMC",
+        "room": "166",
+        "instructors": [
+          "Guy, Nancy"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "316d9d43219d5148f97bc2b67fb481359115ec0ba0b9ed0f561a969ff2152b7e": {
+        "sectxt": true,
+        "sectionID": "921776",
+        "type": "LA",
+        "section": "A03",
+        "days": "W",
+        "time": "12:00p-12:50p",
+        "building": "CPMC",
+        "room": "265",
+        "instructors": [
+          "Guy, Nancy"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "ab21ce5eaee438c79f7622281cb72405ae398a2f8062518fed66ee76b3734c63": {
+        "sectxt": true,
+        "sectionID": "921777",
+        "type": "LA",
+        "section": "A04",
+        "days": "W",
+        "time": "1:00p-1:50p",
+        "building": "CPMC",
+        "room": "265",
+        "instructors": [
+          "Guy, Nancy"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    },
+    "Th": {
+      "f8ad585298e7b342895c254554dd0fa501d6feea536e74d6146ebcf55fb31294": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "CPMC",
+        "room": "127",
+        "instructors": [
+          "Guy, Nancy"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    },
+    "F": {
+      "9c2207801e98a6b12820f34b7cc0fac4c2add7ce82dde4aba0cd585f17889b47": {
+        "sectxt": true,
+        "sectionID": "921778",
+        "type": "LA",
+        "section": "A05",
+        "days": "F",
+        "time": "12:00p-12:50p",
+        "building": "CPMC",
+        "room": "264",
+        "instructors": [
+          "Guy, Nancy"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "b30f887487237ed9223c7ab81d4a5e94225dae09386058685021246dcc1f1b37": {
         "sectxt": true,
         "sectionID": "921779",
         "type": "LA",
@@ -39,15 +145,15 @@
         "time": "1:00p-1:50p",
         "building": "CPMC",
         "room": "264",
-        "instructor": "Guy, Nancy",
         "instructors": [
           "Guy, Nancy"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

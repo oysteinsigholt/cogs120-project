@@ -3,24 +3,8 @@
   "name": "Cochlear Implnts&Othr Sens Aid",
   "department": "AUD",
   "id": "276",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930524",
-      "type": "LE",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Spriggs, Meghan K",
-      "instructors": [
-        "Spriggs, Meghan K"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Spriggs, Meghan K",
       "instructors": [
         "Spriggs, Meghan K"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

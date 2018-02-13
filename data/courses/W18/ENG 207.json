@@ -3,42 +3,9 @@
   "name": "Corp EnterpreneurGlobal Compet",
   "department": "ENG",
   "id": "207",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929114",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "1:00p-3:50p",
-      "building": "PFBH",
-      "room": "003",
-      "instructor": "Eremenko, Svetlana",
-      "instructors": [
-        "Eremenko, Svetlana"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,19 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "78099744470c17306a1e17e70e6c3d7ec28c74cc111afb9caad52a3868fdf27b": {
         "sectxt": true,
         "sectionID": "929114",
         "type": "LE",
@@ -68,17 +32,15 @@
         "time": "1:00p-3:50p",
         "building": "PFBH",
         "room": "003",
-        "instructor": "Eremenko, Svetlana",
         "instructors": [
           "Eremenko, Svetlana"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

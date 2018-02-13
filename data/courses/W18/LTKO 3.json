@@ -3,42 +3,9 @@
   "name": "Advanced Korean/Third Year",
   "department": "LTKO",
   "id": "3",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920120",
-      "type": "DI",
-      "section": "A00",
-      "days": "MTuWTh",
-      "time": "5:00p-5:50p",
-      "building": "LIT",
-      "room": "455",
-      "instructor": "Lee, Jeyseon",
-      "instructors": [
-        "Lee, Jeyseon"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "4aa86ac55cf402fcc6f46ef18b0c8cc9cb820e612182b7361d8ff4f4227a4815": {
         "sectxt": true,
         "sectionID": "920120",
         "type": "DI",
@@ -66,16 +32,15 @@
         "time": "5:00p-5:50p",
         "building": "LIT",
         "room": "455",
-        "instructor": "Lee, Jeyseon",
         "instructors": [
           "Lee, Jeyseon"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "8366340c72703911b770d215104c708dbf5de7e9dcc956d054d62ac87565f14f": {
         "sectxt": true,
         "sectionID": "920120",
         "type": "DI",
@@ -84,16 +49,15 @@
         "time": "5:00p-5:50p",
         "building": "LIT",
         "room": "455",
-        "instructor": "Lee, Jeyseon",
         "instructors": [
           "Lee, Jeyseon"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "2590478938bc547239c364903c7d264d3d8d78e5b349e6c5db6ea4da09fb12ad": {
         "sectxt": true,
         "sectionID": "920120",
         "type": "DI",
@@ -102,16 +66,15 @@
         "time": "5:00p-5:50p",
         "building": "LIT",
         "room": "455",
-        "instructor": "Lee, Jeyseon",
         "instructors": [
           "Lee, Jeyseon"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "24ffa9c1924a8e9817533e61ae2d2dccfd821fe19aad19af1408e3f5b6bb2ea3": {
         "sectxt": true,
         "sectionID": "920120",
         "type": "DI",
@@ -120,16 +83,15 @@
         "time": "5:00p-5:50p",
         "building": "LIT",
         "room": "455",
-        "instructor": "Lee, Jeyseon",
         "instructors": [
           "Lee, Jeyseon"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

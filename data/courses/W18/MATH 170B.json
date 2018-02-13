@@ -3,138 +3,9 @@
   "name": "Intro/Numerical Analy/Approxim",
   "department": "MATH",
   "id": "170B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "PETER",
-      "room": "110",
-      "instructor": "Cheng, Li-Tien",
-      "instructors": [
-        "Cheng, Li-Tien"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927201",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Cheng, Li-Tien",
-      "instructors": [
-        "Cheng, Li-Tien"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927202",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "5:00p-5:50p",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Cheng, Li-Tien",
-      "instructors": [
-        "Cheng, Li-Tien"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927203",
-      "type": "DI",
-      "section": "A03",
-      "days": "M",
-      "time": "6:00p-6:50p",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Cheng, Li-Tien",
-      "instructors": [
-        "Cheng, Li-Tien"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927204",
-      "type": "DI",
-      "section": "A04",
-      "days": "M",
-      "time": "7:00p-7:50p",
-      "building": "APM",
-      "room": "2402",
-      "instructor": "Cheng, Li-Tien",
-      "instructors": [
-        "Cheng, Li-Tien"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927205",
-      "type": "DI",
-      "section": "A05",
-      "days": "M",
-      "time": "6:00p-6:50p",
-      "building": "APM",
-      "room": "7421",
-      "instructor": "Cheng, Li-Tien",
-      "instructors": [
-        "Cheng, Li-Tien"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927206",
-      "type": "DI",
-      "section": "A06",
-      "days": "M",
-      "time": "7:00p-7:50p",
-      "building": "APM",
-      "room": "7421",
-      "instructor": "Cheng, Li-Tien",
-      "instructors": [
-        "Cheng, Li-Tien"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -143,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "6721ec3568dcd8f8a49712a671b801dfee4ddaabbc63506c0e935ab456b7dffd": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -162,14 +32,13 @@
         "time": "2:00p-2:50p",
         "building": "PETER",
         "room": "110",
-        "instructor": "Cheng, Li-Tien",
         "instructors": [
           "Cheng, Li-Tien"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "0c4ec89157afecdf932d980a183885a9111d0421caefcffbc1afbffaa80c2fe1": {
         "sectxt": true,
         "sectionID": "927201",
         "type": "DI",
@@ -178,14 +47,13 @@
         "time": "4:00p-4:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Cheng, Li-Tien",
         "instructors": [
           "Cheng, Li-Tien"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "2ff30d721dc6ecca12b9e3b624ce14750f818acbaaf9ff505096c82e6e2c1da3": {
         "sectxt": true,
         "sectionID": "927202",
         "type": "DI",
@@ -194,14 +62,13 @@
         "time": "5:00p-5:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Cheng, Li-Tien",
         "instructors": [
           "Cheng, Li-Tien"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "aa8ea9c09f8ca69cfd1ac5d316dc68afdf3715f259867ac78261b6e1d8ecfeb0": {
         "sectxt": true,
         "sectionID": "927203",
         "type": "DI",
@@ -210,14 +77,13 @@
         "time": "6:00p-6:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Cheng, Li-Tien",
         "instructors": [
           "Cheng, Li-Tien"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "b4a96b0dd9319e953b33921658955ebf5463c7df992cc0f1532665faa2dec81a": {
         "sectxt": true,
         "sectionID": "927204",
         "type": "DI",
@@ -226,14 +92,13 @@
         "time": "7:00p-7:50p",
         "building": "APM",
         "room": "2402",
-        "instructor": "Cheng, Li-Tien",
         "instructors": [
           "Cheng, Li-Tien"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "ad2c3e5df49d496e335949fa27fdf99c55630daa8f000125ff9aab20e40c1d63": {
         "sectxt": true,
         "sectionID": "927205",
         "type": "DI",
@@ -242,14 +107,13 @@
         "time": "6:00p-6:50p",
         "building": "APM",
         "room": "7421",
-        "instructor": "Cheng, Li-Tien",
         "instructors": [
           "Cheng, Li-Tien"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "60cf33ee653a9db677b050d3f0012784e4718e2eb85cbc763e89b25e907af7a1": {
         "sectxt": true,
         "sectionID": "927206",
         "type": "DI",
@@ -258,17 +122,15 @@
         "time": "7:00p-7:50p",
         "building": "APM",
         "room": "7421",
-        "instructor": "Cheng, Li-Tien",
         "instructors": [
           "Cheng, Li-Tien"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "03db29512c920154c8251b4bab8a52a294794a0af7dbbc2424d2ef4b9cb7ee87": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -277,17 +139,15 @@
         "time": "2:00p-2:50p",
         "building": "PETER",
         "room": "110",
-        "instructor": "Cheng, Li-Tien",
         "instructors": [
           "Cheng, Li-Tien"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "d279da4a3d7ccd6f447b5cb8f0bddd178e11c77d67d14b93ba22188196cebe12": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -296,15 +156,15 @@
         "time": "2:00p-2:50p",
         "building": "PETER",
         "room": "110",
-        "instructor": "Cheng, Li-Tien",
         "instructors": [
           "Cheng, Li-Tien"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

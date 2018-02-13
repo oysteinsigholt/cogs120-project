@@ -3,34 +3,12 @@
   "name": "Contemporary Issues & Practice",
   "department": "VIS",
   "id": "110A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922772",
-      "type": "ST",
-      "section": "A00",
-      "days": "F",
-      "time": "9:00a-11:50a",
-      "building": "MANDE",
-      "room": "B-206",
-      "instructor": "Tonies, Joshua Vanjaymes",
-      "instructors": [
-        "Tonies, Joshua Vanjaymes"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "1e47b88c1b7a7f3f583d59748b84af580708900b47f99e723e334349f6985a5b": {
         "sectxt": true,
         "sectionID": "922772",
         "type": "ST",
@@ -39,15 +17,15 @@
         "time": "9:00a-11:50a",
         "building": "MANDE",
         "room": "B-206",
-        "instructor": "Tonies, Joshua Vanjaymes",
         "instructors": [
           "Tonies, Joshua Vanjaymes"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

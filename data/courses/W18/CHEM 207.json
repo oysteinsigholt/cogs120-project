@@ -3,38 +3,8 @@
   "name": "Protein NMR",
   "department": "CHEM",
   "id": "207",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926587",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "Opella, Stanley J",
-      "instructors": [
-        "Opella, Stanley J"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "SE",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": []
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -45,14 +15,12 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": []
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "c2c3506d883bf36062c922c988a810d7243b68ceaabc504ec57f45f9d60211e7": {
         "sectxt": true,
         "sectionID": "926587",
         "type": "LE",
@@ -61,17 +29,15 @@
         "time": "12:30p-1:50p",
         "building": "MCGIL",
         "room": "2315",
-        "instructor": "Opella, Stanley J",
         "instructors": [
           "Opella, Stanley J"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8123d72c814533ee07449446e68f02b995f467092a7e3385db755058c0df7f7e": {
         "sectxt": true,
         "sectionID": "926587",
         "type": "LE",
@@ -80,16 +46,15 @@
         "time": "12:30p-1:50p",
         "building": "MCGIL",
         "room": "2315",
-        "instructor": "Opella, Stanley J",
         "instructors": [
           "Opella, Stanley J"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

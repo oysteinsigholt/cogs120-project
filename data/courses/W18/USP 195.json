@@ -3,27 +3,63 @@
   "name": "Teaching Apprentice-Undergrad",
   "department": "USP",
   "id": "195",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "936245",
-      "type": "LE",
-      "section": "E00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Bergman, Matthew Edward",
-      "instructors": [
-        "Bergman, Matthew Edward"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "922183",
+      "type": "LE",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Peerson, Susan"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922184",
+      "type": "LE",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Lewis, Leslie R"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922185",
+      "type": "LE",
+      "section": "C00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Bussell, Mirle Rabinowitz"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "922186",
+      "type": "LE",
+      "section": "D00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Curcio, Paul David"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "936245",
       "type": "LE",
       "section": "E00",
@@ -31,19 +67,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Bergman, Matthew Edward",
       "instructors": [
         "Bergman, Matthew Edward"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

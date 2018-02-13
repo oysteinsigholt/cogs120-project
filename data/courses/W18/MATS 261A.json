@@ -3,42 +3,9 @@
   "name": "Processing Polymers and Comp.",
   "department": "MATS",
   "id": "261A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920840",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "WLH",
-      "room": "2205",
-      "instructor": "Qiao, Yu",
-      "instructors": [
-        "Qiao, Yu"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "70a3cee68f37bf3227e4570ab294ff8369be2c4b39273577b3566b1bde6a8e66": {
         "sectxt": true,
         "sectionID": "920840",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "9:30a-10:50a",
         "building": "WLH",
         "room": "2205",
-        "instructor": "Qiao, Yu",
         "instructors": [
           "Qiao, Yu"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "df33cf0f587a95ed1b0027c3539df941fb33692fc27a3b6eb66845b1e3b5e16c": {
         "sectxt": true,
         "sectionID": "920840",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "9:30a-10:50a",
         "building": "WLH",
         "room": "2205",
-        "instructor": "Qiao, Yu",
         "instructors": [
           "Qiao, Yu"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

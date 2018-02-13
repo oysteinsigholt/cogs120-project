@@ -3,88 +3,23 @@
   "name": "Princpls/Bioinstrumentatn Desn",
   "department": "BENG",
   "id": "186B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "C00",
-      "days": "TuTh",
-      "time": "5:00p-6:20p",
-      "building": "SEQUO",
-      "room": "148",
-      "instructor": "Alvarez-Cabanillas, Miguel",
-      "instructors": [
-        "Alvarez-Cabanillas, Miguel"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "C00",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2209",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "936077",
-      "type": "DI",
-      "section": "C01",
-      "days": "M",
-      "time": "1:00p-1:50p",
-      "building": "MANDE",
-      "room": "B-146",
-      "instructor": "Alvarez-Cabanillas, Miguel",
-      "instructors": [
-        "Alvarez-Cabanillas, Miguel"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "936078",
-      "type": "DI",
-      "section": "C02",
-      "days": "M",
-      "time": "11:00a-11:30a",
-      "building": "MANDE",
-      "room": "B-146",
-      "instructor": "Alvarez-Cabanillas, Miguel",
-      "instructors": [
-        "Alvarez-Cabanillas, Miguel"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -93,17 +28,61 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "d796ddb803cdc2ed82ec28ef87e195e31b5cd021ef04cc643320a5d2da15fc27": {
+        "sectxt": true,
+        "sectionID": "923341",
+        "type": "DI",
+        "section": "A01",
+        "days": "M",
+        "time": "9:00a-9:50a",
+        "building": "CENTR",
+        "room": "207",
+        "instructors": [
+          "Cauwenberghs, Gert"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "3764c69a0d1d93e3ae87cffdff49aa0c5eb900b37dc6a25c694e981b21910dd7": {
+        "sectxt": true,
+        "sectionID": "923342",
+        "type": "DI",
+        "section": "A02",
+        "days": "M",
+        "time": "1:00p-1:50p",
+        "building": "HSS",
+        "room": "1305",
+        "instructors": [
+          "Cauwenberghs, Gert"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "38a4eb91d9c5be6f9ffe7285b6bf90801d57cddc203c61fa090255237e9e4d1c": {
+        "sectxt": true,
+        "sectionID": "923343",
+        "type": "DI",
+        "section": "A03",
+        "days": "M",
+        "time": "11:00a-11:50a",
+        "building": "CENTR",
+        "room": "201",
+        "instructors": [
+          "Cauwenberghs, Gert"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "3ddd7542bf7eaacf6638a42ebfca45ed9c4b7e25871b1bc51898345454fad6ed": {
         "sectxt": true,
         "sectionID": "936077",
         "type": "DI",
@@ -112,14 +91,13 @@
         "time": "1:00p-1:50p",
         "building": "MANDE",
         "room": "B-146",
-        "instructor": "Alvarez-Cabanillas, Miguel",
         "instructors": [
           "Alvarez-Cabanillas, Miguel"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "95dcf39d8eaa9dba222b8416a74e1ba5e96786f3b0a6f28ea1959e4a6768ac91": {
         "sectxt": true,
         "sectionID": "936078",
         "type": "DI",
@@ -128,16 +106,30 @@
         "time": "11:00a-11:30a",
         "building": "MANDE",
         "room": "B-146",
-        "instructor": "Alvarez-Cabanillas, Miguel",
         "instructors": [
           "Alvarez-Cabanillas, Miguel"
         ],
         "start_time": "11:00",
         "end_time": "11:30"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "8987b7af87d847c623f8d9e86e86f1d582c28de0cd3bc163ae563b429ae225f9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "214",
+        "instructors": [
+          "Cauwenberghs, Gert"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "9d63c5014f374b400e6a72a09c53ae290f8fd623d9ef863ad6010f1df0e93ced": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -146,17 +138,30 @@
         "time": "5:00p-6:20p",
         "building": "SEQUO",
         "room": "148",
-        "instructor": "Alvarez-Cabanillas, Miguel",
         "instructors": [
           "Alvarez-Cabanillas, Miguel"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "126816888d61f914f97a4cf223b36ae2f29f5df8aa68f3942a0e9370bddbed90": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "CENTR",
+        "room": "214",
+        "instructors": [
+          "Cauwenberghs, Gert"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "0436d7901a07299e706ab3e8373c5b904f01d9d7bacebc427efe64c9eb96cf01": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -165,16 +170,28 @@
         "time": "5:00p-6:20p",
         "building": "SEQUO",
         "room": "148",
-        "instructor": "Alvarez-Cabanillas, Miguel",
         "instructors": [
           "Alvarez-Cabanillas, Miguel"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "d095058a3c5ca6878be2e5af45056c73925fc6945e80151eaa049f5fb0198342": {
+        "sectxt": false,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "F",
+        "time": "3:00p-3:50p",
+        "building": "CSB",
+        "room": "001",
+        "instructors": [],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "dbb8392d89a9e45aa0b5d295a7b6ccd009cec34be464d5b4e73a80cae13422a2": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -183,13 +200,15 @@
         "time": "3:00p-3:50p",
         "building": "WLH",
         "room": "2209",
-        "instructor": "",
         "instructors": [],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

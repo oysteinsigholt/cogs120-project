@@ -3,30 +3,12 @@
   "name": "Advanced Theatre Practicum",
   "department": "TDPR",
   "id": "102",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920482",
-      "type": "ST",
-      "section": "A00",
-      "days": "MTuWThF",
-      "time": "5:30p-10:20p",
-      "building": "MWEIS",
-      "room": "THEA",
-      "instructor": "Guirguis, Mark C",
-      "instructors": [
-        "Guirguis, Mark C"
-      ],
-      "start_time": "17:30",
-      "end_time": "22:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "19505d987ed8277cb79173c8df0706d3c3595f3f817dbafd9c2eeb318b35e759": {
         "sectxt": true,
         "sectionID": "920482",
         "type": "ST",
@@ -35,16 +17,15 @@
         "time": "5:30p-10:20p",
         "building": "MWEIS",
         "room": "THEA",
-        "instructor": "Guirguis, Mark C",
         "instructors": [
           "Guirguis, Mark C"
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "80be3606c406adca1af1e7b2cb10ce718373302a142e93f64f593f4249b65876": {
         "sectxt": true,
         "sectionID": "920482",
         "type": "ST",
@@ -53,16 +34,15 @@
         "time": "5:30p-10:20p",
         "building": "MWEIS",
         "room": "THEA",
-        "instructor": "Guirguis, Mark C",
         "instructors": [
           "Guirguis, Mark C"
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "43bcc2066dccfce7879e688684e5f20c2879312dfb3c3123275e31719151044b": {
         "sectxt": true,
         "sectionID": "920482",
         "type": "ST",
@@ -71,16 +51,15 @@
         "time": "5:30p-10:20p",
         "building": "MWEIS",
         "room": "THEA",
-        "instructor": "Guirguis, Mark C",
         "instructors": [
           "Guirguis, Mark C"
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "b281eed8c985e57f303a58519c76be6314b4678a4a4dfcd3a8a133811f06f469": {
         "sectxt": true,
         "sectionID": "920482",
         "type": "ST",
@@ -89,16 +68,15 @@
         "time": "5:30p-10:20p",
         "building": "MWEIS",
         "room": "THEA",
-        "instructor": "Guirguis, Mark C",
         "instructors": [
           "Guirguis, Mark C"
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "745b16393329e40d56285ee39cda91e9a71995a5e9628d9dc79eab2849d4ee6d": {
         "sectxt": true,
         "sectionID": "920482",
         "type": "ST",
@@ -107,15 +85,15 @@
         "time": "5:30p-10:20p",
         "building": "MWEIS",
         "room": "THEA",
-        "instructor": "Guirguis, Mark C",
         "instructors": [
           "Guirguis, Mark C"
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

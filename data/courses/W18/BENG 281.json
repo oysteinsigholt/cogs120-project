@@ -3,34 +3,12 @@
   "name": "Seminar in Bioengineering",
   "department": "BENG",
   "id": "281",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923394",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "PFBH",
-      "room": "191",
-      "instructor": "Subramaniam, Shankar",
-      "instructors": [
-        "Subramaniam, Shankar"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "79ef0b84e778f2e81dc4647575c31660e5e61b67d920fec47571ef7abc62783c": {
         "sectxt": true,
         "sectionID": "923394",
         "type": "SE",
@@ -39,15 +17,15 @@
         "time": "2:00p-2:50p",
         "building": "PFBH",
         "room": "191",
-        "instructor": "Subramaniam, Shankar",
         "instructors": [
           "Subramaniam, Shankar"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

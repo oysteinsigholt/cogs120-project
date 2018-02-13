@@ -3,27 +3,50 @@
   "name": "Directed Studies: Reading Crse",
   "department": "LTCS",
   "id": "297",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "937899",
-      "type": "IN",
-      "section": "004",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Martin-Cabrera, Luis",
-      "instructors": [
-        "Martin-Cabrera, Luis"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "930474",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Miyao, Daisuke"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930546",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Zhang, Yingjin"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "931586",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Liao, Ping H"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "937899",
       "type": "IN",
       "section": "004",
@@ -31,19 +54,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Martin-Cabrera, Luis",
       "instructors": [
         "Martin-Cabrera, Luis"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

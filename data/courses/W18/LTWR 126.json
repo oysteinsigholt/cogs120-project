@@ -3,31 +3,12 @@
   "name": "Creative Nonfiction Workshop",
   "department": "LTWR",
   "id": "126",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929287",
-      "type": "SE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "LIT",
-      "room": "355",
-      "instructor": "Hoang, Lily Kim",
-      "instructors": [
-        "Hoang, Lily Kim"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "9a5f1be15dc5f7f18debea61f8946ee4b330ce098c91eb18aabedd68feed38cd": {
         "sectxt": true,
         "sectionID": "929287",
         "type": "SE",
@@ -36,17 +17,15 @@
         "time": "12:30p-1:50p",
         "building": "LIT",
         "room": "355",
-        "instructor": "Hoang, Lily Kim",
         "instructors": [
           "Hoang, Lily Kim"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "0404ccda73d28207f219349fdc82494b4479ecf1586fa7d32eb5e5bbd2978086": {
         "sectxt": true,
         "sectionID": "929287",
         "type": "SE",
@@ -55,16 +34,15 @@
         "time": "12:30p-1:50p",
         "building": "LIT",
         "room": "355",
-        "instructor": "Hoang, Lily Kim",
         "instructors": [
           "Hoang, Lily Kim"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

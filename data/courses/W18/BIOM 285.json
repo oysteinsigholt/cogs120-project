@@ -3,32 +3,12 @@
   "name": "Statistical Inference/Med Sci",
   "department": "BIOM",
   "id": "285",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929420",
-      "type": "LE",
-      "section": "A00",
-      "days": "WF",
-      "time": "1:00p-3:00p",
-      "building": "CMME",
-      "room": "2047",
-      "instructor": "Oegema, Karen",
-      "instructors": [
-        "Oegema, Karen"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "fa0cfa276b02a47e29c1ae6775eb5c9a10d4b0ca94d13daea1aab05e9b13a630": {
         "sectxt": true,
         "sectionID": "929420",
         "type": "LE",
@@ -37,17 +17,15 @@
         "time": "1:00p-3:00p",
         "building": "CMME",
         "room": "2047",
-        "instructor": "Oegema, Karen",
         "instructors": [
           "Oegema, Karen"
         ],
         "start_time": "13:00",
         "end_time": "15:00"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "617a4ebe5fc1192052e30b05ca5acc8eacb218d43e69d5dccf934d5e207ab68a": {
         "sectxt": true,
         "sectionID": "929420",
         "type": "LE",
@@ -56,15 +34,15 @@
         "time": "1:00p-3:00p",
         "building": "CMME",
         "room": "2047",
-        "instructor": "Oegema, Karen",
         "instructors": [
           "Oegema, Karen"
         ],
         "start_time": "13:00",
         "end_time": "15:00"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

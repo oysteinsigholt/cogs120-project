@@ -3,136 +3,51 @@
   "name": "Molecular Basis/Human Disease",
   "department": "BIMM",
   "id": "110",
-  "timeslots": [
-    {
-      "sectxt": true,
+  "notes": [],
+  "events_single": {
+    "ccc602b36c2e9e24ca8e4bed76f2ea2c84bdb3f8aa923f8db69576c900ede064": {
+      "sectxt": false,
       "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "8:00a-8:50a",
-      "building": "SOLIS",
-      "room": "107",
-      "instructor": "Day, Christopher D",
-      "instructors": [
-        "Day, Christopher D"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926101",
-      "type": "DI",
-      "section": "B01",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "APM",
-      "room": "2301",
-      "instructor": "Day, Christopher D",
-      "instructors": [
-        "Day, Christopher D"
-      ],
+      "type": "RE",
+      "section": "02/10/2018",
+      "days": "S",
+      "time": "3:00p-4:50p",
+      "building": "SEQUO",
+      "room": "148",
+      "instructors": [],
+      "date": "2018-02-10T08:00:00.000Z",
       "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926102",
-      "type": "DI",
-      "section": "B02",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "CENTR",
-      "room": "218",
-      "instructor": "Day, Christopher D",
-      "instructors": [
-        "Day, Christopher D"
-      ],
-      "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
-      "sectxt": true,
-      "sectionID": "926103",
-      "type": "DI",
-      "section": "B03",
-      "days": "Tu",
-      "time": "5:00p-5:50p",
-      "building": "YORK",
-      "room": "3000A",
-      "instructor": "Day, Christopher D",
-      "instructors": [
-        "Day, Christopher D"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
+    "b4fba8d645d689aab1dfccb594e5dde56c5b273fd8c2b0c9ea69dff42a34be39": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "03/17/2018",
+      "days": "S",
+      "time": "3:00p-4:50p",
+      "building": "SEQUO",
+      "room": "148",
+      "instructors": [],
+      "date": "2018-03-17T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "16:50"
     },
-    {
-      "sectxt": true,
-      "sectionID": "926104",
-      "type": "DI",
-      "section": "B04",
-      "days": "Tu",
-      "time": "7:00p-7:50p",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Day, Christopher D",
-      "instructors": [
-        "Day, Christopher D"
-      ],
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
-      "end_time": "19:50"
+      "end_time": "21:59"
     },
-    {
-      "sectxt": true,
-      "sectionID": "926105",
-      "type": "DI",
-      "section": "B05",
-      "days": "Tu",
-      "time": "8:00p-8:50p",
-      "building": "CENTR",
-      "room": "220",
-      "instructor": "Day, Christopher D",
-      "instructors": [
-        "Day, Christopher D"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926106",
-      "type": "DI",
-      "section": "B06",
-      "days": "F",
-      "time": "1:00p-1:50p",
-      "building": "HSS",
-      "room": "2321",
-      "instructor": "Day, Christopher D",
-      "instructors": [
-        "Day, Christopher D"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926107",
-      "type": "DI",
-      "section": "B07",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "HSS",
-      "room": "2321",
-      "instructor": "Day, Christopher D",
-      "instructors": [
-        "Day, Christopher D"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
+    "932c6790e2c24c73e0a6153ea7b1c6cba3cd6ce2ffb3d54133710526fa596bea": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -141,13 +56,12 @@
       "time": "7:00p-8:50p",
       "building": "CENTR",
       "room": "212",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-09T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "20:50"
     },
-    {
+    "99084e85dcbf5c5064e8677480f27cc1eb8ff5538061a54d6a1f44628193757c": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -156,50 +70,31 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
-  "notes": [],
-  "events_single": [
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/09/2018",
-      "days": "F",
-      "time": "7:00p-8:50p",
-      "building": "CENTR",
-      "room": "212",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-09T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "503eae0a8858b7b329809768e5967230ac8000e953deadca9a39203641302192": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "SEQUO",
+        "room": "148",
+        "instructors": [
+          "Zhang, Dong-Er"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "8e0947ae086951cd616eabed4be76943f8fa9c5af3bda429906f2bb37479450d": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -208,14 +103,13 @@
         "time": "8:00a-8:50a",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Day, Christopher D",
         "instructors": [
           "Day, Christopher D"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "8ec68dd37181d64f9db337c83091d33cfeac6a9bf855e70e4ff43fd05fa69587": {
         "sectxt": true,
         "sectionID": "926101",
         "type": "DI",
@@ -224,14 +118,13 @@
         "time": "3:00p-3:50p",
         "building": "APM",
         "room": "2301",
-        "instructor": "Day, Christopher D",
         "instructors": [
           "Day, Christopher D"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "0239c7a2d1d95ebae0f59edf318126fd2a13fc89345da958049daaeff748f111": {
         "sectxt": true,
         "sectionID": "926102",
         "type": "DI",
@@ -240,16 +133,15 @@
         "time": "4:00p-4:50p",
         "building": "CENTR",
         "room": "218",
-        "instructor": "Day, Christopher D",
         "instructors": [
           "Day, Christopher D"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "32a87f84268e34992c7dd717fc469f20c8b07cb31ccf89716ae5e94023a761c0": {
         "sectxt": true,
         "sectionID": "926103",
         "type": "DI",
@@ -258,14 +150,13 @@
         "time": "5:00p-5:50p",
         "building": "YORK",
         "room": "3000A",
-        "instructor": "Day, Christopher D",
         "instructors": [
           "Day, Christopher D"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "165849f6e70366c0e2b331bce5aa6f8c47653faa26065430e7f7f79e70f75553": {
         "sectxt": true,
         "sectionID": "926104",
         "type": "DI",
@@ -274,14 +165,13 @@
         "time": "7:00p-7:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Day, Christopher D",
         "instructors": [
           "Day, Christopher D"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "995e96f0c9dfa577d2bfac0049e25d827429d0ab7c8b8e3fdda868b9536d963b": {
         "sectxt": true,
         "sectionID": "926105",
         "type": "DI",
@@ -290,16 +180,30 @@
         "time": "8:00p-8:50p",
         "building": "CENTR",
         "room": "220",
-        "instructor": "Day, Christopher D",
         "instructors": [
           "Day, Christopher D"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "ad10dc80025b6fae88a6e6bd4b3bc62f48725a5778aa49de4dbf9e9ef718c058": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "5:00p-6:20p",
+        "building": "SEQUO",
+        "room": "148",
+        "instructors": [
+          "Zhang, Dong-Er"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "69073098d5998620ccbd988b1e868ec5f76b2dfdc60a06cc6f992f756bc037a1": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -308,17 +212,45 @@
         "time": "8:00a-8:50a",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Day, Christopher D",
         "instructors": [
           "Day, Christopher D"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "9d4b6138a507b0d7d35d4fa1a1b082575d22ad385e546d516ca0a0e24052df53": {
+        "sectxt": true,
+        "sectionID": "926098",
+        "type": "DI",
+        "section": "A01",
+        "days": "F",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "207",
+        "instructors": [
+          "Zhang, Dong-Er"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "a02a9f91596b1fe829758d96eca25e245aa1ce7fa50b969a2bb4ac764f4109ea": {
+        "sectxt": true,
+        "sectionID": "926099",
+        "type": "DI",
+        "section": "A02",
+        "days": "F",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "207",
+        "instructors": [
+          "Zhang, Dong-Er"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "6b83abdee5d344b2c89c3d546b4e22a168363924233412720d415f575315a8ec": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -327,14 +259,13 @@
         "time": "8:00a-8:50a",
         "building": "SOLIS",
         "room": "107",
-        "instructor": "Day, Christopher D",
         "instructors": [
           "Day, Christopher D"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "5a2384208907b73ede7b5df208eb47f52bd6f5484266f2b9444d571a15381e79": {
         "sectxt": true,
         "sectionID": "926106",
         "type": "DI",
@@ -343,14 +274,13 @@
         "time": "1:00p-1:50p",
         "building": "HSS",
         "room": "2321",
-        "instructor": "Day, Christopher D",
         "instructors": [
           "Day, Christopher D"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "32e8248e63b5ce13f691bf7a77bf4aeb9f1c01b7bb07555fb921aae897cfe7f1": {
         "sectxt": true,
         "sectionID": "926107",
         "type": "DI",
@@ -359,15 +289,16 @@
         "time": "5:00p-5:50p",
         "building": "HSS",
         "room": "2321",
-        "instructor": "Day, Christopher D",
         "instructors": [
           "Day, Christopher D"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

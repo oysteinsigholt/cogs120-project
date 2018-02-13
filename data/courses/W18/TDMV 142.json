@@ -3,31 +3,59 @@
   "name": "Latin Dance of the World",
   "department": "TDMV",
   "id": "142",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920471",
-      "type": "ST",
-      "section": "C00",
-      "days": "TuTh",
-      "time": "12:00p-1:50p",
-      "building": "DANCE",
-      "room": "3",
-      "instructor": "Caligagan, Maria T.",
-      "instructors": [
-        "Caligagan, Maria T."
-      ],
-      "start_time": "12:00",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "f8deb8d2643452512be3ecea3a7db863ad4dd27c103a0a86e61a5560ea304914": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/24/2018",
+      "days": "S",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-24T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "3e50b0406e0f77c298fdfdb86799ad82a105449bd0a389abd5992332286721a9": {
+        "sectxt": true,
+        "sectionID": "920469",
+        "type": "ST",
+        "section": "A00",
+        "days": "MW",
+        "time": "12:00p-1:50p",
+        "building": "DANCE",
+        "room": "3",
+        "instructors": [
+          "Caligagan, Tony"
+        ],
+        "start_time": "12:00",
+        "end_time": "13:50"
+      }
+    },
+    "Tu": {
+      "08d13a2b7baec6a411b41b31e5f9565c209214b6a167cca3c73de43a794cf1c6": {
+        "sectxt": true,
+        "sectionID": "930510",
+        "type": "ST",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "10:00a-11:50a",
+        "building": "DANCE",
+        "room": "3",
+        "instructors": [
+          "Valero, Oscar"
+        ],
+        "start_time": "10:00",
+        "end_time": "11:50"
+      },
+      "8c0ec7d5d0d5be195d98f021183853311a15f9a5d5dd606be9bcfdc4a7e6788d": {
         "sectxt": true,
         "sectionID": "920471",
         "type": "ST",
@@ -36,17 +64,47 @@
         "time": "12:00p-1:50p",
         "building": "DANCE",
         "room": "3",
-        "instructor": "Caligagan, Maria T.",
         "instructors": [
           "Caligagan, Maria T."
         ],
         "start_time": "12:00",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "W": {
+      "f5392a32e19afed1c068839082d734f947d3725a58de50c74f4bce69515c05a4": {
+        "sectxt": true,
+        "sectionID": "920469",
+        "type": "ST",
+        "section": "A00",
+        "days": "MW",
+        "time": "12:00p-1:50p",
+        "building": "DANCE",
+        "room": "3",
+        "instructors": [
+          "Caligagan, Tony"
+        ],
+        "start_time": "12:00",
+        "end_time": "13:50"
+      }
+    },
+    "Th": {
+      "42d00a46e82b47b1297daabdf2aa4841415af748f741e4f3990e664c8e6a2103": {
+        "sectxt": true,
+        "sectionID": "930510",
+        "type": "ST",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "10:00a-11:50a",
+        "building": "DANCE",
+        "room": "3",
+        "instructors": [
+          "Valero, Oscar"
+        ],
+        "start_time": "10:00",
+        "end_time": "11:50"
+      },
+      "73a47b369cd77af9185b2de74d87658a583a1c244c7062fad68ef26ed75d7515": {
         "sectxt": true,
         "sectionID": "920471",
         "type": "ST",
@@ -55,16 +113,17 @@
         "time": "12:00p-1:50p",
         "building": "DANCE",
         "room": "3",
-        "instructor": "Caligagan, Maria T.",
         "instructors": [
           "Caligagan, Maria T."
         ],
         "start_time": "12:00",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

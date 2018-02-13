@@ -3,31 +3,12 @@
   "name": "Non-Market Valuation",
   "department": "GPEC",
   "id": "489",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921697",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "5:00p-6:20p",
-      "building": "RBC",
-      "room": "3202",
-      "instructor": "Carson, Richard T",
-      "instructors": [
-        "Carson, Richard T"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "3dbfdc953bee7c0565409354edc7addb983906e157c6549dd2f0a45ff9f19113": {
         "sectxt": true,
         "sectionID": "921697",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "5:00p-6:20p",
         "building": "RBC",
         "room": "3202",
-        "instructor": "Carson, Richard T",
         "instructors": [
           "Carson, Richard T"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "e607c6815a0c7984158781345f9f85ee34be8020a454caab62fe55ce47796e95": {
         "sectxt": true,
         "sectionID": "921697",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "5:00p-6:20p",
         "building": "RBC",
         "room": "3202",
-        "instructor": "Carson, Richard T",
         "instructors": [
           "Carson, Richard T"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

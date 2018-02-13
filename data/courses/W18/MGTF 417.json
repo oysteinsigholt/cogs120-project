@@ -3,33 +3,61 @@
   "name": "Professional Communications",
   "department": "MGTF",
   "id": "417",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930386",
-      "type": "LE",
-      "section": "D00",
-      "days": "Th",
-      "time": "5:00p-7:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Schmidt, Robert P",
-      "instructors": [
-        "Schmidt, Robert P"
-      ],
-      "start_time": "17:00",
-      "end_time": "19:00"
-    }
+  "notes": [
+    "Location: WFH 4N128"
   ],
-  "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "W": {
+      "20f30d45c590395c727840663a7bb5d527d618197d27b62253ab59e479d1b58e": {
+        "sectxt": true,
+        "sectionID": "930383",
+        "type": "LE",
+        "section": "A00",
+        "days": "W",
+        "time": "5:00p-7:00p",
+        "building": "WFH",
+        "room": "3N128",
+        "instructors": [
+          "Schmidt, Robert P"
+        ],
+        "start_time": "17:00",
+        "end_time": "19:00"
+      },
+      "92789b25f2c87b1d4a6c074257495fdc2e1a8b36700a5ea0ef4b734cefc6d9ce": {
+        "sectxt": true,
+        "sectionID": "930385",
+        "type": "LE",
+        "section": "C00",
+        "days": "W",
+        "time": "5:00p-7:00p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Schmidt, Robert P"
+        ],
+        "start_time": "17:00",
+        "end_time": "19:00"
+      }
+    },
+    "Th": {
+      "a408359f4d5a6bde7dd485c8ee4bd07646942151aa9c33aa94f5b9e352154b58": {
+        "sectxt": true,
+        "sectionID": "930384",
+        "type": "LE",
+        "section": "B00",
+        "days": "Th",
+        "time": "5:00p-7:00p",
+        "building": "WFH",
+        "room": "3N128",
+        "instructors": [
+          "Schmidt, Robert P"
+        ],
+        "start_time": "17:00",
+        "end_time": "19:00"
+      },
+      "241683664574085580ca2ab4a3ad2456498ee04fbfcf6013817d96c7fc327488": {
         "sectxt": true,
         "sectionID": "930386",
         "type": "LE",
@@ -38,16 +66,18 @@
         "time": "5:00p-7:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Schmidt, Robert P",
         "instructors": [
           "Schmidt, Robert P"
         ],
         "start_time": "17:00",
         "end_time": "19:00"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
 }

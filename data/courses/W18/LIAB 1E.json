@@ -3,38 +3,8 @@
   "name": "Arabic Conversation",
   "department": "LIAB",
   "id": "1E",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921295",
-      "type": "TU",
-      "section": "A00",
-      "days": "MWF",
-      "time": "9:00a-9:50a",
-      "building": "HSS",
-      "room": "1106B",
-      "instructor": "El Cheddadi, Youniss",
-      "instructors": [
-        "El Cheddadi, Youniss"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": []
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -45,13 +15,12 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": []
     }
   ],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "f89f2bb263e9ced3d8a9a09ad6e23724de3921bce4c3e16159c82e173496a3e6": {
         "sectxt": true,
         "sectionID": "921295",
         "type": "TU",
@@ -60,17 +29,15 @@
         "time": "9:00a-9:50a",
         "building": "HSS",
         "room": "1106B",
-        "instructor": "El Cheddadi, Youniss",
         "instructors": [
           "El Cheddadi, Youniss"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "816edc9872f573ceab0513d2cfb7f3e6426398e7ff5d009fafb943d1be51683c": {
         "sectxt": true,
         "sectionID": "921295",
         "type": "TU",
@@ -79,17 +46,15 @@
         "time": "9:00a-9:50a",
         "building": "HSS",
         "room": "1106B",
-        "instructor": "El Cheddadi, Youniss",
         "instructors": [
           "El Cheddadi, Youniss"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "6a976b3149a6d33b9d6f19b0c206e1c4490b1c2605fbc25cfa52da9e692c6c9c": {
         "sectxt": true,
         "sectionID": "921295",
         "type": "TU",
@@ -98,15 +63,15 @@
         "time": "9:00a-9:50a",
         "building": "HSS",
         "room": "1106B",
-        "instructor": "El Cheddadi, Youniss",
         "instructors": [
           "El Cheddadi, Youniss"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

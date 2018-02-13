@@ -3,42 +3,9 @@
   "name": "The Structure of Spanish",
   "department": "LIGN",
   "id": "143",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922278",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "10:00a-10:50a",
-      "building": "WLH",
-      "room": "2207",
-      "instructor": "McIntosh, Justin Daniel",
-      "instructors": [
-        "McIntosh, Justin Daniel"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "72b66ff20f5718bcd47b70cff6d88cbb3cc15a98f7e274535818533ca162a3ce": {
         "sectxt": true,
         "sectionID": "922278",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "10:00a-10:50a",
         "building": "WLH",
         "room": "2207",
-        "instructor": "McIntosh, Justin Daniel",
         "instructors": [
           "McIntosh, Justin Daniel"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "81cab0369444b3ad1ce860769afff846aa27690f138e2fa85297db5c5f14a25f": {
         "sectxt": true,
         "sectionID": "922278",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "10:00a-10:50a",
         "building": "WLH",
         "room": "2207",
-        "instructor": "McIntosh, Justin Daniel",
         "instructors": [
           "McIntosh, Justin Daniel"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "279ac12b0db9d4c61f359cc029d65a1bc53d6652fc06066908590e4a5a22dc62": {
         "sectxt": true,
         "sectionID": "922278",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "10:00a-10:50a",
         "building": "WLH",
         "room": "2207",
-        "instructor": "McIntosh, Justin Daniel",
         "instructors": [
           "McIntosh, Justin Daniel"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,24 +3,8 @@
   "name": "Dissertation",
   "department": "LTCS",
   "id": "299",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930414",
-      "type": "IN",
-      "section": "001",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Sanchez, Rosaura",
-      "instructors": [
-        "Sanchez, Rosaura"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,65 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Sanchez, Rosaura",
       "instructors": [
         "Sanchez, Rosaura"
       ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930471",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Streeby, Shelley"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "936496",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "duBois, Page Ann"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "937385",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Blanco, John D"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "939871",
+      "type": "IN",
+      "section": "006",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Chacon, Gloria Elizabeth"
+      ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": [
+    "0"
+  ]
 }

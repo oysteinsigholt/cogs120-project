@@ -3,32 +3,59 @@
   "name": "Intro/Lit/Brtish Is:1660-1832",
   "department": "LTEN",
   "id": "22",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924343",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "12:00p-12:50p",
-      "building": "WLH",
-      "room": "2209",
-      "instructor": "Nicolazzo, Sarah E.",
-      "instructors": [
-        "Nicolazzo, Sarah E."
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "83f667703ee5f41443699d3c685d2af7204f58e7d0026726650a8f5259ecf403": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "Tu": {
+      "7fb78df708bc10ae7cbed8c31256c6ff03db90d39a0bcfe7e71ecc8e7cc1a647": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "6:30p-7:50p",
+        "building": "WLH",
+        "room": "2111",
+        "instructors": [
+          "Nicolazzo, Sarah E."
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      }
+    },
+    "W": {
+      "6bc8766aa24dcf3173b68948d4fa22845d7776570857abccbd473d46186e2b54": {
+        "sectxt": true,
+        "sectionID": "924342",
+        "type": "DI",
+        "section": "A01",
+        "days": "W",
+        "time": "11:00a-11:50a",
+        "building": "WLH",
+        "room": "2209",
+        "instructors": [
+          "Nicolazzo, Sarah E."
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "6c06acef43e40312cf0a023d5c098d98ff4c63f0c99f1fdbc7229d970c5e1234": {
         "sectxt": true,
         "sectionID": "924343",
         "type": "DI",
@@ -37,17 +64,32 @@
         "time": "12:00p-12:50p",
         "building": "WLH",
         "room": "2209",
-        "instructor": "Nicolazzo, Sarah E.",
         "instructors": [
           "Nicolazzo, Sarah E."
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "Th": {
+      "f12164f83e9ec19b35c2ae2e257ad595319959ecbd32e61750cdd0475d11af05": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "6:30p-7:50p",
+        "building": "WLH",
+        "room": "2111",
+        "instructors": [
+          "Nicolazzo, Sarah E."
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

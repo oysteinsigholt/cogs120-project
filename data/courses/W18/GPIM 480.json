@@ -3,31 +3,12 @@
   "name": "Comparative Market Institution",
   "department": "GPIM",
   "id": "480",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921720",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "RBC",
-      "room": "GARDN",
-      "instructor": "Lehmann, Bruce N.",
-      "instructors": [
-        "Lehmann, Bruce N."
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "26e08c2bb981bc08aaa604afdc32d73755a125fae31f70ea2957de29154ed5ab": {
         "sectxt": true,
         "sectionID": "921720",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "9:30a-10:50a",
         "building": "RBC",
         "room": "GARDN",
-        "instructor": "Lehmann, Bruce N.",
         "instructors": [
           "Lehmann, Bruce N."
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "035cab5d2ac05e749d608c1118832246c89554ee2be6e458b2b6eb3049582f54": {
         "sectxt": true,
         "sectionID": "921720",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "9:30a-10:50a",
         "building": "RBC",
         "room": "GARDN",
-        "instructor": "Lehmann, Bruce N.",
         "instructors": [
           "Lehmann, Bruce N."
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

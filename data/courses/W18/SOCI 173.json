@@ -3,42 +3,9 @@
   "name": "Soc/Health, Illness, Medicine",
   "department": "SOCI",
   "id": "173",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923207",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "10:00a-10:50a",
-      "building": "PCYNH",
-      "room": "121",
-      "instructor": "Navon, Daniel",
-      "instructors": [
-        "Navon, Daniel"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1195511b551e3382b458973446991dcb7d1d38909f0098f3a448c0b329abd0c1": {
         "sectxt": true,
         "sectionID": "923207",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "10:00a-10:50a",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "Navon, Daniel",
         "instructors": [
           "Navon, Daniel"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "845bafd79987d18a37521c868444154a7d6d827ddea91e0393622155b13b2d80": {
         "sectxt": true,
         "sectionID": "923207",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "10:00a-10:50a",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "Navon, Daniel",
         "instructors": [
           "Navon, Daniel"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "bd27d234950323a688d086c6cadc72b5575623f3b4a49954618e240b03506321": {
         "sectxt": true,
         "sectionID": "923207",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "10:00a-10:50a",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "Navon, Daniel",
         "instructors": [
           "Navon, Daniel"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,31 +3,12 @@
   "name": "Morphology",
   "department": "LIGN",
   "id": "220",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922294",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "10:00a-11:50a",
-      "building": "APM",
-      "room": "2452",
-      "instructor": "Caballero, Gabriela Hernandez",
-      "instructors": [
-        "Caballero, Gabriela Hernandez"
-      ],
-      "start_time": "10:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "8486a611c2a66697d50205b9a0377c05d01eb83356e16b3a3e09fc5ca1412b3f": {
         "sectxt": true,
         "sectionID": "922294",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "10:00a-11:50a",
         "building": "APM",
         "room": "2452",
-        "instructor": "Caballero, Gabriela Hernandez",
         "instructors": [
           "Caballero, Gabriela Hernandez"
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "68834c0b814531d338164a269cbabeb05c809b00cd8e852e31a1e1c2e0ebbcca": {
         "sectxt": true,
         "sectionID": "922294",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "10:00a-11:50a",
         "building": "APM",
         "room": "2452",
-        "instructor": "Caballero, Gabriela Hernandez",
         "instructors": [
           "Caballero, Gabriela Hernandez"
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

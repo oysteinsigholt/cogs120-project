@@ -3,33 +3,74 @@
   "name": "Film Studies Freshman Seminar",
   "department": "FILM",
   "id": "87",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927877",
-      "type": "SE",
-      "section": "E00",
-      "days": "Th",
-      "time": "4:00p-4:50p",
-      "building": "MCC",
-      "room": "221",
-      "instructor": "Rahimi, Babak",
-      "instructors": [
-        "Rahimi, Babak"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Tu": {
+      "e91cf8903e9bc8a819a269f04e710cd447c370bf6d4549e69d7b721d6a2f55b5": {
+        "sectxt": true,
+        "sectionID": "927875",
+        "type": "SE",
+        "section": "C00",
+        "days": "Tu",
+        "time": "3:30p-4:20p",
+        "building": "MCC",
+        "room": "221",
+        "instructors": [
+          "Havis, Allan"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:20"
+      },
+      "ef76d06ad8be94c2c315b2509ab56604f1d4cad494c40fb61242559121c2dad1": {
+        "sectxt": true,
+        "sectionID": "927876",
+        "type": "SE",
+        "section": "D00",
+        "days": "Tu",
+        "time": "4:30p-5:20p",
+        "building": "MCC",
+        "room": "221",
+        "instructors": [
+          "Havis, Allan"
+        ],
+        "start_time": "16:30",
+        "end_time": "17:20"
+      }
+    },
+    "Th": {
+      "9185e08967614121c3cceb28979171bdb55dc423217bdd4c9b025d19d423f5f6": {
+        "sectxt": true,
+        "sectionID": "927873",
+        "type": "SE",
+        "section": "A00",
+        "days": "Th",
+        "time": "2:00p-2:50p",
+        "building": "MCC",
+        "room": "221",
+        "instructors": [
+          "Rahimi, Babak"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "cf106e6acbc090ce24500b00d46394c9dc68e8cf189df032708883c94b377c22": {
+        "sectxt": true,
+        "sectionID": "927874",
+        "type": "SE",
+        "section": "B00",
+        "days": "Th",
+        "time": "3:00p-3:50p",
+        "building": "MCC",
+        "room": "221",
+        "instructors": [
+          "Rahimi, Babak"
+        ],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "1b194bd553b622085c191a0e0566b8f1695c975b8792d05bd60c71602be7acb9": {
         "sectxt": true,
         "sectionID": "927877",
         "type": "SE",
@@ -38,16 +79,19 @@
         "time": "4:00p-4:50p",
         "building": "MCC",
         "room": "221",
-        "instructor": "Rahimi, Babak",
         "instructors": [
           "Rahimi, Babak"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ]
 }

@@ -3,58 +3,9 @@
   "name": "Survey of Physics",
   "department": "PHYS",
   "id": "11",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "CENTR",
-      "room": "109",
-      "instructor": "Tytler, David Robert",
-      "instructors": [
-        "Tytler, David Robert"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923748",
-      "type": "DI",
-      "section": "A01",
-      "days": "Th",
-      "time": "8:00p-8:50p",
-      "building": "YORK",
-      "room": "2622",
-      "instructor": "Tytler, David Robert",
-      "instructors": [
-        "Tytler, David Robert"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "8987b7af87d847c623f8d9e86e86f1d582c28de0cd3bc163ae563b429ae225f9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -83,17 +32,15 @@
         "time": "2:00p-3:20p",
         "building": "CENTR",
         "room": "109",
-        "instructor": "Tytler, David Robert",
         "instructors": [
           "Tytler, David Robert"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "126816888d61f914f97a4cf223b36ae2f29f5df8aa68f3942a0e9370bddbed90": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -102,14 +49,13 @@
         "time": "2:00p-3:20p",
         "building": "CENTR",
         "room": "109",
-        "instructor": "Tytler, David Robert",
         "instructors": [
           "Tytler, David Robert"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       },
-      {
+      "e625e293f570ef3e953006eece2ac6a3bb5254b422c255e5dfa9a5b3e551eac0": {
         "sectxt": true,
         "sectionID": "923748",
         "type": "DI",
@@ -118,16 +64,15 @@
         "time": "8:00p-8:50p",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Tytler, David Robert",
         "instructors": [
           "Tytler, David Robert"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,24 +3,8 @@
   "name": "Scholarship Teach/Learn Bio",
   "department": "BGGN",
   "id": "504",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921659",
-      "type": "PR",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Lo, Stanley Malvin Ming-Hi",
-      "instructors": [
-        "Lo, Stanley Malvin Ming-Hi"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Lo, Stanley Malvin Ming-Hi",
       "instructors": [
         "Lo, Stanley Malvin Ming-Hi"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

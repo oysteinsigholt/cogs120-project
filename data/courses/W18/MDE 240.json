@@ -3,34 +3,12 @@
   "name": "Embedded System Design",
   "department": "MDE",
   "id": "240",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "919440",
-      "type": "LE",
-      "section": "A00",
-      "days": "FS",
-      "time": "9:00a-12:00p",
-      "building": "SME",
-      "room": "320",
-      "instructor": "de Callafon, Raymond A",
-      "instructors": [
-        "de Callafon, Raymond A"
-      ],
-      "start_time": "9:00",
-      "end_time": "12:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "7b34c332e3999d3ef5f24cccf5da9102554a50aee242078f0604135776b4e5b3": {
         "sectxt": true,
         "sectionID": "919440",
         "type": "LE",
@@ -39,15 +17,15 @@
         "time": "9:00a-12:00p",
         "building": "SME",
         "room": "320",
-        "instructor": "de Callafon, Raymond A",
         "instructors": [
           "de Callafon, Raymond A"
         ],
         "start_time": "9:00",
         "end_time": "12:00"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

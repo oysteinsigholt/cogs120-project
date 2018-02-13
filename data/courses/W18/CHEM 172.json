@@ -3,89 +3,9 @@
   "name": "Environmental Chemistry II",
   "department": "CHEM",
   "id": "172",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926580",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "CENTR",
-      "room": "214",
-      "instructor": "Pomeroy, Robert S.",
-      "instructors": [
-        "Pomeroy, Robert S."
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "8:00a-8:50a",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Pomeroy, Robert S.",
-      "instructors": [
-        "Pomeroy, Robert S."
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "8:00a-8:50a",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Pomeroy, Robert S.",
-      "instructors": [
-        "Pomeroy, Robert S."
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/06/2018",
-      "days": "Tu",
-      "time": "6:00p-8:50p",
-      "building": "YORK",
-      "room": "4080A",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-06T08:00:00.000Z",
-      "start_time": "18:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "8e251e82e3de2e5e0aa9aa52dde04f7c84b126f5dea3c05e351326a687823d4d": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -94,13 +14,12 @@
       "time": "6:00p-8:50p",
       "building": "YORK",
       "room": "4080A",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-06T08:00:00.000Z",
       "start_time": "18:00",
       "end_time": "20:50"
     },
-    {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -109,17 +28,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "32dd677ed4f655d866c7fca7402ccf398baf402107a74a3e9552480033e5c5d9": {
         "sectxt": true,
         "sectionID": "",
         "type": "DI",
@@ -128,16 +46,15 @@
         "time": "8:00a-8:50a",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Pomeroy, Robert S.",
         "instructors": [
           "Pomeroy, Robert S."
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "beaa91640a508ee99addb6a3995b0351e64495f8862cbf5a4d9544142ecd4713": {
         "sectxt": true,
         "sectionID": "926580",
         "type": "LE",
@@ -146,16 +63,15 @@
         "time": "9:30a-10:50a",
         "building": "CENTR",
         "room": "214",
-        "instructor": "Pomeroy, Robert S.",
         "instructors": [
           "Pomeroy, Robert S."
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "532bb50702467a12d7e0300f5cf914a09f3b1d71299ca8572fddf32ad40913aa": {
         "sectxt": true,
         "sectionID": "",
         "type": "DI",
@@ -164,16 +80,15 @@
         "time": "8:00a-8:50a",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Pomeroy, Robert S.",
         "instructors": [
           "Pomeroy, Robert S."
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "5363716260793c0032f17464402e803e32b8dccb069597d9b9524402a993c523": {
         "sectxt": true,
         "sectionID": "926580",
         "type": "LE",
@@ -182,16 +97,15 @@
         "time": "9:30a-10:50a",
         "building": "CENTR",
         "room": "214",
-        "instructor": "Pomeroy, Robert S.",
         "instructors": [
           "Pomeroy, Robert S."
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,30 +3,12 @@
   "name": "Sculpture: Making the Object",
   "department": "VIS",
   "id": "107A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922769",
-      "type": "ST",
-      "section": "A00",
-      "days": "MW",
-      "time": "9:00a-11:50a",
-      "building": "MANDE",
-      "room": "201A",
-      "instructor": "Rigg, Brianna D",
-      "instructors": [
-        "Rigg, Brianna D"
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "c8bc1adaff7f8abd284c675aca6b92008da34b5528c82156054a9cbc980e317a": {
         "sectxt": true,
         "sectionID": "922769",
         "type": "ST",
@@ -35,17 +17,15 @@
         "time": "9:00a-11:50a",
         "building": "MANDE",
         "room": "201A",
-        "instructor": "Rigg, Brianna D",
         "instructors": [
           "Rigg, Brianna D"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "26e802ecf01d09bac40074e04049400785bf82b3e42fe7040a95a95227fe9300": {
         "sectxt": true,
         "sectionID": "922769",
         "type": "ST",
@@ -54,17 +34,15 @@
         "time": "9:00a-11:50a",
         "building": "MANDE",
         "room": "201A",
-        "instructor": "Rigg, Brianna D",
         "instructors": [
           "Rigg, Brianna D"
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

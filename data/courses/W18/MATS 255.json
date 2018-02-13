@@ -3,42 +3,9 @@
   "name": "Biomaterials and Biomimetics",
   "department": "MATS",
   "id": "255",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928340",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "9:00a-9:50a",
-      "building": "CSB",
-      "room": "004",
-      "instructor": "Meyers, Marc",
-      "instructors": [
-        "Meyers, Marc"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1e3532e18ae1de30f69c39c3460810b386b309af320c78b0ddb515f0d755689c": {
         "sectxt": true,
         "sectionID": "928340",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "9:00a-9:50a",
         "building": "CSB",
         "room": "004",
-        "instructor": "Meyers, Marc",
         "instructors": [
           "Meyers, Marc"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "47c12de5f92377ac435bd7cfcdf40809f7497a21cd8242ce0f1fb36470887b75": {
         "sectxt": true,
         "sectionID": "928340",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "9:00a-9:50a",
         "building": "CSB",
         "room": "004",
-        "instructor": "Meyers, Marc",
         "instructors": [
           "Meyers, Marc"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "221b5064b7c85d79a57219ad43974450a304561d8f8d4fc55166662b86b35be5": {
         "sectxt": true,
         "sectionID": "928340",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "9:00a-9:50a",
         "building": "CSB",
         "room": "004",
-        "instructor": "Meyers, Marc",
         "instructors": [
           "Meyers, Marc"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

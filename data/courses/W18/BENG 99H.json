@@ -3,27 +3,24 @@
   "name": "Independent Study",
   "department": "BENG",
   "id": "99H",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "937258",
-      "type": "IN",
-      "section": "002",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Wang, Yingxiao",
-      "instructors": [
-        "Wang, Yingxiao"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "930231",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Christman, Karen"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "937258",
       "type": "IN",
       "section": "002",
@@ -31,19 +28,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Wang, Yingxiao",
       "instructors": [
         "Wang, Yingxiao"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

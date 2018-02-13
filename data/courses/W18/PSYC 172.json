@@ -3,42 +3,9 @@
   "name": "Psychology of Human Sexuality",
   "department": "PSYC",
   "id": "172",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924636",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "CENTR",
-      "room": "101",
-      "instructor": "Gorman, Michael R.",
-      "instructors": [
-        "Gorman, Michael R."
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "ad4c35f6a4cfba1cd7f3de65d95f613f963f2b5ba02916a074cc6dd0620bd8c2": {
         "sectxt": true,
         "sectionID": "924636",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "3:30p-4:50p",
         "building": "CENTR",
         "room": "101",
-        "instructor": "Gorman, Michael R.",
         "instructors": [
           "Gorman, Michael R."
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "77fd53784fa4209a6891855582b86aa05a03ff83734efdee6369297d19d6f0a2": {
         "sectxt": true,
         "sectionID": "924636",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "3:30p-4:50p",
         "building": "CENTR",
         "room": "101",
-        "instructor": "Gorman, Michael R.",
         "instructors": [
           "Gorman, Michael R."
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,31 +3,12 @@
   "name": "Race, Gender, Sexuality Sci Fi",
   "department": "ETHN",
   "id": "182",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922637",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "SEQUO",
-      "room": "147",
-      "instructor": "Streeby, Shelley",
-      "instructors": [
-        "Streeby, Shelley"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "f88f9ba82d12c44f34f0d936f40ef46d70170f623be5a1b33215e9c03ddb5e88": {
         "sectxt": true,
         "sectionID": "922637",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "2:00p-3:20p",
         "building": "SEQUO",
         "room": "147",
-        "instructor": "Streeby, Shelley",
         "instructors": [
           "Streeby, Shelley"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "7ede3ea1d553a33e209d46b99249500f4d96977a93106d8a37e2c663a61720b2": {
         "sectxt": true,
         "sectionID": "922637",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "2:00p-3:20p",
         "building": "SEQUO",
         "room": "147",
-        "instructor": "Streeby, Shelley",
         "instructors": [
           "Streeby, Shelley"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

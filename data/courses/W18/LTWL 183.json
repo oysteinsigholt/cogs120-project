@@ -3,42 +3,9 @@
   "name": "Film Studies&Lit:Director Work",
   "department": "LTWL",
   "id": "183",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924382",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "5:00p-7:50p",
-      "building": "CSB",
-      "room": "004",
-      "instructor": "Cohen, Alain J. J.",
-      "instructors": [
-        "Cohen, Alain J. J."
-      ],
-      "start_time": "17:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "433598bb2ea0a09d2045754d7198f37cfe5e1c9533065093885baed07200ae1e": {
         "sectxt": true,
         "sectionID": "924382",
         "type": "LE",
@@ -66,19 +32,15 @@
         "time": "5:00p-7:50p",
         "building": "CSB",
         "room": "004",
-        "instructor": "Cohen, Alain J. J.",
         "instructors": [
           "Cohen, Alain J. J."
         ],
         "start_time": "17:00",
         "end_time": "19:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

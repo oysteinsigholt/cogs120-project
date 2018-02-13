@@ -3,34 +3,29 @@
   "name": "Topics in 20th Century U.S.",
   "department": "HIUS",
   "id": "181",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930005",
-      "type": "SE",
-      "section": "B00",
-      "days": "F",
-      "time": "10:00a-12:50p",
-      "building": "HSS",
-      "room": "6008",
-      "instructor": "Kwak, Nancy",
-      "instructors": [
-        "Kwak, Nancy"
-      ],
-      "start_time": "10:00",
-      "end_time": "12:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "W": {
+      "804b3afac99d316bb412abbe70624f5d5e35ae53b2c60665185bdb00c872c13f": {
+        "sectxt": true,
+        "sectionID": "924581",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "12:00p-2:50p",
+        "building": "HSS",
+        "room": "6008",
+        "instructors": [
+          "Man, Simeon S"
+        ],
+        "start_time": "12:00",
+        "end_time": "14:50"
+      }
+    },
+    "F": {
+      "7f7f6f308dca479ea7164828068dd4f2dd397b6ad5d62eca2be8e62f749b2779": {
         "sectxt": true,
         "sectionID": "930005",
         "type": "SE",
@@ -39,15 +34,16 @@
         "time": "10:00a-12:50p",
         "building": "HSS",
         "room": "6008",
-        "instructor": "Kwak, Nancy",
         "instructors": [
           "Kwak, Nancy"
         ],
         "start_time": "10:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

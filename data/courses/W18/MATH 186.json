@@ -3,135 +3,9 @@
   "name": "Probablty Stats/Bioinformatics",
   "department": "MATH",
   "id": "186",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "CENTR",
-      "room": "113",
-      "instructor": "Tesler, Glenn",
-      "instructors": [
-        "Tesler, Glenn"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927249",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "6:00p-6:50p",
-      "building": "APM",
-      "room": "6402",
-      "instructor": "Tesler, Glenn",
-      "instructors": [
-        "Tesler, Glenn"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927250",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "7:00p-7:50p",
-      "building": "APM",
-      "room": "6402",
-      "instructor": "Tesler, Glenn",
-      "instructors": [
-        "Tesler, Glenn"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927251",
-      "type": "DI",
-      "section": "A03",
-      "days": "M",
-      "time": "8:00p-8:50p",
-      "building": "APM",
-      "room": "6402",
-      "instructor": "Tesler, Glenn",
-      "instructors": [
-        "Tesler, Glenn"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/16/2018",
-      "days": "Tu",
-      "time": "7:00p-7:50p",
-      "building": "HSS",
-      "room": "1330",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-16T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/20/2018",
-      "days": "Tu",
-      "time": "7:00p-7:50p",
-      "building": "HSS",
-      "room": "1330",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-20T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/15/2018",
-      "days": "Th",
-      "time": "7:00p-7:50p",
-      "building": "HSS",
-      "room": "1330",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-15T08:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "1f6125528d645040cfc6002f31085b8ed5a8931282961d8a2d117e589b86fdbb": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -140,13 +14,12 @@
       "time": "7:00p-7:50p",
       "building": "HSS",
       "room": "1330",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-16T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "19:50"
     },
-    {
+    "34028442051cf8b664f6e68a83dd6ff675c8125d472b92ae4deff7d65710ad24": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -155,13 +28,12 @@
       "time": "7:00p-7:50p",
       "building": "HSS",
       "room": "1330",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-20T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "19:50"
     },
-    {
+    "7f592d221544d7817c4da2192325ed0360ee8277a8752ca775e70be4e288d692": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -170,13 +42,12 @@
       "time": "7:00p-7:50p",
       "building": "HSS",
       "room": "1330",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-15T08:00:00.000Z",
       "start_time": "19:00",
       "end_time": "19:50"
     },
-    {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -185,17 +56,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "e4a7e0b48e5a74a5039a6a4a5657e3e1413e312642286325ab5d305301b5cae2": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -204,14 +74,13 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Tesler, Glenn",
         "instructors": [
           "Tesler, Glenn"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "b0c3c2995e91f35950d3bbb5705281fd845ade23e0e4e00adeade49b5e830983": {
         "sectxt": true,
         "sectionID": "927249",
         "type": "DI",
@@ -220,14 +89,13 @@
         "time": "6:00p-6:50p",
         "building": "APM",
         "room": "6402",
-        "instructor": "Tesler, Glenn",
         "instructors": [
           "Tesler, Glenn"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "85dd39eba6d8c0d765676cfc298949eadb86ec0a850b011383ef785534f2cfad": {
         "sectxt": true,
         "sectionID": "927250",
         "type": "DI",
@@ -236,14 +104,13 @@
         "time": "7:00p-7:50p",
         "building": "APM",
         "room": "6402",
-        "instructor": "Tesler, Glenn",
         "instructors": [
           "Tesler, Glenn"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "32c96b8ac15e6a55d300fc8d4efd7cec33d2fae113fd9761d6c2df47caf2c6e4": {
         "sectxt": true,
         "sectionID": "927251",
         "type": "DI",
@@ -252,17 +119,15 @@
         "time": "8:00p-8:50p",
         "building": "APM",
         "room": "6402",
-        "instructor": "Tesler, Glenn",
         "instructors": [
           "Tesler, Glenn"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "c15fcf4f9ab3e7d38ca0b0fda612d43843a9400dd321e08de7ed0c9d036f43b0": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -271,17 +136,15 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Tesler, Glenn",
         "instructors": [
           "Tesler, Glenn"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "a1ad73e826e4f3d18db30a6715bb1aece555b7c097097bfe51405b7a3389d35a": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -290,15 +153,15 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "113",
-        "instructor": "Tesler, Glenn",
         "instructors": [
           "Tesler, Glenn"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

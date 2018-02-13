@@ -3,27 +3,24 @@
   "name": "Teaching Assistanship",
   "department": "BNFO",
   "id": "500",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921264",
-      "type": "LE",
-      "section": "B00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Bafna, Vineet",
-      "instructors": [
-        "Bafna, Vineet"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "921263",
+      "type": "LE",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Gaasterland, Theresa"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "921264",
       "type": "LE",
       "section": "B00",
@@ -31,19 +28,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Bafna, Vineet",
       "instructors": [
         "Bafna, Vineet"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

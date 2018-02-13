@@ -3,42 +3,93 @@
   "name": "Product Marketing & Management",
   "department": "MGT",
   "id": "103",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929951",
-      "type": "LE",
-      "section": "G00",
-      "days": "W",
-      "time": "11:00a-1:50p",
-      "building": "OTRSN",
-      "room": "1S113",
-      "instructor": "Prosser, Elise K",
-      "instructors": [
-        "Prosser, Elise K"
-      ],
-      "start_time": "11:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "99084e85dcbf5c5064e8677480f27cc1eb8ff5538061a54d6a1f44628193757c": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    },
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,19 +98,155 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "M": {
+      "1a68674d127c16a02d8b17c3a50af0aac9bc1af13df61446891275e79ed336e3": {
+        "sectxt": true,
+        "sectionID": "922572",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "8:00a-9:20a",
+        "building": "OTRSN",
+        "room": "1S114",
+        "instructors": [
+          "Eberhard, Craig A"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "037cf1a01785c52b0af5b13823ec4e8c7654c1dd6d8cc5b9d1eec03050a8c82f": {
+        "sectxt": true,
+        "sectionID": "922573",
+        "type": "LE",
+        "section": "B00",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "OTRSN",
+        "room": "1S114",
+        "instructors": [
+          "Eberhard, Craig A"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "94231386609013cd153de4aa546073780be9503454ed36e463fc96896bb5aaad": {
+        "sectxt": true,
+        "sectionID": "922574",
+        "type": "LE",
+        "section": "C00",
+        "days": "MW",
+        "time": "12:30p-1:50p",
+        "building": "OTRSN",
+        "room": "1S114",
+        "instructors": [
+          "Eberhard, Craig A"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      }
+    },
+    "Tu": {
+      "69937babe37e2afc2e722a9f3125619c9975591310909bfc06883a4199798a5e": {
+        "sectxt": true,
+        "sectionID": "922575",
+        "type": "LE",
+        "section": "D00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "OTRSN",
+        "room": "1S114",
+        "instructors": [
+          "Ehrich, Kristine R"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "5e6c626204bf4d40dbae05952e6e5c3d6b032a7faf9e85b99085f3542bf5a510": {
+        "sectxt": true,
+        "sectionID": "922576",
+        "type": "LE",
+        "section": "E00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "OTRSN",
+        "room": "1S114",
+        "instructors": [
+          "Ehrich, Kristine R"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "6e0f39fe8ade29fb62113e8989836a0ce88fe41d52921339dc98efe48eab17fd": {
+        "sectxt": true,
+        "sectionID": "922577",
+        "type": "LE",
+        "section": "F00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "OTRSN",
+        "room": "1S114",
+        "instructors": [
+          "Ehrich, Kristine R"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    },
+    "W": {
+      "cdb111f8a2bdc1f70ac20d4385e78e74522569905160a2d54a872c13a32bced9": {
+        "sectxt": true,
+        "sectionID": "922572",
+        "type": "LE",
+        "section": "A00",
+        "days": "MW",
+        "time": "8:00a-9:20a",
+        "building": "OTRSN",
+        "room": "1S114",
+        "instructors": [
+          "Eberhard, Craig A"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "a4bff685f013027c09c6b695bbece7f3ab4343da97532a42d3001b54d93c5d3e": {
+        "sectxt": true,
+        "sectionID": "922573",
+        "type": "LE",
+        "section": "B00",
+        "days": "MW",
+        "time": "9:30a-10:50a",
+        "building": "OTRSN",
+        "room": "1S114",
+        "instructors": [
+          "Eberhard, Craig A"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "90ed807ecff8aa8adef5317927ac74fa7d93ee3e160c452301b1384a91ad11df": {
+        "sectxt": true,
+        "sectionID": "922574",
+        "type": "LE",
+        "section": "C00",
+        "days": "MW",
+        "time": "12:30p-1:50p",
+        "building": "OTRSN",
+        "room": "1S114",
+        "instructors": [
+          "Eberhard, Craig A"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "74ad35887e59d0a7c0ab8ec2ec5f90f23abe0d3396058d6d0a86412097b3f0d1": {
         "sectxt": true,
         "sectionID": "929951",
         "type": "LE",
@@ -68,17 +255,68 @@
         "time": "11:00a-1:50p",
         "building": "OTRSN",
         "room": "1S113",
-        "instructor": "Prosser, Elise K",
         "instructors": [
           "Prosser, Elise K"
         ],
         "start_time": "11:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "Th": {
+      "0b9c7b8098e66a567ee9c121c7a66dba0aaca260906ce4216fb956bd8c3db1c9": {
+        "sectxt": true,
+        "sectionID": "922575",
+        "type": "LE",
+        "section": "D00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "OTRSN",
+        "room": "1S114",
+        "instructors": [
+          "Ehrich, Kristine R"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "f8f2f5979f9d671b0a16efc90ed91fef1c41b1691f83f8a3113a67634903cb16": {
+        "sectxt": true,
+        "sectionID": "922576",
+        "type": "LE",
+        "section": "E00",
+        "days": "TuTh",
+        "time": "3:30p-4:50p",
+        "building": "OTRSN",
+        "room": "1S114",
+        "instructors": [
+          "Ehrich, Kristine R"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "8e81b3633138c625ffa3f71632aa883928b5c9088ce4323660555a367ff0e517": {
+        "sectxt": true,
+        "sectionID": "922577",
+        "type": "LE",
+        "section": "F00",
+        "days": "TuTh",
+        "time": "5:00p-6:20p",
+        "building": "OTRSN",
+        "room": "1S114",
+        "instructors": [
+          "Ehrich, Kristine R"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G"
+  ]
 }

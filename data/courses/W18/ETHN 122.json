@@ -3,42 +3,9 @@
   "name": "Asian American Cult & Identity",
   "department": "ETHN",
   "id": "122",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922626",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "12:00p-12:50p",
-      "building": "WLH",
-      "room": "2207",
-      "instructor": "Nguyen, Ly Thuy",
-      "instructors": [
-        "Nguyen, Ly Thuy"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "7017f70f230bdfc87d2e08b0be2efb6c5e85fa9338cb6214d1c4ed24186ceacb": {
         "sectxt": true,
         "sectionID": "922626",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "12:00p-12:50p",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Nguyen, Ly Thuy",
         "instructors": [
           "Nguyen, Ly Thuy"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "1c80f94624d4ee2ba4ff06462e98f2ca50b0d05b11f14c1fdbcacd17e8d05468": {
         "sectxt": true,
         "sectionID": "922626",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "12:00p-12:50p",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Nguyen, Ly Thuy",
         "instructors": [
           "Nguyen, Ly Thuy"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "0cceb9ca38975c18f986400df94c6daecd817d46a2f0b3b298ab8e48828cb3d7": {
         "sectxt": true,
         "sectionID": "922626",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "12:00p-12:50p",
         "building": "WLH",
         "room": "2207",
-        "instructor": "Nguyen, Ly Thuy",
         "instructors": [
           "Nguyen, Ly Thuy"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

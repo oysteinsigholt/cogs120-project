@@ -3,30 +3,12 @@
   "name": "Freshman Seminar",
   "department": "ANTH",
   "id": "87",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927860",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "12:00p-12:50p",
-      "building": "SSB",
-      "room": "105",
-      "instructor": "Semendeferi, Ekaterini",
-      "instructors": [
-        "Semendeferi, Ekaterini"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "f1854bb7feadd35226a156d1e1b8f7dedc7b03b021e3e733137dcbaf54d573ab": {
         "sectxt": true,
         "sectionID": "927860",
         "type": "SE",
@@ -35,19 +17,49 @@
         "time": "12:00p-12:50p",
         "building": "SSB",
         "room": "105",
-        "instructor": "Semendeferi, Ekaterini",
         "instructors": [
           "Semendeferi, Ekaterini"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "F": {
+      "3db843ada146041caa1d774076aee4b07e9a091e2951dda789379fefc7a2eed4": {
+        "sectxt": true,
+        "sectionID": "927861",
+        "type": "SE",
+        "section": "B00",
+        "days": "F",
+        "time": "1:00p-1:50p",
+        "building": "SSB",
+        "room": "105",
+        "instructors": [
+          "Jordan, David K."
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "c06253edc08d29f2c14e9b163e5ab76899333896afb12d745eecf579e5154f8c": {
+        "sectxt": true,
+        "sectionID": "929233",
+        "type": "SE",
+        "section": "C00",
+        "days": "F",
+        "time": "2:00p-2:50p",
+        "building": "SSB",
+        "room": "105",
+        "instructors": [
+          "Jordan, David K."
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      }
+    }
+  },
+  "sections": [
+    "B",
+    "C",
+    "A"
+  ]
 }

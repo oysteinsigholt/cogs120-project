@@ -3,106 +3,51 @@
   "name": "Modern Algebra II",
   "department": "MATH",
   "id": "103B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "8:00a-8:50a",
-      "building": "HSS",
-      "room": "1330",
-      "instructor": "Zelmanov, Efim I",
-      "instructors": [
-        "Zelmanov, Efim I"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927115",
-      "type": "DI",
-      "section": "B01",
-      "days": "Th",
-      "time": "6:00p-6:50p",
-      "building": "APM",
-      "room": "B402A",
-      "instructor": "Zelmanov, Efim I",
-      "instructors": [
-        "Zelmanov, Efim I"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927116",
-      "type": "DI",
-      "section": "B02",
-      "days": "Th",
-      "time": "7:00p-7:50p",
-      "building": "APM",
-      "room": "B402A",
-      "instructor": "Zelmanov, Efim I",
-      "instructors": [
-        "Zelmanov, Efim I"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927117",
-      "type": "DI",
-      "section": "B03",
-      "days": "Th",
-      "time": "8:00p-8:50p",
-      "building": "APM",
-      "room": "B402A",
-      "instructor": "Zelmanov, Efim I",
-      "instructors": [
-        "Zelmanov, Efim I"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930647",
-      "type": "DI",
-      "section": "B04",
-      "days": "Th",
-      "time": "9:00p-9:50p",
-      "building": "APM",
-      "room": "7421",
-      "instructor": "Zelmanov, Efim I",
-      "instructors": [
-        "Zelmanov, Efim I"
-      ],
-      "start_time": "21:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b877d21e9091f690ba3e085baf05778beecf6da0dec8be8ad7bce57b4a45837b": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "PB",
+      "section": "01/16/2018",
+      "days": "Tu",
+      "time": "5:00p-5:50p",
+      "building": "SOLIS",
+      "room": "104",
+      "instructors": [],
+      "date": "2018-01-16T08:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    "36f9e7356bec3423ed537d5dd7420058270438f56bc3cca0bae7bdefbb3e3f74": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "PB",
+      "section": "02/20/2018",
+      "days": "Tu",
+      "time": "5:00p-5:50p",
+      "building": "SOLIS",
+      "room": "104",
+      "instructors": [],
+      "date": "2018-02-20T08:00:00.000Z",
+      "start_time": "17:00",
+      "end_time": "17:50"
+    },
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/23/2018",
+      "days": "F",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-23T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "99084e85dcbf5c5064e8677480f27cc1eb8ff5538061a54d6a1f44628193757c": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -111,17 +56,31 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "e4a7e0b48e5a74a5039a6a4a5657e3e1413e312642286325ab5d305301b5cae2": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "212",
+        "instructors": [
+          "Sorensen, Claus M"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "8e0947ae086951cd616eabed4be76943f8fa9c5af3bda429906f2bb37479450d": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -130,17 +89,30 @@
         "time": "8:00a-8:50a",
         "building": "HSS",
         "room": "1330",
-        "instructor": "Zelmanov, Efim I",
         "instructors": [
           "Zelmanov, Efim I"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "c15fcf4f9ab3e7d38ca0b0fda612d43843a9400dd321e08de7ed0c9d036f43b0": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "212",
+        "instructors": [
+          "Sorensen, Claus M"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "69073098d5998620ccbd988b1e868ec5f76b2dfdc60a06cc6f992f756bc037a1": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -149,16 +121,75 @@
         "time": "8:00a-8:50a",
         "building": "HSS",
         "room": "1330",
-        "instructor": "Zelmanov, Efim I",
         "instructors": [
           "Zelmanov, Efim I"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "a2e9e3cad4671fd5aaaf9e956043eded592cf7c04a24db309890c00c4cf98665": {
+        "sectxt": true,
+        "sectionID": "927111",
+        "type": "DI",
+        "section": "A01",
+        "days": "Th",
+        "time": "5:00p-5:50p",
+        "building": "APM",
+        "room": "7421",
+        "instructors": [
+          "Sorensen, Claus M"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "584b990147342425eac0edffa7c346ef1b91566b022c0baae69d4ae8e146c501": {
+        "sectxt": true,
+        "sectionID": "927112",
+        "type": "DI",
+        "section": "A02",
+        "days": "Th",
+        "time": "6:00p-6:50p",
+        "building": "APM",
+        "room": "7421",
+        "instructors": [
+          "Sorensen, Claus M"
+        ],
+        "start_time": "18:00",
+        "end_time": "18:50"
+      },
+      "683db1340c328e24967ab3aa8b949eec09d58dc62c95dc67d916769a471060ae": {
+        "sectxt": true,
+        "sectionID": "927113",
+        "type": "DI",
+        "section": "A03",
+        "days": "Th",
+        "time": "7:00p-7:50p",
+        "building": "APM",
+        "room": "7421",
+        "instructors": [
+          "Sorensen, Claus M"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "23b559465eb69949719b1d6766d6062ee1a5b0cd5925172e0a607be52da2d644": {
+        "sectxt": true,
+        "sectionID": "930646",
+        "type": "DI",
+        "section": "A04",
+        "days": "Th",
+        "time": "8:00p-8:50p",
+        "building": "APM",
+        "room": "5402",
+        "instructors": [
+          "Sorensen, Claus M"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      },
+      "e96d3e8846e2bee7d96d3192c3aabb2efb7a58ed1e5dc616767db935de58c3c4": {
         "sectxt": true,
         "sectionID": "927115",
         "type": "DI",
@@ -167,14 +198,13 @@
         "time": "6:00p-6:50p",
         "building": "APM",
         "room": "B402A",
-        "instructor": "Zelmanov, Efim I",
         "instructors": [
           "Zelmanov, Efim I"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "67ecf91077d852c504eb58561beb7d7b4a001585b6774aff61646576d81b29f6": {
         "sectxt": true,
         "sectionID": "927116",
         "type": "DI",
@@ -183,14 +213,13 @@
         "time": "7:00p-7:50p",
         "building": "APM",
         "room": "B402A",
-        "instructor": "Zelmanov, Efim I",
         "instructors": [
           "Zelmanov, Efim I"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "39118d72810121ed97882be1c3673dea7d00d3c49a4c2ec9f0b00c9ae761f962": {
         "sectxt": true,
         "sectionID": "927117",
         "type": "DI",
@@ -199,14 +228,13 @@
         "time": "8:00p-8:50p",
         "building": "APM",
         "room": "B402A",
-        "instructor": "Zelmanov, Efim I",
         "instructors": [
           "Zelmanov, Efim I"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "4f50a016f64b47458ddfe6984d8153420cf57e5d54974ee3671635712889f7be": {
         "sectxt": true,
         "sectionID": "930647",
         "type": "DI",
@@ -215,16 +243,30 @@
         "time": "9:00p-9:50p",
         "building": "APM",
         "room": "7421",
-        "instructor": "Zelmanov, Efim I",
         "instructors": [
           "Zelmanov, Efim I"
         ],
         "start_time": "21:00",
         "end_time": "21:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "a1ad73e826e4f3d18db30a6715bb1aece555b7c097097bfe51405b7a3389d35a": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "CENTR",
+        "room": "212",
+        "instructors": [
+          "Sorensen, Claus M"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "6b83abdee5d344b2c89c3d546b4e22a168363924233412720d415f575315a8ec": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -233,15 +275,16 @@
         "time": "8:00a-8:50a",
         "building": "HSS",
         "room": "1330",
-        "instructor": "Zelmanov, Efim I",
         "instructors": [
           "Zelmanov, Efim I"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

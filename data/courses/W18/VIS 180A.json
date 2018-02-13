@@ -3,42 +3,9 @@
   "name": "Documentary Evidence/Media Pra",
   "department": "VIS",
   "id": "180A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922811",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "3:00p-5:50p",
-      "building": "MANDE",
-      "room": "103",
-      "instructor": "Cross, Brian R",
-      "instructors": [
-        "Cross, Brian R"
-      ],
-      "start_time": "15:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "6a9a8ec5781a742a79de0b143257914f5092c141b3e5c280f4142a87154049b1": {
         "sectxt": true,
         "sectionID": "922811",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "3:00p-5:50p",
         "building": "MANDE",
         "room": "103",
-        "instructor": "Cross, Brian R",
         "instructors": [
           "Cross, Brian R"
         ],
         "start_time": "15:00",
         "end_time": "17:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "8e061f9daf025341b73d310f5107a8c146d5ee49584fdec7e583e16ec7d09557": {
         "sectxt": true,
         "sectionID": "922811",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "3:00p-5:50p",
         "building": "MANDE",
         "room": "103",
-        "instructor": "Cross, Brian R",
         "instructors": [
           "Cross, Brian R"
         ],
         "start_time": "15:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

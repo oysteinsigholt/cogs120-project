@@ -3,24 +3,8 @@
   "name": "Vascular Radiology",
   "department": "RAD",
   "id": "427",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928622",
-      "type": "CL",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Aryafar, Hamed",
-      "instructors": [
-        "Aryafar, Hamed"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Aryafar, Hamed",
       "instructors": [
         "Aryafar, Hamed"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

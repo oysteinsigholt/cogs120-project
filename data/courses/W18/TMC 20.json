@@ -3,31 +3,12 @@
   "name": "Thurgood Marshall Col Hnrs Sem",
   "department": "TMC",
   "id": "20",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "933052",
-      "type": "SE",
-      "section": "C00",
-      "days": "Tu",
-      "time": "7:00p-7:50p",
-      "building": "TMCA",
-      "room": "127",
-      "instructor": "Hunefeldt, Christine",
-      "instructors": [
-        "Hunefeldt, Christine"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "51301bf915c2989536e3583c630a66460f55d5096f3b69d01ef9385600a6bb9f": {
         "sectxt": true,
         "sectionID": "933052",
         "type": "SE",
@@ -36,18 +17,34 @@
         "time": "7:00p-7:50p",
         "building": "TMCA",
         "room": "127",
-        "instructor": "Hunefeldt, Christine",
         "instructors": [
           "Hunefeldt, Christine"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "W": {
+      "0224fe104cbfa2228fdd40a1708db1571533bcf02ac78200b62574f599c9e507": {
+        "sectxt": true,
+        "sectionID": "930317",
+        "type": "SE",
+        "section": "A00",
+        "days": "W",
+        "time": "5:00p-5:50p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Mariscal, George"
+        ],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

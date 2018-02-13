@@ -3,30 +3,12 @@
   "name": "UG Mainstage Production:Design",
   "department": "TDDE",
   "id": "132",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920372",
-      "type": "LA",
-      "section": "A00",
-      "days": "MTuWThF",
-      "time": "5:30p-10:20p",
-      "building": "GH",
-      "room": "102",
-      "instructor": "Guirguis, Mark C",
-      "instructors": [
-        "Guirguis, Mark C"
-      ],
-      "start_time": "17:30",
-      "end_time": "22:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "a0b9248a36c448df3f71a763daa1c6eb25d6a914b6841a824dd9a8d3ade3cd76": {
         "sectxt": true,
         "sectionID": "920372",
         "type": "LA",
@@ -35,16 +17,15 @@
         "time": "5:30p-10:20p",
         "building": "GH",
         "room": "102",
-        "instructor": "Guirguis, Mark C",
         "instructors": [
           "Guirguis, Mark C"
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "815ae15abd85701a630bb6e05f46a3feffe4aefa2935e2087983f15c9bc2b6c1": {
         "sectxt": true,
         "sectionID": "920372",
         "type": "LA",
@@ -53,16 +34,15 @@
         "time": "5:30p-10:20p",
         "building": "GH",
         "room": "102",
-        "instructor": "Guirguis, Mark C",
         "instructors": [
           "Guirguis, Mark C"
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "bfad50a4bd2c8012a025fae290e76bf8525545f349ebb6c0e0f1f9715e4691b9": {
         "sectxt": true,
         "sectionID": "920372",
         "type": "LA",
@@ -71,16 +51,15 @@
         "time": "5:30p-10:20p",
         "building": "GH",
         "room": "102",
-        "instructor": "Guirguis, Mark C",
         "instructors": [
           "Guirguis, Mark C"
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "fdd2c70a3d99aebb2813eff7473e36e5a1041fef06732a10fd18b0fb7ff49d88": {
         "sectxt": true,
         "sectionID": "920372",
         "type": "LA",
@@ -89,16 +68,15 @@
         "time": "5:30p-10:20p",
         "building": "GH",
         "room": "102",
-        "instructor": "Guirguis, Mark C",
         "instructors": [
           "Guirguis, Mark C"
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "f8d0c19406683728d0b1ccb5d20b44f52799265e9836428c872f447f6e6d0ce6": {
         "sectxt": true,
         "sectionID": "920372",
         "type": "LA",
@@ -107,15 +85,15 @@
         "time": "5:30p-10:20p",
         "building": "GH",
         "room": "102",
-        "instructor": "Guirguis, Mark C",
         "instructors": [
           "Guirguis, Mark C"
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,31 +3,12 @@
   "name": "Performativity",
   "department": "LTCO",
   "id": "284",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924332",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "2:00p-4:50p",
-      "building": "LIT",
-      "room": "437",
-      "instructor": "Rahimi, Babak",
-      "instructors": [
-        "Rahimi, Babak"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "2c5b46416e2dcc2f210d56ba50b05aec59109aaab8edc4e53ed68504beb42b33": {
         "sectxt": true,
         "sectionID": "924332",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "2:00p-4:50p",
         "building": "LIT",
         "room": "437",
-        "instructor": "Rahimi, Babak",
         "instructors": [
           "Rahimi, Babak"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

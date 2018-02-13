@@ -3,31 +3,12 @@
   "name": "PolEcon Authoritarian Regimes",
   "department": "GPPS",
   "id": "481",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921726",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "RBC",
-      "room": "1301",
-      "instructor": "Shih, Victor Chung",
-      "instructors": [
-        "Shih, Victor Chung"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "b472ffb8c324c62878b0aab0539fa9f53856081dd31965e8bfaf5f38934b4f89": {
         "sectxt": true,
         "sectionID": "921726",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "11:00a-12:20p",
         "building": "RBC",
         "room": "1301",
-        "instructor": "Shih, Victor Chung",
         "instructors": [
           "Shih, Victor Chung"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "32cd26f7f4bc6a25e0befa1cc3712a039802d326cd98b1d36e50c7ba708eaf70": {
         "sectxt": true,
         "sectionID": "921726",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "11:00a-12:20p",
         "building": "RBC",
         "room": "1301",
-        "instructor": "Shih, Victor Chung",
         "instructors": [
           "Shih, Victor Chung"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

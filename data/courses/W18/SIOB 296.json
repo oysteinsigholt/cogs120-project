@@ -3,44 +3,11 @@
   "name": "Special Topics/Ocean Bio",
   "department": "SIOB",
   "id": "296",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921967",
-      "type": "SE",
-      "section": "C00",
-      "days": "Tu",
-      "time": "2:00p-5:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Archer, Frederick Ivan",
-      "instructors": [
-        "Archer, Frederick Ivan"
-      ],
-      "start_time": "14:00",
-      "end_time": "17:00"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [
     "Students should register for S/U only.Class will\n be held in Sea Cave, First floor ofthe Eckart\n Building."
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -49,18 +16,30 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
+    },
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "c9cec3b2d174b0fb350c74f20cfc4810fe693f086a9ae4cdfb0dcf9e8942b333": {
         "sectxt": true,
         "sectionID": "921967",
         "type": "SE",
@@ -69,18 +48,48 @@
         "time": "2:00p-5:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Archer, Frederick Ivan",
         "instructors": [
           "Archer, Frederick Ivan"
         ],
         "start_time": "14:00",
         "end_time": "17:00"
+      },
+      "8722aef9ef28a53de7737ae3e59b09eb397771b302f73a0d24e675f3eeab17dc": {
+        "sectxt": true,
+        "sectionID": "921968",
+        "type": "SE",
+        "section": "D00",
+        "days": "Tu",
+        "time": "12:00p-2:00p",
+        "building": "ERCA",
+        "room": "117",
+        "instructors": [
+          "Batchelor, Heidi Ann"
+        ],
+        "start_time": "12:00",
+        "end_time": "14:00"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "Th": {
+      "be6fc5351e8872dbafbeea2721f90f9a3d43a2113174281cad5550a5649464c9": {
+        "sectxt": false,
+        "sectionID": "",
+        "type": "SE",
+        "section": "D00",
+        "days": "Th",
+        "time": "11:00a-12:00p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [],
+        "start_time": "11:00",
+        "end_time": "12:00"
+      }
+    }
+  },
+  "sections": [
+    "B",
+    "C",
+    "D",
+    "A"
+  ]
 }

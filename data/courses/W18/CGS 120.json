@@ -3,31 +3,12 @@
   "name": "Capitalism & Gender",
   "department": "CGS",
   "id": "120",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922338",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Hankins, Joseph D.",
-      "instructors": [
-        "Hankins, Joseph D."
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "0139079d37f027d6c5a23abb2f4fd79b78daf805f5a4fe7e20731ba1699726af": {
         "sectxt": true,
         "sectionID": "922338",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "12:30p-1:50p",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Hankins, Joseph D.",
         "instructors": [
           "Hankins, Joseph D."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "e3c8ed41a5d4dae5e5f10c0052b352e6976f137c9ba6938f49a5f22a3d39f584": {
         "sectxt": true,
         "sectionID": "922338",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "12:30p-1:50p",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Hankins, Joseph D.",
         "instructors": [
           "Hankins, Joseph D."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

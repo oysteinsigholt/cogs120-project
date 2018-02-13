@@ -3,34 +3,153 @@
   "name": "Mechanics II: Dynamics",
   "department": "SE",
   "id": "101B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930053",
-      "type": "LE",
-      "section": "B00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    }
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "M": {
+      "c9568b7d221af15b52d09ee1ee145a197f159333c0021647ac12b7259eecb7ba": {
+        "sectxt": true,
+        "sectionID": "933073",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "109",
+        "instructors": [
+          "Eliasson, Veronica"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "dbb3a18d9e1e18cdb9720cf056c7ff7ebcd4320872976f819bfeb997b79ceee5": {
+        "sectxt": true,
+        "sectionID": "933076",
+        "type": "LE",
+        "section": "E00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "109",
+        "instructors": [
+          "Eliasson, Veronica"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    },
+    "W": {
+      "4db81dd4d7d8451f62c90ff18228016cb7bd326a24ffd81d36d35f0228a1739a": {
+        "sectxt": true,
+        "sectionID": "933073",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "109",
+        "instructors": [
+          "Eliasson, Veronica"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "40587e7deade39c8ba138779a9ffdb35b54f2f350959ff6b6b6a0d18d29d1d2d": {
+        "sectxt": true,
+        "sectionID": "933076",
+        "type": "LE",
+        "section": "E00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "109",
+        "instructors": [
+          "Eliasson, Veronica"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      }
+    },
+    "F": {
+      "e11ea2402140ce965352fcb4046f045c8e6143249e513f396b274ac9564f7850": {
+        "sectxt": true,
+        "sectionID": "933073",
+        "type": "LE",
+        "section": "D00",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "CENTR",
+        "room": "109",
+        "instructors": [
+          "Eliasson, Veronica"
+        ],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "4e775e54b05269c64959b8c4c2fdcd5fa3ffb4f5e0f788b0a853f0a375d10eb4": {
+        "sectxt": false,
+        "sectionID": "",
+        "type": "LE",
+        "section": "D00",
+        "days": "F",
+        "time": "12:00p-12:50p",
+        "building": "CSB",
+        "room": "002",
+        "instructors": [],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "ea6f6bb93be2de259fe94edc505de05247ceac20e409bce4ff41438e47bac553": {
+        "sectxt": true,
+        "sectionID": "933076",
+        "type": "LE",
+        "section": "E00",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "CENTR",
+        "room": "109",
+        "instructors": [
+          "Eliasson, Veronica"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "6da54e0e012915eae305b58feea9bc655d6ce6f7b83c64c8af2a7c746fef8d19": {
+        "sectxt": false,
+        "sectionID": "",
+        "type": "LE",
+        "section": "E00",
+        "days": "F",
+        "time": "1:00p-1:50p",
+        "building": "CSB",
+        "room": "002",
+        "instructors": [],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ]
 }

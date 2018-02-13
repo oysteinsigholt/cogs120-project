@@ -3,31 +3,12 @@
   "name": "Urban Studies Intership",
   "department": "USP",
   "id": "187",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922178",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "5:00p-6:20p",
-      "building": "WLH",
-      "room": "2112",
-      "instructor": "Pezzoli, Keith",
-      "instructors": [
-        "Pezzoli, Keith"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "1c6229936392b259a3d7096119e99800ac9737d359265856159b3c56f2f92d34": {
         "sectxt": true,
         "sectionID": "922178",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "5:00p-6:20p",
         "building": "WLH",
         "room": "2112",
-        "instructor": "Pezzoli, Keith",
         "instructors": [
           "Pezzoli, Keith"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "cd6cb50776f1f69e09207934dd68dd3d87d132b33a620389e4d268d64f8ecac9": {
         "sectxt": true,
         "sectionID": "922178",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "5:00p-6:20p",
         "building": "WLH",
         "room": "2112",
-        "instructor": "Pezzoli, Keith",
         "instructors": [
           "Pezzoli, Keith"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

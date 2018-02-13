@@ -3,24 +3,8 @@
   "name": "Individual Directed Study",
   "department": "MGT",
   "id": "499",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "935694",
-      "type": "IN",
-      "section": "001",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Buti, Krisztina",
-      "instructors": [
-        "Buti, Krisztina"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Buti, Krisztina",
       "instructors": [
         "Buti, Krisztina"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

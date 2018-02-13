@@ -3,42 +3,10 @@
   "name": "College Acad Mentor Program",
   "department": "CONT",
   "id": "150A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "4:00p-5:45p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Moore, John C.",
-      "instructors": [
-        "Moore, John C."
-      ],
-      "start_time": "16:00",
-      "end_time": "17:45"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "930133",
-      "type": "FW",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Moore, John C.",
-      "instructors": [
-        "Moore, John C."
-      ]
-    }
-  ],
   "notes": [
     "Location: Early Academic Outreach Program office, UCTR\n building 301."
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -49,18 +17,14 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Moore, John C.",
       "instructors": [
         "Moore, John C."
       ]
     }
   ],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "a9be9a6cd9dd404d70238704e2235ac047480b1d95275709f612934d0ac02f46": {
         "sectxt": true,
         "sectionID": "",
         "type": "SE",
@@ -69,16 +33,15 @@
         "time": "4:00p-5:45p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Moore, John C.",
         "instructors": [
           "Moore, John C."
         ],
         "start_time": "16:00",
         "end_time": "17:45"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

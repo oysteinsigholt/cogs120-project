@@ -3,31 +3,12 @@
   "name": "History of the Neurosciences",
   "department": "HISC",
   "id": "117",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924574",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "CSB",
-      "room": "004",
-      "instructor": "Gere, Catherina M.",
-      "instructors": [
-        "Gere, Catherina M."
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "e452b8f2d57e2280e45a96c21e2933140c081730634ef795886737f47203fbbf": {
         "sectxt": true,
         "sectionID": "924574",
         "type": "LE",
@@ -36,17 +17,15 @@
         "time": "3:30p-4:50p",
         "building": "CSB",
         "room": "004",
-        "instructor": "Gere, Catherina M.",
         "instructors": [
           "Gere, Catherina M."
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "4a76dd40bcb12a078777776bb77c638b74877243b7b7474be03f08a2c4721a46": {
         "sectxt": true,
         "sectionID": "924574",
         "type": "LE",
@@ -55,16 +34,15 @@
         "time": "3:30p-4:50p",
         "building": "CSB",
         "room": "004",
-        "instructor": "Gere, Catherina M.",
         "instructors": [
           "Gere, Catherina M."
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

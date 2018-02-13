@@ -3,33 +3,12 @@
   "name": "Contemporary Computer Topics",
   "department": "VIS",
   "id": "149",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922795",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "12:30p-3:20p",
-      "building": "VAF",
-      "room": "228",
-      "instructor": "Stalbaum, Brett",
-      "instructors": [
-        "Stalbaum, Brett"
-      ],
-      "start_time": "12:30",
-      "end_time": "15:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "0b56186a8faa0733188f1aef5431c0c48751ee5ead5736a0da907b11404a5768": {
         "sectxt": true,
         "sectionID": "922795",
         "type": "SE",
@@ -38,16 +17,15 @@
         "time": "12:30p-3:20p",
         "building": "VAF",
         "room": "228",
-        "instructor": "Stalbaum, Brett",
         "instructors": [
           "Stalbaum, Brett"
         ],
         "start_time": "12:30",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

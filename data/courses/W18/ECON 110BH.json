@@ -3,42 +3,9 @@
   "name": "Honors Macroeconomics B",
   "department": "ECON",
   "id": "110BH",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924076",
-      "type": "LE",
-      "section": "A00",
-      "days": "W",
-      "time": "2:00p-2:50p",
-      "building": "SEQUO",
-      "room": "244",
-      "instructor": "Hamilton, James D.",
-      "instructors": [
-        "Hamilton, James D."
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,19 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "31f998157d7c4edee9804de51af57c5e36e63e2d7a311f5740c7f32e99159ebd": {
         "sectxt": true,
         "sectionID": "924076",
         "type": "LE",
@@ -68,17 +32,15 @@
         "time": "2:00p-2:50p",
         "building": "SEQUO",
         "room": "244",
-        "instructor": "Hamilton, James D.",
         "instructors": [
           "Hamilton, James D."
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

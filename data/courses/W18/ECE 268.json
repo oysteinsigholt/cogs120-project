@@ -3,42 +3,9 @@
   "name": "Security of Hardware Embed Sys",
   "department": "ECE",
   "id": "268",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925174",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "PCYNH",
-      "room": "121",
-      "instructor": "Koushanfar, Farinaz",
-      "instructors": [
-        "Koushanfar, Farinaz"
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "bd0c0ca0e30d07141af3ed5df8b52b7efb1289143ecdb2b139d3fc94ab566971": {
         "sectxt": true,
         "sectionID": "925174",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "12:30p-1:50p",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "Koushanfar, Farinaz",
         "instructors": [
           "Koushanfar, Farinaz"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "9f7927e4628a334709ad646bdec9b99840eab81d8fd65a603de8e67d07d22ca4": {
         "sectxt": true,
         "sectionID": "925174",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "12:30p-1:50p",
         "building": "PCYNH",
         "room": "121",
-        "instructor": "Koushanfar, Farinaz",
         "instructors": [
           "Koushanfar, Farinaz"
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

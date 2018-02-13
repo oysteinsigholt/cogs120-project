@@ -3,32 +3,12 @@
   "name": "Seminar/Physics Research/UCSD",
   "department": "PHYS",
   "id": "261",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923824",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "10:00a-10:50a",
-      "building": "MYR-A",
-      "room": "5623",
-      "instructor": "Arovas, Daniel P",
-      "instructors": [
-        "Arovas, Daniel P"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "ae3db36e9579667f036b2f818038c3510684692a4fd87dbc6679fe4a8109516e": {
         "sectxt": true,
         "sectionID": "923824",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "10:00a-10:50a",
         "building": "MYR-A",
         "room": "5623",
-        "instructor": "Arovas, Daniel P",
         "instructors": [
           "Arovas, Daniel P"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,42 +3,9 @@
   "name": "Topics in Sev Complx Variables",
   "department": "MATH",
   "id": "221A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927290",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "4:00p-4:50p",
-      "building": "APM",
-      "room": "7421",
-      "instructor": "Xiao, Ming",
-      "instructors": [
-        "Xiao, Ming"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b9b4ec5af540606b238988bee0286fc3a4cc4d540b7785beb08dccae4a0227c9": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "d568ba8068a1435f28f37cfda3a889d519aac88e60eff67db4eb0dd23a82bbf9": {
         "sectxt": true,
         "sectionID": "927290",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "4:00p-4:50p",
         "building": "APM",
         "room": "7421",
-        "instructor": "Xiao, Ming",
         "instructors": [
           "Xiao, Ming"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "94eff9f34ea6ecfca377c6d9abc556d6735fbb338887b9aae47658ad96014582": {
         "sectxt": true,
         "sectionID": "927290",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "4:00p-4:50p",
         "building": "APM",
         "room": "7421",
-        "instructor": "Xiao, Ming",
         "instructors": [
           "Xiao, Ming"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "d0b186f9abf66c50887966caabcd7dcaad2323d8aa8f08607672d04def2ebe71": {
         "sectxt": true,
         "sectionID": "927290",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "4:00p-4:50p",
         "building": "APM",
         "room": "7421",
-        "instructor": "Xiao, Ming",
         "instructors": [
           "Xiao, Ming"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

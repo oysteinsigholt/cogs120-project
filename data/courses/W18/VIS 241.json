@@ -3,35 +3,14 @@
   "name": "Topics/Contemp. Critical Thry",
   "department": "VIS",
   "id": "241",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "933057",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "3:30p-6:20p",
-      "building": "MANDE",
-      "room": "212",
-      "instructor": "Wardwell, Mariana Razo",
-      "instructors": [
-        "Wardwell, Mariana Razo"
-      ],
-      "start_time": "15:30",
-      "end_time": "18:20"
-    }
-  ],
   "notes": [
     "Political Critique and Art"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "59373ce6f961e8c0a1e3c379100c666d3fb73ab3e015e1e670b1254728ee8c11": {
         "sectxt": true,
         "sectionID": "933057",
         "type": "SE",
@@ -40,16 +19,15 @@
         "time": "3:30p-6:20p",
         "building": "MANDE",
         "room": "212",
-        "instructor": "Wardwell, Mariana Razo",
         "instructors": [
           "Wardwell, Mariana Razo"
         ],
         "start_time": "15:30",
         "end_time": "18:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

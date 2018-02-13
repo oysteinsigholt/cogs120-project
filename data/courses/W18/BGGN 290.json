@@ -3,33 +3,14 @@
   "name": "Adv Cellular & Molec Mechanism",
   "department": "BGGN",
   "id": "290",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922434",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "11:30a-1:30p",
-      "building": "BONN",
-      "room": "2130",
-      "instructor": "Hampton, Randolph Y.",
-      "instructors": [
-        "Hampton, Randolph Y."
-      ],
-      "start_time": "11:30",
-      "end_time": "13:30"
-    }
-  ],
   "notes": [
     "Enrollment limited to CMG Trainees only."
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "9bd1d2c44ed73f8a1d87149449eb29b6c6973000b31880c8afd310333cf31ff4": {
         "sectxt": true,
         "sectionID": "922434",
         "type": "SE",
@@ -38,18 +19,15 @@
         "time": "11:30a-1:30p",
         "building": "BONN",
         "room": "2130",
-        "instructor": "Hampton, Randolph Y.",
         "instructors": [
           "Hampton, Randolph Y."
         ],
         "start_time": "11:30",
         "end_time": "13:30"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

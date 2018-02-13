@@ -3,46 +3,12 @@
   "name": "Comp Phys I:Prob Models & Simu",
   "department": "PHYS",
   "id": "141",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923770",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "11:00a-12:20p",
-      "building": "MYR-A",
-      "room": "4623",
-      "instructor": "Kuti, Julius",
-      "instructors": [
-        "Kuti, Julius"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A01",
-      "days": "M",
-      "time": "2:00p-4:50p",
-      "building": "MYR-A",
-      "room": "4623",
-      "instructor": "Kuti, Julius",
-      "instructors": [
-        "Kuti, Julius"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "a32723b46ec6e524eee0dd69597f6cffa9a004c6800870d6df68aead2aa0858b": {
         "sectxt": true,
         "sectionID": "923770",
         "type": "LE",
@@ -51,14 +17,13 @@
         "time": "11:00a-12:20p",
         "building": "MYR-A",
         "room": "4623",
-        "instructor": "Kuti, Julius",
         "instructors": [
           "Kuti, Julius"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       },
-      {
+      "34c84bfb6b8aa4c5f671cd265942934f13a84a47bd1dee7852bc86c4c34ad858": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -67,17 +32,15 @@
         "time": "2:00p-4:50p",
         "building": "MYR-A",
         "room": "4623",
-        "instructor": "Kuti, Julius",
         "instructors": [
           "Kuti, Julius"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "5ac61cc8b8fc7ce2c1702fd70bca5beae00e51c1743729bedb3f3e07d8b8ce80": {
         "sectxt": true,
         "sectionID": "923770",
         "type": "LE",
@@ -86,17 +49,15 @@
         "time": "11:00a-12:20p",
         "building": "MYR-A",
         "room": "4623",
-        "instructor": "Kuti, Julius",
         "instructors": [
           "Kuti, Julius"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

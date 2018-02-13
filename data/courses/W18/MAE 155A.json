@@ -3,70 +3,9 @@
   "name": "Aerospace Engineering Design I",
   "department": "MAE",
   "id": "155A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "CENTR",
-      "room": "105",
-      "instructor": "Anderson, Mark Ronald",
-      "instructors": [
-        "Anderson, Mark Ronald"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "5:00p-5:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922902",
-      "type": "LA",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Anderson, Mark Ronald",
-      "instructors": [
-        "Anderson, Mark Ronald"
-      ]
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -75,13 +14,12 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [
     {
       "sectxt": true,
@@ -92,15 +30,14 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Anderson, Mark Ronald",
       "instructors": [
         "Anderson, Mark Ronald"
       ]
     }
   ],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "6721ec3568dcd8f8a49712a671b801dfee4ddaabbc63506c0e935ab456b7dffd": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -109,16 +46,15 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Anderson, Mark Ronald",
         "instructors": [
           "Anderson, Mark Ronald"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "824ea782fe4efeb521d7af6da8f5918f0ffaccb333ea55915a1698e48a6f7b89": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -127,14 +63,13 @@
         "time": "5:00p-5:50p",
         "building": "CSB",
         "room": "002",
-        "instructor": "",
         "instructors": [],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "03db29512c920154c8251b4bab8a52a294794a0af7dbbc2424d2ef4b9cb7ee87": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -143,17 +78,15 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Anderson, Mark Ronald",
         "instructors": [
           "Anderson, Mark Ronald"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "d279da4a3d7ccd6f447b5cb8f0bddd178e11c77d67d14b93ba22188196cebe12": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -162,15 +95,15 @@
         "time": "2:00p-2:50p",
         "building": "CENTR",
         "room": "105",
-        "instructor": "Anderson, Mark Ronald",
         "instructors": [
           "Anderson, Mark Ronald"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

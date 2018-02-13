@@ -3,31 +3,12 @@
   "name": "Directing Process Studio",
   "department": "TDGR",
   "id": "219",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920390",
-      "type": "ST",
-      "section": "A00",
-      "days": "Tu",
-      "time": "2:00p-4:50p",
-      "building": "GH",
-      "room": "15",
-      "instructor": "Castro, Robert Jess",
-      "instructors": [
-        "Castro, Robert Jess"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "d4353660fa71374bdc8e6590461d17e29bf6e7f1e39d2fa59e567c0626956bc4": {
         "sectxt": true,
         "sectionID": "920390",
         "type": "ST",
@@ -36,18 +17,15 @@
         "time": "2:00p-4:50p",
         "building": "GH",
         "room": "15",
-        "instructor": "Castro, Robert Jess",
         "instructors": [
           "Castro, Robert Jess"
         ],
         "start_time": "14:00",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

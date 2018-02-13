@@ -104,7 +104,12 @@ function processPage(page, callback) {
     $('.tbrdr tr').each((i, row) => {
       if (isCourseHeader($(row))) {
         currClass = parseCourseHeader($(row));
-        classes[currClass.code] = currClass;
+
+        if (currClass.code in classes) {
+          currClass = classes[currClass.code];
+        } else {
+          classes[currClass.code] = currClass;
+        }
       } else if (currClass != null && isTimeslot($(row))) {
         const timeslot = parseTimeslot($(row));
 
@@ -144,7 +149,7 @@ function updateCourses(term) {
     lastPage = parseInt($('a:contains("Last")').attr('href').split('?')[1].substring(5), 10);
     pages = Array(lastPage).fill().map((e, i) => i + 1);
 
-    async.eachLimit(pages, 10, processPage, (err) => {
+    async.eachLimit(pages, 15, processPage, (err) => {
       if (err) {
         console.log(err);
       } else {

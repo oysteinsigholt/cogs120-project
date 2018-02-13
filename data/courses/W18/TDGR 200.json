@@ -3,30 +3,12 @@
   "name": "Dynamics",
   "department": "TDGR",
   "id": "200",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920379",
-      "type": "ST",
-      "section": "A00",
-      "days": "MWF",
-      "time": "9:00a-9:50a",
-      "building": "GH",
-      "room": "320",
-      "instructor": "Gessner, Gerhard",
-      "instructors": [
-        "Gessner, Gerhard"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "f7b027cf14fbcf9d8b1c57d227f0a02a8f732c3e881c08fd17c18e8fc0c8cbcd": {
         "sectxt": true,
         "sectionID": "920379",
         "type": "ST",
@@ -35,17 +17,15 @@
         "time": "9:00a-9:50a",
         "building": "GH",
         "room": "320",
-        "instructor": "Gessner, Gerhard",
         "instructors": [
           "Gessner, Gerhard"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "44a7b44a4a46d2d45fdb25856a70373fd53e50f7e5401056726d3dc49e203f29": {
         "sectxt": true,
         "sectionID": "920379",
         "type": "ST",
@@ -54,17 +34,15 @@
         "time": "9:00a-9:50a",
         "building": "GH",
         "room": "320",
-        "instructor": "Gessner, Gerhard",
         "instructors": [
           "Gessner, Gerhard"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "8e7d27056fbcf54972e25082307099d006607f7149191a74a5afb0fb1901da7e": {
         "sectxt": true,
         "sectionID": "920379",
         "type": "ST",
@@ -73,15 +51,15 @@
         "time": "9:00a-9:50a",
         "building": "GH",
         "room": "320",
-        "instructor": "Gessner, Gerhard",
         "instructors": [
           "Gessner, Gerhard"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

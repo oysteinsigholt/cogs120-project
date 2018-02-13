@@ -3,106 +3,9 @@
   "name": "Digital Signal Processing I",
   "department": "ECE",
   "id": "161B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925069",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "8:00a-9:20a",
-      "building": "CENTR",
-      "room": "109",
-      "instructor": "Nguyen, Truong Quang",
-      "instructors": [
-        "Nguyen, Truong Quang"
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A01",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "Nguyen, Truong Quang",
-      "instructors": [
-        "Nguyen, Truong Quang"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A50",
-      "days": "Tu",
-      "time": "7:00p-10:00p",
-      "building": "EBU1",
-      "room": "4307",
-      "instructor": "Nguyen, Truong Quang",
-      "instructors": [
-        "Nguyen, Truong Quang"
-      ],
-      "start_time": "19:00",
-      "end_time": "22:00"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A51",
-      "days": "W",
-      "time": "7:00p-10:00p",
-      "building": "EBU1",
-      "room": "4307",
-      "instructor": "Nguyen, Truong Quang",
-      "instructors": [
-        "Nguyen, Truong Quang"
-      ],
-      "start_time": "19:00",
-      "end_time": "22:00"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A52",
-      "days": "Th",
-      "time": "7:00p-10:00p",
-      "building": "EBU1",
-      "room": "4307",
-      "instructor": "Nguyen, Truong Quang",
-      "instructors": [
-        "Nguyen, Truong Quang"
-      ],
-      "start_time": "19:00",
-      "end_time": "22:00"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -111,18 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "d4550daec98bb87d40914912c59659383a4e7ca6343884862cd379dbef38545c": {
         "sectxt": true,
         "sectionID": "925069",
         "type": "LE",
@@ -131,14 +32,13 @@
         "time": "8:00a-9:20a",
         "building": "CENTR",
         "room": "109",
-        "instructor": "Nguyen, Truong Quang",
         "instructors": [
           "Nguyen, Truong Quang"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       },
-      {
+      "7173e880a3264349e862d3e773f3f18c5d4e7af2d5e5400d52aa7c747007eb42": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -147,16 +47,15 @@
         "time": "7:00p-10:00p",
         "building": "EBU1",
         "room": "4307",
-        "instructor": "Nguyen, Truong Quang",
         "instructors": [
           "Nguyen, Truong Quang"
         ],
         "start_time": "19:00",
         "end_time": "22:00"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "a311f3847e52e02b4318c846731f42fbceb917f948f72ee277d95f69868c3f9c": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -165,16 +64,15 @@
         "time": "7:00p-10:00p",
         "building": "EBU1",
         "room": "4307",
-        "instructor": "Nguyen, Truong Quang",
         "instructors": [
           "Nguyen, Truong Quang"
         ],
         "start_time": "19:00",
         "end_time": "22:00"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "bc92e0bca511d2f99071fcc56d7e13cffac658196eb66aeed3ce1d55b7b499e1": {
         "sectxt": true,
         "sectionID": "925069",
         "type": "LE",
@@ -183,14 +81,13 @@
         "time": "8:00a-9:20a",
         "building": "CENTR",
         "room": "109",
-        "instructor": "Nguyen, Truong Quang",
         "instructors": [
           "Nguyen, Truong Quang"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       },
-      {
+      "fe182f1e34f5e8964ed110b9a6e4715b3860593bd5ef0d9adf9ad6f3e480c1ff": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -199,16 +96,15 @@
         "time": "7:00p-10:00p",
         "building": "EBU1",
         "room": "4307",
-        "instructor": "Nguyen, Truong Quang",
         "instructors": [
           "Nguyen, Truong Quang"
         ],
         "start_time": "19:00",
         "end_time": "22:00"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "92bf86e99396dbba4dad7b49afeb9cd5d45bdc48064a787137662af25febb255": {
         "sectxt": true,
         "sectionID": "",
         "type": "DI",
@@ -217,15 +113,15 @@
         "time": "5:00p-5:50p",
         "building": "CSB",
         "room": "002",
-        "instructor": "Nguyen, Truong Quang",
         "instructors": [
           "Nguyen, Truong Quang"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,33 +3,12 @@
   "name": "Senr Hon Sem:Frontier/POLI II",
   "department": "POLI",
   "id": "191B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925324",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "12:00p-2:50p",
-      "building": "SSB",
-      "room": "104",
-      "instructor": "Ferree, Karen E & Saiegh, Sebastian",
-      "instructors": [
-        "Ferree, Karen E",
-        "Saiegh, Sebastian"
-      ],
-      "start_time": "12:00",
-      "end_time": "14:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "9ff80e51b7d8aebf1708e02bc734e3af934eaa71f6eebe8e97c681116da4d6c7": {
         "sectxt": true,
         "sectionID": "925324",
         "type": "SE",
@@ -38,18 +17,15 @@
         "time": "12:00p-2:50p",
         "building": "SSB",
         "room": "104",
-        "instructor": "Ferree, Karen E & Saiegh, Sebastian",
         "instructors": [
-          "Ferree, Karen E",
-          "Saiegh, Sebastian"
+          "Ferree, Karen E                    \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSaiegh, Sebastian"
         ],
         "start_time": "12:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

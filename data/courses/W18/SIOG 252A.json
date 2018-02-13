@@ -3,43 +3,9 @@
   "name": "Intro to Isotope Geochemistry",
   "department": "SIOG",
   "id": "252A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921996",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:30p",
-      "building": "VAUGN",
-      "room": "100",
-      "instructor": "Castillo, Paterno R. & Van Allen, Emily Joyce",
-      "instructors": [
-        "Castillo, Paterno R.",
-        "Van Allen, Emily Joyce"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -48,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "6f0e93b10f2283cacac33892f1fcd50a42b22ff5ff639f4e19009695d3ac2d78": {
         "sectxt": true,
         "sectionID": "921996",
         "type": "LE",
@@ -68,18 +32,15 @@
         "time": "2:00p-3:30p",
         "building": "VAUGN",
         "room": "100",
-        "instructor": "Castillo, Paterno R. & Van Allen, Emily Joyce",
         "instructors": [
-          "Castillo, Paterno R.",
-          "Van Allen, Emily Joyce"
+          "Castillo, Paterno R.               \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVan Allen, Emily Joyce"
         ],
         "start_time": "14:00",
         "end_time": "15:30"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "d286967633ab65385049493e77540af8acd8bbeed1e1b077f76d77471cc490aa": {
         "sectxt": true,
         "sectionID": "921996",
         "type": "LE",
@@ -88,17 +49,15 @@
         "time": "2:00p-3:30p",
         "building": "VAUGN",
         "room": "100",
-        "instructor": "Castillo, Paterno R. & Van Allen, Emily Joyce",
         "instructors": [
-          "Castillo, Paterno R.",
-          "Van Allen, Emily Joyce"
+          "Castillo, Paterno R.               \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVan Allen, Emily Joyce"
         ],
         "start_time": "14:00",
         "end_time": "15:30"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

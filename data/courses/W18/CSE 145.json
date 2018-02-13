@@ -3,40 +3,8 @@
   "name": "Embedded System Design Project",
   "department": "CSE",
   "id": "145",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "2:00p-3:20p",
-      "building": "EBU3B",
-      "room": "2154",
-      "instructor": "Kastner, Ryan Charles",
-      "instructors": [
-        "Kastner, Ryan Charles"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "929929",
-      "type": "LA",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Kastner, Ryan Charles",
-      "instructors": [
-        "Kastner, Ryan Charles"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -47,15 +15,14 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Kastner, Ryan Charles",
       "instructors": [
         "Kastner, Ryan Charles"
       ]
     }
   ],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "8987b7af87d847c623f8d9e86e86f1d582c28de0cd3bc163ae563b429ae225f9": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -64,17 +31,15 @@
         "time": "2:00p-3:20p",
         "building": "EBU3B",
         "room": "2154",
-        "instructor": "Kastner, Ryan Charles",
         "instructors": [
           "Kastner, Ryan Charles"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "126816888d61f914f97a4cf223b36ae2f29f5df8aa68f3942a0e9370bddbed90": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -83,17 +48,15 @@
         "time": "2:00p-3:20p",
         "building": "EBU3B",
         "room": "2154",
-        "instructor": "Kastner, Ryan Charles",
         "instructors": [
           "Kastner, Ryan Charles"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

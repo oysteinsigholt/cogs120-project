@@ -3,42 +3,23 @@
   "name": "Topics in Algebra",
   "department": "MATH",
   "id": "207A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927286",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "12:00p-12:50p",
-      "building": "APM",
-      "room": "5402",
-      "instructor": "Wallach, Nolan",
-      "instructors": [
-        "Wallach, Nolan"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +28,31 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "6ecdf8a28f5d3a65460882ff3c1e959742a835c9de1f54502c14034caaaccfb6": {
+        "sectxt": true,
+        "sectionID": "927285",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "APM",
+        "room": "7421",
+        "instructors": [
+          "Zelmanov, Efim I"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "d40cd695631ed36b7222e18808a2ddf8330bccd387a9312977ca80cb92361caf": {
         "sectxt": true,
         "sectionID": "927286",
         "type": "LE",
@@ -66,17 +61,30 @@
         "time": "12:00p-12:50p",
         "building": "APM",
         "room": "5402",
-        "instructor": "Wallach, Nolan",
         "instructors": [
           "Wallach, Nolan"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "7ffd1306fc16f66c73db2d141d05d28b012dd7c8bea3b10923826b507d05df05": {
+        "sectxt": true,
+        "sectionID": "927285",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "APM",
+        "room": "7421",
+        "instructors": [
+          "Zelmanov, Efim I"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "8599647f71dea9d01bc10fd86fd46f1d8aaefd3b6d1628fcde4918e62958fced": {
         "sectxt": true,
         "sectionID": "927286",
         "type": "LE",
@@ -85,17 +93,30 @@
         "time": "12:00p-12:50p",
         "building": "APM",
         "room": "5402",
-        "instructor": "Wallach, Nolan",
         "instructors": [
           "Wallach, Nolan"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "de9dcd9b67057d23cc3b0f47900df5d42e09dfe70d77753216d7a65587658cf9": {
+        "sectxt": true,
+        "sectionID": "927285",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "APM",
+        "room": "7421",
+        "instructors": [
+          "Zelmanov, Efim I"
+        ],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "4905476e6ce876ed0d2c42c1d880c01038f866eead7ba711e2aa1ed5dd7be9c9": {
         "sectxt": true,
         "sectionID": "927286",
         "type": "LE",
@@ -104,15 +125,16 @@
         "time": "12:00p-12:50p",
         "building": "APM",
         "room": "5402",
-        "instructor": "Wallach, Nolan",
         "instructors": [
           "Wallach, Nolan"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

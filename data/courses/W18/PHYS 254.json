@@ -3,30 +3,12 @@
   "name": "Biophysics Seminar",
   "department": "PHYS",
   "id": "254",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923820",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "NSB",
-      "room": "1205",
-      "instructor": "Hwa, Terence T.",
-      "instructors": [
-        "Hwa, Terence T."
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "4b152a6f934e06517f1848ca2ccaf8b99adecefbc1a07723da7a40c6a8a62698": {
         "sectxt": true,
         "sectionID": "923820",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "3:00p-3:50p",
         "building": "NSB",
         "room": "1205",
-        "instructor": "Hwa, Terence T.",
         "instructors": [
           "Hwa, Terence T."
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

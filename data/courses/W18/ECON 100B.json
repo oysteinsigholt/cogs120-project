@@ -3,74 +3,51 @@
   "name": "Microeconomics B",
   "department": "ECON",
   "id": "100B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "CENTR",
-      "room": "101",
-      "instructor": "Santamaria, Martin I",
-      "instructors": [
-        "Santamaria, Martin I"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924049",
-      "type": "DI",
-      "section": "B01",
-      "days": "W",
-      "time": "8:00p-8:50p",
-      "building": "SOLIS",
-      "room": "104",
-      "instructor": "Santamaria, Martin I",
-      "instructors": [
-        "Santamaria, Martin I"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924050",
-      "type": "DI",
-      "section": "B02",
-      "days": "W",
-      "time": "9:00p-9:50p",
-      "building": "SOLIS",
-      "room": "104",
-      "instructor": "Santamaria, Martin I",
-      "instructors": [
-        "Santamaria, Martin I"
-      ],
-      "start_time": "21:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "57762595a27b2f7fab1bd56da8143edbcb87eee21798a61dfdc584f5d07e415d": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/01/2018",
+      "days": "Th",
+      "time": "8:00p-9:20p",
+      "building": "SOLIS",
+      "room": "104",
+      "instructors": [],
+      "date": "2018-02-01T08:00:00.000Z",
+      "start_time": "20:00",
+      "end_time": "21:20"
+    },
+    "090fbff504b29d947851cdaa77e54f3458db0b1d5b9e66eca855afdf52daa6ed": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "RE",
+      "section": "02/27/2018",
+      "days": "Tu",
+      "time": "8:00p-9:20p",
+      "building": "SOLIS",
+      "room": "104",
+      "instructors": [],
+      "date": "2018-02-27T08:00:00.000Z",
+      "start_time": "20:00",
+      "end_time": "21:20"
+    },
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -79,17 +56,31 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "0bc129e6e61dc97d6817c5924c61d5d7c996b7c7ee1c4510193b45b64c905c72": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "216",
+        "instructors": [
+          "Sinitsyn, Maxim"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "24017a74fa28bf66c3fdd65208e571f30776f867bbb0b596dad54c87a0661a66": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -98,17 +89,62 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "101",
-        "instructor": "Santamaria, Martin I",
         "instructors": [
           "Santamaria, Martin I"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "Tu": {
+      "01ebb9b1b13558428028ff980323c3e3696297ef920c33963cc568656aea0168": {
+        "sectxt": true,
+        "sectionID": "924046",
+        "type": "DI",
+        "section": "A01",
+        "days": "Tu",
+        "time": "7:00p-7:50p",
+        "building": "MANDE",
+        "room": "B-150",
+        "instructors": [
+          "Sinitsyn, Maxim"
+        ],
+        "start_time": "19:00",
+        "end_time": "19:50"
+      },
+      "e432cfa3eb642c5e17a6329826949a8bda493b636892078b9d02ce809f45deba": {
+        "sectxt": true,
+        "sectionID": "924047",
+        "type": "DI",
+        "section": "A02",
+        "days": "Tu",
+        "time": "8:00p-8:50p",
+        "building": "MANDE",
+        "room": "B-150",
+        "instructors": [
+          "Sinitsyn, Maxim"
+        ],
+        "start_time": "20:00",
+        "end_time": "20:50"
+      }
+    },
+    "W": {
+      "a24b1c34899aaa03f2ed258c49f7b8e31d66672638d55b3d5fd4e75b41ce8aa5": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "216",
+        "instructors": [
+          "Sinitsyn, Maxim"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "0abf89a3ce8bbb5f2405aeea3b841a1f2d3aadc82089b086ba3365cbfcb4a155": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -117,14 +153,13 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "101",
-        "instructor": "Santamaria, Martin I",
         "instructors": [
           "Santamaria, Martin I"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       },
-      {
+      "43c5f2a5a380f3586c31c46b760fd3c9e7233d41a2e3928c3c23fb2507292358": {
         "sectxt": true,
         "sectionID": "924049",
         "type": "DI",
@@ -133,14 +168,13 @@
         "time": "8:00p-8:50p",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "Santamaria, Martin I",
         "instructors": [
           "Santamaria, Martin I"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       },
-      {
+      "6a2bca13833caf87819d392bd5fe26762eace575042e28abfb8d537b9290126b": {
         "sectxt": true,
         "sectionID": "924050",
         "type": "DI",
@@ -149,17 +183,30 @@
         "time": "9:00p-9:50p",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "Santamaria, Martin I",
         "instructors": [
           "Santamaria, Martin I"
         ],
         "start_time": "21:00",
         "end_time": "21:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "5be3008a2a51c9e55489e9fa2e0a4a9f5529a85da3cde8b17730cb0e71d532aa": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "CENTR",
+        "room": "216",
+        "instructors": [
+          "Sinitsyn, Maxim"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "3b5c80694b986838946e3eba24860ef3dbb5b66426b0265a538784f52fcec108": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -168,15 +215,16 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "101",
-        "instructor": "Santamaria, Martin I",
         "instructors": [
           "Santamaria, Martin I"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

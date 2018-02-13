@@ -3,30 +3,12 @@
   "name": "Physical Chemistry Laboratory",
   "department": "CHEM",
   "id": "105B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926528",
-      "type": "LA",
-      "section": "A00",
-      "days": "MW",
-      "time": "1:00p-3:50p",
-      "building": "YORK",
-      "room": "1322",
-      "instructor": "Crowell, John E",
-      "instructors": [
-        "Crowell, John E"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "330a5d5d0b5ab6ec913f1c60a111f49f82a1d11d775f06c3fb61739f3735d58b": {
         "sectxt": true,
         "sectionID": "926528",
         "type": "LA",
@@ -35,17 +17,15 @@
         "time": "1:00p-3:50p",
         "building": "YORK",
         "room": "1322",
-        "instructor": "Crowell, John E",
         "instructors": [
           "Crowell, John E"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "47de5755a41954a613ee51ec7f4e5701f172a211756065386a011445c57f0a4a": {
         "sectxt": true,
         "sectionID": "926528",
         "type": "LA",
@@ -54,17 +34,15 @@
         "time": "1:00p-3:50p",
         "building": "YORK",
         "room": "1322",
-        "instructor": "Crowell, John E",
         "instructors": [
           "Crowell, John E"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

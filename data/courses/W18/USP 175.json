@@ -3,34 +3,30 @@
   "name": "Site Anal.-Opptys&Constraints",
   "department": "USP",
   "id": "175",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922175",
-      "type": "SE",
-      "section": "A00",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    "Tu": {
+      "b1c8e031a9cb5ffb705f8240d0defed2603452acfcd8c571e22bcab6614bddcd": {
+        "sectxt": true,
+        "sectionID": "935942",
+        "type": "SE",
+        "section": "B00",
+        "days": "Tu",
+        "time": "9:30a-12:20p",
+        "building": "SSB",
+        "room": "102",
+        "instructors": [
+          "Peerson, Susan"
+        ],
+        "start_time": "9:30",
+        "end_time": "12:20"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

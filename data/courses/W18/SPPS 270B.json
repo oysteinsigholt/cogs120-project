@@ -3,38 +3,8 @@
   "name": "Beginning Spanish/Pharmacy II",
   "department": "SPPS",
   "id": "270B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "919960",
-      "type": "LE",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Garcia-Sarzosa, Jorge",
-      "instructors": [
-        "Garcia-Sarzosa, Jorge"
-      ]
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Garcia-Sarzosa, Jorge",
-      "instructors": [
-        "Garcia-Sarzosa, Jorge"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -45,7 +15,6 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Garcia-Sarzosa, Jorge",
       "instructors": [
         "Garcia-Sarzosa, Jorge"
       ]
@@ -59,19 +28,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Garcia-Sarzosa, Jorge",
       "instructors": [
         "Garcia-Sarzosa, Jorge"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

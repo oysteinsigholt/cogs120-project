@@ -3,122 +3,9 @@
   "name": "Organic Chemistry Lab II",
   "department": "CHEM",
   "id": "143B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "6:30p-7:50p",
-      "building": "YORK",
-      "room": "2622",
-      "instructor": "Ternansky, Robert J.",
-      "instructors": [
-        "Ternansky, Robert J."
-      ],
-      "start_time": "18:30",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926570",
-      "type": "LA",
-      "section": "A01",
-      "days": "MW",
-      "time": "9:00a-11:50a",
-      "building": "NSB",
-      "room": "1311",
-      "instructor": "Ternansky, Robert J.",
-      "instructors": [
-        "Ternansky, Robert J."
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926571",
-      "type": "LA",
-      "section": "A02",
-      "days": "MW",
-      "time": "10:00a-12:50p",
-      "building": "NSB",
-      "room": "1319",
-      "instructor": "Ternansky, Robert J.",
-      "instructors": [
-        "Ternansky, Robert J."
-      ],
-      "start_time": "10:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926572",
-      "type": "LA",
-      "section": "A03",
-      "days": "MW",
-      "time": "12:10p-3:00p",
-      "building": "NSB",
-      "room": "1311",
-      "instructor": "Ternansky, Robert J.",
-      "instructors": [
-        "Ternansky, Robert J."
-      ],
-      "start_time": "12:10",
-      "end_time": "15:00"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926573",
-      "type": "LA",
-      "section": "A04",
-      "days": "TuTh",
-      "time": "9:00a-11:50a",
-      "building": "NSB",
-      "room": "1319",
-      "instructor": "Ternansky, Robert J.",
-      "instructors": [
-        "Ternansky, Robert J."
-      ],
-      "start_time": "9:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926574",
-      "type": "LA",
-      "section": "A05",
-      "days": "TuTh",
-      "time": "10:00a-12:50p",
-      "building": "NSB",
-      "room": "1311",
-      "instructor": "Ternansky, Robert J.",
-      "instructors": [
-        "Ternansky, Robert J."
-      ],
-      "start_time": "10:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "83f667703ee5f41443699d3c685d2af7204f58e7d0026726650a8f5259ecf403": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -127,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "38718f095e6fee5760c28aa56f5d0f9f4528168b4560102ab7f0dd041af81644": {
         "sectxt": true,
         "sectionID": "926570",
         "type": "LA",
@@ -146,14 +32,13 @@
         "time": "9:00a-11:50a",
         "building": "NSB",
         "room": "1311",
-        "instructor": "Ternansky, Robert J.",
         "instructors": [
           "Ternansky, Robert J."
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       },
-      {
+      "3ebbcb74bb6df7a309740037f57922967abda104a5434351f76781ee72386115": {
         "sectxt": true,
         "sectionID": "926571",
         "type": "LA",
@@ -162,14 +47,13 @@
         "time": "10:00a-12:50p",
         "building": "NSB",
         "room": "1319",
-        "instructor": "Ternansky, Robert J.",
         "instructors": [
           "Ternansky, Robert J."
         ],
         "start_time": "10:00",
         "end_time": "12:50"
       },
-      {
+      "a67cfc01d59724a8443d697b5a13b4e5dee4be72e8e2ed3e4ed991a3034c40da": {
         "sectxt": true,
         "sectionID": "926572",
         "type": "LA",
@@ -178,16 +62,15 @@
         "time": "12:10p-3:00p",
         "building": "NSB",
         "room": "1311",
-        "instructor": "Ternansky, Robert J.",
         "instructors": [
           "Ternansky, Robert J."
         ],
         "start_time": "12:10",
         "end_time": "15:00"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "7fb78df708bc10ae7cbed8c31256c6ff03db90d39a0bcfe7e71ecc8e7cc1a647": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -196,14 +79,13 @@
         "time": "6:30p-7:50p",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Ternansky, Robert J.",
         "instructors": [
           "Ternansky, Robert J."
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       },
-      {
+      "fedaed1108cd534ba8a2cde7622dc9d34e76c21042aaf6bb4077d547d8f59ca1": {
         "sectxt": true,
         "sectionID": "926573",
         "type": "LA",
@@ -212,14 +94,13 @@
         "time": "9:00a-11:50a",
         "building": "NSB",
         "room": "1319",
-        "instructor": "Ternansky, Robert J.",
         "instructors": [
           "Ternansky, Robert J."
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       },
-      {
+      "2c1f74b4c2247488dd85ff57ac71a03254a78035586720ec065db314d4bed70d": {
         "sectxt": true,
         "sectionID": "926574",
         "type": "LA",
@@ -228,16 +109,15 @@
         "time": "10:00a-12:50p",
         "building": "NSB",
         "room": "1311",
-        "instructor": "Ternansky, Robert J.",
         "instructors": [
           "Ternansky, Robert J."
         ],
         "start_time": "10:00",
         "end_time": "12:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "d6fd1352a35899ffdbb3ee2b4cc353e580eff5ff38ebb9adbd6a7d729f51ff3f": {
         "sectxt": true,
         "sectionID": "926570",
         "type": "LA",
@@ -246,14 +126,13 @@
         "time": "9:00a-11:50a",
         "building": "NSB",
         "room": "1311",
-        "instructor": "Ternansky, Robert J.",
         "instructors": [
           "Ternansky, Robert J."
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       },
-      {
+      "e14498194d56d254439536551a335d81e1680ba29dc4ce221271839509d1d9c6": {
         "sectxt": true,
         "sectionID": "926571",
         "type": "LA",
@@ -262,14 +141,13 @@
         "time": "10:00a-12:50p",
         "building": "NSB",
         "room": "1319",
-        "instructor": "Ternansky, Robert J.",
         "instructors": [
           "Ternansky, Robert J."
         ],
         "start_time": "10:00",
         "end_time": "12:50"
       },
-      {
+      "9eec4b9099e43dcf2be33ffc980d750ff613565d35fff6516c69237ed7274a8c": {
         "sectxt": true,
         "sectionID": "926572",
         "type": "LA",
@@ -278,16 +156,15 @@
         "time": "12:10p-3:00p",
         "building": "NSB",
         "room": "1311",
-        "instructor": "Ternansky, Robert J.",
         "instructors": [
           "Ternansky, Robert J."
         ],
         "start_time": "12:10",
         "end_time": "15:00"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f12164f83e9ec19b35c2ae2e257ad595319959ecbd32e61750cdd0475d11af05": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -296,14 +173,13 @@
         "time": "6:30p-7:50p",
         "building": "YORK",
         "room": "2622",
-        "instructor": "Ternansky, Robert J.",
         "instructors": [
           "Ternansky, Robert J."
         ],
         "start_time": "18:30",
         "end_time": "19:50"
       },
-      {
+      "47557dfb2406d31a284dc0f9d6da1232e3eff644718b77d9da4f9e71ed6fa4d4": {
         "sectxt": true,
         "sectionID": "926573",
         "type": "LA",
@@ -312,14 +188,13 @@
         "time": "9:00a-11:50a",
         "building": "NSB",
         "room": "1319",
-        "instructor": "Ternansky, Robert J.",
         "instructors": [
           "Ternansky, Robert J."
         ],
         "start_time": "9:00",
         "end_time": "11:50"
       },
-      {
+      "8a94339a62894e50823c8e7081e7f64f18ee1689ab49de30fbc4e385ea5fd4de": {
         "sectxt": true,
         "sectionID": "926574",
         "type": "LA",
@@ -328,16 +203,15 @@
         "time": "10:00a-12:50p",
         "building": "NSB",
         "room": "1311",
-        "instructor": "Ternansky, Robert J.",
         "instructors": [
           "Ternansky, Robert J."
         ],
         "start_time": "10:00",
         "end_time": "12:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

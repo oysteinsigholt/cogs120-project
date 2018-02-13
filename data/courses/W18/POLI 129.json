@@ -3,42 +3,9 @@
   "name": "How to Steal an Election",
   "department": "POLI",
   "id": "129",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925311",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "PCYNH",
-      "room": "120",
-      "instructor": "Gibson, Clark C",
-      "instructors": [
-        "Gibson, Clark C"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "398c421a116cdb3da50c2d85f549b7b6b73e831241705e677a7e1ce746c1c6fa": {
         "sectxt": true,
         "sectionID": "925311",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "2:00p-3:20p",
         "building": "PCYNH",
         "room": "120",
-        "instructor": "Gibson, Clark C",
         "instructors": [
           "Gibson, Clark C"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "485214a7b008011554ea5d3a63f8b356a39bad1d4ba40aa1e6ac2b571c9225c0": {
         "sectxt": true,
         "sectionID": "925311",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "2:00p-3:20p",
         "building": "PCYNH",
         "room": "120",
-        "instructor": "Gibson, Clark C",
         "instructors": [
           "Gibson, Clark C"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

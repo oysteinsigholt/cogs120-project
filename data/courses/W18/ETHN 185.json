@@ -3,42 +3,9 @@
   "name": "Discourse, Power & Inequality",
   "department": "ETHN",
   "id": "185",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922638",
-      "type": "SE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "2:00p-2:50p",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "Hidalgo, Melissa Martha",
-      "instructors": [
-        "Hidalgo, Melissa Martha"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "314133a5e0fb2de9fa40ba106a1cfb04933b86c623c124649c5452a53f120776": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "07fff6f04aaf847411625b5fb08a15404173b5c50405c71007c6d7c328f81a5c": {
         "sectxt": true,
         "sectionID": "922638",
         "type": "SE",
@@ -66,17 +32,15 @@
         "time": "2:00p-2:50p",
         "building": "WLH",
         "room": "2114",
-        "instructor": "Hidalgo, Melissa Martha",
         "instructors": [
           "Hidalgo, Melissa Martha"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "67f20754fbc54daf744ffc0543f07e901fdaa25b42bb842e46b2f5d3a2613a51": {
         "sectxt": true,
         "sectionID": "922638",
         "type": "SE",
@@ -85,17 +49,15 @@
         "time": "2:00p-2:50p",
         "building": "WLH",
         "room": "2114",
-        "instructor": "Hidalgo, Melissa Martha",
         "instructors": [
           "Hidalgo, Melissa Martha"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "cebd11befdf5a3d2c41a0f659a56ef3f21bed3faa7b6e04acbfffcba49ea183c": {
         "sectxt": true,
         "sectionID": "922638",
         "type": "SE",
@@ -104,15 +66,15 @@
         "time": "2:00p-2:50p",
         "building": "WLH",
         "room": "2114",
-        "instructor": "Hidalgo, Melissa Martha",
         "instructors": [
           "Hidalgo, Melissa Martha"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

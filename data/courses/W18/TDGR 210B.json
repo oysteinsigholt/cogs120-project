@@ -3,44 +3,12 @@
   "name": "Process I-Part II",
   "department": "TDGR",
   "id": "210B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920386",
-      "type": "ST",
-      "section": "A00",
-      "days": "MW",
-      "time": "1:00p-3:50p",
-      "building": "GH",
-      "room": "155",
-      "instructor": "Robichaux, Richard Michael",
-      "instructors": [
-        "Robichaux, Richard Michael"
-      ],
-      "start_time": "13:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "ST",
-      "section": "A00",
-      "days": "F",
-      "time": "10:00a-11:50a",
-      "building": "GH",
-      "room": "155",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "10:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "5e7d5e013e115879e4fba382f4a3a4bc6411eca9889940c19176e5bcd0e22667": {
         "sectxt": true,
         "sectionID": "920386",
         "type": "ST",
@@ -49,17 +17,15 @@
         "time": "1:00p-3:50p",
         "building": "GH",
         "room": "155",
-        "instructor": "Robichaux, Richard Michael",
         "instructors": [
           "Robichaux, Richard Michael"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "ef7233725881f49aaade2de4e16b25732383a43242e481d3afeab85f06107fa4": {
         "sectxt": true,
         "sectionID": "920386",
         "type": "ST",
@@ -68,17 +34,15 @@
         "time": "1:00p-3:50p",
         "building": "GH",
         "room": "155",
-        "instructor": "Robichaux, Richard Michael",
         "instructors": [
           "Robichaux, Richard Michael"
         ],
         "start_time": "13:00",
         "end_time": "15:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "df3d50c63362fa789ad7cc94f21bd77c9c121543e9b0a0566b5a498f33ac1a6c": {
         "sectxt": false,
         "sectionID": "",
         "type": "ST",
@@ -87,13 +51,13 @@
         "time": "10:00a-11:50a",
         "building": "GH",
         "room": "155",
-        "instructor": "",
         "instructors": [],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

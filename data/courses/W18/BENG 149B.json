@@ -3,50 +3,12 @@
   "name": "Design Implmntn Vascular BENG",
   "department": "BENG",
   "id": "149B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923322",
-      "type": "LE",
-      "section": "A00",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "PFBH",
-      "room": "226",
-      "instructor": "Wheeler, Bruce Christopher",
-      "instructors": [
-        "Wheeler, Bruce Christopher"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LA",
-      "section": "A01",
-      "days": "F",
-      "time": "3:00p-6:50p",
-      "building": "PFBH",
-      "room": "108",
-      "instructor": "Wheeler, Bruce Christopher",
-      "instructors": [
-        "Wheeler, Bruce Christopher"
-      ],
-      "start_time": "15:00",
-      "end_time": "18:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "9e7c4ba660f7d804d737eeb99ac69ecacdb667fc0e76d4bf6b73df35d1099484": {
         "sectxt": true,
         "sectionID": "923322",
         "type": "LE",
@@ -55,14 +17,13 @@
         "time": "2:00p-2:50p",
         "building": "PFBH",
         "room": "226",
-        "instructor": "Wheeler, Bruce Christopher",
         "instructors": [
           "Wheeler, Bruce Christopher"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "21b3c4a7ae8e1b2edb4ce31a74c04a0c3a099c69a586ccd5bba6dd49c2210112": {
         "sectxt": true,
         "sectionID": "",
         "type": "LA",
@@ -71,15 +32,15 @@
         "time": "3:00p-6:50p",
         "building": "PFBH",
         "room": "108",
-        "instructor": "Wheeler, Bruce Christopher",
         "instructors": [
           "Wheeler, Bruce Christopher"
         ],
         "start_time": "15:00",
         "end_time": "18:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

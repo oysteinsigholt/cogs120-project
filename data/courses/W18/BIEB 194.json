@@ -3,32 +3,12 @@
   "name": "Adv Topics-EBE",
   "department": "BIEB",
   "id": "194",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925952",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "10:00a-11:20a",
-      "building": "YORK",
-      "room": "3010",
-      "instructor": "Roy, Kaustuv",
-      "instructors": [
-        "Roy, Kaustuv"
-      ],
-      "start_time": "10:00",
-      "end_time": "11:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "2e3e411200cf15c85155a4901c615c9cfd2296ee407fd9a938847caf2a08ea63": {
         "sectxt": true,
         "sectionID": "925952",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "10:00a-11:20a",
         "building": "YORK",
         "room": "3010",
-        "instructor": "Roy, Kaustuv",
         "instructors": [
           "Roy, Kaustuv"
         ],
         "start_time": "10:00",
         "end_time": "11:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

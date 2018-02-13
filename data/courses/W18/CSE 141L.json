@@ -3,58 +3,9 @@
   "name": "Project/Computer Architecture",
   "department": "CSE",
   "id": "141L",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "M",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2005",
-      "instructor": "Eldon, John",
-      "instructors": [
-        "Eldon, John"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927526",
-      "type": "LA",
-      "section": "A01",
-      "days": "M",
-      "time": "4:00p-4:50p",
-      "building": "WLH",
-      "room": "2005",
-      "instructor": "Eldon, John",
-      "instructors": [
-        "Eldon, John"
-      ],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "b1543bdcd66474bdee9e94a3fd81586eb590e027cfa3a6fba3c3c71c2e36dda2": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -63,17 +14,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "d095058a3c5ca6878be2e5af45056c73925fc6945e80151eaa049f5fb0198342": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -82,14 +32,13 @@
         "time": "3:00p-3:50p",
         "building": "WLH",
         "room": "2005",
-        "instructor": "Eldon, John",
         "instructors": [
           "Eldon, John"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "19d2fd041e8b466401cea185e889410bac2c9c0a3459d8d291ee0759d68e048d": {
         "sectxt": true,
         "sectionID": "927526",
         "type": "LA",
@@ -98,19 +47,15 @@
         "time": "4:00p-4:50p",
         "building": "WLH",
         "room": "2005",
-        "instructor": "Eldon, John",
         "instructors": [
           "Eldon, John"
         ],
         "start_time": "16:00",
         "end_time": "16:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,142 +3,12 @@
   "name": "Intro/Digital Photography",
   "department": "VIS",
   "id": "60",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "8:00a-9:20a",
-      "building": "LEDDN",
-      "room": "AUD",
-      "instructor": "Gomez Mostajo, Maria Loren",
-      "instructors": [
-        "Gomez Mostajo, Maria Loren"
-      ],
-      "start_time": "8:00",
-      "end_time": "9:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922756",
-      "type": "LA",
-      "section": "A01",
-      "days": "MW",
-      "time": "8:00a-9:50a",
-      "building": "MANDE",
-      "room": "B-206",
-      "instructor": "Gomez Mostajo, Maria Loren",
-      "instructors": [
-        "Gomez Mostajo, Maria Loren"
-      ],
-      "start_time": "8:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922757",
-      "type": "LA",
-      "section": "A02",
-      "days": "MW",
-      "time": "10:00a-11:50a",
-      "building": "MANDE",
-      "room": "B-206",
-      "instructor": "Gomez Mostajo, Maria Loren",
-      "instructors": [
-        "Gomez Mostajo, Maria Loren"
-      ],
-      "start_time": "10:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922758",
-      "type": "LA",
-      "section": "A03",
-      "days": "MW",
-      "time": "12:00p-1:50p",
-      "building": "MANDE",
-      "room": "B-206",
-      "instructor": "Gomez Mostajo, Maria Loren",
-      "instructors": [
-        "Gomez Mostajo, Maria Loren"
-      ],
-      "start_time": "12:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922759",
-      "type": "LA",
-      "section": "A04",
-      "days": "MW",
-      "time": "2:00p-3:50p",
-      "building": "MANDE",
-      "room": "B-206",
-      "instructor": "Gomez Mostajo, Maria Loren",
-      "instructors": [
-        "Gomez Mostajo, Maria Loren"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922760",
-      "type": "LA",
-      "section": "A05",
-      "days": "MW",
-      "time": "4:00p-5:50p",
-      "building": "MANDE",
-      "room": "B-206",
-      "instructor": "Gomez Mostajo, Maria Loren",
-      "instructors": [
-        "Gomez Mostajo, Maria Loren"
-      ],
-      "start_time": "16:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922761",
-      "type": "LA",
-      "section": "A06",
-      "days": "TuTh",
-      "time": "12:30p-2:20p",
-      "building": "MANDE",
-      "room": "B-206",
-      "instructor": "Gomez Mostajo, Maria Loren",
-      "instructors": [
-        "Gomez Mostajo, Maria Loren"
-      ],
-      "start_time": "12:30",
-      "end_time": "14:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922762",
-      "type": "LA",
-      "section": "A07",
-      "days": "TuTh",
-      "time": "2:30p-4:20p",
-      "building": "MANDE",
-      "room": "B-206",
-      "instructor": "Gomez Mostajo, Maria Loren",
-      "instructors": [
-        "Gomez Mostajo, Maria Loren"
-      ],
-      "start_time": "14:30",
-      "end_time": "16:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "581d7846a7f8661f66365c1a8a09a6ce3c03d8fe205a2348c0403affe00d2806": {
         "sectxt": true,
         "sectionID": "922756",
         "type": "LA",
@@ -147,14 +17,13 @@
         "time": "8:00a-9:50a",
         "building": "MANDE",
         "room": "B-206",
-        "instructor": "Gomez Mostajo, Maria Loren",
         "instructors": [
           "Gomez Mostajo, Maria Loren"
         ],
         "start_time": "8:00",
         "end_time": "9:50"
       },
-      {
+      "aa5012037c4c6fe42b25cfe3d947a8a78a47d41a7068629e111b9c1c5c834530": {
         "sectxt": true,
         "sectionID": "922757",
         "type": "LA",
@@ -163,14 +32,13 @@
         "time": "10:00a-11:50a",
         "building": "MANDE",
         "room": "B-206",
-        "instructor": "Gomez Mostajo, Maria Loren",
         "instructors": [
           "Gomez Mostajo, Maria Loren"
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       },
-      {
+      "bc7ed3f3de2ae5de1932398f6bb4553d15fddc6b6f4efd9ed6f59aea48a93091": {
         "sectxt": true,
         "sectionID": "922758",
         "type": "LA",
@@ -179,14 +47,13 @@
         "time": "12:00p-1:50p",
         "building": "MANDE",
         "room": "B-206",
-        "instructor": "Gomez Mostajo, Maria Loren",
         "instructors": [
           "Gomez Mostajo, Maria Loren"
         ],
         "start_time": "12:00",
         "end_time": "13:50"
       },
-      {
+      "c06007139937cae7e91f85df0090fb03ab8a6852458f5adbb1b628c8bef839bf": {
         "sectxt": true,
         "sectionID": "922759",
         "type": "LA",
@@ -195,14 +62,13 @@
         "time": "2:00p-3:50p",
         "building": "MANDE",
         "room": "B-206",
-        "instructor": "Gomez Mostajo, Maria Loren",
         "instructors": [
           "Gomez Mostajo, Maria Loren"
         ],
         "start_time": "14:00",
         "end_time": "15:50"
       },
-      {
+      "4c99aca6386c08d0b9cf991531dc2b001fb69eff74a7a0ccd8fa7e750909c874": {
         "sectxt": true,
         "sectionID": "922760",
         "type": "LA",
@@ -211,16 +77,15 @@
         "time": "4:00p-5:50p",
         "building": "MANDE",
         "room": "B-206",
-        "instructor": "Gomez Mostajo, Maria Loren",
         "instructors": [
           "Gomez Mostajo, Maria Loren"
         ],
         "start_time": "16:00",
         "end_time": "17:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "e465ded450a51855ecac87097b7a25f20ad1b32d4d66efd5a69c690a29911893": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -229,14 +94,13 @@
         "time": "8:00a-9:20a",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Gomez Mostajo, Maria Loren",
         "instructors": [
           "Gomez Mostajo, Maria Loren"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       },
-      {
+      "4888ff40b8fcc83326e3101bfd4d82c6ce66922d125d9997a98bcbfa18e3c5fc": {
         "sectxt": true,
         "sectionID": "922761",
         "type": "LA",
@@ -245,14 +109,13 @@
         "time": "12:30p-2:20p",
         "building": "MANDE",
         "room": "B-206",
-        "instructor": "Gomez Mostajo, Maria Loren",
         "instructors": [
           "Gomez Mostajo, Maria Loren"
         ],
         "start_time": "12:30",
         "end_time": "14:20"
       },
-      {
+      "32db55c002e190c6d92b0d4240e12db08056bf8226b671b46a50974e5c7924b4": {
         "sectxt": true,
         "sectionID": "922762",
         "type": "LA",
@@ -261,16 +124,15 @@
         "time": "2:30p-4:20p",
         "building": "MANDE",
         "room": "B-206",
-        "instructor": "Gomez Mostajo, Maria Loren",
         "instructors": [
           "Gomez Mostajo, Maria Loren"
         ],
         "start_time": "14:30",
         "end_time": "16:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "597866afc2d9e6657138a434ee543dbf5580072e33bbedcde8e2734bf773d30b": {
         "sectxt": true,
         "sectionID": "922756",
         "type": "LA",
@@ -279,14 +141,13 @@
         "time": "8:00a-9:50a",
         "building": "MANDE",
         "room": "B-206",
-        "instructor": "Gomez Mostajo, Maria Loren",
         "instructors": [
           "Gomez Mostajo, Maria Loren"
         ],
         "start_time": "8:00",
         "end_time": "9:50"
       },
-      {
+      "18a013d999798b4cc7e0b7a4ecdea5165eecf64898e5f77ef565a08729db1f7d": {
         "sectxt": true,
         "sectionID": "922757",
         "type": "LA",
@@ -295,14 +156,13 @@
         "time": "10:00a-11:50a",
         "building": "MANDE",
         "room": "B-206",
-        "instructor": "Gomez Mostajo, Maria Loren",
         "instructors": [
           "Gomez Mostajo, Maria Loren"
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       },
-      {
+      "d495e2b80bff500becef2e36c59893153dccc552035e2cf351b7185318a8edde": {
         "sectxt": true,
         "sectionID": "922758",
         "type": "LA",
@@ -311,14 +171,13 @@
         "time": "12:00p-1:50p",
         "building": "MANDE",
         "room": "B-206",
-        "instructor": "Gomez Mostajo, Maria Loren",
         "instructors": [
           "Gomez Mostajo, Maria Loren"
         ],
         "start_time": "12:00",
         "end_time": "13:50"
       },
-      {
+      "575e3e6d3d0d432bb16ebe8d84d73f778191204e8b583c95bad87804b0f0f4a7": {
         "sectxt": true,
         "sectionID": "922759",
         "type": "LA",
@@ -327,14 +186,13 @@
         "time": "2:00p-3:50p",
         "building": "MANDE",
         "room": "B-206",
-        "instructor": "Gomez Mostajo, Maria Loren",
         "instructors": [
           "Gomez Mostajo, Maria Loren"
         ],
         "start_time": "14:00",
         "end_time": "15:50"
       },
-      {
+      "e5503e01a9bf076876cb51175db22dd19ea9ce58b9eb2fd067f737ac7853ec52": {
         "sectxt": true,
         "sectionID": "922760",
         "type": "LA",
@@ -343,16 +201,15 @@
         "time": "4:00p-5:50p",
         "building": "MANDE",
         "room": "B-206",
-        "instructor": "Gomez Mostajo, Maria Loren",
         "instructors": [
           "Gomez Mostajo, Maria Loren"
         ],
         "start_time": "16:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8545ab0c79c23ec92792f48a8a4e9c983955e31d9ddad421339a098929d3ab17": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -361,14 +218,13 @@
         "time": "8:00a-9:20a",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Gomez Mostajo, Maria Loren",
         "instructors": [
           "Gomez Mostajo, Maria Loren"
         ],
         "start_time": "8:00",
         "end_time": "9:20"
       },
-      {
+      "ec0cf9500f1fdd4c6f4d846446364d1a8b24cc42bd58426d1d999a8b092bcad3": {
         "sectxt": true,
         "sectionID": "922761",
         "type": "LA",
@@ -377,14 +233,13 @@
         "time": "12:30p-2:20p",
         "building": "MANDE",
         "room": "B-206",
-        "instructor": "Gomez Mostajo, Maria Loren",
         "instructors": [
           "Gomez Mostajo, Maria Loren"
         ],
         "start_time": "12:30",
         "end_time": "14:20"
       },
-      {
+      "34a31da165d4a5c0cbe9a06c2314fc867ba7f3fee29c4dfdef35d687b4a403d7": {
         "sectxt": true,
         "sectionID": "922762",
         "type": "LA",
@@ -393,16 +248,15 @@
         "time": "2:30p-4:20p",
         "building": "MANDE",
         "room": "B-206",
-        "instructor": "Gomez Mostajo, Maria Loren",
         "instructors": [
           "Gomez Mostajo, Maria Loren"
         ],
         "start_time": "14:30",
         "end_time": "16:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

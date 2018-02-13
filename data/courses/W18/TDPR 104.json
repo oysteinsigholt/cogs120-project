@@ -3,30 +3,12 @@
   "name": "Adv Practicum/Stage Management",
   "department": "TDPR",
   "id": "104",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920483",
-      "type": "LA",
-      "section": "A00",
-      "days": "MTuWThF",
-      "time": "5:30p-10:20p",
-      "building": "GH",
-      "room": "144",
-      "instructor": "Means, Charles E.",
-      "instructors": [
-        "Means, Charles E."
-      ],
-      "start_time": "17:30",
-      "end_time": "22:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "ae68972d8c223b7e53792c712801bbbb88f1423f3949bc8fd099bc037e4ab83b": {
         "sectxt": true,
         "sectionID": "920483",
         "type": "LA",
@@ -35,16 +17,15 @@
         "time": "5:30p-10:20p",
         "building": "GH",
         "room": "144",
-        "instructor": "Means, Charles E.",
         "instructors": [
           "Means, Charles E."
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "a28460dfb49256d7598506f1e4e1906aba0a2e85f2c12716e152af224f3f242c": {
         "sectxt": true,
         "sectionID": "920483",
         "type": "LA",
@@ -53,16 +34,15 @@
         "time": "5:30p-10:20p",
         "building": "GH",
         "room": "144",
-        "instructor": "Means, Charles E.",
         "instructors": [
           "Means, Charles E."
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "a01477318e5b30af2764ed7e091e1f37af2aa9fb31b61d59a18576e1dde40849": {
         "sectxt": true,
         "sectionID": "920483",
         "type": "LA",
@@ -71,16 +51,15 @@
         "time": "5:30p-10:20p",
         "building": "GH",
         "room": "144",
-        "instructor": "Means, Charles E.",
         "instructors": [
           "Means, Charles E."
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "d77e2a94f3b66bd8679703700382e52125ac932544287596f1805e545c0a9504": {
         "sectxt": true,
         "sectionID": "920483",
         "type": "LA",
@@ -89,16 +68,15 @@
         "time": "5:30p-10:20p",
         "building": "GH",
         "room": "144",
-        "instructor": "Means, Charles E.",
         "instructors": [
           "Means, Charles E."
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "df7877937488eff51994a00537e1afdf5472820b09bc0ddec6a5428b3d58daca": {
         "sectxt": true,
         "sectionID": "920483",
         "type": "LA",
@@ -107,15 +85,15 @@
         "time": "5:30p-10:20p",
         "building": "GH",
         "room": "144",
-        "instructor": "Means, Charles E.",
         "instructors": [
           "Means, Charles E."
         ],
         "start_time": "17:30",
         "end_time": "22:20"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

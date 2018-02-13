@@ -3,27 +3,89 @@
   "name": "Dissertation",
   "department": "LTEN",
   "id": "299",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "933081",
-      "type": "IN",
-      "section": "008",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Wesling, Megan E.",
-      "instructors": [
-        "Wesling, Megan E."
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "930411",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Vitkus, Daniel J."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930413",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "el Tayeb, Fatima"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930470",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Nicolazzo, Sarah E."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930473",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Sanchez, Rosaura"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "930640",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Streeby, Shelley"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "932633",
+      "type": "IN",
+      "section": "007",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Johnson, Sara E."
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "933081",
       "type": "IN",
       "section": "008",
@@ -31,19 +93,13 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Wesling, Megan E.",
       "instructors": [
         "Wesling, Megan E."
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": [
+    "0"
+  ]
 }

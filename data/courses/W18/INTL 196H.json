@@ -3,27 +3,89 @@
   "name": "Int'l Studies Honors Program",
   "department": "INTL",
   "id": "196H",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "932405",
-      "type": "IN",
-      "section": "G00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Wong, Tak Kei",
-      "instructors": [
-        "Wong, Tak Kei"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "932399",
+      "type": "IN",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Espiritu, Yen"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "932400",
+      "type": "IN",
+      "section": "B00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Meyer, Michael Wayne"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "932401",
+      "type": "IN",
+      "section": "C00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hedges, Kathleen"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "932402",
+      "type": "IN",
+      "section": "D00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Gopal, Christopher S."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "932403",
+      "type": "IN",
+      "section": "E00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Visweswaran, Kamala"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "932404",
+      "type": "IN",
+      "section": "F00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Fisk, David Lee"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "932405",
       "type": "IN",
       "section": "G00",
@@ -31,19 +93,24 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Wong, Tak Kei",
       "instructors": [
         "Wong, Tak Kei"
       ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "936500",
+      "type": "IN",
+      "section": "H00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Kheshti, Roshanak"
+      ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

@@ -3,49 +3,44 @@
   "name": "QBIO Laboratory Projects",
   "department": "PHYS",
   "id": "270B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Collins, Eva-Maria Schoetz",
-      "instructors": [
-        "Collins, Eva-Maria Schoetz"
-      ]
-    },
-    {
-      "sectxt": true,
-      "sectionID": "923828",
-      "type": "LA",
-      "section": "B01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Collins, Eva-Maria Schoetz",
-      "instructors": [
-        "Collins, Eva-Maria Schoetz"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
       "sectionID": "",
       "type": "LE",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hwa, Terence T."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923826",
+      "type": "LA",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hwa, Terence T."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
       "section": "B00",
       "days": "TBA",
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Collins, Eva-Maria Schoetz",
       "instructors": [
         "Collins, Eva-Maria Schoetz"
       ]
@@ -59,19 +54,172 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Collins, Eva-Maria Schoetz",
       "instructors": [
         "Collins, Eva-Maria Schoetz"
       ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "C00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Farley, Emma Kristen"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923830",
+      "type": "LA",
+      "section": "C01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Farley, Emma Kristen"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "D00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Suel, Gurol Mehmet"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923832",
+      "type": "LA",
+      "section": "D01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Suel, Gurol Mehmet"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "E00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hao, Nan"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923834",
+      "type": "LA",
+      "section": "E01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hao, Nan"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "F00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Tsai, Philbert S"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923836",
+      "type": "LA",
+      "section": "F01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Tsai, Philbert S"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "G00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hasty, Jeff M"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923838",
+      "type": "LA",
+      "section": "G01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hasty, Jeff M"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "LE",
+      "section": "H00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Mayfield, Stephen P."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "923840",
+      "type": "LA",
+      "section": "H01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Mayfield, Stephen P."
+      ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": [
+    "I",
+    "J",
+    "K",
+    "L"
+  ]
 }

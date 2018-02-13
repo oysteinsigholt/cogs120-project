@@ -3,136 +3,9 @@
   "name": "Biotech Thermodynamics & Kinet",
   "department": "BENG",
   "id": "130",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "923308",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "LEDDN",
-      "room": "AUD",
-      "instructor": "Huang, Xiaohua",
-      "instructors": [
-        "Huang, Xiaohua"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "F",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2005",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "12:00p-12:50p",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "Huang, Xiaohua",
-      "instructors": [
-        "Huang, Xiaohua"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "1:00p-1:50p",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "Huang, Xiaohua",
-      "instructors": [
-        "Huang, Xiaohua"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A03",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "Huang, Xiaohua",
-      "instructors": [
-        "Huang, Xiaohua"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A04",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Huang, Xiaohua",
-      "instructors": [
-        "Huang, Xiaohua"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A05",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "WLH",
-      "room": "2206",
-      "instructor": "Huang, Xiaohua",
-      "instructors": [
-        "Huang, Xiaohua"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -141,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "6cfa7fc2e69f4ca52a45f03ee34d9104ae469179160735072bfe5a53cd13eae5": {
         "sectxt": true,
         "sectionID": "",
         "type": "DI",
@@ -160,16 +32,15 @@
         "time": "12:00p-12:50p",
         "building": "WLH",
         "room": "2115",
-        "instructor": "Huang, Xiaohua",
         "instructors": [
           "Huang, Xiaohua"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "0e8126b4a1685579615a204f9adfe493ae18e070f531fbb80bf0883d98123178": {
         "sectxt": true,
         "sectionID": "923308",
         "type": "LE",
@@ -178,16 +49,15 @@
         "time": "9:30a-10:50a",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Huang, Xiaohua",
         "instructors": [
           "Huang, Xiaohua"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "272b1dc1e770518a7ccb2b606a5fc2fe31772bb688fd03d7bf93429ba199b782": {
         "sectxt": true,
         "sectionID": "",
         "type": "DI",
@@ -196,16 +66,15 @@
         "time": "1:00p-1:50p",
         "building": "WLH",
         "room": "2114",
-        "instructor": "Huang, Xiaohua",
         "instructors": [
           "Huang, Xiaohua"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "d1a585d4d0d74d7af333fabac12d255872d01a6845b702212213852d795f6c87": {
         "sectxt": true,
         "sectionID": "923308",
         "type": "LE",
@@ -214,16 +83,15 @@
         "time": "9:30a-10:50a",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Huang, Xiaohua",
         "instructors": [
           "Huang, Xiaohua"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "824ea782fe4efeb521d7af6da8f5918f0ffaccb333ea55915a1698e48a6f7b89": {
         "sectxt": false,
         "sectionID": "",
         "type": "LE",
@@ -232,12 +100,11 @@
         "time": "5:00p-5:50p",
         "building": "WLH",
         "room": "2005",
-        "instructor": "",
         "instructors": [],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "0c6f3dccae573d76e8544943c43d03539c5c7e698ac6bc9f6e0bb8daec57e90c": {
         "sectxt": true,
         "sectionID": "",
         "type": "DI",
@@ -246,14 +113,13 @@
         "time": "9:00a-9:50a",
         "building": "WLH",
         "room": "2114",
-        "instructor": "Huang, Xiaohua",
         "instructors": [
           "Huang, Xiaohua"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "6ce6e7d58e96f63ac7d3ded7960c81c79f2d8c764b804f3d5060d58bfd5cbdd1": {
         "sectxt": true,
         "sectionID": "",
         "type": "DI",
@@ -262,14 +128,13 @@
         "time": "2:00p-2:50p",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Huang, Xiaohua",
         "instructors": [
           "Huang, Xiaohua"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "cee56c79cac24d6ac2ab9805facf9623023cb6bfe91c57c6d399167cbd2da0d5": {
         "sectxt": true,
         "sectionID": "",
         "type": "DI",
@@ -278,15 +143,15 @@
         "time": "3:00p-3:50p",
         "building": "WLH",
         "room": "2206",
-        "instructor": "Huang, Xiaohua",
         "instructors": [
           "Huang, Xiaohua"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,42 +3,9 @@
   "name": "Discover Jazz",
   "department": "ETHN",
   "id": "179",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922636",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "CPMC",
-      "room": "136",
-      "instructor": "Nordeson, Kjell Gunnar",
-      "instructors": [
-        "Nordeson, Kjell Gunnar"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "5dfdaadd65269270ee5b11334a396c6473984f55209a345358d7e6f31a1e04af": {
         "sectxt": true,
         "sectionID": "922636",
         "type": "LE",
@@ -67,17 +32,15 @@
         "time": "11:00a-12:20p",
         "building": "CPMC",
         "room": "136",
-        "instructor": "Nordeson, Kjell Gunnar",
         "instructors": [
           "Nordeson, Kjell Gunnar"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "2fa79867375c2504ef8d35856bf60785c921a3fcb72887608dc76dccbb3da26d": {
         "sectxt": true,
         "sectionID": "922636",
         "type": "LE",
@@ -86,16 +49,15 @@
         "time": "11:00a-12:20p",
         "building": "CPMC",
         "room": "136",
-        "instructor": "Nordeson, Kjell Gunnar",
         "instructors": [
           "Nordeson, Kjell Gunnar"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

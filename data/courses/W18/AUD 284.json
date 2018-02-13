@@ -3,41 +3,37 @@
   "name": "Clin Practice in Audiology II",
   "department": "AUD",
   "id": "284",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "920817",
-      "type": "PR",
-      "section": "B00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Spriggs, Meghan K",
-      "instructors": [
-        "Spriggs, Meghan K"
-      ]
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "SE",
-      "section": "B01",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Spriggs, Meghan K",
-      "instructors": [
-        "Spriggs, Meghan K"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "920816",
+      "type": "PR",
+      "section": "A00",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Zettner, Erika"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "",
+      "type": "SE",
+      "section": "A01",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Zettner, Erika"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "920817",
       "type": "PR",
       "section": "B00",
@@ -45,7 +41,6 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Spriggs, Meghan K",
       "instructors": [
         "Spriggs, Meghan K"
       ]
@@ -59,19 +54,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Spriggs, Meghan K",
       "instructors": [
         "Spriggs, Meghan K"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

@@ -3,31 +3,12 @@
   "name": "Undergraduate Seminar",
   "department": "ESYS",
   "id": "90",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "933106",
-      "type": "SE",
-      "section": "A00",
-      "days": "Tu",
-      "time": "1:00p-1:50p",
-      "building": "YORK",
-      "room": "3030",
-      "instructor": "Teranes, Jane",
-      "instructors": [
-        "Teranes, Jane"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "60d6308dfb9a30ac4ddd7a05706cfcea09329537aee8d84a5e9244c26f8be9a6": {
         "sectxt": true,
         "sectionID": "933106",
         "type": "SE",
@@ -36,18 +17,15 @@
         "time": "1:00p-1:50p",
         "building": "YORK",
         "room": "3030",
-        "instructor": "Teranes, Jane",
         "instructors": [
           "Teranes, Jane"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

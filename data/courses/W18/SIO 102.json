@@ -3,59 +3,9 @@
   "name": "Introduction to Geochemistry",
   "department": "SIO",
   "id": "102",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:10a-12:30p",
-      "building": "VAUGN",
-      "room": "100",
-      "instructor": "Day, James M.D. & Castillo, Paterno R.",
-      "instructors": [
-        "Day, James M.D.",
-        "Castillo, Paterno R."
-      ],
-      "start_time": "11:10",
-      "end_time": "12:30"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "921046",
-      "type": "DI",
-      "section": "A01",
-      "days": "Tu",
-      "time": "12:40p-1:30p",
-      "building": "VAUGN",
-      "room": "100",
-      "instructor": "Day, James M.D.",
-      "instructors": [
-        "Day, James M.D."
-      ],
-      "start_time": "12:40",
-      "end_time": "13:30"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -64,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "f895955986e84bf71bf5a8ea77b9241ba062ecee03c284c6f45087aa54592ddc": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -84,15 +32,13 @@
         "time": "11:10a-12:30p",
         "building": "VAUGN",
         "room": "100",
-        "instructor": "Day, James M.D. & Castillo, Paterno R.",
         "instructors": [
-          "Day, James M.D.",
-          "Castillo, Paterno R."
+          "Day, James M.D.                    \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCastillo, Paterno R."
         ],
         "start_time": "11:10",
         "end_time": "12:30"
       },
-      {
+      "716472a26b7e1daac3b61d9f40ea66bc21bdcc9e75679794f9679c914822036d": {
         "sectxt": true,
         "sectionID": "921046",
         "type": "DI",
@@ -101,17 +47,15 @@
         "time": "12:40p-1:30p",
         "building": "VAUGN",
         "room": "100",
-        "instructor": "Day, James M.D.",
         "instructors": [
           "Day, James M.D."
         ],
         "start_time": "12:40",
         "end_time": "13:30"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "c1436c6e950a1f62cf01f1d98c9441739bca4f5218c065a28f4ed65ccf10a16d": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -120,17 +64,15 @@
         "time": "11:10a-12:30p",
         "building": "VAUGN",
         "room": "100",
-        "instructor": "Day, James M.D. & Castillo, Paterno R.",
         "instructors": [
-          "Day, James M.D.",
-          "Castillo, Paterno R."
+          "Day, James M.D.                    \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCastillo, Paterno R."
         ],
         "start_time": "11:10",
         "end_time": "12:30"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

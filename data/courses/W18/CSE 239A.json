@@ -3,34 +3,12 @@
   "name": "Topics/Seminar in Databases",
   "department": "CSE",
   "id": "239A",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "927562",
-      "type": "LE",
-      "section": "A00",
-      "days": "F",
-      "time": "2:00p-3:20p",
-      "building": "EBU3B",
-      "room": "3217",
-      "instructor": "Deutsch, Alin Bernard",
-      "instructors": [
-        "Deutsch, Alin Bernard"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "cded882111df64381709c5636ba4cc07eb1a31b8af674490b72389145608da51": {
         "sectxt": true,
         "sectionID": "927562",
         "type": "LE",
@@ -39,15 +17,15 @@
         "time": "2:00p-3:20p",
         "building": "EBU3B",
         "room": "3217",
-        "instructor": "Deutsch, Alin Bernard",
         "instructors": [
           "Deutsch, Alin Bernard"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

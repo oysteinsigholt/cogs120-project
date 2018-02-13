@@ -3,30 +3,12 @@
   "name": "Colloquium in Science Studies",
   "department": "PHIL",
   "id": "209C",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924957",
-      "type": "SE",
-      "section": "A00",
-      "days": "M",
-      "time": "4:00p-6:50p",
-      "building": "HSS",
-      "room": "3027",
-      "instructor": "Gere, Catherina M.",
-      "instructors": [
-        "Gere, Catherina M."
-      ],
-      "start_time": "16:00",
-      "end_time": "18:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "cfc93878649327621ab82c3606fb79230e3cea85da7ad7e31afabe73da3d94c7": {
         "sectxt": true,
         "sectionID": "924957",
         "type": "SE",
@@ -35,19 +17,15 @@
         "time": "4:00p-6:50p",
         "building": "HSS",
         "room": "3027",
-        "instructor": "Gere, Catherina M.",
         "instructors": [
           "Gere, Catherina M."
         ],
         "start_time": "16:00",
         "end_time": "18:50"
       }
-    ],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

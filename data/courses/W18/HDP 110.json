@@ -3,42 +3,9 @@
   "name": "Brain & Behavioral Development",
   "department": "HDP",
   "id": "110",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922440",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "11:00a-11:50a",
-      "building": "PETER",
-      "room": "102",
-      "instructor": "Ark, Wendy S",
-      "instructors": [
-        "Ark, Wendy S"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e5e0856edbb84730b21f3b290a37180932f6e9ede5d80d7c285d4dbd644f1e21": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "fc9cbe48692878c6e05d4956e253baf45ba98d2b98a6873f80dc0f6d24bf6f30": {
         "sectxt": true,
         "sectionID": "922440",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "11:00a-11:50a",
         "building": "PETER",
         "room": "102",
-        "instructor": "Ark, Wendy S",
         "instructors": [
           "Ark, Wendy S"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "7b7160066ff024eea2c514a06e5758a2a8a29b06a78cef0fdbf40ff8d4f101da": {
         "sectxt": true,
         "sectionID": "922440",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "11:00a-11:50a",
         "building": "PETER",
         "room": "102",
-        "instructor": "Ark, Wendy S",
         "instructors": [
           "Ark, Wendy S"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "4a7410b801398c50cfe746047eab2bd937a1dd5d19f4626c456007abfc2e2c63": {
         "sectxt": true,
         "sectionID": "922440",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "11:00a-11:50a",
         "building": "PETER",
         "room": "102",
-        "instructor": "Ark, Wendy S",
         "instructors": [
           "Ark, Wendy S"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,24 +3,40 @@
   "name": "Top/Computer Sci & Engineering",
   "department": "CSE",
   "id": "291",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929970",
-      "type": "LE",
-      "section": "I00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "EBU3B",
-      "room": "4140",
-      "instructor": "Su, Hao",
-      "instructors": [
-        "Su, Hao"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
+  "notes": [
+    "Advanced Data Analytics and Machine Learning Systems",
+    "Recent Advances in Computer Vision"
+  ],
+  "events_single": {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
     },
-    {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/21/2018",
+      "days": "W",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-21T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "95d1ec72a1d19dcd18f35456264e151708a4c53139264908dc5d4d46ab035a80": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -29,36 +45,122 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
-    }
-  ],
-  "notes": [],
-  "events_single": [
-    {
+    },
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "3:00p-5:59p",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "M": {
+      "d295d8824ad3e9466510719efbddaf81a9f0d6bc0272102cef4eb702993ee62e": {
+        "sectxt": true,
+        "sectionID": "929918",
+        "type": "LE",
+        "section": "E00",
+        "days": "MW",
+        "time": "3:30p-4:50p",
+        "building": "EBU3B",
+        "room": "2154",
+        "instructors": [
+          "Stefan, Deian"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "68bb6d4d9b4eb89847e3346cc95ddce75d0abb21fbf2aa45c70a7145233a51a5": {
+        "sectxt": true,
+        "sectionID": "929967",
+        "type": "LE",
+        "section": "H00",
+        "days": "MW",
+        "time": "9:00a-10:20a",
+        "building": "EBU3B",
+        "room": "4140",
+        "instructors": [
+          "Sahoo, Debashis"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:20"
+      }
+    },
+    "Tu": {
+      "b96b6270ed11dba63b4e486a60347e5d76af9591893eecc6e6b7e60150df9797": {
+        "sectxt": true,
+        "sectionID": "927581",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "EBU3B",
+        "room": "2154",
+        "instructors": [
+          "Kumar, Arun Kumar"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "809dbab9f13faa8cbcade741115596acb966296765ef46245d68b65a1a9bd90f": {
+        "sectxt": true,
+        "sectionID": "927583",
+        "type": "LE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Weibel, Nadir"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "e8c013cf17323131ed94c3bb848fdf189c4d439cf3beb5686f2076b3e348da4e": {
+        "sectxt": true,
+        "sectionID": "929927",
+        "type": "LE",
+        "section": "F00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "EBU3B",
+        "room": "3219",
+        "instructors": [
+          "Riek, Laurel D"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "9dffa60de5e79ab702479cad90c6803fdf3211d3b0fdfa05113e8f0f60201d1c": {
+        "sectxt": true,
+        "sectionID": "929937",
+        "type": "LE",
+        "section": "G00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "EBU3B",
+        "room": "2154",
+        "instructors": [
+          "Christensen, Henrik I"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "596e79f90f0e5254abdac3f3fe15f11e2edad6ef105570e252af1be2a74e65d6": {
         "sectxt": true,
         "sectionID": "929970",
         "type": "LE",
@@ -67,17 +169,137 @@
         "time": "3:30p-4:50p",
         "building": "EBU3B",
         "room": "4140",
-        "instructor": "Su, Hao",
         "instructors": [
           "Su, Hao"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
+      },
+      "b127a6b15e92b8d1bccf1351b049bfb69a1adcd798dfdd53638c527b64591ac1": {
+        "sectxt": true,
+        "sectionID": "930597",
+        "type": "LE",
+        "section": "J00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "EBU3B",
+        "room": "4258",
+        "instructors": [
+          "Swanson, Steven James"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "W": {
+      "ec758a6c3f12775276c20d22dba03e79a207dd21fc96b89a0f3f7ec86e8a12c4": {
+        "sectxt": true,
+        "sectionID": "927584",
+        "type": "LE",
+        "section": "D00",
+        "days": "WF",
+        "time": "5:00p-6:20p",
+        "building": "EBU3B",
+        "room": "2154",
+        "instructors": [
+          "Chandraker, Manmohan Krishna"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      },
+      "1d362580be65dc95caf39372029762e7453998eff168b43da4540eec75e5bd32": {
+        "sectxt": true,
+        "sectionID": "929918",
+        "type": "LE",
+        "section": "E00",
+        "days": "MW",
+        "time": "3:30p-4:50p",
+        "building": "EBU3B",
+        "room": "2154",
+        "instructors": [
+          "Stefan, Deian"
+        ],
+        "start_time": "15:30",
+        "end_time": "16:50"
+      },
+      "fb45d1fa0ce8b46ee9ff2ce5b073052340103c836878a673a6f5777570052108": {
+        "sectxt": true,
+        "sectionID": "929967",
+        "type": "LE",
+        "section": "H00",
+        "days": "MW",
+        "time": "9:00a-10:20a",
+        "building": "EBU3B",
+        "room": "4140",
+        "instructors": [
+          "Sahoo, Debashis"
+        ],
+        "start_time": "9:00",
+        "end_time": "10:20"
+      }
+    },
+    "Th": {
+      "7b7794efd88d05ddb575f298b587105c5af43b95dba3c6dbf49d97c9792e26c5": {
+        "sectxt": true,
+        "sectionID": "927581",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "EBU3B",
+        "room": "2154",
+        "instructors": [
+          "Kumar, Arun Kumar"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "4e103a9bea9f9d240b3f2065eb71c47213b7a92ddf74923a6507205a183a4978": {
+        "sectxt": true,
+        "sectionID": "927583",
+        "type": "LE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "TBA",
+        "room": "TBA",
+        "instructors": [
+          "Weibel, Nadir"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "153e80b1cc6ee309bbe2dfff67d79f5d4290384b04b23177a129d33e0041a503": {
+        "sectxt": true,
+        "sectionID": "929927",
+        "type": "LE",
+        "section": "F00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "EBU3B",
+        "room": "3219",
+        "instructors": [
+          "Riek, Laurel D"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "9100453ec655821ea07734434d5215f865e5d2dad6fd2412cad2e73889a1050c": {
+        "sectxt": true,
+        "sectionID": "929937",
+        "type": "LE",
+        "section": "G00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "EBU3B",
+        "room": "2154",
+        "instructors": [
+          "Christensen, Henrik I"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "703ec4417d2ccb79a45e3ce7f5def42a1ac74675de451dbb26abcbe6c5582bc2": {
         "sectxt": true,
         "sectionID": "929970",
         "type": "LE",
@@ -86,16 +308,55 @@
         "time": "3:30p-4:50p",
         "building": "EBU3B",
         "room": "4140",
-        "instructor": "Su, Hao",
         "instructors": [
           "Su, Hao"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
+      },
+      "529dbbf8892a3d9aea030526cc573c4a378c1a210b14aed1e9251d4526c86853": {
+        "sectxt": true,
+        "sectionID": "930597",
+        "type": "LE",
+        "section": "J00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "EBU3B",
+        "room": "4258",
+        "instructors": [
+          "Swanson, Steven James"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    },
+    "F": {
+      "59554b9e5b92bebddeaa3d47d9b611eae1d6739f2ad345dbeaf2b21a4fecbc3e": {
+        "sectxt": true,
+        "sectionID": "927584",
+        "type": "LE",
+        "section": "D00",
+        "days": "WF",
+        "time": "5:00p-6:20p",
+        "building": "EBU3B",
+        "room": "2154",
+        "instructors": [
+          "Chandraker, Manmohan Krishna"
+        ],
+        "start_time": "17:00",
+        "end_time": "18:20"
+      }
+    }
+  },
+  "sections": [
+    "A",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J"
+  ]
 }

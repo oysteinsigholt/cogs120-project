@@ -3,32 +3,12 @@
   "name": "Intro to Glycosciences",
   "department": "CHEM",
   "id": "142",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926568",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "HSS",
-      "room": "2154",
-      "instructor": "Godula, Kamil & Esko, Jeffrey D.",
-      "instructors": [
-        "Godula, Kamil",
-        "Esko, Jeffrey D."
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "73c435fb36b4ef3f2a171e085111dfd43721bbff50a1a8eed2a45635433f9deb": {
         "sectxt": true,
         "sectionID": "926568",
         "type": "LE",
@@ -37,18 +17,15 @@
         "time": "3:30p-4:50p",
         "building": "HSS",
         "room": "2154",
-        "instructor": "Godula, Kamil & Esko, Jeffrey D.",
         "instructors": [
-          "Godula, Kamil",
-          "Esko, Jeffrey D."
+          "Godula, Kamil                      \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEsko, Jeffrey D."
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "3611bca609a82cf611ce28a5fc499b013cfa7700aef6b39b986e18962721a948": {
         "sectxt": true,
         "sectionID": "926568",
         "type": "LE",
@@ -57,17 +34,15 @@
         "time": "3:30p-4:50p",
         "building": "HSS",
         "room": "2154",
-        "instructor": "Godula, Kamil & Esko, Jeffrey D.",
         "instructors": [
-          "Godula, Kamil",
-          "Esko, Jeffrey D."
+          "Godula, Kamil                      \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEsko, Jeffrey D."
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

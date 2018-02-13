@@ -3,42 +3,9 @@
   "name": "Spec Topic/Comparatve Politics",
   "department": "POLI",
   "id": "138D",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "925315",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "10:00a-10:50a",
-      "building": "CSB",
-      "room": "004",
-      "instructor": "Saiegh, Sebastian",
-      "instructors": [
-        "Saiegh, Sebastian"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "c5b5d45c33aeb6699b88a7400b988a016013ca1e23d059ab43b5662b87eab421": {
         "sectxt": true,
         "sectionID": "925315",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "10:00a-10:50a",
         "building": "CSB",
         "room": "004",
-        "instructor": "Saiegh, Sebastian",
         "instructors": [
           "Saiegh, Sebastian"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "0cc24e28cfd6596c3443fe77f930cb5b480bb459a53fb2ec2896a6bc7469efc4": {
         "sectxt": true,
         "sectionID": "925315",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "10:00a-10:50a",
         "building": "CSB",
         "room": "004",
-        "instructor": "Saiegh, Sebastian",
         "instructors": [
           "Saiegh, Sebastian"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "2eeb5168ac5f1f09cce923824fd329b1c1cae0a207fd2fe5e623be6333fc4878": {
         "sectxt": true,
         "sectionID": "925315",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "10:00a-10:50a",
         "building": "CSB",
         "room": "004",
-        "instructor": "Saiegh, Sebastian",
         "instructors": [
           "Saiegh, Sebastian"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,138 +3,9 @@
   "name": "Introduction to Theatre",
   "department": "TDGE",
   "id": "1",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "12:00p-12:50p",
-      "building": "HSS",
-      "room": "1330",
-      "instructor": "Salovey, Todd",
-      "instructors": [
-        "Salovey, Todd"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922682",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "8:00a-8:50a",
-      "building": "YORK",
-      "room": "4050B",
-      "instructor": "Salovey, Todd",
-      "instructors": [
-        "Salovey, Todd"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922683",
-      "type": "DI",
-      "section": "A02",
-      "days": "M",
-      "time": "9:00a-9:50a",
-      "building": "YORK",
-      "room": "4050B",
-      "instructor": "Salovey, Todd",
-      "instructors": [
-        "Salovey, Todd"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922684",
-      "type": "DI",
-      "section": "A03",
-      "days": "M",
-      "time": "10:00a-10:50a",
-      "building": "YORK",
-      "room": "4050B",
-      "instructor": "Salovey, Todd",
-      "instructors": [
-        "Salovey, Todd"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922685",
-      "type": "DI",
-      "section": "A04",
-      "days": "W",
-      "time": "8:00a-8:50a",
-      "building": "YORK",
-      "room": "4050B",
-      "instructor": "Salovey, Todd",
-      "instructors": [
-        "Salovey, Todd"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922686",
-      "type": "DI",
-      "section": "A05",
-      "days": "W",
-      "time": "9:00a-9:50a",
-      "building": "YORK",
-      "room": "4050B",
-      "instructor": "Salovey, Todd",
-      "instructors": [
-        "Salovey, Todd"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "922687",
-      "type": "DI",
-      "section": "A06",
-      "days": "W",
-      "time": "10:00a-10:50a",
-      "building": "YORK",
-      "room": "4050B",
-      "instructor": "Salovey, Todd",
-      "instructors": [
-        "Salovey, Todd"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -143,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "0bc129e6e61dc97d6817c5924c61d5d7c996b7c7ee1c4510193b45b64c905c72": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -162,14 +32,13 @@
         "time": "12:00p-12:50p",
         "building": "HSS",
         "room": "1330",
-        "instructor": "Salovey, Todd",
         "instructors": [
           "Salovey, Todd"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "9a9abb9459dbf5146badbb0eed9eda9a47b2140cb1b1a7ea82c2319a54fd6e60": {
         "sectxt": true,
         "sectionID": "922682",
         "type": "DI",
@@ -178,14 +47,13 @@
         "time": "8:00a-8:50a",
         "building": "YORK",
         "room": "4050B",
-        "instructor": "Salovey, Todd",
         "instructors": [
           "Salovey, Todd"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "1df86d705b3ddc0124e7c5118ca072c218822a747d8b501f9b49033443f7016d": {
         "sectxt": true,
         "sectionID": "922683",
         "type": "DI",
@@ -194,14 +62,13 @@
         "time": "9:00a-9:50a",
         "building": "YORK",
         "room": "4050B",
-        "instructor": "Salovey, Todd",
         "instructors": [
           "Salovey, Todd"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "e8782ef48c651ff76d19279f191ec2cfae1eebada0e2574298a4b2b31d465082": {
         "sectxt": true,
         "sectionID": "922684",
         "type": "DI",
@@ -210,17 +77,15 @@
         "time": "10:00a-10:50a",
         "building": "YORK",
         "room": "4050B",
-        "instructor": "Salovey, Todd",
         "instructors": [
           "Salovey, Todd"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "a24b1c34899aaa03f2ed258c49f7b8e31d66672638d55b3d5fd4e75b41ce8aa5": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -229,14 +94,13 @@
         "time": "12:00p-12:50p",
         "building": "HSS",
         "room": "1330",
-        "instructor": "Salovey, Todd",
         "instructors": [
           "Salovey, Todd"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       },
-      {
+      "35a93922758b6c8d7dc7fb98078197314f8884f76d410c42018ddbcf2f0c82a7": {
         "sectxt": true,
         "sectionID": "922685",
         "type": "DI",
@@ -245,14 +109,13 @@
         "time": "8:00a-8:50a",
         "building": "YORK",
         "room": "4050B",
-        "instructor": "Salovey, Todd",
         "instructors": [
           "Salovey, Todd"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "b8d710673a3841dd7a06c0599698347a3d2609790e6dfc2defcabca6847549b7": {
         "sectxt": true,
         "sectionID": "922686",
         "type": "DI",
@@ -261,14 +124,13 @@
         "time": "9:00a-9:50a",
         "building": "YORK",
         "room": "4050B",
-        "instructor": "Salovey, Todd",
         "instructors": [
           "Salovey, Todd"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "b889f1a4e49121820c7e6074249ce3a9001789fec2b139a7fd146a6ef1f7b177": {
         "sectxt": true,
         "sectionID": "922687",
         "type": "DI",
@@ -277,17 +139,15 @@
         "time": "10:00a-10:50a",
         "building": "YORK",
         "room": "4050B",
-        "instructor": "Salovey, Todd",
         "instructors": [
           "Salovey, Todd"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

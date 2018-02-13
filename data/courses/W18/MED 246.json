@@ -3,38 +3,14 @@
   "name": "Current Literatre/Glycobiology",
   "department": "MED",
   "id": "246",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "930421",
-      "type": "SE",
-      "section": "A00",
-      "days": "F",
-      "time": "12:00p-1:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Bode, Lars & Esko, Jeffrey D. & Varki, Ajit P",
-      "instructors": [
-        "Bode, Lars",
-        "Esko, Jeffrey D.",
-        "Varki, Ajit P"
-      ],
-      "start_time": "12:00",
-      "end_time": "13:00"
-    }
-  ],
   "notes": [
     "Location: BRF2 4103"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [
-      {
+    "F": {
+      "d72038fa5896faf39b248ebd2e175036ac186df4cdcf09c98508a8efe00cab6b": {
         "sectxt": true,
         "sectionID": "930421",
         "type": "SE",
@@ -43,17 +19,15 @@
         "time": "12:00p-1:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Bode, Lars & Esko, Jeffrey D. & Varki, Ajit P",
         "instructors": [
-          "Bode, Lars",
-          "Esko, Jeffrey D.",
-          "Varki, Ajit P"
+          "Bode, Lars                         \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEsko, Jeffrey D.                   \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVarki, Ajit P"
         ],
         "start_time": "12:00",
         "end_time": "13:00"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

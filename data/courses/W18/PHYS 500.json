@@ -3,27 +3,50 @@
   "name": "Introduction/Physics Teaching",
   "department": "PHYS",
   "id": "500",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "939619",
-      "type": "IN",
-      "section": "004",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Tytler, David Robert",
-      "instructors": [
-        "Tytler, David Robert"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "933102",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Yagil, Avi"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "933103",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Butov, Leonid"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "933104",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Frano Pereira, Alex M"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "939619",
       "type": "IN",
       "section": "004",
@@ -31,19 +54,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Tytler, David Robert",
       "instructors": [
         "Tytler, David Robert"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

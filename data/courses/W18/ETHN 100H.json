@@ -3,32 +3,12 @@
   "name": "Honors Research Design",
   "department": "ETHN",
   "id": "100H",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922675",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "10:00a-11:50a",
-      "building": "SSB",
-      "room": "253",
-      "instructor": "Streeby, Shelley",
-      "instructors": [
-        "Streeby, Shelley"
-      ],
-      "start_time": "10:00",
-      "end_time": "11:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "deece31daa72837c51054744526da98d30d6d95bee8f85ce3cd11d13a82492ed": {
         "sectxt": true,
         "sectionID": "922675",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "10:00a-11:50a",
         "building": "SSB",
         "room": "253",
-        "instructor": "Streeby, Shelley",
         "instructors": [
           "Streeby, Shelley"
         ],
         "start_time": "10:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

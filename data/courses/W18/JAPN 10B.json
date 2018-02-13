@@ -3,70 +3,93 @@
   "name": "First Year Japanese II",
   "department": "JAPN",
   "id": "10B",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928751",
-      "type": "LE",
-      "section": "N00",
-      "days": "TuTh",
-      "time": "5:00p-6:20p",
-      "building": "SEQUO",
-      "room": "147",
-      "instructor": "Kamioka, Sachiko",
-      "instructors": [
-        "Kamioka, Sachiko"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "TU",
-      "section": "N01",
-      "days": "MWF",
-      "time": "4:00p-4:50p",
-      "building": "MCGIL",
-      "room": "2330",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "TU",
-      "section": "N02",
-      "days": "MWF",
-      "time": "5:00p-5:50p",
-      "building": "MCGIL",
-      "room": "2315",
-      "instructor": "",
-      "instructors": [],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "76ebfa045d5a8e99640a702216b156b0c10eaeb7df5fb00b5fc5afa85bc75e08": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "8:00a-10:59a",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "8:00",
+      "end_time": "10:59"
+    },
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "3:00p-5:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "15:00",
+      "end_time": "17:59"
+    },
+    "83f667703ee5f41443699d3c685d2af7204f58e7d0026726650a8f5259ecf403": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/20/2018",
+      "days": "Tu",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-20T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    },
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -75,17 +98,354 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "0d1400a2139271ef9b6fcb1dc3787d5838732dafd12912b5ac23627b4654e619": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "A01",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "5975b0e573605b3d60d58d8d94aec8f3922d17b50ed1fcb9e6f0e327bfb7095f": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "A02",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "13e02a5ad2ccf7e789f2901ef79f78edad4a38aee1b6fa54a76af3cf2d0216fb": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "B01",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "TM102",
+        "room": "1",
+        "instructors": [],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "77c2049e0d1f75f96160ca6484178a56a6477849275b89e1c9f409cdaa4bfd6e": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "B02",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "TM102",
+        "room": "1",
+        "instructors": [],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "01b5eb58148c510489e1e72c8bf4fe1ee47d287355ff14b716abc5d6419d729d": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "C01",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "MCGIL",
+        "room": "2315",
+        "instructors": [],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "b0a438bc41ff1a45051af192ec0dcc9f654061a7f3d89a8a49fcf245a7557807": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "C02",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "MCGIL",
+        "room": "2315",
+        "instructors": [],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "4b0e03d24890286e3ea1c9219997dbb158ce75c1934fc9b42f8a1721a888d350": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "D01",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "5c4fef1c89c565ed6f286e3f5c0c09b90de1e29d7a1fd654d0695fbd6fb185b8": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "D02",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "1ba0f54a14f4f4e4bbf3376864e6fdd53c80bee4e70c5a8461c75ca1184ebb74": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "E01",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "YORK",
+        "room": "4050B",
+        "instructors": [],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "4584e9553b61ba116261e22124d9b51e58f5978d5a235a8b2cbc62b6046e9474": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "E02",
+        "days": "MWF",
+        "time": "5:00p-5:50p",
+        "building": "YORK",
+        "room": "4050B",
+        "instructors": [],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "f29e9cb0eb53ef2eb0a29957d92621b238eb3eafe11cf0630385363b9f5b3730": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "F01",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "YORK",
+        "room": "3050B",
+        "instructors": [],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "a95199e625b11fa03ca7b5208b2be93132bfe6771689948d79303cef5229b14c": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "F02",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "YORK",
+        "room": "3050B",
+        "instructors": [],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "71b66511436e417d2a08d8c90ca36ef686573603aefa501bb968e7087456aabe": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "G01",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "dcaaeab194639d53518c233cfe13b322dbec8af6f2ecca6e04eac5ded0f519be": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "G02",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "93db5df0068c04496e49476186f8d28e806554d6dd7c74c971d013eb98116bbf": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "H01",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "YORK",
+        "room": "4050B",
+        "instructors": [],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "630db1f0a2c7d859e16dcf1dc817d7ec9e6a9ee2f140fe79fd9a85933de8ba6f": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "H02",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "YORK",
+        "room": "4050B",
+        "instructors": [],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "a63d075b0e6c1a4830809bdc6d2d902767c9e1acb73b4d77c370449bfe2b80d8": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "I01",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "MCGIL",
+        "room": "2315",
+        "instructors": [],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "5daca781115b7cd02ceded02b93c802cc59917ed302c87a3fe26870c4d00b076": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "I02",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "76b40e4be757a9b3da5b165e964dab37ac6972fd5ec4f2a7f7b348dd6701112d": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "J01",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "2985023d078bac6edfdc8e577b104599708086a8561a637ccc2a12f659aa0e91": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "J02",
+        "days": "MWF",
+        "time": "5:00p-5:50p",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "fb372e6dee2a57fe67575dd0311e3d9c1d19cbc7565f3535a27bf980302bd573": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "K01",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "2152",
+        "instructors": [],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "15cb06a97c7e91c401e61faaf64d400a2d223e5e06a09f0fbc021421bd0f02a5": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "K02",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "8f2ed67093e36ec6d9bb278114aed70672d087dc4560730d108f309479c32020": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "L01",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "HSS",
+        "room": "3027",
+        "instructors": [],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "db12903ba54441242607bbbca386bab28795070b213dcd892cb5d92ea8e26288": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "L02",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "HSS",
+        "room": "3027",
+        "instructors": [],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "ef59c0d0cc93b1d0198f7435c974fc1d41816f5ad4224160ea8ad020756048c4": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "M01",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "HSS",
+        "room": "3086",
+        "instructors": [],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "84fd7d0620ece609fc6343305cf5beffed1dfeceef916635349a20d499e3435a": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "M02",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "HSS",
+        "room": "3086",
+        "instructors": [],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "1b799f567c31bba5ce9ee75b9292e6e8ed2a32100cedc2fd1c1c6b05b99c769e": {
         "sectxt": true,
         "sectionID": "",
         "type": "TU",
@@ -94,12 +454,11 @@
         "time": "4:00p-4:50p",
         "building": "MCGIL",
         "room": "2330",
-        "instructor": "",
         "instructors": [],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "b313777eda2689bbae8043a2f857a36402371d8fdf1aa3c4be9f3098be483a3c": {
         "sectxt": true,
         "sectionID": "",
         "type": "TU",
@@ -108,14 +467,208 @@
         "time": "5:00p-5:50p",
         "building": "MCGIL",
         "room": "2315",
-        "instructor": "",
         "instructors": [],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "a8fe2c079e9c0c3835c7127d52a600c926fc4001bd4faa31569c97637d35ead2": {
+        "sectxt": true,
+        "sectionID": "920977",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "WLH",
+        "room": "2114",
+        "instructors": [
+          "Iwamoto, Naoki"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "0e70312ce5eea03c87a2a951207efb55b4b6b39daaf21758a318e100bdb9fc73": {
+        "sectxt": true,
+        "sectionID": "920980",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "WLH",
+        "room": "2114",
+        "instructors": [
+          "Iwamoto, Naoki"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "f736be153ac4eefa4ac073280b028741dde732e23e72ced699074cdb5186270e": {
+        "sectxt": true,
+        "sectionID": "920983",
+        "type": "LE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "SEQUO",
+        "room": "147",
+        "instructors": [
+          "Ross, Kayoko F"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "e1afee5d49d5e114c21e354e86583fa0403f99b0d5f5a48a685bf89f79058dc7": {
+        "sectxt": true,
+        "sectionID": "920986",
+        "type": "LE",
+        "section": "D00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "HSS",
+        "room": "2150",
+        "instructors": [
+          "Inada, Minori"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "6605c81e31e25cb497f21ab2950ed03d1965c07cb6e742809db7df6254d34317": {
+        "sectxt": true,
+        "sectionID": "920989",
+        "type": "LE",
+        "section": "E00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "HSS",
+        "room": "2150",
+        "instructors": [
+          "Takeda, Izumi"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "ff4fba250a54850f6fa57c93d43562420141007f2be9748e5e64061eb84f8a7f": {
+        "sectxt": true,
+        "sectionID": "920992",
+        "type": "LE",
+        "section": "F00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "WLH",
+        "room": "2114",
+        "instructors": [
+          "Tipton, Yuko"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "1e48e8c62a47aac81b0c0a3a833b8ea9cb56d797639d1937a1a1912791b32158": {
+        "sectxt": true,
+        "sectionID": "920995",
+        "type": "LE",
+        "section": "G00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "HSS",
+        "room": "2154",
+        "instructors": [
+          "Simpson, Junko Tokuda"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "cf62ee0488c5f42765cb199ce5419437d9f225e80e91deec314db8492eb62876": {
+        "sectxt": true,
+        "sectionID": "920998",
+        "type": "LE",
+        "section": "H00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "HSS",
+        "room": "2150",
+        "instructors": [
+          "Takeda, Izumi"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "426cd3236b922bd69bf4c28aa53652d39869edb42af0fa9f2392ff6aab365916": {
+        "sectxt": true,
+        "sectionID": "921001",
+        "type": "LE",
+        "section": "I00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "WLH",
+        "room": "2114",
+        "instructors": [
+          "Tipton, Yuko"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "d3d46019d48a997106244d14968acb9f0fc27f04f5891ea33d0a920b25ca37a2": {
+        "sectxt": true,
+        "sectionID": "921004",
+        "type": "LE",
+        "section": "J00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "HSS",
+        "room": "2154",
+        "instructors": [
+          "Iwamoto, Naoki"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "2ddd5f4779d42cf90b8ae6987609fa724afa7fd58780a2e2fa583adf01324cfb": {
+        "sectxt": true,
+        "sectionID": "921009",
+        "type": "LE",
+        "section": "K00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "WLH",
+        "room": "2114",
+        "instructors": [
+          "Maruyama, Rie"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "7290cf013f5ea25c4177558fe2c07efc95d11d256c586fe6d6c05352e503c497": {
+        "sectxt": true,
+        "sectionID": "928758",
+        "type": "LE",
+        "section": "L00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "SEQUO",
+        "room": "147",
+        "instructors": [
+          "Ross, Kayoko F"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "d99468e087f14f5eaca7b2bc04f92d6005215300e67549c7e075430fe63f08cc": {
+        "sectxt": true,
+        "sectionID": "928761",
+        "type": "LE",
+        "section": "M00",
+        "days": "TuTh",
+        "time": "6:30p-7:50p",
+        "building": "SEQUO",
+        "room": "147",
+        "instructors": [
+          "Kamioka, Sachiko"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      },
+      "8f3ff6a60faec0201939eb3c08718ead83772216c2940357b373cd3e08955b44": {
         "sectxt": true,
         "sectionID": "928751",
         "type": "LE",
@@ -124,16 +677,353 @@
         "time": "5:00p-6:20p",
         "building": "SEQUO",
         "room": "147",
-        "instructor": "Kamioka, Sachiko",
         "instructors": [
           "Kamioka, Sachiko"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "7f2f6748ba673eeea3ebdd0a6380e37b378f7ee8f45370ce28114b8679fc5772": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "A01",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "dc3fc35e669ec6b8318ef56f5c56b5c53495ecc51169e2c386746e753fb24043": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "A02",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "baae465e1f28aba3f732dbd9f3f236855cdbf3a9b220593ce1c12a938bedcfeb": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "B01",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "TM102",
+        "room": "1",
+        "instructors": [],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "e389adfe0008114e0305841129c27594d2cf26f60d4400da15ca1e74d8a6039a": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "B02",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "TM102",
+        "room": "1",
+        "instructors": [],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "45da575ab12fd2e617031a12d84ff184e42e7b156d87f32d2f39631eeb2d69ef": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "C01",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "MCGIL",
+        "room": "2315",
+        "instructors": [],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "3b0fa2f9141b2d7ebb28c8b49bcdd1bb3fd8415f677d94a87ab5db3fbfbce120": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "C02",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "MCGIL",
+        "room": "2315",
+        "instructors": [],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "604cecf902a93c7d76cf10a764f45b11224b280aa02c815f8d8eccb5491cd18a": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "D01",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "bda0f46561c640317699ecf2e9bc5bf34cfc35b4ce7228e3c2bb82af2f6e66c3": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "D02",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "342ea46d096581a788d600d2ca0d133b4b7afb5616c7965ba4d46306f309f2eb": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "E01",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "YORK",
+        "room": "4050B",
+        "instructors": [],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "10a7aac2dc708cabbf062fab4563260839ca2bdd5b2914f01bac72fcc0791401": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "E02",
+        "days": "MWF",
+        "time": "5:00p-5:50p",
+        "building": "YORK",
+        "room": "4050B",
+        "instructors": [],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "4eb7007347870c6437c34abb0c4774930ad4c47c46d35f4011376dd6bf15ed34": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "F01",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "YORK",
+        "room": "3050B",
+        "instructors": [],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "501b4f421f1f322cfbe93c883ad6b966c47201adacf5c9c18876addf78cb5646": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "F02",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "YORK",
+        "room": "3050B",
+        "instructors": [],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "661003bf1e572cf7aae3c70cd7f2f1163858e51a0e3099b9a7544fe2b489b4f3": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "G01",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "cc3f0e92a35420b5b4a52be1e15a5b85ff1ca70900ea511dfd1b5575320d108e": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "G02",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "cbb111a78f72c2ccd672af448a21a0c645790a2c3c4ccdfc6d5cd9043816351d": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "H01",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "YORK",
+        "room": "4050B",
+        "instructors": [],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "a2d790a6dab4e081c995c85d69afe35a0554cf1d57a55bc829f0961b95bf3dd7": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "H02",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "YORK",
+        "room": "4050B",
+        "instructors": [],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "5c1b4ca98f7742126fa6a5369743344abe39243dd091a412f249cdce128fa372": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "I01",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "MCGIL",
+        "room": "2315",
+        "instructors": [],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "e2bfdfdd0b602ff7c9c6f41e3c2699b1983a202803c9b37a26b25e431cd03059": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "I02",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "dddbc3cb59a8f41bfa1b4672e61d270aeefe7ce0d4d10ab69d12299fe5650b99": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "J01",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "d0be4613fe90bc908cb49d2b26a05c3835d4ae2406730811d48369cbf365ce39": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "J02",
+        "days": "MWF",
+        "time": "5:00p-5:50p",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "45bee412c30aaaea43f7069f80498f22258ff4768af216c19ff86af285b9b98c": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "K01",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "2152",
+        "instructors": [],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "ac630316d9a43f8f5683a70de6238524a443c6f9316049331cdd397df8001e5e": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "K02",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "4721dc58db354e14360b6b5e413da5ffb12fb75ebedd44006094ec136c75c777": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "L01",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "HSS",
+        "room": "3027",
+        "instructors": [],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "39d1c7755a769ab76a815528a9f832024ad3aa8a6bd218a0a28e9282e0b3392a": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "L02",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "HSS",
+        "room": "3027",
+        "instructors": [],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "aa7aec9204d3a90bc0d3d206ea81e1a2d45cba3d003760c427ab84a930aff9d9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "M01",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "HSS",
+        "room": "3086",
+        "instructors": [],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "48ac5eb31577a2ab5248a147d61a6af44aa495d752d4a1a3c284bf3204f68bea": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "M02",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "HSS",
+        "room": "3086",
+        "instructors": [],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "fd1afc07d67750f626a6337f2f05be28e4d5e5bc6b3eb5100da5f32049e4cbf0": {
         "sectxt": true,
         "sectionID": "",
         "type": "TU",
@@ -142,12 +1032,11 @@
         "time": "4:00p-4:50p",
         "building": "MCGIL",
         "room": "2330",
-        "instructor": "",
         "instructors": [],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "f7fcbf29e4990e33ed73a0946b0d00ea56fdd8c6d8ea42075365a559ae63331a": {
         "sectxt": true,
         "sectionID": "",
         "type": "TU",
@@ -156,14 +1045,208 @@
         "time": "5:00p-5:50p",
         "building": "MCGIL",
         "room": "2315",
-        "instructor": "",
         "instructors": [],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "77e5d5eacbffa9627ba4e6d1a4dc490d8225db016150e4f10bfaaeb60d309022": {
+        "sectxt": true,
+        "sectionID": "920977",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "WLH",
+        "room": "2114",
+        "instructors": [
+          "Iwamoto, Naoki"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "ffa8d7393d5bf508cfaef2b0741fb8353dfb036eec6dadc44487cff794eb0519": {
+        "sectxt": true,
+        "sectionID": "920980",
+        "type": "LE",
+        "section": "B00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "WLH",
+        "room": "2114",
+        "instructors": [
+          "Iwamoto, Naoki"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "e712be31dc0d0fb2f7688691573873d99e9c782a67977aec2cf277ca82dd5e25": {
+        "sectxt": true,
+        "sectionID": "920983",
+        "type": "LE",
+        "section": "C00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "SEQUO",
+        "room": "147",
+        "instructors": [
+          "Ross, Kayoko F"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "c9b44381dde2c1f4411f0ffccb8b0fb44b207d711354ec34a1904a62fbd208f1": {
+        "sectxt": true,
+        "sectionID": "920986",
+        "type": "LE",
+        "section": "D00",
+        "days": "TuTh",
+        "time": "9:30a-10:50a",
+        "building": "HSS",
+        "room": "2150",
+        "instructors": [
+          "Inada, Minori"
+        ],
+        "start_time": "9:30",
+        "end_time": "10:50"
+      },
+      "cdaacda5c7ffc4c4883dae11b4b64fb900fb931d51cbcb8d2675aa844d1de374": {
+        "sectxt": true,
+        "sectionID": "920989",
+        "type": "LE",
+        "section": "E00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "HSS",
+        "room": "2150",
+        "instructors": [
+          "Takeda, Izumi"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "31ac6a23955aac56e934790d2eea412653227aa989ea3676670867286b737fef": {
+        "sectxt": true,
+        "sectionID": "920992",
+        "type": "LE",
+        "section": "F00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "WLH",
+        "room": "2114",
+        "instructors": [
+          "Tipton, Yuko"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "0d53eab19cd0ece2de34326cb46bbeb63cf9e1d2f8821980fa3bb59b20914d89": {
+        "sectxt": true,
+        "sectionID": "920995",
+        "type": "LE",
+        "section": "G00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "HSS",
+        "room": "2154",
+        "instructors": [
+          "Simpson, Junko Tokuda"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "7eaecf376baf4f0d7a7effe3e90e6f13411dab4fae97bf130a2071ee82a70803": {
+        "sectxt": true,
+        "sectionID": "920998",
+        "type": "LE",
+        "section": "H00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "HSS",
+        "room": "2150",
+        "instructors": [
+          "Takeda, Izumi"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "3c7e33a21892fbfc077ecc8ed19262b285321a3bec348dd4f70f158054cc892e": {
+        "sectxt": true,
+        "sectionID": "921001",
+        "type": "LE",
+        "section": "I00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "WLH",
+        "room": "2114",
+        "instructors": [
+          "Tipton, Yuko"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "4cba7261e57668a590e23bab8d04e018aa9108f67406f9bed53d198f246be16f": {
+        "sectxt": true,
+        "sectionID": "921004",
+        "type": "LE",
+        "section": "J00",
+        "days": "TuTh",
+        "time": "12:30p-1:50p",
+        "building": "HSS",
+        "room": "2154",
+        "instructors": [
+          "Iwamoto, Naoki"
+        ],
+        "start_time": "12:30",
+        "end_time": "13:50"
+      },
+      "44810488f24194ba34d8d0a6ca6de829f67fd122ecb0459537dfef1d4c845603": {
+        "sectxt": true,
+        "sectionID": "921009",
+        "type": "LE",
+        "section": "K00",
+        "days": "TuTh",
+        "time": "2:00p-3:20p",
+        "building": "WLH",
+        "room": "2114",
+        "instructors": [
+          "Maruyama, Rie"
+        ],
+        "start_time": "14:00",
+        "end_time": "15:20"
+      },
+      "6686379816c64e8957b185049ca9fb8ca10357814ff3b829fbaaaa83bd32809b": {
+        "sectxt": true,
+        "sectionID": "928758",
+        "type": "LE",
+        "section": "L00",
+        "days": "TuTh",
+        "time": "8:00a-9:20a",
+        "building": "SEQUO",
+        "room": "147",
+        "instructors": [
+          "Ross, Kayoko F"
+        ],
+        "start_time": "8:00",
+        "end_time": "9:20"
+      },
+      "73de7547ce3a48424fff6927939d7344a9055f22c7a2d581dda0d1f174bd4960": {
+        "sectxt": true,
+        "sectionID": "928761",
+        "type": "LE",
+        "section": "M00",
+        "days": "TuTh",
+        "time": "6:30p-7:50p",
+        "building": "SEQUO",
+        "room": "147",
+        "instructors": [
+          "Kamioka, Sachiko"
+        ],
+        "start_time": "18:30",
+        "end_time": "19:50"
+      },
+      "93eeb47ae91e8dd9f79600ba6b2157e0449a0fc9dd23b09ee352f4cb97b37a1f": {
         "sectxt": true,
         "sectionID": "928751",
         "type": "LE",
@@ -172,16 +1255,353 @@
         "time": "5:00p-6:20p",
         "building": "SEQUO",
         "room": "147",
-        "instructor": "Kamioka, Sachiko",
         "instructors": [
           "Kamioka, Sachiko"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "a5db850417288e4b12b6922ff508aeb6dd23b8cc56120d32fb794018f02ce397": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "A01",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "189c0c6f649530fa2527c1f719b4e04a07f43e440a90e4cea86db0d30c5dd2a1": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "A02",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "c480b4e4969ca017ee37d85c1c8cb648b00a23a1512676f9b8b293e7d362d01e": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "B01",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "TM102",
+        "room": "1",
+        "instructors": [],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "2721df6db04d7c704033a5d5f32c7a42bb0a3aaba63364fb5ca42ea2013e38d3": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "B02",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "TM102",
+        "room": "1",
+        "instructors": [],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "eed84c8aa76010d48d8ea363f7e0693ac284e22be10f86b5d2b34a36a8334e33": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "C01",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "MCGIL",
+        "room": "2315",
+        "instructors": [],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "a390d761d93e0f3e3ca94e3c89b6205afa8c12f302daecd229f335dec7e1e772": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "C02",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "MCGIL",
+        "room": "2315",
+        "instructors": [],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "9417da5e7580d7f5cd596c40963f6c6384d6fa3b8c5a8b5616b1ab828d5f710f": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "D01",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "e835f1be8bdb1ba439e6db149ec81e3e2a50e904fb2014411aa3e81cf8491c58": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "D02",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "54c8830ba0f6a1021f773bd5fa7f56bbc7b4d33ad3dae7e80d602c4d815989b6": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "E01",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "YORK",
+        "room": "4050B",
+        "instructors": [],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "a0a8cab57778db923a97725eb9c1af847942c4001be35c2fc34bcaf1d52ac50f": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "E02",
+        "days": "MWF",
+        "time": "5:00p-5:50p",
+        "building": "YORK",
+        "room": "4050B",
+        "instructors": [],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "0b83fcde70755ffac0a4a3408d2366b985949461435fea19c237b28c8d1e642f": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "F01",
+        "days": "MWF",
+        "time": "8:00a-8:50a",
+        "building": "YORK",
+        "room": "3050B",
+        "instructors": [],
+        "start_time": "8:00",
+        "end_time": "8:50"
+      },
+      "95d0c5d738f2fef5d3d6909f6470dfdafacf4263729088822dfc3792e90b77e3": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "F02",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "YORK",
+        "room": "3050B",
+        "instructors": [],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "d95ac4775a43f997cfd47b8488f96f38bf4116e692b4f77a3e2cebd6115f7511": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "G01",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "d2445581555137217a58f3f4d3b2fc580d1adffcb563fccfd51ae0903bba2057": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "G02",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "YORK",
+        "room": "4050A",
+        "instructors": [],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "feef45e6faad084f1bb183c7ae72ff8c5650b7c4154076ef920c9902025c5e20": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "H01",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "YORK",
+        "room": "4050B",
+        "instructors": [],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "ed18f7f623d4e46e121ce585cd63ace7477d8a56aa6a451523920e61588b41d5": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "H02",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "YORK",
+        "room": "4050B",
+        "instructors": [],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "fc4912d6333322df68b4e9e606410b11ed22fea71985d1cd2cafd25e82ed462e": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "I01",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "MCGIL",
+        "room": "2315",
+        "instructors": [],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "2b58604a17f246e480e2dd120b820e13f4d53443634c067f42fad9d8fb23c2b8": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "I02",
+        "days": "MWF",
+        "time": "3:00p-3:50p",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [],
+        "start_time": "15:00",
+        "end_time": "15:50"
+      },
+      "bd8606a91f5bd8212a833a80dfedeb9b5c160c839904f44bf3f68ace3a9a8207": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "J01",
+        "days": "MWF",
+        "time": "4:00p-4:50p",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "423871911a6d3fb91e966f8ba7ef3d4963180a070f99dece8d28434f9316cc86": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "J02",
+        "days": "MWF",
+        "time": "5:00p-5:50p",
+        "building": "MANDE",
+        "room": "B-153",
+        "instructors": [],
+        "start_time": "17:00",
+        "end_time": "17:50"
+      },
+      "811c299795c51231c9da2f60c85cd5dfa9b22b48d2281149c801acb006206ca3": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "K01",
+        "days": "MWF",
+        "time": "9:00a-9:50a",
+        "building": "HSS",
+        "room": "2152",
+        "instructors": [],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "72cd8f3c4f20122da7603725edc583a73b351ee45285668e77d2397a7f049cfd": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "K02",
+        "days": "MWF",
+        "time": "10:00a-10:50a",
+        "building": "MANDE",
+        "room": "B-146",
+        "instructors": [],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "bc000e507c06d4707ecc565e092d4347a156316231ae2e77a502c4e162f84320": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "L01",
+        "days": "MWF",
+        "time": "11:00a-11:50a",
+        "building": "HSS",
+        "room": "3027",
+        "instructors": [],
+        "start_time": "11:00",
+        "end_time": "11:50"
+      },
+      "cddc1716c5effa1c7e3eda4a74aff191917ef1a6367bdb77ba2e02165acfe6f9": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "L02",
+        "days": "MWF",
+        "time": "12:00p-12:50p",
+        "building": "HSS",
+        "room": "3027",
+        "instructors": [],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "38647ae0eff6a678bda19e6c84efbbf856aff2a73437ba42e6a94fb368c33aed": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "M01",
+        "days": "MWF",
+        "time": "1:00p-1:50p",
+        "building": "HSS",
+        "room": "3086",
+        "instructors": [],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "88a77d89e09323ced79d76e7adae118f128b52c15472100d1855a892d26d0d57": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "TU",
+        "section": "M02",
+        "days": "MWF",
+        "time": "2:00p-2:50p",
+        "building": "HSS",
+        "room": "3086",
+        "instructors": [],
+        "start_time": "14:00",
+        "end_time": "14:50"
+      },
+      "e546938245a4dc874eba7b3d7242ae3590299985c35d0fe0dce54f5089ba11e6": {
         "sectxt": true,
         "sectionID": "",
         "type": "TU",
@@ -190,12 +1610,11 @@
         "time": "4:00p-4:50p",
         "building": "MCGIL",
         "room": "2330",
-        "instructor": "",
         "instructors": [],
         "start_time": "16:00",
         "end_time": "16:50"
       },
-      {
+      "ba47ed3676963f35047faf2af6073d8362d97da8e9e0189df36685c10043708a": {
         "sectxt": true,
         "sectionID": "",
         "type": "TU",
@@ -204,13 +1623,26 @@
         "time": "5:00p-5:50p",
         "building": "MCGIL",
         "room": "2315",
-        "instructor": "",
         "instructors": [],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N"
+  ]
 }

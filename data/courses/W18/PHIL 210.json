@@ -3,32 +3,12 @@
   "name": "Greek Philosophy",
   "department": "PHIL",
   "id": "210",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924843",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "4:00p-6:50p",
-      "building": "HSS",
-      "room": "7077",
-      "instructor": "Johnson, Monte",
-      "instructors": [
-        "Johnson, Monte"
-      ],
-      "start_time": "16:00",
-      "end_time": "18:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "e5045e3e667333d394c2a36d713058546d79c34a275c7c77e6e39b9b8b87ed64": {
         "sectxt": true,
         "sectionID": "924843",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "4:00p-6:50p",
         "building": "HSS",
         "room": "7077",
-        "instructor": "Johnson, Monte",
         "instructors": [
           "Johnson, Monte"
         ],
         "start_time": "16:00",
         "end_time": "18:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

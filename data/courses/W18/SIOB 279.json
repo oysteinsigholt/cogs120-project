@@ -3,42 +3,9 @@
   "name": "Ecology Seminar/BO",
   "department": "SIOB",
   "id": "279",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921958",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "12:15p-1:15p",
-      "building": "HUBBS",
-      "room": "4500",
-      "instructor": "Ballance, Lisa Taylor",
-      "instructors": [
-        "Ballance, Lisa Taylor"
-      ],
-      "start_time": "12:15",
-      "end_time": "13:15"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,19 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "262189c5067bf80e2b831bb50e0a79843592ac7013f52efb3711c22992b42411": {
         "sectxt": true,
         "sectionID": "921958",
         "type": "SE",
@@ -68,17 +32,15 @@
         "time": "12:15p-1:15p",
         "building": "HUBBS",
         "room": "4500",
-        "instructor": "Ballance, Lisa Taylor",
         "instructors": [
           "Ballance, Lisa Taylor"
         ],
         "start_time": "12:15",
         "end_time": "13:15"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,33 +3,14 @@
   "name": "Production Dramaturgy",
   "department": "TDHT",
   "id": "119",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922706",
-      "type": "PR",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "3:30p-4:50p",
-      "building": "SOLIS",
-      "room": "110",
-      "instructor": "Carmody, James",
-      "instructors": [
-        "Carmody, James"
-      ],
-      "start_time": "15:30",
-      "end_time": "16:50"
-    }
-  ],
   "notes": [
     "email Jim Carmody: jcarmody@ucsd.edu to arrange an\n interview to enroll"
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "fd71dd88801b74f58c50ba9cbdbda8e881867beb022fcf39252e5135ade1f9eb": {
         "sectxt": true,
         "sectionID": "922706",
         "type": "PR",
@@ -38,17 +19,15 @@
         "time": "3:30p-4:50p",
         "building": "SOLIS",
         "room": "110",
-        "instructor": "Carmody, James",
         "instructors": [
           "Carmody, James"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "8be5e6c83827cc7f484869063a52cb6d7563472cef38cd6fc17d99923c942f75": {
         "sectxt": true,
         "sectionID": "922706",
         "type": "PR",
@@ -57,16 +36,15 @@
         "time": "3:30p-4:50p",
         "building": "SOLIS",
         "room": "110",
-        "instructor": "Carmody, James",
         "instructors": [
           "Carmody, James"
         ],
         "start_time": "15:30",
         "end_time": "16:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

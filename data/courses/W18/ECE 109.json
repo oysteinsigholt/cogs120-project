@@ -3,88 +3,9 @@
   "name": "Engineering Probability&Stats",
   "department": "ECE",
   "id": "109",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "12:30p-1:50p",
-      "building": "HSS",
-      "room": "1330",
-      "instructor": "Zeger, Kenneth A.",
-      "instructors": [
-        "Zeger, Kenneth A."
-      ],
-      "start_time": "12:30",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925040",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "7:00p-7:50p",
-      "building": "CENTR",
-      "room": "216",
-      "instructor": "Zeger, Kenneth A.",
-      "instructors": [
-        "Zeger, Kenneth A."
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/09/2018",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "WLH",
-      "room": "2208",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-09T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "03/16/2018",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "WLH",
-      "room": "2208",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-16T07:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "e0193e1484d0c239b922cca06f15a4a4b4a237c98acaa1cf3fd442844237e5e8": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -93,13 +14,12 @@
       "time": "2:00p-2:50p",
       "building": "WLH",
       "room": "2208",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-09T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "44e007f2bc12f5d1ce3bd5c2b3cc4425936884a3c6c4e65cabea5b86328d98c7": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -108,13 +28,12 @@
       "time": "2:00p-2:50p",
       "building": "WLH",
       "room": "2208",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-16T07:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "5457c90ffbef2f6ca4630da33b6ef308381ecd31e5977f0d9b89c1186bc482f8": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -123,17 +42,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "78e1787fd44ecd5f4f6d724b31c21184ac305f53f90ed0936122fecf9d31dae4": {
         "sectxt": true,
         "sectionID": "925040",
         "type": "DI",
@@ -142,16 +60,15 @@
         "time": "7:00p-7:50p",
         "building": "CENTR",
         "room": "216",
-        "instructor": "Zeger, Kenneth A.",
         "instructors": [
           "Zeger, Kenneth A."
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "77a90d7a8864ca19fd9b8963b8c321ba412d20b52100d010e9805af3b2d06f08": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -160,17 +77,15 @@
         "time": "12:30p-1:50p",
         "building": "HSS",
         "room": "1330",
-        "instructor": "Zeger, Kenneth A.",
         "instructors": [
           "Zeger, Kenneth A."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "f8ad585298e7b342895c254554dd0fa501d6feea536e74d6146ebcf55fb31294": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -179,16 +94,15 @@
         "time": "12:30p-1:50p",
         "building": "HSS",
         "room": "1330",
-        "instructor": "Zeger, Kenneth A.",
         "instructors": [
           "Zeger, Kenneth A."
         ],
         "start_time": "12:30",
         "end_time": "13:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

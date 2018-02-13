@@ -3,24 +3,8 @@
   "name": "Internship",
   "department": "GPGN",
   "id": "497",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921738",
-      "type": "IT",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Samphantharak, Krislert",
-      "instructors": [
-        "Samphantharak, Krislert"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Samphantharak, Krislert",
       "instructors": [
         "Samphantharak, Krislert"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

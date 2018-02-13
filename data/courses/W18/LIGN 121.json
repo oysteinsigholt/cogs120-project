@@ -3,42 +3,9 @@
   "name": "Syntax I",
   "department": "LIGN",
   "id": "121",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922277",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "CENTR",
-      "room": "222",
-      "instructor": "Biswas, Priyanka",
-      "instructors": [
-        "Biswas, Priyanka"
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "beafdbaf1c8ef0f40e5c11d8c48166c5703b5eeeba30627c596f4a975bc418b1": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -47,17 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "c1930aa8efcb83c0c57015c1900dd0f9f73d0f58660decaf5ac338a6e9c3fa2f": {
         "sectxt": true,
         "sectionID": "922277",
         "type": "LE",
@@ -66,17 +32,15 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "222",
-        "instructor": "Biswas, Priyanka",
         "instructors": [
           "Biswas, Priyanka"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "36f867665ca0b73a4d3d909fdff3555479e180a2dae52cccbed09c3b8e036212": {
         "sectxt": true,
         "sectionID": "922277",
         "type": "LE",
@@ -85,17 +49,15 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "222",
-        "instructor": "Biswas, Priyanka",
         "instructors": [
           "Biswas, Priyanka"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "190c1c7ad4e743bbb84a54ed83537b12961a79ae1ee8d7c15f162d978c59fcf8": {
         "sectxt": true,
         "sectionID": "922277",
         "type": "LE",
@@ -104,15 +66,15 @@
         "time": "1:00p-1:50p",
         "building": "CENTR",
         "room": "222",
-        "instructor": "Biswas, Priyanka",
         "instructors": [
           "Biswas, Priyanka"
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,32 +3,12 @@
   "name": "Frames of View",
   "department": "VIS",
   "id": "234N",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922819",
-      "type": "SE",
-      "section": "A00",
-      "days": "W",
-      "time": "3:00p-5:50p",
-      "building": "VAF",
-      "room": "366",
-      "instructor": "Rose, Jordan M",
-      "instructors": [
-        "Rose, Jordan M"
-      ],
-      "start_time": "15:00",
-      "end_time": "17:50"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [
-      {
+    "W": {
+      "8af3991d7b5e79566f19729a54ca7324d9e734c547f26e72b0edc4a64af36b90": {
         "sectxt": true,
         "sectionID": "922819",
         "type": "SE",
@@ -37,17 +17,15 @@
         "time": "3:00p-5:50p",
         "building": "VAF",
         "room": "366",
-        "instructor": "Rose, Jordan M",
         "instructors": [
           "Rose, Jordan M"
         ],
         "start_time": "15:00",
         "end_time": "17:50"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,35 +3,14 @@
   "name": "Undrgrad Rsrch/Mdrn Resrch Unv",
   "department": "MUIR",
   "id": "90H",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929935",
-      "type": "SE",
-      "section": "A00",
-      "days": "Th",
-      "time": "3:00p-3:50p",
-      "building": "HSS",
-      "room": "1305",
-      "instructor": "Yang, K. Wayne",
-      "instructors": [
-        "Yang, K. Wayne"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [
     "Only open to Muir College Honors and Scholars: will\n need to be preauthorized through Muir College."
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "9c180ec3515772820f3bc54171aefea0858d212a9ca731f5c03248c76160ceb3": {
         "sectxt": true,
         "sectionID": "929935",
         "type": "SE",
@@ -40,16 +19,15 @@
         "time": "3:00p-3:50p",
         "building": "HSS",
         "room": "1305",
-        "instructor": "Yang, K. Wayne",
         "instructors": [
           "Yang, K. Wayne"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

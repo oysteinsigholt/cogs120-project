@@ -3,30 +3,12 @@
   "name": "Chinese Sources and Methods",
   "department": "GPPS",
   "id": "476",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "921739",
-      "type": "SE",
-      "section": "A00",
-      "days": "MW",
-      "time": "2:00p-3:20p",
-      "building": "RBC",
-      "room": "1401",
-      "instructor": "Shih, Victor Chung",
-      "instructors": [
-        "Shih, Victor Chung"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "342e9bf67bce8ffd5a5b2f0ac2e4a527f789d70fb938a4606ec1060889483353": {
         "sectxt": true,
         "sectionID": "921739",
         "type": "SE",
@@ -35,17 +17,15 @@
         "time": "2:00p-3:20p",
         "building": "RBC",
         "room": "1401",
-        "instructor": "Shih, Victor Chung",
         "instructors": [
           "Shih, Victor Chung"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "47dc8bd1fae7fb8aeb8977051cd4f1cfe96e9e0e99b478d126ab2900074d20e8": {
         "sectxt": true,
         "sectionID": "921739",
         "type": "SE",
@@ -54,17 +34,15 @@
         "time": "2:00p-3:20p",
         "building": "RBC",
         "room": "1401",
-        "instructor": "Shih, Victor Chung",
         "instructors": [
           "Shih, Victor Chung"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

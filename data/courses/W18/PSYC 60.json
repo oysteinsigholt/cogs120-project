@@ -3,154 +3,23 @@
   "name": "Introduction to Statistics",
   "department": "PSYC",
   "id": "60",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "B00",
-      "days": "MWF",
-      "time": "5:00p-5:50p",
-      "building": "CENTR",
-      "room": "216",
-      "instructor": "Steiner, Eric Tomas",
-      "instructors": [
-        "Steiner, Eric Tomas"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924599",
-      "type": "DI",
-      "section": "B01",
-      "days": "Tu",
-      "time": "11:00a-11:50a",
-      "building": "MCGIL",
-      "room": "1350",
-      "instructor": "Steiner, Eric Tomas",
-      "instructors": [
-        "Steiner, Eric Tomas"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924600",
-      "type": "DI",
-      "section": "B02",
-      "days": "W",
-      "time": "9:00a-9:50a",
-      "building": "MCGIL",
-      "room": "1350",
-      "instructor": "Steiner, Eric Tomas",
-      "instructors": [
-        "Steiner, Eric Tomas"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924601",
-      "type": "DI",
-      "section": "B03",
-      "days": "W",
-      "time": "2:00p-2:50p",
-      "building": "MCGIL",
-      "room": "1350",
-      "instructor": "Steiner, Eric Tomas",
-      "instructors": [
-        "Steiner, Eric Tomas"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924602",
-      "type": "DI",
-      "section": "B04",
-      "days": "Th",
-      "time": "11:00a-11:50a",
-      "building": "MCGIL",
-      "room": "1350",
-      "instructor": "Steiner, Eric Tomas",
-      "instructors": [
-        "Steiner, Eric Tomas"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924603",
-      "type": "DI",
-      "section": "B05",
-      "days": "Th",
-      "time": "5:00p-5:50p",
-      "building": "MCGIL",
-      "room": "1350",
-      "instructor": "Steiner, Eric Tomas",
-      "instructors": [
-        "Steiner, Eric Tomas"
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924604",
-      "type": "DI",
-      "section": "B06",
-      "days": "F",
-      "time": "11:00a-11:50a",
-      "building": "MCGIL",
-      "room": "1350",
-      "instructor": "Steiner, Eric Tomas",
-      "instructors": [
-        "Steiner, Eric Tomas"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924605",
-      "type": "DI",
-      "section": "B07",
-      "days": "F",
-      "time": "12:00p-12:50p",
-      "building": "MCGIL",
-      "room": "1350",
-      "instructor": "Steiner, Eric Tomas",
-      "instructors": [
-        "Steiner, Eric Tomas"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "11:30a-2:29p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "11:30",
+      "end_time": "14:29"
+    },
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -159,17 +28,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "edf2bf6f066bd0e1d9eb98b01f0fde921dd79af001794f768e4074c2500d7234": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -178,16 +46,45 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "216",
-        "instructor": "Steiner, Eric Tomas",
         "instructors": [
           "Steiner, Eric Tomas"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "d76bcf043f1041aeae848254fedd3b9af18897231d4c3398c9af555ce5e62306": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "PETER",
+        "room": "108",
+        "instructors": [
+          "Lowe, Angela Beth"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "9361d5c5e38a1aae0adcd9d732311c277ab9ea157cea1f3054237ee719eba019": {
+        "sectxt": true,
+        "sectionID": "924591",
+        "type": "DI",
+        "section": "A01",
+        "days": "Tu",
+        "time": "4:00p-4:50p",
+        "building": "MCGIL",
+        "room": "1350",
+        "instructors": [
+          "Lowe, Angela Beth"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "9b3d8398d37427de988caf1016a98d59fcad7a7021d43cee1aae85fb72486a46": {
         "sectxt": true,
         "sectionID": "924599",
         "type": "DI",
@@ -196,16 +93,45 @@
         "time": "11:00a-11:50a",
         "building": "MCGIL",
         "room": "1350",
-        "instructor": "Steiner, Eric Tomas",
         "instructors": [
           "Steiner, Eric Tomas"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "6523aee04ebbe3aaf1796d55931e8783f554518b8ec8815fcbea3265f1412aed": {
+        "sectxt": true,
+        "sectionID": "924592",
+        "type": "DI",
+        "section": "A02",
+        "days": "W",
+        "time": "12:00p-12:50p",
+        "building": "MCGIL",
+        "room": "1350",
+        "instructors": [
+          "Lowe, Angela Beth"
+        ],
+        "start_time": "12:00",
+        "end_time": "12:50"
+      },
+      "7355b0c46d51eab2c2473540ed82242093ae287c74954118babfc71b98acb01b": {
+        "sectxt": true,
+        "sectionID": "924593",
+        "type": "DI",
+        "section": "A03",
+        "days": "W",
+        "time": "1:00p-1:50p",
+        "building": "MCGIL",
+        "room": "1350",
+        "instructors": [
+          "Lowe, Angela Beth"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "dd93ad375e6503835c2a8bb93a5e976efc3aae125af42179f22feda1ac9456a7": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -214,14 +140,13 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "216",
-        "instructor": "Steiner, Eric Tomas",
         "instructors": [
           "Steiner, Eric Tomas"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "10223de9751c5173837cfbd35d601cbdd4eb471120d03bab563c3621ed49cd6e": {
         "sectxt": true,
         "sectionID": "924600",
         "type": "DI",
@@ -230,14 +155,13 @@
         "time": "9:00a-9:50a",
         "building": "MCGIL",
         "room": "1350",
-        "instructor": "Steiner, Eric Tomas",
         "instructors": [
           "Steiner, Eric Tomas"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "82669aab8c939d4a92d0a3c68138cbb2440429eeb0013c3b79298d81e4b46bf9": {
         "sectxt": true,
         "sectionID": "924601",
         "type": "DI",
@@ -246,16 +170,45 @@
         "time": "2:00p-2:50p",
         "building": "MCGIL",
         "room": "1350",
-        "instructor": "Steiner, Eric Tomas",
         "instructors": [
           "Steiner, Eric Tomas"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "055dab9e4efb54208a1d7f8ffd64e8d079ba2cc9fe681a6ccf684c385c6a7818": {
+        "sectxt": true,
+        "sectionID": "",
+        "type": "LE",
+        "section": "A00",
+        "days": "TuTh",
+        "time": "11:00a-12:20p",
+        "building": "PETER",
+        "room": "108",
+        "instructors": [
+          "Lowe, Angela Beth"
+        ],
+        "start_time": "11:00",
+        "end_time": "12:20"
+      },
+      "09d05626477a867b1a3feb7c28a39c73710c1c7bf2d1ceed58d0dcd779e5e977": {
+        "sectxt": true,
+        "sectionID": "924594",
+        "type": "DI",
+        "section": "A04",
+        "days": "Th",
+        "time": "4:00p-4:50p",
+        "building": "MCGIL",
+        "room": "1350",
+        "instructors": [
+          "Lowe, Angela Beth"
+        ],
+        "start_time": "16:00",
+        "end_time": "16:50"
+      },
+      "bbd9fd90dd370e61bcc5bc89c132f8d9f765a7360dffacc1a33a0b017d40ef05": {
         "sectxt": true,
         "sectionID": "924602",
         "type": "DI",
@@ -264,14 +217,13 @@
         "time": "11:00a-11:50a",
         "building": "MCGIL",
         "room": "1350",
-        "instructor": "Steiner, Eric Tomas",
         "instructors": [
           "Steiner, Eric Tomas"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "f66265ac114ca47118ec1453fb0ed01f29b00af4985e0ed6cc689ee75dc0cba7": {
         "sectxt": true,
         "sectionID": "924603",
         "type": "DI",
@@ -280,16 +232,60 @@
         "time": "5:00p-5:50p",
         "building": "MCGIL",
         "room": "1350",
-        "instructor": "Steiner, Eric Tomas",
         "instructors": [
           "Steiner, Eric Tomas"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "e1c677158ad65e4aed42fc28a3ba10b6f1e458798805eb176f81c104f8682e65": {
+        "sectxt": true,
+        "sectionID": "924595",
+        "type": "DI",
+        "section": "A05",
+        "days": "F",
+        "time": "9:00a-9:50a",
+        "building": "MCGIL",
+        "room": "1350",
+        "instructors": [
+          "Lowe, Angela Beth"
+        ],
+        "start_time": "9:00",
+        "end_time": "9:50"
+      },
+      "d6d8e82104ce47d39f770537aabaaaab0e2df75a41c5ff874adc709cb4163e06": {
+        "sectxt": true,
+        "sectionID": "924596",
+        "type": "DI",
+        "section": "A06",
+        "days": "F",
+        "time": "10:00a-10:50a",
+        "building": "MCGIL",
+        "room": "1350",
+        "instructors": [
+          "Lowe, Angela Beth"
+        ],
+        "start_time": "10:00",
+        "end_time": "10:50"
+      },
+      "868f89a33238bddb5b0448f508b8adabb8d2d53e1c1eedc2b9c9331e8857d09b": {
+        "sectxt": true,
+        "sectionID": "924597",
+        "type": "DI",
+        "section": "A07",
+        "days": "F",
+        "time": "1:00p-1:50p",
+        "building": "MCGIL",
+        "room": "1350",
+        "instructors": [
+          "Lowe, Angela Beth"
+        ],
+        "start_time": "13:00",
+        "end_time": "13:50"
+      },
+      "91bafcab5770bf1659de8ca4c1de841c99c652c440d5baf37cbf028e4e2514c2": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -298,14 +294,13 @@
         "time": "5:00p-5:50p",
         "building": "CENTR",
         "room": "216",
-        "instructor": "Steiner, Eric Tomas",
         "instructors": [
           "Steiner, Eric Tomas"
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       },
-      {
+      "196f643472877968efa08c108333a81621849017ec9ac0d573ef2b18fa303648": {
         "sectxt": true,
         "sectionID": "924604",
         "type": "DI",
@@ -314,14 +309,13 @@
         "time": "11:00a-11:50a",
         "building": "MCGIL",
         "room": "1350",
-        "instructor": "Steiner, Eric Tomas",
         "instructors": [
           "Steiner, Eric Tomas"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       },
-      {
+      "dce89aab6e5ae1ebc8a6ec5d8fa626cf947e1a5cc851e0a4a20d95e10ef22155": {
         "sectxt": true,
         "sectionID": "924605",
         "type": "DI",
@@ -330,15 +324,16 @@
         "time": "12:00p-12:50p",
         "building": "MCGIL",
         "room": "1350",
-        "instructor": "Steiner, Eric Tomas",
         "instructors": [
           "Steiner, Eric Tomas"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B"
+  ]
 }

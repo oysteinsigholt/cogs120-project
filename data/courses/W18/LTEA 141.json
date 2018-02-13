@@ -3,57 +3,9 @@
   "name": "Mod Kor Lit 1945 to Present",
   "department": "LTEA",
   "id": "141",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924340",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "12:00p-12:50p",
-      "building": "HSS",
-      "room": "2154",
-      "instructor": "Berthelier, Benoit P",
-      "instructors": [
-        "Berthelier, Benoit P"
-      ],
-      "start_time": "12:00",
-      "end_time": "12:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/09/2018",
-      "days": "F",
-      "time": "10:00a-10:50a",
-      "building": "LIT",
-      "room": "255",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-09T08:00:00.000Z",
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "7b30a630ccc2703d0b634145da3232bbc38ba52530bc0e97ee14bb0f6a5f7eee": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -62,13 +14,12 @@
       "time": "10:00a-10:50a",
       "building": "LIT",
       "room": "255",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-09T08:00:00.000Z",
       "start_time": "10:00",
       "end_time": "10:50"
     },
-    {
+    "04732829e0d2135eb5d5ac1e755beac0155148d855ecee19943b3da75b97f630": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -77,17 +28,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "342e989298797d0be2bc12c0adb10393a97297fa2e085e06a1e981c3aab8ae3c": {
         "sectxt": true,
         "sectionID": "924340",
         "type": "LE",
@@ -96,17 +46,15 @@
         "time": "12:00p-12:50p",
         "building": "HSS",
         "room": "2154",
-        "instructor": "Berthelier, Benoit P",
         "instructors": [
           "Berthelier, Benoit P"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "5928f248c9204207583193d29c4ba456e6efadbaa361b1960243714aaf2a7f68": {
         "sectxt": true,
         "sectionID": "924340",
         "type": "LE",
@@ -115,17 +63,15 @@
         "time": "12:00p-12:50p",
         "building": "HSS",
         "room": "2154",
-        "instructor": "Berthelier, Benoit P",
         "instructors": [
           "Berthelier, Benoit P"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "558095e9e16cad59a767da7f0bd4c6d42f4c12544f1461a420399733a3747fb4": {
         "sectxt": true,
         "sectionID": "924340",
         "type": "LE",
@@ -134,15 +80,15 @@
         "time": "12:00p-12:50p",
         "building": "HSS",
         "room": "2154",
-        "instructor": "Berthelier, Benoit P",
         "instructors": [
           "Berthelier, Benoit P"
         ],
         "start_time": "12:00",
         "end_time": "12:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

@@ -3,59 +3,39 @@
   "name": "Business Project Management",
   "department": "MGT",
   "id": "172",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "922592",
-      "type": "LE",
-      "section": "C00",
-      "days": "Th",
-      "time": "6:30p-9:20p",
-      "building": "OTRSN",
-      "room": "1S114",
-      "instructor": "Zimmermann, Carsten",
-      "instructors": [
-        "Zimmermann, Carsten"
-      ],
-      "start_time": "18:30",
-      "end_time": "21:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "MU",
-      "section": "02/16/2018",
-      "days": "F",
-      "time": "1:00p-3:50p",
-      "building": "OTRSN",
-      "room": "1S114",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-16T08:00:00.000Z",
-      "start_time": "13:00",
-      "end_time": "15:50"
-    }
-  ],
   "notes": [
     "No class 01/19/18"
   ],
-  "events_single": [
-    {
+  "events_single": {
+    "fd8f1b79d5026b39694b89e4ef9a2d7ff393293e86a51083102f2c86050747c7": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/22/2018",
+      "days": "Th",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-22T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    },
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
+      "sectxt": false,
+      "sectionID": "",
+      "type": "FI",
+      "section": "03/19/2018",
+      "days": "M",
+      "time": "7:00p-9:59p",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [],
+      "date": "2018-03-19T07:00:00.000Z",
+      "start_time": "19:00",
+      "end_time": "21:59"
+    },
+    "83f667703ee5f41443699d3c685d2af7204f58e7d0026726650a8f5259ecf403": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -64,13 +44,12 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     },
-    {
+    "fa4a71d83db684e2c89ed3e66d43d0f1fc991d24faa29d9a4cff77164ac62d22": {
       "sectxt": false,
       "sectionID": "",
       "type": "MU",
@@ -79,20 +58,48 @@
       "time": "1:00p-3:50p",
       "building": "OTRSN",
       "room": "1S114",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-16T08:00:00.000Z",
       "start_time": "13:00",
       "end_time": "15:50"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "W": {
+      "01cd5bf7d9fb07fe50dd6a633accb7eb1220ee7f1de124ba3c509468d240955f": {
+        "sectxt": true,
+        "sectionID": "922591",
+        "type": "LE",
+        "section": "B00",
+        "days": "W",
+        "time": "5:00p-7:50p",
+        "building": "OTRSN",
+        "room": "1S114",
+        "instructors": [
+          "Hedges, Kathleen"
+        ],
+        "start_time": "17:00",
+        "end_time": "19:50"
+      }
+    },
+    "Th": {
+      "f069dc9cd187e6b65323f8548165cace3d5ea6c20a5e80b27afdec81178237c0": {
+        "sectxt": true,
+        "sectionID": "922590",
+        "type": "LE",
+        "section": "A00",
+        "days": "Th",
+        "time": "5:00p-7:50p",
+        "building": "WFH",
+        "room": "1N108",
+        "instructors": [
+          "Hedges, Kathleen                   \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRoyal, Rebecca"
+        ],
+        "start_time": "17:00",
+        "end_time": "19:50"
+      },
+      "72ddf067784bb365b24174ab302a09e92bb85d41509cab06181fbd2ba1dc7d5f": {
         "sectxt": true,
         "sectionID": "922592",
         "type": "LE",
@@ -101,16 +108,17 @@
         "time": "6:30p-9:20p",
         "building": "OTRSN",
         "room": "1S114",
-        "instructor": "Zimmermann, Carsten",
         "instructors": [
           "Zimmermann, Carsten"
         ],
         "start_time": "18:30",
         "end_time": "21:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A",
+    "B",
+    "C"
+  ]
 }

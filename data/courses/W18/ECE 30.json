@@ -3,106 +3,9 @@
   "name": "Intro to Computer Engineering",
   "department": "ECE",
   "id": "30",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "10:00a-10:50a",
-      "building": "PETER",
-      "room": "104",
-      "instructor": "Eldon, John",
-      "instructors": [
-        "Eldon, John"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A01",
-      "days": "M",
-      "time": "8:00a-8:50a",
-      "building": "PETER",
-      "room": "104",
-      "instructor": "Eldon, John",
-      "instructors": [
-        "Eldon, John"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924990",
-      "type": "LA",
-      "section": "A50",
-      "days": "M",
-      "time": "7:00p-10:00p",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "Eldon, John",
-      "instructors": [
-        "Eldon, John"
-      ],
-      "start_time": "19:00",
-      "end_time": "22:00"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924991",
-      "type": "LA",
-      "section": "A51",
-      "days": "Tu",
-      "time": "7:00p-10:00p",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "Eldon, John",
-      "instructors": [
-        "Eldon, John"
-      ],
-      "start_time": "19:00",
-      "end_time": "22:00"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "924992",
-      "type": "LA",
-      "section": "A52",
-      "days": "W",
-      "time": "7:00p-10:00p",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "Eldon, John",
-      "instructors": [
-        "Eldon, John"
-      ],
-      "start_time": "19:00",
-      "end_time": "22:00"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/23/2018",
-      "days": "F",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-23T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "62e6a838f209b65ec7f909bd45c796acdd0bf2d303e40abbb0c3d493f2b8ccef": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -111,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-23T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "40cdd3ea393878439ebaf5c767383214e7d7acfe333c98c416ae87493bc85dba": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -130,14 +32,13 @@
         "time": "10:00a-10:50a",
         "building": "PETER",
         "room": "104",
-        "instructor": "Eldon, John",
         "instructors": [
           "Eldon, John"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "32dd677ed4f655d866c7fca7402ccf398baf402107a74a3e9552480033e5c5d9": {
         "sectxt": true,
         "sectionID": "",
         "type": "DI",
@@ -146,14 +47,13 @@
         "time": "8:00a-8:50a",
         "building": "PETER",
         "room": "104",
-        "instructor": "Eldon, John",
         "instructors": [
           "Eldon, John"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "c53654d68eb6340e1be8c2549903b4aaae0651d6d7d1b762108d4e6171d66174": {
         "sectxt": true,
         "sectionID": "924990",
         "type": "LA",
@@ -162,16 +62,15 @@
         "time": "7:00p-10:00p",
         "building": "WLH",
         "room": "2114",
-        "instructor": "Eldon, John",
         "instructors": [
           "Eldon, John"
         ],
         "start_time": "19:00",
         "end_time": "22:00"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "e04b126abcae44c46f6196c0943e08d085f6d95c975d46f6b64f3f9150c1c14b": {
         "sectxt": true,
         "sectionID": "924991",
         "type": "LA",
@@ -180,16 +79,15 @@
         "time": "7:00p-10:00p",
         "building": "WLH",
         "room": "2114",
-        "instructor": "Eldon, John",
         "instructors": [
           "Eldon, John"
         ],
         "start_time": "19:00",
         "end_time": "22:00"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "9e7000e2f88be7b1f47b2ec9cdc4cadb0aac4f8df501aa444c431665ffa5d103": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -198,14 +96,13 @@
         "time": "10:00a-10:50a",
         "building": "PETER",
         "room": "104",
-        "instructor": "Eldon, John",
         "instructors": [
           "Eldon, John"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "9858da277dcb126919702711b1edfcb7d6e012e48bf4246cc44eafa1eaa8375d": {
         "sectxt": true,
         "sectionID": "924992",
         "type": "LA",
@@ -214,17 +111,15 @@
         "time": "7:00p-10:00p",
         "building": "WLH",
         "room": "2114",
-        "instructor": "Eldon, John",
         "instructors": [
           "Eldon, John"
         ],
         "start_time": "19:00",
         "end_time": "22:00"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "57d13ebef86c1f21d3cb4f95dd18b6de95918f2164de032cc92a04d5a99151c4": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -233,15 +128,15 @@
         "time": "10:00a-10:50a",
         "building": "PETER",
         "room": "104",
-        "instructor": "Eldon, John",
         "instructors": [
           "Eldon, John"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

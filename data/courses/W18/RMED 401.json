@@ -3,24 +3,8 @@
   "name": "Obstetrcs&Gyneclgy Cor Clrkshp",
   "department": "RMED",
   "id": "401",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "928648",
-      "type": "CL",
-      "section": "A00",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Deak, Pamela W",
-      "instructors": [
-        "Deak, Pamela W"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
@@ -31,19 +15,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Deak, Pamela W",
       "instructors": [
         "Deak, Pamela W"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

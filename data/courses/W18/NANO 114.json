@@ -3,342 +3,9 @@
   "name": "Prob and Stat Methods for Eng",
   "department": "NANO",
   "id": "114",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "926738",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "9:30a-10:50a",
-      "building": "PCYNH",
-      "room": "109",
-      "instructor": "Ong, Shyue Ping",
-      "instructors": [
-        "Ong, Shyue Ping"
-      ],
-      "start_time": "9:30",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/22/2018",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "SEQUO",
-      "room": "148",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-22T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/24/2018",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "PCYNH",
-      "room": "120",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-24T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/29/2018",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "SEQUO",
-      "room": "148",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-29T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "01/31/2018",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "PCYNH",
-      "room": "120",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-01-31T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/05/2018",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "SEQUO",
-      "room": "148",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-05T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/07/2018",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "PCYNH",
-      "room": "120",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-07T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/12/2018",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "SEQUO",
-      "room": "148",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-12T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/14/2018",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "PCYNH",
-      "room": "120",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-14T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/14/2018",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-14T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/21/2018",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "PCYNH",
-      "room": "120",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-21T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/21/2018",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-21T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/26/2018",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "SEQUO",
-      "room": "148",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-26T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/28/2018",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "PCYNH",
-      "room": "120",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-28T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "02/28/2018",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-28T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/05/2018",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "SEQUO",
-      "room": "148",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-05T08:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/07/2018",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "PCYNH",
-      "room": "120",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-07T08:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/07/2018",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-07T08:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/12/2018",
-      "days": "M",
-      "time": "2:00p-2:50p",
-      "building": "SEQUO",
-      "room": "148",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-12T07:00:00.000Z",
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/14/2018",
-      "days": "W",
-      "time": "4:00p-4:50p",
-      "building": "PCYNH",
-      "room": "120",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-14T07:00:00.000Z",
-      "start_time": "16:00",
-      "end_time": "16:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "PB",
-      "section": "03/14/2018",
-      "days": "W",
-      "time": "5:00p-5:50p",
-      "building": "WLH",
-      "room": "2114",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-14T07:00:00.000Z",
-      "start_time": "17:00",
-      "end_time": "17:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/20/2018",
-      "days": "Tu",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-20T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "35177ecd35a9be47eb3e9163f1c5e0e3ec4b24d41a3683818ba59d5cba60d533": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -347,13 +14,12 @@
       "time": "2:00p-2:50p",
       "building": "SEQUO",
       "room": "148",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-22T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "83907f4340fa8408f4231ae88cd7bca025d42853fc998c92c940d6bf34aac46a": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -362,13 +28,12 @@
       "time": "4:00p-4:50p",
       "building": "PCYNH",
       "room": "120",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-24T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "c2c250de0f17bd874e0b3d33273b80cc13b76108b1ebc4db37916c9a3a351efa": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -377,13 +42,12 @@
       "time": "2:00p-2:50p",
       "building": "SEQUO",
       "room": "148",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-29T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "9cdc4650ede0ae0a906d06c0cdcfa56a01b3c1f453e5c420539f7547961dab35": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -392,13 +56,12 @@
       "time": "4:00p-4:50p",
       "building": "PCYNH",
       "room": "120",
-      "instructor": "",
       "instructors": [],
       "date": "2018-01-31T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "4a16ece0f7a1e2992cdeba633e259ab03e02cde51d71df59b0eb1d663a168f50": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -407,13 +70,12 @@
       "time": "2:00p-2:50p",
       "building": "SEQUO",
       "room": "148",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-05T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "d87b7fd8dcd05989f44e3508f4f2a738aeba6418f1989381ace19f3d3795ce08": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -422,13 +84,12 @@
       "time": "4:00p-4:50p",
       "building": "PCYNH",
       "room": "120",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-07T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "1af7c0742b884182788ebf905ed2084d16670d9cfba7b9b4bc669410492ae8b2": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -437,13 +98,12 @@
       "time": "2:00p-2:50p",
       "building": "SEQUO",
       "room": "148",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-12T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "51e239affc313113468aea336c55a75e9c129ccd94f0492d0220aeff2124c5ad": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -452,13 +112,12 @@
       "time": "4:00p-4:50p",
       "building": "PCYNH",
       "room": "120",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-14T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "38876cc43d4b2017797af667a105db9935263ceae602e41a996bc1d37568e653": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -467,13 +126,12 @@
       "time": "5:00p-5:50p",
       "building": "WLH",
       "room": "2114",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-14T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "dfd9b9bf800d77da462d335aff41e1b47a0b0809aad8a90776de309d4458bb24": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -482,13 +140,12 @@
       "time": "4:00p-4:50p",
       "building": "PCYNH",
       "room": "120",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-21T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "5cf71f5bfd19325b6a8c48612b5fbdd0c59000c2de2c24c054225118716a3867": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -497,13 +154,12 @@
       "time": "5:00p-5:50p",
       "building": "WLH",
       "room": "2114",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-21T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "a3723209864b3d0c29661ec25bce52f05529237e525af7a3a5b27964f48f0e56": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -512,13 +168,12 @@
       "time": "2:00p-2:50p",
       "building": "SEQUO",
       "room": "148",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-26T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "9f9a5f35c888a6a9e65588c97dcaac5754ec2fffdc4f69f4fcb21f9989e61f11": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -527,13 +182,12 @@
       "time": "4:00p-4:50p",
       "building": "PCYNH",
       "room": "120",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-28T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "762cba64656f41850b606e4fb84885b8cc3bce6843ca499b4f9667ea8a07e581": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -542,13 +196,12 @@
       "time": "5:00p-5:50p",
       "building": "WLH",
       "room": "2114",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-28T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "704fd6621d4c401ede8190634cfc565e8026caff22a3a688be0bd33dfd5c1f43": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -557,13 +210,12 @@
       "time": "2:00p-2:50p",
       "building": "SEQUO",
       "room": "148",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-05T08:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "f86748a5e1345c5823fb313f6ea1b910c5665f55640a64f7f46e1e3fb9ef306a": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -572,13 +224,12 @@
       "time": "4:00p-4:50p",
       "building": "PCYNH",
       "room": "120",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-07T08:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "7282c23fca995b95bfc14f6c94f8b99fb99b075d00d88376eef4b8dfd47ad11b": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -587,13 +238,12 @@
       "time": "5:00p-5:50p",
       "building": "WLH",
       "room": "2114",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-07T08:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "9a0122406566614c4ac0b80144bde7718134b964da17d3311990597966dfbea8": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -602,13 +252,12 @@
       "time": "2:00p-2:50p",
       "building": "SEQUO",
       "room": "148",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-12T07:00:00.000Z",
       "start_time": "14:00",
       "end_time": "14:50"
     },
-    {
+    "1980807ea52a55c82c022da6532109ca78625d4a61bc1a72f7952e667fc661e5": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -617,13 +266,12 @@
       "time": "4:00p-4:50p",
       "building": "PCYNH",
       "room": "120",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-14T07:00:00.000Z",
       "start_time": "16:00",
       "end_time": "16:50"
     },
-    {
+    "927c60f48489c3ce966a8521316ae1f75d0d125c9485e8e92d28c317d330e3f0": {
       "sectxt": false,
       "sectionID": "",
       "type": "PB",
@@ -632,13 +280,12 @@
       "time": "5:00p-5:50p",
       "building": "WLH",
       "room": "2114",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-14T07:00:00.000Z",
       "start_time": "17:00",
       "end_time": "17:50"
     },
-    {
+    "fa63b214402068221474a44f788ae782f138e9bcb99f9ac425c7684e28c23a85": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -647,18 +294,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-20T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "5ae3183452836056554577078ed56a27b36453b67d01b2046de78c496faa004f": {
         "sectxt": true,
         "sectionID": "926738",
         "type": "LE",
@@ -667,17 +312,15 @@
         "time": "9:30a-10:50a",
         "building": "PCYNH",
         "room": "109",
-        "instructor": "Ong, Shyue Ping",
         "instructors": [
           "Ong, Shyue Ping"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "a5dedbfe9626cb047178c2ac4a3b1429d092903e73dfa6e5c1e029b56dffd582": {
         "sectxt": true,
         "sectionID": "926738",
         "type": "LE",
@@ -686,16 +329,15 @@
         "time": "9:30a-10:50a",
         "building": "PCYNH",
         "room": "109",
-        "instructor": "Ong, Shyue Ping",
         "instructors": [
           "Ong, Shyue Ping"
         ],
         "start_time": "9:30",
         "end_time": "10:50"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

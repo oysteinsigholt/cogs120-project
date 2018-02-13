@@ -3,90 +3,9 @@
   "name": "Intro/Discrete Mathematics",
   "department": "CSE",
   "id": "20",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "5:00p-6:20p",
-      "building": "GH",
-      "room": "242",
-      "instructor": "Vardy, Alexander",
-      "instructors": [
-        "Vardy, Alexander"
-      ],
-      "start_time": "17:00",
-      "end_time": "18:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927451",
-      "type": "DI",
-      "section": "A01",
-      "days": "Tu",
-      "time": "6:00p-6:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "Vardy, Alexander",
-      "instructors": [
-        "Vardy, Alexander"
-      ],
-      "start_time": "18:00",
-      "end_time": "18:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927452",
-      "type": "DI",
-      "section": "A02",
-      "days": "Tu",
-      "time": "7:00p-7:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "Vardy, Alexander",
-      "instructors": [
-        "Vardy, Alexander"
-      ],
-      "start_time": "19:00",
-      "end_time": "19:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "927453",
-      "type": "DI",
-      "section": "A03",
-      "days": "Tu",
-      "time": "8:00p-8:50p",
-      "building": "CSB",
-      "room": "002",
-      "instructor": "Vardy, Alexander",
-      "instructors": [
-        "Vardy, Alexander"
-      ],
-      "start_time": "20:00",
-      "end_time": "20:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/19/2018",
-      "days": "M",
-      "time": "7:00p-9:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-19T07:00:00.000Z",
-      "start_time": "19:00",
-      "end_time": "21:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "78ac7155160da14e8dbf40f2fcc1a91cb516c9e798405fe90093e78afd5f9470": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -95,17 +14,16 @@
       "time": "7:00p-9:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-19T07:00:00.000Z",
       "start_time": "19:00",
       "end_time": "21:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "503eae0a8858b7b329809768e5967230ac8000e953deadca9a39203641302192": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -114,16 +32,15 @@
         "time": "5:00p-6:20p",
         "building": "GH",
         "room": "242",
-        "instructor": "Vardy, Alexander",
         "instructors": [
           "Vardy, Alexander"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Tu": [
-      {
+    },
+    "Tu": {
+      "a5a5a5d3c580b53036b1c8a863c32915b14705bd244970a895ebb00d51454ad9": {
         "sectxt": true,
         "sectionID": "927451",
         "type": "DI",
@@ -132,14 +49,13 @@
         "time": "6:00p-6:50p",
         "building": "CSB",
         "room": "002",
-        "instructor": "Vardy, Alexander",
         "instructors": [
           "Vardy, Alexander"
         ],
         "start_time": "18:00",
         "end_time": "18:50"
       },
-      {
+      "9b4fd7edf279a1c44e975b1d60d23c68ac0491b7d28da9f0564789bb21bbf20f": {
         "sectxt": true,
         "sectionID": "927452",
         "type": "DI",
@@ -148,14 +64,13 @@
         "time": "7:00p-7:50p",
         "building": "CSB",
         "room": "002",
-        "instructor": "Vardy, Alexander",
         "instructors": [
           "Vardy, Alexander"
         ],
         "start_time": "19:00",
         "end_time": "19:50"
       },
-      {
+      "9548c6a1298a849c6103878f0a4b19249fd3ba4299f79b3be8aa150df73ffc7e": {
         "sectxt": true,
         "sectionID": "927453",
         "type": "DI",
@@ -164,16 +79,15 @@
         "time": "8:00p-8:50p",
         "building": "CSB",
         "room": "002",
-        "instructor": "Vardy, Alexander",
         "instructors": [
           "Vardy, Alexander"
         ],
         "start_time": "20:00",
         "end_time": "20:50"
       }
-    ],
-    "W": [
-      {
+    },
+    "W": {
+      "ad10dc80025b6fae88a6e6bd4b3bc62f48725a5778aa49de4dbf9e9ef718c058": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -182,17 +96,15 @@
         "time": "5:00p-6:20p",
         "building": "GH",
         "room": "242",
-        "instructor": "Vardy, Alexander",
         "instructors": [
           "Vardy, Alexander"
         ],
         "start_time": "17:00",
         "end_time": "18:20"
       }
-    ],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

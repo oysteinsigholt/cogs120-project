@@ -3,33 +3,12 @@
   "name": "Experiential Learning in CLRE",
   "department": "CLRE",
   "id": "270",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929398",
-      "type": "PR",
-      "section": "A00",
-      "days": "Th",
-      "time": "2:00p-4:00p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Mackey, Timothy Ken",
-      "instructors": [
-        "Mackey, Timothy Ken"
-      ],
-      "start_time": "14:00",
-      "end_time": "16:00"
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [
-      {
+    "Th": {
+      "891e199f327abdc1fa9aa585c1b77b79e7090e041970ed12b82ee7a22dabd197": {
         "sectxt": true,
         "sectionID": "929398",
         "type": "PR",
@@ -38,16 +17,15 @@
         "time": "2:00p-4:00p",
         "building": "TBA",
         "room": "TBA",
-        "instructor": "Mackey, Timothy Ken",
         "instructors": [
           "Mackey, Timothy Ken"
         ],
         "start_time": "14:00",
         "end_time": "16:00"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

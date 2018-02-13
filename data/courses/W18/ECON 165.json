@@ -3,57 +3,9 @@
   "name": "Middle East Economics",
   "department": "ECON",
   "id": "165",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "924105",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "2:00p-3:20p",
-      "building": "SOLIS",
-      "room": "104",
-      "instructor": "Rauch, James E",
-      "instructors": [
-        "Rauch, James E"
-      ],
-      "start_time": "14:00",
-      "end_time": "15:20"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "RE",
-      "section": "02/13/2018",
-      "days": "Tu",
-      "time": "8:00p-9:50p",
-      "building": "CENTR",
-      "room": "109",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-02-13T08:00:00.000Z",
-      "start_time": "20:00",
-      "end_time": "21:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "3:00p-5:59p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "15:00",
-      "end_time": "17:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "457fe49872ebb7daace445e97dbec163bce6faa6a3ce623c9972826cdf2890c4": {
       "sectxt": false,
       "sectionID": "",
       "type": "RE",
@@ -62,13 +14,12 @@
       "time": "8:00p-9:50p",
       "building": "CENTR",
       "room": "109",
-      "instructor": "",
       "instructors": [],
       "date": "2018-02-13T08:00:00.000Z",
       "start_time": "20:00",
       "end_time": "21:50"
     },
-    {
+    "b58675fb24fe9227cdf82d5642bfd9551cacca01c3bb7011ea1e411f0e6c9efe": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -77,18 +28,16 @@
       "time": "3:00p-5:59p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "15:00",
       "end_time": "17:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "a06e81cccc231800955d7ba39801ef204c74715b1408402bca3c0548055c8025": {
         "sectxt": true,
         "sectionID": "924105",
         "type": "LE",
@@ -97,17 +46,15 @@
         "time": "2:00p-3:20p",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "Rauch, James E",
         "instructors": [
           "Rauch, James E"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "5c0506ef3da81940e5e63df384ad893be046c151b8f7c1394591b4ceab9a08ac": {
         "sectxt": true,
         "sectionID": "924105",
         "type": "LE",
@@ -116,16 +63,15 @@
         "time": "2:00p-3:20p",
         "building": "SOLIS",
         "room": "104",
-        "instructor": "Rauch, James E",
         "instructors": [
           "Rauch, James E"
         ],
         "start_time": "14:00",
         "end_time": "15:20"
       }
-    ],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

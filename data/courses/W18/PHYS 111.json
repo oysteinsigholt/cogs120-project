@@ -3,48 +3,14 @@
   "name": "Introduction to Ocean Waves",
   "department": "PHYS",
   "id": "111",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "929703",
-      "type": "LE",
-      "section": "A00",
-      "days": "MWF",
-      "time": "1:00p-1:50p",
-      "building": "SPIES",
-      "room": "330",
-      "instructor": "Salmon, Richard L.",
-      "instructors": [
-        "Salmon, Richard L."
-      ],
-      "start_time": "13:00",
-      "end_time": "13:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "DI",
-      "section": "A01",
-      "days": "Th",
-      "time": "5:00p-5:50p",
-      "building": "SPIES",
-      "room": "330",
-      "instructor": "Salmon, Richard L.",
-      "instructors": [
-        "Salmon, Richard L."
-      ],
-      "start_time": "17:00",
-      "end_time": "17:50"
-    }
-  ],
   "notes": [
     "This course will meet with SIO 111."
   ],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "f56680c114b8547b14d685db066028e125d9496803388ab3f3619939449af9ca": {
         "sectxt": true,
         "sectionID": "929703",
         "type": "LE",
@@ -53,17 +19,15 @@
         "time": "1:00p-1:50p",
         "building": "SPIES",
         "room": "330",
-        "instructor": "Salmon, Richard L.",
         "instructors": [
           "Salmon, Richard L."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "db0cc6e1200679fa94b49d4ba31f7534cdcc9d2cb4407b7f2b7bcfb403c5e93d": {
         "sectxt": true,
         "sectionID": "929703",
         "type": "LE",
@@ -72,16 +36,15 @@
         "time": "1:00p-1:50p",
         "building": "SPIES",
         "room": "330",
-        "instructor": "Salmon, Richard L.",
         "instructors": [
           "Salmon, Richard L."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Th": [
-      {
+    },
+    "Th": {
+      "92bf86e99396dbba4dad7b49afeb9cd5d45bdc48064a787137662af25febb255": {
         "sectxt": true,
         "sectionID": "",
         "type": "DI",
@@ -90,16 +53,15 @@
         "time": "5:00p-5:50p",
         "building": "SPIES",
         "room": "330",
-        "instructor": "Salmon, Richard L.",
         "instructors": [
           "Salmon, Richard L."
         ],
         "start_time": "17:00",
         "end_time": "17:50"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "47ed24e5d0f637372ecc5fbad0313f128f66ebf0c9589a82f995d032ff6ac6d8": {
         "sectxt": true,
         "sectionID": "929703",
         "type": "LE",
@@ -108,15 +70,15 @@
         "time": "1:00p-1:50p",
         "building": "SPIES",
         "room": "330",
-        "instructor": "Salmon, Richard L.",
         "instructors": [
           "Salmon, Richard L."
         ],
         "start_time": "13:00",
         "end_time": "13:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

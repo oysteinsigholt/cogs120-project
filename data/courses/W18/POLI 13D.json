@@ -3,154 +3,9 @@
   "name": "Power and Justice",
   "department": "POLI",
   "id": "13D",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "MW",
-      "time": "9:00a-9:50a",
-      "building": "LEDDN",
-      "room": "AUD",
-      "instructor": "Forman, Fonna",
-      "instructors": [
-        "Forman, Fonna"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925279",
-      "type": "DI",
-      "section": "A01",
-      "days": "Cancelled",
-      "time": "Cancelled",
-      "building": "Cancelled",
-      "room": "Cancelled",
-      "instructor": "Cancelled",
-      "instructors": [
-        "Cancelled"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925280",
-      "type": "DI",
-      "section": "A02",
-      "days": "W",
-      "time": "10:00a-10:50a",
-      "building": "MANDE",
-      "room": "B-104",
-      "instructor": "Forman, Fonna",
-      "instructors": [
-        "Forman, Fonna"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925281",
-      "type": "DI",
-      "section": "A03",
-      "days": "W",
-      "time": "11:00a-11:50a",
-      "building": "SOLIS",
-      "room": "110",
-      "instructor": "Forman, Fonna",
-      "instructors": [
-        "Forman, Fonna"
-      ],
-      "start_time": "11:00",
-      "end_time": "11:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925282",
-      "type": "DI",
-      "section": "A04",
-      "days": "F",
-      "time": "2:00p-2:50p",
-      "building": "TM102",
-      "room": "1",
-      "instructor": "Forman, Fonna",
-      "instructors": [
-        "Forman, Fonna"
-      ],
-      "start_time": "14:00",
-      "end_time": "14:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925283",
-      "type": "DI",
-      "section": "A06",
-      "days": "F",
-      "time": "3:00p-3:50p",
-      "building": "TM102",
-      "room": "1",
-      "instructor": "Forman, Fonna",
-      "instructors": [
-        "Forman, Fonna"
-      ],
-      "start_time": "15:00",
-      "end_time": "15:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "925284",
-      "type": "DI",
-      "section": "A07",
-      "days": "F",
-      "time": "10:00a-10:50a",
-      "building": "SOLIS",
-      "room": "109",
-      "instructor": "Forman, Fonna",
-      "instructors": [
-        "Forman, Fonna"
-      ],
-      "start_time": "10:00",
-      "end_time": "10:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "933547",
-      "type": "DI",
-      "section": "A08",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "CENTR",
-      "room": "217A",
-      "instructor": "Forman, Fonna",
-      "instructors": [
-        "Forman, Fonna"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/21/2018",
-      "days": "W",
-      "time": "8:00a-10:59a",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-21T07:00:00.000Z",
-      "start_time": "8:00",
-      "end_time": "10:59"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "c2d3973e8740e730286ea0bced0334ec300cba305347489d8a016563495655ac": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -159,17 +14,16 @@
       "time": "8:00a-10:59a",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-21T07:00:00.000Z",
       "start_time": "8:00",
       "end_time": "10:59"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [
-      {
+    "M": {
+      "1866918a9e827ca2246c3cdc0800ca8cab9d14fcb63d242959828782dc5e03cc": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -178,17 +32,15 @@
         "time": "9:00a-9:50a",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Forman, Fonna",
         "instructors": [
           "Forman, Fonna"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Tu": [],
-    "W": [
-      {
+    },
+    "W": {
+      "664fb1192c899ad420c384f1035679fd9aa443bbe17868a3444009b2ce9ed2d0": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -197,14 +49,13 @@
         "time": "9:00a-9:50a",
         "building": "LEDDN",
         "room": "AUD",
-        "instructor": "Forman, Fonna",
         "instructors": [
           "Forman, Fonna"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       },
-      {
+      "11dc3f683a1f510a65aecfc85ae03670b6bc3731d6a49d6c030033df9e94f280": {
         "sectxt": true,
         "sectionID": "925280",
         "type": "DI",
@@ -213,14 +64,13 @@
         "time": "10:00a-10:50a",
         "building": "MANDE",
         "room": "B-104",
-        "instructor": "Forman, Fonna",
         "instructors": [
           "Forman, Fonna"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "b89401fe00a4f3c2408c0fa518cdafed44cb46e0a06e4166c5c18d5faaf12881": {
         "sectxt": true,
         "sectionID": "925281",
         "type": "DI",
@@ -229,17 +79,15 @@
         "time": "11:00a-11:50a",
         "building": "SOLIS",
         "room": "110",
-        "instructor": "Forman, Fonna",
         "instructors": [
           "Forman, Fonna"
         ],
         "start_time": "11:00",
         "end_time": "11:50"
       }
-    ],
-    "Th": [],
-    "F": [
-      {
+    },
+    "F": {
+      "0fcf3cd58ac0d242c70f011e9741da1afb53d0753bc29cc71ee8e12bcefea06e": {
         "sectxt": true,
         "sectionID": "925282",
         "type": "DI",
@@ -248,14 +96,13 @@
         "time": "2:00p-2:50p",
         "building": "TM102",
         "room": "1",
-        "instructor": "Forman, Fonna",
         "instructors": [
           "Forman, Fonna"
         ],
         "start_time": "14:00",
         "end_time": "14:50"
       },
-      {
+      "0892c26df0b2583136a1a913c6ffab1aacbeabcf14e3b5769e80253500f4aa01": {
         "sectxt": true,
         "sectionID": "925283",
         "type": "DI",
@@ -264,14 +111,13 @@
         "time": "3:00p-3:50p",
         "building": "TM102",
         "room": "1",
-        "instructor": "Forman, Fonna",
         "instructors": [
           "Forman, Fonna"
         ],
         "start_time": "15:00",
         "end_time": "15:50"
       },
-      {
+      "c749da4186da838e3fe8ec5de28ecbe7f0e65c20d343e3aa9db0918ae30d3d30": {
         "sectxt": true,
         "sectionID": "925284",
         "type": "DI",
@@ -280,14 +126,13 @@
         "time": "10:00a-10:50a",
         "building": "SOLIS",
         "room": "109",
-        "instructor": "Forman, Fonna",
         "instructors": [
           "Forman, Fonna"
         ],
         "start_time": "10:00",
         "end_time": "10:50"
       },
-      {
+      "169905fd56afe2528456f5584dd75ee7ff61f83f72505b2856744620126b7bef": {
         "sectxt": true,
         "sectionID": "933547",
         "type": "DI",
@@ -296,15 +141,15 @@
         "time": "9:00a-9:50a",
         "building": "CENTR",
         "room": "217A",
-        "instructor": "Forman, Fonna",
         "instructors": [
           "Forman, Fonna"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }

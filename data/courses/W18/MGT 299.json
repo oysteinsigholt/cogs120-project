@@ -3,27 +3,102 @@
   "name": "Individual Directed Study",
   "department": "MGT",
   "id": "299",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "938181",
-      "type": "IN",
-      "section": "008",
-      "days": "TBA",
-      "time": "TBA",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "Gneezy, Ayelet",
-      "instructors": [
-        "Gneezy, Ayelet"
-      ]
-    }
-  ],
   "notes": [],
-  "events_single": [],
+  "events_single": {},
   "events_unknown": [
     {
       "sectxt": true,
+      "sectionID": "932651",
+      "type": "IN",
+      "section": "001",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Hansen, Karsten T."
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "935690",
+      "type": "IN",
+      "section": "002",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Valkanov, Rossen"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "935691",
+      "type": "IN",
+      "section": "003",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Timmermann, Allan"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "935692",
+      "type": "IN",
+      "section": "004",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Oveis, Christopher S"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "935693",
+      "type": "IN",
+      "section": "005",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Gneezy, Uri"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "938179",
+      "type": "IN",
+      "section": "006",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Wilbur, Kenneth C"
+      ]
+    },
+    {
+      "sectxt": true,
+      "sectionID": "938180",
+      "type": "IN",
+      "section": "007",
+      "days": "TBA",
+      "time": "TBA",
+      "building": "TBA",
+      "room": "TBA",
+      "instructors": [
+        "Sprenger, Charles D"
+      ]
+    },
+    {
+      "sectxt": true,
       "sectionID": "938181",
       "type": "IN",
       "section": "008",
@@ -31,19 +106,11 @@
       "time": "TBA",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "Gneezy, Ayelet",
       "instructors": [
         "Gneezy, Ayelet"
       ]
     }
   ],
-  "events_repeating": {
-    "M": [],
-    "Tu": [],
-    "W": [],
-    "Th": [],
-    "F": [],
-    "Sa": [],
-    "Su": []
-  }
+  "events_repeating": {},
+  "sections": []
 }

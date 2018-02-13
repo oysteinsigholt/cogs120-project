@@ -3,74 +3,9 @@
   "name": "Honors Organic Chemistry II",
   "department": "CHEM",
   "id": "40BH",
-  "timeslots": [
-    {
-      "sectxt": true,
-      "sectionID": "",
-      "type": "LE",
-      "section": "A00",
-      "days": "TuTh",
-      "time": "11:00a-12:20p",
-      "building": "NSB",
-      "room": "2303",
-      "instructor": "Weizman, Haim",
-      "instructors": [
-        "Weizman, Haim"
-      ],
-      "start_time": "11:00",
-      "end_time": "12:20"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926479",
-      "type": "DI",
-      "section": "A01",
-      "days": "F",
-      "time": "8:00a-8:50a",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "Weizman, Haim",
-      "instructors": [
-        "Weizman, Haim"
-      ],
-      "start_time": "8:00",
-      "end_time": "8:50"
-    },
-    {
-      "sectxt": true,
-      "sectionID": "926480",
-      "type": "DI",
-      "section": "A02",
-      "days": "F",
-      "time": "9:00a-9:50a",
-      "building": "WLH",
-      "room": "2115",
-      "instructor": "Weizman, Haim",
-      "instructors": [
-        "Weizman, Haim"
-      ],
-      "start_time": "9:00",
-      "end_time": "9:50"
-    },
-    {
-      "sectxt": false,
-      "sectionID": "",
-      "type": "FI",
-      "section": "03/22/2018",
-      "days": "Th",
-      "time": "11:30a-2:29p",
-      "building": "TBA",
-      "room": "TBA",
-      "instructor": "",
-      "instructors": [],
-      "date": "2018-03-22T07:00:00.000Z",
-      "start_time": "11:30",
-      "end_time": "14:29"
-    }
-  ],
   "notes": [],
-  "events_single": [
-    {
+  "events_single": {
+    "9a45b5d881e2cf24bcc513e59c3542cd7bc529155508590fe68ca5b8a00d7358": {
       "sectxt": false,
       "sectionID": "",
       "type": "FI",
@@ -79,18 +14,16 @@
       "time": "11:30a-2:29p",
       "building": "TBA",
       "room": "TBA",
-      "instructor": "",
       "instructors": [],
       "date": "2018-03-22T07:00:00.000Z",
       "start_time": "11:30",
       "end_time": "14:29"
     }
-  ],
+  },
   "events_unknown": [],
   "events_repeating": {
-    "M": [],
-    "Tu": [
-      {
+    "Tu": {
+      "d76bcf043f1041aeae848254fedd3b9af18897231d4c3398c9af555ce5e62306": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -99,17 +32,15 @@
         "time": "11:00a-12:20p",
         "building": "NSB",
         "room": "2303",
-        "instructor": "Weizman, Haim",
         "instructors": [
           "Weizman, Haim"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "W": [],
-    "Th": [
-      {
+    },
+    "Th": {
+      "055dab9e4efb54208a1d7f8ffd64e8d079ba2cc9fe681a6ccf684c385c6a7818": {
         "sectxt": true,
         "sectionID": "",
         "type": "LE",
@@ -118,16 +49,15 @@
         "time": "11:00a-12:20p",
         "building": "NSB",
         "room": "2303",
-        "instructor": "Weizman, Haim",
         "instructors": [
           "Weizman, Haim"
         ],
         "start_time": "11:00",
         "end_time": "12:20"
       }
-    ],
-    "F": [
-      {
+    },
+    "F": {
+      "b705f1c0b9883f914caf25b9132adfa68d08c1c23db5e1870b87885ef321eeb4": {
         "sectxt": true,
         "sectionID": "926479",
         "type": "DI",
@@ -136,14 +66,13 @@
         "time": "8:00a-8:50a",
         "building": "WLH",
         "room": "2115",
-        "instructor": "Weizman, Haim",
         "instructors": [
           "Weizman, Haim"
         ],
         "start_time": "8:00",
         "end_time": "8:50"
       },
-      {
+      "afb148a44822fdc877655fcb0b4de60e08bf5647813c35fe2b2d69e1897a5329": {
         "sectxt": true,
         "sectionID": "926480",
         "type": "DI",
@@ -152,15 +81,15 @@
         "time": "9:00a-9:50a",
         "building": "WLH",
         "room": "2115",
-        "instructor": "Weizman, Haim",
         "instructors": [
           "Weizman, Haim"
         ],
         "start_time": "9:00",
         "end_time": "9:50"
       }
-    ],
-    "Sa": [],
-    "Su": []
-  }
+    }
+  },
+  "sections": [
+    "A"
+  ]
 }
