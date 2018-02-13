@@ -20,14 +20,6 @@ if (env !== 'dev') {
   callbackURL = 'https://edge-lords-a6.herokuapp.com/auth/google/callback';
 }
 
-const userDir = path.resolve(__dirname, 'data', 'users');
-console.log(`Ensuring ${userDir} exists`);
-fs.stat(userDir, (err) => {
-  if (err && err.errno === 34) {
-    fs.mkdir(userDir);
-  }
-});
-
 const app = express();
 
 const hbs = handlebars.create({
@@ -60,6 +52,10 @@ passport.serializeUser((user, done) => {
   const file = path.resolve(__dirname, 'data', 'users', `${user.id}.json`);
 
   if (!fs.existsSync(file)) {
+    if (!fs.existsSync(path.dirname(file))) {
+      fs.mkdirSync(path.dirname(file));
+    }
+
     jsonfile.writeFile(file, user, (err) => {
       if (err) console.log(err);
       done(err, user.id);
