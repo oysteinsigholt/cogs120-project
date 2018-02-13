@@ -56,3 +56,8 @@ footer {
   background-image: url(/images/office.jpg);
   background-size: cover;
 }
+
+.brand-logo {
+  left: 50%;
+  transform: translateX(-50%);
+}
