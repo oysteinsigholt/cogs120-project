@@ -4,6 +4,7 @@ const handlebars = require('express-handlebars');
 
 const index = require('./routes/index');
 const section = require('./routes/section');
+const events = require('./routes/events');
 
 const app = express();
 
@@ -30,5 +31,6 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.get('/', index.view);
 app.get('/section', section.view);
+app.get('/add-events', events.view);
 
 app.listen(process.env.PORT || 8080);

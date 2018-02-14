@@ -1,0 +1,58 @@
+#custom-event-header {
+  font-size: 20px !important;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  max-width: calc(100% - 54px * 2);
+}
+
+[type='checkbox'] + label {
+  padding: 0;
+}
+
+[type='checkbox'] + label::before,
+[type='checkbox']:not(.filled-in) + label::after {
+  background-color: transparent;
+  border: none;
+  border-radius: 0;
+  outline: none;
+  height: 3rem;
+  width: 100%;
+  font-size: 1rem;
+  margin: 0 0 20px 0;
+  padding: 0;
+  box-shadow: none;
+  box-sizing: content-box;
+  transition: all 0.3s;
+}
+
+[type='checkbox']:checked + label::before {
+  border: none;
+}
+
+.weekDays-selector {
+  text-align: center;
+  font-weight: bold;
+
+  input {
+    display: none !important;
+  }
+
+  input[type=checkbox] + label {
+    display: inline-block;
+    border-radius: 3px;
+    border: 1.5px solid $secondary-text-color;
+    background: #ddd;
+    height: 40px;
+    width: 40px;
+    margin-right: 3px;
+    line-height: 40px;
+    text-align: center;
+    cursor: pointer;
+  }
+
+  input[type=checkbox]:checked + label {
+    background: $primary-color;
+    color: #fff;
+  }
+}
