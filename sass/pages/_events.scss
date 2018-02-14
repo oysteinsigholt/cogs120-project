@@ -31,7 +31,8 @@
 }
 
 .weekDays-selector {
-  text-align: center;
+  display: flex;
+  justify-content: center;
   font-weight: bold;
 
   input {
@@ -39,20 +40,22 @@
   }
 
   input[type=checkbox] + label {
+    @extend .z-depth-1;
+
     display: inline-block;
+    width: calc(100% / 7);
+    height: calc(100% / 7);
+    margin-left: 10px;
     border-radius: 3px;
-    border: 1.5px solid $secondary-text-color;
-    background: #ddd;
-    height: 40px;
-    width: 40px;
-    margin-right: 3px;
+    background-color: $button-disabled-background;
+    color: $button-disabled-color;
     line-height: 40px;
     text-align: center;
     cursor: pointer;
   }
 
   input[type=checkbox]:checked + label {
-    background: $primary-color;
+    background-color: $secondary-color;
     color: #fff;
   }
 }
