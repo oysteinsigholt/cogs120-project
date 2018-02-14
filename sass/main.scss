@@ -61,3 +61,12 @@ footer {
   left: 50%;
   transform: translateX(-50%);
 }
+
+.btn-back {
+  background: none;
+  color: inherit;
+  border: none;
+  cursor: pointer;
+  outline: inherit;
+  width: 56px;
+}

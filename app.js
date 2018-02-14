@@ -10,7 +10,9 @@ const GoogleStrategy = require('passport-google-oauth20').Strategy;
 const ensureLogin = require('connect-ensure-login').ensureLoggedIn();
 
 const index = require('./routes/index');
+const calendar = require('./routes/calendar');
 const section = require('./routes/section');
+const wizard = require('./routes/wizard');
 
 const env = process.env.NODE_ENV || 'dev';
 
@@ -21,9 +23,17 @@ if (env !== 'dev') {
 }
 
 const app = express();
-
 const hbs = handlebars.create({
   helpers: {
+    isChecked: (id, courseData) => {
+      if (courseData && courseData.sections && id in courseData.sections) {
+        return 'checked';
+      }
+      if (courseData && courseData.timeslots && id in courseData.timeslots) {
+        return 'checked';
+      }
+      return '';
+    },
     unabbreviateDay: (abbr) => {
       if (abbr.toLowerCase() in abbreviations.days) {
         return abbreviations.days[abbr.toLowerCase()];
@@ -84,7 +94,6 @@ if (env === 'dev') {
   app.use(require('connect-livereload')());
 }
 
-app.set('views', path.join(__dirname, 'views'));
 app.engine('hbs', hbs.engine);
 app.set('view engine', 'hbs');
 app.use(express.static(path.join(__dirname, 'public')));
@@ -92,7 +101,16 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.get('/', ensureLogin, index.view);
 app.post('/', ensureLogin, index.post);
 
+app.get('/calendar', ensureLogin, calendar.view);
+
+
 app.get('/section/:quarter/:course', ensureLogin, section.view);
+
+app.get('/wizard', (req, res) => {
+  res.redirect('/');
+});
+app.post('/wizard', ensureLogin, wizard.post);
+app.post('/wizard/next', ensureLogin, wizard.next);
 
 app.get(
   '/login',

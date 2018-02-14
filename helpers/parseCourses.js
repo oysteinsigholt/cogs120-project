@@ -96,7 +96,7 @@ function dumpCourses() {
           timeslot.end_time = parseTime(times[1]);
         }
 
-        const id = crypto.createHash('sha256').update(timeslot.sectionID + timeslot.type + timeslot.section + timeslot.days + timeslot.time, 'utf8').digest('hex');
+        const id = crypto.createHash('sha256').update('W18' + course.id + timeslot.sectionID + timeslot.type + timeslot.section + timeslot.days + timeslot.time, 'utf8').digest('hex');
         course.events_single[id] = timeslot;
       } else {
         timeslot.start_time = null;
@@ -112,7 +112,7 @@ function dumpCourses() {
         const days = parseDays(timeslot.days);
 
         for (let j = 0; j < days.length; j += 1) {
-          const id = crypto.createHash('sha256').update(timeslot.sectionID + timeslot.type + timeslot.section + j + timeslot.time, 'utf8').digest('hex');
+          const id = crypto.createHash('sha256').update('W18' + course.id + timeslot.sectionID + timeslot.type + timeslot.section + j + timeslot.time, 'utf8').digest('hex');
           course.events_repeating[days[j]][id] = timeslot;
         }
       }

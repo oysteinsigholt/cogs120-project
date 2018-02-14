@@ -1,0 +1,15 @@
+<ul id="slide-out" class="sidenav">
+  <li><div class="user-view">
+    <div class="background"></div>
+    <a><img class="circle" src="{{ user.photos.0.value }}"></a>
+    <a><span class="white-text name">{{ user.displayName }}</span></a>
+    <a><span class="white-text email">{{ user.emails.0.value }}</span></a>
+  </div></li>
+  <li><a class="waves-effect" href="/"><i class="material-icons">school</i>Add Courses</a></li>
+  <li><a class="waves-effect" href="/calendar"><i class="material-icons">event</i>Calendar</a></li>
+  <li><div class="divider"></div></li>
+  <li><a class="waves-effect" href="/about"><i class="material-icons">info</i>About</a></li>
+  <li><a class="waves-effect" href="/help"><i class="material-icons">help</i>Help</a></li>
+  <li><div class="divider"></div></li>
+  <li><a class="waves-effect" href="/logout"><i class="material-icons">exit_to_app</i>Sign Out</a></li>
+</ul>

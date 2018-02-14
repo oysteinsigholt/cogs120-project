@@ -1,12 +1,10 @@
 /* eslint-env browser */
 /* eslint-env jquery */
 
-function loadCourses(courses) {
+function loadCourses() {
   $.getJSON('/data/courses/W18.json', (data) => {
     $('.chips-autocomplete').material_chip({
-      data: courses.map((tag) => {
-        return { tag };
-      }),
+      data: {},
       placeholder: 'Add a course ',
       secondaryPlaceholder: 'Add another course ',
       autocompleteOptions: {
@@ -34,16 +32,6 @@ $(document).ready(() => {
 
   $('#skeleton-next').click((e) => {
     window.location.href = '/skeleton/section.html';
-    e.preventDefault();
-  });
-
-  $('#section-next').click((e) => {
-    window.location.href = '/skeleton/calendar.html';
-    e.preventDefault();
-  });
-
-  $('#section-custom').click((e) => {
-    window.location.href = '/skeleton/custom.html';
     e.preventDefault();
   });
 
