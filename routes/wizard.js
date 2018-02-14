@@ -67,6 +67,32 @@ exports.next = (req, res) => {
     req.user.wizard.final = false;
   }
 
+  let timeslots = [];
+  let sections = [];
+
+  if (req.body.timeslot instanceof Array) {
+    timeslots = req.body.timeslot;
+  } else if (req.body.timeslot && req.body.timeslot.length > 0) {
+    timeslots = [req.body.timeslot];
+  }
+
+  if (req.body.section instanceof Array) {
+    sections = req.body.section;
+  } else if (req.body.section && req.body.section.length > 0) {
+    sections = [req.body.section];
+  }
+
+  req.user.wizard.courseData[index] = {
+    sections: sections.reduce((map, obj) => {
+      map[obj] = true;
+      return map;
+    }, {}),
+    timeslots: timeslots.reduce((map, obj) => {
+      map[obj] = true;
+      return map;
+    }, {}),
+  };
+
   if (req.user.wizard.index >= req.user.wizard.length && action === 'next') {
     const courses = {};
     for (let i = 0; i < req.user.wizard.courses.length; i += 1) {
@@ -86,34 +112,6 @@ exports.next = (req, res) => {
       res.redirect('/');
     });
   } else {
-    let timeslots = [];
-    let sections = [];
-
-    if (req.body.timeslot instanceof Array) {
-      timeslots = req.body.timeslot;
-    } else if (req.body.timeslot && req.body.timeslot.length > 0) {
-      timeslots = [req.body.timeslot];
-    }
-
-    if (req.body.section instanceof Array) {
-      sections = req.body.section;
-    } else if (req.body.section && req.body.section.length > 0) {
-      sections = [req.body.section];
-    }
-
-    req.user.wizard.courseData[index] = {
-      sectionsRaw: sections,
-      sections: sections.reduce((map, obj) => {
-        map[obj] = true;
-        return map;
-      }, {}),
-      timeslotsRaw: timeslots,
-      timeslots: timeslots.reduce((map, obj) => {
-        map[obj] = true;
-        return map;
-      }, {}),
-    };
-
     userStore.saveUser(req.user, () => {
       let courseFile = null;
 

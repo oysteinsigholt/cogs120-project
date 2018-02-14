@@ -1,0 +1,31 @@
+.logo-img {
+  width: 100%;
+  height: 67vh;
+  background: url(http://image.cdnllnwnl.xosnetwork.com/pics32/0/WG/WGPGQVDCXBSRUKY.20120306195832.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 75%;
+}
+
+.logo-google {
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background-image: url(/images/google.png);
+  background-repeat: no-repeat;
+  margin-top: 11px;
+  transform: translateX(-6px);
+}
+
+.btn-text-centered {
+  margin-left: -36px;
+}
+
+.or {
+  opacity: 0.67;
+}
+
+.main-login {
+  margin: 0;
+  padding: 0;
+}
