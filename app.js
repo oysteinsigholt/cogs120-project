@@ -3,6 +3,7 @@ const express = require('express');
 const path = require('path');
 const fs = require('fs');
 const handlebars = require('express-handlebars');
+const flash = require('express-flash');
 const abbreviations = require('./helpers/abbreviations');
 
 const passport = require('passport');
@@ -14,6 +15,7 @@ const calendar = require('./routes/calendar');
 const section = require('./routes/section');
 const wizard = require('./routes/wizard');
 const manage = require('./routes/manage');
+const login = require('./routes/login');
 
 const env = process.env.NODE_ENV || 'dev';
 
@@ -87,6 +89,8 @@ app.use(require('cookie-parser')());
 app.use(require('body-parser').urlencoded({ extended: true }));
 app.use(require('express-session')({ secret: 'ke3p iT sEcreT, KeeP iT EdGy', resave: true, saveUninitialized: true }));
 
+app.use(flash());
+
 app.use(passport.initialize());
 app.use(passport.session());
 
@@ -99,8 +103,9 @@ app.engine('hbs', hbs.engine);
 app.set('view engine', 'hbs');
 app.use(express.static(path.join(__dirname, 'public')));
 
+app.get('/login', login.view);
+
 app.get('/', ensureLogin, index.view);
-app.post('/', ensureLogin, index.post);
 
 app.get('/calendar', ensureLogin, calendar.view);
 
@@ -136,7 +141,14 @@ app.get(
   '/auth/google/callback',
   passport.authenticate('google'),
   (req, res) => {
-    res.redirect('/');
+    jsonfile.readFile(path.resolve(__dirname, 'data', 'users', `${req.user.id}.json`), (err, user) => {
+      if ('courses' in user) {
+        req.flash('info', `Welcome back ${req.user.name.givenName}!`);
+      } else {
+        req.flash('info', `Welcome to UCSD Planner ${req.user.name.givenName}, add your courses to get started!`);
+      }
+      res.redirect('/');
+    });
   },
 );
 
