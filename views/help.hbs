@@ -26,6 +26,16 @@
 	    </div>
 	  </nav>
 		<main>
+      <div class="row">
+        <ul class="collapsible" data-collapsible="accordion">
+          {{#each data.questions}}
+          <li>
+            <div class="collapsible-header"><i class="material-icons">question_answer</i>{{ q }}</div>
+            <div class="collapsible-body"><span>{{ a }}</span></div>
+          </li>
+          {{/each}}
+        </ul>
+      </div>
 		</main>
 		<footer>
 		</footer>
