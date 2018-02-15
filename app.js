@@ -11,6 +11,8 @@ const GoogleStrategy = require('passport-google-oauth20').Strategy;
 const ensureLogin = require('connect-ensure-login').ensureLoggedIn();
 
 const index = require('./routes/index');
+const about = require('./routes/about');
+const help = require('./routes/help');
 const calendar = require('./routes/calendar');
 const section = require('./routes/section');
 const wizard = require('./routes/wizard');
@@ -106,6 +108,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.get('/login', login.view);
 
 app.get('/', ensureLogin, index.view);
+app.get('/about', about.view);
+app.get('/help', help.view);
 
 app.get('/calendar', ensureLogin, calendar.view);
 
