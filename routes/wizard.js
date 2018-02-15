@@ -53,7 +53,7 @@ exports.post = (req, res) => {
 };
 
 exports.next = (req, res) => {
-  if (!('index' in req.user.wizard)) {
+  if (!req.user.wizard || !('index' in req.user.wizard)) {
     res.redirect('/');
     return;
   }

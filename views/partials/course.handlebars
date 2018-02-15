@@ -29,8 +29,8 @@
             <p class="event-details">{{#each instructors}}{{ this }} {{/each}}</p>
             <div class="switch">
               <label class="event-toggle">
-                <input type="checkbox" name="timeslot" class="section-{{ section }}" value="{{ @key }}" {{isChecked @key ../../courseData }}>
-                <span class="lever"></span>
+                <input type="checkbox" name="timeslot" class="section-{{ section }} filled-in white-box" value="{{ @key }}" {{isChecked @key ../../courseData }}>
+                <span></span>
               </label>
             </div>
           </div>
