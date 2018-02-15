@@ -55,7 +55,9 @@ function confirmModal(question, yesText, noText, yes, no) {
   modal.append(modalContent);
   modal.append(modalFooter);
   $('body').append(modal);
-  $('.modal').modal();
+  $('.modal').modal({
+    dismissible: false,
+  });
   $('#confirm-modal').modal('open');
 }
 
