@@ -28,7 +28,7 @@ $(document).ready(() => {
   $('.back').on('click', function() {
     window.history.back();
   });
-  $(".button-collapse").sideNav();   
+  $(".button-collapse").sideNav();
   $('#homepage-next').click(() => {
     $('.chips-autocomplete').material_chip('data').forEach((chip) => {
       $('<input />').attr('type', 'hidden')
