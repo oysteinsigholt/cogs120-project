@@ -131,6 +131,7 @@ app.get(
 );
 
 app.get('/logout', (req, res) => {
+  req.flash('info', 'Successfully signed out!');
   req.logout();
   res.redirect('/');
 });
@@ -144,10 +145,11 @@ app.get(
     jsonfile.readFile(path.resolve(__dirname, 'data', 'users', `${req.user.id}.json`), (err, user) => {
       if ('courses' in user) {
         req.flash('info', `Welcome back ${req.user.name.givenName}!`);
+        res.redirect('/calendar');
       } else {
         req.flash('info', `Welcome to UCSD Planner ${req.user.name.givenName}, add your courses to get started!`);
+        res.redirect('/');
       }
-      res.redirect('/');
     });
   },
 );

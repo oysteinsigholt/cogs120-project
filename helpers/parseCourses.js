@@ -22,7 +22,7 @@ function parseTime(time) {
   if (AMPM === 'p' && hours < 12) hours += 12;
   if (AMPM === 'a' && hours === 12) hours -= 12;
 
-  return (`${hours}:${minutes.toString().padStart(2, '0')}`);
+  return (`${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}`);
 }
 
 function dumpNames() {

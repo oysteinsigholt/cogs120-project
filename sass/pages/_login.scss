@@ -29,3 +29,13 @@
   margin: 0;
   padding: 0;
 }
+
+.login-info {
+  float: right;
+  margin: 12px;
+
+  .material-icons {
+    font-size: 36px !important;
+    color: $secondary-color !important;
+  }
+}

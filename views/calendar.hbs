@@ -2,21 +2,11 @@
 
 <html>
 <head>
-	<title>IxD Project</title>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-	<link rel="stylesheet" href="/style/style.css">
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
+ {{> head }}
 </head>
 
 <body>
+	<div class="navbar-fixed">
 		<nav class="top-nav">
 	    <div class="nav-wrapper">
 	      <span class="brand-logo">My Calendar</span>
@@ -25,113 +15,15 @@
 	      </ul>
 	    </div>
 	  </nav>
-		{{> sidenav this }}
-
-
-		<main>
-			<div class="container">
-				<center><h5>Calendar Preview</h5></center>
-			</div>
-
-    	<div class="container">
-    		<h5>Monday</h5>
-    	</div>
-    	<div class="event-row">
-        <div class="event card-panel teal">
-    			<div class="card-content white-text">
-    				<p class="event-details event-time">5:00 - 5:50 PM<span class="event-details event-section">A00</span></p>
-    				<h5 class="event-title">CSE 95 LECTURE</h5>
-            <p class="event-details event-location">ECE 120</p>
-            <p class="event-details">Gary Gillepsie</p>
-            <div class="switch">
-            </div>
-          </div>
-        </div>
-    </div>
-
-    <div class="container">
-    		<h5>Tuesday</h5>
-    </div>
-    <div class="event-row">
-    		<div class="event card-panel teal">
-    			<div class="card-content white-text">
-    				<p class="event-details event-time">9:30 - 10:50 AM<span class="event-details event-section">A00</span></p>
-    				<h5 class="event-title">COGS 120 LECTURE</h5>
-            <p class="event-details event-location">CICC 123</p>
-            <p class="event-details">Scott Klemmer</p>
-            <div class="switch">
-            </div>
-          </div>
-        </div>
-        <div class="event card-panel teal">
-    			<div class="card-content white-text">
-    				<p class="event-details event-time">9:30 - 10:50 AM<span class="event-details event-section">A00</span></p>
-    				<h5 class="event-title">MATH 20B LECTURE</h5>
-            <p class="event-details event-location">CNTR 101</p>
-            <p class="event-details">David Eggers</p>
-            <div class="switch">
-            </div>
-          </div>
-        </div>
-    </div>
-    <div class="container">
-    		<h5>Thursday</h5>
-    </div>
-    <div class="event-row">
-    		<div class="event card-panel teal">
-    			<div class="card-content white-text">
-    				<p class="event-details event-time">9:30 - 10:50 AM<span class="event-details event-section">A00</span></p>
-    				<h5 class="event-title">COGS 120 LECTURE</h5>
-            <p class="event-details event-location">CICC 123</p>
-            <p class="event-details">Scott Klemmer</p>
-            <div class="switch">
-            </div>
-          </div>
-        </div>
-
-         <div class="event card-panel teal">
-    			<div class="card-content white-text">
-    				<p class="event-details event-time">9:30 - 10:50 AM<span class="event-details event-section">A00</span></p>
-    				<h5 class="event-title">MATH 20B LECTURE</h5>
-            <p class="event-details event-location">CNTR 101</p>
-            <p class="event-details">David Eggers</p>
-            <div class="switch">
-            </div>
-          </div>
-        </div>
-   </div>
-
-	<div class="container">
-				<h5>Friday</h5>
 	</div>
-   	<div class="event-row">
-    		<div class="event card-panel teal">
-    			<div class="card-content white-text">
-    				<p class="event-details event-time">8:00 - 8:50 AM<span class="event-details event-section">A00</span></p>
-    				<h5 class="event-title">Math 20B DISCUSSION</h5>
-            <p class="event-details event-location">CNTR 215</p>
-            <p class="event-details">TBA</p>
-            <div class="switch">
-            </div>
-          </div>
-        </div>
+	{{> sidenav this }}
+	<main class="main-small">
+		{{> courses this }}
 	</main>
-
-	<div class="container">
-		<center>
-				<button class="waves-effect waves-light btn btn-large btn-wide"><span class="btn-text-centered">Export to Google Calendar</span><i class="material-icons right">event</i></button>
-				<p></p>
-				<button class="waves-effect waves-light btn btn-large btn-wide"><span class="btn-text-centered">Download ICAL File</span><i class="material-icons right">file_download</i></button>
-		</center>
-</div>
-
-		</main>
-		<footer>
-			<button class="btn btn-large waves-effect waves-light" id="homepage-next" type="submit" name="action">Next
-				<i class="material-icons right">send</i>
-			</button>
-		</footer>
-	</form>
+	<footer class="footer-vertical">
+		<button class="waves-effect waves-light btn btn-large btn-wide"><span class="btn-text-centered">Export to Google Calendar</span><i class="material-icons right">event</i></button>
+		<button class="waves-effect waves-light btn btn-large btn-wide"><span class="btn-text-centered">Download ICAL File</span><i class="material-icons right">file_download</i></button>
+	</footer>
 	{{> script }}
 </body>
 </html>
