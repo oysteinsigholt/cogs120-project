@@ -26,6 +26,15 @@
 		{{#if editing}}
 			{{> course this}}
 		{{else}}
+    <div class="row">
+      <div class="col s12">
+        <ul class="tabs" id="ucsd-quarter">
+          <li class="tab col s3 disabled"><a href="#FA17">FA17</a></li>
+          <li class="tab col s3"><a class="active" href="#WI18">WI18</a></li>
+          <li class="tab col s3 disabled"><a href="#SP18">SP18</a></li>
+        </ul>
+      </div>
+    </div>
 			{{#if hasCourses}}
       	{{> courselist this }}
 			{{else}}
