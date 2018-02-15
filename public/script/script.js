@@ -18,7 +18,7 @@ function loadCourses() {
           map[obj] = null;
           return map;
         }, {}),
-        limit: 4,
+        limit: Math.floor(Math.max(0, $(document).height() - 300) / 60) + 1,
         minLength: 1,
       },
     });

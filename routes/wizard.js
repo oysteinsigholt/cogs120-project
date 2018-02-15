@@ -51,6 +51,7 @@ exports.post = (req, res) => {
       });
     });
   } else {
+    req.flash('info', 'Please input at least one course to proceed!');
     res.redirect('/');
   }
 };
