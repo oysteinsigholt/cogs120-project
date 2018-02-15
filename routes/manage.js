@@ -26,6 +26,8 @@ exports.edit = (req, res) => {
       return;
     }
 
+    course.hideSections = course.sections.length < 2;
+    course.hideTimeslots = Object.keys(course.events_repeating).length < 1;
     res.render('manage', {
       user: req.user, editing: true, course, courseData: req.user.courses[req.params.id],
     });

@@ -44,7 +44,10 @@ exports.post = (req, res) => {
           res.status(500).send(':(');
           return;
         }
-        res.render('wizard', { user: req.user, course });
+        course.hideSections = course.sections.length < 2;
+        course.hideTimeslots = Object.keys(course.events_repeating).length < 1;
+        const progress = ((req.user.wizard.index + 1) / req.user.wizard.courses.length) * 100;
+        res.render('wizard', { user: req.user, course, progress });
       });
     });
   } else {
@@ -144,7 +147,16 @@ exports.next = (req, res) => {
           res.status(500).send(':(');
           return;
         }
-        res.render('wizard', { user: req.user, course, courseData: req.user.wizard.courseData[req.user.wizard.index] });
+
+        course.hideSections = course.sections.length < 2;
+        course.hideTimeslots = Object.keys(course.events_repeating).length < 1;
+        const progress = ((req.user.wizard.index + 1) / req.user.wizard.courses.length) * 100;
+        res.render('wizard', {
+          user: req.user,
+          course,
+          courseData: req.user.wizard.courseData[req.user.wizard.index],
+          progress,
+        });
       });
     });
   }

@@ -38,6 +38,7 @@ footer {
   justify-content: space-between;
   width: 100%;
   pointer-events: none;
+  z-index: 3;
 
   * {
     pointer-events: auto;
