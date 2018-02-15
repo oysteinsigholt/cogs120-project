@@ -53,6 +53,11 @@ exports.post = (req, res) => {
 };
 
 exports.next = (req, res) => {
+  if (!('index' in req.user.wizard)) {
+    res.redirect('/');
+    return;
+  }
+
   req.user.courses = Object.assign({}, req.user.courses);
   req.user.undo = clone(req.user.courses);
 
