@@ -13,6 +13,7 @@ const index = require('./routes/index');
 const calendar = require('./routes/calendar');
 const section = require('./routes/section');
 const wizard = require('./routes/wizard');
+const manage = require('./routes/manage');
 
 const env = process.env.NODE_ENV || 'dev';
 
@@ -102,6 +103,11 @@ app.get('/', ensureLogin, index.view);
 app.post('/', ensureLogin, index.post);
 
 app.get('/calendar', ensureLogin, calendar.view);
+
+app.get('/manage', ensureLogin, manage.view);
+app.get('/manage/drop/:id', ensureLogin, manage.drop);
+app.get('/manage/edit/:id', ensureLogin, manage.edit);
+app.post('/manage/edit/:id', ensureLogin, manage.submit);
 
 
 app.get('/section/:quarter/:course', ensureLogin, section.view);

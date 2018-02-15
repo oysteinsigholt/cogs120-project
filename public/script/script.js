@@ -1,6 +1,8 @@
 /* eslint-env browser */
 /* eslint-env jquery */
 
+
+
 function loadCourses() {
   $.getJSON('/data/courses/W18.json', (data) => {
     $('.chips-autocomplete').material_chip({
@@ -20,6 +22,13 @@ function loadCourses() {
 }
 
 $(document).ready(() => {
+  $('.confirm').on('click', function() {
+    return confirm($(this).attr('data-confirmMessage'));
+  });
+  $('.back').on('click', function() {
+    window.history.back();
+  });
+  $(".button-collapse").sideNav();   
   $('#homepage-next').click(() => {
     $('.chips-autocomplete').material_chip('data').forEach((chip) => {
       $('<input />').attr('type', 'hidden')

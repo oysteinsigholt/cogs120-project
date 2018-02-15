@@ -83,6 +83,8 @@ exports.next = (req, res) => {
   }
 
   req.user.wizard.courseData[index] = {
+    name: req.user.wizard.courses[index].split(':')[1],
+    desc: 'loremipsumhello',
     sections: sections.reduce((map, obj) => {
       map[obj] = true;
       return map;
