@@ -21,6 +21,31 @@ function loadCourses() {
   });
 }
 
+function confirmModal(question, yesText, noText, yes, no) {
+  const modal = $('<div id="confirm-modal" class="modal"></div>');
+  const modalContent = $('<div class="modal-content"><p>' + question + '</p></div>');
+  const modalFooter = $('<div class="modal-footer"></div>');
+  const modalYesButton = $('<a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">' + yesText + '</a>');
+  const modalNoButton = $('<a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">'+ noText + '</a>');
+  modalYesButton.click(function() {
+    $('#confirm-modal').modal('close');
+    $('#confirm-modal').remove();
+    yes();
+  });
+  modalNoButton.click(function() {
+    $('#confirm-modal').modal('close');
+    $('#confirm-modal').remove();
+    no();
+  });
+  modalFooter.append(modalNoButton);
+  modalFooter.append(modalYesButton);
+  modal.append(modalContent);
+  modal.append(modalFooter);
+  $('body').append(modal);
+  $('.modal').modal();
+  $('#confirm-modal').modal('open');
+}
+
 $(document).ready(() => {
   $('.confirm').on('click', function() {
     return confirm($(this).attr('data-confirmMessage'));
