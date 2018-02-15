@@ -38,6 +38,7 @@ footer {
   justify-content: space-between;
   width: 100%;
   pointer-events: none;
+  z-index: 3;
 
   * {
     pointer-events: auto;
@@ -82,4 +83,12 @@ footer {
   cursor: pointer;
   outline: inherit;
   width: 56px;
+}
+
+.toast {
+  word-break: break-word;
+}
+
+.toast-action {
+  white-space: nowrap;
 }

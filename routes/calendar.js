@@ -41,7 +41,9 @@ exports.view = (req, res) => {
 
           timeslot.id = timeslotId;
           timeslot.course = id;
-          courses.events_repeating[day].push(timeslot);
+          if (timeslotId in req.user.courses[timeslot.course].timeslots) {
+            courses.events_repeating[day].push(timeslot);
+          }
         }
       }
     } catch (err) {

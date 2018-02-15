@@ -1,13 +1,24 @@
 {{#if course.sections}}
-  <div class="container">
-    <center><h5>Filter by Section</h5></center>
-    <div class="section-select">
-      {{#each course.sections}}
-        <label for="section-{{ this }}"><input type="checkbox" class="filled-in" id="section-{{ this }}" name="section" value="{{ this }}" {{isChecked this ../courseData }}/><span>{{ this }}</span></label>
-      {{/each}}
+  {{#if course.hideSections}}
+  {{else}}
+    <div class="container">
+      <center><h5>Filter by Section</h5></center>
+      <div class="section-select">
+        {{#each course.sections}}
+          <label for="section-{{ this }}"><input type="checkbox" class="filled-in" id="section-{{ this }}" name="section" value="{{ this }}" {{isChecked this ../courseData }}/><span>{{ this }}</span></label>
+        {{/each}}
+      </div>
     </div>
-  </div>
+  {{/if}}
 {{/if}}
+{{#if course.hideTimeslots}}
+<div class="container">
+  <center>
+    <br />
+    <h6>This course has no weekly events on the public schedule of classes</h6>
+  </center>
+</div>
+{{else}}
 <div class="container">
   <center>
     <h5>Customize Schedule</h5>
@@ -29,8 +40,8 @@
             <p class="event-details">{{#each instructors}}{{ this }} {{/each}}</p>
             <div class="switch">
               <label class="event-toggle">
-                <input type="checkbox" name="timeslot" class="section-{{ section }}" value="{{ @key }}" {{isChecked @key ../../courseData }}>
-                <span class="lever"></span>
+                <input type="checkbox" name="timeslot" class="section-{{ section }} filled-in white-box" value="{{ @key }}" {{isChecked @key ../../courseData }}>
+                <span></span>
               </label>
             </div>
           </div>
@@ -39,7 +50,7 @@
     </div>
   {{/if}}
 {{/each}}
-
+{{/if}}
 <script>
   document.onreadystatechange = () => {
     if (document.readyState === 'complete') {
@@ -61,7 +72,7 @@
       };
 
       updateFilter();
-      $('input[type="checkbox"][name="section"]').change(()=>{
+      $('input[type="checkbox"]').change(()=>{
         updateFilter();
       });
 
@@ -69,16 +80,6 @@
         const checkbox = $(this).find('input[type="checkbox"][name="timeslot"]').first();
         checkbox.prop('checked', !checkbox.prop("checked"));
       });
-
-      /*{{#if course.sections}}
-        {{#each course.sections}}
-          $("#section-{{ this }}").click(() => {
-            $('.event').each(()=>{
-              $(this).find('input[type="checkbox"]').toggle();
-            });
-          });
-        {{/each}}
-      {{/if}}*/
     }
   };
 </script>

@@ -1,7 +1,11 @@
 /* eslint-env browser */
 /* eslint-env jquery */
 
-
+function truncate(text, n) {
+  /* Based on https://stackoverflow.com/questions/1199352/smart-way-to-shorten-long-strings-with-javascript
+    by https://stackoverflow.com/users/58186/kooiinc */
+  return (text.length > n) ? text.substr(0, n-1) + '&hellip;' : text;
+};
 
 function loadCourses() {
   $.getJSON('/data/courses/W18.json', (data) => {
@@ -14,9 +18,18 @@ function loadCourses() {
           map[obj] = null;
           return map;
         }, {}),
-        limit: 4,
+        limit: Math.floor(Math.max(0, $(document).height() - 300) / 60) + 1,
         minLength: 1,
       },
+    });
+
+    $('.chips-autocomplete').on('chip.add', function(e, chip){
+      $(e.target).find('.chip:not(.shortened)').each(function() {
+        const $close = $(this).find('.close');
+        $(this).html(truncate($(this).text().slice(0, -5), 30));
+        $(this).append($close);
+        $(this).addClass('shortened');
+      });
     });
   });
 }
@@ -47,14 +60,29 @@ function confirmModal(question, yesText, noText, yes, no) {
 }
 
 $(document).ready(() => {
+  $('.chips-autocomplete').on('keyup change keydown', function (e) {
+    if (e.which == 13) {
+      return false;
+    }
+  });
+
   $('.confirm').on('click', function() {
     return confirm($(this).attr('data-confirmMessage'));
   });
+
   $('.back').on('click', function() {
     window.history.back();
+
+    setTimeout(() => {
+      window.location.href = $(this).attr('href');
+    }, 500);
+
+    return false;
   });
-  $(".button-collapse").sideNav();
-  $('#homepage-next').click(() => {
+
+  $('.button-collapse').sideNav();
+
+  $('#homepage-next').click(function() {
     $('.chips-autocomplete').material_chip('data').forEach((chip) => {
       $('<input />').attr('type', 'hidden')
         .attr('name', 'chip')
@@ -71,6 +99,11 @@ $(document).ready(() => {
 
   $('#nav-back').click((e) => {
     window.history.back();
+    e.preventDefault();
+  });
+
+  $('.submit').click(function(e) {
+    $('form').submit();
     e.preventDefault();
   });
 });

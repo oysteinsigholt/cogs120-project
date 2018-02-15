@@ -1,0 +1,6 @@
+
+.white-box:not(:checked) {
+	+ span:after{ 
+		border-color: white !important;
+	}
+}

@@ -11,9 +11,15 @@
 		<nav class="top-nav">
 	    <div class="nav-wrapper">
 				<ul class="left">
-	        <li><button class="btn-back" type="submit" name="action" ><i class="material-icons">keyboard_arrow_left</i></button></li>
+	        <!--<li><button class="btn-back" type="submit" name="action" ><i class="material-icons">keyboard_arrow_left</i></button></li>-->
+          <li><a href="#" class="submit"><i class="material-icons">chevron_left</i></a></li>
 	      </ul>
 	      <span class="brand-logo course-name">{{ course.code }}: {{ course.name }}</span>
+        {{#if progress}}
+          <div class="progress">
+              <div class="determinate" style="width: {{ progress }}%"></div>
+          </div>
+        {{/if}}
 	    </div>
 	  </nav>
 	</div>
@@ -31,7 +37,7 @@
 				<i class="material-icons right">send</i>
 			</button>
 			{{/if}}
-			<button class="btn btn-large waves-effect waves-light" id="section-custom" type="submit" name="action" style="display: none;" disabled>Add Event
+			<button class="btn btn-large waves-effect waves-light" id="section-custom" type="submit" name="action" disabled>Add Event
 				<i class="material-icons right">event</i>
 			</button>
 		</footer>

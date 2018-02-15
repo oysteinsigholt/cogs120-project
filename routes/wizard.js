@@ -2,6 +2,7 @@ const userStore = require('../helpers/userStore');
 const resolvePath = require('resolve-path');
 const path = require('path');
 const jsonfile = require('jsonfile');
+const clone = require('clone');
 
 exports.post = (req, res) => {
   let newCourses = [];
@@ -43,15 +44,27 @@ exports.post = (req, res) => {
           res.status(500).send(':(');
           return;
         }
-        res.render('wizard', { user: req.user, course });
+        course.hideSections = course.sections.length < 2;
+        course.hideTimeslots = Object.keys(course.events_repeating).length < 1;
+        const progress = ((req.user.wizard.index + 1) / req.user.wizard.courses.length) * 100;
+        res.render('wizard', { user: req.user, course, progress });
       });
     });
   } else {
+    req.flash('info', 'Please input at least one course to proceed!');
     res.redirect('/');
   }
 };
 
 exports.next = (req, res) => {
+  if (!req.user.wizard || !('index' in req.user.wizard)) {
+    res.redirect('/');
+    return;
+  }
+
+  req.user.courses = Object.assign({}, req.user.courses);
+  req.user.undo = clone(req.user.courses);
+
   const { index } = req.user.wizard;
   const action = req.body.action || 'back';
 
@@ -105,7 +118,7 @@ exports.next = (req, res) => {
     req.user.wizard = null;
 
     userStore.saveUser(req.user, () => {
-      req.flash('custom', `<span>Added ${Object.keys(courses).length} course(s) to calendar!</span><button class="btn-flat toast-action" onclick="alert(\\'Undone!\\')">Undo</button>`);
+      req.flash('custom', `<span>Added ${Object.keys(courses).length} course(s) to calendar!</span><a href="/undo/calendar/Removed ${Object.keys(courses).length} recently added course(s) from calendar!" class="btn-flat toast-action">Undo</a>`);
       res.redirect('/calendar');
     });
   } else if (req.user.wizard.index < 0 && action === 'back') {
@@ -135,7 +148,16 @@ exports.next = (req, res) => {
           res.status(500).send(':(');
           return;
         }
-        res.render('wizard', { user: req.user, course, courseData: req.user.wizard.courseData[req.user.wizard.index] });
+
+        course.hideSections = course.sections.length < 2;
+        course.hideTimeslots = Object.keys(course.events_repeating).length < 1;
+        const progress = ((req.user.wizard.index + 1) / req.user.wizard.courses.length) * 100;
+        res.render('wizard', {
+          user: req.user,
+          course,
+          courseData: req.user.wizard.courseData[req.user.wizard.index],
+          progress,
+        });
       });
     });
   }
