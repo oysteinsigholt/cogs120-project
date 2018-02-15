@@ -18,6 +18,7 @@ const section = require('./routes/section');
 const wizard = require('./routes/wizard');
 const manage = require('./routes/manage');
 const login = require('./routes/login');
+const undo = require('./routes/undo');
 
 const env = process.env.NODE_ENV || 'dev';
 
@@ -118,6 +119,7 @@ app.get('/manage/drop/:id', ensureLogin, manage.drop);
 app.get('/manage/edit/:id', ensureLogin, manage.edit);
 app.post('/manage/edit/:id', ensureLogin, manage.submit);
 
+app.get('/undo/:path/:message', ensureLogin, undo.view);
 
 app.get('/section/:quarter/:course', ensureLogin, section.view);
 

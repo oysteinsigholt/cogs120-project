@@ -2,6 +2,7 @@ const userStore = require('../helpers/userStore');
 const resolvePath = require('resolve-path');
 const path = require('path');
 const jsonfile = require('jsonfile');
+const clone = require('clone');
 
 exports.post = (req, res) => {
   let newCourses = [];
@@ -52,6 +53,9 @@ exports.post = (req, res) => {
 };
 
 exports.next = (req, res) => {
+  req.user.courses = Object.assign({}, req.user.courses);
+  req.user.undo = clone(req.user.courses);
+
   const { index } = req.user.wizard;
   const action = req.body.action || 'back';
 
@@ -105,7 +109,7 @@ exports.next = (req, res) => {
     req.user.wizard = null;
 
     userStore.saveUser(req.user, () => {
-      req.flash('custom', `<span>Added ${Object.keys(courses).length} course(s) to calendar!</span><button class="btn-flat toast-action" onclick="alert(\\'Undone!\\')">Undo</button>`);
+      req.flash('custom', `<span>Added ${Object.keys(courses).length} course(s) to calendar!</span><a href="/undo/calendar/Removed ${Object.keys(courses).length} recently added course(s) from calendar!" class="btn-flat toast-action">Undo</a>`);
       res.redirect('/calendar');
     });
   } else if (req.user.wizard.index < 0 && action === 'back') {
