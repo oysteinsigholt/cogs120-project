@@ -151,7 +151,7 @@ app.get(
         req.flash('info', `Welcome back, ${req.user.name.givenName}!`);
         res.redirect('/calendar');
       } else {
-        req.flash('info', `Welcome to UCSD Planner, ${req.user.name.givenName}!\nAdd some courses to get started!`);
+        req.flash('info', `Welcome to UCSD Planner, ${req.user.name.givenName}! Add some courses to get started!`);
         res.redirect('/');
       }
     });
