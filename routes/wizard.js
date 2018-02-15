@@ -105,7 +105,7 @@ exports.next = (req, res) => {
     req.user.wizard = null;
 
     userStore.saveUser(req.user, () => {
-      req.flash('custom', `<span>Added ${Object.keys(courses).length} course(s) to calendar!</span><button class="btn-flat toast-action" onclick="alert(\\'Unimplemented\\')">Undo</button>`);
+      req.flash('custom', `<span>Added ${Object.keys(courses).length} course(s) to calendar!</span><button class="btn-flat toast-action" onclick="alert(\\'Undone!\\')">Undo</button>`);
       res.redirect('/calendar');
     });
   } else if (req.user.wizard.index < 0 && action === 'back') {
