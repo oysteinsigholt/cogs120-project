@@ -61,7 +61,7 @@
       };
 
       updateFilter();
-      $('input[type="checkbox"][name="section"]').change(()=>{
+      $('input[type="checkbox"]').change(()=>{
         updateFilter();
       });
 
@@ -69,16 +69,6 @@
         const checkbox = $(this).find('input[type="checkbox"][name="timeslot"]').first();
         checkbox.prop('checked', !checkbox.prop("checked"));
       });
-
-      /*{{#if course.sections}}
-        {{#each course.sections}}
-          $("#section-{{ this }}").click(() => {
-            $('.event').each(()=>{
-              $(this).find('input[type="checkbox"]').toggle();
-            });
-          });
-        {{/each}}
-      {{/if}}*/
     }
   };
 </script>
