@@ -18,6 +18,15 @@ exports.view = (req, res) => {
     },
   };
 
+  let hasCourses = true;
+
+  if (!('courses' in req.user)) {
+    req.user.courses = {};
+  }
+  if (Object.keys(req.user.courses).length < 1) {
+    hasCourses = false;
+  }
+
   for (let i = 0; i < Object.keys(req.user.courses).length; i += 1) {
     const id = Object.keys(req.user.courses)[i];
     try {
@@ -52,5 +61,5 @@ exports.view = (req, res) => {
     }
   });
 
-  res.render('calendar', { user: req.user, courses });
+  res.render('calendar', { user: req.user, courses, hasCourses });
 };
