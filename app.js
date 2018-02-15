@@ -148,10 +148,10 @@ app.get(
   (req, res) => {
     jsonfile.readFile(path.resolve(__dirname, 'data', 'users', `${req.user.id}.json`), (err, user) => {
       if ('courses' in user) {
-        req.flash('info', `Welcome back ${req.user.name.givenName}!`);
+        req.flash('info', `Welcome back, ${req.user.name.givenName}!`);
         res.redirect('/calendar');
       } else {
-        req.flash('info', `Welcome to UCSD Planner ${req.user.name.givenName}, add your courses to get started!`);
+        req.flash('info', `Welcome to UCSD Planner, ${req.user.name.givenName}! Add some courses to get started!`);
         res.redirect('/');
       }
     });

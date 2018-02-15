@@ -4,7 +4,7 @@ const resolvePath = require('resolve-path');
 const jsonfile = require('jsonfile');
 
 exports.view = (req, res) => {
-  res.render('manage', { user: req.user, hasCourses: Object.keys(req.user.courses).length > 0 });
+  res.render('manage', { user: req.user, hasCourses: 'courses' in req.user && Object.keys(req.user.courses).length > 0 });
 };
 
 exports.edit = (req, res) => {
@@ -60,7 +60,7 @@ exports.submit = (req, res) => {
 
   userStore.saveUser(req.user, () => {
     req.flash('custom', `<span>Updated ${req.params.id}!</span><button class="btn-flat toast-action" onclick="alert(\\'Unimplemented\\')">Undo</button>`);
-    res.render('manage', { user: req.user, hasCourses: Object.keys(req.user.courses).length > 0 });
+    res.render('manage', { user: req.user, hasCourses: 'courses' in req.user && Object.keys(req.user.courses).length > 0 });
   });
 };
 
@@ -69,6 +69,6 @@ exports.drop = (req, res) => {
   req.flash('custom', `<span>Removed ${req.params.id} from calendar!</span><button class="btn-flat toast-action" onclick="alert(\\'Unimplemented\\')">Undo</button>`);
   delete req.user.courses[req.params.id];
   userStore.saveUser(req.user, () => {
-    res.render('manage', { user: req.user, hasCourses: Object.keys(req.user.courses).length > 0 });
+    res.render('manage', { user: req.user, hasCourses: 'courses' in req.user && Object.keys(req.user.courses).length > 0 });
   });
 };
