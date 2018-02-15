@@ -5,8 +5,9 @@ const jsonfile = require('jsonfile');
 
 
 exports.view = (req, res) => {
-  res.render('manage', { user: req.user });
+  res.render('manage', { user: req.user, hasCourses: Object.keys(req.user.courses).length > 0 });
 };
+
 exports.edit = (req, res) => {
   let courseFile = null;
 
@@ -24,7 +25,7 @@ exports.edit = (req, res) => {
       res.status(500).send(':(');
       return;
     }
-    console.log(req.user.courses[req.params.id]);
+
     res.render('manage', {
       user: req.user, editing: true, course, courseData: req.user.courses[req.params.id],
     });
@@ -32,15 +33,6 @@ exports.edit = (req, res) => {
 };
 
 exports.submit = (req, res) => {
-  let courseFile = null;
-  try {
-    courseFile = resolvePath(path.resolve(__dirname, '..', 'data', 'courses'), `W18/${req.params.id}.json`);
-  } catch (err) {
-    console.log(err);
-    res.status(500).send(':(');
-    return;
-  }
-
   let timeslots = [];
   let sections = [];
 
@@ -68,7 +60,7 @@ exports.submit = (req, res) => {
   });
 
   userStore.saveUser(req.user, () => {
-    res.render('manage', { user: req.user });
+    res.render('manage', { user: req.user, hasCourses: Object.keys(req.user.courses).length > 0 });
   });
 };
 
@@ -76,6 +68,6 @@ exports.submit = (req, res) => {
 exports.drop = (req, res) => {
   delete req.user.courses[req.params.id];
   userStore.saveUser(req.user, () => {
-    res.render('manage', { user: req.user });
+    res.render('manage', { user: req.user, hasCourses: Object.keys(req.user.courses).length > 0 });
   });
 };

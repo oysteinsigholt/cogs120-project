@@ -20,9 +20,9 @@
 	<form method="post">
 		<nav class="top-nav">
 	    <div class="nav-wrapper">
-	      <span class="brand-logo">MANAGE YO COURSES</span>
+	      <span class="brand-logo">{{#if editing}}Edit {{ course.code }}: {{ course.name }}{{else}}Manage Courses{{/if}}</span>
 				<ul class="nav-ul left">
-					{{#if editing}} 
+					{{#if editing}}
 					<li><a href="/manage"><i class="material-icons">chevron_left</i></a></li>
 					{{else}}
 					<li><a href="#" data-activates="slide-out" class="button-collapse waves-effect"><i class="material-icons">menu</i></a></li>
@@ -32,20 +32,33 @@
 	  </nav>
 		{{> sidenav this }}
 	<main>
-		{{#if editing}} 
-		{{> course this}}
+		{{#if editing}}
+			{{> course this}}
 		{{else}}
-        {{> courselist this }}
-        {{/if}}
+			{{#if hasCourses}}
+      	{{> courselist this }}
+			{{else}}
+				<div class="container">
+					<center>
+						<br />
+						<h6>Add a course to get started</h6>
+					</center>
+				</div>
+			{{/if}}
+    {{/if}}
 	</main>
 		<footer>
-			<button class="btn btn-large waves-effect waves-light" id="section-next" type="submit" name="action" value="next">Save
-				<i class="material-icons right">send</i>
-			</button>
-			
-			<button class="btn btn-large waves-effect waves-light" id="section-custom" type="submit" name="action" disabled>Add Event
-				<i class="material-icons right">event</i>
-			</button>
+			{{#if editing}}
+				<button class="btn btn-large waves-effect waves-light" id="section-next" type="submit" name="action" value="next">Save
+					<i class="material-icons right">send</i>
+				</button>
+
+				<button class="btn btn-large waves-effect waves-light" id="section-custom" type="submit" name="action" disabled>Add Event
+					<i class="material-icons right">event</i>
+				</button>
+			{{else}}
+				<a href="/" class="btn-floating btn-large waves-effect waves-light red"><i class="material-icons">add</i></a>
+			{{/if}}
 		</footer>
 	</form>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>

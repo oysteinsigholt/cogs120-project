@@ -101,7 +101,7 @@ exports.next = (req, res) => {
       courses[req.user.wizard.courses[i].split(':')[0]] = req.user.wizard.courseData[i];
     }
 
-    req.user.courses = courses;
+    req.user.courses = Object.assign(req.user.courses, courses);
     req.user.wizard = null;
 
     userStore.saveUser(req.user, () => {

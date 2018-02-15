@@ -33,6 +33,11 @@ footer {
   flex-direction: row-reverse;
   justify-content: space-between;
   width: 100%;
+  pointer-events: none;
+
+  * {
+    pointer-events: auto;
+  }
 
   &.footer-vertical {
     flex-direction: column;
@@ -60,6 +65,10 @@ footer {
 .brand-logo {
   left: 50%;
   transform: translateX(-50%);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 70vw;
 }
 
 .btn-back {
