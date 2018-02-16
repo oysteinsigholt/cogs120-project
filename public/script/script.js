@@ -1,11 +1,14 @@
 /* eslint-env browser */
 /* eslint-env jquery */
+/* eslint-disable prefer-arrow-callback */
+/* eslint-disable func-names */
+
 
 function truncate(text, n) {
   /* Based on https://stackoverflow.com/questions/1199352/smart-way-to-shorten-long-strings-with-javascript
     by https://stackoverflow.com/users/58186/kooiinc */
-  return (text.length > n) ? text.substr(0, n-1) + '&hellip;' : text;
-};
+  return (text.length > n) ? `${text.substr(0, n - 1)}&hellip;` : text;
+}
 
 function loadCourses() {
   $.getJSON('/data/courses/W18.json', (data) => {
@@ -23,8 +26,8 @@ function loadCourses() {
       },
     });
 
-    $('.chips-autocomplete').on('chip.add', function(e, chip){
-      $(e.target).find('.chip:not(.shortened)').each(function() {
+    $('.chips-autocomplete').on('chip.add', function (e, chip) {
+      $(e.target).find('.chip:not(.shortened)').each(function () {
         const $close = $(this).find('.close');
         $(this).html(truncate($(this).text().slice(0, -5), 30));
         $(this).append($close);
@@ -34,18 +37,19 @@ function loadCourses() {
   });
 }
 
-function confirmModal(question, yesText, noText, yes, no) {
+function confirmModal(question, yesText, noText, yes, optionalNo) {
+  const no = optionalNo || function () {};
   const modal = $('<div id="confirm-modal" class="modal"></div>');
-  const modalContent = $('<div class="modal-content"><p>' + question + '</p></div>');
+  const modalContent = $(`<div class="modal-content"><p>${question}</p></div>`);
   const modalFooter = $('<div class="modal-footer"></div>');
-  const modalYesButton = $('<a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">' + yesText + '</a>');
-  const modalNoButton = $('<a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">'+ noText + '</a>');
-  modalYesButton.click(function() {
+  const modalYesButton = $(`<a href="#!" class="modal-action modal-close waves-effect btn-flat">${yesText}</a>`);
+  const modalNoButton = $(`<a href="#!" class="modal-action modal-close waves-effect btn-flat">${noText}</a>`);
+  modalYesButton.click(function () {
     $('#confirm-modal').modal('close');
     $('#confirm-modal').remove();
     yes();
   });
-  modalNoButton.click(function() {
+  modalNoButton.click(function () {
     $('#confirm-modal').modal('close');
     $('#confirm-modal').remove();
     no();
@@ -68,11 +72,30 @@ $(document).ready(() => {
     }
   });
 
-  $('.confirm').on('click', function() {
-    return confirm($(this).attr('data-confirmMessage'));
+  $('.confirm-link').on('click', function () {
+    const link = $(this).attr('href');
+    confirmModal($(this).attr('data-confirmMessage'), $(this).attr('data-confirmYes'), $(this).attr('data-confirmNo'), function () {
+      window.location.href = link;
+    });
+    return false;
   });
 
-  $('.back').on('click', function() {
+  $('.confirm-timeslots').on('click', function () {
+    const count = $('input[name="timeslot"]:checked').length;
+    if (count === 0) {
+      confirmModal($(this).attr('data-confirmMessage'), $(this).attr('data-confirmYes'), $(this).attr('data-confirmNo'), function () {
+        $('<input />').attr('type', 'hidden')
+          .attr('name', 'action')
+          .attr('value', 'next')
+          .appendTo('form');
+        $('form').submit();
+      });
+      return false;
+    }
+    return true;
+  });
+
+  $('.back').on('click', function () {
     window.history.back();
 
     setTimeout(() => {
@@ -84,7 +107,7 @@ $(document).ready(() => {
 
   $('.button-collapse').sideNav();
 
-  $('#homepage-next').click(function() {
+  $('#homepage-next').click(function () {
     $('.chips-autocomplete').material_chip('data').forEach((chip) => {
       $('<input />').attr('type', 'hidden')
         .attr('name', 'chip')
@@ -104,8 +127,11 @@ $(document).ready(() => {
     e.preventDefault();
   });
 
-  $('.submit').click(function(e) {
+  $('.submit').click(function (e) {
     $('form').submit();
     e.preventDefault();
   });
 });
+
+/* eslint-enable prefer-arrow-callback */
+/* eslint-enable func-names */

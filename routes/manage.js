@@ -65,7 +65,6 @@ exports.submit = (req, res) => {
   });
 
   userStore.saveUser(req.user, () => {
-    console.log(req.user);
     req.flash('custom', `<span>Updated ${req.params.id}!</span><a href="/undo/manage/Changes made to ${req.params.id} undone!" class="btn-flat toast-action">Undo</a>`);
     res.render('manage', { user: req.user, hasCourses: 'courses' in req.user && Object.keys(req.user.courses).length > 0 });
   });
@@ -80,7 +79,6 @@ exports.drop = (req, res) => {
   delete req.user.courses[req.params.id];
 
   userStore.saveUser(req.user, () => {
-    console.log(req.user);
     res.render('manage', { user: req.user, hasCourses: 'courses' in req.user && Object.keys(req.user.courses).length > 0 });
   });
 };

@@ -29,11 +29,17 @@
 		</main>
 		<footer>
 			{{#if user.wizard.final}}
-			<button class="btn btn-large waves-effect waves-light" id="section-next" type="submit" name="action" value="next">Save
+			<button class="btn btn-large waves-effect waves-light confirm-timeslots" id="section-next" type="submit" name="action" value="next"
+      data-confirmMessage="You have not selected any timeslots for this course. <br><b>Do you wish to continue?</b>"
+      data-confirmYes="Continue"
+      data-confirmNo="Stay">Save
 				<i class="material-icons right">send</i>
 			</button>
 			{{else}}
-			<button class="btn btn-large waves-effect waves-light" id="section-next" type="submit" name="action" value="next">Next
+			<button class="btn btn-large waves-effect waves-light confirm-timeslots" id="section-next" type="submit" name="action" value="next"
+      data-confirmMessage="You have not selected any timeslots for this course. <br><b>Do you wish to continue?</b>"
+      data-confirmYes="Continue"
+      data-confirmNo="Stay">Next
 				<i class="material-icons right">send</i>
 			</button>
 			{{/if}}

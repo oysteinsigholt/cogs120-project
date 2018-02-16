@@ -49,7 +49,10 @@
 	</main>
 		<footer>
 			{{#if editing}}
-				<button class="btn btn-large waves-effect waves-light" id="section-next" type="submit" name="action" value="next">Save
+				<button class="btn btn-large waves-effect waves-light confirm-timeslots" id="section-next" type="submit" name="action" value="next"
+        data-confirmMessage="You have not selected any timeslots for this course. <br><bold>Do you wish to continue?</bold>"
+        data-confirmYes="Continue"
+        data-confirmNo="Stay">Save
 					<i class="material-icons right">send</i>
 				</button>
 

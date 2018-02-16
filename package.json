@@ -9,7 +9,7 @@
     "dev": "gulp dev",
     "test": "npm run test:eslint && npm run test:stylelint",
     "test:eslint": "eslint gulpfile.js app.js routes/**/*.js helpers/**/*.js",
-    "fix:eslint": "eslint --fix gulpfile.js app.js routes/**/*.js helpers/**/*.js",
+    "fix:eslint": "eslint --fix gulpfile.js app.js routes/**/*.js helpers/**/*.js public/script/**/*.js",
     "test:stylelint": "stylelint sass/**/*.scss",
     "fix:stylelint": "stylelint sass/**/*.scss --fix"
   },
