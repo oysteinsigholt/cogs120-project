@@ -125,6 +125,7 @@ function dumpCourses() {
     });
 
     course.sections = course.sections.filter((elem, pos) => course.sections.indexOf(elem) === pos);
+    course.sections.sort();
 
     delete course.timeslots;
 
