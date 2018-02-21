@@ -52,6 +52,7 @@ exports.view = (req, res) => {
 
             const start = new Date(startDay.valueOf());
             start.setHours(event_data.start_time.split(':')[0], event_data.start_time.split(':')[1]);
+
             const end = new Date(startDay.valueOf());
             end.setHours(event_data.end_time.split(':')[0], event_data.end_time.split(':')[1]);
 
