@@ -6,8 +6,8 @@ const icalToolkit = require('ical-toolkit');
 exports.view = (req, res) => {
   const builder = icalToolkit.createIcsFileBuilder();
   builder.calname = 'UCSD Plan';
-  builder.timezone = 'america/los_angeles';
-  builder.tzid = 'america/los_angeles';
+  builder.timezone = 'America/Los_Angeles';
+  builder.tzid = 'America/Los_Angeles';
   builder.method = 'REQUEST';
 
   let userFile = null;
@@ -84,6 +84,6 @@ exports.view = (req, res) => {
       'Content-disposition': 'attachment; filename=calendar.ics',
     });
 
-    res.send(icsFileContent);
+    res.send(icsFileContent.replace(/UNTIL=;TZID=America\/Los_Angeles:/g, 'UNTIL='));
   });
 };
