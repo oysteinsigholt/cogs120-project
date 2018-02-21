@@ -1,0 +1,16 @@
+{{#each courses.events_repeating}}
+  {{#if this}}
+    <div class="container">
+      <div class="container">
+        <h5>{{ @key }}</h5>
+      </div>
+        {{#each this}}
+          <div class="event-column {{colorCard course type }}">
+            <div class="white-text">
+              <p class="">{{ course }}<span>{{ type }}</span><span>{{building}} {{room}}</span><span>{{ time }}</span></p>
+            </div>
+          </div>
+        {{/each}}
+      </div>
+  {{/if}}
+{{/each}}

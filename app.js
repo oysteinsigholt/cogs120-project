@@ -14,6 +14,7 @@ const index = require('./routes/index');
 const about = require('./routes/about');
 const help = require('./routes/help');
 const calendar = require('./routes/calendar');
+const calendarB = require('./routes/calendarB');
 const section = require('./routes/section');
 const wizard = require('./routes/wizard');
 const manage = require('./routes/manage');
@@ -27,6 +28,14 @@ let callbackURL = 'http://localhost:8080/auth/google/callback';
 
 if (env !== 'dev') {
   callbackURL = 'https://a7-ucsdplan.herokuapp.com/auth/google/callback';
+}
+
+function sumTxt(txt) {
+  return txt.split('').map((c) => {
+    return c.charCodeAt(0);
+  }).reduce((a, b) => {
+    return a + b;
+  }, 0);
 }
 
 const app = express();
@@ -52,6 +61,12 @@ const hbs = handlebars.create({
         return abbreviations.types[abbr.toLowerCase()];
       }
       return abbr;
+    },
+    colorCard: (course, type) => {
+      const colors = ['red', 'pink', 'purple', 'indigo', 'blue', 'cyan', 'teal', 'green', 'lime', 'yellow', 'amber', 'orange'];
+      const colorID = sumTxt(course) % colors.length;
+      if (type === "LE") return colors[colorID] + ' darken-2';
+      return colors[colorID] + ' darken-4';
     },
   },
 });
@@ -114,6 +129,7 @@ app.get('/about', about.view);
 app.get('/help', help.view);
 
 app.get('/calendar', ensureLogin, calendar.view);
+app.get('/calendar_b', ensureLogin, calendarB.view);
 
 app.get('/manage', ensureLogin, manage.view);
 app.get('/manage/drop/:id', ensureLogin, manage.drop);
