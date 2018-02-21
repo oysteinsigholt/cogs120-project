@@ -19,6 +19,7 @@ const wizard = require('./routes/wizard');
 const manage = require('./routes/manage');
 const login = require('./routes/login');
 const undo = require('./routes/undo');
+const ical = require('./routes/ical');
 
 const env = process.env.NODE_ENV || 'dev';
 
@@ -128,6 +129,7 @@ app.get('/wizard', (req, res) => {
 });
 app.post('/wizard', ensureLogin, wizard.post);
 app.post('/wizard/next', ensureLogin, wizard.next);
+app.get('/ical/:id', ical.view);
 
 app.get(
   '/login',
