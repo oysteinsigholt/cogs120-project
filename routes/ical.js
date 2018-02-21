@@ -8,7 +8,7 @@ exports.view = (req, res) => {
   builder.calname = 'UCSD Plan';
   builder.timezone = 'America/Los_Angeles';
   builder.tzid = 'America/Los_Angeles';
-  builder.method = 'REQUEST';
+  builder.method = 'PUBLISH';
 
   let userFile = null;
   try {
