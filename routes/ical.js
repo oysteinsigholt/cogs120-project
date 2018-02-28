@@ -3,6 +3,25 @@ const path = require('path');
 const resolvePath = require('resolve-path');
 const icalToolkit = require('ical-toolkit');
 
+function sendBlankFile(res) {
+  const builder = icalToolkit.createIcsFileBuilder();
+  builder.calname = 'UCSD Plan';
+  builder.timezone = 'America/Los_Angeles';
+  builder.tzid = 'America/Los_Angeles';
+  builder.method = 'PUBLISH';
+
+  const icsFileContent = builder.toString();
+  if (icsFileContent instanceof Error) {
+    console.log('ical failed!');
+  }
+  res.set({
+    'Content-Type': 'text/calendar',
+    'Content-disposition': 'attachment; filename=calendar.ics',
+  });
+
+  res.send(icsFileContent.replace(/UNTIL=;TZID=America\/Los_Angeles:/g, 'UNTIL='));
+}
+
 exports.view = (req, res) => {
   const builder = icalToolkit.createIcsFileBuilder();
   builder.calname = 'UCSD Plan';
@@ -15,14 +34,14 @@ exports.view = (req, res) => {
     userFile = resolvePath(path.resolve(__dirname, '..', 'data', 'users'), `${req.params.id}.json`);
   } catch (err) {
     console.log(err);
-    res.status(500).send(':(');
+    sendBlankFile(res);
     return;
   }
 
   jsonfile.readFile(userFile, (err, user) => {
     if (err) {
       console.log(err);
-      res.status(500).send(':(');
+      sendBlankFile(res);
       return;
     }
 
@@ -32,7 +51,7 @@ exports.view = (req, res) => {
         courseFile = resolvePath(path.resolve(__dirname, '..', 'data', 'courses'), `W18/${Object.keys(user.courses)[i]}.json`);
       } catch (err2) {
         console.log(err2);
-        res.status(500).send(':(');
+        sendBlankFile(res);
         return;
       }
       user.courses[Object.keys(user.courses)[i]].data = jsonfile.readFileSync(courseFile);

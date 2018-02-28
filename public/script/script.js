@@ -67,7 +67,7 @@ function confirmModal(question, yesText, noText, yes, optionalNo) {
 
 var loadTime = new Date();
 $(document).ready(() => {
-  $(".ical-download").click(function() {
+  $("#ical-download").click(function() {
     var time = Math.round((new Date().getTime() - loadtime.getTime())/1000);
     console.log("Downloaded ical afer " + time + " seconds");
     ga("send", "event", "ical-download", "click", "time", time);
