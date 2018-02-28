@@ -70,7 +70,7 @@ $(document).ready(() => {
   $("#ical-download").click(function() {
     var time = Math.round((new Date().getTime() - loadTime.getTime())/1000);
     console.log("Downloaded ical afer " + time + " seconds");
-    ga("send", "event", "ical-download", "click", "time", time);
+    ga("send", "event", "ical-download", "click");
   });
 
   $('.chips-autocomplete').on('keyup change keydown', function (e) {
