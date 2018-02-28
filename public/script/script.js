@@ -65,13 +65,12 @@ function confirmModal(question, yesText, noText, yes, optionalNo) {
   $('#confirm-modal').modal('open');
 }
 
+var loadTime = new Date();
 $(document).ready(() => {
   $(".ical-download").click(function() {
-    ga("send", "event", "ical-download", "click");
-  });
-
-  $(".sidenav").click(function() {
-    ga("send", "event", "sidenav", "click");
+    var time = Math.round((new Date().getTime() - loadtime.getTime())/1000);
+    console.log("Downloaded ical afer " + time + " seconds");
+    ga("send", "event", "ical-download", "click", "time", time);
   });
 
   $('.chips-autocomplete').on('keyup change keydown', function (e) {
