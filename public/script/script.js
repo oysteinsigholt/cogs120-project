@@ -66,6 +66,14 @@ function confirmModal(question, yesText, noText, yes, optionalNo) {
 }
 
 $(document).ready(() => {
+  $(".ical-download").click(function() {
+    ga("send", "event", "ical-download", "click");
+  });
+
+  $(".sidenav").click(function() {
+    ga("send", "event", "sidenav", "click");
+  });
+
   $('.chips-autocomplete').on('keyup change keydown', function (e) {
     if (e.which == 13) {
       return false;
