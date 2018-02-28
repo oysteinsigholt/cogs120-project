@@ -1,0 +1,15 @@
+.calendar {
+  display: flex;
+  flex-direction: row;
+
+  .event-column {
+    margin: 6px;
+    padding: 5px;
+    font-size: 12px;
+
+    span {
+      display: block;
+      padding: 1px;
+    }
+  }
+}
