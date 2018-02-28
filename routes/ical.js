@@ -39,8 +39,8 @@ exports.view = (req, res) => {
   }
 
   jsonfile.readFile(userFile, (err, user) => {
-    if (err) {
-      console.log(err);
+    if (err || !('courses' in user) || user.courses.length < 1) {
+      if (err) console.log(err);
       sendBlankFile(res);
       return;
     }
