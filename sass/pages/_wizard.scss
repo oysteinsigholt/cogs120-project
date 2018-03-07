@@ -1,0 +1,21 @@
+hr {
+  opacity: 0.5;
+  margin: 0;
+  margin-top: 10px;
+}
+
+.card {
+  padding: 0 !important;
+
+  .card-action {
+    border-top: 1px solid $divider-color;
+  }
+}
+
+.event-toggle {
+  bottom: 18px !important;
+}
+
+.event-toggle-description {
+  color: $divider-color;
+}
