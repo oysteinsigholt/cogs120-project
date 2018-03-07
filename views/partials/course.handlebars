@@ -32,7 +32,7 @@
     </div>
     <div class="event-row">
       {{#each this}}
-        <div class="event card-panel teal">
+        <div class="event card-panel {{colorCard ../../course.code type }}">
           <div class="card-content white-text">
             <p class="event-details event-time">{{ time }} <span class="event-details event-section">{{ section }}</span></p>
             <h5 class="event-title">{{unabbreviateType type }}</h5>
@@ -40,8 +40,8 @@
             <p class="event-details">{{#each instructors}}{{ this }} {{/each}}</p>
             <div class="switch">
               <label class="event-toggle">
-                <input type="checkbox" name="timeslot" class="section-{{ section }} filled-in white-box" value="{{ @key }}" {{isChecked @key ../../courseData }}>
-                <span></span>
+                <input type="checkbox" name="timeslot" class="section-{{ section }}" value="{{ @key }}" {{isChecked @key ../../courseData }}>
+                <span class="lever"></span>
               </label>
             </div>
           </div>
