@@ -128,8 +128,8 @@ app.get('/', ensureLogin, index.view);
 app.get('/about', about.view);
 app.get('/help', help.view);
 
-//app.get('/calendar', ensureLogin, calendar.view);
-//app.get('/calendar_b', ensureLogin, calendarB.view);
+app.get('/calendar_A', ensureLogin, calendar.view);
+app.get('/calendar_B', ensureLogin, calendarB.view);
 app.get('/calendar', ensureLogin, calendarB.view);
 
 app.get('/manage', ensureLogin, manage.view);
@@ -172,7 +172,7 @@ app.get(
         req.flash('info', `Welcome back, ${req.user.name.givenName}!`);
         res.redirect('/calendar');
       } else {
-        req.flash('info', `Welcome to UCSD Planner, ${req.user.name.givenName}! Add some courses to get started!`);
+        req.flash('info', `Welcome to UCSDPLAN, ${req.user.name.givenName}! Add some courses to get started!`);
         res.redirect('/');
       }
     });
