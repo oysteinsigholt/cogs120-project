@@ -128,8 +128,8 @@ app.get('/', ensureLogin, index.view);
 app.get('/about', about.view);
 app.get('/help', help.view);
 
-//app.get('/calendar', ensureLogin, calendar.view);
-//app.get('/calendar_b', ensureLogin, calendarB.view);
+app.get('/calendar_A', ensureLogin, calendar.view);
+app.get('/calendar_B', ensureLogin, calendarB.view);
 app.get('/calendar', ensureLogin, calendarB.view);
 
 app.get('/manage', ensureLogin, manage.view);
