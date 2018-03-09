@@ -17,10 +17,15 @@
       opacity: 0.87;
     }
 
+    .card-action {
+      height: 48px;
+    }
+
     .event-toggle {
-      position: absolute;
-      right: 12px;
-      bottom: 28px;
+      .lever {
+        position: absolute;
+        right: 6px;
+      }
     }
 
     .event-section {

@@ -40,10 +40,10 @@
             <p class="event-details">{{#each instructors}}{{ this }} {{/each}}</p>
           </div>
           <div class="card-footer card-action switch">
-            <span class="event-toggle-description">Tap to add to calendar</span>
             <label class="event-toggle">
               <input type="checkbox" name="timeslot" class="section-{{ section }}" value="{{ @key }}" {{isChecked @key ../../courseData }}>
               <span class="lever"></span>
+              <span class="event-toggle-description"></span>
             </label>
           </div>
         </div>

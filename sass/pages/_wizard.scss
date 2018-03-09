@@ -8,14 +8,26 @@ hr {
   padding: 0 !important;
 
   .card-action {
-    border-top: 1px solid $divider-color;
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
   }
 }
 
-.event-toggle {
-  bottom: 18px !important;
+input:not(:checked) ~ .event-toggle-description {
+  &::after {
+    content: 'Tap to add to calendar';
+  }
+}
+
+input:checked ~ .event-toggle-description {
+  &::after {
+    content: 'Added to calendar';
+  }
 }
 
 .event-toggle-description {
-  color: $divider-color;
+  color: white;
+  opacity: 0.87;
+  float: left;
+  font-size: 14px;
+  line-height: 14px;
 }
