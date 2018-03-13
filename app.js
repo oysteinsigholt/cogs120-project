@@ -27,7 +27,7 @@ const env = process.env.NODE_ENV || 'dev';
 let callbackURL = 'http://localhost:8080/auth/google/callback';
 
 if (env !== 'dev') {
-  callbackURL = 'https://a9-ucsdplan.herokuapp.com/auth/google/callback';
+  callbackURL = 'https://a10-ucsdplan.herokuapp.com/auth/google/callback';
 }
 
 function sumTxt(txt) {

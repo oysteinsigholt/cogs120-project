@@ -11,9 +11,13 @@
 #homepage-logo {
   z-index: -1;
   position: absolute;
-  top: 66%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
+
+  img {
+    max-width: 100%;
+  }
 }
 
 @media (orientation:landscape) {
